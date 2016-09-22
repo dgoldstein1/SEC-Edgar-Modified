@@ -1,0 +1,1760 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TFbvv5JOm1S5AfkekD849WKSw3IAhL9YC2VtC/Lojt8crhcD4iasl4xrzgyBmVI8
+ JqI1ZwysvyR+8Z0gMkCSfg==
+
+<SEC-DOCUMENT>0000950135-00-002888.txt : 20000516
+<SEC-HEADER>0000950135-00-002888.hdr.sgml : 20000516
+ACCESSION NUMBER:		0000950135-00-002888
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AKAMAI TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001086222
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				043432319
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-27275
+		FILM NUMBER:		635642
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 TECHNOLOGY SQ
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+		BUSINESS PHONE:		6172503000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 TECHNOLOGY SQ
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q DATED 03/31/00
+<TEXT>
+
+<PAGE>   1
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+                            ------------------------
+
+[X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934 FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2000.
+
+                                       OR
+
+[ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934.
+
+                         COMMISSION FILE NUMBER 0-27275
+
+                           AKAMAI TECHNOLOGIES, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+<TABLE>
+<S>                              <C>
+           DELAWARE                        04-3432319
+(STATE OR OTHER JURISDICTION OF         (I.R.S. EMPLOYER
+INCORPORATION OR ORGANIZATION)       IDENTIFICATION NUMBER)
+</TABLE>
+
+                             500 TECHNOLOGY SQUARE
+                              CAMBRIDGE, MA 02139
+                                 (617) 250-3000
+    (ADDRESS, INCLUDING ZIP CODE, AND TELEPHONE NUMBER, INCLUDING AREA CODE,
+                  OF REGISTRANT'S PRINCIPAL EXECUTIVE OFFICES)
+
+                            ------------------------
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ]
+
+     The number of shares outstanding of the registrant's Common Stock as of May
+1, 2000: 104,287,946 shares.
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>   2
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                                   FORM 10-Q
+                 FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2000
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                        PAGE
+                                                                        ----
+<S>       <C>                                                           <C>
+PART I.   FINANCIAL INFORMATION
+          Item 1.  Financial Statements...............................     2
+          Item 2.  Management's Discussion and Analysis of Financial
+          Condition and Results of Operations.........................     8
+          Item 3.  Quantitative and Qualitative Disclosures about
+          Market Risk.................................................    21
+PART II.  OTHER INFORMATION
+          Item 2.  Changes in Securities and Use of Proceeds..........    22
+          Item 6.  Exhibits and Reports on Form 8-K...................    22
+          Signatures..................................................    24
+</TABLE>
+
+                                        1
+<PAGE>   3
+
+                         PART I.  FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+
+                (in thousands, except share and per share data)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                              DECEMBER 31,     MARCH 31,
+                                                                  1999           2000
+                                                              ------------    -----------
+<S>                                                           <C>             <C>
+                                  ASSETS
+Current assets:
+  Cash and cash equivalents.................................    $269,554       $ 26,612
+  Short-term investments....................................          --        198,554
+  Accounts receivable, net of allowance for doubtful
+     accounts of $70 and $205 as of December 31, 1999 and
+     March 31, 2000, respectively...........................       1,588          3,136
+  Prepaid expenses and other current assets.................       2,521          8,778
+                                                                --------       --------
+     Total current assets...................................     273,663        237,080
+  Property and equipment, net...............................      23,875         43,475
+  Intangible assets, net....................................         434        186,874
+  Other assets..............................................       2,843          4,384
+                                                                --------       --------
+     Total assets...........................................    $300,815       $471,813
+                                                                ========       ========
+                   LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable..........................................    $  8,987       $ 17,071
+  Accrued expenses..........................................       2,083          7,026
+  Accrued payroll and benefits..............................       3,614          3,831
+  Deferred revenue..........................................         698          3,586
+  Current portion of obligations under capital lease and
+     equipment loan.........................................         504            588
+  Current portion of long-term debt.........................       2,751             64
+                                                                --------       --------
+     Total current liabilities..............................      18,637         32,166
+Obligations under capital leases and equipment loan, net of
+  current portion...........................................         733            682
+                                                                --------       --------
+     Total liabilities......................................      19,370         32,848
+                                                                --------       --------
+Stockholders' equity:
+  Preferred stock, $0.01 par value; 5,000,000 shares
+     authorized, no shares issued and outstanding at
+     December 31, 1999 and March 31, 2000...................          --             --
+  Common stock, $0.01 par value; 300,000,000 shares
+     authorized; 92,498,525 issued and outstanding at
+     December 31, 1999; 93,800,305 shares issued and
+     outstanding at March 31, 2000..........................         925            938
+  Additional paid-in capital................................     374,739        559,051
+  Notes receivable from officers for stock..................      (5,907)        (6,220)
+  Deferred compensation.....................................     (29,731)       (27,541)
+  Accumulated other comprehensive income....................          --          6,715
+  Accumulated deficit.......................................     (58,581)       (93,978)
+                                                                --------       --------
+     Total stockholders' equity.............................     281,445        438,965
+                                                                --------       --------
+     Total liabilities and stockholders' equity.............    $300,815       $471,813
+                                                                ========       ========
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        2
+<PAGE>   4
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                (in thousands, except share and per share data)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                              FOR THE THREE MONTHS
+                                                                      ENDED
+                                                                    MARCH 31,
+                                                              ---------------------
+                                                                1999        2000
+                                                              --------    ---------
+<S>                                                           <C>         <C>
+Revenue.....................................................  $    --     $  7,222
+                                                              -------     --------
+Operating expenses:
+  Cost of service...........................................      186        6,636
+  Engineering and development (excludes $60 and $1,108,
+     respectively, of equity related compensation disclosed
+     separately below)......................................      755        6,915
+  Sales, general and administrative (excludes $818 and
+     $1,082, respectively, of equity related compensation
+     disclosed separately below)............................    1,090       21,504
+  Amortization of intangible assets.........................       11        9,000
+  Equity related compensation...............................      878        2,189
+                                                              -------     --------
+     Total operating expenses...............................    2,920       46,244
+                                                              -------     --------
+Operating loss..............................................   (2,920)     (39,022)
+Interest income, net........................................       33        3,625
+                                                              -------     --------
+Net loss....................................................   (2,887)     (35,397)
+Dividends and accretion to preferred stock redemption
+  value.....................................................        4           --
+                                                              -------     --------
+Net loss attributable to common stockholders................  $(2,891)    $(35,397)
+                                                              =======     ========
+Basic and diluted net loss per share........................  $ (0.17)    $  (0.47)
+Weighted average common shares outstanding..................   17,045       75,029
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        3
+<PAGE>   5
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (in thousands)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                 FOR THE THREE MONTHS ENDED
+                                                                         MARCH 31,
+                                                              --------------------------------
+                                                                   1999              2000
+                                                              --------------    --------------
+<S>                                                           <C>               <C>
+Cash flows from operating activities:
+  Net loss..................................................     $(2,887)         $ (35,397)
+  Adjustments to reconcile net loss to net cash used in
+    operating activities:
+    Depreciation and amortization...........................         168             12,062
+    Amortization of deferred compensation...................         878              2,190
+    Interest on notes receivable from officers for stock....          --                (85)
+    Changes in operating assets and liabilities, net of
+      effects of acquisition of Network24:
+      Accounts receivable...................................          --             (1,240)
+      Prepaid expenses and other assets.....................        (428)            (7,742)
+      Accounts payable and accrued expenses.................        (144)            12,653
+      Deferred revenue......................................          --              2,889
+                                                                 -------          ---------
+Net cash used in operating activities.......................      (2,413)           (14,670)
+                                                                 -------          ---------
+Cash flows from investing activities:
+  Purchases of property and equipment.......................        (955)           (22,087)
+  Cash paid for acquisition of Network24, net of cash
+    received................................................          --            (11,716)
+  Purchase of investments...................................        (475)          (191,834)
+                                                                 -------          ---------
+Net cash used in investing activities.......................      (1,430)          (225,637)
+                                                                 -------          ---------
+Cash flows from financing activities:
+  Proceeds from equipment financing loan....................       1,500                 --
+  Payments on capital leases and equipment financing loan...         (69)              (126)
+  Payment on the senior subordinated notes..................          --             (2,687)
+  Proceeds from the exercise of stock options...............          --                184
+  Proceeds from the issuance of restricted common stock.....         293                 --
+                                                                 -------          ---------
+Net cash provided by (used in) financing activities.........       1,724             (2,629)
+                                                                 -------          ---------
+Effects of translation on cash and cash equivalents.........          --                 (6)
+                                                                 -------          ---------
+Net decrease in cash and cash equivalents...................      (2,119)          (242,942)
+Cash and cash equivalents, beginning of the period..........       6,805            269,554
+                                                                 -------          ---------
+Cash and cash equivalents, end of the period................     $ 4,686          $  26,612
+                                                                 =======          =========
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        4
+<PAGE>   6
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (unaudited)
+
+1.  NATURE OF BUSINESS
+
+     Akamai Technologies, Inc. ("Akamai" or the "Company") provides global
+delivery services for Internet content, streaming media and applications that
+improves Web site speed, quality, reliability and scaleability and protects
+against Web site crashes due to demand overloads. Akamai markets its services to
+large businesses and other businesses with an Internet focus. Akamai's services
+deliver Akamai's customers' Web content and applications through a worldwide
+server network by locating the content and applications geographically closer to
+users.
+
+     The Company has a single operating segment, global delivery services for
+Internet content, streaming media and applications. The Company has no
+organizational structure dictated by product lines, geography or customer type.
+Substantially all revenue earned to date has been generated from U.S. based
+customers.
+
+2.  BASIS OF PRESENTATION
+
+     The accompanying unaudited consolidated financial statements have been
+prepared by the Company and reflect all adjustments, consisting only of normal
+recurring adjustments, which in the opinion of management are necessary for a
+fair statement of the results for the interim periods. The consolidated
+financial statements have been prepared in accordance with the regulations of
+the Securities and Exchange Commission ("SEC"), but omit certain information and
+footnote disclosure necessary to present the statements in accordance with
+generally accepted accounting principles for annual financial statements.
+Results for the interim periods are not necessarily indicative of results for
+the entire fiscal year. These statements should be read in conjunction with the
+consolidated financial statements and related footnotes included in the
+Company's Annual Report on Form 10-K for the year ended December 31, 1999.
+
+     The consolidated financial statements include the accounts of Akamai and
+its wholly-owned subsidiaries. All significant intercompany transactions and
+balances have been eliminated.
+
+3.  CASH, CASH EQUIVALENTS, AND SHORT-TERM INVESTMENTS
+
+     Cash and cash equivalents consist of cash held in bank deposit accounts and
+short-term, highly liquid investments with original maturities of three months
+or less at the date of purchase. Cash equivalents are carried at cost, which
+approximates fair market value. Short-term investments consist of high quality
+corporate and governmental securities with original maturities of more than
+three months at the date of purchase. The Company considers such securities to
+be classified as "available-for-sale" in accordance with Statement of Financial
+Accounting Standards No. 115, "Accounting for Certain Investments in Debt and
+Equity Securities." Short-term investments are carried at fair market value with
+any unrealized gain or loss recorded as a separate element of stockholders'
+equity.
+
+4.  NET LOSS PER SHARE
+
+     Basic net loss per share is computed using the weighted average number of
+common shares outstanding during the period. Dilutive net loss per share is
+computed using the weighted average number of common shares outstanding during
+the period, plus the dilutive effect of potential common stock. Potential common
+stock consists of convertible preferred stock, unvested restricted common stock,
+stock options and warrants. All potential common stock have been excluded from
+the calculation of diluted loss per share since its inclusion would be
+anti-dilutive.
+
+                                        5
+<PAGE>   7
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                  (unaudited)
+
+     The following table sets forth potential common stock excluded from the
+calculation of earnings per share since its inclusion would be antidilutive:
+
+<TABLE>
+<CAPTION>
+                                                              QUARTER ENDED MARCH 31,
+                                                           ------------------------------
+                                                               1999             2000
+                                                           -------------    -------------
+<S>                                                        <C>              <C>
+Stock options............................................    7,217,400       14,062,343
+Unvested restricted common stock.........................   22,879,524       16,110,879
+Convertible preferred stock..............................   19,800,000               --
+Warrants.................................................           --        2,033,621
+</TABLE>
+
+4.  COMPREHENSIVE LOSS
+
+     The following table presents the calculation of comprehensive loss and its
+components for the three months ended March 31, 1999 and 2000 (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                    MARCH 31,
+                                                              ----------------------
+                                                                1999         2000
+                                                              ---------    ---------
+<S>                                                           <C>          <C>
+Net loss....................................................   $(2,887)    $(35,397)
+Other comprehensive income (loss):
+  Cumulative foreign currency translation adjustment........        --           (5)
+  Unrealized gain on investment.............................        --        6,720
+                                                               -------     --------
+Comprehensive loss..........................................   $(2,887)    $(28,682)
+                                                               =======     ========
+</TABLE>
+
+5.  ACQUISITIONS
+
+NETWORK24 COMMUNICATIONS, INC.
+
+     In February 2000, the Company acquired all of the outstanding common and
+preferred stock of Network24 Communications Inc. ("Network24") in exchange for
+599,152 shares of Akamai common stock and $12.5 million in cash. Akamai also
+issued options and warrants exercisable for 195,862 shares of Akamai's common
+stock in exchange for all outstanding options and warrants exercisable for
+Network24 common stock. The value of the acquisition was approximately $198.2
+million based on the fair value of the consideration paid plus direct
+acquisition costs. The acquisition has been accounted for using the purchase
+method. Accordingly, the results of operations of Network24 subsequent to
+February 10, 2000 have been included in Akamai's statement of operations for the
+three months ended March 31, 2000. Pro forma financial information combining the
+results of operations of Akamai and Network24 as if the acquisition had occurred
+at the beginning of the quarter ended March 31, 1999 and 2000 would not be
+significantly different than the reported actual amounts.
+
+INTERVU INC.
+
+     In April 2000, the Company acquired all of the outstanding common and
+preferred stock of INTERVU Inc. ("INTERVU") in exchange for 9.9 million shares
+of Akamai common stock. Akamai also assumed options and warrants exercisable for
+2.1 million shares of Akamai's common stock. The value of the acquisition is
+estimated to be approximately $2.8 billion based on the fair value of the
+consideration paid plus direct acquisition costs. The acquisition will be
+accounted for using the purchase method.
+
+                                        6
+<PAGE>   8
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                  (unaudited)
+
+6.  RECENT ACCOUNTING PRONOUNCEMENTS
+
+     In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin ("SAB") No. 101, "Revenue Recognition in Financial
+Statements," as amended by SAB No. 101A, which is effective no later than the
+quarter ending June 30, 2000. SAB No. 101 clarifies the Securities and Exchange
+Commission's views regarding the recognition of revenue. Akamai will adopt SAB
+No. 101 in the second quarter of 2000. Akamai does not expect the application of
+SAB No. 101 to have a material impact on their financial position or results of
+operations.
+
+     In March 2000, the Financial Accounting Standard Board issued FASB
+Interpretation ("FIN") No. 44, "Accounting for Certain Transactions Involving
+Stock Compensation -- an Interpretation of APB Opinion No. 25." FIN No. 44
+primarily clarifies (a) the definition of an employee for purposes of applying
+APB Opinion No. 25, (b) the criteria for determining whether a plan qualifies as
+a noncompensatory plan, (c) the accounting consequence of various modifications
+to the terms of previously fixed stock options or awards, and (d) the accounting
+for an exchange of stock compensation awards in a business combination. FIN No.
+44 is effective July 1, 2000, but certain conclusions in FIN No. 44 cover
+specific events that occurred after either December 15, 1998 or January 12,
+2000. Akamai does not expect the application of FIN No. 44 to have a material
+impact on its financial position or results of operations.
+
+                                        7
+<PAGE>   9
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+
+     This Form 10-Q contains forward-looking statements within the meaning of
+Section 21E of the Securities Exchange Act of 1934, as amended. For this
+purpose, statements contained herein that are not statements of historical fact
+may be deemed to be forward-looking statements. Without limiting the foregoing,
+the words "believes," "anticipates," "plans," "expects" and similar expressions
+are intended to identify forward-looking statements. These forward-looking
+statements involve risks and uncertainties and are not guarantees of future
+performance. Actual results may differ materially from those indicated in such
+forward-looking statements as a result of certain factors including, but not
+limited to, those set forth under the heading "Factors Affecting Future
+Operating Results."
+
+OVERVIEW
+
+     Akamai provides global delivery services for Internet content, streaming
+media and applications that improve Web site speed, quality, reliability and
+scaleability and protect against Web site crashes due to demand overloads.
+Akamai markets its services to large businesses and other businesses with an
+Internet focus. Akamai's services deliver Akamai's customers' Web content and
+applications through a worldwide server network by locating the content and
+applications geographically closer to users.
+
+     Since Akamai's inception, Akamai has incurred significant losses, and as of
+March 31, 2000, Akamai had an accumulated deficit of $94.0 million. Akamai has
+not achieved profitability on a quarterly or an annual basis, and anticipates
+that it will continue to incur net losses. Akamai expects to incur significant
+engineering and development and sales, general and administrative expenses and,
+as a result, Akamai will need to generate significant revenue for it to achieve
+and maintain profitability.
+
+     In the first quarter, Akamai entered into agreements to acquire all the
+outstanding common and preferred stock of Network24 Communications, Inc.
+("Network24") and INTERVU Inc. ("INTERVU"). Both of these companies were
+acquired to accelerate market leadership in streaming media. The Network24
+acquisition was consummated on February 10, 2000 in exchange for 599,152 shares
+of Akamai common stock and $12.5 million in cash. The INTERVU acquisition was
+consummated on April 20, 2000 in exchange of 9.9 million shares of Akamai common
+stock. The results of operations of Network24 subsequent to February 10, 2000
+have been included in Akamai's statement of operations for the three months
+ended March 31, 2000. The INTERVU acquisition is not reflected in the
+consolidated financial statements for the quarter ended March 31, 2000. Both
+acquisitions are accounted for using the purchase method of accounting.
+
+     Akamai derives its revenue from the sale of its FreeFlow and FreeFlow
+Streaming services and other services under contracts with terms typically
+ranging from 12 to 36 months. Akamai recognizes revenue based on fees for the
+amount of Internet content delivered through its services. These contracts also
+provide for minimum monthly fees. Customers are typically billed monthly in
+advance for minimums and monthly in arrears for usage above the minimums. Akamai
+also derives revenue for implementation, installation, usage and other fees that
+would be recognized over the period of the related contracts.
+
+     To date, substantially all of Akamai's revenue has been derived from
+customers based in the United States. Akamai expects that revenue from customers
+based outside the United States will increase in future periods. To date,
+substantially all of Akamai's revenue has been derived from direct sales and
+Akamai expects that revenue through indirect distribution channels will increase
+in future periods. For the three months ended March 31, 2000, Apple Computer
+accounted for 21% of Akamai's revenue. No other customers account for more than
+5% of revenue for the quarter ended March 31, 2000.
+
+     Cost of services consists of depreciation of network equipment used in
+providing Akamai's services, monthly fees paid to network providers for
+bandwidth and colocation of Akamai's servers. Akamai enters into contracts with
+third-party network providers with terms typically ranging from six months to
+three years. These contracts may commit Akamai to minimum monthly fees plus
+additional fees for bandwidth usage above Akamai's contracted level.
+
+     Engineering and development expenses consist primarily of salaries and
+related personnel costs and costs related to the design, development, testing,
+deployment and enhancement of Akamai's services and Akamai's
+
+                                        8
+<PAGE>   10
+
+network. Akamai has to date expensed its engineering and development costs as
+incurred. Akamai believes that research and development is critical to its
+strategic product development objectives and intends to continue to enhance its
+technology to meet the changing requirements of the market demand. As a result,
+Akamai expects its engineering and development expenses to increase in the
+future.
+
+     Sales, general and administrative expenses consist primarily of salaries
+and related costs of sales and marketing, operations and finance personnel and
+recruiting expenses, professional fees and legal and accounting services. Akamai
+expects that sales, general and administrative expenses will increase in the
+future as Akamai hires additional personnel, expands its operations, initiates
+additional marketing programs, establishes sales offices in new locations and
+incurs additional costs related to the growth of its business and its operations
+as a public company.
+
+RESULTS OF OPERATIONS
+
+     Revenue. Akamai recorded no revenue for the three months ended March 31,
+1999. Revenue for the three months ended March 31, 2000 was $7.2 million. The
+increase in revenue was due to sales of services, which were commercially
+introduced in April 1999. The revenue attributable to the acquisition of
+Network24 was not significant for the quarter ended March 31, 2000.
+
+     Cost of Service. Cost of service expense was $186,000 for the three months
+ended March 31, 1999 and represented 6.4% of total operating expenses. Cost of
+service expense was $6.6 million for the three months ended March 31, 2000 and
+represented 14.4% of total operating expenses for the three months ended March
+31, 2000. The increase in cost of service expense was due to the commencement of
+testing of Akamai's FreeFlow service in early 1999 and commercial introduction
+of services in April 1999. Gross margins, defined as revenue less cost of
+service, were negative for the three months ended March 31, 1999 largely due to
+the fixed cost of building a global network of servers. Gross margins were
+positive for the quarter ended March 31, 2000 due to an increase in the number
+of customers and volume of revenue relative to the growth in network
+infrastructure. The average selling price of Akamai's services as measured in
+dollars per Mega bits per second, or Mbps, exceeds Akamai's average cost of
+bandwidth as measured in dollars per Mbps. While gross margins are expected to
+increase over time, fluctuations are possible as fixed costs increase due to the
+rapid expansion of the Company's global network of servers.
+
+     Engineering and Development. Engineering and development expenses were
+$755,000 for the three months ended March 31, 1999 and represented 25.9% of
+total operating expenses in the three months ended March 31, 1999. Engineering
+and development expenses were $6.9 million for the three months ended March 31,
+2000 and represented 15.0% of total operating expenses for the three months
+ended March 31, 2000. The increase was attributable to personnel and payroll
+related expenses resulting from an increase in headcount. Akamai's West Coast
+office had 49 research and development employees as of March 31, 2000.
+
+     Sales, General and Administrative. Sales, general and administrative
+expenses were $1.1 million for the three months ended March 31, 1999 and
+represented 37.3% of total operating expenses in the three months ended March
+31, 1999. Sales, general and administrative expenses for the three months ended
+March 31, 2000 were $21.5 million and represented 46.5% of total operating
+expenses for the three months ended March 31, 2000. Approximately $8.2 million
+of the increase was due to sales, general and administrative personnel and
+payroll related expenses resulting from an increase in headcount. Approximately
+$3.5 million of the increase was attributable to advertising campaigns initiated
+during the period.
+
+     Amortization of Intangible Assets. Amortization of intangible assets for
+the three months ended March 31, 2000 was $9.0 million and represented 19.5% of
+total operating expenses for the three months ended March 31, 2000. The expense
+primarily relates to the acquisition of Network24 and the associated
+amortization of intangible assets acquired as part of the acquisition. These
+intangible assets are being amortized on a straight-line basis over three years.
+The Company expects amortization of intangible assets to increase by
+approximately $125.0 million per quarter as a result of the acquisition of
+INTERVU.
+
+     Equity Related Compensation. Equity related compensation expense consist of
+the amortization of deferred compensation resulting from the grant of stock
+options or shares of restricted stock at exercise or sale prices deemed to be
+less than the fair value of the common stock on the grant date. At March 31,
+2000, deferred compensation, which is a component of stockholders' equity, was
+$27.5 million. This amount is being
+
+                                        9
+<PAGE>   11
+
+amortized ratably over the vesting periods of the applicable stock options and
+restricted shares, typically four years, with 25% vesting on the first
+anniversary of the grant date and the balance vesting 6.25% quarterly
+thereafter. Akamai expects to incur equity related compensation expenses of at
+least $8.7 million in 2000, $8.7 million in 2001, $8.7 million in 2002 and $3.6
+million in 2003.
+
+     Interest Income, Net. Interest income, net was $33,000 and $3.6 million for
+the three months ended March 31, 1999 and 2000, respectively. Interest income,
+net consists of interest earned on Akamai's cash, cash equivalent and short-term
+investment balances, net of interest expense. Interest income increased in 2000
+due to interest on proceeds from the sale of preferred stock in several private
+placements and the sale of common stock in Akamai's initial public offering
+during 1999.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Initially, Akamai financed its operations primarily through private sales
+of its capital stock and issuance of senior subordinated notes. In November
+1999, Akamai sold shares of common stock through an initial public offering. The
+net proceeds to Akamai from the offering were $217.6 million after deducting an
+aggregate of $16.4 million in underwriting discounts and commissions to the
+underwriters. Akamai has also financed its operations through borrowings under
+long-term debt agreements for the purchase of capital equipment in the amount of
+$1.5 million. At March 31, 2000, cash, cash equivalents and short-term
+investments totaled $225.2 million.
+
+     Cash used in operating activities was $2.4 million for the three months
+ended March 31, 1999 and $14.7 million for the three months ended March 31,
+2000. Net cash flows used in operating activities for the three months ended
+March 31, 2000 reflects increasing net losses partially offset by increases in
+accounts payable, depreciation and amortization and accrued expenses.
+
+     Cash used in investing activities was $1.4 million for the three months
+ended March 31, 1999 and $225.6 million for the three months ended March 31,
+2000. Net cash used for investing activities in the current period reflects
+purchases of short-term investments. Purchases of property and equipment,
+consisting primarily of servers for deployment and expansion of Akamai's
+network, information systems used to operate the business, and facilities
+improvements of $22.1 million. Also during the current quarter Akamai made a net
+cash payment of $11.7 million for the acquisition of Network24. Akamai also
+invested $5.0 million in the preferred stock of an Internet company which was
+converted to common stock upon the completion of the company's initial public
+offering.
+
+     Cash provided by financing activities was $1.7 million for the three months
+ended March 31, 1999 and cash used in financing activities was $2.6 million for
+the three months ended March 31, 2000. Cash provided by financing activities for
+the three months ended March 31, 1999 was derived primarily from an equipment
+line of credit of $1.5 million, collateralized by the property and equipment,
+which bears interest at the greater of 7.0% per year or the current 36 month
+treasury yield plus 275 basis points. At March 31, 2000, approximately $1.0
+million was outstanding under this line of credit. In December 1999, Akamai
+exercised its right to pay off outstanding 15% subordinated demand notes of
+which $12.2 million was paid in December 1999. During the quarter ended March
+31, 2000 $2.7 million was paid. As of March 31, 2000, $64,000 remained
+outstanding and is expected to be paid off in the second quarter of fiscal 2000.
+
+     Akamai believes that the net proceeds from the initial public offering,
+together with its current cash, cash equivalents and short-term investments,
+will be sufficient to meet its anticipated cash needs for working capital and
+capital expenditures for at least the next 12 months. If cash generated from
+operations is insufficient to satisfy Akamai's liquidity requirements, it may
+seek to sell additional equity or debt securities. If additional funds are
+raised through the issuance of debt securities, these securities could have
+rights, preferences and privileges senior to those accruing to holders of common
+stock, and the term of this debt could impose restrictions on Akamai's
+operations. The sale of additional equity or convertible debt securities could
+result in additional dilution to Akamai's stockholders, and Akamai cannot be
+certain that additional financing will be available in amounts or on terms
+acceptable to Akamai, if at all. If Akamai is unable to obtain this additional
+
+                                       10
+<PAGE>   12
+
+financing, it may be required to reduce the scope of its planned technology,
+services or product development and sales and marketing efforts, which could
+harm its business, financial condition and operating results.
+
+     Akamai has designed its services for use in the year 2000 and beyond and
+believes it is year 2000 ready. While Akamai has not experienced any year 2000
+issues to date, Akamai has developed a contingency plan to address situations
+that may result if it experiences significant year 2000 problems. As part of
+Akamai's contingency plan, it maintains a fully operational back-up site and
+conducts network monitoring 24 hours per day. Akamai's back-up site is located
+at one of its server sites and is equipped with power generation and
+communication alternatives.
+
+     Akamai's services are used in conjunction with larger networks involving
+sophisticated hardware and software products supplied by other vendors. Each of
+Akamai's customers' networks involves different combinations of third-party
+products. Akamai cannot evaluate whether all of these products are year 2000
+ready. Akamai may face claims based on year 2000 problems in other companies'
+products or based on issues arising from the integration of multiple products
+within the overall network. Although no claims of this kind have been made,
+Akamai may in the future be required to defend its services in legal proceedings
+which could be expensive regardless of the merits of these claims.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+     In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin ("SAB") No. 101, "Revenue Recognition in Financial
+Statements," as amended by SAB No. 101A, which is effective no later than the
+quarter ending June 30, 2000. SAB No. 101 clarifies the Securities and Exchange
+Commission's views regarding the recognition of revenue. Akamai will adopt SAB
+No. 101 in the second quarter of 2000. Akamai does not expect the application of
+SAB No. 101 to have a material impact on their financial position or results of
+operations.
+
+     In March 2000, the Financial Accounting Standard Board issued FASB
+Interpretation ("FIN") No. 44, "Accounting for Certain Transactions Involving
+Stock Compensation -- an Interpretation of APB Opinion No. 25." FIN No. 44
+primarily clarifies (a) the definition of an employee for purposes of applying
+APB Opinion No. 25, (b) the criteria for determining whether a plan qualifies as
+a noncompensatory plan, (c) the accounting consequence of various modifications
+to the terms of previously fixed stock options or awards, (d) and the accounting
+for an exchange of stock compensation awards in a business combination. FIN No.
+44 is effective July 1, 2000, but certain conclusions in FIN No. 44 cover
+specific events that occurred after either December 15, 1998 or January 12,
+2000. Akamai does not expect the application of FIN No. 44 to have a material
+impact on their financial position or results of operations.
+
+FACTORS AFFECTING FUTURE OPERATING RESULTS
+
+     The following important factors, among other things, could cause Akamai's
+actual operating results to differ materially from those indicated or suggested
+by forward-looking statements made in this Form 10-Q or presented elsewhere by
+management from time to time.
+
+AKAMAI'S BUSINESS IS DIFFICULT TO EVALUATE BECAUSE IT HAS A LIMITED OPERATING
+HISTORY.
+
+     Akamai was founded in August 1998 and began offering its services
+commercially in April 1999. Akamai has limited meaningful historical financial
+data upon which to base planned operating expenses and upon which investors may
+evaluate it and its prospects. In addition, Akamai's operating expenses are
+largely based on anticipated revenue trends and a high percentage of its
+expenses are and will continue to be fixed in the short-term. Risks and
+difficulties are frequently encountered by companies like Akamai in a new and
+rapidly evolving market. Akamai's ability to sell its services and the level of
+success it achieves depends, among other things, on the level of demand for
+delivery services for graphics, streaming media, applications and other Internet
+content, which is a new and rapidly evolving market. Akamai's business strategy
+may be unsuccessful, and it may not successfully address the risks it faces.
+
+                                       11
+<PAGE>   13
+
+AKAMAI IS ENTIRELY DEPENDENT ON ITS INTERNET CONTENT DELIVERY SERVICES AND ITS
+FUTURE REVENUE DEPENDS ON THE COMMERCIAL SUCCESS OF ITS SERVICES.
+
+     Currently, Akamai's future growth depends on the commercial success of its
+Internet content delivery services and other services and products it may
+develop and/or offer. While Akamai has been selling its services commercially
+since April 1999, sales may not continue in the future. Akamai's other services
+and products under development may not achieve widespread market acceptance. The
+future revenue growth of FreeFlow Streaming will also depend, in part, on
+customer acceptance of a combined or integrated Akamai/INTERVU service offering.
+Failure of Akamai's current and planned services to operate as expected could
+hinder or prevent their adoption. If Akamai's target customers do not adopt,
+purchase and successfully deploy Akamai's current and planned services, Akamai's
+revenue will not grow significantly and its business, results of operations and
+financial condition will be seriously harmed. In addition, to the extent Akamai
+promotes any portion of its technology as an industry standard by making it
+readily available to users for little or no charge, Akamai may not receive
+revenue that it might otherwise have received.
+
+THE INTERNET CONTENT DELIVERY MARKET IS NEW AND AKAMAI'S BUSINESS WILL SUFFER IF
+IT DOES NOT DEVELOP AS AKAMAI EXPECTS.
+
+     The market for Internet content delivery services is new. Akamai cannot be
+certain that a broad-based market for its service will emerge or be sustainable.
+If this market does not develop, or develops more slowly than Akamai expects,
+its business, results of operations and financial condition will be seriously
+harmed.
+
+ANY FAILURE OF AKAMAI'S NETWORK INFRASTRUCTURE COULD LEAD TO SIGNIFICANT COSTS
+AND DISRUPTIONS WHICH COULD REDUCE AKAMAI'S REVENUE AND HARM ITS BUSINESS,
+FINANCIAL RESULTS AND REPUTATION.
+
+     Akamai's business is dependent on providing its customers with fast,
+efficient and reliable Internet content delivery services. To meet these
+customer requirements Akamai must protect its network infrastructure against
+damage from:
+
+     - sabotage and vandalism;
+
+     - human error;
+
+     - physical or electronic intrusion and security breaches;
+
+     - fire, earthquake, flood and other natural disasters;
+
+     - power loss; and
+
+     - similar events.
+
+     Despite the efforts of Akamai, its network infrastructure may come under
+attack by sabotage or vandalism. In addition, the occurrence of a natural
+disaster or other unanticipated problems at one or more of Akamai's servers
+could result in service interruptions or significant damage to equipment. Akamai
+currently provides a FreeFlow service guarantee that its networks will deliver
+Internet content 24 hours a day, seven days a week, 365 days a year. If Akamai
+does not provide this service, the customer does not pay for its services on
+that day. Any widespread loss or interruption of services would reduce its
+revenue, and could harm its business, financial results and reputation.
+
+BECAUSE AKAMAI'S INTERNET CONTENT DELIVERY SERVICES ARE COMPLEX AND ARE DEPLOYED
+IN COMPLEX ENVIRONMENTS, THEY MAY HAVE ERRORS OR DEFECTS THAT COULD SERIOUSLY
+HARM ITS BUSINESS.
+
+     Akamai's Internet content delivery services are highly complex and are
+designed to be deployed in and across numerous large and complex networks. As of
+March 31, 2000, Akamai's network consisted of over 2,800 servers. Akamai and its
+customers have also from time to time discovered errors and defects in Akamai's
+software. In the future, there may be additional errors and defects in Akamai's
+software that may adversely
+
+                                       12
+<PAGE>   14
+
+affect its services. If Akamai is unable to efficiently fix errors or other
+problems that may be identified, Akamai could experience:
+
+     - loss of or delay in revenues and loss of market share;
+
+     - loss of customers;
+
+     - failure to attract new customers or achieve market acceptance;
+
+     - diversion of development and engineering resources;
+
+     - loss of credibility or damage to business reputation;
+
+     - increased service costs; and
+
+     - legal actions by Akamai's customers.
+
+ANY FAILURE OF AKAMAI'S TELECOMMUNICATIONS AND NETWORK PROVIDERS TO PROVIDE
+REQUIRED TRANSMISSION CAPACITY TO AKAMAI COULD RESULT IN INTERRUPTIONS IN
+AKAMAI'S SERVICE.
+
+     Akamai's operations are dependent in part upon transmission capacity
+provided by third-party telecommunications network providers. Any failure of
+such network providers to provide the capacity Akamai requires may result in a
+reduction in, or interruption of, service to Akamai's customers. This failure
+may be a result of the telecommunications providers or Internet service
+providers experiencing interruptions or other failures, failing to comply with
+or terminating their existing agreements with Akamai, or otherwise denying or
+interrupting service or not entering into relationships with Akamai at all or on
+terms commercially acceptable to Akamai. If Akamai does not have access to
+third-party transmission capacity, Akamai could lose customers. If Akamai is
+unable to obtain such capacity on terms commercially acceptable to Akamai,
+Akamai's business and financial results, could suffer.
+
+THE MARKETS IN WHICH AKAMAI OPERATES ARE HIGHLY COMPETITIVE AND AKAMAI MAY BE
+UNABLE TO COMPETE SUCCESSFULLY AGAINST NEW ENTRANTS AND ESTABLISHED COMPANIES
+WITH GREATER RESOURCES.
+
+     Akamai competes in markets that are new, intensely competitive, highly
+fragmented and rapidly changing. Akamai has experienced and expects to continue
+to experience increased competition. Many of Akamai's current competitors, as
+well as a number of Akamai's potential competitors, have longer operating
+histories, greater name recognition and substantially greater financial,
+technical and marketing resources than Akamai does. Some of Akamai's current or
+potential competitors have the financial resources to withstand substantial
+price competition. Moreover, many of Akamai's competitors have more extensive
+brand recognition, customer bases, broader customer relationships and broader
+industry alliances that they could use to their advantage in competitive
+situations, including relationships with many of Akamai's current and potential
+customers. Akamai's competitors may be able to respond more quickly than Akamai
+can to new or emerging technologies and changes in customer requirements. Some
+of Akamai's current or potential competitors may bundle their services with
+other services, software or hardware in a manner that may discourage Web site
+owners from purchasing any service Akamai offers or Internet service providers
+from installing Akamai's servers.
+
+     As competition in the Internet content delivery market continues to
+intensify, new solutions will come to market. Akamai is aware of other companies
+that are focusing or may in the future focus significant resources on developing
+and marketing products and services that will compete with Akamai. Akamai also
+believes that it may face competition from other providers of competing Internet
+content delivery services, including networking hardware and software
+manufacturers, content distribution providers, traditional hardware
+manufacturers, telecommunications providers, software database companies, and
+large diversified software and technology companies. Increased competition could
+result in:
+
+     - price and revenue reductions and lower profit margins;
+
+     - increased cost of service from telecommunications providers;
+
+                                       13
+<PAGE>   15
+
+     - loss of customers; and
+
+     - loss of market share.
+
+     Any one of these could materially and adversely affect Akamai's business,
+financial condition and results of operations.
+
+AS PART OF AKAMAI'S BUSINESS STRATEGY, AKAMAI HAS AND MAY ENTER INTO OR SEEK TO
+ENTER INTO BUSINESS COMBINATIONS AND ACQUISITIONS WHICH MAY BE DIFFICULT TO
+INTEGRATE, DISRUPT AKAMAI'S BUSINESS, DILUTE STOCKHOLDER VALUE OR DIVERT
+MANAGEMENT ATTENTION.
+
+     Akamai acquired Network24 in February 2000 and INTERVU in April 2000. As a
+part of Akamai's business strategy, Akamai may enter into additional business
+combinations and acquisitions. Acquisitions are typically accompanied by a
+number of risks, including:
+
+     - the difficulty of integrating the operations and personnel of the
+       acquired companies;
+
+     - the maintenance of acceptable standards, controls, procedures and
+       policies;
+
+     - the potential disruption of Akamai's ongoing business and distraction of
+       management;
+
+     - the impairment of relationships with employees and customers as a result
+       of any integration of new management personnel;
+
+     - the difficulty of incorporation of acquired technology and rights into
+       Akamai's products and services;
+
+     - expenses related to the acquisition;
+
+     - potential unknown liabilities associated with acquired businesses; and
+
+     - unanticipated expenses related to acquired technology and its integration
+       into existing technology.
+
+     If Akamai is not successful in completing acquisitions that it may pursue
+in the future, Akamai would be required to reevaluate its growth strategy and
+may have incurred substantial expenses and spent significant management time and
+resources in seeking to complete the acquisition. In addition, with future
+acquisitions, Akamai could use substantial portions of its available cash as all
+or a portion of the purchase price. Akamai could also issue additional
+securities as consideration for these acquisitions, which could cause its
+stockholders to suffer significant dilution. Akamai's acquisition of Network24,
+and of INTERVU and any future acquisitions, may not generate any additional
+revenue and may pose risks to Akamai.
+
+A SIGNIFICANT DECLINE IN SALES TO APPLE COMPUTER COULD REDUCE AKAMAI'S REVENUE
+AND CAUSE ITS BUSINESS AND FINANCIAL RESULTS TO SUFFER.
+
+     Akamai entered into a strategic alliance with Apple Computer, Inc.
+effective as of April 1, 1999. Sales of its service to Apple Computer
+represented approximately 21% of Akamai's revenue for the three months ended
+March 31, 2000. Akamai expects that sales to Apple Computer as a percentage of
+total sales will decrease, but that during calendar 2000 sales to Apple Computer
+will continue to represent a significant portion of its revenue. Apple Computer
+has the right to terminate the agreement on short notice if Akamai materially
+breaches the agreement. A significant decline in sales to Apple Computer could
+reduce Akamai's revenue and cause Akamai's business and financial results to
+suffer.
+
+IF ANY OF AKAMAI'S STRATEGIC ALLIANCES TERMINATES, THEN AKAMAI'S BUSINESS COULD
+BE ADVERSELY AFFECTED.
+
+     Akamai entered into strategic alliances with Apple Computer effective as of
+April 1, 1999, with Cisco Systems, Inc. in August 1999 and with Microsoft
+Corporation in September 1999. Under each of these agreements, Akamai is seeking
+to jointly develop technology, services and/or products with its strategic
+alliance partners and Akamai may not be successful. The strategic alliance with
+Cisco may be terminated by Cisco or Akamai on short notice for any reason. The
+strategic alliance with Apple Computer may be terminated by Apple Computer or
+Akamai if the other party materially breaches the agreement, and the strategic
+alliance with Microsoft may be terminated by Microsoft or Akamai if the other
+party materially
+
+                                       14
+<PAGE>   16
+
+breaches the agreement. A termination of, or significant adverse change in,
+Akamai's relationship with Apple Computer, Cisco or Microsoft could have a
+material adverse effect on Akamai's business.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT IS UNABLE TO SCALE ITS NETWORK AS DEMAND
+INCREASES.
+
+     Akamai's network may not be scalable to expected customer levels while
+maintaining superior performance. Akamai cannot be certain that its network can
+connect and manage a substantially larger number of customers at high
+transmission speeds. In addition, as customers' usage of bandwidth increases,
+Akamai will need to make additional investments in its infrastructure to
+maintain adequate data transmission speeds. Akamai cannot ensure that it will be
+able to make these investments successfully or at an acceptable or commercially
+reasonable cost.
+
+     Upgrading Akamai's infrastructure may cause delays or failures in its
+network. As a result, in the future Akamai's network may be unable to achieve or
+maintain a sufficiently high transmission capacity. Akamai's failure to achieve
+or maintain high capacity data transmission could significantly reduce demand
+for Akamai service, reducing Akamai's revenue and causing its business and
+financial results to suffer.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT DOES NOT RESPOND RAPIDLY TO TECHNOLOGICAL
+CHANGES.
+
+     The market for Internet content delivery services is likely to continue to
+be characterized by rapid technological change, frequent new product and service
+introductions and changes in customer requirements. Akamai may be unable to
+respond quickly or effectively to these developments. If competitors introduce
+products, services or technologies that are better than Akamai's or that gain
+greater market acceptance, or if new industry standards emerge, Akamai's service
+may become obsolete, which would materially and adversely affect its business,
+results of operations and financial condition.
+
+     In developing its services, Akamai has made, and will continue to make,
+assumptions about the standards that its customers and competitors may adopt. If
+the standards adopted are different from those which Akamai may now or in the
+future promote or support, market acceptance of Akamai's service may be
+significantly reduced or delayed and its business will be seriously harmed. In
+addition, the introduction of services or products incorporating new
+technologies and the emergence of new industry standards could render Akamai's
+existing service obsolete.
+
+IF AKAMAI'S LICENSE AGREEMENT WITH MIT TERMINATES, THEN ITS BUSINESS COULD BE
+ADVERSELY AFFECTED.
+
+     Akamai has licensed from MIT technology covered by various patent
+applications and copyrights relating to Internet content delivery technology.
+Some of Akamai's technology is based in part on the technology covered by these
+patent applications and copyrights. MIT may terminate the license agreement if
+Akamai ceases its business due to insolvency or if Akamai materially breaches
+the terms of the license agreement. A termination of Akamai's license agreement
+with MIT could have a material adverse effect on Akamai's business.
+
+AKAMAI'S BUSINESS WILL BE ADVERSELY AFFECTED IF IT IS UNABLE TO PROTECT ITS
+INTELLECTUAL PROPERTY RIGHTS FROM THIRD-PARTY CHALLENGES.
+
+     Akamai relies on a combination of patent, copyright, trademark and trade
+secret laws and restrictions on disclosure to protect its intellectual property
+rights. These legal protections afford only limited protection; competitors may
+gain access to Akamai's intellectual property which may result in the loss of
+Akamai's customers.
+
+     Although Akamai has licensed technology covered by patent applications
+filed with the United States Patent and Trademark Office with respect to
+Internet content delivery services, Akamai has no patents issued with respect to
+its FreeFlow content delivery services. Accordingly, neither Akamai's technology
+nor technology licensed by Akamai is covered by patents that would preclude or
+inhibit competitors from entering Akamai's market for its FreeFlow services.
+Akamai's future patents, if any, and patents licensed by Akamai for its FreeFlow
+services, may be successfully challenged or may not provide Akamai with any
+competitive
+
+                                       15
+<PAGE>   17
+
+advantages. Moreover, although Akamai has filed international patent
+applications, none of Akamai's technology is patented abroad. Akamai cannot be
+certain that any pending or future patent applications will be granted, that any
+future patent will not be challenged, invalidated or circumvented, or that
+rights granted under any patent that may be issued will provide competitive
+advantages to Akamai. Monitoring unauthorized use of Akamai's service is
+difficult and Akamai cannot be certain that the steps it has taken will prevent
+unauthorized use of its technology, particularly in foreign countries where the
+laws may not protect Akamai's proprietary rights as fully as in the United
+States.
+
+     As a result of its recent INTERVU acquisition, Akamai acquired several
+United States patents covering data delivery services. Such patents, however,
+may not provide Akamai with any competitive advantage or restrict or limit any
+third party competitor's ability to make, use or sell their data delivery
+services in competition with Akamai.
+
+AKAMAI'S FAILURE TO INCREASE ITS REVENUE WOULD PREVENT IT FROM ACHIEVING AND
+MAINTAINING PROFITABILITY.
+
+     Akamai has never been profitable. Akamai has incurred significant losses
+since inception and expects to continue to incur losses in the future. As of
+March 31, 2000, Akamai had an accumulated deficit of $94.0 million. Akamai
+cannot be certain that its revenue will continue to grow or that it will achieve
+sufficient revenue to achieve profitability. Akamai's failure to significantly
+increase its revenue would seriously harm its business and operating results.
+Akamai has large fixed expenses, and it expects to continue to incur significant
+and increasing sales and marketing, product development, administrative and
+other expenses, including fees to obtain access to bandwidth for the transport
+of data over its network. As a result, Akamai will need to generate
+significantly higher revenues to achieve and maintain profitability. If Akamai's
+revenue grows more slowly than Akamai anticipates or if its operating expenses
+increase more than Akamai expects or cannot be reduced in the event of lower
+revenue, Akamai's business will be materially and adversely affected.
+
+THE VARIABLE SALES CYCLES FOR AKAMAI'S SERVICES MAY CAUSE REVENUE AND OPERATING
+RESULTS TO VARY SIGNIFICANTLY FROM QUARTER TO QUARTER WHICH COULD ADVERSELY
+AFFECT AKAMAI'S STOCK PRICE.
+
+     At times, a customer's decision to purchase Akamai's Internet content
+delivery service involves a lengthy evaluation process. Throughout the sales
+cycle, Akamai spends considerable time and expense educating and providing
+information to prospective customers about the use and benefits of its services.
+Because of Akamai's limited operating history and the nature of Akamai business,
+Akamai cannot predict these sales and deployment cycles. Long sales cycles may
+cause Akamai's revenue and results of operations to vary significantly and
+unexpectedly from quarter to quarter. If Akamai's operating results fall below
+the expectations of securities analysts or investors in some future quarter or
+quarters, the market price of its common stock could be adversely affected.
+
+THE RATES AKAMAI CHARGES FOR ITS SERVICE MAY DECLINE OVER TIME WHICH WOULD
+REDUCE ITS REVENUE AND COULD CAUSE ITS BUSINESS AND FINANCIAL RESULTS TO SUFFER.
+
+     Akamai expects that its cost to obtain bandwidth capacity for the transport
+of data over its network will decline over time as a result of, among other
+things, the large amount of capital currently being invested to build
+infrastructure providing additional bandwidth and volume discounts available to
+Akamai as its network usage increases. Akamai expects the prices it charges for
+its services may also decline over time as a result of, among other things,
+existing and new competition in the markets Akamai addresses. As a result,
+Akamai's historical revenue rates may not be indicative of future revenue based
+on comparable traffic volumes. If Akamai fails to accurately predict the decline
+in costs of bandwidth or, in any event, if Akamai is unable to sell its service
+at acceptable prices relative to its bandwidth costs, or if it fails to offer
+additional services from which it can derive additional revenue, Akamai's
+revenue will decrease and its business and financial results will suffer.
+
+                                       16
+<PAGE>   18
+
+AKAMAI'S BUSINESS AND PROSPECTS DEPEND ON DEMAND FOR AND MARKET ACCEPTANCE OF
+THE INTERNET AND ITS INFRASTRUCTURE DEVELOPMENT.
+
+     The increased use of the Internet for retrieving, sharing and transferring
+information among businesses, consumers, suppliers and partners has only begun
+to develop in recent years, and Akamai's success will depend in large part on
+continued growth in the use of the Internet. Critical issues concerning the
+commercial use of the Internet, including security, reliability, speed, cost,
+ease of access, quality of service, regulatory initiatives and necessary
+increases in bandwidth availability, remain unresolved and are likely to affect
+the development of the market for Akamai's services. The adoption of the
+Internet for information retrieval and exchange, commerce and communications
+generally will require the acceptance of a new medium of conducting business and
+exchanging information. Demand for and market acceptance of the Internet are
+subject to a high level of uncertainty and are dependent on a number of factors,
+including:
+
+     - the growth in consumer access to and acceptance of new interactive
+       technologies;
+
+     - the development of technologies that facilitate interactive communication
+       between organizations; and
+
+     - increases in user bandwidth.
+
+     If the Internet as a commercial or business medium fails to develop or
+develops more slowly than expected, Akamai's business and prospects will suffer.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT DOES NOT ANTICIPATE AND MEET SPECIFIC
+CUSTOMER REQUIREMENTS.
+
+     Akamai's current and prospective customers may require features and
+capabilities that its current service offerings do not have. To achieve market
+acceptance for Akamai's service, Akamai must effectively and timely anticipate
+and adapt to customer requirements and offer services that meet customer
+demands. Akamai's failure to offer services that satisfy customer requirements
+would seriously harm its business, results of operations and financial
+condition.
+
+     Akamai intends to continue to invest heavily in technology development. The
+development of new or enhanced services and applications such as EdgeAdvantage,
+is a complex and uncertain process that requires the accurate anticipation of
+technological and market trends. Akamai may experience design, integration,
+manufacturing, marketing and other difficulties that could delay or prevent the
+development, introduction or marketing of new services as well as enhancements.
+The introduction of new or enhanced services and applications also requires that
+Akamai manage the transition from older services in order to ensure that Akamai
+can deliver services to meet anticipated customer demand. Akamai's inability to
+effectively manage this transition would materially adversely affect its
+business, results of operations and financial condition.
+
+AKAMAI HAS LIMITED SALES AND MARKETING EXPERIENCE; AKAMAI'S BUSINESS WILL SUFFER
+IF IT DOES NOT EXPAND AKAMAI'S DIRECT AND INDIRECT SALES ORGANIZATIONS AND ITS
+CUSTOMER SERVICE AND SUPPORT OPERATIONS.
+
+     Akamai currently has limited sales and marketing experience. Akamai's
+limited experience may restrict its success gaining broad market acceptance of
+its services or in commercializing its future services. Akamai's services
+require a sophisticated sales effort targeted at a limited number of key people
+within a prospective customer's organization. This sales effort requires the
+efforts of trained sales personnel. Akamai needs to continue to expand its
+marketing and sales organization in order to increase market awareness of its
+service to a greater number of organizations and generate increased revenue.
+Competition for these individuals is intense, and Akamai might not be able to
+hire the kind and number of sales personnel it needs. In addition, Akamai
+believes that its future success is dependent upon its ability to establish
+successful relationships with a variety of distribution partners. If Akamai is
+unable to expand its direct and indirect sales operations, it may not be able to
+increase market awareness or sales of its service, which may prevent Akamai from
+achieving and maintaining profitability.
+
+     Hiring personnel is very competitive in Akamai's industry because there is
+a limited number of people available with the necessary technical skills and
+understanding of Akamai's market. Once Akamai hires them, they require extensive
+training in Akamai's Internet content delivery service. If Akamai is unable to
+expand its
+
+                                       17
+<PAGE>   19
+
+customer service and support organization and train them as rapidly as
+necessary, Akamai may not be able to increase sales of its service, which would
+seriously harm its business.
+
+AKAMAI'S BUSINESS WILL SUFFER IF IT FAILS TO MANAGE ITS GROWTH PROPERLY.
+
+     Akamai has expanded its operations rapidly since its inception. Akamai
+continues to increase the scope of its operations and has grown its headcount
+substantially. Akamai's total number of employees grew from 464 on February 11,
+2000 to 861 on April 28, 2000. Akamai plans to continue to hire a significant
+number of employees this year. This growth has placed, and Akamai's anticipated
+growth in future operations will continue to place, a significant strain on its
+management systems and resources. Akamai's ability to successfully offer its
+services and implement its business plan in a rapidly evolving market requires
+an effective planning and management process. Akamai expects that it will need
+to continue to improve its financial and managerial controls, reporting systems
+and procedures, and will need to continue to expand, train and manage its
+workforce worldwide. Competition for highly skilled personnel is intense,
+especially in New England and central and southern California. Akamai may fail
+to attract, assimilate or retain qualified personnel to fulfill its current or
+future needs. Akamai's planned rapid growth places a significant demand on
+management and financial and operational resources. In order to grow and achieve
+future success, Akamai must:
+
+     - retain existing personnel;
+
+     - successfully integrate Network24 and INTERVU personnel;
+
+     - hire, train, manage and retain additional qualified personnel; and
+
+     - effectively manage multiple relationships with its customers, suppliers
+       and other third parties.
+
+     Failure to do so would have a materially adverse effect on its business,
+results of operations and financial condition.
+
+AKAMAI DEPENDS ON ITS KEY PERSONNEL TO MANAGE ITS BUSINESS EFFECTIVELY IN A
+RAPIDLY CHANGING MARKET AND IF AKAMAI IS UNABLE TO RETAIN ITS KEY EMPLOYEES,
+AKAMAI'S ABILITY TO COMPETE COULD BE HARMED.
+
+     Akamai's future success depends upon the continued services of its
+executive officers and other key technology, sales, marketing and support
+personnel, who have critical industry experience and relationships that they
+rely on in implementing Akamai's business plan. None of Akamai's officers or key
+employees is bound by an employment agreement for any specific term. Akamai has
+"key person" life insurance policies covering only the lives of F. Thomson
+Leighton and Daniel M. Lewin. The loss of the services of any of Akamai's key
+employees could delay the development and introduction of and negatively impact
+its ability to sell its service. Akamai faces intense competition for qualified
+personnel, including research and development, service and support and sales and
+marketing personnel.
+
+AKAMAI FACES RISKS ASSOCIATED WITH INTERNATIONAL OPERATIONS THAT COULD HARM ITS
+BUSINESS.
+
+     Akamai has expanded its international operations to Munich, Germany,
+London, England and Paris, France. A key aspect of its business strategy is to
+continue to expand its sales and support organizations internationally.
+Therefore, Akamai expects to commit significant resources to expand its
+international sales and marketing activities. However, Akamai may not be able to
+maintain or increase market demand for its services which may harm its business.
+Akamai is increasingly subject to a number of risks associated with
+international business activities which may increase its costs, lengthen its
+sales cycle and require significant management attention. These risks include:
+
+     - market acceptance of Akamai's products and services by countries outside
+       the United States;
+
+     - increased expenses associated with marketing services in foreign
+       countries;
+
+     - general economic conditions in international markets;
+
+     - currency exchange rate fluctuations;
+
+                                       18
+<PAGE>   20
+
+     - unexpected changes in regulatory requirements resulting in unanticipated
+       costs and delays;
+
+     - tariffs, export controls and other trade barriers;
+
+     - longer accounts receivable payment cycles and difficulties in collecting
+       accounts receivable; and
+
+     - potentially adverse tax consequences, including restrictions on the
+       repatriation of earnings.
+
+AKAMAI FACES A NUMBER OF UNKNOWN RISKS ASSOCIATED WITH YEAR 2000 PROBLEMS.
+
+     Akamai has attempted to assess and must continue to monitor year 2000
+issues. While Akamai has not experienced any year 2000 issues to date, there can
+be no assurance that Akamai has identified and remediated all material year 2000
+related issues. If Akamai's systems do not operate properly with respect to date
+calculations involving the year 2000 and subsequent dates, it could experience a
+system failure or miscalculations causing disruptions of operations, including
+among other things, a temporary inability to process transactions, send invoices
+or engage in similar normal business activities.
+
+     Akamai has designed its service for use in the year 2000 and beyond and
+believes it is year 2000 ready. However, Akamai's service is used in conjunction
+with larger networks involving sophisticated hardware and software products
+supplied by other vendors. Each of Akamai's customers' networks involves
+different combinations of third-party products. Akamai cannot evaluate whether
+all of its products are year 2000 ready. Akamai may face claims based on year
+2000 problems in other companies' products or based on issues arising from the
+integration of multiple products within the overall network. Although no claims
+of this kind have been made, Akamai may in the future be required to defend its
+service in legal proceedings which could be expensive regardless of the merits
+of these claims.
+
+AKAMAI COULD INCUR SUBSTANTIAL COSTS DEFENDING ITS INTELLECTUAL PROPERTY FROM
+INFRINGEMENT OR A CLAIM OF INFRINGEMENT.
+
+     Other companies or individuals, including Akamai's competitors, may obtain
+patents or other proprietary rights that would prevent, limit or interfere with
+Akamai's ability to make, use or sell its services. As a result, Akamai may be
+found to infringe on the proprietary rights of others. In the event of a
+successful claim of infringement against Akamai and its failure or inability to
+license the infringed technology, its business and operating results would be
+significantly harmed. Companies in the Internet market are increasingly bringing
+suits alleging infringement of their proprietary rights, particularly patent
+rights. Any litigation or claims, whether or not valid, could result in
+substantial costs and diversion of resources. Intellectual property litigation
+or claims could force Akamai to do one or more of the following:
+
+     - cease selling, incorporating or using products or services that
+       incorporate the challenged intellectual property;
+
+     - obtain a license from the holder of the infringed intellectual property
+       right, which license may not be available on reasonable terms; and
+
+     - redesign products or services.
+
+     If Akamai is forced to take any of these actions, its business may be
+seriously harmed. Although Akamai carries insurance, its insurance may not cover
+potential claims of this type or may not be adequate to indemnify Akamai for all
+liability that may be imposed.
+
+INTERNET-RELATED LAWS COULD ADVERSELY AFFECT AKAMAI'S BUSINESS.
+
+     Laws and regulations which apply to communications and commerce over the
+Internet are becoming more prevalent. A recent session of the United States
+Congress resulted in Internet laws regarding children's privacy, copyrights,
+taxation and the transmission of sexually explicit material. The European Union
+recently enacted its own privacy regulations, and is currently considering
+copyright legislation that may extend the right of reproduction held by
+copyright holders to include the right to make temporary copies for any reason.
+The law of the Internet, however, remains largely unsettled, even in areas where
+there has been some legislative action. It may take years to determine whether
+and how existing laws such as those governing intellectual
+
+                                       19
+<PAGE>   21
+
+property, privacy, libel and taxation apply to the Internet. In addition, the
+growth and development of the market for online commerce may prompt calls for
+more stringent consumer protection laws, both in the United States and abroad,
+that may impose additional burdens on companies conducting business online. The
+adoption or modification of laws or regulations relating to the Internet, or
+interpretations of existing law, could adversely affect Akamai's business.
+
+AKAMAI MAY BE SUBJECT TO REGULATION, TAXATION, ENFORCEMENT OR OTHER LIABILITIES
+IN UNEXPECTED JURISDICTIONS.
+
+     Akamai provides services to customers located throughout the United States
+and in several foreign countries. As a result, Akamai may be required to qualify
+to do business, or be subject to tax or other laws and regulations, in these
+jurisdictions even if it does not have a physical presence, employees or
+property in these jurisdictions. The application of these multiple sets of laws
+and regulations is uncertain, but Akamai could find that it is subject to
+regulation, taxation, enforcement or other liabilities in unexpected ways, which
+could materially adversely affect its business, financial condition and results
+of operations.
+
+AKAMAI'S STOCK PRICE HAS BEEN AND MAY CONTINUE TO BE VOLATILE, WHICH COULD
+RESULT IN LITIGATION AGAINST AKAMAI.
+
+     The market price of Akamai's common stock has been extremely volatile and
+has fluctuated significantly in the past. The following factors could cause the
+market price of common stock to continue to fluctuate significantly:
+
+     - the addition or departure of key Akamai personnel;
+
+     - variations in Akamai's quarterly operating results;
+
+     - announcements by Akamai or its competitors of significant contracts, new
+       or enhanced products or service offerings, acquisitions, distribution
+       partnerships, joint ventures or capital commitments;
+
+     - changes in financial estimates by securities analysts;
+
+     - Akamai's sales of common stock or other securities in the future;
+
+     - changes in market valuations of networking, Internet and
+       telecommunications companies;
+
+     - fluctuations in stock market prices and volumes; and
+
+     - changes in general economic conditions, including interest rate levels.
+
+     In the past, class action litigation has often been brought against
+companies following periods of volatility in the market price of those
+companies' common stock. Akamai may become involved in this type of litigation
+in the future. Litigation is often expensive and diverts management's attention
+and resources which could materially adversely affect its business and results
+of operations.
+
+INSIDERS HAVE SUBSTANTIAL CONTROL OVER AKAMAI WHICH COULD LIMIT OTHERS' ABILITY
+TO INFLUENCE THE OUTCOME OF KEY TRANSACTIONS, INCLUDING CHANGES OF CONTROL.
+
+     The executive officers and directors, in the aggregate, beneficially own
+approximately 54% of Akamai's outstanding common stock. These stockholders, if
+acting together, are able to influence significantly all matters requiring
+approval by Akamai's stockholders, including the election of directors and the
+approval of mergers or other business combination transactions.
+
+PROVISIONS OF AKAMAI'S CHARTER DOCUMENTS MAY HAVE ANTI-TAKEOVER EFFECTS THAT
+COULD PREVENT A CHANGE IN CONTROL EVEN IF THE CHANGE IN CONTROL WOULD BE
+BENEFICIAL TO AKAMAI'S STOCKHOLDERS.
+
+     Provisions of Akamai's amended and restated certificate of incorporation,
+by-laws, and Delaware law could make it more difficult for a third party to
+acquire Akamai, even if doing so would be beneficial to Akamai's stockholders.
+
+                                       20
+<PAGE>   22
+
+THE UNPREDICTABILITY OF AKAMAI'S QUARTERLY RESULTS MAY ADVERSELY AFFECT THE
+TRADING PRICE OF ITS COMMON STOCK.
+
+     Akamai's revenue and operating results will vary significantly from quarter
+to quarter due to a number of factors, many of which are outside of its control
+and any of which may cause its stock price to fluctuate. The primary factors
+that may affect Akamai include the following:
+
+     - demand for Internet content delivery services and streaming services;
+
+     - the timing and size of sales of Akamai's services;
+
+     - the timing of recognizing revenue and deferred revenue;
+
+     - new product and service introductions and enhancements by Akamai's
+       competitors and itself;
+
+     - changes in Akamai's pricing policies or the pricing policies of Akamai's
+       competitors;
+
+     - Akamai's ability to develop, introduce and deliver new products, services
+       and enhancements that meet customer requirements in a timely manner;
+
+     - the length of the sales cycle for Akamai's services;
+
+     - increases in the prices of, and availability of, the products, services,
+       components or raw materials Akamai purchases, including bandwidth;
+
+     - Akamai's ability to attain and maintain quality levels for its services;
+
+     - expenses related to testing of Akamai's services;
+
+     - costs related to acquisitions of technology or businesses; and
+
+     - general economic conditions as well as those specific to the Internet and
+       related industries.
+
+     Akamai plans to increase significantly its operating expenses to fund
+greater levels of engineering and development, expand its sales and marketing
+operations, broaden its customer support capabilities, continue to develop new
+distribution channels and continue to expand internationally. Akamai also plans
+to expand its general and administrative functions to address the increased
+reporting and other administrative demands and the increasing size of Akamai's
+business.
+
+     Akamai's operating expenses are largely based on anticipated revenue trends
+and a high percentage of its expenses are, and will continue to be, fixed in the
+short term. As a result, a delay in generating or recognizing revenue for the
+reasons set forth above, or for any other reason, could cause significant
+variations in Akamai's operating results from quarter to quarter and could
+result in substantial operating losses.
+
+     Due to the above factors, Akamai believes that quarter-to-quarter
+comparisons of its operating results are not a good indication of its future
+performance. It is likely that in some future quarters, Akamai's operating
+results may be below the expectations of public market analysts and investors.
+In this event, the price of Akamai's common stock will probably fall.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Akamai does not use derivative financial instruments. Akamai generally
+places its marketable securities investments in high quality credit investments,
+primarily United States Government obligations and corporate obligations with
+contractual maturities of less than three months. Akamai does not expect any
+material loss from its marketable securities investments and believes that its
+potential interest rate exposure is not material.
+
+                                       21
+<PAGE>   23
+
+                           PART II. OTHER INFORMATION
+
+ITEM 2.  CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+     (c) Recent Sales of Unregistered Securities
+
+     In February 2000, Akamai issued approximately 599,152 shares of common
+stock as partial consideration for the acquisition of Network24, a provider of
+Internet broadcast applications services.
+
+     In connection with the acquisition of Network24, Akamai also assumed stock
+options to purchase 136,903 shares of Akamai common stock.
+
+     (d) Use of Proceeds from Sales of Registered Securities
+
+     On November 3, 1999, Akamai sold 9,000,000 shares of its common stock in an
+initial public offering at a price of $26.00 per share pursuant to a
+Registration Statement on Form S-1 (the "Registration Statement") (Registration
+No. 333-85679) that was declared effective by the Securities and Exchange
+Commission on October 28, 1999. Morgan Stanley Dean Witter, Donaldson Lufkin &
+Jenrette, Salomon Smith Barney and Thomas Weisel Partners LLC were the managing
+underwriters of the offering. The aggregate proceeds to Akamai from the offering
+were $217.6 million after deducting an aggregate of $16.4 million in
+underwriting discounts and commission to the underwriters. None of the proceeds
+of the offering was paid by Akamai, directly or indirectly, to any director,
+officer or general partner of Akamai or any of their associates, or to any
+persons owning ten percent or more of the outstanding stock of Akamai. In
+addition to underwriting discounts and commissions, the expenses incurred in
+connection with the offering were approximately $2.2 million, including $850,000
+for Directors and Officers Insurance, $400,000 of legal costs, $460,000 of
+accounting costs, $50,000 of printing costs, $188,000 of registration, filing
+and listing costs, and other costs of approximately $300,000. During the period
+from the offering to March 31, 2000, Akamai has used the proceeds as follows:
+approximately $21.5 million for network equipment and computer equipment and
+hardware, $14.9 million for the repayment of senior subordinated notes, $18.6
+million for payroll and benefits, $5.8 million for advertising expenses and $4.9
+million for bandwidth costs.
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+     (a) Exhibits
+
+<TABLE>
+<C>      <S>
+   *4.1  Stock Option Agreement, dated as of February 6, 2000,
+         between Akamai and INTERVU Inc.
+   *4.2  Form of Stockholder Voting Agreement, dated as of February
+         6, 2000, by and among Akamai and each of the Stockholders of
+         INTERVU Inc. named thereon.
+ **10.1  Agreement and Plan of Merger, dated as of January 14, 2000,
+         by and among Akamai, Aloha Merger Corporation and Network24
+         Communications, Inc.
+***10.2  Agreement and Plan of Merger, dated as of February 6, 2000,
+         by and among Akamai, Alli Merger Corporation and INTERVU
+         Inc.
+   27.1  Financial Data Schedule.
+</TABLE>
+
+- ---------------
+  * Incorporated by reference to Akamai's Form S-4 (File No. 333-31712), as
+    amended, filed with the Securities and Exchange Commission on March 3, 2000.
+
+ ** Incorporated by reference to Akamai's Current Report on Form 8-K filed with
+    the Securities and Exchange Commission on February 8, 2000.
+
+*** Incorporated by reference to Akamai's Schedule 13D filed with the Securities
+    and Exchange Commission on February 16, 2000.
+
+                                       22
+<PAGE>   24
+
+     (b) Reports on Form 8-K
+
+     On February 8, 2000, Akamai filed a Current Report on Form 8-K under Item 2
+(Acquisition or Disposition of Assets) to report the consummation of an
+Agreement and Plan of Merger for the acquisition of Network24. On March 3, 2000,
+Akamai filed Amendment No. 1 to Current Report on Form 8-K/A under Item 7
+(Financial Statements, Pro Forma Financial Information and Exhibits) to include
+the financial statements required to be filed in connection with the acquisition
+of Network24.
+
+                                       23
+<PAGE>   25
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                          AKAMAI TECHNOLOGIES, INC.
+
+<TABLE>
+<S>                                                    <C>
+
+Date: May 15, 2000                                     By: /s/ TIMOTHY WELLER
+                                                            -----------------------------------------
+                                                            Timothy Weller
+                                                            Chief Financial Officer and Treasurer
+                                                            (Principal Financial Officer and Chief
+                                                            Accounting Officer)
+
+Date: May 15, 2000                                     By: /s/ ROBERT O. BALL III
+                                                            -----------------------------------------
+                                                            Robert O. Ball III
+                                                            Vice President, General Counsel and
+                                                            Secretary
+</TABLE>
+
+                                       24
+<PAGE>   26
+
+                                 EXHIBIT INDEX
+
+<TABLE>
+<C>      <S>
+   *4.1  Stock Option Agreement, dated as of February 6, 2000,
+         between Akamai and INTERVU Inc.
+   *4.2  Form of Stockholder Voting Agreement, dated as of February
+         6, 2000, by and among Akamai and each of the Stockholders of
+         INTERVU Inc. named thereon.
+ **10.1  Agreement and Plan of Merger, dated as of January 14, 2000,
+         by and among Akamai, Aloha Merger Corporation and Network24
+         Communications, Inc.
+***10.2  Agreement and Plan of Merger, dated as of February 6, 2000,
+         by and among Akamai, Alli Merger Corporation and INTERVU
+         Inc.
+   27.1  Financial Data Schedule.
+</TABLE>
+
+- ---------------
+  * Incorporated by reference to Akamai's Form S-4 (File No. 333-31712), as
+    amended, filed with the Securities and Exchange Commission on March 3, 2000.
+
+ ** Incorporated by reference to Akamai's Current Report on Form 8-K filed with
+    the Securities and Exchange Commission on February 8, 2000.
+
+*** Incorporated by reference to Akamai's Schedule 13D filed with the Securities
+    and Exchange Commission on February 16, 2000.
+
+                                       25
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM AKAMAI
+TECHNOLOGIES, INC.'S CONSOLIDATED FINANCIAL STATEMENT FOR THE QUARTER ENDED
+MARCH 31, 2000 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH
+CONSOLIDATED FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+<CURRENCY> U.S. DOLLAR
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JAN-01-2000
+<PERIOD-END>                               MAR-31-2000
+<EXCHANGE-RATE>                                      1
+<CASH>                                          26,612
+<SECURITIES>                                         0
+<RECEIVABLES>                                    3,341
+<ALLOWANCES>                                     (205)
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                               237,080
+<PP&E>                                          49,961
+<DEPRECIATION>                                 (6,486)
+<TOTAL-ASSETS>                                 471,813
+<CURRENT-LIABILITIES>                           32,166
+<BONDS>                                            682
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           938
+<OTHER-SE>                                     438,026
+<TOTAL-LIABILITY-AND-EQUITY>                   471,813
+<SALES>                                              0
+<TOTAL-REVENUES>                                 7,222
+<CGS>                                                0
+<TOTAL-COSTS>                                    6,636
+<OTHER-EXPENSES>                                39,608
+<LOSS-PROVISION>                                   205
+<INTEREST-EXPENSE>                                  31
+<INCOME-PRETAX>                               (35,397)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                           (35,397)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                  (35,397)
+<EPS-BASIC>                                      (.47)
+<EPS-DILUTED>                                    (.47)
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1851 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MNA8fmyHWqQCypTeucgq6lOLyO0FD7tF+6yiqqH8J8RbdWOEKAgCc5zn3j+iOnP0
+ yTQh/y7EPDmi9KT+dQ9qOw==
+
+<SEC-DOCUMENT>0000936392-99-000055.txt : 19990127
+<SEC-HEADER>0000936392-99-000055.hdr.sgml : 19990127
+ACCESSION NUMBER:		0000936392-99-000055
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19981227
+FILED AS OF DATE:		19990126
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QUALCOMM INC/DE
+		CENTRAL INDEX KEY:			0000804328
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		IRS NUMBER:				953685934
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-19528
+		FILM NUMBER:		99512895
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6455 LUSK BLVD E-141
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+		BUSINESS PHONE:		6195871121
+
+	MAIL ADDRESS:	
+		STREET 1:		6455 LUSK BLVD E-141
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>   1
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+
+
+                                    FORM 10-Q
+
+
+(MARK ONE)
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+     EXCHANGE ACT OF 1934
+
+     FOR THE QUARTERLY PERIOD ENDED DECEMBER 27, 1998
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES 
+     EXCHANGE ACT OF 1934
+
+     FOR THE TRANSITION PERIOD FROM          TO          .
+
+                         COMMISSION FILE NUMBER 0-19528
+
+                              QUALCOMM INCORPORATED
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+
+                    DELAWARE                               95-3685934
+         (STATE OR OTHER JURISDICTION OF                (I.R.S. EMPLOYER
+         INCORPORATION OR ORGANIZATION)                IDENTIFICATION NO)
+
+      6455 LUSK BLVD., SAN DIEGO, CALIFORNIA               92121-2779
+     (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)              (ZIP CODE)
+
+                                 (619) 587-1121
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                                 NOT APPLICABLE
+
+(FORMER NAME, FORMER ADDRESS AND FORMER FISCAL YEAR, IF CHANGED SINCE LAST
+                                    REPORTED)
+
+        Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past ninety days. Yes  [X]  [No]
+
+        Indicate the number of shares outstanding of each of the issuer's
+classes of common stock, as of the latest practicable date:
+
+          Common Stock, $0.0001 per share par value, 71,433,704 shares
+                            as of January 19, 1999.
+
+<PAGE>   2
+
+                                   SIGNATURES
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                        QUALCOMM Incorporated
+
+
+                                               /s/  ANTHONY S. THORNLEY        
+                                        ---------------------------------------
+                                                    Anthony S. Thornley
+                                                 Executive Vice President
+                                                 & Chief Financial Officer
+
+Dated:  January 26, 1999
+
+
+                                       2
+<PAGE>   3
+
+                              QUALCOMM INCORPORATED
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                  PAGE
+                                                                                  ----
+<S>                                                                                <C>
+          PART I.  FINANCIAL INFORMATION
+              Item 1.  Condensed Consolidated Financial Statements
+                         (Unaudited)
+                       Condensed Consolidated Balance Sheets.................      4
+                       Condensed Consolidated Statements of Income...........      5
+                       Condensed Consolidated Statements of Cash Flows.......      6
+                       Notes to Condensed Consolidated Financial Statements..      7-12
+              Item 2.  Management's Discussion and Analysis of Results of
+                         Operations and Financial Condition.................      13-22
+
+          PART II.  OTHER INFORMATION........................................      23
+              Item 6.  Exhibits and Reports on Form 8-K                       
+</TABLE>
+
+
+                                       3
+<PAGE>   4
+
+PART I.  FINANCIAL INFORMATION
+
+ITEM 1.  CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                              QUALCOMM INCORPORATED
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                   (UNAUDITED)
+
+                                     ASSETS
+
+<TABLE>
+<CAPTION>
+                                                                 DECEMBER 27,   SEPTEMBER 27,
+                                                                       1998           1998
+                                                                 ------------   ------------
+<S>                                                                <C>            <C>       
+CURRENT ASSETS:
+  Cash and cash equivalents...................................     $  131,940     $  175,846
+  Investments.................................................        105,483        127,478
+  Accounts receivable, net....................................        852,488        612,209
+  Finance receivables.........................................         66,461         56,201
+  Inventories, net............................................        335,072        386,536
+  Other current assets........................................        171,418        178,950
+                                                                   ----------     ----------
+          Total current assets................................      1,662,862      1,537,220
+PROPERTY, PLANT AND EQUIPMENT, NET............................        631,048        609,682
+FINANCE RECEIVABLES, NET......................................        307,357        287,751
+OTHER ASSETS..................................................        161,508        132,060
+                                                                   ----------     ----------
+TOTAL ASSETS..................................................     $2,762,775     $2,566,713
+                                                                   ==========     ==========
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+  Accounts payable and accrued liabilities....................     $  657,338     $  660,428
+  Unearned revenue............................................         58,490         67,123
+  Bank lines of credit........................................        288,000        151,000
+  Current portion of long-term debt...........................          3,057          3,058
+                                                                   ----------     ----------
+          Total current liabilities...........................      1,006,885        881,609
+LONG-TERM DEBT................................................          3,116          3,863
+OTHER LIABILITIES.............................................         36,032         25,115
+                                                                   ----------     ----------
+          Total liabilities...................................      1,046,033        910,587
+                                                                   ----------     ----------
+
+COMMITMENTS AND CONTINGENCIES (NOTE 6)                                           
+
+MINORITY INTEREST IN CONSOLIDATED SUBSIDIARIES................         42,057         38,530
+                                                                   ----------     ----------
+
+COMPANY-OBLIGATED MANDATORILY REDEEMABLE TRUST CONVERTIBLE
+ PREFERRED SECURITIES OF A SUBSIDIARY TRUST HOLDING SOLELY DEBT
+ SECURITIES OF THE COMPANY....................................        660,000        660,000
+                                                                   ----------     ----------
+
+STOCKHOLDERS' EQUITY:                                                            
+  Preferred stock, $0.0001 par value..........................             --             --
+  Common stock, $0.0001 par value.............................              7              7
+  Paid-in capital.............................................        966,148        957,589
+  Retained earnings...........................................         48,530             --
+                                                                   ----------     ----------
+          Total stockholders' equity..........................      1,014,685        957,596
+                                                                   ----------     ----------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY....................     $2,762,775     $2,566,713
+                                                                   ==========     ==========
+</TABLE>
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+
+                                       4
+<PAGE>   5
+
+                              QUALCOMM INCORPORATED
+
+                   CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                   (UNAUDITED)
+
+
+<TABLE>
+<CAPTION>
+                                                                     THREE MONTHS ENDED
+                                                                  ----------------------------
+                                                                  DECEMBER 27,    DECEMBER 28,
+                                                                       1998           1997
+                                                                  ------------    ------------
+<S>                                                                <C>             <C>      
+REVENUES:                                                                            
+  Communications systems......................................     $  817,054      $ 676,885
+  Contract services...........................................         79,814         64,031
+  License, royalty and development fees.......................         44,355         44,938
+                                                                    ---------      ---------
+          Total revenues......................................        941,223        785,854
+                                                                    ---------      ---------
+
+OPERATING EXPENSES:                                                              
+  Communications systems......................................        584,924        507,339
+  Contract services...........................................         57,466         46,276
+  Research and development....................................        100,362         74,801
+  Selling and marketing.......................................         69,736         56,098
+  General and administrative..................................         50,787         36,469
+  Other.......................................................             --         11,976
+                                                                    ---------      ---------
+          Total operating expenses............................        863,275        732,959
+                                                                    ---------      ---------
+
+OPERATING INCOME..............................................         77,948         52,895
+
+INTEREST INCOME...............................................          5,806         12,190
+INTEREST EXPENSE..............................................         (3,315)        (2,689)
+NET GAIN ON SALE OF INVESTMENTS...............................          5,663          2,950
+DISTRIBUTIONS ON TRUST CONVERTIBLE PREFERRED SECURITIES
+ OF SUBSIDIARY TRUST .........................................         (9,799)        (9,798)
+MINORITY INTEREST IN (INCOME) LOSS OF CONSOLIDATED
+ SUBSIDIARIES ................................................         (3,698)         3,781
+EQUITY IN LOSSES OF INVESTEES.................................         (1,021)        (2,772)
+                                                                    ----------     ---------
+INCOME BEFORE INCOME TAXES....................................         71,584         56,557
+INCOME TAX EXPENSE ...........................................        (23,054)       (19,795)
+                                                                    ----------     ---------
+NET INCOME....................................................      $  48,530      $  36,762
+                                                                    =========      =========
+
+NET EARNINGS PER COMMON SHARE:
+  Basic.......................................................      $    0.69      $    0.54
+                                                                    =========      =========
+  Diluted.....................................................      $    0.65      $    0.50
+                                                                    =========      =========
+SHARES USED IN PER SHARE CALCULATION:
+  Basic.......................................................         70,722         68,475
+                                                                    =========      =========
+  Diluted.....................................................         74,219         74,126
+                                                                    =========      =========
+</TABLE>
+
+            See Notes to Condensed Consolidated Financial Statements.
+
+
+                                       5
+<PAGE>   6
+
+                              QUALCOMM INCORPORATED
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+
+<TABLE>
+<CAPTION>
+                                                                         THREE MONTHS ENDED
+                                                                   -----------------------------
+                                                                   DECEMBER 27,     DECEMBER 28,
+                                                                       1998            1997
+                                                                   ------------     ------------
+<S>                                                                 <C>              <C>      
+ OPERATING ACTIVITIES:
+  Net income ................................................       $  48,530        $  36,762
+  Depreciation and amortization .............................          44,448           30,974
+  Acquired in-process research and development ..............              --            6,976
+  Non-cash charge for impaired assets .......................              --            5,000
+  Gain on sale of available-for-sale securities .............          (5,663)              --
+  Minority interest in income (loss) of consolidated         
+     subsidiaries............................................           3,698           (3,781)
+  Equity in losses of investees .............................           1,021            2,772
+  Increase (decrease) in cash resulting from changes in:
+     Accounts receivable, net ...............................        (240,279)        (131,111)
+     Finance receivables, net ...............................         (29,866)          44,899
+     Inventories, net .......................................          51,464          (56,450)
+     Other assets ...........................................          (4,812)           1,600
+     Accounts payable and accrued liabilities ...............          (2,081)         127,433
+     Unearned revenue .......................................          (8,633)             685
+     Other liabilities ......................................           3,877            2,467
+                                                                    ---------        ---------
+Net cash (used) provided by operating activities ............        (138,296)          68,226
+                                                                    ---------        ---------
+INVESTING ACTIVITIES:
+  Capital expenditures ......................................         (62,884)         (79,544)
+  Purchases of investments ..................................         (10,363)        (191,045)
+  Maturities of investments .................................          32,358          195,672
+  Issuance of notes receivable ..............................         (25,021)              --
+  Collection of notes receivable ............................          16,835               --
+  Purchases of intangible assets ............................              --          (11,099)
+  Proceeds from sale of available-for-sale securities .......           7,163               --
+  Investments in other entities .............................          (7,500)          (1,062)
+                                                                    ---------        ---------
+Net cash used by investing activities .......................         (49,412)         (87,078)
+                                                                    ---------        ---------
+FINANCING ACTIVITIES:
+  Net borrowings (repayments) under bank lines of credit ....         137,000          (32,000)
+  Principal payments on long-term debt ......................            (748)            (563)
+  Minority interest investment in consolidated
+     subsidiaries............................................              --              233
+  Net proceeds from issuance of common stock ................           7,550           11,885
+                                                                    ---------        ---------
+Net cash provided (used) by financing activities ............         143,802          (20,445)
+                                                                    ---------        ---------
+NET DECREASE IN CASH AND CASH EQUIVALENTS ...................         (43,906)         (39,297)
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD ............         175,846          248,837
+                                                                    ---------        ---------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD ..................       $ 131,940        $ 209,540
+                                                                    =========        =========
+</TABLE>
+
+                  See Notes to Condensed Consolidated Financial Statements.
+
+
+                                       6
+<PAGE>   7
+
+                              QUALCOMM INCORPORATED
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+NOTE 1 -- BASIS OF PRESENTATION
+
+   The accompanying interim condensed consolidated financial statements have
+been prepared by QUALCOMM Incorporated (the "Company" or "QUALCOMM"), without
+audit, in accordance with the instructions to Form 10-Q and, therefore, do not
+necessarily include all information and footnotes necessary for a fair
+presentation of its financial position, results of operations and cash flows in
+accordance with generally accepted accounting principles. The condensed
+consolidated balance sheet at September 27, 1998 was derived from the audited
+consolidated balance sheet at that date which is not presented herein. The
+Company operates and reports using a period ending on the last Sunday of each
+month.
+
+   In the opinion of management, the unaudited financial information for the
+interim periods presented reflects all adjustments (which include only normal,
+recurring adjustments) necessary for a fair presentation. These condensed
+consolidated financial statements and notes thereto should be read in
+conjunction with the consolidated financial statements and notes thereto
+included in the Company's Annual Report on Form 10-K for the fiscal year ended
+September 27, 1998. Operating results for interim periods are not necessarily
+indicative of operating results for an entire fiscal year.
+
+   The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements and
+the reported amounts of revenues and expenses during the reporting period.
+Actual results could differ from those estimates.
+
+   Revenue from communications systems and products is generally recognized at
+the time the units are shipped and over the period during which message and
+warranty services are provided, except for shipments under arrangements
+involving significant acceptance requirements. Under such arrangements, revenue
+is recognized when the Company has substantially met its performance
+obligations. Other criteria considered for the purpose of revenue recognition
+include the customer's financial condition, the amount and quality of financial
+support provided by the customer's investors, and the political and economic
+environment in which the customer operates. Revenue from long-term contracts and
+revenue earned under license and development agreements with continuing
+performance obligations is recognized using the percentage-of-completion method,
+based either on costs incurred to date compared with total estimated costs at
+completion or using a units of delivery methodology. Billings on uncompleted
+contracts in excess of incurred cost and accrued profits are classified as
+unearned revenue. Estimated contract losses are recognized when determined.
+Non-refundable license fees are recognized when there is no material continuing
+performance obligation under the agreement and collection is probable.
+
+   Royalty revenue is recorded as earned in accordance with the specific terms
+of each license agreement when reasonable estimates of such amounts can be made.
+Beginning with the second quarter of fiscal 1998, the Company began to accrue
+its estimate of certain royalty revenues earned that previously could not be
+reasonably estimated prior to being reported by its licensees.
+
+   Basic earnings per common share are calculated by dividing net income by the
+weighted average number of common shares outstanding during the reporting
+period. Diluted earnings per common share reflect the potential dilutive effect,
+determined by the treasury stock method, of additional common shares that are
+issuable upon exercise of outstanding stock options and warrants, as follows (in
+thousands):
+
+
+                                       7
+<PAGE>   8
+
+<TABLE>
+<CAPTION>
+                                        THREE MONTHS ENDED
+                                   DECEMBER 27,    DECEMBER 28,
+                                       1998            1997
+                                   ------------    ------------
+<S>                                    <C>             <C>  
+                    Options            3,497           4,939
+                    Warrants            --               712
+                                       -----           -----
+                                       3,497           5,651
+                                       =====           =====
+</TABLE>
+
+   Options outstanding during the three months ended December 27, 1998 and
+December 28, 1997, to purchase approximately 6,639,000 and 1,143,000 shares of
+common stock, respectively, were not included in the computation of diluted EPS
+because the options' exercise price was greater than the average market price of
+the common stock during the period and, therefore, the effect would be
+anti-dilutive. The conversion of the Trust Convertible Preferred Securities is
+not assumed for all periods presented since its effect would be anti-dilutive.
+
+   In June 1997, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 130 ("FAS 130"), "Reporting
+Comprehensive Income," which the Company has adopted in the first quarter of
+fiscal 1999. This statement requires the Company to report in the financial
+statements, in addition to net income, comprehensive income and its components
+including, as applicable, foreign currency items, minimum pension liability
+adjustments and unrealized gains and losses on certain investments in debt and
+equity securities. The Company has not reported comprehensive income in any of
+the periods presented as items of other comprehensive income, primarily foreign
+currency items, were not material to the financial statements.
+
+   In June 1997, the FASB issued Statement of Financial Accounting Standards No.
+131 ("FAS 131"), "Disclosures about Segments of an Enterprise and Related
+Information," which the Company will be required to adopt for fiscal year 1999.
+This statement establishes standards for reporting information about operating
+segments in annual financial statements and requires selected information about
+operating segments in interim financial reports issued to shareholders. It also
+establishes standards for related disclosures about products and services,
+geographic areas and major customers. Under FAS 131, operating segments are to
+be determined consistent with the way that management organizes and evaluates
+financial information internally for making operating decisions and assessing
+performance. The Company has not determined the impact of the adoption of this
+new accounting standard on its consolidated financial statement disclosures.
+
+   In June 1998, the FASB issued Statement of Financial Accounting Standards No.
+133 ("FAS 133"), "Accounting for Derivative Instruments and Hedging Activities,"
+which the Company will be required to adopt for fiscal year 2000. This statement
+establishes a new model for accounting for derivatives and hedging activities.
+Under FAS 133, all derivatives must be recognized as assets and liabilities and
+measured at fair value. The Company has not determined the impact of the
+adoption of this new accounting standard on its consolidated financial position
+or results of operations.
+
+NOTE 2 -- SPIN-OFF OF LEAP WIRELESS INTERNATIONAL, INC.
+
+   On September 23, 1998, the Company completed the spin-off and distribution
+(the "Distribution" or "Leap Wireless Spin-off") to its stockholders of shares
+of Leap Wireless International, Inc., a Delaware corporation ("Leap Wireless").
+As part of the Distribution, effective immediately after the close of market
+trading on September 23, 1998, record holders of QUALCOMM common stock on
+September 11, 1998 received a dividend of one share of common stock of Leap
+Wireless for every four shares of common stock of QUALCOMM held by them as of
+that date. QUALCOMM's distribution of the shares was treated as a dividend and
+resulted in reducing the retained earnings balance to zero as of September 27,
+1998.
+
+   In connection with the Distribution, the Company transferred to Leap Wireless
+its joint venture and equity interests in the following domestic and
+international emerging terrestrial-based wireless telecommunications operating
+companies: Pegaso Telecommunicaciones, S.A. de C.V. ("Pegaso") (Mexico),
+Metrosvyaz Limited (Russia), Orrengrove Investments Limited (Russia), Chilesat
+Telefonia Personal, S.A. ("Chilesat PCS") (Chile), Chase Telecommunications,
+Inc. (United States), OzPhone Pty. Ltd. (Australia), and certain other
+development stage businesses. QUALCOMM and Leap Wireless also agreed that, if
+certain events occur within 18 months after the
+
+
+                                       8
+<PAGE>   9
+
+Distribution, QUALCOMM will transfer to Leap Wireless its equity interests and
+working capital loan related to Telesystems of Ukraine ("TOU"), a wireless
+telecommunications company in Ukraine.
+
+   On September 23, 1998, the Company recorded a $17.1 million liability in
+connection with its agreement to transfer its ownership interest in TOU and its
+working capital loan to TOU to Leap Wireless if certain events occur within 18
+months of the Leap Wireless Spin-off. During the first quarter of fiscal 1999,
+the Company provided an additional $1.7 million working capital loan to TOU
+offset by 100% of the losses of TOU, net of eliminations, which was recorded
+because the other investors' equity interests are depleted. Accordingly, the
+liability to transfer TOU was increased to approximately $17.8 million at
+December 27, 1998 with a corresponding reduction to paid-in-capital.
+
+NOTE 3 -- COMPOSITION OF CERTAIN BALANCE SHEET CAPTIONS
+
+Accounts Receivable:
+
+<TABLE>
+<CAPTION>
+                                                       DECEMBER 27,    SEPTEMBER 27,
+                                                           1998            1998
+                                                       ------------    -------------
+<S>                                                      <C>            <C>     
+      Accounts receivable, net (in thousands):
+        Trade, net of allowance for doubtful
+            accounts of $22,221 and $21,933,
+            respectively .........................       $628,139       $459,324
+        Long-term contracts:
+           Billed ................................        139,323        101,868
+           Unbilled ..............................         84,995         49,784
+        Other ....................................             31          1,233
+                                                         --------       --------
+                                                         $852,488       $612,209
+                                                         ========       ========
+</TABLE>
+
+   Unbilled receivables represent costs and profits recorded in excess of
+amounts billable pursuant to contract provisions and are expected to be realized
+within one year.
+
+Finance Receivables:
+
+<TABLE>
+<CAPTION>
+                                                   DECEMBER 27,      SEPTEMBER 27,
+                                                       1998              1998
+                                                   ------------      -------------
+<S>                                                  <C>              <C>      
+     Finance receivables .....................       $ 382,345        $ 348,907
+     Allowance for doubtful receivables ......          (8,527)          (4,955)
+                                                     ---------        ---------
+                                                       373,818          343,952
+     Current maturities ......................          66,461           56,201
+                                                     ---------        ---------
+     Noncurrent finance receivables, net .....       $ 307,357        $ 287,751
+                                                     =========        =========
+</TABLE>
+
+   Finance receivables result from sales under arrangements in which the Company
+has agreed to provide customers with long-term interest bearing debt financing
+for the purchase of equipment and/or services. Such financing is generally
+collateralized by the related equipment.
+
+   In March 1998, the Company agreed to defer up to $100 million of contract
+payments, with interest accruing at 5-3/4% capitalized quarterly, as customer
+financing under its development contract with Globalstar L.P. ("Globalstar").
+Financed amounts outstanding as of January 1, 2000, will be repaid in eight
+equal quarterly installments commencing as of that date, with final payment due
+October 1, 2001, accompanied by all then unpaid accrued interest. At December
+27, 1998, contract payments of approximately $100 million were outstanding from
+Globalstar as interest bearing financed amounts.
+
+   At December 27, 1998, commitments to extend long-term financing for possible
+future sales to customers totaled approximately $364 million through fiscal
+2004. Such commitments are subject to the customers meeting certain conditions
+established in the financing arrangements. Commitments represent the estimated
+amounts to be financed under these arrangements, however, actual financing may
+be in lesser or greater amounts.
+
+
+                                       9
+<PAGE>   10
+
+Inventories:
+
+<TABLE>
+<CAPTION>
+                                                   DECEMBER 27,       SEPTEMBER 27,
+                                                       1998               1998
+                                                   ------------       -------------
+<S>                                                  <C>                <C>     
+Inventories (in thousands):
+     Raw materials .......................           $160,016           $180,957
+     Work-in-progress ....................             78,461             81,479
+     Finished goods ......................             96,595            124,100
+                                                     --------           --------
+                                                     $335,072           $386,536
+                                                     ========           ========
+</TABLE>
+
+NOTE 4 - INVESTMENTS IN OTHER ENTITIES
+
+   In November 1998, the Company and Microsoft Corporation entered into a joint
+venture agreement pursuant to which each company obtained a 50% ownership
+interest in a newly formed development stage entity, Wireless Knowledge LLC, a
+Delaware limited liability company. Wireless Knowledge intends to form strategic
+partnerships with computing, software and telecommunications companies, as well
+as with wireless carriers, for the purpose of enabling secure and
+airlink-independent internet access to mobile users. Pursuant to the joint
+venture agreement, QUALCOMM made a capital contribution of $7.5 million during
+the first quarter of fiscal 1999 and will be required to provide $17.5 million
+in equity contributions through June 2000.
+
+   During the first quarter of fiscal 1999, the Company recognized a gain of
+$5.7 million from the sale of available-for-sale securities.
+
+NOTE 5 - INCOME TAXES
+
+   The Company's income tax provision for the three months ended December 27,
+1998 reflects an adjustment for the retroactive reinstatement of the R&D tax
+credit. Excluding this adjustment, the Company currently estimates its annual
+effective income tax rate to be approximately 35% for fiscal 1999.
+
+NOTE 6 - COMMITMENTS AND CONTINGENCIES
+
+LITIGATION
+
+  On September 23, 1996, Ericsson Inc. and Telefonaktiebolaget LM Ericsson
+("Ericsson") filed suit against the Company in Marshall, Texas and on December
+17, 1996, Ericsson also filed suit against the Company's subsidiary QUALCOMM
+Personal Electronics ("QPE") in Dallas, Texas with both complaints alleging that
+the Company's or QPE's CDMA products infringe one or more patents owned by
+Ericsson. The suits were later amended to include a total of 11 Ericsson
+patents. By order dated July 24, 1998, the Dallas action was transferred to
+Marshall, Texas. In December 1996, QUALCOMM filed a countersuit alleging, among
+other things, unfair competition by Ericsson based on a pattern of conduct
+intended to impede the acceptance and commercial deployment of QUALCOMM's CDMA
+technology and is seeking a judicial declaration that certain of Ericsson's
+patents are not infringed by QUALCOMM and are invalid. That countersuit has been
+consolidated with the Marshall, Texas action. On September 10, 1996, OKI
+America, Inc. ("OKI") filed a complaint against Ericsson seeking a judicial
+declaration that certain of OKI's CDMA subscriber products do not infringe 9
+patents of Ericsson and that such patents are invalid. The 9 patents are among
+the 11 patents at issue in the litigation between the Company and Ericsson. The
+OKI case has not yet been set for trial. On October 14, 1998, Ericsson filed a
+dismissal with prejudice of all of its claims under three of the patents at
+issue in the Marshall, Texas case. The Marshall case is set for trial on April
+6, 1999. Although there can be no assurances that an unfavorable outcome of the
+Marshall case would not have a material adverse effect on the Company's results
+of operations, liquidity or financial position, the Company believes the named
+Ericsson patents are not required to produce IS-95 compliant systems and that
+Ericsson's claims are without merit, and will continue to vigorously defend
+against this action.
+
+   On March 5, 1997, the Company filed a complaint against Motorola, Inc.
+("Motorola"). The complaint was filed in response to allegations by Motorola
+that the Company's recently announced Q phone infringes design and utility
+
+
+                                       10
+<PAGE>   11
+
+patents held by Motorola as well as trade dress and common law rights relating
+to the appearance of certain Motorola wireless telephone products. The complaint
+denies such allegations and seeks a judicial declaration that the Company's
+products do not infringe any patents held by Motorola. On March 10, 1997,
+Motorola filed a complaint against the Company (the "Motorola Complaint"),
+alleging claims based primarily on the above-alleged infringement. The Company's
+motion to transfer the Motorola Complaint to the U.S. District Court for the
+Southern District of California was granted on April 3, 1997. On April 24, 1997,
+the court denied Motorola's motion for a preliminary injunction thereby
+permitting the Company to continue to manufacture, market and sell the Q phone.
+On April 25, 1997, Motorola appealed the denial of its motion for a preliminary
+injunction. On January 16, 1998 the U.S. Court of Appeals for the Federal
+Circuit denied Motorola's appeal and affirmed the decision of the U.S. District
+Court for the Southern District of California refusing Motorola's request to
+enjoin QUALCOMM from manufacturing and selling the Q phone. On June 4, 1997,
+Motorola filed another lawsuit alleging infringement by QUALCOMM of 4 patents.
+Three of the patents had already been alleged in previous litigation between the
+parties. On August 18, 1997, Motorola filed another complaint against the
+Company alleging infringement by the Company of 7 additional patents. All of the
+Motorola cases have been consolidated for pretrial proceedings. The cases have
+been set for a final pretrial conference on April 19, 1999. Although there can
+be no assurance that an unfavorable outcome of the dispute would not have a
+material adverse effect on the Company's results of operations, liquidity or
+financial position, the Company believes Motorola's claims are without merit and
+will continue to vigorously defend the action.
+
+   On October 27, 1998, the Electronics and Telecommunications Research
+Institute of Korea ("ETRI") submitted to the International Chamber of Commerce a
+Request for Arbitration (the "Request") of a dispute with the Company arising
+out of a Joint Development Agreement dated April 30, 1992 ("JDA") between ETRI
+and the Company. In the Request, ETRI alleges that the Company has breached
+certain provisions of the JDA and seeks monetary damages and an accounting. The
+Company filed an answer and counterclaims denying the allegations, seeking a
+declaration establishing the termination of the JDA, and for monetary damages
+and injunctive relief against ETRI. In accordance with the JDA, the arbitration
+will take place in San Diego. No schedule for the arbitration proceedings has
+been established. Although the ultimate resolution of this dispute is subject to
+the uncertainties inherent in litigation or arbitration, the Company does not
+believe that the resolution of these claims will have a material adverse effect
+on the Company's results of operations, liquidity or financial position. The
+Company believes that ETRI's claims are without merit and will vigorously defend
+the action.
+
+   The Company is engaged in other legal actions arising in the ordinary course
+of its business and believes that the ultimate outcome of these actions will not
+have a material adverse effect on its results of operations, liquidity or
+financial position.
+
+LETTERS OF CREDIT AND FINANCIAL GUARANTEES
+
+   The Company provided a $58 million letter of credit on behalf of Chilesat PCS
+in 1997, which required the Company to reimburse Chilesat PCS for a portion of
+Chilean government fines if certain network build-out milestones were not met.
+Chilesat PCS received notification from the Chilean Undersecretariat of
+Telecommunications ("SUBTEL") that phases one and two of the network have passed
+certain acceptance tests performed by SUBTEL. As a result, the obligations under
+the Chilesat PCS letter of credit were released during the first quarter of
+fiscal 1999.
+
+   The Company has issued a letter of credit on behalf of its equity investee
+Globalstar, L.P. ("Globalstar") to support a guarantee of up to $22.5 million of
+borrowings under an existing bank financing agreement. The guarantee will expire
+in December 2000. The letter of credit is collateralized by a commensurate
+amount of the Company's investments in debt securities. As of December 27, 1998,
+Globalstar had no borrowings outstanding under the existing bank financing
+agreement.
+
+   In addition to the letter of credit on behalf of Globalstar, the Company has
+$51.7 million of letters of credit and $18.8 million of other financial
+guarantees outstanding, respectively, as of December 27, 1998, none of which are
+collateralized.
+
+
+                                       11
+<PAGE>   12
+
+PERFORMANCE GUARANTEES
+
+   The Company and its subsidiary, QPE, have entered into contracts that provide
+for performance guarantees to protect customers against late delivery or failure
+to perform. These performance guarantees, and any future commitments for
+performance guarantees, are obligations entered into separately, and in some
+cases jointly, with partners to supply CDMA subscriber and infrastructure
+equipment. Certain of these obligations provide for substantial performance
+guarantees that accrue at a daily rate based on percentages of the contract
+value to the extent the equipment is not delivered by scheduled delivery dates
+or the systems fail to meet certain performance criteria by such dates. The
+Company is dependent in part on the performance of its suppliers and strategic
+partners in order to provide equipment, which is the subject of the guarantees.
+Thus, the ability to timely deliver such equipment may be outside of the
+Company's control. If the Company and QPE are unable to meet their performance
+obligations, the payment of the performance guarantees could amount to a
+significant portion of the contract value and would have a material adverse
+effect on product margins and the Company's results of operations, liquidity or
+financial position.
+
+LEAP WIRELESS CREDIT FACILITY
+
+   The Company has a funding commitment to Leap Wireless in the form of a $265.0
+million secured credit facility. The credit facility consists of two
+sub-facilities. The first sub-facility enables Leap Wireless to borrow up to
+$35.2 million from QUALCOMM, solely to meet the normal working capital and
+operating expenses of Leap Wireless, including salaries, overhead and credit
+facility fees, but excluding, among other things, strategic capital investments
+in wireless operators, substantial acquisitions of capital products, and/or the
+acquisition of telecommunications licenses. The other sub-facility enables Leap
+Wireless to borrow up to $229.8 million from QUALCOMM, solely to use as
+investment capital to make certain identified portfolio investments. Amounts
+borrowed under the credit facility will be due September 23, 2006. QUALCOMM will
+have a first priority security interest in, subject to minor exceptions,
+substantially all of the assets of Leap Wireless for so long as any amounts are
+outstanding under the credit facility. Amounts borrowed under the credit
+facility will bear interest at a variable rate equal to LIBOR plus 5.25% per
+annum. Interest will be payable quarterly beginning September 30, 2001; and
+prior to such time, accrued interest shall be added to the principal amount
+outstanding. At December 27, 1998, $21.1 million is outstanding under this
+facility.
+
+
+                                       12
+<PAGE>   13
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF RESULTS OF OPERATIONS AND
+         FINANCIAL CONDITION
+
+   This information should be read in conjunction with the condensed
+consolidated financial statements and the notes thereto included in Item 1 of
+Part I of this Quarterly Report and the audited consolidated financial
+statements and notes thereto and Management's Discussion and Analysis of Results
+of Operations and Financial Condition for the year ended September 27, 1998
+contained in the Company's 1998 Annual Report on Form 10-K.
+
+   Except for the historical information contained herein, the following
+discussion contains forward-looking statements that involve risks and
+uncertainties. QUALCOMM Incorporated's ("QUALCOMM" or the "Company") future
+results could differ materially from those discussed here. Factors that could
+cause or contribute to such differences include, but are not specifically
+limited to: the ability to develop and introduce cost effective new products in
+a timely manner, avoiding delays in the commercial implementation of the Code
+Division Multiple Access ("CDMA") technology; continued growth in the CDMA
+subscriber population and the scale-up and operations of CDMA systems;
+developments in current or future litigation; the Company's ability to
+effectively manage growth and the intense competition in the wireless
+communications industry; risks associated with vendor financing; timing and
+receipt of license fees and royalties; the Company's ability to successfully
+manufacture and sell significant quantities of CDMA infrastructure equipment on
+a timely basis; failure to satisfy performance obligations; as well as the other
+risks detailed in this section, in the sections entitled Results of Operations
+and Liquidity and Capital Resources, and in the Company's 1998 Annual Report on
+Form 10-K.
+
+OVERVIEW
+
+   QUALCOMM is a leading provider of digital wireless communications products,
+technologies and services. The Company generates revenues primarily from:
+license fees and royalties paid by licensees of the Company's CDMA technology;
+sales of CDMA subscriber, infrastructure and Application Specific Integrated
+Circuits ("ASICs") products to domestic and international wireless
+communications equipment suppliers and service providers; sales of OmniTRACS
+terminals and related software and services to OmniTRACS users; and contract
+development services, including the design and development of subscriber and
+ground communications equipment for Globalstar L.P. ("Globalstar"), a
+low-Earth-orbit satellite system utilizing CDMA technology (the "Globalstar
+System"). In addition, the Company generates revenues from the design,
+development, manufacture and sale of a variety of other communications products
+and services.
+
+   The Company generates revenue from its CDMA licensees in the form of up-front
+licenses as well as ongoing royalties based on worldwide sales by such licensees
+of CDMA subscriber and infrastructure equipment. License fees are generally
+nonrefundable and may be paid in one or more installments. Revenues generated
+from license fees and royalties are subject to quarterly and annual
+fluctuations. This is due to variations in the amount and timing of recognition
+of CDMA license fees, pricing and amount of sales by the Company's licensees and
+the Company's ability to estimate such sales, and the impact of currency
+fluctuations, and risks associated with royalties generated from international
+licensees.
+
+   The Company manufactures CDMA infrastructure products for sale to wireless
+network operators worldwide. The Company has entered into agreements regarding
+the manufacture and supply of CDMA infrastructure products with, among others,
+Hitachi, Hughes and Nortel. The Company manufactures its CDMA subscriber
+products primarily through QUALCOMM Personal Electronics ("QPE"), a joint
+venture between the Company and a subsidiary of Sony Electronics, Inc. The
+Company, through QPE, is one of the largest manufacturers of CDMA handsets. The
+Company has also generated substantial revenue from the design and sale of CDMA
+ASICs to its licensees for incorporation into their subscriber and
+infrastructure products.
+
+   The Company's infrastructure business continues to incur losses, and the
+recent financial crisis in developing markets has seriously impacted
+infrastructure product sales in fiscal 1999. The infrastructure business has
+been strategic to QUALCOMM in driving the acceptance of CDMA technology and the
+deployment of CDMA networks around the world, which in turn has resulted in
+royalties and phone and ASIC sales. The Company is reviewing several strategic
+alternatives including developing programs to reduce costs and lower the
+breakeven point for its 
+
+
+                                       13
+<PAGE>   14
+
+infrastructure business, as well as focusing business development activities on
+markets with a high potential for near-term results.
+
+   The Company generates revenues from its domestic OmniTRACS business by
+manufacturing and selling OmniTRACS terminals and related application software
+packages and by providing ongoing messaging and maintenance services to domestic
+OmniTRACS users. The Company generates revenues from its international OmniTRACS
+business through license fees, sales of network products and terminals, and
+service fees. International messaging services are provided by service providers
+that operate network management centers for a region under licenses granted by
+the Company.
+
+   The Company has entered into a number of development and manufacturing
+contracts involving the Globalstar System. The Company's development agreement
+provides for the design and development of the ground communications stations
+("gateways") and user terminals of the Globalstar System. Under the agreement,
+the Company is reimbursed for its development services on a cost-plus basis. In
+addition, in April 1997 the Company was awarded a contract to manufacture and
+supply commercial gateways for deployment in the Globalstar System. In March
+1998, the Company entered into an agreement with Globalstar to manufacture and
+supply portable and fixed CDMA handsets that will operate on the Globalstar
+System.
+
+   The manufacture of wireless communications products is complex and precise
+process involving specialized material, manufacturing and testing equipment and
+processes. The majority of the Company's products are manufactured based upon a
+forecast of market demand, which the Company cannot assure that its market
+demand forecasts will be accurate or that it will be able to effectively meet
+customer demand in a timely manner. Factors that could materially and adversely
+affect the Company's ability to meet customer demand include defects or
+impurities in the components or materials used, delays in the delivery of such
+components or materials, equipment failures or other difficulties. The Company
+may experience component failures or defects which could require significant
+product recalls, reworks and/or repairs which are not covered by warranty
+reserves and which could consume a substantial portion of the Company's
+manufacturing capacity.
+
+   Revenues from customers outside of the U.S. accounted for approximately 34%
+of total revenues in fiscal 1998. Sales of subscriber, infrastructure and ASICs
+products, internationally, are subject to a number of risks, including delays in
+opening of foreign markets to new competitors, exchange controls, currency
+fluctuations, investment policies, repatriation of cash, nationalization, social
+and political risks, taxation and other factors, depending on the country in
+which such opportunity arises.
+
+   Wireless and satellite network operators, both domestic and international,
+increasingly have required their suppliers to arrange or provide long-term
+financing for them as a condition to obtaining or bidding on infrastructure
+projects. In providing such financing, the Company is exposed to risk from
+fluctuations in foreign currency and interest rates, which could impact the
+Company's results of operations and financial condition. QUALCOMM's financing on
+products and services is denominated in dollars and any significant change in
+the value of the dollar against the national currency where QUALCOMM is lending
+could result in the increase of costs to the debtors and could restrict the
+debtors from fulfilling their contractual obligations. Any devaluation in the
+local currency relative to the currencies in which such liabilities are payable
+could have a material adverse effect on the Company. In some developing
+countries, including Chile, Mexico, Brazil, Russia and Ukraine, significant
+currency devaluation relative to the U.S. dollar have occurred and may occur
+again in the future. In such circumstances, the Company may experience economic
+loss with respect to the collectability of its receivables and the
+recoverability of inventories as a result of exchange rate fluctuations.
+
+   The Russian and Ukraine economic and political environments recently have
+experienced severe volatility which could negatively impact the Company's
+prospects in those countries and have a material adverse effect on the Company's
+business, results of operations, liquidity and financial position. The Company
+currently has approximately $20 million in Russian/Ukrainian receivables and an
+additional $33 million in products and deployment services placed with carriers
+for which the Company has not yet recognized revenues. The Company cannot
+guarantee that these carriers will have sufficient resources to complete their
+planned projects. The failure of any of these emerging service carriers to
+obtain sufficient financing to meet their regulatory obligations could adversely
+affect the value of the Company's receivables and inventories residing with
+these customers.
+
+
+                                       14
+<PAGE>   15
+
+   The Company is currently negotiating the transfer of its equity ownership in
+Telesystems of Ukraine ("TOU") to Leap Wireless International ("Leap Wireless").
+The viability of TOU is dependent upon the Company providing additional working
+capital loans or vendor financing to TOU, which is subject to the occurrence of
+specific management and ownership restructuring events under negotiation with
+TOU. The Company has a net asset exposure of $30 million. Industry participants
+and the International Telecommunications Union ("ITU"), an organization based in
+Geneva, Switzerland, are currently considering a variety of standards for third
+generation wireless networks which will fulfill the requirements of the ITU's
+IMT-2000 concept. The Company is advocating the standardization of a single,
+converged CDMA-based third generation standard that accommodates equally the two
+dominant network standards in use today. There can be no assurance that the
+Company will be successful in promoting the adoption of a single CDMA standard
+or that such a standard, if adopted, will be compatible with today's cdmaOne
+networks. The Company believes that its CDMA patent portfolio is applicable to
+other CDMA proposals for other third generation standards and has informed
+standards bodies and the ITU that it holds essential intellectual property
+rights for third generation proposals submitted for IMT-2000 based on CDMA.
+Further, the Company intends to vigorously enforce and protect its intellectual
+property position against any infringement. However, there can be no assurance
+that the Company's CDMA patents will be determined to be applicable to any
+proposed standard or that the Company will be able to redesign its products on a
+cost-effective and timely basis to incorporate next generation wireless
+technology. The adoption of next generation standards which are incompatible
+with cdmaOne or which are determined not to rely on the Company's intellectual
+property could have a material adverse effect on the Company's business, results
+of operations, liquidity and financial position.
+
+   The Company has indicated its willingness to license its intellectual
+property rights on fair, reasonable and non-discriminatory terms for standards
+meeting a set of technical criteria based on three fairness principles which
+support convergence of all proposed third generation CDMA technologies. The
+fairness principles are: (1) a single, converged worldwide CDMA standard should
+be selected as the third generation standard; (2) the converged CDMA standard
+must accommodate equally the two dominant network standards in use today; and
+(3) disputes on specific technological points should be resolved by selecting
+the proposal that either is demonstrably superior in terms of performance,
+features, or cost, or in the case of alternatives with no demonstrable material
+difference, the choice that is most compatible with existing technology.
+
+   A review of the Company's current litigation is disclosed in the Notes to
+Condensed Consolidated Financial Statements (see Notes to Condensed Consolidated
+Financial Statements -- Note 6 Commitments and Contingencies). The Company is
+also engaged in other legal actions arising in the ordinary course of its
+business and believes that the ultimate outcome of these actions will not have a
+material adverse effect on its results of operations, liquidity or financial
+position.
+
+RECENT DEVELOPMENTS
+
+   During the commercial start-up of its system in Chile with Chilesat Telefonia
+Personal, S.A. ("Chilesat PCS"), the Company's equipment experienced certain
+problems relating to the performance of the system. As a result, Chilesat PCS
+has claimed that the Company is in breach of contract. The Company has tested
+and delivered a processor upgrade which the Company believes resolves the claim.
+Although there can be no assurance that the Company's processor upgrade will
+resolve the claim until the system is at specified capacity, the Company does
+not believe that the resolution of this claim will have a material adverse
+effect on the Company.
+
+
+                                       15
+<PAGE>   16
+
+RESULTS OF OPERATIONS
+
+   The following table sets forth, for the periods indicated, the percentages of
+total revenues represented by certain consolidated statements of operations
+data:
+
+<TABLE>
+<CAPTION>
+                                                       THREE MONTHS ENDED
+
+                                                     DECEMBER 27,   DECEMBER 28,
+                                                         1998          1997
+                                                     ------------   ------------
+<S>                                                       <C>          <C>
+     Revenues:                                                          
+         Communications systems .................         87%          86%
+         Contract services ......................          8            8
+         License, royalty and development fees ..          5            6
+                                                        ----         ----
+     Total revenues .............................        100%         100%
+                                                        ----         ----
+
+     Operating expenses:
+         Communications systems .................         62%          65%
+         Contract services ......................          6            6
+         Research and development ...............         11            9
+         Selling and marketing ..................          7            7
+         General and administrative .............          5            5
+         Other ..................................       --              1
+                                                        ----         ----
+     Total operating expenses ...................         92%          93%
+                                                        ----         ----
+
+     Operating income ...........................          8            7
+     Interest income, net .......................       --              1
+     Net gain on sale of investments ............          1         --
+     Distributions on trust convertible preferred
+          securities of subsidiary trust ........         (1)          (1)
+     Minority interest in (income) loss of
+         consolidated subsidiaries ..............       --           --
+     Equity in losses of investees ..............       --           --
+                                                        ----         ----
+     Income before income taxes .................          8            7
+     Income tax expense .........................          3            2
+                                                        ----         ----
+     Net income .................................          5%           5%
+                                                        ====         ====
+     Communications systems costs as a percentage
+         of communications systems revenues .....         72%          75%
+     Contract services costs as a percentage
+         of contract services revenues ..........         72%          72%
+</TABLE>
+
+     Note: The operating expense percentages for the three months ended December
+27, 1998 do not sum due to rounding.
+
+FIRST QUARTER OF FISCAL 1999 COMPARED TO FIRST QUARTER OF FISCAL 1998
+
+   Total revenues for the first quarter of fiscal 1999 were $941 million, an
+increase of $155 million or 20% compared to total revenues of $786 million for
+the first quarter of fiscal 1998. Revenue growth was primarily due to the
+significant growth in revenues related to communications systems.
+
+   Communications systems revenues, which consisted primarily of sales of CDMA
+subscriber, infrastructure and ASICs products, the sale of OmniTRACS products
+and services, and sales of commercial gateways for deployment in the Globalstar
+System, were $817 million in the first quarter of fiscal 1999, an increase of
+$140 million or 21% compared to $677 million for the same period in fiscal 1998.
+The increase represents the higher volume of sales of CDMA subscriber and ASICs
+products, increased revenues from the expansion of the installed OmniTRACS base
+in the U.S., and sales of commercial gateways for deployment in the Globalstar
+System. Revenue from the sale of Globalstar gateways will decline on a
+sequential quarter basis in the second quarter, which will adversely affect
+revenues.
+
+
+                                       16
+<PAGE>   17
+
+   Contract services revenues for the first quarter of fiscal 1999 were $80
+million, a 25% increase compared to $64 million for the same period in fiscal
+1998. The dollar increase resulted primarily from revenues from the development
+agreement with Globalstar.
+
+   License, royalty and development fees for the first quarter of fiscal 1999
+were $44 million, consistent with revenues of $45 million for the same period in
+fiscal 1998. In the first quarter of 1999, shipments of CDMA equipment by
+licensees increased, resulting in increased royalty payments to the Company.
+This increase was offset by a decline in up-front license payments. Beginning
+with the second quarter of fiscal 1998, the Company began to accrue its estimate
+of certain royalty revenues earned that previously could not be reasonably
+estimated prior to being reported by its licensees. License, royalty and
+development fees may continue to fluctuate quarterly due to the timing and
+amount of up-front fees on new licenses, royalties from sales by the Company's
+licensees and changes in foreign currency exchange rates.
+
+   Costs of communications systems were $585 million or 72% of communications
+systems revenues for the first quarter of fiscal 1999 compared to $507 million
+or 75% of communications systems revenues for the first quarter of fiscal 1998.
+The dollar increase in costs resulted primarily from the costs associated with
+sales of commercial gateways in the first quarter of fiscal 1999. There were no
+commercial gateway sales in the first quarter of 1998. The decrease in
+communications systems costs as a percentage of communications systems revenues
+primarily reflects operational efficiencies, design improvements, and volume
+discounts obtained from suppliers. Communications systems costs as a percentage
+of communications systems revenues may fluctuate in future quarters depending on
+mix of products sold, competitive pricing and other factors.
+
+   Contract services costs for the first quarter of fiscal 1999 were $57 million
+or 72% of contract services revenues, compared to $46 million or 72% of contract
+services revenues for the first quarter of fiscal 1998. The dollar increase in
+contract services costs was primarily related to increased sales under the
+Globalstar development contract.
+
+   Research and development expenses were $100 million or 11% of revenues for
+the first quarter of fiscal 1999, compared to $75 million or 9% of revenues for
+the same period in fiscal 1998. The dollar increase resulted from increased
+investments in the development of CDMA related infrastructure, ASICs and
+subscriber products.
+
+   Selling and marketing expenses were $70 million or 7% of revenues for the
+first quarter of fiscal 1999, compared to $56 million or 7% of revenues for the
+same period in fiscal 1998. The dollar increase of selling and marketing expense
+was due primarily to growth in personnel associated with increased national and
+international marketing activities and increased marketing costs in connection
+with sales of CDMA subscriber and ASICs products.
+
+   General and administrative expenses for the first quarter of fiscal 1999 were
+$51 million or 5% of revenues, compared to $36 million or 5% of revenues for the
+first quarter of fiscal 1998. The dollar increase was attributable to growth in
+personnel and associated overhead expenses necessary to support the overall
+growth in the Company's operations and increased patent and information
+technology expenses.
+
+   During November 1997, the Company acquired, for $10 million, substantially
+all of the assets of Now Software, Inc. In connection with this asset purchase,
+acquired in-process research and development of $7 million, representing the
+fair value of software products still in the development stage that had not yet
+reached technological feasibility, was expensed at the acquisition date. This
+expense was included in other operating expenses. Also during the first quarter
+of fiscal 1998, the Company recorded a $5 million non-cash charge to operations
+relating to the impairment of leased manufacturing equipment that is no longer
+used in the manufacturing process. The $5 million charge represented the
+estimated total cost of related lease obligations, net of estimated recoveries.
+
+   Interest income was $6 million for the first quarter of fiscal 1999, compared
+to $12 million for the same period in fiscal 1998. In 1998, the Company had
+higher cash balances as a result of completing the private placement of $660
+million of 5 3/4% Trust Convertible Preferred Securities. Furthermore, the
+Company is recognizing interest income on finance receivables which has
+increased over the same period in fiscal 1998.
+
+   Interest expense was $3 million for the first quarter of fiscal 1999,
+consistent with $3 million for the same period in fiscal 1998.
+
+
+                                       17
+<PAGE>   18
+
+   During the first quarter of fiscal 1999, the Company recognized a gain of $6
+million on the sale of available-for-sale securities, as compared to a net gain
+of $3 million during the same period in fiscal 1998, from the sale of, and other
+investing activities related to, investments in other entities.
+
+   Distributions on Trust Convertible Preferred Securities of $10 million for
+the first quarter of fiscal 1999 and 1998 relate to the $660 million of 5-3/4%
+Trust Convertible Preferred Securities issued by the Company in March 1997.
+
+   The minority interest represents other parties' or stockholders' share of the
+income or losses of consolidated subsidiaries, including QPE, a joint venture
+with a subsidiary of Sony.
+
+   Income tax expense was $23 million for the first quarter of fiscal 1999,
+compared to $20 million for the same period in fiscal 1998, resulting primarily
+from higher pre-tax earnings in 1999. The income tax expense for the first
+quarter of fiscal 1999 reflects the benefit for the reinstatement of the R&D tax
+credit retroactive to July 1, 1998. The annual effective tax rate in 1999 is
+currently estimated to be 35%, compared to 30% for fiscal 1998.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+   The Company anticipates that the cash and cash equivalents and investments
+balances of $237 million at December 27, 1998, including interest earned
+thereon, will be used to fund working and fixed capital requirements, including
+facilities related to the expansion of its operations, financing for customers
+of its CDMA infrastructure products and investment in joint ventures or other
+companies and other assets to support the growth of its business. The Company
+contemplates raising additional funds from a combination of sources including
+potential debt and equity issuances. The Company may also seek to expand its
+bank credit lines. There can be no assurance that additional financing will be
+available on acceptable terms or at all. In addition, the Company's Credit
+Facility, as well as notes and indentures, place restrictions on the Company's
+ability to incur additional indebtedness which could adversely affect its
+ability to raise additional capital through debt financing.
+
+   On March 11, 1998, the Company and a group of banks entered into a credit
+facility (the "Credit Facility") under which the banks are committed to make up
+to $400 million in revolving loans to the Company and to extend letters of
+credit on behalf of the Company. The Credit Facility expires in March 2001 and
+may be extended on an annual basis thereafter, subject to approval of a
+requisite percentage of the lenders. Letters of credit outstanding reduce the
+amount available for borrowing. The Company is currently obligated to pay
+commitment fees equal to 0.3% per annum on the unused amount of the Credit
+Facility. The Credit Facility includes certain restrictive financial and
+operating covenants. At December 27, 1998, $170 million in borrowings and $7.7
+million letters of credit were outstanding under the Credit Facility.
+
+   In the first quarter of fiscal 1999, $138 million in cash was used by
+operating activities, compared to $68 million provided by operating activities
+in the first quarter of fiscal 1998. Cash used by operating activities in the
+first quarter of fiscal 1999 and 1998 includes $230 million and $11 million,
+respectively, of net working capital requirements offset by $92 million and $79
+million, respectively, of net cash flow provided by operations. Net working
+capital requirements of $230 million during the first quarter of fiscal 1999
+primarily reflect increases in accounts receivable and finance receivables which
+were offset by an increase in accounts payable and accrued liabilities and a
+decrease in inventories. The increase in accounts receivable and finance
+receivables in the first quarter of fiscal 1999 primarily reflects the continued
+growth in products and component sales. The increase in accounts payable and
+accrued liabilities are primarily attributable to the growth of the business.
+The reduction in total inventory is primarily the result of inventory management
+programs.
+
+   The Company has entered into strategic alliance agreements to support the
+design and manufacture of CDMA infrastructure products. In one of these
+agreements, in which QUALCOMM participates on a percentage basis with the prime
+contractor, outstanding finance receivables of $26 million from the prime
+contractor are being withheld subject to the end-customer's complete acceptance
+of the total system. There is currently a dispute between the prime contractor
+and the end-customer as to the contract language of the acceptance criteria. The
+Company believes 
+
+
+                                       18
+<PAGE>   19
+
+it has met its obligations and is entitled to payment under the contract. The
+Company is exposed to the extent the prime contractor is not successful in
+obtaining the customer's acceptance or negotiates a reduced payment.
+
+   Investments in capital expenditures, intangible assets and other entities
+totaled $70 million in the first quarter of fiscal 1999, compared to $92 million
+in the same period of fiscal 1998. Significant components in the first quarter
+of fiscal 1999 consisted of the purchase of $63 million of capital assets, and
+the investment of $8 million in a newly formed development stage entity. The
+Company expects to continue making significant investments in capital assets,
+including new facilities and building improvements throughout fiscal 1999.
+
+   In the first quarter of fiscal 1999, the Company's financing activities
+provided $144 million. The Company and QPE borrowed net amounts of $90 million
+and $47 million, respectively, on their outstanding credit facilities, and the
+Company realized $8 million in proceeds from the issuance of common stock under
+the Company's stock option and employee stock purchase plans. In the first
+quarter of fiscal 1998, the Company's financing activities used net cash of $20
+million. The first quarter of fiscal 1998 included $12 million from the issuance
+of common stock under the Company's stock option and employee stock purchase
+plans, offset by $32 million in net repayments on long-term debt.
+
+   During March 1998, the Company agreed to defer up to $100 million of contract
+payments, with interest accruing at 5-3/4% capitalized quarterly, as customer
+financing under its development contract with Globalstar. Financed amounts
+outstanding as of January 1, 2000, will be repaid in eight equal quarterly
+installments commencing as of that date, with final payment due October 1, 2001,
+accompanied by all then unpaid accrued interest. At December 27, 1998, contract
+payments of approximately $100 million were outstanding from Globalstar as
+interest bearing financed amounts and are included in finance receivables.
+
+   At December 27, 1998, commitments to extend long-term financing for possible
+future sales to customers totaled approximately $364 million through fiscal
+2004. Such commitments are subject to the customers meeting certain conditions
+established in the financing arrangements. Commitments represent the estimated
+amounts to be financed under these arrangements. Actual financing may be in
+lesser or greater amounts.
+
+   The Company is considering providing a guarantee of a working capital bank
+loan of $100 million to its customer, Pegaso Telecommunications, S.A. de C.V.,
+to facilitate its network launch and purchase of equipment from the Company.
+
+   The Company has issued a letter of credit to support a guarantee of up to
+$22.5 million of Globalstar borrowings under an existing bank financing
+agreement. The guarantee will expire in December 2000. The letter of credit is
+collateralized by a commensurate amount of the Company's investments in debt
+securities. As of December 27, 1998, Globalstar had no borrowings outstanding
+under the existing bank financing agreement.
+
+   As part of the Company's strategy of supporting the commercialization and
+sale of its CDMA technology and products, the Company may from time to time
+enter into strategic alliances with domestic and international emerging wireless
+telecommunications operating companies. These alliances often involve the
+investment by QUALCOMM of substantial equity in the operating company, as well
+as a commitment by the operating company to purchase CDMA equipment from
+QUALCOMM. At December 27, 1998, the Company has investments in Shinsegi
+Telecomm, Inc. (Korea) and Telesystems of Ukraine. At December 27, 1998, there
+were no unfunded equity commitments related to these investments.
+
+   In November 1998, the Company and Microsoft Corporation entered into a joint
+venture agreement pursuant to which each company obtained a 50% ownership
+interest in a newly formed development stage entity, Wireless Knowledge LLC, a
+Delaware limited liability company. Wireless Knowledge intends to form strategic
+partnerships with computing, software and telecommunications companies, as well
+as with wireless carriers, for the purpose of enabling secure and
+airlink-independent internet access to mobile users. Pursuant to the joint
+venture agreement, QUALCOMM made a capital contribution of $7.5 million during
+the first quarter of fiscal 1999 and will be required to provide $17.5 million
+in equity contributions through June 2000.
+
+
+                                       19
+<PAGE>   20
+
+   A consortium comprised of Bell Canada International Inc. (34.4%), QUALCOMM
+Incorporated (16.2%), SLI Wireless S.A. (12.5%), Taquari Participaoes S.A.
+(2.5%) and WLL International (34.4%) announced on January 15, 1999 that it has
+won an operating license ("Mirror License") to provide fixed telephone services
+in the northeast region of Brazil. QUALCOMM will invest approximately $6 million
+over the next two years related to its 16.2% share of the license fee. In
+addition, the Company expects to make equity contributions over the next three
+years in amounts approximating $45 million.
+
+   QUALCOMM has a substantial funding commitment to Leap Wireless in the form of
+a $265.0 million secured credit facility. The credit facility consists of two
+sub-facilities. The first sub-facility enables Leap Wireless to borrow up to
+$35.2 million from QUALCOMM, solely to meet the normal working capital and
+operating expenses of Leap Wireless, including salaries, overhead and credit
+facility fees, but excluding, among other things, strategic capital investments
+in wireless operators, substantial acquisitions of capital products, and/or the
+acquisition of telecommunications licenses. The other sub-facility enables Leap
+Wireless to borrow up to $229.8 million from QUALCOMM, solely to use as
+investment capital to make certain identified portfolio investments. Amounts
+borrowed under the credit facility will be due on September 23, 2006. QUALCOMM
+will have a first priority security interest in, subject to minor exceptions,
+substantially all of the assets of Leap Wireless for so long as any amounts are
+outstanding under the credit facility. Amounts borrowed under the credit
+facility will bear interest at a variable rate equal to LIBOR plus 5.25% per
+annum. Interest will be payable quarterly beginning September 30, 2001; and
+prior to such time, accrued interest shall be added to the principal amount
+outstanding. At December 27, 1998, $21.1 million was outstanding under this
+facility.
+
+YEAR 2000 READINESS
+
+   The Year 2000 ("Y2K") issue relates to the way computer systems and programs
+define calendar dates. A system could fail or make miscalculations due to the
+interpretation of a date including "00" to mean 1900 and not 2000. Also, other
+systems and products that are not typically recognized as computer or
+information technology related may contain embedded hardware or software that
+would be affected by this issue.
+
+   The Company has developed a plan tied to specific completion dates. As of
+December 27, 1998, the Company's Y2K Project ("Project"), designed to minimize
+the impact of such computer problems on the results of operations, is proceeding
+on schedule. However, the Company is unable to completely determine at this time
+whether the consequences of Y2K failures will have a material impact on the
+Company's results of operations, liquidity or financial condition. The failure
+to correct a material Y2K problem could result in an interruption in, or a
+failure of, certain normal business activities or operations. Such failures
+could materially and adversely affect the Company's results of operations,
+liquidity and financial condition. This is due to the general uncertainty
+inherent in the Y2K problems, resulting in part from the uncertainty of the Y2K
+readiness of third-party suppliers, customers and utility services.
+
+   During fiscal 1997, the Company initiated a strategy to begin work on the
+correction of Y2K problems. As part of this strategy, a Y2K Program Office was
+formed consisting of a Program director, key individuals in the business units,
+analysts and administrative support. The Program Office is directly focusing
+attention and required resources on the Company's Y2K issues. The Company has
+also engaged an outside consulting firm to assist with project management,
+conversion and testing of Y2K issues. All Y2K efforts are being coordinated
+through the Program Office to ensure consistency of approach and the ultimate
+readiness of QUALCOMM. This strategy is expected to reduce the Company's level
+of uncertainty about the Y2K problem and in particular, about the Y2K compliance
+and readiness of the Company's material customers and suppliers. The Company
+believes that with the completion of the Project as scheduled, the possibility
+of significant interruptions of normal operations will be reduced.
+
+   The Y2K Company's Program Office is addressing the issues under four major
+sections: Internal Readiness, Supply Chain Assessment, Product Compliance and
+Customer Compliance. Each section is evaluated through four phases: Discovery,
+Assessment, Remediation and Post-Remediation. Discovery is the process of
+inventorying potential Y2K issues throughout the Company's business process.
+Assessment is the process of categorizing issues that were identified in the
+Discovery phase into "ready," "not ready" or "needs more study." Remediation is
+the process of fixing and testing those items that must be ready for the Y2K.
+Post-Remediation is the process of addressing Y2K issues that were not
+previously or not adequately corrected.
+
+
+                                       20
+<PAGE>   21
+
+   Internal Readiness includes the computing and communications infrastructure,
+the tools and systems used to develop products and run the business, and
+internal service organizations. As of December 27, 1998, the Company has
+identified the majority of the systems and non-computer related items that
+require remediation or replacement and these remediation efforts have begun.
+Those items considered most critical to continuing operations are given the
+highest priority, and all testing is scheduled to be complete by June 1999. The
+Company has completed a dedicated Y2K compliance testing lab for testing the
+Company's computing and communications infrastructure as well as the Company's
+business tools. Non-compliant systems are scheduled to be retired, replaced, or
+repaired by September 1999. At this time, no problems have been identified that
+will not be corrected by year-end 1999.
+
+   Supply Chain Assessment involves evaluating the Y2K readiness of QUALCOMM's
+suppliers and their ability to continue delivering materials and services after
+1999. The Company has initiated formal communications with significant suppliers
+to determine the Company's vulnerability to suppliers' Y2K issues. The Company
+has requested that third party vendors represent their products and services to
+be Y2K compliant and that they have a program to test for that compliance. As of
+December 27, 1998, compliance information has been received from all critical
+suppliers. On-site visits of key suppliers for the purpose of verifying Y2K
+compliance status are planned to be conducted during the first calendar quarter
+of 1999. The Company expects to identify all critical suppliers
+state-of-readiness for Y2K compliance by March 30, 1999. At this date, if the
+Company determines a critical supplier will not be Y2K compliant by June 1999,
+the Company will continue to work with the supplier to assist them in achieving
+compliance, while in parallel initiating a search for alternate solutions to
+avoid supply chain interruptions. At this time, no critical suppliers have been
+identified as non-compliant.
+
+   Product Compliance includes the review of QUALCOMM's products for Y2K
+compliance. The Company's program office has been working with individual
+business unit managers to review all QUALCOMM products for Y2K compliance. The
+Company believes that the majority of its products are compliant with further
+formal verification being initiated where required. All testing for Y2K product
+compliance is scheduled for completion by June 1999. The Company estimates all
+products will be Y2K compliant by September 1999 or an upgrade or migration path
+will be available for legacy products. The Company is scheduled to issue a
+definitive statement of Y2K readiness for its products before July 1999.
+
+   Customer Compliance reviews QUALCOMM's major customers for Y2K compliance.
+The Program Office has organized a review targeted to cover a significant
+portion of the Company's customers. Customer lists have been identified and
+survey work has begun. The Company does not currently have sufficient
+information concerning the Y2K compliance status of the Company's major
+customers. The Company is continuing to request information from customers to
+understand their state of readiness for Y2K compliance. The Company has
+scheduled this process to be complete by June 1999.
+
+   While the Company expects these efforts will provide reasonable assurance
+that material disruptions will not occur due to internal failure, the potential
+for interruption still exists. The need for a contingency plan is recognized and
+plans will be developed to deal with such issues as "at risk" suppliers and
+interruption of utility and other services. The response of certain third
+parties is beyond the control of the Company. If the Company does not receive
+adequate Y2K compliant responses from its suppliers or customers prior to April
+1999, contingency plans will be developed and scheduled for no later than April
+1999. Contingency plans may include increasing inventory levels, securing
+alternate sources of supply, adjusting alternate shutdown and start-up schedules
+and other appropriate measures. At this time, the Company cannot estimate the
+additional cost, if any, that might develop from the implementation of such
+contingency plans.
+
+   The Company believes its critical systems will be Y2K compliant by June 1999.
+However, there is no guarantee that these results will be achieved. Specific
+factors giving to this uncertainty include failure to identify all susceptible
+systems, non-compliance by third parties whose systems and operations impact the
+Company and other similar uncertainties. A worst case scenario might include one
+or more of the Company's internal systems, suppliers or customers being
+non-compliant. An event such as this could result in a material disruption to
+the Company's operations. Specifically, the Company could experience software
+application, computer network, manufacturing products and telephone system
+failures. Supply chain and product non-compliance could result in the failure of
+the Company to perform on contracts, delayed delivery of products to customers
+and inadequate customer service. 
+
+
+                                       21
+<PAGE>   22
+
+Customer non-compliance could result in delayed payments for products and
+services and build up of inventories. Should a worst case scenario occur, it
+could, depending on its duration, have a material adverse effect on the
+Company's business, results of operations, liquidity and financial position.
+
+   To become Y2K compliant, the Company's total cost associated with required
+modifications is not expected to be material to the Company's financial
+position. To date the Company has spent an estimated $7 million on this Project.
+Total budgeted cost at this time is estimated at $28 million of which $20
+million represents the cost of staff and consultants to perform the Project and
+$8 million is the cost of software tools for discovery and testing as well as
+expenditures to replace older equipment that cannot be made Y2K compliant. The
+sources of funding for this Project are from fiscal operating and working
+capital budgets. None of the Company's other mission critical information
+projects have been delayed due to the implementation of the Y2K Project.
+
+FUTURE ACCOUNTING REQUIREMENTS
+
+   In June 1997, the FASB issued Statement of Financial Accounting Standards No.
+131 ("FAS 131"), "Disclosures about Segments of an Enterprise and Related
+Information," which the Company will be required to adopt for fiscal year 1999.
+This statement establishes standards for reporting information about operating
+segments in annual financial statements and requires selected information about
+operating segments in interim financial reports issued to shareholders. It also
+establishes standards for related disclosures about products and services,
+geographic areas and major customers. Under FAS 131, operating segments are to
+be determined consistent with the way that management organizes and evaluates
+financial information internally for making operating decisions and assessing
+performance. The Company has not determined the impact of the adoption of this
+new accounting standard on its consolidated financial statement disclosures.
+
+   In June 1998, the FASB issued Statement of Financial Accounting Standards No.
+133 ("FAS 133"), "Accounting for Derivative Instruments and Hedging Activities,"
+which the Company will be required to adopt for fiscal year 2000. This statement
+establishes a new model for accounting for derivatives and hedging activities.
+Under FAS 133, all derivatives must be recognized as assets and liabilities and
+measured at fair value. The Company has not determined the impact of the
+adoption of this new accounting standard on its consolidated financial position
+or results of operations.
+
+MARKET RISK
+
+   A complete discussion and analysis of the Company's market risks is described
+in the Company's 1998 Annual Report on Form 10-K. Such risks include unfavorable
+movements in interest rates, equity prices, and foreign currency exchange rates.
+At December 27, 1998, there have been no material changes to the market risks
+described at September 27, 1998. Additionally, the Company does not anticipate
+any near-term changes in the nature of its market risk exposures or in
+management's objectives and strategies with respect to managing such exposures.
+
+
+                                       22
+<PAGE>   23
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+See Note 6 of Notes to Condensed Consolidated Financial Statements.
+
+ITEM 2. CHANGES IN SECURITIES
+
+Not applicable.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+Not applicable.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+Not applicable.
+
+ITEM 5. OTHER INFORMATION
+
+Not applicable.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+(a) Exhibits
+     10.1 - Employment Agreement
+     27.0 - Financial Data Schedule
+
+(b) Reports on Form 8-K
+     No reports on Form 8-K have been filed during the quarter for which this
+report is filed.
+
+
+                                       23
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.1
+
+May 15, 1997
+
+
+
+John E. Major
+49 Brinker Road
+Barrington Hills, IL  60010
+
+Dear John:
+
+We are pleased to offer you a position to join QUALCOMM as an Executive Vice
+President, QUALCOMM Incorporated and President Infrastructure Products Division
+reporting to Irwin Jacobs, Chairman and Chief Executive Officer. The terms of
+the offer are as follows:
+
+1.      A starting salary at an annual rate equal to Three Hundred Fifty
+        Thousand Dollars ($350,000).
+
+2.      A minimum guaranteed bonus for fiscal year 1997 equal to Fifty Thousand
+        Dollars ($50,000) payable in conjunction with our normal distribution of
+        bonuses to officers in December 1997.
+
+3.      A minimum guaranteed bonus for fiscal year 1998 equal to Two Hundred
+        Thousand Dollars ($200,000) payable in conjunction with our normal
+        distribution of bonuses to officers in December 1998.
+
+4.      A hiring bonus equal to Four Hundred Fifty Thousand Dollars ($450,000).
+        This amount will be paid in three installments as listed below.
+
+           First Year        Two Hundred Thousand Dollars ($200,000)
+           Second Year       One Hundred Twenty-five Thousand Dollars ($125,000)
+           Third Year        One Hundred Twenty-five Thousand Dollars ($125,000)
+
+        The first payment will be made within ten (10) days of your date of hire
+        and the subsequent two payments will be made on the second and third
+        anniversaries of your date of hire.
+
+<PAGE>   2
+
+5.      An opportunity to acquire One Hundred Seventy Five Thousand (175,000)
+        shares of QUALCOMM stock through our Stock Option Plan. The price of the
+        stock options will be set at the average of the highest and lowest price
+        at which the common stock was sold on the Thursday of the week you join
+        the company. These options become fully vested after five years, have a
+        10 year life and are subject to all terms and provisions of the Plan.
+        This grant is subject to approval by QUALCOMM's Compensation Committee
+        of the Board of Directors.
+
+6.      A contribution of Twenty Thousand (20,000) shares of stock will be
+        reserved in your QUALCOMM Executive Retirement Account. After ten (10)
+        years of employment with QUALCOMM, an additional contribution will be
+        made to this account based on the following table:
+
+<TABLE>
+<CAPTION>
+                             MARKET PRICE               ADDITIONAL
+                              OF SHARES                 CONTRIBUTION
+
+<S>                          <C>                         <C>   
+                             less than $100                  40,000
+                             less than $150                  15,000
+                             less than $200                   5,000
+                             greater than $200                zero.
+</TABLE>
+
+7.      At your discretion, prior to but not after your date of hire, you may
+        elect to forego the Twenty Thousand (20,000) share contribution to your
+        Executive Retirement Plan and the other contributions referenced in item
+        (6) above in exchange for an additional One Hundred Twenty Five Thousand
+        (125,000) stock options. These additional options would be added to the
+        One Hundred Seventy Five Thousand (175,000) described in item 5 above
+        bringing your total option grant to Three Hundred Thousand (300,000).
+
+8.      A comprehensive benefits package for you and your dependents paid by
+        QUALCOMM. In addition to the standard package, you also will be provided
+        a supplemental health plan, which reimburses expenses not covered by our
+        primary medical and dental plan.
+
+9.      Eligibility to participate in the Executive Retirement Plan enabling you
+        to defer up to 100% of base salary and bonus on an annual basis.
+        Participants receive a 50% match in the form company stock on up to 15%
+        of base salary and bonus deferred, less the 401(k) contribution limit
+        allowed by the Plan. Deferred income is invested in your choice of seven
+        (7) mutual funds.
+
+10.     A special supplemental executive disability insurance policy will
+        provide approximately 80% of your base salary for life in the event a
+        permanent disability prevents you from continuing employment.
+
+11.     A supplemental executive life insurance policy in the amount of Five
+        Hundred Thousand Dollars ($500,000) will be provided in addition to the
+        standard three times your base salary coverage.
+
+<PAGE>   3
+
+12.     QUALCOMM will facilitate the relocation of you and your family from
+        Barrington Hills to San Diego as follows:
+
+        12.1 Temporary living arrangements in San Diego while you are relocating
+             from Barrington Hills to San Diego will be provided. These
+             arrangements will include a furnished rental apartment for six (6)
+             months.
+
+        12.2 A relocation bonus in an amount equal to eight percent (8%) of the
+             sales price of your home in Barrington Hills. One half of this
+             amount will be paid upon close of escrow of the sale of your
+             current home and the other half will be paid upon close of escrow
+             on the purchase of a home in San Diego.
+
+        12.3 A resettlement allowance equal to Ten Thousand Dollars ($10,000)
+             for incidental relocation expenses.
+
+        12.4 Movement of your household goods including the transportation of
+             your automobiles.
+
+        12.5 A tax equalization payment for all relocation expenses subject to
+             local, state or federal taxes.
+
+13.     A special termination agreement effective for 36 consecutive months
+        following your date of hire will be provided. Payment will be made upon
+        involuntary termination of your employment for reason other than gross
+        misconduct or gross neglect of duty. The prorated payment will be as
+        follows:
+
+             $700,000 if termination occurs within 12 months of date of hire
+             $350,000 if termination occurs within 24 months of date of hire
+             $175,000 if termination occurs within 36 months of date of hire
+
+In consideration of your employment, you acknowledge and agree that your
+employment may be terminated, with or without cause, and with or without advance
+notice, at any time at the option of either the Company or yourself. You
+understand that no supervisor or representative of the Company other than the
+Office of the Chairman has any authority to enter into any agreement for
+employment for any specified period of time, or to make any agreement contrary
+to the foregoing.
+
+As required by the Immigration Reform and Control Act of 1986, this employment
+offer is contingent upon your ability to provide proof of your identity and
+legal right to work in the United States.
+
+John, we are convinced you will make an excellent addition to QUALCOMM's
+executive management team. Everyone who has met you has confidence that your
+experience and talents will contribute in many significant ways to our future
+successes. We also look forward to your family making a new home in San Diego
+and joining the larger family of QUALCOMM.
+
+<PAGE>   4
+
+Assuming a positive response, please return a signed copy of this letter and
+review the Employee Agreement which you will be requested to sign at the time
+you join QUALCOMM.
+
+Given the time sensitive nature of several terms in this offer and the
+importance of organization planning relative to your key position at QUALCOMM,
+this offer will expire unless accepted in writing by May 16, 1997, and unless
+your employment start date is before June 9, 1997.
+
+Congratulations and welcome to the QUALCOMM team!
+
+
+Sincerely,
+
+/s/ DANIEL L. SULLIVAN
+
+Daniel L. Sullivan, Ph.D
+Senior Vice President, Human Resources
+QUALCOMM Incorporated
+
+
+
+
+
+
+Offer accepted: /s/ JOHN MAJOR                   
+               ----------------------
+Proposed start date: 5/14/97                     
+                    -----------------
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS CONTAINED IN THE COMPANY'S QUARTERLY
+REPORT ON FORM 10-Q FOR THE FISCAL QUARTER ENDED DECEMBER 27, 1998, AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          SEP-26-1999
+<PERIOD-START>                             SEP-28-1998
+<PERIOD-END>                               DEC-27-1998
+<CASH>                                         131,940
+<SECURITIES>                                   105,483
+<RECEIVABLES>                                  941,170
+<ALLOWANCES>                                    22,221
+<INVENTORY>                                    335,072
+<CURRENT-ASSETS>                             1,662,862
+<PP&E>                                         631,048
+<DEPRECIATION>                                       0
+<TOTAL-ASSETS>                               2,762,775
+<CURRENT-LIABILITIES>                        1,006,885
+<BONDS>                                         27,083
+<PREFERRED-MANDATORY>                          660,000
+<PREFERRED>                                          0
+<COMMON>                                             7
+<OTHER-SE>                                   1,014,678
+<TOTAL-LIABILITY-AND-EQUITY>                 1,014,685
+<SALES>                                        941,223
+<TOTAL-REVENUES>                               941,223
+<CGS>                                          642,390
+<TOTAL-COSTS>                                  642,390
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               3,315
+<INCOME-PRETAX>                                 71,584
+<INCOME-TAX>                                    23,054
+<INCOME-CONTINUING>                             48,530
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    48,530
+<EPS-PRIMARY>                                    $0.69<F1>
+<EPS-DILUTED>                                    $0.65
+<FN>
+<F1>FOR PURPOSES OF THIS EXHIBIT, PRIMARY MEANS BASIC
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

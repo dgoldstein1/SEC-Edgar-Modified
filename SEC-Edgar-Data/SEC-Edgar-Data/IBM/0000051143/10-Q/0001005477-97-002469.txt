@@ -1,0 +1,2346 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WQVMT6sUNNSzkAKKQsyEvDBMCtZxYKrdgNav6CGOMcPukvd28JnP0uvFdZGMZ2dC
+ n88nguNwQEicLf0ln88YLg==
+
+<SEC-DOCUMENT>0001005477-97-002469.txt : 19971111
+<SEC-HEADER>0001005477-97-002469.hdr.sgml : 19971111
+ACCESSION NUMBER:		0001005477-97-002469
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19970930
+FILED AS OF DATE:		19971110
+SROS:			CSX
+SROS:			NYSE
+SROS:			PSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERNATIONAL BUSINESS MACHINES CORP
+		CENTRAL INDEX KEY:			0000051143
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		IRS NUMBER:				130871985
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-02360
+		FILM NUMBER:		97711231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NEW ORCHARD RD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+		BUSINESS PHONE:		9144991900
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE OLD ORCHARD RD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                 F O R M 1 0 - Q
+
+                QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                    FOR THE QUARTER ENDED SEPTEMBER 30, 1997
+
+                                     1-2360
+                             ----------------------
+                            (Commission file number)
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+              ----------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+               New York                         13-0871985
+        ----------------------      ----------------------------------
+       (State of incorporation)    (IRS employer identification number)
+
+             Armonk, New York                           10504
+    --------------------------------------             --------
+   (Address of principal executive offices)           (Zip Code)
+
+                                  914-499-1900
+                          -----------------------------
+                         (Registrant's telephone number)
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section l3 or l5(d) of the Securities Exchange Act of
+1934 during the preceding l2 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+  YES   |X|      NO  |_|
+      -------      -------.
+
+      The registrant has 972,170,729 shares of common stock outstanding at
+September 30, 1997.
+
+<PAGE>
+
+                                      INDEX
+                                      -----
+                                                                            Page
+                                                                            ----
+
+Part I - Financial Information:
+
+   Item 1. Consolidated Financial Statements
+
+      Consolidated Statement of Earnings for the three and nine
+        months ended September 30, 1997 and 1996 . . . . . . . . . .          1
+                                                       
+      Consolidated Statement of Financial Position at  
+        September 30, 1997 and December 31, 1996 . . . . . . . . . .          2
+
+      Consolidated Statement of Cash Flows for the nine months               
+        ended September 30, 1997 and 1996  . . . . . . . . . . . . .          4
+
+      Notes to Consolidated Financial Statements . . . . . . . . . .          5
+
+   Item 2.  Management's Discussion and Analysis of                          
+              Results of Operations and Financial Condition  . . . .          7
+
+Part II - Other Information  . . . . . . . . . . . . . . . . . . . .         15
+
+<PAGE>
+
+ITEM 1.            INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                       CONSOLIDATED STATEMENT OF EARNINGS
+                                   (UNAUDITED)
+
+  (Dollars in millions except             Three Months Ended   Nine Months Ended
+   per share amounts)                         September 30        September 30
+                                          ------------------   -----------------
+                                              1997     1996      1997     1996
+  Revenue:
+                                            -------  -------   -------  -------
+   Hardware sales                           $ 8,345  $ 8,372   $24,722  $24,656
+   Services                                   4,709    3,932    13,416   10,864
+   Software                                   3,039    3,102     9,073    9,334
+   Maintenance                                1,574    1,723     4,809    5,226
+   Rentals and financing                        938      933     2,765    2,724
+                                            -------  -------   -------  -------
+Total revenue                                18,605   18,062    54,785   52,804
+
+Cost:
+   Hardware sales                             5,523    5,282    16,326   16,002
+   Services                                   3,756    3,219    10,717    8,755
+   Software                                     904      986     2,723    2,907
+   Maintenance                                  838      904     2,564    2,731
+   Rentals and financing                        486      413     1,364    1,191
+                                            -------  -------   -------  -------
+Total cost                                   11,507   10,804    33,694   31,586
+                                            -------  -------   -------  -------
+Gross profit                                  7,098    7,258    21,091   21,218
+Operating expenses:
+   Selling, general and
+    administrative                            3,932    4,175    11,574   11,761
+   Research, development and
+    engineering                               1,162    1,115     3,452    3,322
+   Purchased in-process research
+    and development                            --       --        --        435
+                                            -------  -------   -------  -------
+Total operating expenses                      5,094    5,290    15,026   15,518
+
+Operating income                              2,004    1,968     6,065    5,700
+Other income, principally interest              162      183       484      526
+Interest expense                                183      172       534      526
+                                            -------  -------   -------  -------
+Earnings before income taxes                  1,983    1,979     6,015    5,700
+Income tax provision                            624      694     2,015    2,294
+                                            -------  -------   -------  -------
+Net earnings                                  1,359    1,285     4,000    3,406
+Preferred stock dividends and
+  transaction costs                               5        5        15       15
+                                            -------  -------   -------  -------
+Net earnings applicable to
+  common shareholders                       $ 1,354  $ 1,280   $ 3,985  $ 3,391
+                                            =======  =======   =======  =======
+Net earnings per share of
+  common stock                              $  1.38  $  1.23*  $  4.03  $  3.18*
+Average number of common
+  shares outstanding (millions)               978.0  1,043.7*    989.4  1,066.7*
+Cash dividends per common share             $   .20  $  .175*  $  .575  $  .475*
+
+* Adjusted to reflect a two-for-one stock split effective May 9, 1997. (The
+accompanying notes are an integral part of the financial statements.) 
+
+
+                                     - 1 -
+<PAGE>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                  CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+                                   (UNAUDITED)
+
+                                    ASSETS
+
+                                                 At September 30  At December 31
+  (Dollars in millions)                                1997            1996
+                                                 ---------------  --------------
+Current assets:
+
+  Cash and cash equivalents                          $ 5,926          $ 7,687
+                                                                     
+  Marketable securities - at cost, which                             
+    approximates market                                  560              450
+                                                                     
+  Notes and accounts receivable -                                    
+    net of allowances                                 16,078           17,446
+                                                                     
+  Sales-type leases receivable                         5,663            5,721
+                                                                     
+  Inventories, at lower of average cost or market                    
+    Finished goods                                     1,371            1,413
+    Work in process                                    4,498            4,377
+    Raw materials                                        112               80
+                                                     -------          -------
+  Total inventories                                    5,981            5,870
+                                                                     
+  Prepaid expenses and other current assets            3,982            3,521
+                                                     -------          -------
+Total current assets                                  38,190           40,695
+                                                                     
+Plant, rental machines and other property             42,030           41,893
+  Less: Accumulated depreciation                      24,109           24,486
+                                                     -------          -------
+Plant, rental machines and other property - net       17,921           17,407
+                                                                     
+Software, less accumulated                                           
+  amortization (1997, $12,415; 1996, $12,199)            912            1,435
+                                                                     
+Investments and sundry assets                         21,270           21,595
+                                                     -------          -------
+                                                                     
+Total assets                                         $78,293          $81,132
+                                                     =======          =======
+                                                                  
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                      -2-
+<PAGE>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+           CONSOLIDATED STATEMENT OF FINANCIAL POSITION - (CONTINUED)
+                                   (UNAUDITED)
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+  (Dollars in millions except                   At September 30 At December 31
+   per share amounts)                                 1997           1996
+                                                --------------- --------------
+Current liabilities:
+
+  Taxes                                           $   2,241      $  3,029
+                                                                
+  Accounts payable and accruals                      15,831        18,014
+                                                                
+  Short-term debt                                    12,518        12,957
+                                                  ---------      --------
+                                                                
+Total current liabilities                            30,590        34,000
+                                                                
+Long-term debt                                       13,623         9,872
+                                                                
+Other liabilities                                    12,988        14,005
+                                                                
+Deferred income taxes                                 1,336         1,627
+                                                  ---------      --------
+                                                                
+Total liabilities                                    58,537        59,504
+                                                                
+Stockholders' equity:                                           
+
+  Preferred stock - par value $.01 per share            253           253
+    Shares authorized: 150,000,000                              
+    Shares issued: 1997 - 2,597,261                             
+                   1996 - 2,610,711                             
+
+  Common stock - par value $.50 per share             8,758         7,752
+    Shares authorized: 1,875,000,000                            
+    Shares issued: 1997 - 1,035,135,404                         
+                   1996 - 1,018,141,084*                        
+
+  Retained earnings                                  14,572        11,189
+                                                                
+  Translation adjustments                             1,281         2,401
+                                                                
+  Treasury stock - at cost                           (5,230)         (135)
+                                                                
+  Net unrealized gain on marketable securities          122           168
+                                                  ---------      --------
+Total stockholders' equity                           19,756        21,628
+                                                  ---------      --------
+Total liabilities and stockholders' equity        $  78,293      $ 81,132
+                                                  =========      ========
+                                                                
+* Adjusted to reflect a two-for-one stock split on May 9, 1997.
+
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                      -3-
+<PAGE>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                     FOR THE NINE MONTHS ENDED SEPTEMBER 30:
+                                   (UNAUDITED)
+
+  (Dollars in millions)                                     1997          1996
+                                                          -------       -------
+Cash flow from operating activities:
+  Net earnings                                            $ 4,000       $ 3,406
+  Adjustments to reconcile net earnings to cash
+   provided from operating activities:
+
+   Effect of restructuring charges                           (317)       (1,091)
+   Depreciation                                             2,818         2,722
+   Amortization of software                                   768           986
+   Purchased in-process research and development               36           435
+   Gain on disposition of fixed and other assets             (163)         (223)
+   Changes in operating assets and liabilities             (2,051)         (262)
+                                                          -------       -------
+    Net cash provided from operating activities             5,091         5,973
+                                                          -------       -------
+Cash flow from investing activities:
+  Payments for plant, rental machines
+    and other property, net of proceeds                    (3,875)       (2,896)
+  Investment in software                                     (227)         (204)
+  Purchases of marketable securities and
+    other investments                                      (1,244)       (1,065)
+  Proceeds from marketable securities and
+    other investments                                         910           731
+  Acquisition of Tivoli Systems, Inc. - net                  --            (716)
+                                                          -------       -------
+    Net cash used in investment
+     activities                                            (4,436)       (4,150)
+                                                          -------       -------
+Cash flow from financing activities:
+  Proceeds from new debt                                    6,969         6,087
+  Payments to settle debt                                  (2,920)       (3,869)
+  Short-term borrowings less
+   than 90 days - net                                      (1,274)         (314)
+  Common stock transactions - net                          (4,476)       (3,503)
+  Cash dividends paid                                        (584)         (521)
+                                                          -------       -------
+    Net cash used in financing activities                  (2,285)       (2,120)
+                                                          -------       -------
+Effect of exchange rate changes
+  on cash and cash equivalents                               (131)         (156)
+                                                          -------       -------
+Net change in cash and cash equivalents                    (1,761)         (453)
+
+Cash and cash equivalents at January 1                      7,687         7,259
+                                                          -------       -------
+Cash and cash equivalents at September 30                 $ 5,926       $ 6,806
+                                                          =======       =======
+
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                      -4-
+<PAGE>
+
+Notes to Consolidated Financial Statements
+
+1. In the opinion of the management of International Business Machines
+Corporation (the company), all adjustments necessary to a fair statement of the
+results for the unaudited three and nine month periods have been made.
+
+2. Earnings per share amounts were computed by dividing earnings after deduction
+of preferred stock dividends by the average number of common shares outstanding.
+
+3. Treasury stock within Stockholders' equity includes 62,964,675 common shares
+amounting to $5,230.4 million and 53,800 preferred shares amounting to $1.4
+million at September 30, 1997, and 2,179,066 common shares (adjusted to reflect
+a two-for-one stock split on May 9, 1997) amounting to $135.2 million at
+December 31, 1996.
+
+4. The majority of the company's derivative transactions relates to the matching
+of liabilities to assets associated with its worldwide customer financing
+business. The company issues debt, using the most efficient capital markets and
+products, which may result in a currency or interest rate mismatch. Interest
+rate swaps or currency swaps are then used to match the interest rates and
+currencies of its debt to the related customer financing receivables. These swap
+contracts are principally one to five years in duration. The company uses an
+internal regional center to manage the cash of its subsidiaries, predominately
+for the company's European subsidiaries. This regional center principally uses
+currency swaps to convert cash flows in a cost-effective manner. The terms of
+the swaps are generally less than one year.
+
+      Interest and currency rate differentials accruing under interest rate and
+currency swap contracts related to the customer financing business are
+recognized over the life of the contracts in interest expense, and the effects
+of contracts related to intracompany funding are recognized over the life of the
+contract in interest income. When the terms of the instrument are modified, or
+if it ceases to exist for whatever reason, all changes in fair value of the swap
+contracts are recognized in income each period until they mature.
+
+      Additionally, the company uses derivatives to limit its exposure to loss
+resulting from fluctuations in foreign currency exchange rates on anticipated
+cash transactions between foreign subsidiaries and the parent company. The
+company receives significant dividends, intracompany royalties and net payments
+for goods and services from its non-U.S. subsidiaries. In anticipation of these
+foreign currency flows, and given the volatility of the currency markets, the
+company selectively employs foreign currency options to manage the currency
+risks. The terms of these instruments are generally less than one year.
+
+      For purchased options that hedge anticipated transactions, gains and
+losses are deferred and recognized in other income in the same period that the
+underlying transaction occurs, expires or is otherwise terminated. At September
+30, 1997 and December 31, 1996, there were no material deferred gains or losses.
+The premiums associated with entering into option contracts are generally
+amortized over the life of the options and are not
+
+
+                                      -5-
+<PAGE>
+
+Notes to Consolidated Financial Statements - (continued)
+
+material to the company's results. Unamortized premiums are included in prepaid
+assets. All written options are marked to market monthly and are not material to
+the company's results.
+
+      The company also enters into derivative transactions to moderate the
+impact that an appreciation of the dollar relative to other currencies would
+have on the translation of foreign earnings. These transactions do not qualify
+as hedges for accounting purposes and the transactions have foreign exchange
+gains and losses which are recorded in earnings as the earnings occur.
+
+      The company has used derivative instruments as an element of its risk
+management strategy for many years. Although derivatives entail a risk of
+non-performance by counterparties, the company manages this risk by establishing
+explicit dollar and term limitations that correspond to the credit rating of
+each carefully selected counterparty. The company has not sustained a material
+loss from these instruments nor does it anticipate any material adverse effect
+on its results of operations or financial position in the future.
+
+5. A supplemental Consolidated Statement of Earnings schedule has been provided,
+for information purposes only, to exclude the effects of the write-offs of
+purchased in-process research and development associated with the Tivoli Systems
+Inc. and Object Technology International Inc. acquisitions recorded in the first
+quarter of 1996. The supplemental statement is shown in exhibit 99 on page 20.
+This information is presented voluntarily and is provided solely to assist in
+understanding the effects of these items on the Consolidated Statement of
+Earnings.
+
+6. On April 29, 1997, the stockholders of the company approved amendments to the
+Certificate of Incorporation to increase the number of authorized shares of
+common stock from 750 million to 1,875 million, which was required to effect a
+two-for-one stock split approved by the company's Board of Directors on January
+28, 1997. In addition, the amendments served to reduce the par value of the
+common shares from $1.25 to $.50 per share. Common stockholders of record at the
+close of business on May 9, 1997 received one additional share for each share
+held. All share and per share data presented in the Consolidated Financial
+Statements reflect the two-for-one stock split.
+
+7. Subsequent Events: On October 28, 1997, the Board of Directors authorized the
+company to repurchase up to an additional $3.5 billion of IBM common shares. The
+company plans to buy shares on the open market from time-to-time, depending on
+market conditions. Since, January 31, 1995, the company has repurchased
+approximately $16 billion of its common stock under a series of earlier Board
+authorizations.
+
+      Effective November 1, 1997, the company created an employee benefits trust
+to which the company will contribute 10 million shares of treasury stock. The
+company is authorized to instruct the trustee to sell such shares from time to
+time and to use such proceeds from such sales, and any dividends paid or
+earnings received on such stock, toward the partial satisfaction of the
+company's obligations under certain of its compensation and benefit plans,
+including its retiree medical plans. The shares held in trust are not considered
+outstanding for earnings purposes until they are committed to be released and
+the shares will be voted by the trustee in accordance with its fiduciary duties.
+
+
+                                      -6-
+<PAGE>
+
+ITEM 2.
+
+                      MANAGEMENT'S DISCUSSION AND ANALYSIS
+                OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+             FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 1997
+
+      The company's third quarter results showed a continuation of trends that
+had been evident the last several quarters. The company continued to show
+strength in services, System/390* servers, commercial PCs, and Lotus Notes* and
+Tivoli distributed software. At the same time there was ongoing weakness in
+consumer PCs and two of the company's key server products, RS/6000* and AS/400*,
+were undergoing product transitions. Currency had a significant adverse impact
+on the company's results (approximately $.14 per common share). Despite these
+negative factors, the company showed good earnings and constant currency revenue
+growth because of its broad and diversified product and services portfolio.
+
+RESULTS OF OPERATIONS
+
+  (Dollars in millions)    Three Months Ended       Nine Months Ended
+                              September 30             September 30
+                           -------------------     -------------------
+                             1997       1996          1997      1996
+                           --------   --------     --------   --------
+
+  Revenue                  $ 18,605   $ 18,062     $ 54,785   $ 52,804
+  Cost                       11,507     10,804       33,694     31,586
+                           --------   --------     --------   --------
+  Gross profit             $  7,098   $  7,258     $ 21,091   $ 21,218
+  Gross profit margin          38.2%      40.2%        38.5%      40.2%
+  Net earnings             $  1,359   $  1,285     $  4,000   $  3,406
+
+      The company recorded third quarter 1997 earnings of $1.38 per common
+share, compared with $1.23 per common share in the third quarter of last year.
+Total revenue as reported increased 3.0 percent over the same period of 1996 to
+$18.6 billion and excluding the effects of currency revenue grew approximately 8
+percent. The average number of common shares outstanding for the period was
+978.0 million in 1997 versus 1,043.7 million in 1996.
+
+      Net earnings for the nine months ended September 30, 1997, were $4.03 per
+common share, compared with earnings of $3.18 per common share in the first nine
+months of 1996. The company's first quarter 1996 results included a charge of
+$435 million ($.40 per common share) relating to a non-recurring non-tax
+deductible charge for purchased in-process research and development in
+connection with the acquisition of Tivoli Systems Inc. ($417 million) and Object
+Technology International Inc. ($18 million). Excluding this item, the company's
+adjusted earnings per common share would have been $3.59 for the first nine
+months of 1996. Total revenue for the nine months ended September 30, 1997, was
+up 3.8 percent from the prior year to $54.8 billion. The average number of
+common shares outstanding for the period was 989.4 million in 1997 versus
+1,066.7 million in 1996.
+
+
+                                      -7-
+<PAGE>
+
+Results of Operations - (continued)
+
+      On an as-reported basis, third quarter revenue in the United States was
+$8.0 billion, an increase of 8.4 percent from the same period of 1996.
+Asia-Pacific revenue grew 7.4 percent to $3.8 billion while revenue from Latin
+America was up 9.9 percent to $891 million. Revenue from Europe/ Middle East/
+Africa declined 6.3 percent to $5.2 billion and revenue from Canada declined 5.5
+percent to $752 million.
+
+      Excluding the effects of currency, Asia-Pacific revenue grew approximately
+15 percent, while European revenue climbed about 6 percent year-over-year.
+Revenue from Canada declined approximately 5 percent on a constant currency
+basis.
+
+      The company's total gross profit margin was 38.2 percent in the third
+quarter of 1997 compared with 40.2 percent in the third quarter of last year.
+
+      Total third-quarter expenses declined 3.1 percent, largely as a result of
+a 5.8 percent drop in selling, general and administrative expense. Research,
+development and engineering expense rose 4.2 percent.
+
+      The company's tax rate was 31.5 percent in the third quarter compared with
+35.1 percent in the third quarter of last year.
+
+Hardware Sales
+
+  (Dollars in millions)          Three Months Ended      Nine Months Ended
+                                    September 30            September 30
+                                 -------------------     -------------------
+                                   1997       1996          1997     1996
+                                 --------   --------     --------   --------
+
+  Total revenue                  $  8,345   $  8,372     $ 24,722   $ 24,656
+  Total cost                        5,523      5,282       16,326     16,002
+                                 --------   --------     --------   --------
+  Gross profit                   $  2,822   $  3,090     $  8,396   $  8,654
+  Gross profit margin                33.8%      36.9%        34.0%      35.1%
+
+      Revenue from hardware sales for the third quarter and first nine months of
+1997 was essentially flat, when compared to the same periods in 1996. The
+third-quarter and first nine-months revenue was negatively affected by
+approximately 4 percentage points from currency in 1997.
+
+      Personal computer commercial revenue grew for both the third quarter and
+first nine months of 1997, when compared to the same periods of last year.
+Personal computer server revenue showed strong growth in all geographies.
+Revenue from consumer personal computers was lower in the third quarter and
+first nine months of 1997, versus comparable periods of 1996.
+
+
+                                      -8-
+<PAGE>
+
+Results of Operations - (continued)
+
+      Revenue from storage products increased on both a third-quarter and
+nine-months basis when compared to the same periods in 1996, due to strong sales
+of hard disk drives and good growth in open-systems DASD and tape products.
+These increases were partially offset by lower high-end DASD revenue, which
+which continued to be affected by competitive price pressures.
+
+      Semiconductor revenue grew on both a third-quarter and nine-months basis
+when compared to the same periods in 1996, as a result of strong growth in S-RAM
+and custom logic products, partially offset by lower DRAM revenue.
+
+      These increases were offset by a decline in AS/400 and RS/6000 server
+revenue both on a third-quarter and nine-months basis, when compared to the same
+periods in 1996. These products continued to undergo major product transitions.
+System/390 revenue was essentially flat in the third quarter and decreased on a
+nine months basis, when compared to last year, while MIPS (millions of
+instructions per second) increased approximately 36 percent and 34 percent,
+respectively, when compared to the same periods of 1996.
+
+      Hardware sales gross profit for the third quarter and first nine months of
+1997 decreased 8.7 percent and 3.0 percent, respectively, over comparable
+periods in 1996. The decreases were primarily due to the increased proportion of
+revenue from personal computers and semiconductor products which carry a lower
+gross profit margin than AS/400 servers whose revenue had declined. These mix
+effects were partially offset by cost improvements in storage products,
+System/390 and semiconductors. In addition, most other hardware products
+continued to be affected by competitive pricing pressures.
+
+Services Other Than Maintenance
+
+  (Dollars in millions)          Three Months Ended      Nine Months Ended
+                                    September 30            September 30
+                                 -------------------     -------------------
+                                   1997       1996          1997      1996
+                                 --------   --------     --------   --------
+Total revenue                    $4,709      $3,932       $13,416    $10,864
+Total cost                        3,756       3,219        10,717      8,755
+                                 ------      ------       -------    -------
+Gross profit                     $  953      $  713       $ 2,699    $ 2,109
+Gross profit margin                20.3%       18.1%         20.1%      19.4%
+                               
+      Services revenue increased 19.7 percent and 23.5 percent, respectively, in
+the third quarter and first nine months of 1997, when compared to the same
+period of last year. Services revenue was negatively affected by approximately 6
+percentage points from currency in the third quarter and first nine months of
+1997. The revenue increases were across all categories of services offerings, as
+well as in all geographies. Approximately $9 billion in new services contracts
+were signed in the quarter.
+
+      Services gross profit dollars increased in the third quarter and first
+nine months of 1997 by 33.7 percent and 28.0 percent, respectively, when
+compared to year-ago periods.
+
+
+                                      -9-
+<PAGE>
+
+Results of Operations - (continued)
+
+Software
+
+  (Dollars in millions)        Three Months Ended        Nine Months Ended
+                                  September 30              September 30
+                               -------------------       -------------------
+                                 1997       1996            1997      1996
+                               --------   --------       --------   --------
+
+  Total revenue                $  3,039   $  3,102       $  9,073   $  9,334
+  Total cost                        904        986          2,723      2,907
+                               --------   --------       --------   --------
+  Gross profit                 $  2,135   $  2,116       $  6,350   $  6,427
+  Gross profit margin              70.3%      68.2%          70.0%      68.9%
+
+      Revenue from software for the third quarter and first nine months of 1997
+decreased 2.1 percent and 2.8 percent, respectively, over comparable periods in
+1996. The third-quarter and first-nine months results were negatively affected
+by approximately 7 and 5 percentage points, respectively, from currency in 1997.
+The revenue decreases were a result of lower host based computer software
+revenue associated with AS/400 and System/390 products. These decreases were
+partially offset by revenue growth for distributed software offerings from Lotus
+Notes and system management software from Tivoli.
+
+      Software gross profit dollars for the third quarter were essentially flat
+and decreased 1.2 percent for the first nine months of 1997, versus the same
+periods in 1996. Software gross profit margins increased 2.1 percentage points
+and 1.1 percentage points, respectively, for the third quarter and first nine
+months of 1997, when compared to the same periods of last year. The improvements
+in the gross profit margins are the results of lower capitalization rates and
+the associated reduction in amortization, partially offset by higher vendor
+royalty costs.
+
+Maintenance
+
+  (Dollars in millions)            Three Months Ended      Nine Months Ended
+                                      September 30            September 30
+                                   -------------------     ------------------
+                                     1997       1996          1997      1996
+                                   --------   --------     --------   -------
+  Total revenue                    $  1,574   $  1,723     $  4,809   $ 5,226
+  Total cost                            838        904        2,564     2,731
+                                   --------   --------     --------   -------
+  Gross profit                     $    736   $    819     $  2,245   $ 2,495
+  Gross profit margin                  46.8%      47.5%        46.7%     47.7%
+
+      Maintenance revenue for the third quarter and first nine months of 1997
+decreased 8.7 percent and 8.0 percent, respectively, over comparable periods in
+1996. The third-quarter and first nine-months revenue was negatively affected by
+approximately 6 and 5 percentage points, respectively, from currency in 1997.
+Maintenance gross profit dollars decreased 10.1 percent and 10.0 percent,
+respectively, in the third quarter and first nine months of 1997, when compared
+to the same periods of 1996. Maintenance revenue and gross profit continued to
+be affected by price reductions on maintenance offerings.
+
+
+                                      -10-
+<PAGE>
+
+Results of Operations - (continued)
+
+Rentals and financing
+
+  (Dollars in millions)           Three Months Ended      Nine Months Ended
+                                     September 30            September 30
+                                  -------------------     ------------------
+                                    1997       1996          1997      1996
+                                  --------   --------     --------   -------
+
+  Total revenue                   $    938   $    933     $  2,765   $ 2,724
+  Total cost                           486        413        1,364     1,191
+                                  --------   --------     --------   -------
+  Gross profit                    $    452   $    520     $  1,401   $ 1,533
+  Gross profit margin                 48.2%      55.8%        50.7%     56.3%
+
+      Revenue from rentals and financing for the third quarter was essentially
+flat and increased 1.5 percent for the first nine months of 1997, respectively,
+versus comparable periods in 1996. The third-quarter and first nine-months
+revenue was negatively affected by approximately 4 percentage points from
+currency in 1997. The increases in revenue were primarily due to higher
+operating lease activity, offset by decreased dealer financing in 1997 versus
+the same periods in 1996.
+
+      Rentals and financing gross profit dollars decreased 13.1 percent and 8.6
+percent, respectively, for the third quarter and first nine months of 1997, when
+compared to the same periods of the prior year. The decline in gross profit
+dollars and margin were principally due to a trend towards financing a greater
+amount of low-end products and faster growth in the more competitive U.S.
+market.
+
+Expenses
+
+  (Dollars in millions)           Three Months Ended      Nine Months Ended
+                                     September 30            September 30
+                                  -------------------     ------------------
+                                    1997       1996          1997      1996
+                                  --------   --------     --------   -------
+
+  Selling, general and
+     administrative               $  3,932   $  4,175     $ 11,574   $11,761
+  Percentage of revenue               21.1%      23.1%        21.1%     22.3%
+
+  Research, development and
+     engineering                  $  1,162   $  1,115     $  3,452   $ 3,322
+  Percentage of revenue                6.2%       6.2%         6.3%      6.3%
+
+      Selling, general and administrative expense for the third quarter and
+first nine months of 1997 decreased 5.8 percent and 1.6 percent, respectively,
+from the same periods in 1996. Currency had a benefit of about 4 percentage
+points for the third quarter and first nine months of 1997 versus the same
+periods in 1996. The company continues to invest in more variable based
+programs, such as advertising, business partner programs, expenditures
+associated with new acquisitions, while continuing to focus on reducing fixed
+infrastructure costs.
+
+
+                                      -11-
+<PAGE>
+
+Results of Operations - (continued)
+
+      Research, development and engineering expense increased 4.2 percent and
+3.9 percent, respectively, for the third quarter and first nine months of 1997,
+when compared to the same periods of 1996. These increases were primarily due to
+continued investment to support the company's network computing solutions within
+the company's industry-specific business units and investment in new
+technologies for future products.
+
+      The first nine-months 1996 results included a non-tax deductible charge of
+$435 million for purchased-in process research and development expense
+associated with the acquisition of Tivoli Systems, Inc. and Object Technology
+International, Inc. in the first quarter of 1996. This amount has been
+separately identified on the company's Consolidated Statement of Earnings.
+
+      Interest on total borrowings of the company and its subsidiaries, which
+included interest expense and interest costs associated with rentals and
+financing, amounted to $407 million and $1,175 million for the third quarter and
+first nine months of 1997, respectively. Of these amounts, $10 million for the
+third quarter and $26 million for the first nine months were capitalized.
+
+      The effective tax rate for the quarter ended September 30, 1997, was 31.5
+percent, versus 35.1 percent for the same period in 1996. The decrease is
+primarily the result of the mix of earnings and corresponding weighting of tax
+rates on a country-by-country basis. The company performs assessments of the
+realizability of its net deferred tax assets on a regular basis.
+
+      The effective tax rate for the first nine months of 1997 was 33.5 percent,
+versus 40.3 percent for the same period in 1996. The decrease was partially a
+result of the $435 million charge associated with Tivoli Systems Inc. and Object
+Technology Inc. acquisitions in the first quarter of 1996 that did not give rise
+to a tax benefit. Excluding this charge, the effective tax rate for the first
+nine months of 1996 would have been 37.4 percent. The additional decrease in the
+nine months effective tax rate was primarily the result of the mix of earnings
+and corresponding weighting of tax rates on a country-by-country basis.
+
+Financial Condition
+
+      During 1997, the company has continued to make significant investments to
+fund its future growth and increase shareholder value, including expenditures of
+$4.5 billion for plant, rental machines and other property, $3.5 billion for
+research, development and engineering and $5.2 billion for the repurchase of the
+company's common shares. The company had $6.5 billion in cash, cash equivalents
+and marketable securities on hand at September 30, 1997.
+
+
+                                      -12-
+<PAGE>
+
+Financial Condition - (continued)
+
+Cash Flow
+
+  (Dollars in millions)                     Nine Months Ended
+                                               September 30
+                                            ------------------
+                                              1997       1996
+                                            -------    -------
+
+Net cash provided from (used in):
+   Operating activities                     $ 5,091    $ 5,973
+   Investing activities                      (4,436)    (4,150)
+   Financing activities                      (2,285)    (2,120)
+
+Effect of exchange rate changes                       
+   on cash and cash equivalents                (131)      (156)
+                                            -------    -------
+
+Net change in cash and cash equivalents     $(1,761)   $  (453)
+
+Working Capital
+
+  (Dollars in millions)         At September 30     At December 31
+                                      1997               1996
+                                ---------------     --------------
+
+  Current assets                    $ 38,190           $ 40,695
+  Current liabilities                 30,590             34,000
+                                    --------           --------
+     Working capital                $  7,600           $  6,695
+
+  Current ratio                       1.25:1             1.20:1
+
+      The company's current ratio improved to 1.25:1. Current assets declined
+$2.5 billion from year-end 1996 with declines of $1.7 billion in cash, cash
+equivalents, and marketable securities and $1.4 billion in accounts receivable,
+offset by increases of $.5 billion in prepaid expenses and a slight increase in
+inventories. The decrease in cash, cash equivalents and marketable securities
+results primarily from the stock repurchases and capital expenditures, offset by
+cash generated from operations and debt financing. The decline in accounts
+receivable was attributable to the collection of traditionally higher year-end
+accounts receivable balances, while prepaid expenses reflects a seasonal
+increase from year-end levels.
+
+      Current liabilities declined $3.4, billion with declines of $3.0 billion
+in accruals, taxes and accounts payable (resulting primarily from seasonal
+declines in these balances from their normally higher year-end levels), and $.4
+billion in short-term debt.
+
+
+                                      -13-
+<PAGE>
+
+Financial Condition - (continued)
+
+Investments
+
+      The company's capital expenditures for plant, rental machines and other
+property were $4.5 billion for the nine-months ended September 30, 1997, an
+increase of $.7 billion from the comparable 1996 period. This increase reflects
+the company's continued investment in its rapidly growing outsourcing business,
+as well as in the areas of storage products and microelectronics.
+
+      In addition to software development expense included in research,
+development and engineering expense, the company capitalized $.2 billion of
+software costs during the first nine months of both 1997 and 1996. Amortization
+of capitalized software costs amounted to $.8 billion during the nine-months
+ended September 30, 1997, a decline of $.2 billion from the comparable 1996
+period.
+
+Other Non-Current Liabilities
+
+      Other non-current liabilities of $13.0 billion at September 30, 1997,
+declined $1.0 billion from year-end 1996 primarily due to reductions in
+restructuring accrual balances related to pre-1996 restructuring programs, and
+in non-U.S. retirement reserves.
+
+Debt and Equity
+
+  (Dollars in millions)          At September 30    At December 31
+                                       1997              1996
+                                 ---------------    --------------
+
+"Core" debt                          $ 2,727           $ 2,202
+Customer financing debt               23,414            20,627
+                                     -------           -------
+   Total debt                        $26,141           $22,829
+
+Stockholders' equity                 $19,756           $21,628
+
+Debt/capitalization                     57.0%             51.4%
+
+Customer financing debt/equity         6.4:1             6.3:1
+
+      Total debt increased $3.3 billion from year-end 1996 as debt in support of
+customer financing increased $2.8 billion, and "core" debt increased $.5
+billion. Stockholders' equity declined $1.9 billion from December 31, 1996 as
+the increase in the company's retained earnings was more than offset by the
+common share repurchases and the currency effect of the stronger U.S. dollar on
+the company's foreign net assets.
+
+Liquidity
+
+      The company maintains a $10.0 billion committed global credit facility as
+part of its ongoing efforts to ensure appropriate levels of liquidity. As of
+September 30, 1997, $9.2 billion of this confirmed line of credit remains unused
+and available for future use.
+
+
+                                      -14-
+<PAGE>
+
+Financial Condition - (continued)
+
+      On July 30, 1997, the company issued $500 million of 6.45 percent Notes
+due August 1, 2007, and $500 million of 6.22 percent Debentures due August 1,
+2027. The net proceeds of these offerings were used for general corporate
+purposes.
+
+      At September 30, 1997, the company had a net balance of $1.0 billion in
+assets under management from the securitization of lease and trade receivables.
+
+Forward Looking and Cautionary Statements
+
+      Except for the historical information and discussions contained herein,
+statements contained in this Form 10-Q may constitute 'forward looking
+statements' within the meaning of the Private Securities Litigation Reform Act
+of 1995. These statements involve a number of risks, uncertainties and other
+factors that could cause actual results to differ materially, including the
+company's failure to continue to develop and market new and innovative products
+and services and to keep pace with technological change; competitive pressures;
+failure to obtain or protect intellectual property rights; the company's ability
+to attract and retain key personnel; currency and customer financing risks;
+dependence on certain suppliers; changes in the financial or business condition
+of the company's distributors or resellers; the company's ability to
+successfully manage acquisitions and alliances; legal, political and economic
+changes and other risks, uncertainties and factors discussed in the company's
+other filings with the Securities and Exchange Commission, including its Form
+8-K filed on July 21, 1997.
+
+                           Part II - Other Information
+
+      ITEM 6 (a). Exhibits
+
+      Exhibit Number
+
+           3   By-laws of IBM as amended through July 29, 1997.
+
+          11   Statement re: computation of per share earnings.
+
+          12   Statement re: computation of ratios.
+
+          99   Consolidated Statement of Earnings Supplemental Schedule.
+
+
+                                      -15-
+<PAGE>
+
+Other Information - (continued)
+
+ITEM 6 (b). Reports on Form 8-K
+
+      A Form 8-K dated July 21, 1997, was filed with respect to the company's
+financial results for the period ended June 30, 1997, and included unaudited
+consolidated financial statements for the period ended June 30, 1997.
+
+      A Form 8-K dated August 1, 1997, was filed to incorporate by reference
+into Registration Statement No. 333-21073 on Form S-3, effective March 16, 1997,
+the Underwriting Agreement dated July 30, 1997, among International Business
+Machines Corporation, Morgan Stanley & Co. Incorporated, Bear Stearns & Co.
+Inc., Goldman, Sachs & Co., Lehman Brothers Inc., Merrill Lynch, Pierce, Fenner
+& Smith Incorporated and Salomon Brothers Inc. In addition, the Form of the $500
+million 6.45 percent Notes due 2007 and the Form of the $500 million 6.22
+percent Debentures due 2027 were incorporated by reference into Registration
+statement No. 333-21073 on Form S-3, effective March 16, 1997, and were a part
+of this Form 8-K. No financial statements were filed with the Form 8-K.
+
+                                    SIGNATURE
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                              International Business Machines Corporation
+                              -------------------------------------------
+                                              (Registrant)
+
+        Date: November 10, 1997
+        -----------------------
+
+                               By:
+
+
+                                            John R. Joyce
+                               -------------------------------------------
+                                            John R. Joyce
+                                    Vice President and Controller
+
+      *System/390, AS/400 and RS/6000 are trademarks or registered trademarks of
+the International Business Machines Corporation. Lotus Notes is a trademark of
+Lotus Development Corporation.
+
+
+                                      -16-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.B2
+<SEQUENCE>2
+<DESCRIPTION>BY-LAWS
+<TEXT>
+
+
+                                     BY-LAWS
+
+                                       of
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+
+                             Adopted April 29, 1958
+
+                               As Amended Through
+
+                                  July 29, 1997
+
+[July 29, 1997]
+
+<PAGE>
+
+
+                     TABLE OF CONTENTS
+
+                        ARTICLE I                         PAGE
+
+Definitions .........................................       1
+
+                        ARTICLE II
+
+                 MEETINGS OF STOCKHOLDERS
+
+SEC. 1      Place of Meetings .......................       1
+SEC. 2      Annual Meetings .........................       1
+SEC. 3      Special Meetings ........................       2
+SEC. 4      Notice of Meetings ......................       2
+SEC. 5      Quorum ..................................       2
+SEC. 6      Organization ............................       3
+SEC. 7      Items of Business .......................       3
+SEC. 8      Voting ..................................       3
+SEC. 9      List of Stockholders ....................       4
+SEC. 10     Inspectors of Election ..................       4
+                                                            
+                        ARTICLE III
+     
+                    BOARD OF DIRECTORS
+     
+SEC. 1      General Powers ..........................       5
+SEC. 2      Number; Qualifications;
+             Election; Term of 
+             Office .................................       5
+SEC. 3      Place of Meetings .......................       5
+SEC. 4      First Meeting ...........................       5
+SEC. 5      Regular Meetings ........................       5
+SEC. 6      Special Meetings ........................       5
+SEC. 7      Notice of Meetings ......................       5
+SEC. 8      Quorum and Manner of 
+             Acting .................................       6
+SEC. 9      Organization ............................       6
+SEC. 10     Resignations ............................       6
+SEC. 11     Vacancies ...............................       6
+SEC. 12     Retirement of
+             Directors ..............................       6
+
+
+[July 29, 1997]                       -i-
+<PAGE>
+
+                        ARTICLE IV
+
+              EXECUTIVE AND OTHER COMMITTEES
+
+SEC. 1      Executive Committee .....................        7
+SEC. 2      Powers of the Executive
+             Committee ..............................        7
+SEC. 3      Meetings of the Executive
+             Committee ..............................        7
+SEC. 4      Quorum and Manner of
+             Acting of the Executive
+             Committee ..............................        8
+SEC. 5      Other Committees ........................        8
+SEC. 6      Changes in Committees;
+             Resignations; Removals;
+              Vacancies .............................        9
+          
+                         ARTICLE V
+          
+                         OFFICERS
+          
+SEC. 1      Number and Qualifications.. .............        9
+SEC. 2      Resignations ............................        9
+SEC. 3      Removal .................................       10
+SEC. 4      Vacancies ...............................       10
+SEC. 5      Chairman of the Board ...................       10
+SEC. 6      Vice Chairman of the
+             Board ..................................       10
+SEC. 7      President ...............................       10
+SEC. 8      Designated Officers .....................       11
+SEC. 9      Executive Vice
+             Presidents, Senior Vice
+             Presidents and Vice
+             Presidents .............................       11
+SEC. 10     Treasurer ...............................       11
+SEC. 11     Secretary ...............................       12
+SEC. 12     Controller ..............................       13
+SEC. 13     Compensation ............................       13
+          
+                        ARTICLE VI
+          
+                CONTRACTS, CHECKS, DRAFTS,
+                    BANK ACCOUNTS, ETC
+          
+SEC. 1      Execution of Contracts ..................       13
+SEC. 2      Loans ...................................       13
+SEC. 3      Checks, Drafts, etc .....................       14
+SEC. 4      Deposits ................................       14
+SEC. 5      General and Special Bank
+             Accounts ...............................       14
+SEC. 6      Indemnification .........................       14
+
+
+[July 29, 1997]                       -ii-
+<PAGE>
+
+                        ARTICLE VII
+
+                          SHARES
+
+SEC. 1      Stock Certificates ......................       15
+SEC. 2      Books of Account and
+             Record of
+             Stockholders ...........................       15
+SEC. 3      Transfers of Stock ......................       15
+SEC. 4      Regulations .............................       16
+SEC. 5      Fixing of Record Date ...................       16
+SEC. 6      Lost, Destroyed or Mutilated
+             Certificates ...........................       16
+SEC. 7      Inspection of Records ...................       17
+SEC. 8      Auditors ................................       17
+
+                       ARTICLE VIII
+
+                          OFFICES
+
+SEC. 1      Principal Office ........................       17
+SEC. 2      Other Offices ...........................       17
+
+                        ARTICLE IX
+
+Waiver of Notice ....................................       17
+
+                         ARTICLE X
+
+Fiscal Year .........................................       18
+
+                        ARTICLE XI
+
+Seal ................................................       18
+
+                        ARTICLE XII
+
+Amendments ..........................................       18
+
+
+[July 29, 1997]                      -iii-
+<PAGE>
+
+                                     BY-LAWS
+
+                                       OF
+
+                             INTERNATIONAL BUSINESS
+                              MACHINES CORPORATION
+                                     -------
+
+                                    ARTICLE I
+
+                                   DEFINITIONS
+
+      In these By-laws, and for all purposes hereof, unless there be something
+in the subject or context inconsistent therewith:
+
+      (a) 'Corporation' shall mean International Business Machines Corporation.
+
+      (b) 'Certificate of Incorporation' shall mean the restated Certificate of
+Incorporation as filed on May 27, 1992, together with any and all amendments and
+subsequent restatements thereto.
+
+      (c) 'Board' shall mean the Board of Directors of the Corporation.
+
+      (d) 'stockholders' shall mean the stockholders of the Corporation.
+
+      (e) 'Chairman of the Board', 'Vice Chairman of the Board', 'Chairman of
+the Executive Committee', 'Chief Executive Officer,' 'Chief Financial Officer',
+'Chief Accounting Officer', 'President', 'Executive Vice President', 'Senior
+Vice President', 'Vice President', 'Treasurer', 'Secretary', or 'Controller', as
+the case may be, shall mean the person at any given time occupying the
+particular office with the Corporation.
+
+                                   ARTICLE II
+
+                            MEETINGS OF STOCKHOLDERS
+
+      SECTION 1. Place of Meetings. Meetings of the stockholders of the
+Corporation shall be held at such place either within or outside the State of
+New York as may from time to time be fixed by the Board or specified or fixed in
+the notice of any such meeting.
+
+      SECTION 2. Annual Meetings. The annual meeting of the stockholders of the
+Corporation for the election of directors and for the transaction of such other
+business as may properly come before the meeting shall be held on the last
+Tuesday of April of each year, if not a legal holiday, or, if such day shall be
+a legal holiday, then on the next succeeding day not a legal holiday. If any
+annual meeting shall not be held on the day designated herein, or if the
+directors to be elected at such annual 
+
+
+                                       -1-
+<PAGE>
+
+meeting shall not have been elected thereat or at any adjournment thereof, the
+Board shall forthwith call a special meeting of the stockholders for the
+election of directors to be held as soon thereafter as convenient and give
+notice thereof as provided in these By-laws in respect of the notice of an
+annual meeting of the stockholders. At such special meeting the stockholders may
+elect the directors and transact other business with the same force and effect
+as at an annual meeting of the stockholders duly called and held.
+
+      SECTION 3. Special Meetings. Special meetings of the stockholders, unless
+otherwise provided by law, may be called at any time by the Chairman of the
+Board or by the Board.
+
+      SECTION 4. Notice of Meetings. Notice of each meeting of the stockholders,
+annual or special, shall be in writing and given in the name of the Chairman of
+the Board, a Vice Chairman of the Board or the President or a Vice President or
+the Secretary. Such notice shall state the purpose or purposes for which the
+meeting is called and the date and hour when and the place where it is to be
+held. A copy thereof shall either be served personally upon, or sent by mail,
+postage prepaid, to all stockholders of record entitled to vote at such meeting,
+and all stockholders of record who, by reason of any action proposed to be taken
+at such meeting, would be entitled to have their stock appraised if such action
+were taken, not less than ten or more than fifty days before the day on which
+the meeting is called to be held. If mailed, such copy shall be directed to each
+stockholder at the address listed on the record of stockholders of the
+Corporation, or if the stockholder shall have filed with th e Secretary a
+written request that notices be mailed to some other address, it shall be mailed
+to the address designated in such request. Nevertheless, notice of any meeting
+of the stockholders shall not be required to be given to any stockholder who
+shall waive notice thereof as hereinafter provided in Article IX of these
+By-laws. Except when expressly required by law, notice of any adjourned meeting
+of the stockholders need not be given nor shall publication of notice of any
+annual or special meeting thereof be required.
+
+      SECTION 5. Quorum. Except as otherwise provided by law, at all meetings of
+the stockholders, the presence of holders of record of a majority of the
+outstanding shares of stock of the Corporation having voting power, in person or
+represented by proxy and entitled to vote thereat, shall be necessary to
+constitute a quorum for the transaction of business. In the absence of a quorum
+at any such meeting or any adjournment or adjournments thereof, a majority in
+voting interest of those present in person or represented by proxy and entitled
+to vote thereat, or, in the absence of all the stockholders, any officer
+entitled to preside at, or to act as secretary of, such meeting, may adjourn
+such meeting from time to time without further notice, other than by
+announcement at the meeting at which such adjournment shall be taken, until a
+quorum shall be present thereat. At any adjourned meeting at which a quorum
+shall be present any business may be transacted which might have been transacted
+at the meeting as originally called.
+
+
+                                      -2-
+<PAGE>
+
+      SECTION 6. Organization. At each meeting of the stockholders, the Chairman
+of the Board, or in the absence of the Chairman of the Board, the President, or
+in the absence of the Chairman of the Board and the President, a Vice Chairman
+of the Board, or if the Chairman of the Board, the President, and all Vice
+Chairmen of the Board shall be absent therefrom, an Executive Vice President, or
+if the Chairman of the Board, the President, all Vice Chairmen of the Board and
+all Executive Vice Presidents shall be absent therefrom, a Senior Vice President
+shall act as chairman. The Secretary, or, if the Secretary shall be absent from
+such meeting or unable to act, the person whom the Chairman of such meeting
+shall appoint secretary of such meeting shall act as secretary of such meeting
+and keep the minutes thereof.
+
+      SECTION 7. Items of Business. The items of business at all meetings of the
+stockholders shall be, insofar as applicable, as follows:
+
+      -- Call to order.
+
+      -- Proof of notice of meeting or of waiver thereof.
+
+      -- Appointment of inspectors of election, if necessary.
+
+      -- A quorum being present.
+
+      -- Reports.
+
+      -- Election of directors.
+
+      -- Other business specified in the notice of the meeting.
+
+      -- Voting.
+
+      -- Adjournment.
+
+      Any items of business not referred to in the foregoing may be taken up at
+the meeting as the chairman of the meeting shall determine. The chairman of the
+meeting shall determine all matters relating to the efficient conduct of the
+meeting, including but not limited to the maintenance of order and decorum.
+
+      SECTION 8. Voting. Except as otherwise provided by law, each holder of
+record of shares of stock of the Corporation having voting power shall be
+entitled at each meeting of the stockholders to one vote for every share of such
+stock standing in the stockholder's name on the record of stockholders of the
+Corporation:
+
+      (a) on the date fixed pursuant to the provisions of Section 5 of Article
+VII of these By-laws as the record date for the determination of the
+stockholders who shall be entitled to vote at such meeting, or
+
+
+                                      -3-
+<PAGE>
+
+      (b) if such record date shall not have been so fixed, then at the close of
+business on the day next preceding the day on which notice of such meeting shall
+have been given, or
+
+      (c) if such record date shall not have been so fixed and if no notice of
+such meeting shall have been given, then at the time of the call to order of
+such meeting.
+
+      Any vote on stock of the Corporation at any meeting of the stockholders
+may be given by the stockholder of record entitled thereto in person or by proxy
+appointed by an instrument in writing, subscribed by such stockholder or by the
+stockholder's attorney thereunto duly authorized and delivered to the secretary
+of such meeting at or prior to the time designated in the order of business for
+turning in proxies. At all meetings of the stockholders at which a quorum shall
+be present, all matters (except where otherwise provided by law, the Certificate
+of Incorporation or these By-laws) shall be decided by the vote of a majority in
+voting interest of the stockholders present in person or represented by proxy
+and entitled to vote thereat. Unless required by law, or determined by the
+chairman of the meeting to be advisable, the vote on any question need not be by
+ballot. On a vote by ballot, each ballot shall be signed by the stockholder
+voting, or by the stockholder's proxy as such, if there be such proxy.
+
+      SECTION 9. List of Stockholders. A list, certified by the Secretary, of
+the stockholders of the Corporation entitled to vote shall be produced at any
+meeting of the stockholders upon the request of any stockholder of the
+Corporation pursuant to the provisions of applicable law, the Certificate of
+Incorporation or these By-laws.
+
+      SECTION 10. Inspectors of Election. Prior to the holding of each annual or
+special meeting of the stockholders, two inspectors of election to serve thereat
+shall be appointed by the Board, or, if the Board shall not have made such
+appointment, by the Chairman of the Board. If there shall be a failure to
+appoint inspectors, or if, at any such meeting, any inspector so appointed shall
+be absent or shall fail to act or the office shall become vacant, the chairman
+of the meeting may, and at the request of a stockholder present in person and
+entitled to vote at such meeting shall, appoint such inspector or inspectors of
+election, as the case may be, to act thereat. The inspectors of election so
+appointed to act at any meeting of the stockholders, before entering upon the
+discharge of their duties, shall be sworn faithfully to execute the duties of
+inspectors at such meeting, with strict impartiality and according to the best
+of their ability, and the oath so taken shall be subscribed by them. Such
+inspectors of election shall take charge of the polls, and, after the voting on
+any question, shall make a certificate of the results of the vote taken. No
+director or candidate for the office of director shall act as an inspector of an
+election of directors. Inspectors need not be stockholders.
+
+
+                                      -4-
+<PAGE>
+
+                                   ARTICLE III
+
+                               BOARD OF DIRECTORS
+
+      SECTION 1. General Powers. The business and affairs of the Corporation
+shall be managed by the Board. The Board may exercise all such authority and
+powers of the Corporation and do all such lawful acts and things as are not by
+law, the Certificate of Incorporation or these By-laws, directed or required to
+be exercised or done by the stockholders.
+
+      SECTION 2. Number; Qualifications; Election; Term of Office. The number of
+directors of the Corporation shall be twelve, but the number thereof may be
+increased to not more than twenty-five, or decreased to not less than nine, by
+amendment of these By-laws. The directors shall be elected at the annual meeting
+of the stockholders. At each meeting of the stockholders for the election of
+directors at which a quorum is present, the persons receiving a plurality of the
+votes at such election shall be elected. Each director shall hold office until
+the annual meeting of the stockholders which shall be held next after the
+election of such director and until a successor shall have been duly elected and
+qualified, or until death, or until the director shall have resigned as
+hereinafter provided in Section 10 of this Article III. 
+
+      SECTION 3. Place of Meetings. Meetings of the Board shall be held at such
+place either within or outside State of New York as may from time to time be
+fixed by the Board or specified or fixed in the notice of any such meeting.
+
+      SECTION 4. First Meeting. The Board shall meet for the purpose of
+organization, the election of officers and the transaction of other business, on
+the same day the annual meeting of stockholders is held. Notice of such meeting
+need not be given. Such meeting may be held at any other time or place which
+shall be specified in a notice thereof given as hereinafter provided in Section
+7 of this Article III.
+
+      SECTION 5. Regular Meetings. Regular meetings of the Board shall be held
+at times and dates fixed by the Board or at such other times and dates as the
+Chairman of the Board shall determine and as shall be specified in the notice of
+such meetings. Notice of regular meetings of the Board need not be given except
+as otherwise required by law or these By-laws.
+
+      SECTION 6. Special Meetings. Special meetings of the Board may be called
+by the Chairman of the Board.
+
+      SECTION 7. Notice of Meetings. Notice of each special meeting of the Board
+(and of each regular meeting for which notice shall be required) shall be given
+by the Secretary as hereinafter provided in this Section 7, in which notice
+shall be stated the time, place and, if required by law or these By-laws, the
+purposes of such meeting. Notice of each such meeting shall be mailed, postage
+prepaid, to each director, by first-class mail, at least four days before the
+day on which such meeting is to be held, or shall be sent by facsimile
+transmission or comparable medium, or be delivered personally or by telephone,
+at least twenty-four hours before the
+
+
+                                      -5-
+<PAGE>
+
+time at which such meeting is to be held. Notice of any such meeting need not be
+given to any director who shall waive notice thereof as provided in Article IX
+of these By-laws. Any meeting of the Board shall be a legal meeting without
+notice thereof having been given, if all the directors of the Corporation then
+holding office shall be present thereat.
+
+      SECTION 8. Quorum and Manner of Acting. A majority of the Board shall be
+present in person at any meeting of the Board in order to constitute a quorum
+for the transaction of business at such meeting. Participation in a meeting by
+means of a conference telephone or similar communications equipment allowing all
+persons participating in the meeting to hear each other shall constitute
+presence in person at a meeting. Except as otherwise expressly required by law
+or the Certificate of Incorporation and except also as specified in Section 1,
+Section 5, and Section 6 of Article IV, in Section 3 of Article V and in Article
+XII of these By-laws, the act of a majority of the directors present at any
+meeting at which a quorum is present shall be the act of the Board. In the
+absence of a quorum at any meeting of the Board, a majority of the directors
+present thereat may adjourn such meeting from time to time until a quorum shall
+be present thereat. Notice of any adjourned meeting need not be given. At any
+adjourned meeting at which a quorum is present, any business may be transacted
+which might have been transacted at the meeting as originally called. The
+directors shall act only as a Board and the individual directors shall have no
+power as such.
+
+      SECTION 9. Organization. At each meeting of the Board, the Chairman of the
+Board, or in the case of the Chairman's absence therefrom, the President, or in
+the case of the President's absence therefrom, a Vice Chairman, or in the case
+of the absence of all such persons, another director chosen by a majority of
+directors present, shall act as chairman of the meeting and preside thereat. The
+Secretary, or if the Secretary shall be absent from such meeting, any person
+appointed by the chairman, shall act as secretary of the meeting and keep the
+minutes thereof.
+
+      SECTION 10. Resignations. Any director of the Corporation may resign at
+any time by giving written notice of resignation to the Board or the Chairman of
+the Board or the Secretary. Any such resignation shall take effect at the time
+specified therein, or if the time when it shall become effective shall not be
+specified therein, then it shall take effect immediately upon its receipt; and
+unless otherwise specified therein, the acceptance of such resignation shall not
+be necessary to make it effective.
+
+      SECTION 11. Vacancies. Any vacancy in the Board, whether arising from
+death, resignation, an increase in the number of directors or any other cause,
+may be filled by the Board.
+
+      SECTION 12. Retirement of Directors. The Board may prescribe a retirement
+policy for directors on or after reaching a certain age, provided, however, that
+such 
+
+
+                                      -6-
+<PAGE>
+
+retirement shall not cut short the annual term for which any director shall have
+been elected by the stockholders.
+
+                                   ARTICLE IV
+                         EXECUTIVE AND OTHER COMMITTEES
+
+      SECTION 1. Executive Committee. The Board, by resolution adopted by a
+majority of the Board, may designate not less than four of the directors then in
+office to constitute an Executive Committee, each member of which unless
+otherwise determined by resolution adopted by a majority of the whole Board,
+shall continue to be a member of such Committee until the annual meeting of the
+stockholders which shall be held next after designation as a member of such
+Committee or until the earlier termination as a director. The Chief Executive
+Officer shall always be designated as a member of the Executive Committee. The
+Board may by resolution appoint one member as the Chairman of the Executive
+Committee who shall preside at all meetings of such Committee. In the absence of
+said Chairman, the Chief Executive Officer shall preside at all such meetings.
+In the absence of both the Chairman of the Executive Committee and the Chief
+Executive Officer, the Chairman of the Board shall preside at all such meetings.
+In the absence of the Chairman of the Executive Committee and the Chief
+Executive Officer and the Chairman of the Board, the President shall preside at
+all such meetings. In the absence of all such persons, a majority of the members
+of the Executive Committee present shall choose a chairman to preside at such
+meetings. The Secretary, or if the Secretary shall be absent from such meeting,
+any person appointed by the chairman, shall act as secretary of the meeting and
+keep the minutes thereof.
+
+      SECTION 2. Powers of the Executive Committee. To the extent permitted by
+law, the Executive Committee may exercise all the powers of the Board in the
+management of specified matters where such authority is delegated to it by the
+Board, and also, to the extent permitted by law, the Executive Committee shall
+have, and may exercise, all the powers of the Board in the management of the
+business and affairs of the Corporation (including the power to authorize the
+seal of the Corporation to be affixed to all papers which may require it; but
+excluding the power to appoint a member of the Executive Committee) in such
+manner as the Executive Committee shall deem to be in the best interests of the
+Corporation and not inconsistent with any prior specific action of the Board. An
+act of the Executive Committee taken within the scope of its authority shall be
+an act of the Board. The Executive Committee shall render in the form of minutes
+a report of its several acts at each regular meeting of the Board and at any
+other time when so directed by the Board.
+
+      SECTION 3. Meetings of the Executive Committee. Regular meetings of the
+Executive Committee shall be held at such times, on such dates and at such
+places as shall be fixed by resolution adopted by a majority of the Executive
+Committee, 
+
+
+                                      -7-
+<PAGE>
+
+of which regular meetings notice need not be given, or as shall be fixed by the
+Chairman of the Executive Committee or in the absence of the Chairman of the
+Executive Committee the Chief Executive Officer and specified in the notice of
+such meeting. Special meetings of the Executive Committee may be called by the
+Chairman of the Executive Committee or by the Chief Executive Officer. Notice of
+each such special meeting of the Executive Committee (and of each regular
+meeting for which notice shall be required), stating the time and place thereof
+shall be mailed, postage prepaid, to each member of the Executive Committee, by
+first-class mail, at least four days before the day on which such meeting is to
+be held, or shall be sent by facsimile transmission or comparable medium, or be
+delivered personally or by telephone, at least twenty-four hours before the time
+at which such meeting is to be held; but notice need not be given to a member of
+the Executive Committee who shall waive notice thereof as provided in Article IX
+of these By-laws, and any meeting of the Executive Committee shall be a legal
+meeting without any notice thereof having been given, if all the members of such
+Committee shall be present thereat.
+
+      SECTION 4. Quorum and Manner of Acting of the Executive Committee. Four
+members of the Executive Committee shall constitute a quorum for the transaction
+of business, and the act of a majority of the members of the Executive Committee
+present at a meeting at which a quorum shall be present shall be the act of the
+Executive Committee. Participating in a meeting by means of a conference
+telephone or similar communications equipment allowing all persons participating
+in the meeting to hear each other shall constitute presence at a meeting of the
+Executive Committee. The members of the Executive Committee shall act only as a
+committee and individual members shall have no power as such.
+
+      SECTION 5. Other Committees. The Board may, by resolution adopted by a
+majority of the Board, designate members of the Board to constitute other
+committees, which shall have, and may exercise, such powers as the Board may by
+resolution delegate to them, and shall in each case consist of such number of
+directors as the Board may determine; provided, however, that each such
+committee shall have at least three directors as members thereof. Such a
+committee may either be constituted for a specified term or may be constituted
+as a standing committee which does not require annual or periodic
+reconstitution. A majority of all the members of any such committee may
+determine its action and its quorum requirements and may fix the time and place
+of its meetings, unless the Board shall otherwise provide. Participating in a
+meeting by means of a conference telephone or similar communications equipment
+allowing all persons participating in the meeting to hear each other shall
+constitute presence at a meeting of such other committees.
+
+      In addition to the foregoing, the Board may, by resolution adopted by a
+majority of the Board, create a committee of indeterminate membership and
+duration and not subject to the limitations as to the membership, quorum and
+manner of meeting and acting prescribed in these By-laws, which committee, in
+the event of a major disaster or catastrophe or national emergency which renders
+the Board 
+
+
+                                      -8-
+<PAGE>
+
+incapable of action by reason of the death, physical incapacity or inability to
+meet of some or all of its members, shall have, and may exercise all the powers
+of the Board in the management of the business and affairs of the Corporation
+(including, without limitation, the power to authorize the seal of the
+Corporation to be affixed to all papers which may require it and the power to
+fill vacancies in the Board). An act of such committee taken within the scope of
+its authority shall be an act of the Board.
+
+      SECTION 6. Changes in Committees; Resignations; Removals; Vacancies. The
+Board shall have power, by resolution adopted by a majority of the Board, at any
+time to change or remove the members of, to fill vacancies in, and to discharge
+any committee created pursuant to these By-laws, either with or without cause.
+Any member of any such committee may resign at any time by giving written notice
+to the Board or the Chairman of the Board or the Secretary. Such resignation
+shall take effect upon receipt of such notice or at any later time specified
+therein; and, unless otherwise specified therein, acceptance of such resignation
+shall not be necessary to make it effective. Any vacancy in any committee,
+whether arising from death, resignation, an increase in the number of committee
+members or any other cause, shall be filled by the Board in the manner
+prescribed in these By-laws for the original appointment of the members of such
+committee.
+
+                                    ARTICLE V
+
+                                    OFFICERS
+
+      SECTION 1. Number and Qualifications. The officers of the Corporation
+shall include the Chairman of the Board, and may include one or more Vice
+Chairmen of the Board, the President, one or more Vice Presidents (one or more
+of whom may be designated as Executive Vice Presidents or as Senior Vice
+Presidents or by other designations), the Treasurer, the Secretary and the
+Controller. Officers shall be elected from time to time by the Board, each to
+hold office until a successor shall have been duly elected and shall have
+qualified, or until death, or until resignation as hereinafter provided in
+Section 2 of this Article V, or until removed as hereinafter provided in Section
+3 of this Article V.
+
+      SECTION 2. Resignations. Any officer of the Corporation may resign at any
+time by giving written notice of resignation to the Board, the Chairman of the
+Board, the Chief Executive Officer or the Secretary. Any such resignation shall
+take effect at the time specified therein, or, if the time when it shall become
+effective shall not be specified therein, then it shall become effective upon
+its receipt; and, unless otherwise specified therein, the acceptance of such
+resignation shall not be necessary to make it effective. 
+
+
+                                      -9-
+<PAGE>
+
+      SECTION 3. Removal. Any officer of the Corporation may be removed, either
+with or without cause, at any time, by a resolution adopted by a majority of the
+Board at any meeting of the Board.
+
+      SECTION 4. Vacancies. A vacancy in any office, whether arising from death,
+resignation, removal or any other cause, may be filled for the unexpired portion
+of the term of office which shall be vacant, in the manner prescribed in these
+By-laws for the regular election or appointment to such office.
+
+      SECTION 5. Chairman of the Board. The Chairman of the Board shall, if
+present, preside at each meeting of the stockholders and of the Board and shall
+perform such other duties as may from time to time be assigned by the Board. The
+Chairman may sign certificates representing shares of the stock of the
+Corporation pursuant to the provisions of Section 1 of Article VII of these
+By-laws; sign, execute and deliver in the name of the Corporation all deeds,
+mortgages, bonds, contracts or other instruments authorized by the Board, except
+in cases where the signing, execution or delivery thereof shall be expressly
+delegated by the Board or these By-laws to some other officer or agent of the
+Corporation or where they shall be required by law otherwise to be signed,
+executed and delivered; and affix the seal of the Corporation to any instrument
+which shall require it. The Chairman of the Board, when there is no President or
+in the absence or incapacity of the President, shall perform all the duties and
+functions and exercise all the powers of the President.
+
+      SECTION 6. Vice Chairman of the Board. Each Vice Chairman of the Board
+shall assist the Chairman of the Board and have such other duties as may be
+assigned by the Board or the Chairman of the Board. The Vice Chairman may sign
+certificates representing shares of the stock of the Corporation pursuant to the
+provisions of Section 1 of Article VII of these By-laws; sign, execute and
+deliver in the name of the Corporation all deeds, mortgages, bonds, contracts or
+other instruments authorized by the Board, except in cases where the signing,
+execution or delivery thereof shall be expressly delegated by the Board or these
+By-laws to some officer or agent of the Corporation or where they shall be
+required by law otherwise to be signed, executed and delivered; and affix the
+seal of the Corporation to any instrument which shall require it.
+
+      SECTION 7. President. The President shall perform all such duties as from
+time to time may be assigned by the Board or the Chairman of the Board. The
+President may sign certificates representing shares of the stock of the
+Corporation pursuant to the provisions of Section 1 of Article VII of these
+By-laws; sign, execute and deliver in the name of the Corporation all deeds
+mortgages, bonds, contracts or other instruments authorized by the Board, except
+in cases where the signing, execution or delivery thereof shall be expressly
+delegated by the Board or these By-laws to some other officer or agent of the
+Corporation or where they shall be required by law otherwise to be signed,
+executed and delivered, and affix the seal of the Corporation to any instrument
+which shall require it; and, in general, perform all duties incident to the
+office of President. The President shall in the absence or incapacity of the
+Chairman of the Board, perform all the duties and functions 
+
+
+                                      -10-
+<PAGE>
+
+and exercise all the powers of the Chairman of the Board.
+
+      SECTION 8. Designated Officers. (a) Chief Executive Officer. Either the
+Chairman of the Board, or the President, as the Board of Directors may
+designate, shall be the Chief Executive Officer of the Corporation. The officer
+so designated shall have, in addition to the powers and duties applicable to the
+office set forth in Section 5 or 7 of this Article V, general and active
+supervision over the business and affairs of the Corporation and over its
+several officers, agents, and employees, subject, however, to the control of the
+Board. The Chief Executive Officer shall see that all orders and resolutions of
+the Board are carried into effect, be an ex officio member of all committees of
+the Board (except the Audit Committee, the Directors and Corporate Governance
+Committee, and committees specifically empowered to fix or approve the Chief
+Executive Officer's compensation or to grant or administer bonus, option or
+other similar plans in which the Chief Executive Officer is eligible to
+participate), and, in general, shall perform all duties incident to the position
+of Chief Executive Officer and such other duties as may from time to time be
+assigned by the Board. (b) Other Designated Officers. The Board of Directors may
+designate officers to serve as Chief Financial Officer, Chief Accounting Officer
+and other such designated positions and to fulfill the responsibilities of such
+designated positions in addition to their duties as officers as set forth in
+this Article V.
+
+      SECTION 9. Executive Vice Presidents, Senior Vice Presidents and Vice
+Presidents. Each Executive and Senior Vice President shall perform all such
+duties as from time to time may be assigned by the Board or the Chairman of the
+Board or a Vice Chairman of the Board or the President. Each Vice President
+shall perform all such duties as from time to time may be assigned by the Board
+or the Chairman of the Board or a Vice Chairman of the Board or the President or
+an Executive or a Senior Vice President. Any Vice President may sign
+certificates representing shares of stock of the Corporation pursuant to the
+provisions of Section 1 of Article VII of these By-laws.
+
+      SECTION 10. Treasurer. The Treasurer shall:
+
+      (a) have charge and custody of, and be responsible for, all the funds and
+securities of the Corporation, and may invest the same in any securities, may
+open, maintain and close accounts for effecting any and all purchase, sale,
+investment and lending transactions in securities of any and all kinds for and
+on behalf of the Corporation or any employee pension or benefit plan fund or
+other fund established by the Corporation, as may be permitted by law;
+
+      (b) keep full and accurate accounts of receipts and disbursements in books
+belonging to the Corporation; 
+
+
+                                      -11-
+<PAGE>
+
+      (c) deposit all moneys and other valuables to the credit of the
+Corporation in such depositaries as may be designated by the Board or the
+Executive Committee;
+
+      (d) receive, and give receipts for, moneys due and payable to the
+Corporation from any source whatsoever;
+
+      (e) disburse the funds of the Corporation and supervise the investment of
+its funds, taking proper vouchers therefor;
+
+      (f) render to the Board, whenever the Board may require, an account of all
+transactions as Treasurer; and
+
+      (g) in general, perform all the duties incident to the office of Treasurer
+and such other duties as from time to time may be assigned by the Board or the
+Chairman of the Board or a Vice Chairman of the Board or the President or an
+Executive or Senior Vice President.
+
+      SECTION 11. Secretary. The Secretary shall:
+
+      (a) keep or cause to be kept in one or more books provided for the
+purpose, the minutes of all meetings of the Board, the Executive Committee and
+other committees of the Board and the stockholders;
+
+      (b) see that all notices are duly given in accordance with the provisions
+of these By-laws and as required by law;
+
+      (c) be custodian of the records and the seal of the Corporation and affix
+and attest the seal to all stock certificates of the Corporation and affix and
+attest the seal to all other documents to be executed on behalf of the
+Corporation under its seal;
+
+      (d) see that the books, reports, statements, certificates and other
+documents and records required by law to be kept and filed are properly kept and
+filed; and
+
+      (e) in general, perform all the duties incident to the office of Secretary
+and such other duties as from time to time may be assigned by the Board or the
+Chairman of the Board or a Vice Chairman of the Board or the President or an
+Executive or Senior Vice President.
+
+
+                                      -12-
+<PAGE>
+
+      SECTION 12. Controller. The Controller shall:
+
+      (a) have control of all the books of account of the Corporation;
+
+      (b) keep a true and accurate record of all property owned by it, of its
+debts and of its revenues and expenses;
+
+      (c) keep all accounting records of the Corporation (other than the
+accounts of receipts and disbursements and those relating to the deposits of
+money and other valuables of the Corporation, which shall be kept by the
+Treasurer);
+
+      (d) render to the Board, whenever the Board may require, an account of the
+financial condition of the Corporation; and
+
+      (e) in general, perform all the duties incident to the office of
+Controller and such other duties as from time to time may be assigned by the
+Board or the Chairman of the Board or a Vice Chairman of the Board or the
+President or an Executive or Senior Vice President.
+
+      SECTION 13. Compensation. The compensation of the officers of the
+Corporation shall be fixed from time to time by the Board; provided, however,
+that the Board may delegate to a committee the power to fix or approve the
+compensation of any officers. An officer of the Corporation shall not be
+prevented from receiving compensation by reason of being also a director of the
+Corporation; but any such officer who shall also be a director shall not have
+any vote in the determination of the amount of compensation paid to such
+officer.
+
+                                   ARTICLE VI
+
+                           CONTRACTS, CHECKS, DRAFTS,
+                              BANK ACCOUNTS, ETC.
+
+      SECTION 1. Execution of Contracts. Except as otherwise required by law or
+these By-laws, any contract or other instrument may be executed and delivered in
+the name and on behalf of the Corporation by any officer (including any
+assistant officer) of the Corporation. The Board or the Executive Committee may
+authorize any agent or employee to execute and deliver any contract or other
+instrument in the name and on behalf of the Corporation, and such authority may
+be general or confined to specific instances as the Board or such Committee, as
+the case may be, may by resolution determine.
+
+      SECTION 2. Loans. Unless the Board shall otherwise determine, the Chairman
+of the Board or a Vice Chairman of the Board or the President or any Vice
+President, acting together with the Treasurer or the Secretary, may effect loans
+and advances at any time for the Corporation from any bank, trust company or
+other 
+
+
+                                      -13-
+<PAGE>
+
+institution, or from any firm, corporation or individual, and for such loans and
+advances may make, execute and deliver promissory notes, bonds or other
+certificates or evidences of indebtedness of the Corporation, but in making such
+loans or advances no officer or officers shall mortgage, pledge, hypothecate or
+transfer any securities or other property of the Corporation, except when
+authorized by resolution adopted by the Board.
+
+      SECTION 3. Checks, Drafts, etc. All checks, drafts, bills of exchange or
+other orders for the payment of money out of the funds of the Corporation, and
+all notes or other evidences of indebtedness of the Corporation, shall be signed
+in the name and on behalf of the Corporation by such persons and in such manner
+as shall from time to time be authorized by the Board or the Executive Committee
+or authorized by the Treasurer acting together with either the General Manager
+of an operating unit or a nonfinancial Vice President of the Corporation, which
+authorization may be general or confined to specific instances.
+
+      SECTION 4. Deposits. All funds of the Corporation not otherwise employed
+shall be deposited from time to time to the credit of the Corporation in such
+banks, trust companies or other depositaries as the Board or the Executive
+Committee may from time to time designate or as may be designated by any officer
+or officers of the Corporation to whom such power of designation may from time
+to time be delegated by the Board or the Executive Committee. For the purpose of
+deposit and for the purpose of collection for the account of the Corporation,
+checks, drafts and other orders for the payment of money which are payable to
+the order of the Corporation may be endorsed, assigned and delivered by any
+officer, employee or agent of the Corporation.
+
+      SECTION 5. General and Special Bank Accounts. The Board or the Executive
+Committee may from time to time authorize the opening and keeping of general and
+special bank accounts with such banks, trust companies or other depositaries as
+the Board or the Executive Committee may designate or as may be designated by
+any officer or officers of the Corporation to whom such power of designation may
+from time to time be delegated by the Board or the Executive Committee. The
+Board or the Executive Committee may make such special rules and regulations
+with respect to such bank accounts, not inconsistent with the provisions of
+these By-laws, as it may deem expedient.
+
+      SECTION 6. Indemnification. The Corporation shall, to the fullest extent
+permitted by applicable law as in effect at any time, indemnify any person made,
+or threatened to be made, a party to an action or proceeding whether civil or
+criminal (including an action or proceeding by or in the right of the
+Corporation or any other corporation of any type or kind, domestic or foreign,
+or any partnership, joint venture, trust, employee benefit plan or other
+enterprise, for which any director or officer of the Corporation served in any
+capacity at the request of the Corporation), by reason of the fact that such
+person or such person's testator or intestate was a director or officer of the
+Corporation, or served such other corporation, partnership, joint
+
+
+                                      -14-
+<PAGE>
+
+venture, trust, employee benefit plan or other enterprise in any capacity,
+against judgments, fines, amounts paid in settlement and reasonable expenses,
+including attorneys' fees actually and necessarily incurred as a result of such
+action or proceeding, or any appeal therein. Such indemnification shall be a
+contract right and shall include the right to be paid advances of any expenses
+incurred by such person in connection with such action, suit or proceeding,
+consistent with the provisions of applicable law in effect at any time.
+Indemnification shall be deemed to be 'permitted' within the meaning of the
+first sentence hereof if it is not expressly prohibited by applicable law as in
+effect at the time.
+
+                                   ARTICLE VII
+
+                                     SHARES
+
+      SECTION 1. Stock Certificates. The shares of the Corporation shall be
+represented by certificates, or shall be uncertificated shares. Each owner of
+stock of the Corporation shall be entitled to have a certificate, in such form
+as shall be approved by the Board, certifying the number of shares of stock of
+the Corporation owned. To the extent that shares are represented by
+certificates, such certificates of stock shall be signed in the name of the
+Corporation by the Chairman of the Board or a Vice Chairman of the Board or the
+President or a Vice President and by the Secretary and sealed with the seal of
+the Corporation (which seal may be a facsimile, engraved or printed); provided,
+however, that where any such certificate is signed by a registrar, other than
+the Corporation or its employee, the signatures of the Chairman of the Board, a
+Vice Chairman of the Board, the President, the Secretary, and transfer agent or
+a transfer clerk acting on behalf of the Corporation upon such certificates may
+be facsimiles, engraved or printed. In case any officer, transfer agent or
+transfer clerk acting on behalf of the Corporation ceases to be such officer,
+transfer agent, or transfer clerk before such certificates shall be issued, they
+may nevertheless be issued by the Corporation with the same effect as if they
+were still such officer, transfer agent or transfer clerk at the date of their
+issue.
+
+      SECTION 2. Books of Account and Record of Stockholders. There shall be
+kept at the office of the Corporation correct books of account of all its
+business and transactions, minutes of the proceedings of stockholders, Board,
+and Executive Committee, and a book to be known as the record of stockholders,
+containing the names and addresses of all persons who are stockholders, the
+number of shares of stock held, and the date when the stockholder became the
+owner of record thereof.
+
+      SECTION 3. Transfers of Stock. Transfers of shares of stock of the
+Corporation shall be made on the record of stockholders of the Corporation only
+upon authorization by the registered holder thereof, or by an attorney thereunto
+authorized by power of attorney duly executed and filed with the Secretary or
+with a transfer agent or transfer clerk, and on surrender of the certificate or
+certificates for such shares properly endorsed, provided such shares are
+represented by a certificate, or accompanied by a duly executed stock transfer
+power and the payment of all taxes thereon. The person in whose names shares of
+stock shall stand on the 
+
+
+                                      -15-
+<PAGE>
+
+record of stockholders of the Corporation shall be deemed the owner thereof for
+all purposes as regards the Corporation. Whenever any transfers of shares shall
+be made for collateral security and not absolutely and written notice thereof
+shall be given to the Secretary or to such transfer agent or transfer clerk,
+such fact shall be stated in the entry of the transfer.
+
+      SECTION 4. Regulations. The Board may make such additional rules and
+regulations as it may deem expedient, not inconsistent with these By-laws,
+concerning the issue, transfer and registration of certificated or
+uncertificated shares of stock of the Corporation. It may appoint, or authorize
+any officer or officers to appoint, one or more transfer agents or one or more
+transfer clerks and one or more registrars and may require all certificates of
+stock to bear the signature or signatures of any of them.
+
+      SECTION 5. Fixing of Record Date. The Board shall fix a time not exceeding
+fifty nor less than ten days prior to the date then fixed for the holding of any
+meeting of the stockholders or prior to the last day on which the consent or
+dissent of the stockholders may be effectively expressed for any purpose without
+a meeting, as the time as of which the stockholders entitled to notice of and to
+vote at such meeting or whose consent or dissent is required or may be expressed
+for any purpose, as the case may be, shall be determined, and all persons who
+were holders of record of voting stock at such time, and no others, shall be
+entitled to notice of and to vote at such meeting or to express their consent or
+dissent, as the case may be. The Board may fix a time not exceeding fifty days
+preceding the date fixed for the payment of any dividend or the making of any
+distribution or the allotment of rights to subscribe for securities of the
+Corporation, or for the delivery of evidences of rights or evidences of
+interests arising out of any change, conversion or exchange of capital stock or
+other securities, as the record date for the determination of the stockholders
+entitled to receive any such dividend, distribution, allotment, rights or
+interests, and in such case only the stockholders of record at the time so fixed
+shall be entitled to receive such dividend, distribution, allotment, rights or
+interests.
+
+      SECTION 6. Lost, Destroyed or Mutilated Certificates. The holder of any
+certificate representing shares of stock of the Corporation shall immediately
+notify the Corporation of any loss, destruction or mutilation of such
+certificate, and the Corporation may issue a new certificate of stock in the
+place of any certificate theretofore issued by it which the owner thereof shall
+allege to have been lost or destroyed or which shall have been mutilated, and
+the Corporation may, in its discretion, require such owner or the owner's legal
+representatives to give to the Corporation a bond in such sum, limited or
+unlimited, and in such form and with such surety or sureties as the Board in its
+absolute discretion shall determine, to indemnify the Corporation against any
+claim that may be made against it on account of the alleged loss or destruction
+of any such certificate, or the issuance of such new certificate. Anything to
+the contrary notwithstanding, the Corporation, in its absolute discretion, may
+refuse to issue any such new certificate, except pursuant to legal 
+
+
+                                      -16-
+<PAGE>
+
+proceedings under the laws of the State of New York.
+
+      SECTION 7. Inspection of Records. The record of stockholders and minutes
+of the proceedings of stockholders shall be available for inspection, within the
+limits and subject to the conditions and restrictions prescribed by applicable
+law.
+
+      SECTION 8. Auditors. The Board shall employ an independent public or
+certified public accountant or firm of such accountants who shall act as
+auditors in making examinations of the consolidated financial statements of the
+Corporation and its subsidiaries in accordance with generally accepted auditing
+standards. The auditors shall certify that the annual financial statements are
+prepared in accordance with generally accepted accounting principles, and shall
+report on such financial statements to the stockholders and directors of the
+Corporation. The Board's selection of auditors shall be presented for
+ratification by the stockholders at the annual meeting. Directors and officers,
+when acting in good faith, may rely upon financial statements of the Corporation
+represented to them to be correct by the officer of the Corporation having
+charge of its books of account, or stated in a written report by the auditors
+fairly to reflect the financial condition of the Corporation.
+
+                                  ARTICLE VIII
+
+                                     OFFICES
+
+      SECTION 1. Principal Office. The principal office of the Corporation shall
+be at such place in the Town of North Castle, County of Westchester and State of
+New York as the Board shall from time to time determine.
+
+      SECTION 2. Other Offices. The Corporation may also have an office or
+offices other than said principal office at such place or places as the Board
+shall from time to time determine or the business of the Corporation may
+require.
+
+                                   ARTICLE IX
+
+                                WAIVER OF NOTICE
+
+      Whenever under the provisions of any law of the State of New York, the
+Certificate of Incorporation or these By-laws or any resolution of the Board or
+any committee thereof, the Corporation or the Board or any committee thereof is
+authorized to take any action after notice to the stockholders, directors or
+members of any such committee, or after the lapse of a prescribed period of
+time, such action may be taken without notice and without the lapse of any
+period of time, if, at any time before or after such action shall be completed,
+such notice or lapse of time shall be waived in writing by the person or persons
+entitled to said notice or entitled to 
+
+
+                                      -17-
+<PAGE>
+
+participate in the action to be taken, or, in the case of a stockholder, by an
+attorney thereunto authorized. Attendance at a meeting requiring notice by any
+person or, in the case of a stockholder, by the stockholder's attorney, agent or
+proxy, shall constitute a waiver of such notice on the part of the person so
+attending, or by such stockholder, as the case may be.
+
+                                    ARTICLE X
+
+                                   FISCAL YEAR
+
+      The fiscal year of the Corporation shall end on the thirty-first day of
+December in each year.
+
+                                   ARTICLE XI
+
+                                      SEAL
+
+      The Seal of the Corporation shall consist of two concentric circles with
+the IBM logotype appearing in bold face type within the inner circle and the
+words 'International Business Machines Corporation' appearing within the outer
+circle.
+
+                                   ARTICLE XII
+
+                                   AMENDMENTS
+
+      These By-laws may be amended or repealed or new By-laws may be adopted by
+the stockholders at any annual or special meeting, if the notice thereof
+mentions that amendment or repeal or the adoption of new By-laws is one of the
+purposes of such meeting. These By-laws, subject to the laws of the State of New
+York, may also be amended or repealed or new By-laws may be adopted by the
+affirmative vote of a majority of the Board given at any meeting, if the notice
+thereof mentions that amendment or repeal or the adoption of new By-laws is one
+of the purposes of such meeting; provided, however, that if any By-law
+regulating an impending election of directors is adopted or amended or repealed
+by the Board, there shall be set forth in the notice of the next meeting of the
+stockholders for the election of directors the By-law so adopted or amended or
+repealed, together with a concise statement of the changes made.
+
+
+                                      -18-
+<PAGE>
+
+                             INTERNATIONAL BUSINESS
+                              MACHINES CORPORATION
+
+      I, the undersigned, Secretary of International Business Machines
+Corporation, do hereby certify that the foregoing is a true and complete copy of
+the By-laws of said Corporation, including all amendments thereto, and the same
+is in force at the date hereof.
+
+      IN WITNESS WHEREOF, I have hereunto subscribed my name and affixed the
+seal of said Corporation, this      day of      19  .
+
+
+                                          --------------------------
+                                          Secretary
+
+
+                                      -19-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<DESCRIPTION>STATEMENT RE: COMPUTATION OF PER SHARE EARNINGS
+<TEXT>
+
+
+                                                                      EXHIBIT 11
+
+                    COMPUTATION OF FULLY DILUTED EARNINGS PER
+                   SHARE UNDER TREASURY STOCK METHOD SET FORTH
+                  IN ACCOUNTING PRINCIPLES BOARD OPINION NO. 15
+
+                                                    For Quarter Ended
+                                          --------------------------------------
+                                          September 30, 1997  September 30, 1996
+                                          ------------------  ------------------
+
+Number of shares on which earnings
+ per share is based:
+ Average outstanding during period             978,021,313      1,043,663,626*
+
+Add - Incremental shares under stock
+option and stock purchase plans                 27,186,769         22,827,416*
+                                            --------------     --------------
+
+Number of shares on which fully diluted
+earnings per share is based                  1,005,208,082      1,066,491,042*
+                                            ==============     ==============
+
+Net earnings available to common
+shareholders (millions)                     $        1,354     $        1,280
+
+                                            --------------     --------------
+Net earnings on which fully
+diluted earnings per share
+is based (millions)                         $        1,354     $        1,280
+                                            ==============     ==============
+
+Fully diluted earnings per share            $         1.35     $         1.20*
+
+Published earnings per share                $         1.38     $         1.23*
+
+* Adjusted to reflect a two-for-one-stock split on May 9, 1997.
+
+<PAGE>
+
+                                                                      EXHIBIT 11
+
+                    COMPUTATION OF FULLY DILUTED EARNINGS PER
+                   SHARE UNDER TREASURY STOCK METHOD SET FORTH
+           IN ACCOUNTING PRINCIPLES BOARD OPINION NO. 15 - (CONTINUED)
+
+                                                 For Nine Months Ended
+                                        -------------------------------------
+                                        September 30, 1997  September 30, 1996
+                                        ------------------  ------------------
+Number of shares on which earnings 
+ per share is based:
+ Average outstanding during period          989,436,333         1,066,676,820*
+                                                              
+Add - Incremental shares under stock                          
+option and stock purchase plans              29,727,625            22,926,678*
+                                         --------------        --------------
+                                                              
+Number of shares on which fully                               
+diluted earnings per share is based       1,019,163,958         1,089,603,498*
+                                         ==============        ==============
+                                                              
+Net earnings available to common                              
+shareholders (millions)                  $        3,985        $        3,391
+                                                              
+                                         --------------        --------------
+                                                              
+Net earnings on which fully                                   
+diluted earnings per share                                    
+is based (millions)                      $        3,985        $        3,391
+                                         ==============        ==============
+                                                              
+Fully diluted earnings per share         $         3.91        $         3.11*
+                                                              
+Published earnings per share             $         4.03        $         3.18*
+                                                           
+* Adjusted to reflect a two-for-one stock split on May 9, 1997.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>4
+<DESCRIPTION>STATEMENT RE: COMPUTATION OF RATIOS
+<TEXT>
+
+
+                                                                      EXHIBIT 12
+
+              COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES AND
+        EARNINGS TO COMBINED FIXED CHARGES AND PREFERRED STOCK DIVIDENDS
+                       FOR NINE MONTHS ENDED SEPTEMBER 30:
+                                   (UNAUDITED)
+
+(Dollars in millions)
+
+                                                          1997          1996
+                                                         ------       ------
+
+Earnings before income taxes(1)                          $6,035       $5,706
+
+Add:
+  Fixed charges, excluding capitalized interest           1,449        1,450
+                                                         ------       ------
+Earnings as adjusted                                     $7,484       $7,156
+                                                         ======       ======
+Fixed charges:
+  Interest expense                                        1,157        1,153
+  Capitalized interest                                       26           24
+  Portion of rental expense representative of
+    interest                                                292          297
+                                                         ------       ------
+Total fixed charges                                      $1,475       $1,474
+                                                         ======       ======
+Preferred stock dividends(2)                                 22           25
+                                                         ------       ------
+Combined fixed charges and preferred stock
+  dividends                                              $1,497       $1,499
+                                                         ======       ======
+Ratio of earnings to fixed charges                         5.07         4.85
+Ratio of earnings to combined fixed charges and
+  preferred stock dividends                                5.00         4.78
+
+(1)   Earnings before income taxes excludes the company's share in the income
+      and losses of less-than-fifty percent-owned affiliates.
+
+(2)   Included in the ratio computation are preferred stock dividends of $15
+      million for the first nine months of 1997 and 1996, or $22 million and $25
+      million, respectively, representing the pre-tax earnings which would be
+      required to cover such dividend requirements based on the company's
+      effective tax rate for the nine months ended September 30, 1997 and 1996.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM IBM
+CORPORATION'S FINANCIAL STATEMENTS FOR THE SIX MONTHS ENDED JUNE 30, 1997 AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER>                    1,000,000    
+                                             
+<S>                                     <C>  
+<PERIOD-TYPE>                           9-MOS
+<FISCAL-YEAR-END>                            DEC-31-1997
+<PERIOD-START>                               SEP-30-1997
+<PERIOD-END>                                 SEP-30-1997
+<CASH>                                             5,926
+<SECURITIES>                                         560
+<RECEIVABLES>                                     16,078
+<ALLOWANCES>                                           0
+<INVENTORY>                                        5,981
+<CURRENT-ASSETS>                                  38,190
+<PP&E>                                            42,030
+<DEPRECIATION>                                    24,109
+<TOTAL-ASSETS>                                    78,293
+<CURRENT-LIABILITIES>                             30,590
+<BONDS>                                                0
+<PREFERRED-MANDATORY>                              8,758
+<PREFERRED>                                            0
+<COMMON>                                             253
+<OTHER-SE>                                        10,745
+<TOTAL-LIABILITY-AND-EQUITY>                      78,293
+<SALES>                                           24,722
+<TOTAL-REVENUES>                                  54,785
+<CGS>                                             16,326
+<TOTAL-COSTS>                                     33,694
+<OTHER-EXPENSES>                                  15,026
+<LOSS-PROVISION>                                       0
+<INTEREST-EXPENSE>                                   534
+<INCOME-PRETAX>                                    6,015
+<INCOME-TAX>                                       2,015
+<INCOME-CONTINUING>                                4,000
+<DISCONTINUED>                                         0
+<EXTRAORDINARY>                                        0
+<CHANGES>                                              0
+<NET-INCOME>                                       4,000
+<EPS-PRIMARY>                                       4.03
+<EPS-DILUTED>                                       3.91
+                                                        
+                                               
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

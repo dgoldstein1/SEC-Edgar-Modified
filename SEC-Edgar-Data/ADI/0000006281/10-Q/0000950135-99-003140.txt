@@ -1,0 +1,1292 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BvJeZRNhqmS2liX61Puf1uUnRd+kxmliYQZNnlpBsfo8qkuIX1Y7d5b54UHhE+FO
+ V/5bNwX2hgJQ1629k/b54A==
+
+<SEC-DOCUMENT>0000950135-99-003140.txt : 19990615
+<SEC-HEADER>0000950135-99-003140.hdr.sgml : 19990615
+ACCESSION NUMBER:		0000950135-99-003140
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990501
+FILED AS OF DATE:		19990611
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANALOG DEVICES INC
+		CENTRAL INDEX KEY:			0000006281
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				042348234
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-07819
+		FILM NUMBER:		99644816
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE TECHNOLOGY WAY
+		CITY:			NORWOOD
+		STATE:			MA
+		ZIP:			02062
+		BUSINESS PHONE:		6173294700
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>ANALOG DEVICES, INC.
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    Form 10-Q
+(Mark One)
+  [X]    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                     SECURITIES EXCHANGE ACT OF 1934
+
+                   For the quarterly period ended May 1, 1999
+
+                                       OR
+
+  [ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                     SECURITIES EXCHANGE ACT OF 1934
+
+       For the Transition period from_______________ to ________________
+
+                           Commission File No. 1-7819
+
+                              Analog Devices, Inc.
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<CAPTION>
+<S>                                                       <C>
+
+           Massachusetts                                      04-2348234
+  (State or other jurisdiction of                          (I.R.S. Employer
+   incorporation or organization)                         Identification No.)
+
+    One Technology Way, Norwood, MA                            02062-9106
+(Address of principal executive offices)                       (Zip Code)
+</TABLE>
+
+
+                                 (781) 329-4700
+              (Registrant's telephone number, including area code)
+
+                             ----------------------
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. YES  X   NO
+                                       ---     ---
+
+    The number of shares outstanding of each of the issuer's classes of Common
+Stock as of May 28, 1999 was 172,800,842 shares of Common Stock.
+
+
+<PAGE>   2
+
+                                     PART I
+                              FINANCIAL INFORMATION
+
+
+ITEM 1.     FINANCIAL STATEMENTS
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+(thousands except per share amounts)
+
+<TABLE>
+<CAPTION>
+
+                                                        Three Months Ended
+                                                  ------------------------------
+                                                  May 1, 1999       May 2, 1998*
+                                                  -----------       ------------
+<S>                                                 <C>               <C>
+Net sales                                           $340,067          $319,430
+
+Cost of sales                                        176,435           160,993
+                                                    --------          --------
+
+Gross margin                                         163,632           158,437
+
+Operating expenses:
+   Research and development                           61,899            56,190
+   In-process research and development write-off       5,140                --
+   Selling, marketing, general and
+    administrative                                    49,167            57,014
+   Gain on sale of business, net                          --           (13,100)
+                                                    --------          --------
+                                                     116,206           100,104
+
+Operating income                                      47,426            58,333
+
+Equity in loss of WaferTech                               --             1,915
+
+Interest and other expense, net                       (3,278)             (219)
+                                                    --------          --------
+
+Income before income taxes                            50,704            56,637
+
+Provision for income taxes                            11,598            12,852
+                                                    --------          --------
+
+Net income                                          $ 39,106          $ 43,785
+                                                    ========          ========
+
+Shares used to compute earnings per share - basic    167,012           162,124
+                                                    ========          ========
+Shares used to compute earnings per share - diluted  180,698           179,427
+                                                    ========          ========
+
+Earnings per share - basic                             $0.23             $0.27
+                                                    ========          ========
+Earnings per share - diluted                           $0.22             $0.25
+                                                    ========          ========
+</TABLE>
+
+*Restated to reflect change in accounting principle.
+
+See accompanying notes.
+
+                                       2
+<PAGE>   3
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+(thousands except per share amounts)
+
+<TABLE>
+<CAPTION>
+
+
+                                                        Six Months Ended
+                                                  ------------------------------
+                                                  May 1, 1999       May 2, 1998*
+                                                  -----------       ------------
+
+<S>                                                 <C>               <C>
+Net sales                                           $640,567          $637,221
+
+Cost of sales                                        339,240           315,325
+                                                    --------          --------
+
+Gross margin                                         301,327           321,896
+
+Operating expenses:
+   Research and development                          114,483           111,165
+   In-process research and development write-off       5,140                --
+   Selling, marketing, general and
+    administrative                                    95,348           112,660
+   Gain on sale of business, net                          --           (13,100)
+                                                    --------          --------
+                                                     214,971           210,725
+
+Operating income                                      86,356           111,171
+
+Equity in loss of WaferTech                            1,149             3,505
+
+Interest and other expense, net                       (2,858)             (986)
+                                                    --------          --------
+
+Income before income taxes                            88,065           108,652
+
+Provision for income taxes                            19,065            24,608
+                                                    --------          --------
+
+Net income before cumulative effect of change in
+   accounting principle                               69,000            84,044
+
+Cumulative effect of change in accounting
+   principle, net of $20 million of income taxes          --           (37,080)
+                                                    --------          --------
+
+Net income after cumulative effect of change in
+   accounting principle                             $ 69,000          $ 46,964
+                                                    ========          ========
+</TABLE>
+
+                                       3
+
+<PAGE>   4
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME (Continued)
+(Unaudited)
+(thousands except per share amounts)
+
+<TABLE>
+<CAPTION>
+                                                         Six Months Ended
+                                                   -----------------------------
+                                                   May 1, 1999      May 2, 1998*
+                                                   -----------      ------------
+<S>                                                   <C>             <C>
+Shares used to compute earnings per share - basic     163,292          161,574
+                                                     ========         ========
+Shares used to compute earnings per share - diluted   178,778          178,787
+                                                     ========         ========
+
+Earnings per share before cumulative effect of
+   change in accounting principle
+
+Earnings per share - basic                              $0.42            $0.53
+                                                     ========         ========
+Earnings per share - diluted                            $0.40            $0.49
+                                                     ========         ========
+
+Earnings per share after cumulative effect of
+   change in accounting principle
+
+Earnings per share - basic                              $0.42            $0.30
+                                                     ========         ========
+Earnings per share - diluted                            $0.40            $0.28
+                                                     ========         ========
+</TABLE>
+
+
+*Restated to reflect change in accounting principle.
+
+See accompanying notes.
+
+                                       4
+
+
+<PAGE>   5
+
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(thousands)
+
+<TABLE>
+<CAPTION>
+
+Assets                               May 1, 1999    October 31, 1998   May 2, 1998*
+                                     -----------    ----------------   -----------
+
+<S>                                   <C>             <C>              <C>
+Cash and cash equivalents             $  401,307      $  263,331       $  286,105
+Short-term investments                   117,788          41,575           33,819
+Accounts receivable, net                 225,127         207,361          255,872
+Inventories:
+   Raw materials                          22,221          25,624           27,558
+   Work in process                       147,184         142,139          141,867
+   Finished goods                         89,969         107,313           97,554
+                                      ----------      ----------       ----------
+                                         259,374         275,076          266,979
+Deferred tax assets                       95,000          98,148           88,139
+Prepaid expenses                          13,654          18,038           18,473
+                                      ----------      ----------       ----------
+   Total current assets                1,112,250         903,529          949,387
+                                      ----------      ----------       ----------
+
+Property, plant and equipment, at cost:
+   Land and buildings                    161,109         158,792          158,598
+   Machinery and equipment             1,050,673       1,034,619        1,022,398
+   Office equipment                       73,766          70,576           63,091
+   Leasehold improvements                104,749         103,482           95,939
+                                      ----------      ----------       ----------
+                                       1,390,297       1,367,469        1,340,026
+Less accumulated depreciation
+    and amortization                     729,696         664,038          619,059
+                                      ----------      ----------       ----------
+   Net property, plant and
+    equipment                            660,601         703,431          720,967
+                                      ----------      ----------       ----------
+
+Investments                               88,376         187,224          191,623
+Intangible assets, net                    30,731          15,815           17,227
+Other assets                              46,900          51,731           57,875
+                                      ----------      ----------       ----------
+   Total other assets                    166,007         254,770          266,725
+                                      ----------      ----------       ----------
+                                      $1,938,858      $1,861,730       $1,937,079
+                                      ==========      ==========       ==========
+</TABLE>
+
+
+*Restated to reflect change in accounting principle.
+
+See accompanying notes.
+
+                                       5
+
+<PAGE>   6
+
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(thousands except share amounts)
+
+<TABLE>
+<CAPTION>
+Liabilities and Stockholders'
+  Equity
+                                      May 1, 1999    October 31, 1998    May 2, 1998*
+                                      -----------    ----------------    -----------
+
+<S>                                   <C>             <C>               <C>
+Short-term borrowings and current
+  portion of long-term debt           $      101       $      193       $      332
+Obligations under capital leases          14,496           14,266           11,954
+Accounts payable                          68,797           59,115           95,811
+Deferred income on shipments
+   to distributors                        96,749          113,784          131,078
+Income taxes payable                      52,783           53,595           64,335
+Accrued liabilities                       79,022           79,906           84,268
+                                      ----------       ----------       ----------
+      Total current liabilities          311,948          320,859          387,778
+                                      ----------       ----------       ----------
+
+Long-term debt                            80,000          309,985          309,989
+Non-current obligations under
+  capital leases                          23,510           30,773           32,863
+Deferred income taxes                     34,000           31,789           24,000
+Other non-current liabilities             47,100           39,935           36,716
+                                      ----------       ----------       ----------
+      Total non-current liabilities      184,610          412,482          403,568
+                                      ----------       ----------       ----------
+
+Commitments and Contingencies
+
+Stockholders' equity:
+   Preferred stock, $1.00 par value,
+    500,000 shares authorized,
+    none outstanding                          --               --               --
+   Common stock, $.16 2/3 par value,
+    600,000,000 shares authorized,
+    176,297,695 shares issued
+    (164,092,719 in October 1998,
+    163,578,201 in May 1998)              29,384           27,349           27,264
+   Capital in excess of par value        489,907          248,970          233,297
+   Retained earnings                     983,371          913,992          878,548
+   Cumulative translation adjustment       7,443            6,025            7,195
+                                      ----------       ----------        ---------
+                                       1,510,105        1,196,336        1,146,304
+   Less 3,765,989 shares in treasury,
+    at cost (3,782,763 in October 1998
+    and 24,682 in May 1998)               67,805           67,947              571
+                                      ----------       ----------       ----------
+       Total stockholders' equity      1,442,300        1,128,389        1,145,733
+                                      ----------       ----------       ----------
+                                      $1,938,858       $1,861,730       $1,937,079
+                                      ==========       ==========       ==========
+</TABLE>
+
+*Restated to reflect change in accounting principle.
+
+See accompanying notes.
+
+                                       6
+
+
+<PAGE>   7
+
+
+ANALOG DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+(thousands)
+
+<TABLE>
+<CAPTION>
+                                                          Six Months Ended
+                                                    ------------------------------
+                                                    May 1, 1999       May 2, 1998*
+                                                    -----------       ------------
+<S>                                                   <C>               <C>
+OPERATIONS
+Cash flows from operations:
+  Net income                                          $ 69,000          $ 46,964
+  Adjustments to reconcile net income
+   to net cash provided by operations:
+     Cumulative effect of change in accounting
+      principle, net of $20 million of income taxes         --            37,080
+     Depreciation and amortization                      70,891            61,002
+     Write-off of acquired in-process R&D                5,140                --
+     Equity in loss of WaferTech, net of dividends       1,149             4,632
+     Deferred income taxes                               2,236             3,253
+     Other non-cash expense                              2,318               838
+     Changes in operating assets and liabilities        (8,063)            5,361
+                                                     ---------         ---------
+  Total adjustments                                     73,671           112,166
+                                                     ---------         ---------
+Net cash provided by operations                        142,671           159,130
+                                                     ---------         ---------
+
+INVESTMENTS
+Cash flows from investments:
+   Purchase of short-term investments
+     available for sale                               (162,038)          (77,183)
+   Change in long-term investments                     108,354           (58,860)
+   Maturities of short-term investments
+     available for sale                                 85,825            94,370
+   Additions to property, plant and equipment, net     (26,009)         (119,292)
+   Payments for acquisitions, net of cash acquired     (20,019)               --
+   Decrease (increase) in other assets                   5,902            (6,152)
+                                                     ---------         ---------
+Net cash used for investments                           (7,985)         (167,117)
+                                                     ---------         ---------
+
+FINANCING ACTIVITIES
+Cash flows from financing activities:
+   Proceeds from employee stock plans                   10,540             8,775
+   Payments on capital lease obligations                (7,033)           (5,768)
+   Net (decrease) increase in variable
+     rate borrowings                                      (119)              315
+                                                     ---------         ---------
+Net cash provided by financing activities                3,388             3,322
+                                                     ---------         ---------
+Effect of exchange rate changes on cash                    (98)            1,169
+                                                     ---------         ---------
+
+Net increase (decrease) in cash and cash equivalents   137,976            (3,496)
+Cash and cash equivalents at beginning of period       263,331           289,601
+                                                     ---------         ---------
+Cash and cash equivalents at end of period           $ 401,307         $ 286,105
+                                                     =========         =========
+
+SUPPLEMENTAL INFORMATION
+Non-cash disclosure:
+   Conversion of 3 1/2% Subordinated Notes
+     to common stock                                 $ 229,952         $      15
+                                                     =========         =========
+</TABLE>
+
+* Restated to reflect change in accounting principle.
+
+See accompanying notes.
+
+                                       7
+<PAGE>   8
+
+
+Analog Devices, Inc.
+Notes to Condensed Consolidated Financial Statements
+May 1, 1999
+
+
+Note 1 - In the opinion of management, the information furnished in the
+accompanying financial statements reflects all adjustments which are necessary
+to fairly state the results for this interim period and should be read in
+conjunction with the Company's Annual Report to Stockholders on Form 10-K for
+the fiscal year ended October 31, 1998, (1998 Annual Report).
+
+Note 2 - Certain amounts reported in the previous year have been reclassified to
+conform to the 1999 presentation.
+
+Note 3 - Investments
+
+During the first quarter of fiscal 1999 Analog Devices Inc., (the Company),
+completed the sale of approximately 78% of its equity ownership in WaferTech,
+LLC, its joint venture with Taiwan Semiconductor Manufacturing Company and other
+investors. As a result of this sale, the Company's equity ownership in WaferTech
+was reduced from 18% to 4%. The Company sold 14% of its investment to other
+WaferTech partners and received $105 million in cash, which was equal to the
+carrying value of the 14% equity ownership at October 31, 1998.
+
+Note 4 - Comprehensive Income
+
+In the first quarter of fiscal 1999 the Company adopted Statement of Financial
+Accounting Standards No. 130, "Reporting Comprehensive Income", (FAS 130). FAS
+130 establishes new rules for the reporting and display of comprehensive income
+and its components. Components of comprehensive income include net income and
+certain transactions that have generally been reported in the consolidated
+statement of shareholders' equity. FAS 130 requires that these transactions be
+included with net income and presented separately as comprehensive income in the
+financial statements. The adoption of this Statement had no impact on the
+Company's net income or shareholders' equity and, during the periods presented,
+the Company had no material transactions other than net income that should be
+reported as comprehensive income.
+
+Note 5 - Earnings Per Share
+
+Basic earnings per share is computed based only on the weighted average number
+of common shares outstanding during the period. Diluted earnings per share is
+computed using the weighted average number of common shares outstanding during
+the period, plus the dilutive effect of future issues of common stock relating
+to stock option programs and convertible debt financing. In calculating diluted
+earnings per share, the dilutive effect of stock options is computed using the
+average market price for the period. The following table sets forth the
+computation of basic and diluted earnings per share:
+
+                                       8
+<PAGE>   9
+
+
+Note 5 - Earnings Per Share (continued)
+
+<TABLE>
+<CAPTION>
+
+                                                           Three Months Ended
+                                                     -------------------------------
+                                                     May 1, 1999        May 2, 1998*
+                                                     -----------        ------------
+<S>                                                     <C>                <C>
+Basic:
+
+  Net income                                            $ 39,106           $ 43,785
+                                                        ========           ========
+
+  Weighted shares outstanding                            167,012            162,124
+                                                        ========           ========
+
+  Earnings per share                                       $0.23              $0.27
+                                                        ========           ========
+
+Diluted:
+  Net income                                            $ 39,106           $ 43,785
+  Interest related to convertible subordinated
+    notes, net of tax                                        481              1,453
+                                                        --------           --------
+
+  Earnings available for common stock                   $ 39,587           $ 45,238
+                                                        ========           ========
+
+  Weighted shares outstanding                            167,012            162,124
+  Assumed exercise of common stock equivalents             9,464              6,319
+  Assumed conversion of subordinated notes                 4,222             10,984
+                                                        --------           --------
+  Weighted average common and common equivalent
+    shares                                               180,698            179,427
+                                                        ========           ========
+  Earnings per share                                       $0.22              $0.25
+                                                        ========           ========
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+                                                             Six Months Ended
+                                                     -------------------------------
+                                                     May 1, 1999        May 2, 1998*
+                                                     -----------        ------------
+<S>                                                     <C>                <C>
+Basic:
+  Income before cumulative effect of change in
+    accounting principle                                $ 69,000           $ 84,044
+  Cumulative effect of change in accounting principle          -            (37,080)
+                                                        --------           --------
+  Net income                                            $ 69,000           $ 46,964
+                                                        ========           ========
+
+  Weighted shares outstanding                            163,292            161,574
+                                                        ========           ========
+
+  Earnings per share:
+  Income before cumulative effect of change in
+    accounting principle                                   $0.42              $0.53
+  Cumulative effect of change in accounting principle          -              (0.23)
+                                                        --------           --------
+  Net income                                               $0.42              $0.30
+                                                        ========           ========
+</TABLE>
+
+                                       9
+<PAGE>   10
+
+
+Note 5 - Earnings Per Share (continued)
+
+<TABLE>
+<CAPTION>
+
+                                                             Six Months Ended
+                                                     -------------------------------
+                                                     May 1, 1999        May 2, 1998*
+                                                     -----------        ------------
+<S>                                                    <C>                 <C>
+Diluted:
+  Income before cumulative effect of change in
+    accounting principle                                $ 69,000           $ 84,044
+  Interest related to convertible subordinated
+    notes, net of tax                                      1,906              2,864
+                                                        --------           --------
+  Income before cumulative effect of change in
+    accounting principle including the effect
+    of dilutive securities                                70,906             86,908
+  Cumulative effect of change in accounting principle         --            (37,080)
+                                                        --------           --------
+  Net income                                            $ 70,906           $ 49,828
+                                                        ========           ========
+
+  Weighted shares outstanding                            163,292            161,574
+  Assumed exercise of common stock equivalents            11,264              6,229
+  Assumed conversion of subordinated notes                 4,222             10,984
+                                                        --------           --------
+  Weighted average common and common equivalent shares   178,778            178,787
+                                                        ========           ========
+
+  Earnings per share:
+  Income before cumulative effect of change in
+    accounting principle                                   $0.40              $0.49
+  Cumulative effect of change in accounting principle         --              (0.21)
+                                                        --------           --------
+  Net income                                               $0.40              $0.28
+                                                        ========           =========
+</TABLE>
+
+
+* Restated to reflect change in accounting principle.
+
+Note 6 - Convertible Debt
+
+As of March 11, 1999 the Company had converted $229,967,000 of the $230 million
+principal amount of its 3 1/2% Convertible Subordinated Notes (Notes) due 2000
+into an aggregate of 10,983,163 shares of the Company's common stock, and the
+remaining Notes were redeemed by a cash payment of $33,000. This conversion did
+not have an impact on diluted earnings per share.
+
+Note 7 - Acquisitions
+
+During the second quarter of fiscal 1999, the Company acquired two DSP tools
+companies, White Mountain DSP, Inc. of Nashua, New Hampshire and Edinburgh
+Portable Compilers Limited, of Edinburgh, Scotland. The total cost of these
+acquisitions was approximately $21 million in cash and $2 million in common
+stock of the Company, with additional contingent cash consideration to be paid
+if the acquired companies achieve certain revenue and operational objectives.
+These acquisitions were accounted for as purchases, and the excess of the
+purchase price over the fair value of assets acquired was allocated to existing
+technology, workforce in place, tradenames and goodwill, which are being
+amortized over periods ranging from six to ten years. In connection with these
+acquisitions, the Company recorded a charge of $5.1 million for the write-off of
+in-process research & development.
+
+                                       10
+<PAGE>   11
+
+
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+This information should be read in conjunction with the unaudited consolidated
+condensed financial statements and the notes thereto included in Item 1 of this
+Quarterly Report and the audited consolidated financial statements and notes
+thereto and Management's Analysis for the fiscal year ended October 31, 1998,
+contained in the Company's 1998 Annual Report.
+
+The following discussion and analysis may contain forward-looking statements.
+Such statements are subject to certain risks and uncertainties, including those
+discussed below or in the Company's 1998 Annual Report, that could cause actual
+results to differ materially from the Company's expectations. Readers are
+cautioned not to place undue reliance on any forward-looking statements, as they
+reflect management's analysis only as of the date hereof. The Company undertakes
+no obligation to release the results of any revision to these forward-looking
+statements which may be made to reflect events or circumstances after the date
+hereof or to reflect the occurrence of unanticipated events.
+
+Results of Operations
+
+Net sales for the second quarter of fiscal 1999 were $340 million, an increase
+of 6% from the $319 million reported for the second quarter of fiscal 1998. Net
+sales for the first two quarters of fiscal 1999 were $641 million, an increase
+of 1% from the $637 million reported for the comparable period of fiscal 1998.
+For the quarter and the six months ended May 1, 1999 the growth was primarily
+attributable to increased OEM sales in the communications, computer and contract
+manufacturing markets, which in the second quarter of fiscal 1999 increased over
+50% from the second quarter of fiscal 1998. This increase was partially offset
+by a decline of more than 60% in automatic test equipment (ATE) revenue compared
+to the quarter ended May 2, 1998. Sales in the distributor channel remained
+relatively flat for the quarter and the six months ended May 1, 1999 compared to
+the corresponding periods of 1998, with a slight decline in North America being
+offset by an increase in Southeast Asia (SEA), as more contract manufacturing
+moved to SEA.
+
+The decline in ATE sales primarily impacted the North American OEM channel,
+causing sales to North American customers to decrease to 47% of total sales for
+the second quarter of fiscal 1999, compared to 51% of total sales for the
+comparable period of fiscal 1998. Sales in Europe declined by 6% and sales in
+Japan rose 20% compared to the second quarter of fiscal 1998. Increased
+Southeast Asian sales for the quarter and six month period ended May 1, 1999
+resulted primarily from increased sales of analog IC and communications
+products.
+
+The gross margin for the second quarter of fiscal 1999 was 48.1%, compared to
+49.6% for the second quarter of fiscal 1998. The gross margin was 47.0% for the
+first two quarters of fiscal 1999 compared to 50.5% for the first two quarters
+of fiscal 1998. The decline in gross margin was primarily attributable to the
+Company's lower production rates during the first half of fiscal 1999 compared
+to the prior year.
+
+Research and development (R&D) expenses were $62 million and $114 million for
+the three months and six months ended May 1, 1999, compared to $56 million and
+$111 million for the corresponding periods of fiscal 1998. R&D spending
+increased during the second quarter of fiscal 1999 primarily due to the
+acquisition of two DSP tools companies during February 1999 and increased
+technology license fees. The Company believes that a continued commitment to
+research and development is essential in order to maintain product leadership
+with its existing products and to provide innovative new product offerings, and
+therefore expects to continue to make significant R&D investments in the future.
+
+
+                                       11
+<PAGE>   12
+
+
+
+During the second quarter of fiscal 1999 the Company incurred a charge of
+$5,140,000 for the write-off of in-process R&D in connection with the
+acquisition of two DSP tools companies, White Mountain DSP, Inc. of Nashua, New
+Hampshire and Edinburgh Portable Compilers Limited, of Edinburgh, Scotland. The
+total cost of these acquisitions was approximately $21 million in cash and $2
+million in common stock of the Company, with additional contingent cash
+consideration to be paid if the acquired companies achieve certain revenue and
+operational objectives.
+
+Selling, marketing, general & administrative (SMG&A) expenses for the second
+quarter of fiscal 1999 were $49 million, a decrease of $8 million from the $57
+million reported for second quarter of fiscal 1998. SMG&A expenses for the six
+months ended May 1, 1999 were $95 million, compared to $113 million for the six
+months ended May 2, 1998. In the first half of fiscal 1998 the Company incurred
+a charge of $8 million related to collection difficulties the Company
+experienced with customers whose business and financing had been adversely
+affected by the Southeast Asia economic situation, as well as a charge of $6
+million related to the realignment of the Company's sales and distribution
+organizations. The remaining decrease was attributable to the Company's
+continued effort to constrain spending.
+
+The effective income tax rate decreased to 21% for the second quarter and the
+first six-month period of fiscal 1999 from 23% for the second quarter and first
+six-month period of fiscal 1998 due to a shift in the mix of worldwide profits.
+
+In the fourth quarter of fiscal 1998, the Company changed its accounting method
+for recognizing revenue on all shipments to international distributors and
+certain shipments to domestic distributors. The change was made with an
+effective date of November 2, 1997 (the beginning of fiscal 1998). While the
+Company has historically deferred revenue on most shipments made to domestic
+distributors until the products were resold by the distributors to end users, it
+recognized revenue on shipments to international distributors and certain
+shipments to domestic distributors upon shipment to the distributors, net of
+appropriate reserves for returns and allowances. As a result of this accounting
+change, revenue recognition on shipments to distributors worldwide is deferred
+until the products are resold to the end users. The Company believes that
+deferral of revenue on shipments to distributors and related gross margin until
+the product is shipped by the distributors is a more meaningful measurement of
+results of operations because it better conforms to the substance of the
+transaction considering the changing business environment in the international
+marketplace; is consistent with industry practice; and will, accordingly, better
+focus the entire organization on sales to end users and, therefore, is a
+preferable method of accounting. The cumulative effect in prior years of the
+change in accounting principle was a charge of approximately $37 million (net of
+$20 million of income taxes) or $0.21 per diluted share. The results of
+operations and cash flows for the period ended May 2, 1998 have been restated to
+reflect the accounting change.
+
+Liquidity and Capital Resources
+
+At May 1, 1999, cash, cash equivalents and short-term investments totaled $519
+million, an increase of $199 million from the second quarter of fiscal 1998. The
+increase in cash, cash equivalents and short-term investments was primarily due
+to operating cash inflows of $143 million, $105 million received in January 1999
+related to the sale of the Company's investment in WaferTech and lower capital
+spending.
+
+                                       12
+<PAGE>   13
+
+
+
+Accounts receivable totaled $225 million at the end of the second quarter of
+fiscal 1999, a decrease of $31 million from the second quarter of fiscal 1998.
+The Company's days sales outstanding has improved from 73 at May 2, 1998 to 60
+at May 1, 1999.
+
+Inventories of $259 million at May 1, 1999 were $8 million lower than the end of
+the second quarter of fiscal 1998. The decrease in inventory levels was a result
+of adjustments by the Company to its production rates to conform to lower levels
+of demand in the second half of fiscal 1998 and the resumption of sales growth
+in the second quarter of fiscal 1999.
+
+During the first quarter of fiscal 1999 the Company completed the sale of
+approximately 78% of its equity ownership in WaferTech, LLC, its joint venture
+with Taiwan Semiconductor Manufacturing Company (TSMC) and other investors. As a
+result of this sale, the Company's equity ownership in WaferTech was reduced
+from 18% to 4%. The Company sold 14% of its investment to other WaferTech
+partners and received $105 million in cash, which was equal to the carrying
+value of the 14% equity ownership at October 31, 1998.
+
+Net additions to property, plant and equipment of $26 million for the first half
+of fiscal 1999 were funded with a combination of cash on hand and cash generated
+from operations. Capital spending in the first half of fiscal 1999 was down
+substantially from the $119 million spent in the first half of fiscal 1998. The
+decrease in capital expenditures was attributable to the Company's efforts to
+constrain all spending, including capital expenditures, until sales growth
+resumed. The Company currently plans to make capital expenditures of
+approximately $90 million during fiscal 1999.
+
+At May 1, 1999, the Company's principal sources of liquidity were $519 million
+of cash and cash equivalents and short-term investments. In addition, the
+Company has various lines of credit both in the U.S. and overseas, including a
+$60 million credit facility in the U.S., which expires in 2000, all of which
+were substantially unused at May 1, 1999.
+
+As of March 11, 1999 the Company had converted $229,967,000 of the $230 million
+principal amount of its 3 1/2% Convertible Subordinated Notes (Notes) due 2000
+into an aggregate of 10,983,163 shares of the Company's common stock, and the
+remaining Notes were redeemed by a cash payment of $33,000. As a result of this
+conversion, the Company's debt-to-equity ratio was reduced to 8% as compared to
+30% in the previous quarter.
+
+The Company believes that its existing sources of liquidity and cash expected to
+be generated from future operations, together with current and anticipated
+available long-term financing, will be sufficient to fund operations, capital
+expenditures and research and development efforts for the foreseeable future.
+
+Factors Which May Affect Future Results
+
+The Company's future operating results are difficult to predict and may be
+affected by a number of factors including the timing of new product
+announcements or introductions by the Company and its competitors, competitive
+pricing pressures, fluctuations in manufacturing yields, adequate availability
+of wafers and manufacturing capacity, changes in product mix and economic
+conditions in the United States and international markets, and the advent and
+impact of the Year 2000. In addition, the semiconductor market has historically
+been cyclical and subject to significant economic downturns at various times.
+The Company's business is subject to rapid technological changes and there can
+be no assurance, depending on the mix of future business, that products stocked
+in inventory will not be rendered obsolete before they are shipped by the
+Company. As a result of these and other factors, there can be no assurance that
+the Company will not experience material fluctuations in future operating
+results on a quarterly or annual basis.
+
+The Company's success depends in part on its continued ability to develop and
+market new products. There can be no assurance that the Company will be able to
+develop and introduce new products in a timely manner or that such products, if
+developed, will achieve market acceptance. In addition, the Company's growth is
+dependent on its
+
+                                       13
+
+<PAGE>   14
+
+continued ability to penetrate new markets such as the communications, computer
+and automotive segments of the electronics market, where the Company has limited
+experience and competition is intense. There can be no assurance that the
+markets being served by the Company will grow in the future; that the Company's
+existing and new products will meet the requirements of such markets; that the
+Company's products will achieve customer acceptance in such markets; that
+competitors will not force prices to an unacceptably low level or take market
+share from the Company; or that the Company can achieve or maintain profits in
+these markets. Also, some of the customers in these markets are less well
+established which could subject the Company to increased credit risk.
+
+The semiconductor industry is intensely competitive. Certain of the Company's
+competitors have greater technical, marketing, manufacturing and financial
+resources than the Company. The Company's competitors also include emerging
+companies attempting to sell products to specialized markets such as those
+served by the Company. Competitors of the Company have, in some cases, developed
+and marketed products having similar design and functionality as the Company's
+products. There can be no assurance that the Company will be able to compete
+successfully in the future against existing or new competitors or that the
+Company's operating results will not be adversely affected by increased price
+competition.
+
+The Company has substantially increased its manufacturing capacity through both
+expansion of its production facilities and increased access to third-party
+foundries. However, the Company cannot be sure that it will not encounter
+unanticipated production problems at either its own facilities or at third-party
+foundries, or that the increased capacity will be sufficient to satisfy demand
+for its products. The Company relies, and plans to continue to rely, on assembly
+and test subcontractors and on third-party wafer fabricators to supply most of
+its wafers that can be manufactured using industry-standard digital processes.
+Such reliance involves several risks, including reduced control over delivery
+schedules, manufacturing yields and costs. In addition, the Company's capacity
+additions resulted in a significant increase in operating expenses. If revenue
+levels do not increase to offset these additional expense levels, the Company's
+future operating results could be adversely affected. In addition, asset values
+could be impaired if the additional capacity is underutilized for an extended
+period of time. Also, non-compliance with "take or pay" covenants in certain of
+its supply agreements, could adversely impact operating results. The Company
+believes that other semiconductor manufacturers have expanded their production
+capacity over the past several years, and there can be no assurance that the
+expansion by the Company and its competitors will not lead to overcapacity in
+the Company's target markets, which could lead to price erosion that would
+adversely affect the Company's operating results.
+
+For the first six months of fiscal 1999, 53% of the Company's revenues was
+derived from customers in international markets. The Company has manufacturing
+facilities outside the U.S. in Ireland, the Philippines and Taiwan. The Company
+also has supply agreements that include "take or pay" covenants with suppliers
+located in Southeast Asia (SEA) and as part of these arrangements, the Company
+has $20 million on deposit as well as a $21 million investment in one of these
+suppliers. In addition, the Company's major partner in its joint venture,
+WaferTech, is TSMC, which is located in SEA. In addition to being exposed to the
+ongoing economic cycles in the semiconductor industry, the Company is also
+subject to the economic and political risks inherent in international
+operations, including the risks associated with the ongoing uncertainties in the
+economies in SEA. These risks include air transportation disruptions,
+expropriation, currency controls and changes in currency exchange rates, tax and
+tariff rates and freight rates. Although the Company engages in certain hedging
+transactions to reduce its exposure to currency exchange rate fluctuations,
+there can be no assurance that the Company's competitive position will not be
+adversely affected by changes in the exchange rate of the U.S. dollar against
+other currencies.
+
+The semiconductor industry is characterized by frequent claims and litigation
+involving patent and other intellectual property rights. The Company has from
+time to time received, and may in the future receive, claims from third parties
+asserting
+
+                                       14
+<PAGE>   15
+
+
+that the Company's products or processes infringe their patents or other
+intellectual property rights. In the event a third party makes a valid
+intellectual property claim and a license is not available on commercially
+reasonable terms, the Company's operating results could be materially and
+adversely affected. Litigation may be necessary to enforce patents or other
+intellectual property rights of the Company or to defend the Company against
+claims of infringement, and such litigation can be costly and divert the
+attention of key personnel. See the Company's 1998 Annual Report for information
+concerning certain pending litigation involving the Company. An adverse outcome
+in such litigation, may, in certain cases, have a material adverse effect on the
+Company's consolidated financial position or on its consolidated results of
+operations or cash flows in the period in which the litigation is resolved.
+
+The Company's software applications have been updated to accommodate the new
+euro currency. System testing was completed during the fourth quarter of
+calendar 1998 and the euro functionality was implemented as planned on January
+1, 1999. No major system-related issues were encountered and none are
+anticipated. The impact, either positive or negative, of the euro on the
+European economy generally and on the Company's operations in Europe in the
+future is unknown at this time.
+
+Because of these and other factors, past financial performance should not be
+considered an indicator of future performance. Investors should not use
+historical trends to anticipate future results and should be aware that the
+trading price of the Company's common stock may be subject to wide fluctuations
+in response to quarter-to-quarter variations in operating results, general
+conditions in the semiconductor industry, changes in earnings estimates and
+recommendations by analysts or other events.
+
+Year 2000
+
+Over the past five years the Company has made significant investments in new
+manufacturing, financial and operating hardware and software. These investments
+were made to support the growth of its operations; however, the by-product of
+this effort is that the Company now has year 2000, (Y2K), compliant hardware and
+software running on many of its major platforms.
+
+The Company has made the year 2000 issue a significant priority and a task force
+is engaged in an ongoing effort to reduce year 2000 related risks in the
+Company's systems and equipment. It is estimated that the aggregate cost of this
+project, which formally commenced at the beginning of fiscal 1998, is
+approximately $10 million in total for fiscal 1998 and fiscal 1999. The task
+force's efforts are concentrated in six separate areas. The status of each area
+as of May 28, 1999 is summarized below.
+
+   Centrally Managed Global Systems
+
+Centrally managed global systems are the enterprise-wide, headquarters managed
+operational systems, which include customer service, customer order entry,
+work-in-progress (WIP) tracking, warehousing, production planning, and financial
+systems. These systems have been split into "mission critical" and "non-mission
+critical." Mission critical is defined as systems that can seriously impair the
+Company's ability to conduct its business. All mission critical applications
+have been tested and certified to be Year 2000 compliant as of April 1, 1999. In
+addition, system integration testing was performed at our Disaster Recovery site
+in March 1999. Non-mission critical is defined as systems which would not cause
+serious impairment to the organization. The task force is continually reviewing
+and re-prioritizing the non-mission critical systems conversion efforts to
+ensure that appropriate items are receiving the proper attention. The Company
+retired its non-compliant mainframe in early 1999.
+
+   Design and Engineering Systems
+
+The Company's Computer Aided Design (CAD) Council is leading a worldwide year
+2000 compliance review of hardware and software related to design and
+engineering systems. The team has completed its analysis and the required
+updates to the CAD operating
+
+                                       15
+<PAGE>   16
+
+
+systems are 85% complete. All operating systems are expected to be fully Y2K
+compliant by early in the fourth quarter of fiscal 1999. Critical CAD
+application software packages have been vendor-certified as Y2K compliant.
+Migration to and testing of these package updates will proceed over the next six
+months. The Company routinely completes full archives of all designs that are
+currently shipping or in development to enable the recovery of any design
+database needed for future derivative products. This archive system is currently
+undergoing compliance testing and will be verified Y2K compliant by the end of
+the third quarter of fiscal 1999. The Company believes that if all design
+engineering systems are not compliant in time, this will result in inconvenience
+and inefficiencies rather than any significant risk to operations.
+
+   Site Based Manufacturing Systems
+
+Manufacturing site managers have identified, tested and analyzed all critical
+manufacturing equipment. The analysis process included ensuring that date
+compliance is necessary. The Company is considering "rolling back" the internal
+date mechanism as a contingency plan for certain equipment and the task force
+has verified the effectiveness of this contingency plan. It is expected that all
+manufacturing sites will complete their Y2K remedial actions by July 1999. Year
+2000 testing is being done to the latest vendor specifications and the Company
+used the suite of test programs provided by Sematech, a semiconductor research
+organization. Thus far, no crucial piece of equipment has been identified as
+having a Y2K compliance problem for which no solution exists. In all instances
+where a Y2K compliance issue has arisen, the Company has been able to develop a
+solution without having to replace the equipment. The Company does not foresee
+any manufacturing equipment-related obstacles which would prevent the
+continuation of operations in year 2000.
+
+   Personal Computers (PCs)
+
+The Company has a PC Standards Committee comprised of participants from various
+Company locations. This committee has developed a hardware and software
+certification plan. This plan calls for year 2000 certification of PC Basic
+Input/Output System (BIOS), software applications and user files. The Company
+certified the BIOS on its 3,500 networked PCs in the first quarter of 1999 and
+less than 2% were found to be non-Y2K compliant. The Company will also issue a
+tool to assist users in analyzing their data files for potential year 2000
+issues. In addition, a year 2000 "patch" has been applied to 90% of the desktops
+for the Microsoft Office Suite (Excel, Word and Access). All other business
+applications have been reviewed and are expected to be upgraded by July 1999.
+The Company does not foresee any material year 2000 issues in this area.
+
+   Facility Related Systems
+
+Systems such as heating, sprinklers, elevators and card-key access are also
+being reviewed by site teams. Each team has a designated facilitator with
+representatives from each department participating. All of the teams have taken
+a thorough inventory of their site's systems and the Company expects to be 100%
+compliant by the third quarter of 1999.
+
+    Third Party
+
+The Corporate year 2000 task force is also reviewing third-party connectivity
+issues. The Company's EDI translator supplier, Harbinger, has been successfully
+tested for Y2K compliance. The EDI carrier, GEIS, has notified the Company that
+it is Y2K compliant as well. Other external service providers, primarily
+financial and human resource services, as well as outside vendors, have also
+been surveyed as to their state of readiness and most are already Y2K compliant.
+The Company identified 112 vital suppliers that could put the Company at risk
+should their service be interrupted. The Company verified their state of
+readiness and as of May 1999 did not identify any high risk suppliers.
+Contingency plans are underway to ensure adequate supplies of critical raw
+materials and spare parts are in stock for December 31, 1999. In addition, the
+Company tested its financial interface with its major financial services
+provider for Y2K compliance and the results were successful.
+
+                                       16
+<PAGE>   17
+
+The Company currently believes that its most likely worst case year 2000
+scenario would relate to problems with systems of third parties which could
+create the greatest risks with infrastructure, including water and sewer
+services, electricity, transportation, telecommunications and critical supplies
+of raw materials and spare parts. The Company is assessing various scenarios and
+contingency planning will continue during 1999 as the Company completes the
+remedial work on its internal systems and assesses the state of readiness of its
+third-party suppliers.
+
+   Summary
+
+The Company believes that the year 2000 issue will not pose significant
+operational problems. However, year 2000 issues could have a significant impact
+on the Company's operations and its financial results if modifications to
+internal systems and equipment cannot be completed on a timely basis, unforeseen
+needs or problems arise, or if the systems operated by third parties are not
+year 2000 compliant.
+
+                                       17
+<PAGE>   18
+
+
+
+                            PART II - OTHER INFORMATION
+                                ANALOG DEVICES, INC.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+At the Annual Meeting of Stockholders held on March 9, 1999, the stockholders of
+the Company elected Messrs. John L. Doyle and Ray Stata to serve as Class III
+Directors for a term of three years by the following votes:
+
+<TABLE>
+<CAPTION>
+
+
+Nominee                    Votes for           Votes Withheld        Broker Non Votes
+- -------                    ---------           --------------        ----------------
+<S>                       <C>                    <C>                        <C>
+John L. Doyle             128,320,814            10,774,594                 -0-
+Ray Stata                 128,347,633            10,747,775                 -0-
+</TABLE>
+
+
+Each of the following directors who were not up for reelection at the Annual
+Meeting of Stockholders will continue to serve as directors: Messrs. Jerald G.
+Fishman, Charles O. Holliday, Jr., Joel Moses, F. Grant Saviers and Lester C.
+Thurow.
+
+The stockholders also approved an amendment to the Company's 1992 Employee Stock
+Purchase Plan to increase the number of shares reserved for issuance thereunder
+from 4,800,000 to 6,800,000, by a vote of 131,466,882 in favor, 7,193,873
+opposed and 434,653 abstaining.
+
+In addition, the stockholders approved an amendment to the Company's 1994
+Director Option Plan to increase the number of shares of common stock underlying
+the initial option grant to newly elected non-employee directors from 10,500 to
+30,000, by a vote of 109,717,069 in favor, 28,760,812 opposed and 617,527
+abstaining.
+
+Stockholders also ratified the selection by the Board of Directors of Ernst &
+Young LLP as the Company's independent auditors for the fiscal year ending
+October 30, 1999, by a vote of 138,735,911 in favor, 143,879 opposed and 215,618
+abstaining.
+
+
+
+Item 6.  Exhibits and reports on Form 8-K
+
+    (a)  See Exhibit Index.
+    (b)  There were no reports on Form 8-K filed for the three months ended May
+         1, 1999.
+
+                                       18
+<PAGE>   19
+
+
+                                     SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+                                        ANALOG DEVICES, INC.
+                                            (Registrant)
+
+
+
+Date:  June 11, 1999                  By:/s/ Jerald G. Fishman
+                                            ------------------------------------
+                                             Jerald G. Fishman
+                                             President and
+                                             Chief Executive Officer
+                                             (Principal Executive Officer)
+
+
+Date:  June 11, 1999                  By:/s/ Joseph E. McDonough
+                                            ------------------------------------
+                                             Joseph E. McDonough
+                                             Vice President-Finance
+                                              and Chief Financial Officer
+                                             (Principal Financial and
+                                             Accounting Officer)
+
+
+
+                                       19
+
+
+
+
+<PAGE>   20
+
+
+                                  EXHIBIT INDEX
+                              Analog Devices, Inc.
+
+Item
+- ----
+ 27      Financial Data Schedule
+
+
+
+
+                                       20
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+<CURRENCY> U.S. DOLLARS
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          OCT-30-1999
+<PERIOD-START>                             JAN-31-1999
+<PERIOD-END>                               MAY-01-1999
+<EXCHANGE-RATE>                                      1
+<CASH>                                         401,307
+<SECURITIES>                                   117,788
+<RECEIVABLES>                                  225,127<F1>
+<ALLOWANCES>                                         0
+<INVENTORY>                                    259,374
+<CURRENT-ASSETS>                             1,112,250
+<PP&E>                                       1,390,297
+<DEPRECIATION>                                 729,696
+<TOTAL-ASSETS>                               1,938,858
+<CURRENT-LIABILITIES>                          311,948
+<BONDS>                                         80,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        29,384
+<OTHER-SE>                                   1,412,916
+<TOTAL-LIABILITY-AND-EQUITY>                 1,938,858
+<SALES>                                        340,067
+<TOTAL-REVENUES>                               340,067
+<CGS>                                          176,435
+<TOTAL-COSTS>                                  176,435
+<OTHER-EXPENSES>                               116,206
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               1,985
+<INCOME-PRETAX>                                 50,704
+<INCOME-TAX>                                    11,598
+<INCOME-CONTINUING>                             39,106
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    39,106
+<EPS-BASIC>                                      .23
+<EPS-DILUTED>                                      .22
+
+<FN>
+<F1>Asset value represents net amount
+</FN>
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

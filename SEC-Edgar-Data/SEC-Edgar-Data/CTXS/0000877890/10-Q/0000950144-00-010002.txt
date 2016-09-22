@@ -1,0 +1,3208 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IMGCGxzOxNVLGfqAC6ZwC8PGoSI5DIHJFpmj613X+AxYvRXmOcL6TtPDo7pGskB1
+ oaqAXiQH6rDAWyAaKrBoZw==
+
+<SEC-DOCUMENT>/in/edgar/work/20000811/0000950144-00-010002/0000950144-00-010002.txt : 20000921
+<SEC-HEADER>0000950144-00-010002.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000950144-00-010002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20000630
+FILED AS OF DATE:		20000811
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CITRIX SYSTEMS INC
+		CENTRAL INDEX KEY:			0000877890
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [7372
+]		IRS NUMBER:				752275152
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-27084
+			FILM NUMBER:		695350
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		6400 NW 6TH WAY
+				CITY:			FORT LAUDERDALE
+				STATE:			FL
+				ZIP:			33309
+				BUSINESS PHONE:		9542673000
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		CITRIX SYSTEMS INC
+					STREET 2:		6400 NW 6TH WAY
+					CITY:			FL LAUDERDALE
+					STATE:			FL
+					ZIP:			33309
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>e10-q.txt
+<DESCRIPTION>CITRIX SYSTEMS, INC. FORM 10-Q DATED 06/30/00
+<TEXT>
+
+<PAGE>   1
+================================================================================
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+      [X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934
+
+                   For the quarterly period ended June 30, 2000
+
+                                      OR
+
+      [  ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+            SECURITIES EXCHANGE ACT OF 1934
+
+
+
+           For the transition period from ___________ to ___________.
+
+                         COMMISSION FILE NUMBER 0-27084
+
+                              CITRIX SYSTEMS, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+           DELAWARE                                       75-2275152
+- -------------------------------               ---------------------------------
+(State or other jurisdiction of               (IRS Employer Identification No.)
+incorporation or organization)
+
+            6400 N. W. 6TH WAY
+         FORT LAUDERDALE, FLORIDA                                       33309
+ ----------------------------------------                           ----------
+ (Address of principal executive offices)                           (Zip Code)
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (954) 267-3000
+
+                                 NOT APPLICABLE
+- --------------------------------------------------------------------------------
+              Former Name, Former Address and Former Fiscal Year if
+                           Changed Since Last Report.
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+      As of August 3, 2000 there were 185,721,213 shares of the registrant's
+Common Stock, $.001 par value per share, outstanding.
+
+
+
+===============================================================================
+
+
+
+
+<PAGE>   2
+
+
+
+                              CITRIX SYSTEMS, INC.
+
+                                    FORM 10-Q
+                       FOR THE QUARTER ENDED JUNE 30, 2000
+
+                                    CONTENTS
+<TABLE>
+<CAPTION>
+
+                                                                               PAGE NUMBER
+                                                                               -----------
+<S>                                                                               <C>
+PART I: FINANCIAL INFORMATION
+
+Item 1.  Condensed Consolidated Financial Statements (Unaudited)
+
+                  Condensed Consolidated Balance Sheets:
+                           June 30, 2000 and December 31, 1999 ...........             3
+                  Condensed Consolidated Statements of Income:
+                           Three Months and Six Months ended June 30, 2000
+                           and 1999 ......................................             5
+                  Condensed Consolidated Statements of Cash Flows:
+                           Six Months Ended June 30, 2000 and 1999 .......             6
+                  Notes to Condensed Consolidated Financial Statements ...             7
+
+Item 2.  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations .......................................            13
+
+Item 3.  Qualitative & Quantitative Disclosure about Market Risk .........            27
+
+PART II:  OTHER INFORMATION
+
+Item 1.  Legal Proceedings ...............................................            28
+
+Item 4.  Submission of Matters to a Vote of Security Holders .............            28
+
+Item 6.  Exhibits and Reports on Form 8-K ................................            29
+
+Signatures ...............................................................            30
+
+Exhibit Index ............................................................            31
+
+Exhibit 3, 4
+
+Exhibit 10.1
+
+Exhibit 10.2
+
+Exhibit 27
+
+</TABLE>
+
+
+
+                                       2
+<PAGE>   3
+
+
+
+
+                          PART I: FINANCIAL INFORMATION
+
+ITEM 1.  CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                              CITRIX SYSTEMS, INC.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+
+                                                                            JUNE 30,       DECEMBER 31,
+                                                                              2000             1999
+                                                                          ---------------------------------
+                                                                                 (IN THOUSANDS)
+<S>                                                                         <C>             <C>
+ASSETS
+Current assets:
+   Cash and cash equivalents .........................................      $  350,960      $  216,116
+   Short-term investments ............................................         276,065         221,978
+   Accounts receivable, net of allowances of $8,181 and $8,242 at
+     June 30, 2000 and December 31, 1999, respectively ...............          57,282          55,327
+   Inventories .......................................................           8,840           7,731
+   Prepaid taxes .....................................................          62,688          30,394
+   Other prepaid expenses ............................................           6,823           4,970
+   Other current assets ..............................................           3,810           7,184
+   Current portion of deferred tax assets ............................          27,787          26,544
+                                                                            ----------      ----------
+Total current assets .................................................         794,255         570,244
+
+Long-term investments ................................................         261,227         325,755
+Property and equipment, net ..........................................          42,595          31,530
+Intangible assets, net ...............................................          75,432          63,396
+Long-term portion of deferred tax assets .............................          30,934          30,197
+Other assets, net ....................................................          16,899          16,735
+                                                                            ----------      ----------
+                                                                            $1,221,342      $1,037,857
+                                                                            ==========      ==========
+
+</TABLE>
+
+
+CONTINUED ON FOLLOWING PAGE.
+
+
+
+                                       3
+<PAGE>   4
+
+
+                              CITRIX SYSTEMS, INC.
+
+                CONDENSED CONSOLIDATED BALANCE SHEETS (CONTINUED)
+                                   (Unaudited)
+<TABLE>
+<CAPTION>
+
+                                                                                   JUNE 30,         DECEMBER 31,
+                                                                                     2000               1999
+                                                                             --------------------------------------
+                                                                                  (IN THOUSANDS, EXCEPT PAR VALUE)
+
+<S>                                                                                  <C>              <C>
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+   Accounts payable and other accrued expenses ................................      $    71,019      $    59,988
+   Current portion of deferred revenues .......................................           76,813           67,805
+   Income taxes payable .......................................................            3,268            9,202
+                                                                                     -----------      -----------
+Total current liabilities .....................................................          151,100          136,995
+
+Long term portion of deferred revenues ........................................           34,099           53,912
+Convertible subordinated debentures ...........................................          322,044          313,880
+
+Stockholders' equity:
+   Preferred stock at $.01 par value--5,000,000 shares authorized, none issued
+        and outstanding at June 30, 2000 and December 31, 1999,
+        respectively ..........................................................               --               --
+   Common stock at $.001 par value: 1,000,000 shares authorized;
+        185,995 and 181,093 issued and outstanding at June 30, 2000 and
+        December 31, 1999, respectively .......................................              186              181
+   Additional paid-in capital .................................................          431,915          309,321
+   Retained earnings ..........................................................          279,623          226,105
+   Accumulated other comprehensive income (loss) ..............................            2,375           (2,537)
+                                                                                     -----------      -----------
+Total stockholders' equity ....................................................          714,099          533,070
+                                                                                     -----------      -----------
+                                                                                     $ 1,221,342      $ 1,037,857
+                                                                                     ===========      ===========
+</TABLE>
+
+SEE ACCOMPANYING NOTES.
+
+
+
+                                       4
+
+
+<PAGE>   5
+
+
+                              CITRIX SYSTEMS, INC.
+
+                   CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+
+                                                             THREE MONTHS ENDED                   SIX MONTHS ENDED
+                                                                  JUNE 30,                            JUNE 30,
+                                                      ------------------------------------------------------------------------
+                                                            2000              1999             2000              1999
+                                                      ------------------------------------------------------------------------
+                                                                     (IN THOUSANDS, EXCEPT PER SHARE INFORMATION)
+<S>                                                      <C>                 <C>               <C>                <C>
+Revenues:
+  Revenues ...................................         $  96,146          $  84,475          $ 213,720          $ 159,641
+  Other revenues .............................             9,940              9,940             19,881             19,813
+                                                       ---------          ---------          ---------          ---------
+   Net revenues ..............................           106,086             94,415            233,601            179,454
+                                                       ---------          ---------          ---------          ---------
+
+Cost of revenues:
+  Cost of revenues (excluding amortization
+    presented separately below) ..............             8,246              2,897             13,212              7,176
+  Cost of other revenues .....................               158                204                320                446
+                                                       ---------          ---------          ---------          ---------
+    Total cost of revenues ...................             8,404              3,101             13,532              7,622
+                                                       ---------          ---------          ---------          ---------
+Gross margin .................................            97,682             91,314            220,069            171,832
+Operating expenses:
+   Research and development ..................            12,300              8,913             24,413             17,121
+   Sales, marketing and support ..............            45,425             29,291             86,614             53,938
+   General and administrative ................            16,213              8,226             28,868             14,957
+   Amortization of intangible assets .........             7,842              3,764             14,661              7,542
+                                                       ---------          ---------          ---------          ---------
+         Total operating expenses ............            81,780             50,194            154,556             93,558
+                                                       ---------          ---------          ---------          ---------
+Income from operations .......................            15,902             41,120             65,513             78,274
+Interest and other income ....................             9,734              6,375             19,330              9,888
+Interest expense .............................            (4,246)            (4,081)            (8,389)            (4,485)
+                                                       ---------          ---------          ---------          ---------
+Income before income taxes ...................            21,390             43,414             76,454             83,677
+Income taxes .................................             6,417             15,629             22,936             30,124
+                                                       ---------          ---------          ---------          ---------
+Net income ...................................         $  14,973          $  27,785          $  53,518          $  53,553
+                                                       =========          =========          =========          =========
+Earnings per common share:
+   Basic earnings per share ..................         $    0.08          $    0.16          $    0.29          $    0.31
+                                                       =========          =========          =========          =========
+   Weighted average shares outstanding .......           185,356            175,083            184,279            174,039
+                                                       =========          =========          =========          =========
+Earnings per common share--assuming dilution:
+   Diluted earnings per share ................         $    0.07          $    0.15          $    0.26          $    0.28
+                                                       =========          =========          =========          =========
+   Weighted average shares outstanding .......           203,316            188,981            205,833            188,179
+                                                       =========          =========          =========          =========
+
+</TABLE>
+
+SEE ACCOMPANYING NOTES
+
+
+
+
+                                       5
+<PAGE>   6
+
+
+
+
+                              CITRIX SYSTEMS, INC.
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+
+                                                                                             SIX MONTHS ENDED
+                                                                                                 JUNE 30,
+                                                                                     ------------------------------------
+                                                                                           2000             1999
+                                                                                     ------------------------------------
+                                                                                               (IN THOUSANDS)
+
+<S>                                                                                     <C>              <C>
+OPERATING ACTIVITIES
+Net income ......................................................................       $  53,518        $  53,553
+Adjustments to reconcile net income to net cash provided by operating activities:
+   Depreciation and amortization ................................................          23,015           11,238
+   Provision for (recovery of) doubtful accounts ................................           1,504              (33)
+   Provision for product returns ................................................           9,621           13,135
+   Provision for inventory reserves .............................................           3,421              860
+   Tax benefit related to the exercise of non-statutory stock options and
+     disqualifying dispositions of incentive stock options ......................          72,472            9,490
+   Accretion of original issue discount and amortization of financing cost ......           8,311            4,485
+    Changes in operating assets and liabilities, net of effects of acquisitions:
+       Accounts receivable ......................................................         (11,559)         (24,342)
+       Inventories ..............................................................          (4,531)          (4,333)
+       Prepaid taxes ............................................................         (32,295)           4,236
+       Other prepaid expenses ...................................................           1,602           (2,491)
+       Other assets .............................................................            (310)          (6,289)
+       Deferred tax assets ......................................................          (1,980)         (17,345)
+       Deferred revenues ........................................................         (10,805)           4,713
+       Accounts payable and other accrued expenses ..............................          10,695           14,645
+       Income taxes payable .....................................................          (5,935)          10,229
+                                                                                        ---------        ---------
+Net cash provided by operating activities .......................................         116,744           71,751
+
+INVESTING ACTIVITIES
+Purchases of investments ........................................................         (90,754)        (354,356)
+Proceeds from sale of investments ...............................................         106,105           84,615
+Cash paid for acquisitions, net of cash acquired ................................         (28,112)              --
+Cash paid for licensing agreement ...............................................              --             (500)
+Purchases of property and equipment .............................................         (19,217)          (6,214)
+                                                                                        ---------        ---------
+Net cash used in investing activities ...........................................         (31,978)        (276,455)
+
+FINANCING ACTIVITIES
+Net proceeds from issuance of common stock ......................................          50,127           19,622
+Net proceeds from issuance of convertible subordinated debentures ...............              --          292,458
+Other ...........................................................................             (49)             (69)
+                                                                                        ---------        ---------
+Net cash provided by financing activities .......................................          50,078          312,011
+                                                                                        ---------        ---------
+
+Increase in cash and cash equivalents ...........................................         134,844          107,307
+Cash and cash equivalents at beginning of period ................................         216,116          127,546
+                                                                                        ---------        ---------
+Cash and cash equivalents at end of period ......................................       $ 350,960        $ 234,853
+                                                                                        =========        =========
+</TABLE>
+
+
+SEE ACCOMPANYING NOTES.
+
+
+
+                                       6
+<PAGE>   7
+
+
+                              CITRIX SYSTEMS, INC.
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+                                  JUNE 30, 2000
+
+       1.    BASIS OF PRESENTATION
+
+       The accompanying unaudited condensed consolidated financial statements
+       have been prepared in accordance with generally accepted accounting
+       principles for interim financial information and with Article 10 of
+       Regulation S-X. Accordingly, they do not include all of the information
+       and footnotes required by generally accepted accounting principles for
+       complete financial statements. All adjustments which, in the opinion of
+       management, are considered necessary for a fair presentation of the
+       results of operations for the periods shown are of a normal recurring
+       nature and have been reflected in the unaudited condensed consolidated
+       financial statements. The results of operations for the periods presented
+       are not necessarily indicative of the results expected for the full
+       fiscal year or for any future period. The information included in these
+       unaudited condensed consolidated financial statements should be read in
+       conjunction with Management's Discussion and Analysis of Financial
+       Condition and Results of Operations contained in this report and the
+       consolidated financial statements and accompanying notes included in the
+       Citrix Systems, Inc. (the "Company") Annual Report on Form 10-K for the
+       fiscal year ended December 31, 1999.
+
+       2.    USE OF ESTIMATES
+
+       The preparation of financial statements in conformity with generally
+       accepted accounting principles requires management to make estimates and
+       assumptions that affect the amounts reported in the condensed
+       consolidated financial statements and accompanying notes. While the
+       Company believes that such estimates are fair when considered in
+       conjunction with the condensed consolidated financial position and
+       results of operations taken as a whole, the actual amount of such
+       estimates, when known, will vary from these estimates.
+
+       3.    REVENUE RECOGNITION
+
+       Revenue is recognized when earned. The Company's revenue recognition
+       policies are in compliance with the American Institute of Certified
+       Public Accountants Statement of Position ("SOP") 97-2 (as amended by SOP
+       98-4 and SOP 98-9) "Software Revenue Recognition." Product revenues are
+       recognized upon shipment of the software product only if no significant
+       Company obligations remain, the fee is fixed or determinable, and
+       collection of the resulting receivable is deemed probable. Revenue from
+       packaged product sales to distributors and resellers is recorded when
+       related products are shipped. In software arrangements that include
+       rights to multiple software products, post-contract customer support
+       ("PCS"), and/or other services, the Company allocates the total
+       arrangement fee among each deliverable based on the relative fair value
+       of each of the deliverables based on vendor-specific objective evidence
+       ("VSOE"). The Company sells software and PCS separately and VSOE is
+       determined by the price charged when each element is sold separately.
+       Product returns and sales allowances, including stock rotations, are
+       estimated and provided for at the time of sale. Non-recurring engineering
+       fees are recognized ratably as the work is performed. Revenues from
+       training and consulting are recognized when the services are performed.
+       Service and subscription revenues from customer maintenance fees for
+       ongoing customer support and product updates and upgrades are based on
+       the price charged or derived value of the undelivered elements and are
+       recognized ratably over the term of the contract, which is typically
+       twelve months. Service revenues, which are immaterial when compared to
+       net revenues, are included in net revenues on the face of the
+       consolidated statements of income.
+
+
+
+
+
+
+
+                                       7
+<PAGE>   8
+
+
+
+        4.   EARNINGS PER SHARE
+
+       Basic earnings per share is computed using the weighted average number of
+       common shares outstanding during the period. Diluted earnings per share
+       is computed using the weighted average number of common and dilutive
+       common share equivalents outstanding during the period. Dilutive common
+       share equivalents consist of shares issuable upon the exercise of stock
+       options. The shares related to the Company's convertible subordinated
+       debentures were excluded from the computation of diluted earnings per
+       share due to of their antidilutive effect.
+
+       All share and per share data have been retroactively adjusted to reflect
+       the two-for-one stock split in the form of a stock dividend paid on March
+       25, 1999 to stockholders of record as of March 17, 1999, and the
+       two-for-one stock split in the form of a stock dividend paid on February
+       16, 2000 to stockholders of record as of January 31, 2000.
+
+       The following table sets forth the computation of basic and diluted
+       earnings per share:
+<TABLE>
+<CAPTION>
+
+                                                         THREE MONTHS ENDED JUNE 30,    SIX MONTHS ENDED JUNE 30,
+                                                         ---------------------------   ---------------------------
+                                                            2000           1999           2000           1999
+                                                          --------       --------       --------       --------
+                                                              (IN THOUSANDS, EXCEPT PER SHARE INFORMATION)
+<S>                                                       <C>            <C>            <C>            <C>
+       Numerator:
+         Net income ...............................       $ 14,973       $ 27,785       $ 53,518       $ 53,553
+                                                          --------       --------       --------       --------
+       Denominator:
+         Denominator for basic earnings per share
+               - weighted-average shares ..........        185,356        175,083        184,279        174,039
+         Effect of dilutive securities:
+         Employee stock options ...................         17,960         13,898         21,554         14,140
+                                                          --------       --------       --------       --------
+         Dilutive potential common shares .........         17,960         13,898         21,554         14,140
+                                                          --------       --------       --------       --------
+         Denominator for diluted earnings per share
+               - weighted-average shares ..........        203,316        188,981        205,833        188,179
+                                                          ========       ========       ========       ========
+
+       Basic earnings per share ...................       $   0.08       $   0.16       $   0.29       $   0.31
+                                                          ========       ========       ========       ========
+       Diluted earnings per share .................       $   0.07       $   0.15       $   0.26       $   0.28
+                                                          ========       ========       ========       ========
+</TABLE>
+
+
+       5.  ACQUISITION
+
+       In February 2000, the Company acquired all of the operating assets of the
+       Innovex Group, Inc. ("Innovex"), a privately owned e-business consulting
+       services organization specializing in the design, development and
+       implementation of Web-based solutions and systems integration, for
+       approximately $47.8 million, of which $28.7 million was paid at the
+       closing date and the balance is payable, in equal installments 18 and 24
+       months after the closing date, contingent on future events, as set forth
+       in the acquisition agreement.
+
+       The acquisition was accounted for as a purchase. The cost in excess of
+       net tangible assets acquired was approximately $26.1 million, of which
+       $9.0 million was allocated to the acquired workforce and $17.1 million
+       was allocated to goodwill. The cost associated with the acquired
+       workforce and goodwill are both being amortized on a straight-line basis
+       over six and four years, respectively. The results of operations of
+       Innovex are included in the Company's results of operations from the date
+       of acquisition. The allocation of the purchase price was based on an
+       independent report. Contingent payments to be made at future dates, if
+       any, will be accounted for as additional purchase price and amortized
+       over the remaining life of the intangible assets acquired.
+
+
+
+
+
+                                       8
+<PAGE>   9
+
+
+
+       6. SEGMENT INFORMATION
+
+       The Company operates in a single market consisting of the design,
+       development, marketing and support of client and server-based computing
+       software for enterprise applications. Design, development, marketing and
+       support operations outside of the United States are conducted through
+       subsidiaries located primarily in Europe and the Asia Pacific region.
+
+       The Company tracks revenue and gross margin by geography and product
+       category but does not track operating expenses nor identifiable assets on
+       a product category basis. The Company does not engage in intercompany
+       transfers between segments. The Company's management evaluates
+       performance based primarily on revenues and profit in the geographic
+       locations in which the Company operates. Segment profit for each segment
+       includes sales and marketing expenses directly attributable to the
+       segment and excludes certain expenses which are managed outside the
+       reportable segments. Costs excluded from segment profit primarily consist
+       of cost of revenues, research and development costs, interest, corporate
+       expenses, including income taxes, as well as non-recurring charges for
+       purchased in-process technology, and overhead costs, including rent,
+       utilities, depreciation and amortization. Corporate expenses are
+       comprised primarily of corporate marketing costs, operations and other
+       general and administrative expenses which are separately managed.
+       Accounting policies of the segments are the same as the Company's
+       consolidated accounting policies.
+
+       Net revenues and segment profit, classified by the major geographic areas
+       in which the Company operates, are as follows:
+<TABLE>
+<CAPTION>
+
+                                              THREE MONTHS ENDED JUNE 30,       SIX MONTHS ENDED JUNE 30,
+                                              --------------------------        --------------------------
+                                                 2000            1999             2000             1999
+                                              ---------        ---------        ---------        ---------
+                                                                  (IN THOUSANDS)
+<S>                                           <C>              <C>              <C>              <C>
+
+Net revenues:
+         Americas .....................       $  51,303        $  46,047        $ 117,994        $  86,430
+         EMEA(1) ......................          37,582           30,772           81,313           58,796
+         Asia Pacific .................           6,055            5,331           11,231           10,341
+         Other (2) ....................          11,146           12,265           23,063           23,887
+                                              ---------        ---------        ---------        ---------
+         Consolidated .................       $ 106,086        $  94,415        $ 233,601        $ 179,454
+                                              =========        =========        =========        =========
+
+Segment profit:
+         Americas .....................       $  41,546        $  34,410        $  98,310        $  66,182
+         EMEA(1) ......................          28,845           24,748           63,895           47,197
+         Asia Pacific .................           3,123            3,185            5,714            6,259
+         Other (2) ....................          11,146           12,265           23,063           23,887
+         Unallocated expenses (3):
+             Cost of revenues .........          (8,404)          (3,101)         (13,532)          (7,622)
+             Overhead costs ...........         (20,602)         (11,335)         (39,243)         (21,493)
+             Research and Development..         (12,300)          (8,913)         (24,413)         (17,121)
+             Net interest .............           5,488            2,294           10,941            5,403
+             Other corporate expenses .         (27,452)         (10,139)         (48,281)         (19,015)
+                                              ---------        ---------        ---------        ---------
+Consolidated income before income taxes       $  21,390        $  43,414        $  76,454        $  83,677
+                                              =========        =========        =========        =========
+</TABLE>
+
+       (1)  Europe, Middle East and Africa ("EMEA").
+
+       (2)  Primarily represents royalty fees earned in connection with the
+            License, Development and Marketing Agreement with Microsoft and OEM
+            revenue.
+
+       (3)  Represents expenses presented to management only on a consolidated
+            basis and not allocated to the geographic operating segments.
+
+
+
+
+
+                                       9
+<PAGE>   10
+
+
+
+Additional information regarding revenue by product line is as follows:
+<TABLE>
+<CAPTION>
+
+                                           THREE MONTHS ENDED JUNE 30,   SIX MONTHS ENDED JUNE 30,
+                                           ---------------------------  --------------------------
+                                             2000           1999             2000          1999
+                                           --------       --------         --------       --------
+                                                              (IN THOUSANDS)
+
+<S>                                        <C>            <C>              <C>            <C>
+  Revenue:
+       Windows Application Servers......   $ 72,870       $ 68,734         $168,373       $133,598
+       Management Services Products.....     14,416          9,646           27,897         14,739
+       Computing Appliances Products....      1,206          2,202            3,182          4,320
+       Microsoft Royalties .............      9,940          9,940           19,881         19,813
+       Other Revenue ...................      7,654          3,893           14,268          6,984
+                                           --------       --------         --------       --------
+       Net Revenues ....................   $106,086       $ 94,415         $233,601       $179,454
+                                           ========       ========         ========       ========
+</TABLE>
+
+
+7. COMPREHENSIVE INCOME
+
+The components of comprehensive income, net of related taxes, are as follows:
+<TABLE>
+<CAPTION>
+
+                                                             THREE MONTHS ENDED JUNE 30,     SIX MONTHS ENDED JUNE 30,
+                                                             ---------------------------   ----------------------------
+                                                               2000             1999             2000            1999
+                                                             --------         --------         --------        --------
+                                                                                  (IN THOUSANDS)
+<S>                                                          <C>              <C>              <C>             <C>
+Net income ..........................................        $ 14,973         $ 27,785         $ 53,518        $ 53,553
+Unrealized loss on available-for-sale securities, net          (5,228)          (1,497)           4,912          (1,497)
+                                                             --------         --------         --------        --------
+Comprehensive income ................................        $  9,745         $ 26,288         $ 58,430        $ 52,056
+                                                             ========         ========         ========        ========
+</TABLE>
+
+8. INCOME TAXES
+
+In July 1999, the Company changed its organizational structure whereby it moved
+certain operational and administrative processes to overseas subsidiaries. The
+restructuring resulted in foreign earnings being taxed at lower foreign tax
+rates. Effective January 1, 2000, these earnings will be permanently reinvested
+overseas in order to fund the Company's growth in overseas markets. As a result,
+the Company's effective tax rate was reduced to 30% for the three and six month
+periods ended June 30, 2000 from 36% for the same periods in the prior year.
+
+9. CONVERTIBLE SUBORDINATED DEBENTURES
+
+In March 1999, the Company completed a private placement of $850.0 million
+principal amount at maturity of its zero coupon convertible subordinated
+debentures (the "debentures") due March 22, 2019. The debentures were priced
+with a yield to maturity of 5.25% and resulted in net proceeds to the Company of
+approximately $291.9 million, net of original issue discount and net of debt
+issuance costs of $9.6 million. Except under limited circumstances, no interest
+will be paid on the debentures prior to maturity. The debentures are convertible
+at the option of the security holder at any time on or before the maturity date
+at a conversion rate of 14.0612 shares of the Company's common stock for each
+$1,000 principal amount at maturity of debentures, subject to adjustment in
+certain events. The Company may redeem the debentures on or after March 22,
+2004. Holders may require the Company to repurchase the debentures, at set
+redemption prices (equal to the issue price plus accrued original issue
+discount) beginning on March 22, 2004. Interest expense related to the
+debentures was $4.2 million and $4.1 million for the three month periods ended
+June 30, 2000 and 1999, respectively. Interest expense related to the debentures
+was $8.4 million and $4.5 million for the six month periods ended June 30, 2000
+and 1999, respectively. In March and April of 2000, holders of an aggregate face
+
+
+
+
+
+
+
+                                       10
+<PAGE>   11
+value amount of $200,000 of debentures converted the notes into approximately
+2,810 shares of the Company's common stock. The Company made immaterial payments
+in connection with these conversions.
+
+10.  OTHER REVENUES
+
+In May 1997, the Company entered into an agreement, as amended (the
+"Agreement"), with Microsoft Corporation ("Microsoft"), which provides for the
+licensing of certain of the Company's multi-user software enhancements and for
+the cooperation between the parties for the development of certain future
+software. At the time of the agreement, Microsoft held in excess of 5% of the
+Company's outstanding common stock and also had a representative on the
+Company's Board of Directors. Microsoft is no longer a significant shareholder
+and no longer has Board representation. Amounts arising from the Agreement are
+designated as other revenue. Deferred revenue at June 30, 2000 and December 31,
+1999 includes $73.9 million and $93.8 million, respectively, related to this
+agreement which is being recognized ratably over the five year term of the
+Agreement, which began in May 1997.
+
+11. STOCK REPURCHASE PROGRAM
+
+On April 15, 1999, the Board of Directors approved a stock repurchase program
+authorizing the repurchase of up to $200 million of the Company's common stock.
+Purchases, if any, will be made from time to time in the open market and paid
+out of general corporate funds. As of June 30, 2000, none of the Company's
+outstanding common stock had been repurchased under this program. As of August
+8, 2000, the Company purchased 1,050,000 shares of outstanding common stock on
+the open market at an average price $15.12 per share.
+
+On August 8, 2000, the Company entered into an agreement with a counterparty in
+a private transaction to purchase up to 5.8 million shares of the Company's
+common stock at various times through the third quarter of 2002. Pursuant to the
+terms of the agreement, $100 million will be paid to the counterparty in August
+2000. The ultimate number of shares repurchased will depend on market
+conditions. Shares received under the agreement will be recorded as treasury
+stock.
+
+12. LEGAL PROCEEDINGS
+
+In June 2000, the Company and certain of its officers and directors were named
+as defendants in several securities class action lawsuits filed in the United
+States District Court for the Southern District of Florida. These actions, which
+were filed on behalf of purchasers of the Company's common stock during the
+period October 20, 1999 to June 9, 2000, generally allege that, during the class
+period, the defendants made misstatements to the investing public about the
+Company's financial condition and prospects. The complaints seek unspecified
+damages. The Company believes the plaintiffs' claims lack merit and intends to
+vigorously defend the lawsuits.
+
+13. RECLASSIFICATIONS
+
+Certain reclassifications have been made for consistent presentation.
+
+14. RECENT ACCOUNTING PRONOUNCEMENTS
+
+In June 1999, the Financial Accounting Standards Board ("FASB") issued SFAS 137,
+Accounting for Derivative Instruments and Hedging Activities-Deferral of the
+Effective Date of FASB Statement 133. The Statement defers the effective date of
+SFAS 133 to fiscal 2001. Management is evaluating SFAS 133 and does not believe
+that adoption of the Statement will have a material impact on its financial
+statements.
+
+In December 1999, the Securities and Exchange Commission ("SEC") issued Staff
+Accounting Bulletin No. 101 ("SAB 101"), "Revenue Recognition in Financial
+Statements." SAB 101 summarizes the requirements that must be met in order to
+recognize revenue and provides guidance for disclosure of revenue recognition
+policies. In June 2000, the SEC issued SAB No. 101B which delays the
+implementation date of SAB 101 until no later than the fourth quarter of fiscal
+
+
+                                       11
+<PAGE>   12
+
+
+
+
+2000. The Company does not expect the adoption of SAB 101 to have a material
+effect on its financial position or results of operation.
+
+In March 2000, the FASB issued Interpretation No. 44 ("FIN 44"), "Accounting for
+Certain Transactions Involving Stock Compensation", an interpretation of APB
+Opinion No. 25 ("APB 25"). FIN 44 clarifies the application of APB 25 with
+respect to: the definition of an employee for the purposes of applying APB 25,
+the criteria for determining whether a plan qualifies as a non-compensatory
+plan, the accounting consequences of various modifications to the terms of a
+previously fixed stock option or awards, and the accounting for an exchange of
+stock compensation awards in a business combination. FIN 44 is effective July 1,
+2000, but certain conclusions cover specific events that occur after either
+December 15, 1998 or January 12, 2000. The Company does not expect the adoption
+of FIN 44 to have a material effect of its financial position or results of
+operation.
+
+
+
+                                       12
+<PAGE>   13
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+OVERVIEW
+
+      The Company develops, markets, sells and supports innovative client and
+server-based computing software that enables effective and efficient deployment
+and management of enterprise applications that are designed for Microsoft
+Windows(R) operating systems. The Company's Windows Application Servers, which
+comprise the largest source of the Company's revenue, primarily consist of the
+MetaFrame(TM) product line and related options. The MetaFrame product line,
+which began shipping in the second quarter of 1998, permits organizations to
+deploy Windows applications without regard to location, network connection, or
+type of client hardware platforms.
+
+      On May 9, 1997, the Company and Microsoft entered into a License,
+Development and Marketing Agreement, as amended (the "Development Agreement"),
+which provides for the licensing to Microsoft of certain of the Company's
+multi-user software enhancements to Microsoft's Windows NT Server and for the
+cooperation between the parties for the development of certain future multi-user
+versions of Microsoft Windows NT Server, including Microsoft Windows NT Server,
+Terminal Server Edition and Microsoft Windows 2000 (collectively, "NT Server").
+As a result of the Development Agreement, the Company continues to support the
+Microsoft Windows NT platform, but the MetaFrame products and later releases
+will no longer directly incorporate Windows NT technology. The Company plans to
+continue developing enhancements to its MetaFrame product line and expects that
+this product and associated options will constitute a majority of its revenues
+for the foreseeable future.
+
+      The Company's revenue recognition policies are in compliance with the
+American Institute of Certified Public Accountants Statement of Position ("SOP")
+97-2 (as amended by SOP 98-4 and SOP 98-9) and related interpretations,
+"Software Revenue Recognition" as described in Note 3 of the Notes to Condensed
+Consolidated Financial Statements included in this report.
+
+      In February 2000, the Company acquired all of the operating assets of the
+Innovex Group, Inc. ("Innovex"), a privately owned e-business consulting
+services organization specializing in the design, development and implementation
+of Web-based solutions and systems integration, for approximately $47.8 million,
+of which $28.7 million was paid at the closing date and the balance is payable,
+in equal installments, 18 and 24 months after the closing date, contingent on
+future events.
+
+      The following discussion relating to the individual financial statement
+captions, the Company's overall financial performance, operations and financial
+position should be read in conjunction with the factors and events described in
+"OVERVIEW" and "CERTAIN FACTORS WHICH MAY AFFECT FUTURE RESULTS" which may
+impact the Company's future performance and financial position.
+
+
+
+                                       13
+<PAGE>   14
+
+
+
+
+RESULTS OF OPERATIONS
+
+     The following table sets forth statement of income data of the Company
+expressed as a percentage of net revenues and as a percentage of change from
+period-to-period for the periods indicated.
+
+<TABLE>
+<CAPTION>
+
+                                                                                               INCREASE/(DECREASE) FOR THE
+                                                                                               THREE MONTHS     SIX MONTHS
+                                           THREE MONTHS ENDED          SIX MONTHS ENDED           ENDED          ENDED
+                                                JUNE 30,                   JUNE 30,           JUNE 30, 2000  JUNE 30, 2000
+                                           -----------------         -------------------           VS.             VS.
+                                           2000         1999          2000          1999      JUNE 30, 1999  JUNE 30, 1999
+                                           ----         ----          ----          ----      -------------  -------------
+
+<S>                                        <C>           <C>           <C>           <C>            <C>          <C>
+Net revenues .......................       100.0%        100.0%        100.0%        100.0%         12.4%         30.2%
+Cost of revenues (excluding
+    amortization presented
+     separately below) .............         7.9           3.3           5.8           4.3         171.0          77.5
+                                          ------        ------        ------        ------
+Gross margin .......................        92.1          96.7          94.2          95.7           7.0          28.1
+Operating expenses:
+   Research and development ........        11.6           9.4          10.5           9.5          38.0          42.6
+   Sales, marketing and support ....        42.8          31.0          37.1          30.2          55.1          60.6
+   General and administrative ......        15.3           8.7          12.3           8.2          97.1          93.0
+   Amortization of intangible assets         7.4           4.0           6.3           4.2         108.3          94.4
+                                          ------        ------        ------        ------
+     Total operating expenses ......        77.1          53.1          66.2          52.1          62.9          65.2
+                                          ------        ------        ------        ------
+Income from operations .............        15.0          43.6          28.0          43.6         (61.3)        (16.3)
+Interest and other income ..........         9.2           6.8           8.3           5.5          52.7          95.5
+Interest expense ...................        (4.0)         (4.3)         (3.6)         (2.5)          4.0          87.0
+                                          ------        ------        ------        ------
+Income before income taxes .........        20.2          46.1          32.7          46.6         (50.7)         (8.6)
+Income taxes .......................         6.1          16.6           9.8          16.8         (58.9)        (23.9)
+                                          ------        ------        ------        ------
+Net income .........................        14.1%         29.5%         22.9%         29.8%        (46.1)%        (0.1)%
+                                          ======        ======        ======        ======
+</TABLE>
+
+
+      NET REVENUES. Net revenues are presented below in five categories: Windows
+Application Servers, Management Services Products, Computing Appliances
+Products, Microsoft Royalties and Other Revenue. Windows Application Servers
+revenue represents fees related primarily to the licensing of the Company's
+MetaFrame product, subscription for product updates and upgrades and additional
+user licenses. Computing Appliances Products revenue consists of license fees
+and royalties from OEMs who are granted a license to incorporate and/or market
+the Company's multi-user technologies in their own product offerings. Management
+Services Products consist of system option products such as Load Balancing
+Services, Resource Management Services and other options. Microsoft royalties
+represent fees recognized in connection with the Development Agreement.
+
+      With respect to product mix, the increase in net revenues for the three
+months ended June 30, 2000 compared to the three months ended June 30, 1999 was
+primarily attributable to an increase in the volume of shipments of Management
+Services Products and an increase in Windows Application Servers revenue which
+was due to an increase in the number of MetaFrame licenses sold. The increase in
+Windows Application Servers revenue was partially offset by a decrease in
+revenue from the WinFrame product line. The increase in net revenues was also
+due to an increase in other revenue due mainly to customer support revenue. The
+Company anticipates Management Services Products will continue to account for an
+increasing percentage of net revenues.
+
+      The increase in net revenues for the six months ended June 30, 2000
+compared to the six months ended June 30, 1999 was primarily attributable to an
+increase in Windows Application Servers revenue due primarily to an increase in
+the number of MetaFrame licenses sold. To a lesser extent, the increase in net
+revenues was due to an increase in the volume of shipments of Management
+Services Products, specifically, Load Balancing Services and Resource Management
+Services Products.
+
+
+
+                                       14
+<PAGE>   15
+
+
+
+      An analysis of the Company's net revenues by product line is presented in
+the table below:
+<TABLE>
+<CAPTION>
+
+                                                                                                   INCREASE/(DECREASE) FOR THE
+                                                                                                  THREE MONTHS      SIX MONTHS
+                                           THREE MONTHS ENDED            SIX MONTHS ENDED            ENDED             ENDED
+                                                JUNE 30.                     JUNE 30,            JUNE 30, 2000     JUNE 30, 2000
+                                          -------------------          -------------------            VS.               VS.
+                                          2000          1999           2000           1999       JUNE 30, 1999     JUNE 30, 1999
+                                          ----          ----           ----           ----       -------------     -------------
+<S>                                      <C>            <C>            <C>            <C>             <C>            <C>
+Windows Application Servers..            69%            73%            72%            75%             6%             26%
+Management Services Products.            14             10             12              8             49              89
+Computing Appliances Products             1              2              1              2            (45)            (26)
+Microsoft royalties .........             9             11              9             11             --              --
+Other revenue ...............             7              4              6              4             97             104
+                                        ---            ---           ----           ----
+Net revenues ................           100%           100%           100%           100%            12%             30%
+</TABLE>
+
+
+      SEGMENT REVENUES. The increase in net revenues by operating segment was
+primarily due to the Company's increased sales and marketing efforts in Europe,
+Middle East and Africa ("EMEA") and in the Americas however, revenue by
+operating segment as a percentage of net revenues remained relatively constant
+for the three and six month periods ended June 30, 2000 compared to the same
+periods in 1999.
+
+     An analysis of net revenues by operating segment is presented in the table
+below:
+
+<TABLE>
+<CAPTION>
+
+                                                                                        INCREASE/(DECREASE) FOR THE
+                                                                                       THREE MONTHS      SIX MONTHS
+                                THREE MONTHS ENDED            SIX MONTHS ENDED            ENDED             ENDED
+                                     JUNE 30,                     JUNE 30,            JUNE 30, 2000     JUNE 30, 2000
+                               ------------------           -------------------            VS.               VS.
+                               2000          1999           2000           1999       JUNE 30, 1999     JUNE 30, 1999
+                               ----          ----           ----           ----       -------------     -------------
+<S>                            <C>             <C>             <C>             <C>             <C>              <C>
+      Americas ............    48%             49%             50%             48%             11%              37%
+      EMEA ................    35              33              35              33              22               38
+      Asia Pacific.........     6               5               5               6              14                9
+      Other (1) ...........    11              13              10              13              (9)              (3)
+                              ---             ---             ---             ---
+      Net revenues.........   100%            100%            100%            100%             12%              30%
+</TABLE>
+
+       (1) Primarily represents royalty fees earned in connection with the
+Development Agreement and OEM revenue.
+
+      With respect to operating segments, the increase in net revenues for the
+three and six months ended June 30, 2000 was primarily attributable to continued
+demand for Citrix products in the Americas and EMEA regions and larger scale
+MetaFrame implementations in these regions. Other revenue has remained
+relatively stable, from the second quarter of 1999 to the second quarter of
+2000, but has decreased as a percentage of net revenues due to the growth of the
+other segments.
+
+      The Company expects to continue investing in international markets and
+expanding its international operations by establishing additional foreign
+operations, hiring personnel, expanding its international sales force and
+continuing to add third party channel partners.
+
+      COST OF REVENUES. Cost of revenues consists primarily of the cost of
+royalties, product media and duplication, manuals, packaging materials and
+shipping expense. All development costs incurred in connection with the
+Development Agreement were expensed as incurred as a separate component of cost
+of revenues. The Company's cost of revenues excludes amortization of core
+technology. Cost of revenues also consists of compensation and other
+personnel-related costs for consulting services.
+
+      GROSS MARGIN. Gross margin decreased for the three and six months ended
+June 30, 2000 primarily due to a reserve for obsolete inventory. To a lesser
+extent, the decrease in gross margin was attributable to costs associated with
+the Innovex acquisition as the consultants obtained in that acquisition are not
+yet fully integrated into the Company's consulting services business. The
+Company anticipates gross margin as a percentage of net revenues will increase
+from current levels but will remain below historical levels as the Company
+increases its consulting services offering which has a lower gross profit margin
+than that associated with the sale of software licenses.
+
+
+
+
+
+
+
+                                       15
+<PAGE>   16
+
+
+
+      RESEARCH AND DEVELOPMENT EXPENSES. Research and development expenses
+consisted primarily of personnel-related costs. All development costs included
+in the research and development of software products and enhancements to
+existing products have been expensed as incurred except for certain intangible
+assets related to certain acquisitions and licensing arrangements. The increase
+in research and development expenses resulted primarily from additional
+staffing, associated salaries and related expenses required to expand and
+enhance the Company's product lines.
+
+      SALES, MARKETING AND SUPPORT EXPENSES. The increase in sales, marketing
+and support expenses for the three and six months ended June 30, 2000 resulted
+primarily from increased advertising and corporate branding and marketing
+activities directed at customer and business partner acquisition and retention.
+The increase was also due to higher headcount levels of sales, services and
+marketing staff and associated salaries, commissions and related expenses in
+order to increase the Company's sales, consulting and marketing efforts.
+
+      GENERAL AND ADMINISTRATIVE EXPENSES. The increase in general and
+administrative expenses for the three and six months ended June 30, 2000 was
+primarily due to increased expenses associated with additional staff, associated
+salaries and related expenses necessary to support overall increases in the
+scope and geographical diversity of the Company's operations. The increase was
+also due to an increase in the provision for doubtful accounts resulting from
+the reserve of specific customers' accounts receivable balances, an increase in
+consulting fees for information systems projects and an increase in legal fees
+relating to litigation defense. The Company is in the early stages of an
+enterprise resource planning implementation project. While a significant portion
+of the costs associated with this project will be capitalized, certain costs
+will be expensed during the course of the project, which is expected to continue
+through 2001.
+
+      AMORTIZATION OF INTANGIBLE ASSETS. The increase in amortization of
+goodwill and identifiable intangible assets is primarily due to the acquisition
+of ViewSoft, Inc. ("ViewSoft") in July 1999 and Innovex in February 2000 which
+resulted in additional goodwill and identifiable intangible assets of $31.1
+million and $26.7 million, respectively. As of June 30, 2000, the Company had
+net goodwill and identifiable intangible assets of $75.4 million associated with
+these and other transactions which will be fully amortized over two to six
+years. The Company anticipates that amortization of goodwill and identifiable
+intangible assets will increase as the Company continues to search for suitable
+acquisition candidates.
+
+      IN-PROCESS RESEARCH AND DEVELOPMENT. In connection with the acquisition of
+certain in-process software technologies from ViewSoft, the Company allocated
+$2.3 million of the purchase price to In-Process Research and Development
+("IPR&D"). During 1998, the Company completed acquisitions of certain in-process
+software technologies in which it allocated a portion of the purchase price to
+IPR&D. The Company allocated $10.7 million and $2.4 million for IPR&D related to
+the APM Ltd ("APM") and VDOnet Corporation, Ltd ("VDOnet") acquisitions,
+respectively.
+
+      Since the respective dates of acquisition, the Company has used the
+acquired in-process technology to develop new product offerings and
+enhancements, which have or will become part of the Company's suite of products
+when completed. Functionality included in products using the acquired in-process
+technology have been introduced at various times following the respective
+transaction dates of the acquired assets. The Company currently expects to
+complete the development of the remaining projects at various dates in 2000.
+Upon completion, the Company has offered and intends to offer the related
+products to its customers.
+
+      The nature of the efforts required to develop and integrate the acquired
+in-process technology into commercially viable products or features and
+functionalities within the Citrix suite of existing products principally relate
+to the completion of all planning, designing and testing activities that are
+necessary to establish that the products can be produced to meet design
+requirements, including functions, features and technical performance
+requirements. The Company currently expects that products utilizing the acquired
+
+
+
+
+
+                                       16
+<PAGE>   17
+
+
+
+
+in-process technology will be successfully developed, but there can be no
+assurance that commercial viability of any of these products will be achieved.
+Furthermore, future developments in the software industry, particularly the
+server-based computing environment, changes in technology, changes in other
+products and offerings or other developments may cause the Company to alter or
+abandon product plans.
+
+      Failure to complete the development of these projects in their entirety,
+or in a timely manner, could have a material adverse impact on the Company's
+financial condition and results of operations. No assurance can be given that
+actual revenues and operating profit attributable to acquired in-process
+research and development will not deviate from the projections used to value
+such technology in connection with each of the respective acquisitions. Ongoing
+operations and financial results for acquired assets, and the Company as a
+whole, are subject to a variety of factors which may not have been known or
+estimable at the date of such transactions, and the estimates discussed below
+should not be considered the Company's current projections for operating results
+for the acquired assets or the Company as a whole.
+
+      A description of the in-process research and development and the estimates
+made by the Company for APM, VDOnet, and ViewSoft is summarized below. After the
+acquisition of each technology, the Company has continued the development of
+these in-process projects. The updated status of completion for each project is
+set forth in the table below.
+
+APM
+
+      The in-process research and development acquired in the APM acquisition
+consisted primarily of one significant research and development project. The
+project is a Windows NT-based application server which runs Java applications.
+At the date of the acquisition, APM was shipping a Java application server
+solution that allowed an enterprise user to access Java-applets from the
+Internet and execute these applets outside the corporate firewall in a
+server-based computing configuration in a fashion that was transparent to the
+enterprise user. APM was in the process of modifying its software product to
+incorporate changes necessary for it to interface with Java 2.0, which was a
+major new release that included significant rewrites to the Java desktop.
+Following the acquisition, the Company planned on continuing the process of
+incorporating changes necessary to interface with Java 2.0, and in addition,
+planned on further developing the software product into an application server
+for Java 2.0 that would operate in a MetaFrame server environment.
+
+In the second quarter of 2000, management changed the Java application server to
+a Java Performance Pack product, which adds performance enhancements and
+management tools to other Citrix products. The remaining efforts to complete the
+project are primarily the continuing incorporation of changes necessary to
+interface with Java 2.0 and the utilization of acquired technology to develop a
+Java Performance Pack product that will operate in a MetaFrame server
+environment. The research and development risks associated with this project
+relate primarily to updating the acquired technology to be compatible with Sun
+Microsystems' Java 2.0 application, integrating and porting such technology into
+a variety of server-based computing architectures.
+
+VDONET
+
+      The in-process research and development acquired in the VDOnet acquisition
+consisted primarily of one significant research and development project, ICA
+Video Services. This project allows video applications and applications
+containing video to be viewed on an ICA client, and is targeted for the
+server-based computing market. At the date of the acquisition, VDOnet was
+shipping a client server video streaming product that was not operational in a
+Windows NT or in a MetaFrame environment. VDOnet was in the process of modifying
+its software to be operational in a Windows NT environment. In addition, VDOnet
+was developing enhancements that would provide for a live camera feed and
+multicast, which is intended to direct a video stream to multiple client devices
+
+
+
+
+
+                                       17
+<PAGE>   18
+
+
+
+
+
+simultaneously. Following the acquisition, the Company continued the process of
+modifying the VDOnet software to be operational in a Windows NT environment and
+is continuing the development of enhancements that would provide for live camera
+feed and multicast. In addition, the Company plans on further developing the
+software to be operational in a MetaFrame environment.
+
+      The remaining efforts to complete the project are primarily the continuing
+modification of the VDOnet software to be operational in a Windows NT
+environment and the continuation of enhancements that provide for live camera
+feed and multicast functionality and the utilization of acquired technology to
+develop a video server that is operational in a MetaFrame server environment.
+The research and development risks associated with this project relate primarily
+to integrating this product into the server-based computing environment.
+
+VIEWSOFT
+
+      The in-process research and development acquired in the ViewSoft
+acquisition consisted primarily of one significant research and development
+project, ViewSoft Internet 4.0. This project enables multi-tier, Web-based
+application development and deployment. At the date of the valuation, ViewSoft
+was in development with this product. The product was intended to operate in the
+multi-tier web application market and was not intended to operate in a MetaFrame
+environment.
+
+      The remaining efforts to complete the project relate primarily to on-going
+stress testing and, to a lesser extent, bug fixes and documentation. The
+research and development risks associated with this project relate primarily to
+potential design flaws revealed during testing.
+
+      The actual and estimated costs to complete and completion dates of the
+in-process and core technology acquired for each acquisition are as follows:
+<TABLE>
+<CAPTION>
+
+                                                    APM                  VDONET                VIEWSOFT
+                                              -----------------    -------------------     -----------------
+                                                                   (IN THOUSANDS)
+<S>                                                   <C>                   <C>                    <C>
+Date acquired...........................         June 1998             July 1998              July 1999
+Cost incurred to date...................            $4,260                $4,230                 $2,840
+Estimated cost to complete..............                50                   580                    950
+                                              -----------------    -------------------     -----------------
+Total estimated project cost............            $4,310                $4,810                 $3,790
+                                              =================    ===================     =================
+Estimated cost to complete at date of
+valuation...............................            $4,000                $  200                 $  660
+                                              =================    ===================     =================
+
+Estimated completion date at date of          First Quarter        Second Quarter of       Fourth Quarter
+valuation...............................      of 1999              1999                    of 1999
+
+Current estimated completion  date......      Third Quarter        Fourth Quarter of       Third Quarter
+                                              of 2000              2000                    of 2000
+</TABLE>
+
+
+      The estimated completion date of the in-process and core technology
+related to the APM acquisition has been extended from the originally anticipated
+completion date as certain personnel working on this project have been allocated
+to other projects and as development efforts of the APM technology have been
+redirected from a Java application server to a Java Performance Pack to
+accommodate changes in the development of the Java market. The completion date
+of the in-process and core technology acquired from VDOnet has been delayed from
+the originally anticipated completion date due to changes in the development of
+these technologies resulting from end user feedback. The estimated completion
+date of the ViewSoft project has been delayed from the originally anticipated
+completion date due to increases in project scope and a longer testing period.
+The Company is currently unable to determine the impact of such delays on its
+
+
+
+
+
+                                       18
+<PAGE>   19
+
+
+
+
+business, future results of operations and financial condition. There can be no
+assurance that the Company will not incur additional charges in subsequent
+periods to reflect costs associated with completing these projects or that the
+Company will be successful in its efforts to integrate and further develop these
+technologies.
+
+      INTEREST AND OTHER INCOME. The increase in interest and other income for
+the three and six months ended June 30, 2000 was primarily due to interest
+earned on the invested net proceeds from the issuance of the zero coupon
+convertible subordinated debentures in March 1999 and from an increase in cash
+from operations. The Company may acquire or make investments in companies it
+believes are related to its strategic objectives. Such investments will reduce
+the Company's cash and/or investment balances and therefore may reduce interest
+income.
+
+      INTEREST EXPENSE. The increase in interest expense for the three and six
+months ended June 30, 2000 was primarily due to interest related to the zero
+coupon convertible subordinated debentures issued in March 1999.
+
+      INCOME TAXES. In July 1999, the Company changed its organizational
+structure whereby it moved certain operational and administrative processes to
+overseas subsidiaries. The restructuring resulted in foreign earnings being
+taxed at lower foreign tax rates. These earnings will be permanently reinvested
+overseas in order to fund the Company's growth in overseas markets. As a result
+of these organizational changes, the Company's effective tax rate amounted to
+30% for the three and six month periods ended June 30, 2000 and 36% for the
+three and six month periods ended June 30, 1999.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+      During the six months ended June 30, 2000, the Company generated positive
+operating cash flows of approximately $116.7 million. Cash provided by operating
+activities was derived primarily from net income of $53.5 million, adjusted for,
+among other things, tax benefits from the exercise of non-statutory stock
+options and disqualifing dispositions of incentive stock options of $72.5
+million, non-cash charges for depreciation and amortization of $23.0 million,
+offset by a net decrease of $55.1 from changes in operating assets and
+liabilities. Cash used in investing activities of $32.0 million related
+primarily to the purchase of investments of $90.8 million, net cash paid for the
+acquisition of Innovex of $28.1 million and the purchase of property and
+equipment of $19.2 million. These cash outflows were offset by cash inflows from
+the sale of investments of approximately $106.1 million. Cash provided by
+financing activities of $50.1 million is a result of the proceeds from the
+issuance of common stock under the Company's stock option plan.
+
+      As of June 30, 2000, the Company had approximately $888.3 million in cash
+and investments and $643.2 million of working capital. The Company's cash and
+cash equivalents are invested in investment grade, highly liquid securities to
+minimize interest rate risk and allow for flexibility in the event of immediate
+cash needs. At June 30, 2000, the Company had approximately $57.3 million in
+accounts receivable, net of allowances, and $110.9 million of deferred revenues,
+of which the Company anticipates $76.8 million will be earned over the next
+twelve months.
+
+      On April 15, 1999, the Board of Directors approved a stock repurchase
+program authorizing the repurchase of up to $200 million of the Company's common
+
+
+
+
+
+                                       19
+<PAGE>   20
+
+
+
+stock. Purchases will be made from time to time in the open market and paid out
+of general corporate funds. As of June 30, 2000, none of the Company's
+outstanding common stock had been repurchased under this program. As of August
+8, 2000, the Company purchased 1,050,000 shares of outstanding common stock on
+the open market at an average price $15.12 per share.
+
+      On August 8, 2000, the Company entered into an agreement with a
+counterparty in a private transaction to purchase up to 5.8 million shares of
+the Company's common stock at various times through the third quarter of 2002.
+Pursuant to the terms of the agreement, $100 million will be paid to the
+counterparty in August 2000. The ultimate number of shares repurchased will
+depend on market conditions.
+
+      In February 2000, the Company completed its acquisition of all of the
+operating assets of Innovex for approximately $47.8 million, of which $28.1
+million was paid in cash at the closing date and the balance is payable, in
+equal installments, 18 and 24 months after the closing date, contingent upon
+future events.
+
+      The Company believes existing cash and investments together with cash flow
+expected from operations will be sufficient to meet operating and capital
+expenditures requirements through 2000. The Company may from time to time seek
+to raise additional funds through public or private financing. The Company may
+also acquire or make investments in companies it believes are related to its
+strategic objectives. Such investments will reduce the Company's available
+working capital.
+
+YEAR 2000 READINESS DISCLOSURE
+
+      Last year, the Company discussed the nature and progress of its plans to
+become Year 2000 ready. In late 1999, the Company completed its identification
+and testing of systems. As a result of those efforts, the Company experienced no
+significant disruptions in mission critical information technology and
+non-information technology systems and believes those systems successfully
+responded to the Year 2000 date change. The Company has not incurred any
+material expenditure in connection with identifying or evaluating Year 2000
+compliance issues. The Company estimates it will not incur any material levels
+of expenditure on this issue during 2000 to support its compliance initiatives.
+The Company is not aware of any material problems resulting from Year 2000
+issues, either with its products, its internal systems, or the products and
+services of third parties. The Company will continue to monitor its computer
+systems and those of its suppliers and vendors to ensure that any latent Year
+2000 matters that may arise are addressed promptly.
+
+CERTAIN FACTORS WHICH MAY AFFECT FUTURE RESULTS
+
+      We do not provide financial performance forecasts. Our operating results
+and financial condition have varied in the past and may in the future vary
+significantly depending on a number of factors. Except for the historical
+information in this report, the matters contained in this report include
+forward-looking statements that involve risks and uncertainties. The following
+factors, among others, could cause actual results to differ materially from
+those contained in forward-looking statements made in this report. Such factors,
+among others, may have a material adverse effect upon our business, results of
+operations and financial condition.
+
+OUR SUCCESS IS SUBSTANTIALLY DEPENDENT UPON OUR STRATEGIC RELATIONSHIP
+WITH MICROSOFT
+
+      Microsoft is the leading provider of desktop operating systems. We depend
+upon the license of key technology from Microsoft, including certain source and
+object code licenses, and technical support. We also depend upon our strategic
+alliance agreement with Microsoft pursuant to which Citrix and Microsoft have
+agreed to cooperate to develop advanced operating systems. Our relationship with
+Microsoft is subject to the following risks and uncertainties:
+
+o     COMPETITION WITH MICROSOFT. NT Server is, and future product offerings by
+      Microsoft may be, competitive with our current MetaFrame products, and any
+      future product offerings by Citrix.
+
+o     EXPIRATION OF MICROSOFT'S ENDORSEMENT OF THE ICA PROTOCOL. Microsoft's
+      obligation to endorse only our ICA protocol as the preferred method to
+      provide multi-user Windows access for devices other than Windows clients
+      expired in November 1999. Microsoft may now market or endorse other
+      methods to provide multi-user Windows access to non-Windows client
+      devices.
+
+o     DEPENDENCE ON MICROSOFT FOR COMMERCIALIZATION. Our ability to successfully
+      commercialize our MetaFrame product depends on Microsoft's ability to
+      market NT Server products. We do not have control over Microsoft or any
+      of its distributors or resellers. Microsoft is not obligated to continue
+      marketing specific NT Server products, and could discontinue one or more
+      NT Server products at any time. Further, to our knowledge, Microsoft's
+      distributors and resellers are not obligated to purchase products from
+      Microsoft.
+
+
+
+
+                                       20
+<PAGE>   21
+
+
+
+o     PRODUCT RELEASE DELAYS. There may be delays in the release and shipment of
+      future versions of NT Server.
+
+o     IMPACT OF MICROSOFT ANTITRUST LITIGATION ON CITRIX INTELLECTUAL PROPERTY.
+      The United States District Court for the District of Columbia, in the
+      matter of UNITED STATES V. MICROSOFT, Civ. No. 98-1232 ET SEQ., by order
+      of June 7, 2000 directed that Microsoft be required to share certain
+      intellectual property with certain other firms in the information
+      technology industry. The scope of the District Court's order, and its
+      potential impact, if any, upon any intellectual property licensed by
+      Citrix to Microsoft, have not been clarified by the District Court or
+      otherwise, because the District Court, by order of June 20, 2000, stayed
+      its order of June 7, 2000 until the currently pending appeals in the
+      matter have been concluded, or until the District Court's stay is earlier
+      vacated by an appellate court.
+
+      If our relationship with Microsoft were terminated or adversely affected
+for any reason, our business, operating results and financial condition would be
+materially adversely affected.
+
+OUR CONTINUED GROWTH DEPENDS UPON BROAD-BASED ACCEPTANCE OF OUR ICA PROTOCOL
+
+      We believe that our success in the markets in which we compete will depend
+upon our ability to make the ICA protocol a widely accepted standard for
+supporting Windows applications. Microsoft includes as a component of NT
+Server its Remote Desktop Protocol (RDP) which has certain of the capabilities
+of our ICA protocol, and may offer customers a competitive solution. We believe
+that our success is dependent on our ability to enhance and differentiate our
+ICA protocol, and foster broad acceptance of the ICA protocol based on its
+performance, scalability, reliability and enhanced features. In addition, our
+ability to win broad market acceptance of our ICA protocol will depend upon the
+degree of success achieved by our strategic partners in marketing their
+respective product offerings, product pricing and customers' assessment of our
+technical, managerial, service and support expertise. If another standard
+emerges or if we otherwise fail to achieve wide acceptance of the ICA protocol
+as a standard for supporting Windows applications, our business, operating
+results and financial condition could be materially adversely affected.
+
+THE SUCCESS OF OUR BUSINESS ALSO DEPENDS UPON OUR STRATEGIC RELATIONSHIPS WITH
+PARTIES OTHER THAN MICROSOFT
+
+      In addition to our relationship with Microsoft, we have strategic
+relationships with IBM, Compaq, Hewlett Packard and others. We depend upon our
+strategic partners to successfully market and promote the use of our products
+and incorporate our technology into their products and to market and sell such
+products. If we are unable to maintain our current strategic relationships or
+develop additional strategic relationships, or if any of our key strategic
+partners are unsuccessful in incorporating our technology into their products or
+marketing or selling such products, our business, operating results and
+financial condition could be materially adversely affected.
+
+WE FACE SIGNIFICANT COMPETITION FROM OTHER TECHNOLOGY COMPANIES
+
+      The markets in which we compete are intensely competitive. Most of our
+competitors and potential competitors, including Microsoft, have significantly
+greater financial, technical, sales, marketing and other resources. The
+announcement of the release and the actual release of products competitive with
+our existing and future product lines, such as NT Server and related
+enhancements by Microsoft or third parties, could cause our existing and
+potential customers to postpone or cancel plans to license our product lines.
+This would adversely impact our business, operating results and financial
+condition. Further, our ability to market MetaFrame and other future product
+
+
+
+
+                                       21
+<PAGE>   22
+
+
+
+
+
+offerings may be affected by Microsoft's licensing and pricing scheme for client
+devices implementing our product offerings which attach to NT Server.
+
+      In addition, alternative products exist for Internet commerce that
+directly or indirectly compete with our products. Existing or new products that
+extend website software to provide database access or interactive computing
+could materially impact our ability to sell our products in this market. As
+markets for our products continue to develop, additional companies, including
+companies with significant market presence in the computer hardware, software
+and networking industries, may enter the markets in which we compete and further
+intensify competition. Finally, although we believe that price has historically
+been a less significant competitive factor than product performance, reliability
+and functionality, we believe that price competition may become more significant
+in the future. We may not be able to maintain our historic prices, and any
+inability to do so could adversely affect our business, results of operations
+and financial condition.
+
+OUR RELIANCE ON A FEW PRODUCTS FOR A MAJORITY OF OUR REVENUE COULD ADVERSELY
+AFFECT OUR BUSINESS
+
+      The Company anticipates that its MetaFrame product line and related
+enhancements will constitute the majority of its revenue for the foreseeable
+future. The Company's ability to generate revenue from its MetaFrame product
+will depend upon market acceptance of NT Server products. Declines in demand for
+products based on MetaFrame technology may occur as a result of new competitive
+product releases, price competition, lack of success of its strategic partners,
+technological change or other factors.
+
+FAILURE TO PROPERLY MANAGE OUR GROWTH COULD ADVERSELY AFFECT OUR BUSINESS
+
+      We have recently experienced rapid growth in the scope of our operations,
+the number of our employees and the geographic area of our operations. In
+addition, we have recently completed certain acquisitions. Such growth and
+assimilation of operations and personnel of such acquired companies has placed
+and may continue to place a significant strain on our managerial, operational
+and financial resources. We believe we have made adequate allowances for the
+costs and risks associated with these expansions. However, our systems,
+procedures or controls may not be adequate to support our current or future
+operations. In addition, we may not be able to effectively manage this expansion
+and still achieve the rapid execution necessary to fully exploit the market
+opportunity for our products and services in a timely and cost-effective manner.
+Our future operating results will also depend on our ability to manage our
+expanding product line, expand our sales and marketing organizations and expand
+our support organization commensurate with the increasing base of our installed
+product. Our failure to properly manage our growth could adversely affect our
+business, operating results and financial condition.
+
+      We plan to increase our professional staff during 2000 as we implement
+sales, marketing and support and product developments efforts, as well as
+associated administrative systems, to support planned growth. As a result of
+this planned growth in the size of our staff, we believe that we will require
+additional facilities during 2000. Although we believe that the cost of such
+additional facilities will not significantly impact our financial position or
+results of operations, we anticipate that operating expenses will increase
+during 2000 as a result of our planned growth in staff. Such an increase in
+operating expenses may reduce our income from operations and cash flows from
+operating activities.
+
+OUR SUCCESS DEPENDS UPON OUR ABILITY TO PROTECT OUR PROPRIETARY TECHNOLOGY
+
+      We rely primarily on a combination of copyright, trademark and trade
+secret laws, as well as confidentiality procedures and contractual provisions,
+to protect our proprietary rights. Our efforts to protect our proprietary
+technology rights may not be successful. The loss of any material trade secret,
+trademark, tradename or copyright could have a material adverse effect on us.
+Despite our precautions, it may be possible for unauthorized third parties to
+copy certain portions of our products or to obtain and use information regarded
+as proprietary. A significant portion of our sales are derived from license
+
+
+
+
+                                       22
+<PAGE>   23
+
+
+
+
+agreements for packaged products. Such license agreements are not signed by
+licensees and, therefore, may be unenforceable under the laws of certain
+jurisdictions. In addition, our ability to protect our proprietary rights may be
+affected by the following:
+
+o     Differences in International Law. The laws of some foreign countries do
+      not protect our intellectual property to the same extent as do the laws of
+      the United States and Canada.
+
+o     Third Party Infringement Claims. Third parties may assert infringement
+      claims against us in the future. This may result in costly litigation or
+      require us to obtain a license to intellectual property rights of such
+      third parties. Such licenses may not be available on reasonable terms or
+      at all.
+
+IF WE FAIL TO INTRODUCE NEW PRODUCTS AND ENHANCE OUR EXISTING PRODUCTS TO KEEP
+UP WITH RAPID TECHNOLOGICAL CHANGE, DEMAND FOR OUR PRODUCTS MAY DECLINE
+
+      The markets for our products are relatively new and are characterized by:
+
+o     rapid technological change;
+o     evolving industry standards;
+o     changes in customer requirements; and
+o     frequent new product introductions and enhancements, including
+      enhancements to certain key technology licensed from Microsoft.
+
+      These market characteristics will require us to continuously enhance our
+current products and develop and introduce new products to keep pace with
+technological developments and respond to evolving customer requirements.
+Additionally, we and others may announce new products, new product enhancements
+or technologies that could replace or shorten the life cycle of our existing
+product offerings.
+
+     We believe we will incur additional costs and royalties associated with the
+development, licensing or acquisition of new technologies or enhancements to
+existing products. This will increase our cost of revenues and operating
+expenses. We cannot currently quantify such increase with respect to
+transactions that have not occurred. We may use a substantial portion of our
+cash and investments to fund these additional costs, resulting in a decrease in
+interest income, unless such decrease is offset by cash flows from future
+operations.
+
+     We may need to hire additional personnel to develop new products, product
+enhancements and technologies and to fulfill our responsibilities under the
+terms of the Development Agreement. If we are unable to add staff and resources,
+future enhancement and additional features to our existing or future products
+may be delayed, which may have a material adverse effect on our business,
+results of operations and financial condition.
+
+IF OUR PRODUCTS CONTAIN ERRORS, THEY MAY BE COSTLY TO CORRECT, REVENUE MAY BE
+DELAYED, WE COULD GET SUED AND OUR REPUTATION COULD BE HARMED
+
+     Despite significant testing by us and by current and potential customers,
+new products may contain errors after commencement of commercial shipments.
+Additionally, our products depend upon certain third party products which may
+contain defects and could reduce the performance of our products or render them
+useless. Since our products are often used in mission-critical applications,
+errors in our products or the products of third parties upon which our products
+rely could give rise to warranty or other claims by our customers. The
+occurrence or discovery of these types of errors or failures could have a
+material adverse effect on our business, operating results and financial
+condition.
+
+
+
+                                       23
+<PAGE>   24
+
+
+
+OUR SUCCESS DEPENDS ON OUR ABILITY TO EXPAND AND MANAGE DISTRIBUTION CHANNELS
+AND MAJOR DISTRIBUTORS
+
+     We rely significantly on independent distributors and resellers for the
+marketing and distribution of our products. We do not control our distributors
+and resellers. Additionally, our distributors and resellers are not obligated to
+purchase products from us and may also represent other lines of products.
+
+OUR SUCCESS DEPENDS UPON OUR ABILITY TO EXPAND OUR DISTRIBUTION CHANNELS
+
+     We intend to leverage our relationships with hardware and software vendors
+and systems integrators to encourage them to recommend or distribute our
+products. In addition, an integral part of our strategy is to expand our large
+account channels and add third-party distributors both domestically and
+internationally. We are currently investing, and intend to continue to invest,
+significant resources to develop these channels, which could reduce our profits.
+
+OUR SUCCESS DEPENDS UPON OUR ABILITY TO ATTRACT LARGE ENTERPRISE CUSTOMERS
+
+     We intend to attract and service large enterprise customers by expanding
+our large account channels and offering consulting services. Our inability to
+attract large enterprise customers could have a material adverse effect on our
+business, operating results and financial condition. Additionally, large
+enterprise customers usually request special pricing and generally have longer
+sales cycles which could negatively impact our revenues. Further, as we attempt
+to attract large enterprise customers, we may need to increase corporate
+branding activities which will increase our operating expenses, but may not
+proportionally increase our operating revenues.
+
+OUR SUCCESS DEPENDS UPON BROAD-BASED ACCEPTANCE OF INTERNET-BASED BUSINESS
+SOFTWARE SOLUTIONS
+
+     We intend to leverage our relationships with application service providers
+("ASP") to encourage them to use our products in providing their solutions to
+end users. The ASP market is in its nascent stage of development but is evolving
+quickly. We cannot predict when or if the ASP market will fully evolve into a
+commercially viable market. We are currently investing, and intend to continue
+to invest, significant resources to develop these channels, which could reduce
+our profits.
+
+IF OUR GROWTH RATE DOES NOT CONTINUE OUR FINANCIAL CONDITION COULD BE AFFECTED
+
+     Our revenue growth rate in 2000 may not approach the levels attained in
+recent years. To the extent our revenue growth continues, we believe that our
+cost of revenues and certain operating expenses will also increase. A
+significant portion of our expenses, such as employee compensation and rent, are
+relatively fixed in the short term. Moreover, our expense levels are based, in
+part, on our expectations regarding future revenue levels. Our income from
+operations and cash flows from operating and investing activities may decrease
+as a percentage of revenues in 2000.
+
+
+
+                                       24
+<PAGE>   25
+
+
+
+OUR QUARTERLY OPERATING RESULTS MAY FLUCTUATE
+
+     Our quarterly operating results have in the past varied and may in the
+future vary significantly depending on a number of factors, including:
+
+o     the success of our MetaFrame products;
+o     the effects of acquisitions or licenses of additional technology;
+o     the size, timing and recognition of revenue from significant orders;
+o     increased competition;
+o     changes in our pricing policies or those of our competitors, including
+      Microsoft;
+o     new product introductions or enhancements by competitors;
+o     delays in the introduction of products or product enhancements by us or
+      our competitors;
+o     customer order deferrals in anticipation of upgrades and new products;
+o     market acceptance of new products and technologies offered by us;
+o     changes in operating expenses, including for the addition of personnel;
+o     foreign currency exchange rates; and
+o     general economic conditions.
+
+     We continually re-evaluate our programs, including specific license terms
+and conditions, to market our current and future products and services. We may
+implement new programs, including offering specified and unspecified
+enhancements to our current and future product lines. We may recognize revenues
+associated with such enhancements after the initial shipment or licensing of the
+software product or over the product's life cycle. We modified our licensing
+fees with certain customers to a per usage basis. We may implement a different
+licensing model, in certain circumstances, which would result in the recognition
+of licensing fees over a longer period which may result in decreasing revenue.
+The timing of the implementation of such programs, the timing of the release of
+such enhancements, the timing of the implementation of a new licensing
+arrangement and other factors will impact the timing of our recognition of
+revenues and related expenses associated with our products, related enhancements
+and services. As a result of these factors, we currently cannot quantify the
+impact of the re-evaluation of our programs on our business, results of
+operations and financial condition.
+
+     We operate with little order backlog because our software products
+typically are shipped shortly after orders are received. In addition, like many
+systems level software companies, we recognize a substantial portion of our
+revenues in the last month of a quarter, with these revenues frequently
+concentrated in the last weeks or days of the quarter. As a result, product
+revenues in any quarter are substantially dependent on orders booked and shipped
+in that quarter, and revenues for any future quarter are not predictable with
+any degree of certainty. We may also choose to reduce prices or increase
+spending in response to competition or to pursue new market opportunities. New
+competitors, technological advances or other factors could result in lower
+revenues and may require us to incur additional expenses, which, in turn, would
+materially adversely affect our operating margins in the future.
+
+INSUFFICIENT RESERVES FOR PRODUCT RETURNS AND PRICE REDUCTIONS COULD ADVERSELY
+AFFECT US
+
+     We provide certain of our distributors with product return rights for stock
+balancing or limited product evaluation. We also provide certain of our
+distributors with price protection rights. To cover these product returns and
+price protection rights, we have established reserves based on our evaluation of
+historical trends and current circumstances. These reserves may not prove to be
+sufficient in the future, in which case our business, operating results and
+financial condition could be adversely affected.
+
+
+
+
+                                       25
+<PAGE>   26
+
+
+
+
+OUR SUCCESS DEPENDS ON OUR ABILITY TO EXPAND AND MANAGE OUR INTERNATIONAL
+OPERATIONS
+
+     Our continued growth and profitability will require further expansion of
+our international operations. To successfully expand international sales, we
+must establish additional foreign operations, hire additional personnel and
+recruit additional international resellers. Such international operations are
+subject to certain risks, such as:
+
+o     difficulties in staffing and managing foreign operations;
+o     fluctuations in foreign currency exchange rates;
+o     compliance with foreign regulatory and market requirements;
+o     variability of foreign economic and political conditions;
+o     changing restrictions imposed by regulatory requirements, tariffs or other
+      trade barriers or by United States export laws;
+o     costs of localizing products and marketing such products in foreign
+      countries;
+o     longer accounts receivable payment cycles;
+o     potentially adverse tax consequences, including restrictions on
+      repatriation of earnings;
+o     difficulties in protecting intellectual property; and
+o     burdens of complying with a wide variety of foreign laws.
+
+ECONOMIC AND MARKET CONDITIONS MAY AFFECT DEMAND FOR OUR PRODUCTS
+
+     The demand for our products depends in part upon the general demand for
+computer hardware and software, which fluctuates based on numerous factors,
+including capital spending levels and general economic conditions. If capital
+spending levels or general economic conditions are affected, our business,
+financial condition and results of operations could be materially adversely
+affected.
+
+POSSIBLE VOLATILITY OF OUR COMMON STOCK PRICE
+
+     The market price for our common stock has been volatile and has fluctuated
+significantly to date. The trading price of our common stock is likely to
+continue to be highly volatile and subject to wide fluctuations in response to
+factors such as actual or anticipated variations in operating and financial
+results, anticipated revenue or earnings growth, analyst reports or
+recommendations and other events or factors, many of which are beyond our
+control. In addition, the stock market in general, and The Nasdaq National
+Market and the market for software companies and technology companies in
+particular, have experienced extreme price and volume fluctuations. These broad
+market and industry factors may materially and adversely affect the market price
+of the common stock, regardless of our actual operating performance. Following
+periods of volatility in the market price of a company's securities, securities
+class-action litigation has often been instituted against such companies. For
+example, on June 23, 2000, the Company and certain of its officers and directors
+were named as defendants in several securities class action lawsuits filed in
+the United States District Court for the Southern District of Florida. These
+actions, which were filed on behalf of purchasers of the Company's common stock
+during the period October 20, 1999 to June 9, 2000, generally allege that,
+during the class period, the defendants made misstatements to the investing
+public about the Company's financial condition and prospects. The complaints
+seek unspecified damages. The Company believes the plaintiffs' claims lack merit
+and intends to vigorously defend the lawsuits.
+
+
+
+                                       26
+<PAGE>   27
+
+
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     The following discussion about the Company's market risk includes
+"forward-looking statements" that involve risks and uncertainties. Actual
+results could differ materially from those projected in the forward-looking
+statements.
+
+     The Company does not use derivative financial instruments for speculative
+or trading purposes. The Company maintains a non-trading investment portfolio of
+investment grade, highly liquid, debt securities which limits the amount of
+credit exposure to any one issue, issuer, or type of instrument. The securities
+in the Company's investment portfolio are not leveraged and are generally
+classified as available-for-sale and therefore are subject to interest rate
+risk. The Company does not currently hedge interest rate exposure, however, the
+Board of Directors adopted a Foreign Exchange Risk Management Policy on July 27,
+2000. The modeling technique used measures the change in fair values arising
+from an immediate hypothetical shift in market interest rates and assumes ending
+fair values include principal plus accrued interest, dividends and reinvestment
+income. If market interest rates were to increase by 100 basis points from
+December 31, 1999 levels, the fair value of the portfolio would decline by
+approximately $4.5 million. If market interest rates were to increase by 100
+basis points from June 30, 2000 levels, the fair value of the portfolio would
+decline by approximately $3.1 million.
+
+
+
+                                       27
+<PAGE>   28
+
+
+
+                           PART II. OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+     In June 2000, the Company and certain of its officers and directors were
+named as defendants in several securities class action lawsuits filed in the
+United States District Court for the Southern District of Florida. These
+actions, which were filed on behalf of purchasers of the Company's common stock
+during the period October 20, 1999 to June 9, 2000, generally allege that,
+during the class period, the defendants made misstatements to the investing
+public about the Company's financial condition and prospects. The complaints
+seek unspecified damages. The Company believes the plaintiffs' claims lack merit
+and intends to vigorously defend the lawsuits.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     At the Company's annual meeting of stockholders held May 18, 2000 (the
+"2000 Annual Meeting"), the Company's stockholders took the following actions:
+
+(1)      The Company's stockholders elected Edward E. Iacobucci, Michael W.
+         Brown and John W. White, each as Class II directors, each to serve for
+         a three-year term expiring at the Company's annual meeting of
+         stockholders in 2003 or until his successor has been duly elected and
+         qualified or until his early resignation or removal. Election of the
+         directors was determined by a plurality of the votes cast at the 2000
+         Annual Meeting. With respect to such matter, the votes were cast as
+         follows: 163,070,436 shares voted for the election of Mr. Iacobucci;
+         163,204,753 shares voted for the election of Mr. Brown and 163,217,672
+         shares voted for the election of Mr. White; and 666,575 shares were
+         withheld from the election of Mr. Iacobucci; 532,258 shares were
+         withheld from the election of Mr. Brown and 519,339 shares were
+         withheld from the election of Mr. White. No other persons were
+         nominated, or received votes, for election as directors of the Company
+         at the 2000 Annual Meeting. The other directors of the Company whose
+         term of office continued after the annual meeting were: Robert N.
+         Goldman, Tyrone F. Pike, Roger W. Roberts, Mark B. Templeton, Kevin R.
+         Compton, and Stephen M. Dow.
+
+(2)      The Company's stockholders approved and adopted an amendment to the
+         Company's Amended and Restated Certificate of Incorporation, as
+         amended, to increase the number of authorized shares of the Company's
+         Common Stock, par value $0.001 per share, from 400,000,000 to
+         1,000,000,000 shares. With respect to such matter, the votes were cast
+         as follows: 139,634,051 shares voted for the proposal, 23,641,925
+         shares voted against the proposal and 461,035 shares abstained from
+         voting on the proposal.
+
+(3)      The Company's stockholders approved the Corporation's 2000 Director and
+         Officer Stock Option and Incentive Plan. With respect to such matter,
+         the votes were cast as follows: 68,240,919 shares voted for the
+         proposal, 57,398,893 voted against the proposal, 735,858 shares
+         abstained from voting on the proposal, and 35,842,601 shares did not
+         vote with respect to the proposal. The Company's annual meeting of
+         stockholders adjourned without voting on one proposal.
+
+     On June 2, 2000, the Company's annual meeting of stockholders was
+reconvened, and the Company's stockholders approved an amendment and restatement
+to the Corporation's 1995 Stock Plan increasing from 69,945,623 (adjusted for
+stock splits) to 80,000,000 the number of shares of Common stock available under
+
+
+
+
+
+
+                                       28
+<PAGE>   29
+
+
+
+
+the 1995 Stock Plan. With respect to such matter, the votes were cast as
+follows: 64,514,386 shares voted for the proposal, 63,147,895 shares voted
+against the proposal, 530,582 shares abstained from voting on the proposal, and
+35,699,908 shares did not vote with respect to the proposal.
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)   The exhibits, which are filed with this report as set forth on the Exhibit
+      Index appearing on page 31 of this report, are incorporated herein by this
+      reference.
+
+(b)   A report on Form 8-K was filed with the Securities and Exchange Commission
+      on June 23, 2000 with respect to:
+
+Item 5 - Other Events. To disclose several corporate changes, including changes
+in the management team and the resignation of certain directors from the Board
+of Directors.
+
+
+
+                                       29
+<PAGE>   30
+
+
+
+                                    SIGNATURE
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized on this 10th day of August 2000.
+
+                     CITRIX SYSTEMS, INC.
+
+                     By:  /s/  JOHN P. CUNNINGHAM
+                        ----------------------------------------------------
+                          John P. Cunningham
+                          Chief Financial Officer and Senior Vice-President
+                          of Finance and Administration
+                          (Authorized Officer and Principal Financial Officer)
+
+
+
+                                       30
+<PAGE>   31
+
+
+                                  EXHIBIT INDEX
+
+3, 4  Certificate of Amendment of the Amended and Restated Certificate of
+      Incorporation
+
+10.1  Second Amended and Restated 1995 Stock Plan
+
+10.2  Amended and Restated 2000 Director and Officer Stock Option and Incentive
+      Plan
+
+27.1  Financial Data Schedule
+
+
+
+
+
+
+
+                                       31
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.4
+<SEQUENCE>2
+<FILENAME>ex3-4.txt
+<DESCRIPTION>CERTIFICATE OF INCORPORATION
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 3, 4
+
+                            CERTIFICATE OF AMENDMENT
+                                       OF
+                              AMENDED AND RESTATED
+                          CERTIFICATE OF INCORPORATION
+                                       OF
+                              CITRIX SYSTEMS, INC.
+
+         Citrix Systems, Inc. (the "Corporation"), a corporation organized and
+existing under and by virtue of the General Corporation Law of the State of
+Delaware, DOES HEREBY CERTIFY:
+
+FIRST:   That the Board of Directors of the Corporation adopted resolutions
+         proposing and declaring advisable the following amendments to the
+         Amended and Restated Certificate of Incorporation of the Corporation:
+
+         RESOLVED:   That the first paragraph of Article FOURTH of the
+                     Corporation's Amended and Restated Certificate of
+                     Incorporation as amended to date shall be amended to read
+                     in its entirety as follows:
+
+                  "FOURTH. The total number of shares of all classes of capital
+         stock which the Corporation shall have authority to issue is
+         1,005,000,000 shares, consisting of 1,000,000,000 shares of Common
+         Stock with a par value of $.001 per share (the "Common Stock") and
+         5,000,000 shares of Preferred Stock with a par value of $.01 per share
+         (the "Preferred Stock")."
+
+SECOND:  The foregoing amendment to this Amended and Restated Certificate of
+         Incorporation of the Corporation was duly adopted by vote of the
+         stockholders of the Corporation in accordance with the applicable
+         provisions of Sections 242 of the General Corporation Law of the State
+         of Delaware.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+<PAGE>   2
+
+
+
+                                      - 2 -
+
+
+
+         IN WITNESS WHEREOF, the Corporation has caused this Certificate of
+Amendment to be executed by John P. Cunningham, its Chief Financial Officer this
+15th day of June, 2000.
+
+                                               CITRIX SYSTEMS, INC.
+
+                                               By:    /s/ JOHN P. CUNNINGHAM
+                                                      -------------------------
+                                                     John P. Cunningham
+                                                     Chief Financial Officer
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>ex10-1.txt
+<DESCRIPTION>2ND AMENDED & RESTATED 1995 STOCK PLAN
+<TEXT>
+
+<PAGE>   1
+                                                                    EXHIBIT 10.1
+
+                              CITRIX SYSTEMS, INC.
+
+                           SECOND AMENDED AND RESTATED
+                                 1995 STOCK PLAN
+
+
+         1. PURPOSE. The purpose of the Citrix Systems, Inc. Amended and
+Restated 1995 Stock Plan (the "Plan") is to encourage key employees of Citrix
+Systems, Inc. (the "Company") and of any present or future parent or subsidiary
+of the Company (collectively, "Related Corporations") and other individuals who
+render services to the Company or a Related Corporation, by providing
+opportunities to participate in the ownership of the Company and its future
+growth through (a) the grant of options which qualify as "incentive stock
+options" ("ISOs") under Section 422(b) of the Internal Revenue Code of 1986, as
+amended (the "Code"); (b) the grant of options which do not qualify as ISOs
+("Non-Qualified Options"); (c) awards of stock in the Company ("Awards"); and
+(d) opportunities to make direct purchases of stock in the Company
+("Purchases"). Both ISOs and Non-Qualified Options are referred to hereafter
+individually as an "Option" and collectively as "Options." Options, Awards and
+authorizations to make Purchases are referred to hereafter collectively as
+"Stock Rights." As used herein, the terms "parent" and "subsidiary" mean "parent
+corporation" and "subsidiary corporation," respectively, as those terms are
+defined in Section 424 of the Code.
+
+         2. ADMINISTRATION OF THE PLAN.
+
+                  A. BOARD OR COMMITTEE ADMINISTRATION. The Plan shall be
+         administered by the Board of Directors of the Company (the "Board") or
+         by a committee appointed by the Board (the "Committee"); provided that
+         the Plan shall be administered: (i) to the extent required by
+         applicable regulations under Section 162(m) of the Code, by two or more
+         "outside directors" (as defined in applicable regulations thereunder)
+         and (ii) to the extent required by Rule 16b-3 promulgated under the
+         Securities Exchange Act of 1934 or any successor provision ("Rule
+         16b-3"), by a disinterested administrator or administrators within the
+         meaning of Rule 16b-3. Hereinafter, all references in this Plan to the
+         "Committee" shall mean the Board if no Committee has been appointed.
+         Subject to ratification of the grant or authorization of each Stock
+         Right by the Board (if so required by applicable state law), and
+         subject to the terms of the Plan, the Committee shall have the
+         authority to (i) determine to whom (from among the class of employees
+         eligible under paragraph 3 to receive ISOs) ISOs shall be granted, and
+         to whom (from among the class of individuals and entities eligible
+         under paragraph 3 to receive Non-Qualified Options and Awards and to
+         make Purchases) Non-Qualified Options, Awards and authorizations to
+         make Purchases may be granted; (ii) determine the time or times at
+         which Options or Awards shall be granted or Purchases made; (iii)
+         determine the purchase price of shares subject to each Option or
+         Purchase, which prices shall not be less than the minimum price
+         specified in paragraph 6; (iv) determine whether each Option granted
+         shall be an ISO or a Non-Qualified Option; (v) determine (subject to
+         paragraph 7) the time or times when each Option shall become
+         exercisable and the duration of the exercise period; (vi) extend
+
+
+
+<PAGE>   2
+                                      -2-
+
+
+         the period during which outstanding Options may be exercised; (vii)
+         determine whether restrictions such as repurchase options are to be
+         imposed on shares subject to Options, Awards and Purchases and the
+         nature of such restrictions, if any, and (viii) interpret the Plan and
+         prescribe and rescind rules and regulations relating to it. If the
+         Committee determines to issue a Non-Qualified Option, it shall take
+         whatever actions it deems necessary, under Section 422 of the Code and
+         the regulations promulgated thereunder, to ensure that such Option is
+         not treated as an ISO. The interpretation and construction by the
+         Committee of any provisions of the Plan or of any Stock Right granted
+         under it shall be final unless otherwise determined by the Board. The
+         Committee may from time to time adopt such rules and regulations for
+         carrying out the Plan as it may deem advisable. No member of the Board
+         or the Committee shall be liable for any action or determination made
+         in good faith with respect to the Plan or any Stock Right granted under
+         it.
+
+                  B. COMMITTEE ACTIONS. The Committee may select one of its
+         members as its chairman, and shall hold meetings at such time and
+         places as it may determine. A majority of the Committee shall
+         constitute a quorum and acts of a majority of the members of the
+         Committee at a meeting at which a quorum is present, or acts reduced to
+         or approved in writing by all the members of the Committee (if
+         consistent with applicable state law), shall be the valid acts of the
+         Committee. From time to time the Board may increase the size of the
+         Committee and appoint additional members thereof, remove members (with
+         or without cause) and appoint new members in substitution therefor,
+         fill vacancies however caused, or remove all members of the Committee
+         and thereafter directly administer the Plan.
+
+                  C. GRANT OF STOCK RIGHTS TO BOARD MEMBERS. Subject to the
+         provisions of the first sentence of paragraph 2(A) above, if
+         applicable, Stock Rights may be granted to members of the Board. All
+         grants of Stock Rights to members of the Board shall in all other
+         respects be made in accordance with the provisions of this Plan
+         applicable to other eligible persons. Consistent with the provisions of
+         the first sentence of Paragraph 2(A) above, members of the Board who
+         either (i) are eligible to receive grants of Stock Rights pursuant to
+         the Plan or (ii) have been granted Stock Rights may vote on any matters
+         affecting the administration of the Plan or the grant of any Stock
+         Rights pursuant to the Plan, except that no such member shall act upon
+         the granting to himself or herself of Stock Rights, but any such member
+         may be counted in determining the existence of a quorum at any meeting
+         of the Board during which action is taken with respect to the granting
+         to such member of Stock Rights.
+
+         3. ELIGIBLE EMPLOYEES AND OTHERS. ISOs may be granted only to employees
+of the Company or any Related Corporation. Non-Qualified Options, Awards and
+authorizations to make Purchases may be granted to any employee, officer or
+director (whether or not also an employee) or consultant of the Company or any
+Related Corporation. The Committee may take into consideration a recipient's
+individual circumstances in determining whether to grant a Stock Right. The
+granting of any Stock Right to any individual or entity shall neither entitle
+that individual or entity to, nor disqualify such individual or entity from,
+participation in any other grant of Stock Rights.
+
+
+
+
+<PAGE>   3
+                                      -3-
+
+
+         4. STOCK. The stock subject to Stock Rights shall be authorized but
+unissued shares of Common Stock of the Company, par value $0.001 per share (the
+"Common Stock"), or shares of Common Stock reacquired by the Company in any
+manner. Subject to adjustment as provided in paragraph 13, the aggregate number
+of shares which may be issued pursuant to the Plan is 80,000,000 (as adjusted
+for stock splits which occurred prior to the amendment and restatement of this
+Plan) plus, effective as of January 1, 2001 and each year thereafter, a number
+of shares of Common Stock equal to five percent (5%) of the total number of
+shares of Common Stock issued and outstanding as of the close of business on
+December 31 of the preceding year. If any Stock Right granted under the Plan
+shall expire or terminate for any reason without having been exercised in full
+or shall cease for any reason to be exercisable in whole or in part or shall be
+repurchased by the Company, the shares of Common Stock subject to such Stock
+Right shall again be available for grants of Stock Rights under the Plan.
+Notwithstanding anything to the contrary in this paragraph 4, no more than an
+aggregate of 60,000,000 shares of Common Stock (as adjusted for stock splits
+which occurred prior to the amendment and restatement of this Plan) may be
+issued pursuant to the exercise of ISOs granted under the Plan (including shares
+issued pursuant to the exercise of ISOs granted under the Plan that are the
+subject of disqualifying dispositions within the meaning of Sections 421, 422
+and 424 of the Code and the regulations thereunder).
+
+         No employee of the Company or any Related Corporation may be granted
+Options to acquire, in the aggregate, more than 2,000,000 shares of Common Stock
+(as adjusted for stock splits which occurred prior to the amendment and
+restatement of this Plan) under the Plan during any fiscal year of the Company.
+If any Option granted under the Plan shall expire or terminate for any reason
+without having been exercised in full or shall cease for any reason to be
+exercisable in whole or in part or shall be repurchased by the Company, the
+shares subject to such Option shall be included in the determination of the
+aggregate number of shares of Common Stock deemed to have been granted to such
+employee under the Plan.
+
+         5. GRANTING OF STOCK RIGHTS. Stock Rights may be granted under the Plan
+at any time on or after September 28, 1995 and prior to September 29, 2005. The
+date of grant of a Stock Right under the Plan will be the date specified by the
+Committee at the time it grants the Stock Right; provided, however, that such
+date shall not be prior to the date on which the Committee acts to approve the
+grant. Options granted under the Plan are intended to qualify as
+performance-based compensation to the extent required under Proposed Treasury
+Regulation Section 1.162-27.
+
+         6. MINIMUM OPTION PRICE; ISO LIMITATIONS; OTHER LIMITATIONS.
+
+                  A. PRICE FOR NON-QUALIFIED OPTIONS, AWARDS AND PURCHASES. The
+         exercise price per share specified in the agreement relating to each
+         Non-Qualified Option granted shall not be less than the fair market
+         value per share of Common Stock on the date of such grant, PROVIDED
+         HOWEVER, that if option is expressly granted in lieu of a reasonable
+         amount of salary or cash bonus, the exercise price per share specified
+         in the agreement relating to each such Non-Qualified Option may be
+         equal to or greater than 85% of the
+
+
+
+
+<PAGE>   4
+                                      -4-
+
+
+         fair market value per share of Common Stock on the date of such grant.
+         The purchase price per share of stock granted in any Award or
+         authorized as a Purchase, under the Plan shall in no event be less than
+         the minimum legal consideration required therefor under the laws of any
+         jurisdiction in which the Company or its successors in interest may be
+         organized.
+
+                  B. PRICE FOR ISOs. The exercise price per share specified in
+         the agreement relating to each ISO granted under the Plan shall not be
+         less than the fair market value per share of Common Stock on the date
+         of such grant. In the case of an ISO to be granted to an employee
+         owning stock possessing more than ten percent (10%) of the total
+         combined voting power of all classes of stock of the Company or any
+         Related Corporation, the price per share specified in the agreement
+         relating to such ISO shall not be less than one hundred ten percent
+         (110%) of the fair market value per share of Common Stock on the date
+         of grant. For purposes of determining stock ownership under this
+         paragraph, the rules of Section 424(d) of the Code shall apply.
+
+                  C. $100,000 ANNUAL LIMITATION ON ISO VESTING. Each eligible
+         employee may be granted Options treated as ISOs only to the extent
+         that, in the aggregate under this Plan and all incentive stock option
+         plans of the Company and any Related Corporation, ISOs do not become
+         exercisable for the first time by such employee during any calendar
+         year with respect to stock having a fair market value (determined at
+         the time the ISOs were granted) in excess of $100,000. The Company
+         intends to designate any Options granted in excess of such limitation
+         as Non-Qualified Options.
+
+                  D. DETERMINATION OF FAIR MARKET VALUE. If, at the time an
+         Option is granted under the Plan, the Company's Common Stock is
+         publicly traded, "fair market value" shall be determined as of the date
+         of grant or, if the prices or quotes discussed in this sentence are
+         unavailable for such date, the last business day for which such prices
+         or quotes are available prior to the date of grant and shall mean (i)
+         the average (on that date) of the high and low prices of the Common
+         Stock on the principal national securities exchange on which the Common
+         Stock is traded, if the Common Stock is then traded on a national
+         securities exchange; or (ii) the last reported sale price (on that
+         date) of the Common Stock on the Nasdaq Stock Market, if the Common
+         Stock is not then traded on a national securities exchange; or (iii)
+         the closing bid price (or average of bid prices) last quoted (on that
+         date) by an established quotation service for over-the-counter
+         securities, if the Common Stock is not reported on the Nasdaq Stock
+         Market. If the Common Stock is not publicly traded at the time an
+         Option is granted under the Plan, "fair market value" shall mean the
+         fair value of the Common Stock as determined by the Committee after
+         taking into consideration all factors which it deems appropriate,
+         including, without limitation, recent sale and offer prices of the
+         Common Stock in private transactions negotiated at arm's length.
+
+                  E. RESTRICTED STOCK LIMITATIONS. Awards of restricted stock
+         shall be subject to a vesting schedule of a minimum of three years,
+         PROVIDED HOWEVER, that an Award of
+
+
+
+<PAGE>   5
+                                      -5-
+
+
+         restricted stock subject to a performance based vesting schedule may be
+         subject to a vesting schedule of a minimum of one year.
+
+                  F. PROHIBITION ON REPRICING AND REGRANTS. No Option shall be
+         repriced, or terminated and subsequently regranted, at a lower purchase
+         price per share than the original grant, without the prior affirmative
+         vote of a majority of the shares of stock of the Company present at a
+         stockholders' meeting in person or by proxy and entitled to vote
+         thereon.
+
+         7. OPTION DURATION. Subject to earlier termination as provided in
+paragraphs 9 and 10 or in the agreement relating to such Option, each Option
+shall expire on the date specified by the Committee, but not more than (i) ten
+years from the date of grant in the case of Options generally and (ii) five
+years from the date of grant in the case of ISOs granted to an employee owning
+stock possessing more than ten percent (10%) of the total combined voting power
+of all classes of stock of the Company or any Related Corporation, as determined
+under paragraph 6(B). Subject to earlier termination as provided in paragraphs 9
+and 10, the term of each ISO shall be the term set forth in the original
+instrument granting such ISO, except with respect to any part of such ISO that
+is converted into a Non-Qualified Option pursuant to paragraph 16.
+
+         8. EXERCISE OF OPTION. Subject to the provisions of paragraphs 9
+through 12, each Option granted under the Plan shall be exercisable as follows:
+
+                  A. VESTING. The Option shall either be fully exercisable on
+         the date of grant or shall become exercisable thereafter in such
+         installments as the Committee may specify.
+
+                  B. FULL VESTING OF INSTALLMENTS. Once an installment becomes
+         exercisable it shall remain exercisable until expiration or termination
+         of the Option, unless otherwise specified by the Committee.
+
+                  C. PARTIAL EXERCISE. Each Option or installment may be
+         exercised at any time or from time to time, in whole or in part, for up
+         to the total number of shares with respect to which it is then
+         exercisable.
+
+                  D. ACCELERATION OF VESTING. The Committee shall have the right
+         to accelerate the date that any installment of any Option becomes
+         exercisable; provided that the Committee shall not, without the consent
+         of an optionee, accelerate the permitted exercise date of any
+         installment of any Option granted to any employee as an ISO (and not
+         previously converted into a Non-Qualified Option pursuant to paragraph
+         16) if such acceleration would violate the annual vesting limitation
+         contained in Section 422(d) of the Code, as described in paragraph
+         6(C).
+
+         9. TERMINATION OF EMPLOYMENT. Unless otherwise specified in the
+agreement relating to such ISO, if an ISO optionee ceases to be employed by the
+Company and all Related Corporations other than by reason of death or disability
+as defined in paragraph 10, no further
+
+
+
+<PAGE>   6
+                                      -6-
+
+
+installments of his or her ISOs shall become exercisable, and his or her ISOs
+shall terminate on the earlier of (a) ninety (90) days after the date of
+termination of his or her employment, or (b) their specified expiration dates,
+except to the extent that such ISOs (or unexercised installments thereof) have
+been converted into Non-Qualified Options pursuant to paragraph 16. For purposes
+of this paragraph 9, employment shall be considered as continuing uninterrupted
+during any bona fide leave of absence (such as those attributable to illness,
+military obligations or governmental service) provided that the period of such
+leave does not exceed 90 days or, if longer, any period during which such
+optionee's right to reemployment is guaranteed by statute. A bona fide leave of
+absence with the written approval of the Committee shall not be considered an
+interruption of employment under this paragraph 9, provided that such written
+approval contractually obligates the Company or any Related Corporation to
+continue the employment of the optionee after the approved period of absence.
+ISOs granted under the Plan shall not be affected by any change of employment
+within or among the Company and Related Corporations, so long as the optionee
+continues to be an employee of the Company or any Related Corporation. Nothing
+in the Plan shall be deemed to give any grantee of any Stock Right the right to
+be retained in employment or other service by the Company or any Related
+Corporation for any period of time.
+
+         10. DEATH; DISABILITY.
+
+                  A. DEATH. If an ISO optionee ceases to be employed by the
+         Company and all Related Corporations by reason of his or her death, any
+         ISO owned by such optionee may be exercised, to the extent otherwise
+         exercisable on the date of death, by the estate, personal
+         representative or beneficiary who has acquired the ISO by will or by
+         the laws of descent and distribution, until the earlier of (i) the
+         specified expiration date of the ISO or (ii) 180 days from the date of
+         the optionee's death.
+
+                  B. DISABILITY. If an ISO optionee ceases to be employed by the
+         Company and all Related Corporations by reason of his or her
+         disability, such optionee shall have the right to exercise any ISO held
+         by him or her on the date of termination of employment, for the number
+         of shares for which he or she could have exercised it on that date,
+         until the earlier of (i) the specified expiration date of the ISO or
+         (ii) 180 days from the date of the termination of the optionee's
+         employment. For the purposes of the Plan, the term "disability" shall
+         mean "permanent and total disability" as defined in Section 22(e)(3) of
+         the Code or any successor statute.
+
+         11. ASSIGNABILITY. No Stock Right shall be assignable or transferable
+by the grantee except by will, by the laws of descent and distribution or, in
+the case of Non-Qualified Options only, pursuant to a valid domestic relations
+order. Except as set forth in the previous sentence, during the lifetime of a
+grantee each Stock Right shall be exercisable only by such grantee.
+
+         12. TERMS AND CONDITIONS OF OPTIONS. Options shall be evidenced by
+instruments (which need not be identical) in such forms as the Committee may
+from time to time approve. Such instruments shall conform to the terms and
+conditions set forth in paragraphs 6 through 11 hereof and may contain such
+other provisions as the Committee deems advisable which are not
+
+
+
+<PAGE>   7
+                                      -7-
+
+
+inconsistent with the Plan, including restrictions applicable to shares of
+Common Stock issuable upon exercise of Options. The Committee may specify that
+any Non-Qualified Option shall be subject to the restrictions set forth herein
+with respect to ISOs, or to such other termination and cancellation provisions
+as the Committee may determine. The Committee may from time to time confer
+authority and responsibility on one or more of its own members and/or one or
+more officers of the Company to execute and deliver such instruments. The proper
+officers of the Company are authorized and directed to take any and all action
+necessary or advisable from time to time to carry out the terms of such
+instruments.
+
+         13. ADJUSTMENTS. Upon the occurrence of any of the following events, an
+optionee's rights with respect to Options granted to such optionee hereunder
+shall be adjusted as hereinafter provided, unless otherwise specifically
+provided in the written agreement between the optionee and the Company relating
+to such Option:
+
+                  A. STOCK DIVIDENDS AND STOCK SPLITS. If the shares of Common
+         Stock shall be subdivided or combined subsequent to the amendment and
+         restatement of this Plan into a greater or smaller number of shares or
+         if the Company shall issue any shares of Common Stock as a stock
+         dividend on its outstanding Common Stock, the number of shares of
+         Common Stock deliverable upon the exercise of Options shall be
+         appropriately increased or decreased proportionately, and appropriate
+         adjustments shall be made in the purchase price per share to reflect
+         such subdivision, combination or stock dividend.
+
+                  B. CONSOLIDATIONS OR MERGERS. If the Company is to be
+         consolidated with or acquired by another entity in a merger, sale of
+         all or substantially all of the Company's assets or otherwise (an
+         "Acquisition"), the Committee or the board of directors of any entity
+         assuming the obligations of the Company hereunder (the "Successor
+         Board"), shall, as to outstanding Options, either (i) make appropriate
+         provision for the continuation of such Options by substituting on an
+         equitable basis for the shares then subject to such Options either (a)
+         the consideration payable with respect to the outstanding shares of
+         Common Stock in connection with the Acquisition, (b) shares of stock of
+         the surviving corporation or (c) such other securities as the Successor
+         Board deems appropriate, the fair market value of which shall not
+         materially exceed the fair market value of the shares of Common Stock
+         subject to such Options immediately preceding the Acquisition; or (ii)
+         upon written notice to the optionees, provide that all Options must be
+         exercised, to the extent then exercisable, within a specified number of
+         days of the date of such notice, at the end of which period the Options
+         shall terminate; or (iii) terminate all Options in exchange for a cash
+         payment equal to the excess of the fair market value of the shares
+         subject to such Options (to the extent then exercisable) over the
+         exercise price thereof.
+
+                  C. RECAPITALIZATION OR REORGANIZATION. In the event of a
+         recapitalization or reorganization of the Company (other than a
+         transaction described in subparagraph B above) pursuant to which
+         securities of the Company or of another corporation are issued with
+         respect to the outstanding shares of Common Stock, an optionee upon
+         exercising an Option shall be entitled to receive for the purchase
+         price paid upon such exercise the
+
+
+
+<PAGE>   8
+                                      -8-
+
+
+         securities he or she would have received if he or she had exercised
+         such Option prior to such recapitalization or reorganization.
+
+                  D. MODIFICATION OF ISOs. Notwithstanding the foregoing, any
+         adjustments made pursuant to subparagraphs A, B or C with respect to
+         ISOs shall be made only after the Committee, after consulting with
+         counsel for the Company, determines whether such adjustments would
+         constitute a "modification" of such ISOs (as that term is defined in
+         Section 424 of the Code) or would cause any adverse tax consequences
+         for the holders of such ISOs. If the Committee determines that such
+         adjustments made with respect to ISOs would constitute a modification
+         of such ISOs or would cause adverse tax consequences to the holders, it
+         may refrain from making such adjustments.
+
+                  E. DISSOLUTION OR LIQUIDATION. In the event of the proposed
+         dissolution or liquidation of the Company, each Option will terminate
+         immediately prior to the consummation of such proposed action or at
+         such other time and subject to such other conditions as shall be
+         determined by the Committee.
+
+                  F. ISSUANCES OF SECURITIES. Except as expressly provided
+         herein, no issuance by the Company of shares of stock of any class, or
+         securities convertible into shares of stock of any class, shall affect,
+         and no adjustment by reason thereof shall be made with respect to, the
+         number or price of shares subject to Options. No adjustments shall be
+         made for dividends paid in cash or in property other than securities of
+         the Company.
+
+                  G. FRACTIONAL SHARES. No fractional shares shall be issued
+         under the Plan and the optionee shall receive from the Company cash in
+         lieu of such fractional shares.
+
+                  H. ADJUSTMENTS. Upon the happening of any of the events
+         described in subparagraphs A, B or C above, the class and aggregate
+         number of shares set forth in paragraph 4 hereof that are subject to
+         Stock Rights which previously have been or subsequently may be granted
+         under the Plan shall also be appropriately adjusted to reflect the
+         events described in such subparagraphs. The Committee or the Successor
+         Board shall determine the specific adjustments to be made under this
+         paragraph 13 and, subject to paragraph 2, its determination shall be
+         conclusive.
+
+         14. MEANS OF EXERCISING OPTIONS. An Option (or any part or installment
+thereof) shall be exercised by giving written notice to the Company at its
+principal office address, or to such transfer agent as the Company shall
+designate. Such notice shall identify the Option being exercised and specify the
+number of shares as to which such Option is being exercised, accompanied by full
+payment of the purchase price therefor either (a) in United States dollars in
+cash or by check, (b) at the discretion of the Committee, through delivery of
+shares of Common Stock having a fair market value equal as of the date of the
+exercise to the cash exercise price of the Option, (c) at the discretion of the
+Committee, by delivery of the grantee's personal recourse note bearing interest
+payable not less than annually at no less than 100% of the lowest applicable
+Federal rate, as defined in Section 1274(d) of the Code, (d) at the discretion
+of the Committee and consistent with applicable law, through the delivery of an
+assignment to the Company of a
+
+
+
+<PAGE>   9
+                                      -9-
+
+
+sufficient amount of the proceeds from the sale of the Common Stock acquired
+upon exercise of the Option and an authorization to the broker or selling agent
+to pay that amount to the Company, which sale shall be at the participant's
+direction at the time of exercise, or (e) at the discretion of the Committee, by
+any combination of (a), (b), (c) and (d) above. If the Committee exercises its
+discretion to permit payment of the exercise price of an ISO by means of the
+methods set forth in clauses (b), (c), (d) or (e) of the preceding sentence,
+such discretion shall be exercised in writing at the time of the grant of the
+ISO in question. The holder of an Option shall not have the rights of a
+shareholder with respect to the shares covered by such Option until the date of
+issuance of a stock certificate to such holder for such shares. Except as
+expressly provided above in paragraph 13 with respect to changes in
+capitalization and stock dividends, no adjustment shall be made for dividends or
+similar rights for which the record date is before the date such stock
+certificate is issued.
+
+         15. TERM AND AMENDMENT OF PLAN. This Plan was adopted by the Board on
+September 28, 1995, subject, with respect to the validation of ISOs granted
+under the Plan, to approval of the Plan by the stockholders of the Company at
+the next Meeting of Stockholders or, in lieu thereof, by written consent. If the
+approval of stockholders is not obtained prior to September 28, 1996, any grants
+of ISOs under the Plan made prior to that date will be rescinded. The Plan shall
+expire at the end of the day on September 27, 2005 (except as to Options
+outstanding on that date). Subject to the provisions of paragraph 5 above,
+Options may be granted under the Plan prior to the date of stockholder approval
+of the Plan. The Board may terminate or amend the Plan in any respect at any
+time, except that, without the approval of the stockholders obtained within 12
+months before or after the Board adopts a resolution authorizing any of the
+following actions: (a) the total number of shares that may be issued under the
+Plan may not be increased (except by adjustment pursuant to paragraph 13); (b)
+the benefits accruing to participants under the Plan may not be materially
+increased; (c) the requirements as to eligibility for participation in the Plan
+may not be materially modified; (d) the provisions of paragraph 3 regarding
+eligibility for grants of ISOs may not be modified; (e) the provisions of
+paragraph 6(B) regarding the exercise price at which shares may be offered
+pursuant to ISOs may not be modified (except by adjustment pursuant to paragraph
+13); (f) the expiration date of the Plan may not be extended; (g) the Board may
+not take any action which would cause the Plan to fail to comply with Rule
+16b-3, and (h) the provisions of paragraph 6(F) regarding the prohibition on
+repricing and regrant of Options may not be modified. Except as otherwise
+provided in this paragraph 15, in no event may action of the Board or
+stockholders alter or impair the rights of a grantee, without such grantee's
+consent, under any Option previously granted to such grantee.
+
+         16. CONVERSION OF ISOs INTO NON-QUALIFIED OPTIONS. The Committee, at
+the written request or with the written consent of any optionee, may in its
+discretion take such actions as may be necessary to convert such optionee's ISOs
+(or any installments or portions of installments thereof) that have not been
+exercised on the date of conversion into Non-Qualified Options at any time prior
+to the expiration of such ISOs, regardless of whether the optionee is an
+employee of the Company or a Related Corporation at the time of such conversion.
+Such actions may include, but shall not be limited to, extending the exercise
+period or reducing the exercise price of the appropriate installments of such
+ISOs. At the time of such conversion, the
+
+
+
+<PAGE>   10
+                                      -10-
+
+
+Committee (with the consent of the optionee) may impose such conditions on the
+exercise of the resulting Non-Qualified Options as the Committee in its
+discretion may determine, provided that such conditions shall not be
+inconsistent with this Plan. Nothing in the Plan shall be deemed to give any
+optionee the right to have such optionee's ISOs converted into Non-Qualified
+Options, and no such conversion shall occur until and unless the Committee takes
+appropriate action.
+
+         17. APPLICATION OF FUNDS. The proceeds received by the Company from the
+sale of shares pursuant to Options granted and Purchases authorized under the
+Plan shall be used for general corporate purposes.
+
+         18. NOTICE TO COMPANY OF DISQUALIFYING DISPOSITION. By accepting an ISO
+granted under the Plan, each optionee agrees to notify the Company in writing
+immediately after such optionee makes a Disqualifying Disposition (as described
+in Sections 421, 422 and 424 of the Code and regulations thereunder) of any
+stock acquired pursuant to the exercise of ISOs granted under the Plan. A
+Disqualifying Disposition is generally any disposition occurring on or before
+the later of (a) the date two years following the date the ISO was granted or
+(b) the date one year following the date the ISO was exercised.
+
+         19. WITHHOLDING OF ADDITIONAL INCOME TAXES. Upon the exercise of a
+Non-Qualified Option, the grant of an Award, the making of a Purchase of Common
+Stock for less than its fair market value, the making of a Disqualifying
+Disposition (as defined in paragraph 18), the vesting or transfer of restricted
+stock or securities acquired on the exercise of an Option hereunder, or the
+making of a distribution or other payment with respect to such stock or
+securities, the Company may withhold taxes in respect of amounts that constitute
+compensation includable in gross income. The Committee in its discretion may
+condition (i) the exercise of an Option, (ii) the grant of an Award, (iii) the
+making of a Purchase of Common Stock for less than its fair market value, or
+(iv) the vesting or transferability of restricted stock or securities acquired
+by exercising an Option, on the grantee's making satisfactory arrangement for
+such withholding. Such arrangement may include payment by the grantee in cash or
+by check of the amount of the withholding taxes or, at the discretion of the
+Committee, by the grantee's delivery of previously held shares of Common Stock
+or the withholding from the shares of Common Stock otherwise deliverable upon
+exercise of a Option shares having an aggregate fair market value equal to the
+amount of such withholding taxes.
+
+         20. GOVERNMENTAL REGULATION. The Company's obligation to sell and
+deliver shares of the Common Stock under this Plan is subject to the approval of
+any governmental authority required in connection with the authorization,
+issuance or sale of such shares.
+
+         Government regulations may impose reporting or other obligations on the
+Company with respect to the Plan. For example, the Company may be required to
+send tax information statements to employees and former employees that exercise
+ISOs under the Plan, and the Company may be required to file tax information
+returns reporting the income received by grantees of Options in connection with
+the Plan.
+
+
+
+<PAGE>   11
+                                      -11-
+
+
+         21. GOVERNING LAW. The validity and construction of the Plan and the
+instruments evidencing Options shall be governed by the laws of the State of
+Delaware, or the laws of any jurisdiction in which the Company or its successors
+in interest may be organized.
+
+
+Date Approved by the Board of Directors of the Company:  September 28, 1995
+Date Approved by Stockholders of the Company:  October 16, 1995
+
+Date Amendment and Restatement Approved by the Board of Directors
+         of the Company:  March 10, 2000
+Date Amendment and Restatement Approved by the Stockholders
+         of the Company:  May 18, 2000
+
+Date Second Amendment and Restatement Approved by the Board of Directors
+         of the Company:  July 27, 2000
+No Stockholder approval required
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>ex10-2.txt
+<DESCRIPTION>AMENDED & RESTATED DIRECTOR & OFFICE STOCK OPTION
+<TEXT>
+
+<PAGE>   1
+                                                                    Exhibit 10.2
+
+
+                              CITRIX SYSTEMS, INC.
+
+                              AMENDED AND RESTATED
+            2000 DIRECTOR AND OFFICER STOCK OPTION AND INCENTIVE PLAN
+
+1.       PURPOSE AND ELIGIBILITY
+
+         The purpose of this 2000 Director and Officer Stock Option and
+Incentive Plan (the "PLAN") of Citrix Systems, Inc. (the "COMPANY") is to
+provide stock options and other equity interests in the Company (each an
+"AWARD") to officers and directors of the Company and its Subsidiaries, all of
+whom are eligible to receive Awards under the Plan. Any person to whom an Award
+has been granted under the Plan is called a "PARTICIPANT". Additional
+definitions are contained in Section 8.
+
+2.       ADMINISTRATION
+
+         a. ADMINISTRATION BY BOARD OF DIRECTORS. The Plan will be administered
+by the Board of Directors of the Company (the "BOARD"). The Board, in its sole
+discretion, shall have the authority to grant and amend Awards, to adopt, amend
+and repeal rules relating to the Plan and to interpret and correct the
+provisions of the Plan and any Award. All decisions by the Board shall be final
+and binding on all interested persons. Neither the Company nor any member of the
+Board shall be liable for any action or determination relating to the Plan.
+
+         b. APPOINTMENT OF COMMITTEES. To the extent permitted by applicable
+law, the Board may delegate any or all of its powers under the Plan to one or
+more committees or subcommittees of the Board (a "COMMITTEE"). All references in
+the Plan to the "BOARD" shall mean such Committee or the Board.
+
+         c. DELEGATION TO EXECUTIVE OFFICERS. To the extent permitted by
+applicable law, the Board may delegate to one or more executive officers of the
+Company the power to grant Awards and exercise such other powers under the Plan
+as the Board may determine, PROVIDED THAT the Board shall fix the maximum number
+of Awards to be granted and the maximum number of shares issuable to any one
+Participant pursuant to Awards granted by such executive officers.
+
+3.       STOCK AVAILABLE FOR AWARDS
+
+         a. NUMBER OF SHARES. Subject to adjustment under Section 3(c), the
+aggregate number of shares of Common Stock of the Company (the "COMMON STOCK")
+that may be issued pursuant to the Plan is 4,000,000 shares plus, effective as
+of January 1, 2001 and each year thereafter, a number of shares of Common Stock
+equal to one-half of one percent (.5%) of the total number of shares of Common
+Stock issued and outstanding as of the close of business on December 31 of the
+preceding year. Notwithstanding anything to the contrary in this paragraph 3(a),
+no more than an aggregate of 3,000,000 shares of Common Stock may be issued
+pursuant to the exercise of Incentive Stock Options (as hereinafter defined)
+granted under the Plan (including
+
+
+
+<PAGE>   2
+
+shares issued pursuant to the exercise of Incentive Stock Options granted under
+the Plan that are the subject of disqualifying dispositions within the meaning
+of Sections 421, 422 and 424 of the Code and the regulations thereunder). If any
+Award expires, or is terminated, surrendered or forfeited, in whole or in part,
+the unissued Common Stock covered by such Award shall again be available for the
+grant of Awards (other than ISOs) under the Plan. If shares of Common Stock
+issued pursuant to the Plan are repurchased by, or are surrendered or forfeited
+to, the Company at no more than cost, such shares of Common Stock shall again be
+available for the grant of Awards under the Plan. Shares issued under the Plan
+may consist in whole or in part of authorized but unissued shares or treasury
+shares.
+
+         b. PER-PARTICIPANT LIMIT. Subject to adjustment under Section 3(c), no
+Participant may be granted Awards during any one fiscal year to purchase more
+than 1,000,000 shares of Common Stock.
+
+         c. ADJUSTMENT TO COMMON STOCK. In the event of any stock split, stock
+dividend, extraordinary cash dividend, recapitalization, reorganization, merger,
+consolidation, combination, exchange of shares, liquidation, spin-off, split-up,
+or other similar change in capitalization or event, (i) the number and class of
+securities available for Awards under the Plan and the per-Participant share
+limit, (ii) the number and class of securities, vesting schedule and exercise
+price per share subject to each outstanding Option, (iii) the repurchase price
+per security subject to repurchase, and (iv) the terms of each other outstanding
+stock-based Award shall be adjusted by the Company (or substituted Awards may be
+made) to the extent the Board shall determine, in good faith, that such an
+adjustment (or substitution) is appropriate.
+
+4.       STOCK OPTIONS
+
+         a. GENERAL. The Board may grant options to purchase Common Stock (each,
+an "OPTION") and determine the number of shares of Common Stock to be covered by
+each Option, the exercise price of each Option and the conditions and
+limitations applicable to the exercise of each Option and the Common Stock
+issued upon the exercise of each Option, including vesting provisions,
+repurchase provisions and restrictions relating to applicable federal or state
+securities laws, as it considers advisable.
+
+         b. INCENTIVE STOCK OPTIONS. An Option that the Board intends to be an
+"incentive stock option" as defined in Section 422 of the Code (an "INCENTIVE
+STOCK OPTION") shall be granted only to employees of the Company and shall be
+subject to and shall be construed consistently with the requirements of Section
+422 of the Code. The Board and the Company shall have no liability if an Option
+or any part thereof that is intended to be an Incentive Stock Option does not
+qualify as such. An Option or any part thereof that does not qualify as an
+Incentive Stock Option is referred to herein as a "NONSTATUTORY STOCK OPTION.
+
+         c. EXERCISE PRICE. The exercise price per share specified in the
+applicable option agreement relating to each Option granted shall not be less
+than the fair market value per share of Common Stock on the date of such grant,
+PROVIDED HOWEVER, that if a Non-Qualified Option is expressly granted in lieu of
+a reasonable amount of salary or cash bonus, the exercise price per
+
+
+
+
+                                      -2-
+<PAGE>   3
+
+share specified in the applicable option agreement may be equal to or greater
+than 85% of the fair market value per share of Common Stock on the date of such
+grant.
+
+         d. DURATION OF OPTIONS. Each Option shall be exercisable at such times
+and subject to such terms and conditions as the Board may specify in the
+applicable option agreement.
+
+         e. EXERCISE OF OPTION. Options may be exercised only by delivery to the
+Company of a written notice of exercise signed by the proper person together
+with payment in full as specified in Section 4(f) for the number of shares for
+which the Option is exercised.
+
+         f. PAYMENT UPON EXERCISE. Common Stock purchased upon the exercise of
+an Option shall be paid for by one or any combination of the following forms of
+payment:
+
+                  (i)  by check payable to the order of the Company;
+
+                  (ii) except as otherwise explicitly provided in the applicable
+option agreement, and only if the Common Stock is then publicly traded, delivery
+of an irrevocable and unconditional undertaking by a creditworthy broker to
+deliver promptly to the Company sufficient funds to pay the exercise price, or
+delivery by the Participant to the Company of a copy of irrevocable and
+unconditional instructions to a creditworthy broker to deliver promptly to the
+Company cash or a check sufficient to pay the exercise price; or
+
+                  (iii) to the extent explicitly provided in the applicable
+option agreement, by (x) delivery of shares of Common Stock owned by the
+Participant valued at fair market value (as determined by the Board or as
+determined pursuant to the applicable option agreement), (y) delivery of a
+promissory note of the Participant to the Company (and delivery to the Company
+by the Participant of a check in an amount equal to the par value of the shares
+purchased), or (z) payment of such other lawful consideration as the Board may
+determine.
+
+         g. PROHIBITION ON REPRICING AND REGRANTS. No Option shall be repriced,
+or terminated and subsequently regranted, at a lower purchase price per share
+than the original grant, without the prior affirmative vote of a majority of the
+shares of stock of the Company present at a stockholders' meeting in person or
+by proxy and entitled to vote thereon.
+
+5.       RESTRICTED STOCK
+
+         a. GRANTS. The Board may grant Awards entitling recipients to acquire
+shares of Common Stock, subject to (i) delivery to the Company by the
+Participant of a check in an amount at least equal to the par value of the
+shares purchased, and (ii) the right of the Company to repurchase all or part of
+such shares at their issue price or other stated or formula price from the
+Participant in the event that conditions specified by the Board in the
+applicable Award are not satisfied prior to the end of the applicable
+restriction period or periods established by the Board for such Award (each, a
+"RESTRICTED STOCK AWARD").
+
+
+
+
+                                      -3-
+<PAGE>   4
+
+         b. TERMS AND CONDITIONS. The Board shall determine the terms and
+conditions of any such Restricted Stock Award, except that all Restricted Stock
+Awards shall be subject to a vesting schedule of a minimum of three years,
+PROVIDED HOWEVER, that a Restricted Stock Award subject to a performance based
+vesting schedule may be subject to a vesting schedule of a minimum of one year.
+Any stock certificates issued in respect of a Restricted Stock Award shall be
+registered in the name of the Participant and, unless otherwise determined by
+the Board, deposited by the Participant, together with a stock power endorsed in
+blank, with the Company (or its designee). After the expiration of the
+applicable restriction periods, the Company (or such designee) shall deliver the
+certificates no longer subject to such restrictions to the Participant or, if
+the Participant has died, to the beneficiary designated by a Participant, in a
+manner determined by the Board, to receive amounts due or exercise rights of the
+Participant in the event of the Participant's death (the "DESIGNATED
+BENEFICIARY"). In the absence of an effective designation by a Participant,
+Designated Beneficiary shall mean the Participant's estate.
+
+6.       OTHER STOCK-BASED AWARDS
+
+         The Board shall have the right to grant other Awards based upon the
+Common Stock having such terms and conditions as the Board may determine,
+including, without limitation, the grant of shares based upon certain
+conditions, the grant of securities convertible into Common Stock and the grant
+of stock appreciation rights, phantom stock awards or stock units, except that
+all other Awards shall be subject to a vesting schedule of a minimum of three
+years, PROVIDED HOWEVER, that other Awards subject to a performance based
+vesting schedule may be subject to a vesting schedule of a minimum of one year.
+
+7.       GENERAL PROVISIONS APPLICABLE TO AWARDS
+
+         a. TRANSFERABILITY OF AWARDS. Except as the Board may otherwise
+determine or provide in an Award, Awards shall not be sold, assigned,
+transferred, pledged or otherwise encumbered by the person to whom they are
+granted, either voluntarily or by operation of law, except by will or the laws
+of descent and distribution, and, during the life of the Participant, shall be
+exercisable only by the Participant. References to a Participant, to the extent
+relevant in the context, shall include references to authorized transferees.
+
+         b. DOCUMENTATION. Each Award under the Plan shall be evidenced by a
+written instrument in such form as the Board shall determine or as executed by
+an officer of the Company pursuant to authority delegated by the Board. Each
+Award may contain terms and conditions in addition to those set forth in the
+Plan PROVIDED THAT such terms and conditions do not contravene the provisions of
+the Plan.
+
+         c. BOARD DISCRETION. The terms of each type of Award need not be
+identical, and the Board need not treat Participants uniformly.
+
+         d. TERMINATION OF STATUS. The Board shall determine the effect on an
+Award of the disability, death, retirement, authorized leave of absence or other
+change in the employment or other status of a Participant and the extent to
+which, and the period during which, the Participant,
+
+
+
+
+                                      -4-
+<PAGE>   5
+
+or the Participant's legal representative, conservator, guardian or Designated
+Beneficiary, may exercise rights under the Award.
+
+         e. WITHHOLDING. Each Participant shall pay to the Company, or make
+provisions satisfactory to the Company for payment of, any taxes required by law
+to be withheld in connection with Awards to such Participant no later than the
+date of the event creating the tax liability. The Board may allow Participants
+to satisfy such tax obligations in whole or in part by transferring shares of
+Common Stock, including shares retained from the Award creating the tax
+obligation, valued at their fair market value (as determined by the Board or as
+determined pursuant to the applicable option agreement). The Company may, to the
+extent permitted by law, deduct any such tax obligations from any payment of any
+kind otherwise due to a Participant.
+
+         f. AMENDMENT OF AWARDS. The Board may amend, modify or terminate any
+outstanding Award including, but not limited to, substituting therefor another
+Award of the same or a different type, changing the date of exercise or
+realization, and converting an Incentive Stock Option to a Nonstatutory Stock
+Option, PROVIDED THAT the Participant's consent to such action shall be required
+unless the Board determines that the action, taking into account any related
+action, would not materially and adversely affect the Participant.
+
+         g. CONDITIONS ON DELIVERY OF STOCK. The Company will not be obligated
+to deliver any shares of Common Stock pursuant to the Plan or to remove
+restrictions from shares previously delivered under the Plan until (i) all
+conditions of the Award have been met or removed to the satisfaction of the
+Company, (ii) in the opinion of the Company's counsel, all other legal matters
+in connection with the issuance and delivery of such shares have been satisfied,
+including any applicable securities laws and any applicable stock exchange or
+stock market rules and regulations, and (iii) the Participant has executed and
+delivered to the Company such representations or agreements as the Company may
+consider appropriate to satisfy the requirements of any applicable laws, rules
+or regulations.
+
+         h. ACCELERATION. The Board may at any time provide that any Options
+shall become immediately exercisable in full or in part, that any Restricted
+Stock Awards shall be free of some or all restrictions, or that any other
+stock-based Awards may become exercisable in full or in part or free of some or
+all restrictions or conditions, or otherwise realizable in full or in part, as
+the case may be, despite the fact that the foregoing actions may (i) cause the
+application of Sections 280G and 4999 of the Code if a change in control of the
+Company occurs, or (ii) disqualify all or part of the Option as an Incentive
+Stock Option.
+
+8.       MISCELLANEOUS
+
+         a.  DEFINITIONS.
+
+                  (i) "COMPANY," for purposes of eligibility under the Plan,
+shall include any present or future subsidiary corporations of Citrix Systems,
+Inc., as defined in Section 424(f) of the Code (a "SUBSIDIARY"), and any present
+or future parent corporation of Citrix Systems, Inc., as defined in Section
+424(e) of the Code. For purposes of Awards other than Incentive Stock
+
+
+
+
+                                      -5-
+<PAGE>   6
+
+Options, the term "COMPANY" shall include any other business venture in which
+the Company has a direct or indirect significant interest, as determined by the
+Board in its sole discretion.
+
+                  (ii) "CODE" means the Internal Revenue Code of 1986, as
+amended, and any regulations promulgated thereunder.
+
+                  (iii) "EMPLOYEE" for purposes of eligibility under the Plan
+(but not for purposes of Section 4(b)) shall include a person to whom an offer
+of employment has been extended by the Company.
+
+         b. NO RIGHT TO EMPLOYMENT OR OTHER STATUS. No person shall have any
+claim or right to be granted an Award, and the grant of an Award shall not be
+construed as giving a Participant the right to continued employment or any other
+relationship with the Company. The Company expressly reserves the right at any
+time to dismiss or otherwise terminate its relationship with a Participant free
+from any liability or claim under the Plan.
+
+         c. NO RIGHTS AS STOCKHOLDER. Subject to the provisions of the
+applicable Award, no Participant or Designated Beneficiary shall have any rights
+as a stockholder with respect to any shares of Common Stock to be distributed
+with respect to an Award until becoming the record holder thereof.
+
+         d. EFFECTIVE DATE AND TERM OF PLAN. The Plan shall become effective on
+the date on which it is adopted by the Board. No Awards shall be granted under
+the Plan after the completion of ten years from the date on which the Plan was
+adopted by the Board, but Awards previously granted may extend beyond that date.
+
+         e. AMENDMENT OF PLAN. The Board may amend, suspend or terminate the
+Plan or any portion thereof at any time, except that, without the approval of
+the stockholders obtained within 12 months before or after the Board adopts a
+resolution authorizing any of the following actions: (a) the total number of
+shares that may be issued under the Plan may not be increased (except by
+adjustment pursuant to Section 3(c)); (b) the benefits accruing to participants
+under the Plan may not be materially increased; (c) the requirements as to
+eligibility for participation in the Plan may not be materially modified; (d)
+the provisions of Section 4(b) regarding eligibility for grants of ISOs may not
+be modified; (e) the provisions of section 4(c) regarding the exercise price at
+which shares may be offered pursuant to ISOs may not be modified (except by
+adjustment pursuant to Section 3(c)); (f) the expiration date of the Plan may
+not be extended; (g) the Board may not take any action which would cause the
+Plan to fail to comply with Rule 16b-3 and (h) the provisions of Section 4(g)
+regarding the prohibition on repricing and regrant of Options may not be
+modified. Except as otherwise provided in this Section 8(e), in no event may
+action of the Board or stockholders alter or impair the rights of a grantee,
+without such grantee's consent, under any Option previously granted to such
+grantee.
+
+
+
+
+                                      -6-
+<PAGE>   7
+
+         f. GOVERNING LAW. The provisions of the Plan and all Awards made
+hereunder shall be governed by and interpreted in accordance with the laws of
+the State of Delaware, without regard to any applicable conflicts of law.
+
+                            Adopted by the Board of Directors on March 10, 2000
+                            Approved by the stockholders on May 18, 2000
+
+                            Amendment and Restatement Adopted by the Board of
+                              Director on July 27, 2000
+                            No stockholder approval required
+
+
+
+
+
+
+
+                                      -7-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>5
+<FILENAME>ex27-1.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000             DEC-31-2000
+<PERIOD-START>                             APR-01-2000             JAN-01-2000
+<PERIOD-END>                               JUN-30-2000             JUN-30-2000
+<CASH>                                         350,960                 350,960
+<SECURITIES>                                   276,065                 276,065
+<RECEIVABLES>                                   65,463                  65,463
+<ALLOWANCES>                                    (8,181)                 (8,181)
+<INVENTORY>                                      8,840                   8,840
+<CURRENT-ASSETS>                               794,255                 794,255
+<PP&E>                                          66,542                  66,542
+<DEPRECIATION>                                 (23,947)                (23,947)
+<TOTAL-ASSETS>                               1,221,342               1,221,342
+<CURRENT-LIABILITIES>                          151,100                 151,100
+<BONDS>                                        322,044                 322,044
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                           186                     186
+<OTHER-SE>                                     713,913                 713,913
+<TOTAL-LIABILITY-AND-EQUITY>                 1,221,342               1,221,342
+<SALES>                                        106,086                 233,601
+<TOTAL-REVENUES>                               106,086                 233,601
+<CGS>                                            8,404                  13,532
+<TOTAL-COSTS>                                    8,404                  13,532
+<OTHER-EXPENSES>                                81,780                 154,556
+<LOSS-PROVISION>                                     0                       0
+<INTEREST-EXPENSE>                               4,246                   8,389
+<INCOME-PRETAX>                                 21,390                  76,454
+<INCOME-TAX>                                     6,417                  22,936
+<INCOME-CONTINUING>                             14,973                  53,518
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                    14,973                  53,518
+<EPS-BASIC>                                       0.08                    0.29
+<EPS-DILUTED>                                     0.07                    0.26
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

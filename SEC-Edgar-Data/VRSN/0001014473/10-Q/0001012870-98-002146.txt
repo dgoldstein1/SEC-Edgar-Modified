@@ -1,0 +1,1443 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VKXbbH1Oi6kmpVL2D04WIAlBbuc+ExFtH4UZofEZqs+XXAykiyHj5o5S2cnhl478
+ oOWmOUY+gi/EWZ9froR/0Q==
+
+<SEC-DOCUMENT>0001012870-98-002146.txt : 19980817
+<SEC-HEADER>0001012870-98-002146.hdr.sgml : 19980817
+ACCESSION NUMBER:		0001012870-98-002146
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19980630
+FILED AS OF DATE:		19980814
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VERISIGN INC/CA
+		CENTRAL INDEX KEY:			0001014473
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		IRS NUMBER:				943221585
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-23593
+		FILM NUMBER:		98689303
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1390 SHOREBIRD WAY
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043
+		BUSINESS PHONE:		6509617500
+
+	MAIL ADDRESS:	
+		STREET 1:		1390 SHOREBIRD WAY
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94043
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+ 
+================================================================================
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+                             ---------------------
+
+                                   FORM 10-Q
+                                        
+(MARK ONE)
+
+[X]     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+        EXCHANGE ACT OF 1934
+
+                 FOR THE QUARTERLY PERIOD ENDED JUNE 30, 1998
+
+                                      OR
+
+[ ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+        EXCHANGE ACT OF 1934
+
+       FOR THE TRANSITION PERIOD FROM ______________ TO _______________
+
+                      COMMISSION FILE NUMBER:  000-23593
+
+                                VERISIGN, INC.
+                                        
+            (Exact name of registrant as specified in its charter)
+
+          DELAWARE                                          94-3221585
+(State or other jurisdiction of                          (I.R.S. Employer
+incorporation or organization)                          Identification No.)
+
+
+               1390 SHOREBIRD WAY, MOUNTAIN VIEW, CA  94043-1338
+             (Address of principal executive offices)  (Zip Code)
+
+      Registrant's telephone number, including area code:  (650) 961-7500
+
+   Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES X    NO 
+                                             ---     ---
+
+   Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date:
+
+                                            Shares Outstanding
+                  Class                       July 31, 1998
+                  -----                       -------------
+       Common stock, $.001 par value            22,511,430
+
+================================================================================
+<PAGE>
+ 
+                               TABLE OF CONTENTS
+
+                                                                        PAGE
+                                                                        ----
+                        PART I -- FINANCIAL INFORMATION
+
+Item 1.    Financial Statements........................................   3
+
+Item 2.    Management's Discussion and Analysis of Financial
+           Condition and Results of Operations.........................   9
+
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk..  19
+
+                         PART II -- OTHER INFORMATION
+
+Item 2.    Changes in Securities and Use of Proceeds...................  20
+
+Item 6.    Exhibits and Reports on Form 8-K............................  20
+
+Signatures.............................................................  21
+
+Summary of Trademarks..................................................  22
+
+                                    EXHIBIT
+
+Exhibit 27.01   Financial Data Schedule (available in EDGAR format only).
+
+                                       2
+<PAGE>
+ 
+PART I -- FINANCIAL INFORMATION
+
+ITEM 1.    FINANCIAL STATEMENTS
+
+The consolidated financial statements included under this item are as follows:
+
+<TABLE> 
+<CAPTION> 
+                                                                    SEQUENTIALLY
+                                                                      NUMBERED
+                FINANCIAL STATEMENT DESCRIPTION                         PAGE
+- ---------------------------------------------------------------     ------------
+<S>                                                                 <C>
+Consolidated Statements of Operations for the
+Three and Six Months Ended June 30, 1998 and 1997..............            4
+                                                                       
+Consolidated Balance Sheets as of                                      
+June 30, 1998 and December 31, 1997............................            5
+                                                                       
+Consolidated Statements of Cash Flows for the                          
+Six Months Ended June 30, 1998 and 1997........................            6
+                                                                       
+Notes to Consolidated Financial Statements.....................            7
+ 
+</TABLE>
+
+                                       3
+<PAGE>
+ 
+                         VERISIGN, INC. AND SUBSIDIARY
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                   THREE MONTHS ENDED JUNE 30,      SIX MONTHS ENDED JUNE 30,
+                                   ---------------------------      -------------------------
+                                       1998          1997               1998           1997
+                                     --------      --------           ---------      --------
+<S>                                  <C>           <C>                <C>            <C>
+Revenues...........................  $ 5,301       $ 2,249            $  9,303       $ 3,516
+                                     -------       -------            --------       -------
+Costs and expenses:
+ Cost of revenues..................    2,939         1,733               5,771         3,152
+ Sales and marketing...............    4,769         2,686               8,886         4,940
+ Research and development..........    1,931         1,222               3,537         2,251
+ General and administrative........    1,489           864               2,927         1,817
+                                     -------       -------            --------       -------
+  Total costs and expenses.........   11,128         6,505              21,121        12,160
+                                     -------       -------            --------       -------
+  Operating loss...................   (5,827)       (4,256)            (11,818)       (8,644)
+Other income.......................      637           166               1,013           635
+                                     -------       -------            --------       -------
+  Loss before minority interest....   (5,190)       (4,090)            (10,805)       (8,009)
+Minority interest in net loss
+ of subsidiary.....................      325           482                 713           787
+                                     -------       -------            --------       -------
+  Net loss.........................  $(4,865)      $(3,608)           $(10,092)      $(7,222)
+                                     =======       =======            ========       =======
+Basic and diluted net loss
+ per share.........................    $(.23)        $(.56)              $(.54)       $(1.13)
+                                     =======       =======            ========       =======
+Shares used in per share
+ computations......................   20,787         6,441              18,593         6,411
+                                     =======       =======            ========       =======
+</TABLE> 
+
+
+          See accompanying Notes to Consolidated Financial Statements
+
+                                       4
+<PAGE>
+ 
+                         VERISIGN, INC. AND SUBSIDIARY
+                                        
+                          CONSOLIDATED BALANCE SHEETS
+                       (IN THOUSANDS, EXCEPT SHARE DATA)
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                            JUNE 30,      DECEMBER 31,
+                                                              1998           1997
+                                                            --------      -----------
+<S>                                                         <C>         <C>
+                    ASSETS
+Current assets:
+ Cash and cash equivalents...............................   $ 22,883       $  3,943
+ Short-term investments..................................     22,994          7,951
+ Receivables.............................................      4,328          2,274
+ Prepaid expenses and other current assets...............      1,067            750
+                                                            --------       --------
+   Total current assets..................................     51,272         14,918
+
+Property and equipment, net..............................      9,231          8,622
+Other assets.............................................        880            866
+                                                            --------       --------
+                                                            $ 61,383       $ 24,406
+                                                            ========       ========
+                    LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+ Accounts payable........................................   $  1,865       $  2,526
+ Accrued liabilities.....................................      3,830          2,346
+ Deferred revenue........................................      7,618          4,819
+                                                            --------       --------
+   Total current liabilities.............................     13,313          9,691
+                                                            --------       --------
+Minority interest in subsidiary..........................      1,533          2,246
+                                                            --------       --------
+Commitments
+
+Stockholders' equity:
+ Preferred stock, $.001 par value;
+  5,000,000 shares authorized; none issued...............         --             --
+ Convertible preferred stock, $.001 par value;
+  10,282,883 shares authorized in 1997;
+  10,031,006 shares issued and outstanding in 1997.......         --             10
+ Common stock, $.001 par value;
+  50,000,000 shares authorized;
+  20,838,304 and 7,120,238 shares issued
+  and outstanding, respectively..........................         21              7
+ Additional paid-in capital..............................     88,950         44,908
+ Notes receivable from stockholders......................       (582)          (644)
+ Deferred compensation...................................       (328)          (380)
+ Accumulated deficit.....................................    (41,524)       (31,432)
+                                                            --------       --------
+   Total stockholders' equity............................     46,537         12,469
+                                                            --------       --------
+                                                            $ 61,383       $ 24,406
+                                                            ========       ========
+</TABLE>
+
+
+          See accompanying Notes to Consolidated Financial Statements
+                                        
+
+                                       5
+<PAGE>
+ 
+                         VERISIGN, INC. AND SUBSIDIARY
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                (IN THOUSANDS)
+                                  (UNAUDITED)
+
+
+<TABLE>
+<CAPTION>
+                                                                SIX MONTHS ENDED JUNE 30,
+                                                                ------------------------
+                                                                  1998            1997
+                                                                --------        --------
+<S>                                                             <C>             <C>
+Cash flows from operating activities:
+ Net loss...................................................... $(10,092)       $ (7,222)
+ Adjustments to reconcile net loss to net cash
+ used in operating activities:
+  Depreciation and amortization................................    1,717             621
+  Minority interest in net loss of subsidiary..................     (713)           (787)
+  Stock-based compensation.....................................       52              --
+  Loss on disposal of property and equipment...................       50              --
+  Changes in operating assets and liabilities:
+   Receivables.................................................   (2,054)           (451)
+   Prepaid expenses and other current assets...................     (317)            148
+   Accounts payable............................................     (661)           (926)
+   Accrued liabilities.........................................    1,484              18
+   Deferred revenue............................................    2,799             254
+                                                                --------        --------
+   Net cash used in operating activities.......................   (7,735)         (8,345)
+                                                                --------        --------
+Cash flows from investing activities:
+ Purchases of short-term investments...........................  (36,563)         (9,716)
+ Maturities and sales of short-term investments................   21,520              --
+ Purchases of property and equipment...........................   (2,362)         (4,107)
+ Other assets..................................................      (28)           (610)
+                                                                --------        --------
+   Net cash used in investing activities.......................  (17,433)        (14,433)
+                                                                --------        --------
+Cash flows from financing activities:
+ Proceeds from bank borrowings.................................       --             616
+ Collections on notes receivable from stockholders.............       62              --
+ Net proceeds from issuance of common stock....................   44,046              --
+                                                                --------        --------
+   Net cash provided by financing activities...................   44,108             616
+                                                                --------        --------
+Net change in cash and cash equivalents........................   18,940         (22,162)
+Cash and cash equivalents at beginning of period...............    3,943          29,983
+                                                                --------        --------
+Cash and cash equivalents at end of period..................... $ 22,883        $  7,821
+                                                                ========        ========
+Noncash financing and investing activities:
+ Conversion of convertible preferred stock
+  to common stock..............................................       --              --
+                                                                ========        ========
+ Issuance of notes receivable collateralized
+  by common stock..............................................       --        $    115
+                                                                ========        ========
+</TABLE> 
+
+          See accompanying Notes to Consolidated Financial Statements
+                                        
+
+                                       6
+<PAGE>
+ 
+                         VERISIGN, INC. AND SUBSIDIARY
+                                        
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                        
+                            JUNE 30, 1998 AND 1997
+                                        
+
+(1)  BASIS OF PRESENTATION
+
+     The accompanying interim unaudited consolidated balance sheets and
+statements of operations and cash flows reflect all normal recurring adjustments
+that, in the opinion of management, are necessary for a fair presentation of the
+financial position of VeriSign, Inc. ("VeriSign" or the "Company") at June 30,
+1998, and the results of operations and cash flows for the interim periods ended
+June 30, 1998 and 1997.
+
+     The accompanying interim unaudited consolidated financial statements have
+been prepared in accordance with the instructions for Form 10-Q and, therefore,
+do not include all information and footnotes necessary for a complete
+presentation of the Company's results of operations, financial position, and
+cash flows. In conformity with generally accepted accounting principles, the
+Company filed audited consolidated financial statements that included all
+information and footnotes necessary for such a presentation for the period from
+April 12, 1995 (inception) to December 31, 1995, and for each of the years in
+the two-year period ended December 31, 1997, in the Company's Prospectus, dated
+January 29, 1998, filed as part of a Registration Statement on Form S-1 (No.
+333-40789), as amended, in connection with the Company's initial public offering
+("IPO").
+
+     The results of operations for any interim period are not necessarily
+indicative of the results of the Company's operations for any other future
+interim period or for a full fiscal year.
+
+(2)  STOCKHOLDERS' EQUITY
+
+     On January 30, 1998, the Company completed its IPO issuing 3,450,000 shares
+of its Common Stock (including 450,000 shares issued upon the exercise of the
+underwriters' over-allotment option) at an initial public offering price of $14
+per share. The net proceeds to the Company from the offering, after deducting
+underwriting discounts and commissions and offering expenses incurred by the
+Company, were approximately $43.7 million. Concurrently, with the IPO, each
+outstanding share of the Company's Convertible Preferred Stock was automatically
+converted into one share of Common Stock.
+
+(3)  REVENUE RECOGNITION
+
+     For software transactions entered into beginning January 1, 1998, the
+Company adopted the American Institute of Certified Public Accountants'
+Statement of Position ("SOP") No. 97-2, Software Revenue Recognition. SOP No. 
+97-2 generally requires revenue earned on software arrangements involving
+multiple elements to be allocated to each element based on the relative fair
+value of the elements. The fair value of the element must be based on objective
+evidence that is specific to the vendor. If a vendor does not have objective
+evidence of the fair value of all elements in a multiple-element arrangement,
+all revenue from the arrangement must be deferred until such evidence exists or
+until all elements have been delivered. The adoption of SOP No. 97-2 did not
+have a material effect on the Company's operating results.
+
+(4)  NET LOSS PER SHARE
+
+     Basic earnings per share is computed using the weighted-average number of
+common shares outstanding during the period. Diluted earnings per share is
+computed using the weighted-average number of common and common equivalent
+shares outstanding during the period. Common stock equivalent shares are
+excluded from the computation if their effect is antidilutive. Antidilutive
+common equivalent shares excluded from basic and diluted loss per share for the
+three-month periods ending June 30, 1998 and 1997 were comprised of common stock
+options, which totaled 2,207,066 and 448,879, respectively, and the weighted
+average number of convertible preferred stock shares outstanding during the
+three-month period ending June 30, 1997, which totaled 10,031,006. For the six-
+month periods ending June 30, 1998 and 1997, the antidilutive common equivalent
+shares excluded from basic and diluted loss per share were comprised
+
+                                       7
+<PAGE>
+ 
+                         VERISIGN, INC. AND SUBSIDIARY
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                        
+(4)  NET LOSS PER SHARE (CONTINUED)
+
+of common stock options, which totaled 2,209,434 and 561,123, respectively, and
+the weighted average number of convertible preferred stock shares outstanding,
+which totaled 1,607,148 and 10,031,006, respectively.
+
+(5)  COMPREHENSIVE INCOME
+
+     Effective January 1, 1998, the Company adopted the provisions of Statement
+of Financial Accounting Standards ("SFAS") No. 130, Reporting Comprehensive
+Income. SFAS No. 130 establishes standards for the display of comprehensive
+income and its components in a full set of financial statements. Comprehensive
+income includes all changes in equity during a period except those resulting
+from the issuance of stock and distributions to stockholders. There were no
+material differences between the Company's net loss and its comprehensive loss.
+
+(6)  RECENT ACCOUNTING PRONOUNCEMENT
+
+     In March 1998, the American Institute of Certified Public Accountants
+issued SOP No. 98-1, Accounting for the Costs of Computer Software Developed or
+Obtained for Internal Use. SOP No. 98-1 requires that certain costs related to
+the development or purchase of internal-use software be capitalized and
+amortized over the estimated useful life of the software. SOP No. 98-1 is
+effective for financial statements issued for fiscal years beginning after
+December 15, 1998. The Company does not expect the adoption of SOP No. 98-1 to
+have a material impact on its results of operations.
+
+(7)  SUBSEQUENT EVENT
+
+     On July 6, 1998, the Company issued approximately 1,666,000 shares of its
+common stock in exchange for all of the outstanding common stock of SecureIT,
+Inc., a provider of Internet security products and services. The business
+combination will be accounted for as a pooling-of-interests combination, and,
+accordingly, the Company's historical consolidated financial statements
+presented in future reports will be restated to include the accounts and results
+of operations of SecureIT, Inc.
+
+     The following unaudited pro forma data summarize the combined results of
+operations of VeriSign, Inc. and SecureIT, Inc. as if the combination had been
+consummated on June 30, 1998, and reflect adjustments to conform the accounting
+methods of SecureIT, Inc. to those of VeriSign, Inc.
+
+<TABLE>
+<CAPTION>
+
+                             THREE MONTHS ENDED JUNE 30,      SIX MONTHS ENDED JUNE 30,
+                             ---------------------------      ------------------------
+                                 1998          1997                1998         1997
+                               --------      --------            --------     --------
+<S>                            <C>           <C>                 <C>          <C>
+Revenues.....................  $ 8,555       $ 2,931             $15,217      $ 4,520
+                               =======       =======             =======      =======
+Net loss.....................  $(4,774)      $(3,508)            $(9,477)     $(7,054)
+                               =======       =======             =======      =======
+Basic and diluted net loss
+ per share...................  $  (.21)      $  (.44)            $  (.47)     $  (.89)
+                               =======       =======             =======      =======
+</TABLE>
+
+                                       8
+<PAGE>
+ 
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+     The following discussion should be read in conjunction with the interim
+unaudited consolidated financial statements and notes thereto.
+
+     In addition to historical information, this Quarterly Report on Form 10-Q
+contains forward-looking statements that involve risks and uncertainties that
+could cause actual results to differ materially from those in the forward-
+looking statement. Factors that might cause or contribute to such differences
+include, but are not limited to, those discussed in the section below entitled
+"Factors That May Affect Future Results Of Operations." Readers should carefully
+review the risks described in the other documents that the Company has filed
+from time to time with the United States Securities and Exchange Commission,
+including its Quarterly Reports on Form 10-Q and the Company's Prospectus dated
+January 29, 1998. Readers are cautioned not to place undue reliance on the
+forward-looking statements, which speak only as of the date of this Quarterly
+Report on Form 10-Q. The Company undertakes no obligation to publicly release
+any revisions to the forward-looking statements or reflect events or
+circumstances after the date of this document.
+
+OVERVIEW
+
+     VeriSign, Inc. ("VeriSign" or the "Company") is the leading provider of
+public key infrastructure ("PKI") and digital certificate solutions needed by
+companies, government agencies, trading partners and individuals to conduct
+trusted and secure communications and commerce over the Internet, and over
+intranets and extranets using the Internet Protocol (collectively, "IP
+networks"). Headquartered in Mountain View, California, the Company was
+incorporated in April 1995 as a spin-out of RSA Data Security ("RSA"), a
+subsidiary of Security Dynamics Technologies, Inc.. Since its founding, VeriSign
+has issued more than 65,000 Digital IDs to Web sites and 3,000,000 IDs to
+consumers, in partnership with leading companies including Acer, AT&T, British
+Telecommunications, Lotus, Lucent Technologies, Microsoft, Netscape and Network
+Associates. The Company has delivered enterprise certificate solutions to
+companies and government agencies including Bank of America, Hewlett-Packard,
+Kodak, NationsBank, Texas Instruments, United Parcel Service and US West.
+
+     VeriSign's service offerings target three main lines of business;
+Enterprise PKI Solutions, Web-site IDs and Consumer IDs. VeriSign Web-site IDs
+and Consumer IDs are delivered through the VeriSign Digital ID Center/SM/, an
+online service that is open 24 hours a day, 7 days a week. VeriSign has been
+first to market with Digital IDs for servers, browsers, e-mail applications, and
+software content, and continues to hold a majority of the market share in these
+areas.
+
+     VeriSign's Enterprise PKI Solution, VeriSign OnSite, is targeted at Fortune
+10,000 companies in the financial services, publishing, legal, transportation
+and other industries as well as government agencies and educational
+institutions. VeriSign OnSite is comprised of a suite of software applications
+and mission-critical processing services that enable enterprises to deploy a
+full PKI to secure their intranets, extranets and Internet commerce applications
+using digital certificates. The Company introduced VeriSign OnSite in the last
+quarter of 1997. During 1997, the Company also began providing technology and
+products for digital certificate management to OEMs.
+
+     The Company introduced its Web-site IDs product, the Secure Server ID for
+Netscape Commerce Servers, in June 1995. In October 1995, the Company introduced
+additional server Digital IDs for the Web server products of Microsoft, IBM,
+Open Market and other vendors. In May 1996, the Company began providing online
+enrollment and issuance of client Digital IDS, as part of the Consumer ID line
+of business, for Netscape Navigator through its Digital ID Center and began
+shipping another form of Digital ID known as a Software Developer Digital ID for
+Microsoft's Authenticode Program. The Company began issuing Digital IDS for
+Microsoft's Internet Explorer through the Company's Digital ID Center in August
+1996. During 1997, the Company introduced its Universal Digital IDS and three
+new types of server digital certificate products--its Global Server ID, 
+Financial Server ID and EDI Server ID.
+
+                                       9
+<PAGE>
+ 
+     During the second quarter of 1998, the Company introduced VeriSign OnSite
+for Secure Server IDs, a digital certificate solution that enables organizations
+to secure Web servers used in intranets, extranets and Internet commerce
+applications. Leveraging the Secure Sockets Layer (SSL) protocol, this solution
+enables enterprises and organizations to control the issuance and administration
+of multiple server digital certificates within a single domain name (e.g.,
+www.yourcompany.com), issued either within the globally interoperable VeriSign
+Trust Network or under a private certificate hierarchy.
+
+     Historically, the Company has derived substantially all of its revenues
+from the sale of Digital IDs and from fees for services rendered in connection
+with the Company's digital certificate solutions and digital certificate service
+and product development agreements. The purchase of a Digital ID by a consumer
+or for a Web-site allows the customer to use the Digital ID for a limited period
+of time, generally 12 months. After this period, the Digital ID must be renewed
+for continued usage by the customer. Renewal fees are typically lower than the
+fees charged for the initial Digital ID. Revenues from the sale or renewal of
+Digital IDs for consumers and Web-sites are deferred and recognized ratably over
+the life of the digital certificate. Revenues from the Company's Enterprise PKI
+Solutions consist of fees for the issuance of digital certificates, which are
+recognizable ratably over the term of the particular license agreement relating
+to the enterprise or electronic commerce solution; fees for software tool kits,
+which are recognized upon delivery; and fees for set-up service, which are
+recognized upon completion of the service. Revenues from other services are
+recognized using the percentage-of-completion method for fixed-fee development
+arrangements, on a time-and-materials basis for consulting and training services
+or ratably over the term of the agreement for support and maintenance services.
+
+     The Company markets its products and services worldwide through multiple
+distribution channels, including the Internet, direct sales, telesales, VARs,
+systems integrators and OEMs. Although a significant portion of its revenues to
+date has been generated through sales from the Company's Web-site, the Company
+intends to continue increasing its direct sales force, both domestically and
+internationally, and intends to continue to expand its other distribution
+channels.
+
+     In connection with the formation of VeriSign Japan K.K. ("VeriSign Japan")
+the Company licensed certain technology and contributed other assets to VeriSign
+Japan. Subsequent to its formation, additional investors purchased minority
+interests in VeriSign Japan, and, as of June 30, 1998, the Company owned 50.5%
+of the outstanding capital stock of VeriSign Japan. Accordingly, the Company's
+consolidated financial statements include the accounts of the Company and this
+subsidiary and the Company's consolidated statements of operations reflect the
+elimination of the minority shareholders' share of the net losses of the
+subsidiary. Historically, VeriSign Japan has funded its net losses with
+investments from its shareholders. However, to the extent VeriSign Japan is
+unable to continue to fund its operations principally from investments by
+minority shareholders, the Company may be required to fund the operations of
+this subsidiary, which could have a material adverse effect on the Company's
+business, operating results and financial condition.
+
+     The Company has experienced substantial net losses in each fiscal period
+since its inception and, as of June 30, 1998, had an accumulated deficit of
+$41.5 million. Such net losses and accumulated deficit resulted from the
+Company's lack of substantial revenues and the significant costs incurred in the
+development and sale of the Company's products and services and in the
+establishment and deployment of the Company's operations, infrastructure and
+practices. The Company intends to increase its expenditures in all areas in
+order to execute its business plan. As a result, the Company expects to incur
+additional losses for the foreseeable future. Although the Company has
+experienced revenue growth in recent periods, there can be no assurance that
+such growth rates are sustainable and, therefore, they should not be considered
+indicative of future operating results. There can be no assurance that the
+Company will ever achieve significant revenues or profitability. A more complete
+description of these and other risks relating to the Company's business is set
+forth under the caption "Risk Factors" in the Company's Prospectus dated January
+29, 1998.
+
+                                       10
+<PAGE>
+ 
+RESULTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+REVENUES
+                                        1998     1997    CHANGE
+                                       ------   ------   ------
+<S>                                   <C>     <C>      <C>     
+Three-month period:
+  Revenues...........................  $5,301   $2,249     136%
+  (Dollars in thousands)
+Six-month period:
+  Revenues...........................  $9,303   $3,516     165%
+  (Dollars in thousands)
+</TABLE>
+
+     Revenues increased significantly from the prior year due to increased
+sales of VeriSign's products and services, particularly its Web-site IDs and
+OnSite products. As a result of the continued acceptance of Digital IDs, the
+number of digital certificates issued continued to grow on a quarterly basis.
+The Company has seen year-to-year increases in the number of customers that are
+buying Consumer and Web-site Digital IDs and the number of organizations and
+government agencies beginning to deploy PKI and digital certificate solutions
+and believes that such increases are attributable to the continued acceptance of
+digital certificates as a mechanism for authentication, access control and
+secure messaging. In addition, during the three and six months ended June 30,
+1998, the Company completed certain work required under various contracts for
+its enterprise and electronic commerce solutions and, therefore, recognized the
+related portion of revenues.
+
+     For software transactions entered into beginning January 1, 1998, the
+Company adopted the American Institute of Certified Public Accountants'
+Statement of Position ("SOP") No. 97-2, Software Revenue Recognition. SOP No. 
+97-2 generally requires revenue earned on software arrangements involving
+multiple elements to be allocated to each element based on the relative fair
+value of the elements. The fair value of the element must be based on objective
+evidence that is specific to the vendor. If a vendor does not have objective
+evidence of the fair value of all elements in a multiple-element arrangement,
+all revenue from the arrangement must be deferred until such evidence exists or
+until all elements have been delivered. The adoption of SOP No. 97-2 did not
+have a material effect on the Company's operating results.
+
+     No one customer accounted for 10% or more of revenues during the three
+months ended June 30, 1998. Security Dynamics Technologies, Inc. accounted for
+12% of revenues in the six months ended June 30, 1998. VISA International
+accounted for 19% and 17% of revenues for the three months and six months ended
+June 30, 1997, respectively. Revenues of VeriSign Japan and revenue from other
+international customers accounted for 17% of revenues in the second quarters of
+1998 and 1997 and 17% and 16% of revenues in the first half of 1998 and 1997,
+respectively.
+
+     A portion of the Company's sales will be earned later than billed and
+collected. Deferred revenue increased from $4.8 million at December 31, 1997 to
+$7.6 million at June 30, 1998. In the future, the Company anticipates that it
+may receive additional revenues from sales of software products, value-added
+services and training, licensing and royalty fees from licenses of digital
+certificates and related technology, maintenance, and fees for customer support.
+
+
+<TABLE>
+<CAPTION>
+COSTS AND EXPENSES
+
+                                        1998     1997    CHANGE
+                                       ------   ------   ------
+<S>                                   <C>     <C>      <C>     
+Three-month period:
+  Cost of revenues.................... $2,939    $1,733    70%
+  (Dollars in thousands)
+Six-month period:
+  Cost of revenues.................... $5,771    $3,152    83%
+  (Dollars in thousands)
+</TABLE>
+
+     Cost of Revenues. Cost of revenues consists primarily of costs related to
+personnel providing digital 
+
+                                       11
+<PAGE>
+ 
+certificate enrollment and issuance services, customer support and training,
+consulting and development services and facilities and computer equipment used
+in such activities. Cost of revenues also includes fees paid to third parties to
+verify certificate applicants' identities and insurance premiums for the
+Company's NetSure warranty plan and errors and omission insurance.
+
+     The increase in cost of revenues from 1997 to 1998 was due primarily to
+hiring personnel to support the additional volume of issuances of Digital IDs,
+the cost of the Company's NetSure warranty plan (which was not in effect in the
+first three months of 1997), increased expenses for access to third-party
+databases and support charges for the Company's external disaster recovery
+program.
+
+     The Company anticipates that cost of revenues will vary for the remainder
+of 1998 depending on the product mix sold during that period, as cost of service
+revenues is typically higher than cost of product revenues due to the relatively
+high personnel costs associated with providing services.
+
+<TABLE>
+<CAPTION>
+ 
+                                        1998    1997    CHANGE
+                                       ------  ------   ------
+<S>                                   <C>     <C>     <C>      
+Three-month period:
+  Sales and marketing................  $4,769  $2,686     78%
+  (Dollars in thousands)
+  Percentage of revenues                   90%    119%
+ 
+Six-month period:
+  Sales and marketing................  $8,886  $4,940     80%
+  (Dollars in thousands)
+  Percentage of revenues                   96%    141%
+</TABLE>
+
+     Sales and Marketing. Sales and marketing expenses consist primarily of
+costs related to sales, marketing, and practices and external affairs personnel,
+including salaries, sales commissions and other personnel-related expenses,
+travel and related expenses, computer equipment and support services used in
+such activities, facilities costs, consulting fees and costs of marketing
+programs.
+
+     Sales and marketing expenses increased from 1997 to 1998 as a result of the
+continued growth of the Company's direct sales force and an expansion of the
+Company's marketing efforts during 1998, particularly in lead and demand
+generation activities. The decrease in sales and marketing expenses as a
+percentage of revenues from 1997 to 1998 is primarily due to the increase in
+revenues.
+
+     The Company anticipates that sales and marketing expenses will continue to
+increase in absolute dollars as it expands its direct sales force, hires
+additional marketing personnel and increases its marketing and promotional
+activities during 1998.
+
+<TABLE>
+<CAPTION>
+ 
+                                        1998    1997    CHANGE
+                                       ------  ------   ------
+<S>                                   <C>     <C>     <C>      
+Three-month period:
+  Research and development............ $1,931  $1,222     58%
+  (Dollars in thousands)
+  Percentage of revenues                   36%     54%
+ 
+Six-month period:
+  Research and development............ $3,537  $2,251     57%
+  (Dollars in thousands)
+  Percentage of revenues                   38%     64%
+</TABLE>
+
+     Research and Development. Research and development expenses consist
+primarily of costs related to research and development personnel, including
+salaries and other personnel-related expenses, consulting fees, facilities, and
+computer equipment and support services used in product and technology
+development.
+
+                                       12
+<PAGE>
+ 
+     Research and development expenses increased in absolute dollars as the
+Company invested in the design, testing and deployment of, and technical support
+for, the Company's expanded product offerings and technology. The increase
+reflects the expansion of the Company's engineering staff and related costs
+required to support its continued emphasis on developing new products and
+enhancing existing products. During 1998, the Company continued to make
+significant investments in development of all of its software products and
+related platforms supported, including those targeted for the enterprise and
+electronic commerce market.
+
+     The Company believes that timely development of new and enhanced products
+and technology are necessary to remain competitive in the marketplace.
+Accordingly, the Company intends to continue recruiting experienced research and
+development personnel and make other investments in research and development.
+Therefore, the Company expects research and development expenses will continue
+to increase in absolute dollars.
+
+<TABLE>
+<CAPTION>
+                                        1998    1997    CHANGE
+                                       ------  ------   ------
+<S>                                   <C>     <C>     <C>       
+Three-month period:
+  General and administrative.......... $1,489  $  864     72%
+  (Dollars in thousands)
+  Percentage of revenues                   28%     38%
+ 
+Six-month period:
+  General and administrative.......... $2,927  $1,817     61%
+  (Dollars in thousands)
+  Percentage of revenues                   31%     52%
+</TABLE>
+
+     General and Administrative. General and administrative expenses consist
+primarily of salaries and other personnel-related expenses for the Company's
+administrative, finance and human relations personnel, facilities and computer
+equipment, support services and professional services fees.
+
+     During 1998, the Company incurred increased costs due primarily to
+increased staffing levels required to support the Company's expanded operations
+and to implement additional management information systems and related
+procedures. In addition, the Company has incurred additional costs related to
+being a public company, including investor relations programs and professional
+services fees.
+
+     The Company also expects to continue to invest in an expanded and more
+comprehensive executive and administrative infrastructure. Accordingly, the
+Company anticipates that general and administrative expenses will continue to
+increase in absolute dollars.
+
+<TABLE>
+<CAPTION>
+ 
+OTHER INCOME
+                                        1998    1997    CHANGE
+                                       ------  ------   ------
+<S>                                   <C>     <C>     <C>      
+Three-month period:
+  Other income........................ $  637   $166     284%
+  (Dollars in thousands)
+  Percentage of revenues                   12%     7%
+ 
+Six-month period:
+  Other income........................ $1,013   $635      60%
+  (Dollars in thousands)
+  Percentage of revenues                   11%    18%
+</TABLE>
+
+     Other income consists primarily of interest earned on the Company's cash,
+cash equivalents and short-term investments, less interest expense on bank
+borrowings of VeriSign Japan and the effect of foreign currency transaction
+gains and losses.
+
+                                       13
+<PAGE>
+ 
+     The increase in other income from 1997 to 1998 is primarily due to a higher
+cash and short-term investment base as a result of the proceeds from the
+Company's initial public offering on January 30, 1998.
+
+     PROVISION FOR INCOME TAXES
+
+     No provision for federal and California income taxes has been recorded
+because the Company has experienced net losses since inception. As of December
+31, 1997, the Company had federal and California net operating loss
+carryforwards of approximately $26.9 million and $27.1 million, respectively.
+These federal and California net operating loss carryforwards will expire, if
+not utilized, in years 2010 through 2014 and in 2003, respectively.
+
+     MINORITY INTEREST IN NET LOSS OF SUBSIDIARY
+
+     Minority interest in the net losses of VeriSign Japan was $325,000 and
+$482,000 during the second quarters of 1998 and 1997, respectively, and $713,000
+and $787,000 during the first halves of 1998 and 1997, respectively. The
+decrease from 1997 to 1998 was primarily due to increased revenue from VeriSign
+Japan as compared to the prior year. VeriSign Japan is still in the early stage
+of operations, and, therefore, the Company expects that the minority interest in
+net loss of subsidiary will continue to fluctuate in future periods.
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS OF OPERATIONS
+
+     LIMITED OPERATING HISTORY; HISTORY OF LOSSES AND ANTICIPATION OF FUTURE 
+     LOSSES
+
+     The Company was incorporated in April 1995 and began introducing its
+products and services in June 1995. Accordingly, the Company has only a limited
+operating history on which to base an evaluation of its business and prospects.
+The Company's prospects must be considered in light of the risks and
+uncertainties encountered by companies in the early stages of development,
+particularly companies in new and rapidly evolving markets. The Company's
+success will depend on many factors, including, but not limited to, the
+following: the rate and timing of the growth and use of IP networks for
+communications and commerce and the extent to which digital certificates are
+used for such communications and commerce; the demand for the Company's products
+and services; the levels of competition; the perceived security of
+communications and commerce over IP networks, and of the Company's
+infrastructure, products and services in particular; and the Company's continued
+ability to maintain its current, and enter into additional, strategic
+relationships. To address these risks the Company must, among other things:
+attract and retain qualified personnel; respond to competitive developments;
+successfully introduce new products and services; successfully introduce
+enhancements to its existing products and services to address new technologies
+and standards; and successfully market its digital certificates and its
+enterprise and electronic commerce solutions. There can be no assurance that the
+Company will succeed in addressing any or all of these risks, and the failure to
+do so would have a material adverse effect on the Company's business, operating
+results and financial condition. In addition, the Company has experienced
+substantial net losses in each fiscal period since its inception and, as of June
+30, 1998, had an accumulated deficit of $41.5 million. Such net losses and
+accumulated deficit resulted from the Company's lack of substantial revenues and
+the significant costs incurred in the development and sale of the Company's
+products and services and in the establishment and deployment of the Company's
+operations, infrastructure and practices. The Company's limited operating
+history, the emerging nature of its market and the factors described under "--
+Adoption of IP Networks", among other factors, make prediction of the Company's
+future operating results difficult. In addition, the Company intends to increase
+its expenditures in all areas in order to execute its business plan. As a
+result, the Company expects to incur substantial additional losses for the
+foreseeable future. Furthermore, to the extent the Company's majority-owned
+subsidiary, VeriSign Japan, is unable to continue to fund its operations with
+investments from minority shareholders, the Company may be required to fund the
+operations of VeriSign Japan, which could have a material adverse effect on the
+Company's business, operating results and financial condition. Although the
+Company has experienced revenue growth in recent periods, there can be no
+assurance that such growth rates are sustainable and, therefore, they should not
+be considered indicative of future operating results. There can also be no
+assurance that the Company will ever achieve significant revenues or
+profitability or, if significant revenues and profitability are achieved, that
+they could be sustained.
+
+                                       14
+<PAGE>
+ 
+     ADOPTION OF IP NETWORKS
+
+     In order for the Company to be successful, IP networks must be adopted as a
+means of trusted and secure communications and commerce to a sufficient extent
+and within an adequate time frame. Because trusted and secure communications and
+commerce over IP networks is new and evolving, it is difficult to predict with
+any assurance the size of this market and its growth rate, if any. To date, many
+businesses and consumers have been deterred from utilizing IP networks for a
+number of reasons, including, but not limited to, potentially inadequate
+development of network infrastructure, security concerns, inconsistent quality
+of service, lack of availability of cost-effective, high-speed service, limited
+numbers of local access points for corporate users, inability to integrate
+business applications on IP networks, the need to interoperate with multiple and
+frequently incompatible products, inadequate protection of the confidentiality
+of stored data and information moving across IP networks and a lack of tools to
+simplify access to and use of IP networks. The adoption of IP networks for
+trusted and secure communications and commerce, particularly by individuals and
+entities that historically have relied upon traditional means of communications
+and commerce, will require a broad acceptance of new methods of conducting
+business and exchanging information. Companies and government agencies that
+already have invested substantial resources in other methods of conducting
+business may be reluctant to adopt a new strategy that may limit or compete with
+their existing efforts. Furthermore, individuals with established patterns of
+purchasing goods and services and effecting payments may be reluctant to alter
+those patterns.
+
+     The use of IP networks for trusted and secure communications and commerce
+may not increase or may increase more slowly than expected because the
+infrastructure required to support widespread trusted and secure communications
+and commerce on such networks may not develop. For example, the Internet has
+experienced, and may continue to experience, significant growth in its number of
+users and amount of traffic. There can be no assurance that the Internet
+infrastructure will continue to support the demands placed on it by this
+continued growth or that the performance or reliability of the Internet will not
+be adversely affected by this continued growth. In addition, IP networks could
+lose their viability due to delays in the development or adoption of new
+standards and protocols to handle increased levels of activity or due to
+increased governmental regulation. Changes in, or insufficient availability of,
+communications services to support IP networks could result in slower response
+times and also adversely affect usage of IP networks. If the market for trusted
+and secure communications and commerce over IP networks fails to develop or
+develops more slowly than expected, or if the Internet infrastructure does not
+adequately support any continued growth, the Company's business, operating
+results and financial condition would be materially adversely affected.
+
+     NO ASSURANCE OF MARKET ACCEPTANCE FOR DIGITAL CERTIFICATES AND THE
+COMPANY'S PRODUCTS AND SERVICES
+
+     The Company's products and services are targeted at the market for trusted
+and secure communications and commerce over IP networks, a market that is at an
+early stage of development and is rapidly evolving. Accordingly, demand for and
+market acceptance of digital certificate solutions are subject to a high level
+of uncertainty. There can be no assurance that digital certificates will gain
+market acceptance as a necessary element of trusted and secure communications
+and commerce over IP networks. In addition, there can be no assurance that the
+market for the Company's products and services will develop in a timely manner,
+or at all, or that demand for the Company's products and services will emerge or
+be sustainable. The factors that may affect the level of market acceptance of
+digital certificates and, consequently, the Company's products and services,
+include the following: market acceptance of products and services based upon
+authentication technologies other than those used by the Company; public
+perception of the security of digital certificates and of the inherent security
+levels of IP networks; the ability of the Internet infrastructure to accommodate
+increased levels of usage; and the enactment of government regulations affecting
+communications and commerce over IP networks. Even if digital certificates
+achieve market acceptance, there can be no assurance that the Company's products
+and services will adequately address the market's requirements. If digital
+certificates do not achieve market acceptance in a timely manner and sustain
+such acceptance, or if the Company's products and services in particular do not
+achieve or sustain market acceptance, the Company's business, operating results
+and financial condition would be materially adversely affected.
+
+                                       15
+<PAGE>
+ 
+     SYSTEM INTERRUPTION AND SECURITY BREACHES
+
+     The Company's success is largely dependent on the uninterrupted operation
+of its Digital ID Centers and its other computer and communications systems,
+which is dependent on the Company's ability to protect such systems from loss,
+damage or interruption caused by fire, earthquake, power loss,
+telecommunications failure or other events beyond the Company's control. Most of
+the Company's systems are located at, and most of its customer information is
+stored in, its facilities in Mountain View, California and Kawasaki, Japan,
+areas susceptible to earthquakes. Although the Company believes that its
+existing and planned precautions are adequate to prevent any significant loss of
+information or system outage, there can be no assurance that unanticipated
+problems will not cause such loss or failure. Any damage or failure that causes
+interruptions in the Company's Digital ID Centers and its other computer and
+communications systems could have a material adverse effect on the Company's
+business, operating results and financial condition. In addition, the ability of
+the Company to issue digital certificates is also dependent on the efficient
+operation of the Internet connections from customers to its Digital ID Centers.
+Such connections, in turn, are dependent upon efficient operation of Web
+browsers, Internet Service Providers and Internet backbone service providers,
+all of which have had periodic operational problems or experienced outages in
+the past. Any such problems or outages could adversely affect customer
+satisfaction with the Company's products and services, which could have a
+material adverse effect on the Company's business, operating results and
+financial condition. The Company's success also depends in large part upon the
+scaleability of its systems, which have not been tested at high volumes. As
+such, it is possible that a substantial increase in demand for the Company's
+products and services could cause interruptions in the Company's systems that
+could adversely affect the Company's ability to deliver its products and
+services. Any such interruptions could have a material adverse effect on the
+Company's business, operating results and financial condition.
+
+     The Company retains confidential customer information in its Digital ID
+Centers. It is critical to the Company's business strategy that the Company's
+facilities and infrastructure remain secure and that such facilities and
+infrastructure are perceived by the marketplace to be secure. Despite the
+implementation of security measures, the Company's infrastructure may be
+vulnerable to physical break-ins, computer viruses, attacks by hackers or
+similar disruptive problems, and it is possible that in the future the Company
+may have to expend additional financial and other resources to further address
+such problems. Any physical or electronic break-ins or other security breaches
+or compromises of the private root keys stored at the Company's Digital ID
+Centers may jeopardize the security of information stored on the Company's
+premises or stored in and transmitted through the computer systems and networks
+of the businesses and individuals utilizing the Company's products and services,
+which could result in significant liability to the Company and could deter
+existing and potential customers from using the Company's products and services.
+Such an occurrence could result in adverse publicity and therefore adversely
+affect the market's perception of the security of communications and commerce
+over IP networks as well as of the security or reliability of the Company's
+products and services, which would have a material adverse effect on the
+Company's business, operating results and financial condition.
+
+     COMPETITION
+
+     The Company's digital certificate solutions are targeted at the new and
+rapidly evolving market for trusted and secure communications and commerce over
+IP networks. Although the competitive environment in this market has yet to
+develop fully, the Company anticipates that it will be intensely competitive
+subject to rapid change and significantly affected by new product and service
+introductions and other market activities of industry participants.
+
+     The Company's primary competitors are Entrust Technologies, Inc., GTE
+CyberTrust Solutions Incorporated and International Business Machines
+Corporation. The Company also experiences competition from a number of smaller
+companies that provide digital certificate solutions. The Company expects that
+competition from established and emerging companies in the financial and
+telecommunications industries will increase in the near term, and that the
+Company's primary long-term competitors may not yet have entered the market.
+Netscape Communications Corporation has introduced software products that enable
+the issuance and management of digital certificates, and the Company believes
+that other companies could introduce such products. There can be no assurance
+that additional companies will not offer digital certificate solutions that are
+competitive with those of the Company. Increased competition could result in
+pricing pressures, reduced margins or the failure of the Company's products and
+services to achieve or 
+
+                                       16
+<PAGE>
+ 
+maintain market acceptance, any of which could have a material adverse effect on
+the Company's business, operating results and financial condition.
+
+     Several of the Company's current and potential competitors have longer
+operating histories and significantly greater financial, technical, marketing
+and other resources than the Company and therefore may be able to respond more
+quickly than the Company to new or changing opportunities, technologies,
+standards and customer requirements. Many of these competitors also have broader
+and more established distribution channels that may be used to deliver competing
+products or services directly to customers through bundling or other means. If
+such competitors were to bundle with their products competing products or
+services for their customers, the demand for the Company's products and services
+might be substantially reduced and the ability of the Company to distribute its
+products successfully and the utilization of its services would be substantially
+diminished. In addition, browser companies that embed the Company's root keys or
+otherwise feature the Company as a provider of digital certificate solutions in
+their Web browsers or on their Web sites could also promote competitors of the
+Company or charge the Company substantial fees for such promotions in the
+future. New technologies and the expansion of existing technologies may increase
+the competitive pressures on the Company. There can be no assurance that
+competing technologies developed by others or the emergence of new industry
+standards will not adversely affect the Company's competitive position or render
+its products or technologies noncompetitive or obsolete. In addition, the market
+for digital certificates is nascent and is characterized by announcements of
+collaborative relationships involving competitors of the Company. The existence
+or announcement of such relationships could adversely affect the Company's
+ability to attract and retain customers. As a result of the foregoing and other
+factors, there can be no assurance that the Company will compete effectively
+with current or future competitors or that competitive pressures faced by the
+Company will not have a material adverse effect on the Company's business,
+operating results and financial condition.
+
+     In connection with the Company's first round of financing, RSA contributed
+certain technology to the Company and entered into a noncompetition agreement
+with the Company pursuant to which RSA agreed that it would not compete with the
+Company's certificate authority business for a period of five years. This
+noncompetition agreement will expire in April 2000. The Company believes that,
+because RSA (which is now a wholly-owned subsidiary of Security Dynamics
+Technologies, Inc.) has already developed expertise in the area of cryptography,
+its barriers to entry would be lower than those that would be encountered by
+other potential competitors of the Company should it choose to enter any of the
+Company's markets. If RSA were to enter into the digital certificate market, the
+Company's business, operating results and financial condition could be
+materially adversely affected.
+
+     MANAGEMENT OF GROWTH AND EXPANSION
+
+     The Company is currently experiencing a period of significant expansion.
+The Company's historical growth has placed, and such growth and any further
+growth is likely to continue to place, a significant strain on the Company's
+managerial, operational, financial and other resources. The Company has grown
+from 149 employees at June 30, 1997 to 230 employees at June 30, 1998. In
+addition, the Company has opened additional sales offices and has significantly
+expanded its operations during this time period. The Company's future success
+will depend, in part, upon the ability of its senior management to manage growth
+effectively, which will require the Company to implement additional management
+information systems, to develop further its operating, administrative, financial
+and accounting systems and controls and to maintain close coordination among its
+engineering, accounting, finance, marketing, sales and operations organizations.
+Any failure to implement or improve systems or controls or to manage any future
+growth and expansion effectively could have a material adverse effect on the
+Company's business, operating results and financial condition.
+
+                                       17
+<PAGE>
+ 
+IMPACT OF THE YEAR 2000 ISSUE
+
+     Many computer programs have been written using two digits rather than four
+to determine the applicable year. The Company's computer programs that have 
+date-sensitive software may recognize a date using "00" as the year 1900 rather
+than the year 2000 or may be otherwise be unable to distinguish 21st century
+dates. This failure could result in system failures or miscalculations causing
+disruptions of operations, including, among other things, a temporary inability
+to process transactions, send invoices, or engage in similar normal business
+activities.
+
+     The Company has initiated a comprehensive study of its computer systems to
+review and test for year 2000 issues. The Company is also assessing the
+capability of its products sold to customers to handle the year 2000 and has a
+plan in place to address product issues during 1998. Management believes that
+the likelihood of a material adverse impact due to problems with internal
+systems or products sold to customers is remote and expects that the cost of
+these projects over the next two years will not have a material effect on the
+Company's business, results of operations or financial condition. In addition,
+the Company will be contacting significant suppliers of products and services to
+determine whether the supplier's operations and their products and services are
+year 2000 compliant. There can be no assurance that another company's failure to
+ensure year 2000 capability would not have a material adverse effect on the
+Company's business, results of operations or financial condition.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Prior to its initial public offering, the Company and its Japanese
+subsidiary financed their operations primarily through private sales of equity
+securities raising approximately $45.6 million. The Company's initial public
+offering, which closed in February 1998, yielded net proceeds of approximately
+$43.7 million. At June 30, 1998, the Company had approximately $45.9 million in
+cash, cash equivalents and short-term investments.
+
+     The Company also has an equipment loan agreement under which it may borrow
+up to $3.0 million for purchases of equipment. This equipment loan agreement
+expires on March 31, 1999. Any amounts borrowed under this equipment loan
+agreement would bear interest at the rate of 7.5 percent per annum and would be
+secured by the equipment purchased with the loan proceeds. In the event that the
+Company borrows under this loan agreement, it would be obligated to issue to the
+lender a warrant to purchase 17,500 shares of Common Stock. The Company
+currently has no plans to borrow any amounts under this loan agreement.
+
+     The Company has had significant negative cash flows from operating
+activities in each fiscal period to date. Net cash used in operating activities
+during the first half of 1998 was $7.7 million as compared to $8.3 million
+during the first half of 1997. The decrease was primarily the result of an
+increase in both deferred revenue and accrued liabilities, offset in part by
+increases in the Company's net loss and receivables.
+
+     Net cash used in investing activities in the first half of 1998 was $17.4
+million as compared with $14.4 in the first half of 1997. Cash was used for
+capital expenditures for computer equipment, purchased software, office
+equipment, furniture, fixtures and leasehold improvements. The Company has
+planned capital expenditures for the remainder of 1998 of approximately $1.0
+million to $2.0 for computer systems for development, sales and marketing,
+product support and administrative staff. Also during the first half of 1998,
+the Company purchased net short-term investments totaling $15.0 million. The
+Company's principal commitments as of June 30, 1998 consisted of obligations
+under noncancelable operating leases.
+
+     On July 6, 1998, the Company issued approximately 1,666,000 shares of its
+common stock in exchange for all of the outstanding common stock of SecureIT,
+Inc., a provider of Internet security products and services. The business
+combination will be accounted for as a pooling-of-interests combination, and the
+Company expects to incur approximately $5.0 million in additional costs related
+to the transaction.
+
+     Net cash provided by financing activities in the first half of 1998 was
+$44.1 million as compared to $616,000 in the first half of 1997. The increase
+was primarily attributable to the $43.8 million in net
+
+                                       18
+<PAGE>
+ 
+proceeds from the Company's initial public offering.
+
+     The Company believes that its existing cash, cash equivalents and short-
+term investments will be sufficient to meet its working capital and capital
+expenditure requirements for the next twelve months. After that time, the
+Company may need to raise additional funds through public or private financing,
+strategic relationships or other arrangements. There can be no assurance that
+such additional funding, if needed, will be available on terms attractive to the
+Company, or at all. Strategic relationships, if necessary to raise additional
+funds, may require the Company to relinquish rights to certain of its
+technologies or products. The failure of the Company to raise capital when
+needed could have a material adverse affect on the Company's business, operating
+results and financial condition. If additional funds are raised through the
+issuance of equity securities, the percentage ownership of the Company of its
+then-current stockholders would be reduced. Furthermore, such equity securities
+might have rights, preferences or privileges senior to those of the Company's
+Common Stock.
+
+ITEM 3.     QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Not applicable.
+
+                                       19
+<PAGE>
+ 
+PART II -- OTHER INFORMATION
+
+ITEM 2.     CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+(d)  Use of Proceeds.
+
+     On January 30, 1998, the Company completed an initial public offering of
+its Common Stock, $.001 par value (the "Offering"). The managing underwriters in
+the Offering were Morgan Stanley & Co. Incorporated, Hambrecht & Quist LLC and
+Wessels, Arnold & Henderson, L.L.C. (the "Underwriters"). The shares of Common
+Stock sold in the Offering were registered under the Securities Act of 1933, as
+amended, on a Registration Statement on Form S-1 (No. 333-40789) (the
+"Registration Statement"). The Registration Statement was declared effective by
+the Securities and Exchange Commission (the "SEC") on January 29, 1998.
+
+     On January 30, 1998, the Company commenced the Offering. The Offering
+terminated on January 30, 1998 after the Company had sold all of the 3,450,000
+shares of Common Stock registered under the Registration Statement (including
+450,000 shares sold pursuant to the exercise of the Underwriters' over-allotment
+option). The initial public offering price was $14 per share for an aggregate
+initial public offering of $48,300,000. After deducting the underwriting
+discounts and commissions and the Offering expenses, the net proceeds to the
+Company from the Offering were approximately $43,742,455.
+
+     During the six months ended June 30, 1998, the Company used approximately
+$7.7 million of the net proceeds from the Company's initial public offering to
+fund operating expenses and increase working capital and $2.1 million to
+purchase and install computers and peripheral equipment. The remaining $33.9
+million has been invested in short-term, interest-bearing, investment grade
+securities.
+
+ITEM 6.     EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)  Index to Exhibits
+
+      EXHIBIT
+      NUMBER                                EXHIBIT TITLE
+      -------           --------------------------------------------------------
+
+       27.01            Financial Data Schedule (available in EDGAR format only)
+
+(b)  Reports on Form 8-K
+
+     No reports on Form 8-K were filed in the three months ended June 30, 1998.
+
+                                       20
+<PAGE>
+ 
+                                  SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                        VERISIGN, INC.
+
+
+
+Date:  August 14, 1998                  By:       /s/  Stratton D. Sclavos
+                                            ------------------------------------
+                                                       Stratton D. Sclavos
+                                                            President
+                                                               and
+                                                     Chief Executive Officer
+
+
+Date:  August 14, 1998                  By:       /s/  Dana L. Evan
+                                           -------------------------------------
+                                                       Dana L. Evan
+                                                Vice President of Finance 
+                                                   and Administration
+                                                          and
+                                                 Chief Financial Officer
+                                                (Principal Financial and 
+                                                   Accounting Officer)
+
+                                       21
+<PAGE>
+ 
+                             SUMMARY OF TRADEMARKS
+
+     The following trademarks and service marks of VeriSign, Inc., which may be
+registered in certain jurisdictions, may be referenced in this Form 10-Q:
+
+TRADEMARKS
+
+     VeriSign Logo
+     VeriSign is a registered trademark exclusively licensed to VeriSign, Inc.
+
+SERVICE MARKS
+
+     Authentic Site/SM/
+     Digital ID/SM/
+     Digital ID Center/SM/
+     Electronic Credentials for the Internet/SM/
+     NetSure/SM/ Protection Plan
+     The Sign of Trust on the Internet/SM/
+     VeriSign OnSite/SM/
+     VeriSign Trust Network/SM/
+     VeriSign V-Commerce/SM/
+     WebPass/SM/ ID
+     WorldTrust/SM/ Services
+     WorldTrust/SM/ Architecture
+
+     All other brand or product names are trademarks or registered trademarks of
+their respective holders.
+
+                                       22
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.01
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary financial information extracted from the
+Consolidated Balance Sheet at June 30, 1998, and the Consolidated Statement of
+Operations for the six months ended June 30, 1998, and is qualified in its
+entirety by reference to such financial statements.
+</LEGEND>
+<RESTATED> 
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-1998
+<PERIOD-START>                             JAN-01-1998
+<PERIOD-END>                               JUN-30-1998
+<CASH>                                          22,883
+<SECURITIES>                                    22,994
+<RECEIVABLES>                                    4,630
+<ALLOWANCES>                                       302
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                51,272
+<PP&E>                                          14,119
+<DEPRECIATION>                                   4,888
+<TOTAL-ASSETS>                                  61,383
+<CURRENT-LIABILITIES>                           13,313
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            21
+<OTHER-SE>                                      46,516
+<TOTAL-LIABILITY-AND-EQUITY>                    61,383
+<SALES>                                          9,303
+<TOTAL-REVENUES>                                 9,303
+<CGS>                                            5,771
+<TOTAL-COSTS>                                   21,121
+<OTHER-EXPENSES>                                (1,013)
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                (10,092)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                            (10,092)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   (10,092)
+<EPS-PRIMARY>                                     (.54)
+<EPS-DILUTED>                                     (.54)
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

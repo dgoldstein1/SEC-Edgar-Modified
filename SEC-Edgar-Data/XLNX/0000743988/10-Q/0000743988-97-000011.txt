@@ -1,0 +1,2522 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OY8hQIeyFSrGICEUVCFPGG1kENVmM7FJFQFSS+906wakc7XWqxN+qa7xzJu3ayFk
+ KwbS0AxOlOf+qoYkI3n3JQ==
+
+<SEC-DOCUMENT>0000743988-97-000011.txt : 19971110
+<SEC-HEADER>0000743988-97-000011.hdr.sgml : 19971110
+ACCESSION NUMBER:		0000743988-97-000011
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19970927
+FILED AS OF DATE:		19971107
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XILINX INC
+		CENTRAL INDEX KEY:			0000743988
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770188631
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-18548
+		FILM NUMBER:		97710004
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2100 LOGIC DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95124
+		BUSINESS PHONE:		4085597778
+
+	MAIL ADDRESS:	
+		STREET 2:		2100 LOGIC DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95124
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+
+                                   FORM 10-Q
+
+
+
+(Mark  One)
+[ X ]  Quarterly report pursuant to Section 13 or 15(d) of the Securities
+Exchange Act of 1934 for the quarterly period ended September 27, 1997   or
+[   ]  Transition report pursuant to section 13 or 15(d) of the Securities
+Exchange Act of 1934 for the transition period from _______ to ________ .
+
+
+                       COMMISSION FILE NUMBER   0-18548
+
+                                 XILINX, INC.
+            (Exact name of registrant as specified in its charter)
+
+                                   DELAWARE
+         (State or other jurisdiction of incorporation or organization)
+
+                                  77-0188631
+                     (I.R.S. Employer Identification No.)
+
+                  2100 LOGIC DRIVE, SAN JOSE, CA       95124
+             (Address of principal executive offices)   (Zip Code)
+
+                                (408) 559-7778
+             (Registrant's telephone number, including area code)
+
+
+
+
+
+Indicate  by  check  mark  whether  the  registrant  (1) has filed all reports
+required  to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934  during  the  preceding  12  months  (or for such shorter period that the
+registrant  was  required  to  file such reports), and (2) has been subject to
+such  requirements  for  the  past  90  days.
+              YES  [  X  ]                NO  [     ]
+
+
+
+
+Class                               Shares Outstanding at September 27, 1997
+- -----                               ----------------------------------------
+Common Stock, $.01 par value           73,986,865
+
+
+
+
+Part I.     FINANCIAL INFORMATION
+
+Item 1.     Financial Statements
+
+<TABLE>
+<CAPTION>
+
+                                  XILINX, INC.
+                CONSOLIDATED CONDENSED STATEMENTS OF INCOME
+                 (in thousands except per share amounts)
+
+
+
+                                                    Three Months Ended        Six Months Ended
+                                                  Sept. 27,    Sept. 28,    Sept. 27,    Sept. 28,
+                                                    1997         1996         1997         1996
+                                                 -----------  -----------  -----------  -----------
+
+<S>                                              <C>          <C>          <C>          <C>
+Net revenues                                     $  150,272   $  130,579   $  311,033   $  280,779 
+
+Costs and expenses:
+     Cost of revenues                                56,048       50,658      116,954      103,983 
+     Write-off of discontinued product family             -        5,000            -        5,000 
+     Research and development                        19,950       16,748       39,888       34,585 
+     Marketing, general and administrative           31,226       28,709       63,892       58,257 
+                                                 -----------  -----------  -----------  -----------
+
+          Operating costs and expenses              107,224      101,115      220,734      201,825 
+                                                 -----------  -----------  -----------  -----------
+
+Operating income                                     43,048       29,464       90,299       78,954 
+
+Interest income and other                             5,303        5,407       11,089        9,767 
+Interest expense                                     (3,496)      (3,437)      (6,987)      (6,912)
+                                                 -----------  -----------  -----------  -----------
+
+Income before provision for taxes on income          44,855       31,434       94,401       81,809 
+
+Provision for taxes on income                        13,905       10,216       30,007       28,099 
+                                                 -----------  -----------  -----------  -----------
+
+Net income                                       $   30,950   $   21,218   $   64,394   $   53,710 
+                                                 ===========  ===========  ===========  ===========
+
+Net income per share                             $     0.38   $     0.27   $     0.79   $     0.68 
+                                                 ===========  ===========  ===========  ===========
+
+Weighted average common and common equivalent
+     shares used in computing per share amounts      81,416       79,378       81,371       79,161 
+                                                 ===========  ===========  ===========  ===========
+<FN>
+
+
+              (See accompanying Notes to Consolidated Condensed Financial Statements.)
+
+</TABLE>
+
+
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                 XILINX, INC.
+                     CONSOLIDATED CONDENSED BALANCE SHEETS
+                    (in thousands except per share amounts)
+
+                                                                      Sept. 27,    March 29,
+                                                                        1997         1997
+                                                                     -----------  -----------
+<S>                                                                  <C>          <C>
+ASSETS
+Current assets:
+    Cash and cash equivalents                                        $  260,372   $  215,903 
+    Short-term investments                                              174,241      209,944 
+    Accounts receivable, net                                             65,985       72,248 
+    Inventories                                                          54,313       62,367 
+    Advances for wafer purchases                                         37,000            - 
+    Deferred income taxes and other current assets                       44,641       41,093 
+                                                                     -----------  -----------
+
+Total current assets                                                    636,552      601,555 
+
+Property, plant and equipment, at cost                                  163,096      154,443 
+Accumulated depreciation and amortization                               (79,381)     (67,863)
+                                                                     -----------  -----------
+    Net property, plant and equipment                                    83,715       86,580 
+
+Restricted investments                                                   36,263       36,257 
+Investment in joint venture                                             101,116       35,286 
+Advances for wafer purchases                                             53,000       60,000 
+Developed technology and other assets                                    25,641       28,015 
+                                                                     -----------  -----------
+
+                                                                     $  936,287   $  847,693 
+                                                                     ===========  ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+    Accounts payable                                                 $   27,391   $   16,758 
+    Accrued payroll, other accrued liabilities and interest payable      31,361       33,282 
+    Income taxes payable                                                  7,840       10,858 
+    Deferred income on shipments to distributors                         46,881       36,355 
+                                                                     -----------  -----------
+
+Total current liabilities                                               113,473       97,253 
+
+Long-term debt                                                          250,000      250,000 
+Deferred tax liabilities                                                 10,753        9,760 
+
+Stockholders' equity:
+    Preferred stock, $.01 par value                                           -            - 
+    Common stock, $.01  par value                                           740          733 
+    Additional paid-in capital                                          123,273      114,530 
+    Retained earnings                                                   442,275      377,881 
+    Treasury Stock, at cost                                                   -       (1,847)
+    Cumulative translation adjustment                                    (4,227)        (617)
+                                                                     -----------  -----------
+
+                Total stockholders' equity                              562,061      490,680 
+                                                                     -----------  -----------
+
+                                                                     $  936,287   $  847,693 
+                                                                     ===========  ===========
+<FN>
+
+
+           (See accompanying Notes to Consolidated Condensed Financial Statements.)
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                      
+                                 XILINX, INC.
+                CONSOLIDATED CONDENSED STATEMENT OF CASH FLOWS
+               Increase (decrease) in cash and cash equivalents
+                                (in thousands)
+
+                                                                                           Six Months Ended 
+                                                                                        Sept. 27,    Sept. 28,
+                                                                                          1997         1996
+                                                                                       -----------  -----------
+
+<S>                                                                                    <C>          <C>
+Cash flows from operating activities:
+    Net income                                                                         $   64,394   $   53,710 
+    Adjustments to reconcile net income to net cash provided by operating activities:
+               Depreciation and amortization                                               15,768       12,770 
+               Undistributed earnings of joint venture                                     (1,028)        (408)
+               Changes in assets and liabilities:
+                       Accounts receivable                                                  6,263       12,153 
+                       Inventories                                                          8,054      (15,206)
+                       Deferred income taxes and other                                      6,752       (1,041)
+                       Accounts payable, accrued liabilities and income taxes payable       5,694       16,768 
+                       Deferred income on shipments to distributors                        10,526        1,620 
+                                                                                       -----------  -----------
+                               Total adjustments                                           52,029       26,656 
+                                                                                       -----------  -----------
+                                    Net cash provided by operating activities             116,423       80,366 
+
+Cash flows from investing activities:
+    Purchases of short-term available-for-sale investments                               (234,495)    (178,216)
+    Proceeds from sale or maturity of short-term available-for-sale investments           270,154      135,134 
+    Purchases of restricted held-to-maturity investments                                  (36,136)     (36,109)
+    Proceeds from maturity of restricted held-to maturity investments                      36,130       36,092 
+    Advances for wafer purchases                                                          (30,000)     (30,000)
+    Property, plant and equipment                                                         (10,556)     (17,151)
+    Investment in joint venture                                                           (67,422)           - 
+                                                                                       -----------  -----------
+                                     Net cash used in investing activities                (72,325)     (90,250)
+
+Cash flows from financing activities:
+    Acquisition of Treasury Stock                                                         (15,164)           - 
+    Principal payments on capital lease obligations                                             -         (478)
+    Proceeds from issuance of common stock                                                 15,535       13,550 
+                                                                                       -----------  -----------
+                                     Net cash provided by financing activities                371       13,072 
+                                                                                       -----------  -----------
+Net increase in cash and cash equivalents                                                  44,469        3,188 
+
+Cash and cash equivalents at beginning of period                                          215,903      110,893 
+                                                                                       -----------  -----------
+
+Cash and cash equivalents at end of period                                             $  260,372   $  114,081 
+                                                                                       ===========  ===========
+
+Schedule of non-cash transactions:
+    Tax benefit from stock options                                                     $   10,252   $    4,345 
+    Issuance of Treasury Stock under employee stock plans                                  17,011            - 
+    Receipts against advances for wafer purchases                                               -        8,963 
+
+Supplemental disclosures of cash flow information:
+    Interest paid                                                                           6,480        6,068 
+    Income taxes paid                                                                  $   26,087   $   22,773 
+<FN>
+
+
+                    (See accompanying Notes to Consolidated Condensed Financial Statements.)
+
+</TABLE>
+
+
+
+                                 XILINX, INC.
+             NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+
+
+1.        The accompanying interim consolidated financial statements have been
+prepared  in  conformity  with  generally  accepted  accounting principles and
+should  be  read  in  conjunction  with  the  Xilinx,  Inc.  ("Xilinx"  or the
+"Company")  consolidated  financial  statements  for  the year ended March 29,
+1997.    The balance sheet at March 29, 1997 is derived from audited financial
+statements,  although  certain  prior period amounts have been reclassified to
+conform to the fiscal 1998 presentation.  The interim financial statements are
+unaudited  but  reflect all adjustments which are in the opinion of management
+of  a  normal,  recurring nature necessary to present fairly the statements of
+financial  position,  results  of  operations  and  cash flows for the interim
+periods  presented.   The results for the six-month period ended September 27,
+1997  are  not  necessarily indicative of the results that may be expected for
+the  year  ending  March  28,  1998.
+
+2.        Inventories are stated at the lower of cost (first-in, first-out) or
+market  (estimated  net  realizable value).  Inventories at September 27, 1997
+and  March  29,  1997  are  as  follows:
+
+
+<TABLE>
+<CAPTION>
+
+                                   September 27,    March 29,
+                                        1997          1997
+                                   --------------  ----------      
+
+<S>                                <C>             <C>
+                  Raw materials    $        5,915  $    4,952
+                  Work-in-process          23,754      30,898
+                  Finished goods           24,644      26,517
+                                   --------------  ----------
+                                   $       54,313  $   62,367
+                                   ==============  ==========
+
+</TABLE>
+
+3.          The Company, United Microelectronics Corporation ("UMC") and other
+parties  have  entered  into  a joint venture to construct a wafer fabrication
+facility  in  Taiwan, known as United Silicon Inc. ("USI").  In July 1997, the
+Company  invested additional equity of $67.4 million in USI.  The Company will
+retain  its  25%  equity ownership in the joint venture.  UMC has committed to
+and  is supplying the Company with wafers manufactured in an existing facility
+until  capacity  is  available  in  the  new  facility.
+
+4.          In  February 1997, the Financial Accounting Standards Board issued
+Statement  No.  128, Earnings per Share, which the Company will be required to
+adopt  during the quarter ending December 31, 1997.  At that time, the Company
+will be required to change the method currently used to compute net income per
+share  and  to restate all prior periods.  The new requirements will include a
+calculation  of  "basic" net income per share, which will exclude the dilutive
+effect  of  stock  options.  The restated calculations of basic net income per
+share for the second quarter and first six months of fiscal 1998 result in net
+income  per  share  of $0.42 and $0.87 respectively.  Fiscal 1997's comparable
+periods  resulted in net income per share of $0.29 and $0.74, respectively.  A
+calculation of "diluted" net income per share will also be required.  However,
+this  calculation  is  not  expected to differ materially from the primary net
+income  per  share  amounts  reported  for  the  periods  presented.
+
+5.          The Company is currently involved in patent litigation with Altera
+Corporation  (see  Part  II, Item 1, Legal Proceedings).  Due to the uncertain
+nature of the litigation with Altera and because the lawsuits are still in the
+pre-trial stage, the ultimate outcome of these matters cannot be determined at
+this  time.   Management believes that it has meritorious defenses to Altera's
+claims, is defending them vigorously, and has not recorded a provision for the
+ultimate  outcome of these matters in its financial statements.  The foregoing
+is  a  forward-looking  statement  subject to risks and uncertainties, and the
+future  outcome  could  differ  materially  due to the uncertain nature of the
+litigation  with  Altera  and  because the lawsuits are still in the pre-trial
+stage.
+
+6.          Subsequent to September 27, 1997, the Company entered into a lease
+agreement  for  a  facility  to be built on property adjacent to the Company's
+corporate  facilities.   Building construction and occupancy is expected to be
+completed  in  calendar  1998.   Upon signing the lease agreement, the Company
+paid the lessor $31.3 million for prepaid rent and an option to purchase.  The
+rent prepayment covers one full year, and was discounted to its present value.
+Additionally,  the  Company can exercise the lease agreement's purchase option
+between  the  sixth  and  twelfth month following the commencement date of the
+lease  term.    If  the  Company  elects  to  exercise the option, the prepaid
+purchase  option  will be considered payment in full.  However, if the Company
+decides  not  to  exercise  the  purchase  option,  the prepaid option will be
+returned  without  interest  at  the  end  of  the  first  year  lease.
+
+
+
+Item 2.     Management's Discussion and Analysis of Financial Condition and 
+Results of Operations
+
+
+
+The  following  discussion  contains  forward-looking statements which involve
+numerous  risks  and  uncertainties.    Actual  results may differ materially.
+Certain  of  these risks and uncertainties are discussed under "Risk Factors".
+
+
+RESULTS  OF  OPERATIONS  -  SECOND QUARTER AND FIRST SIX MONTHS OF FISCAL 1998
+COMPARED  TO  THE  SECOND  QUARTER  AND  FIRST  SIX  MONTHS  OF  FISCAL  1997
+
+
+Revenues
+- --------
+
+Revenues  for  the  second  quarter  of fiscal 1998 were $150.3 million, which
+represented  a $19.7 million, or 15.1%, increase from the corresponding period
+of fiscal 1997.  In addition, revenues for the first six months of fiscal 1998
+were  $311.0  million,  up  10.8%  from the corresponding period of 1997.  The
+revenue  increase  during the second quarter of fiscal 1998 as compared to the
+same  quarter in the prior year was primarily attributable to increases in the
+volume  of  shipments relating to each of the Company's XC4000, XC4000X (which
+includes  the  Company's  XC4000EX  and  XC4000XL  devices)  and  XC5200 field
+programmable  gate  array  ("FPGA") product families.  The XC4000, XC4000X and
+XC5200  integrated  circuits  represented  60.2%  of aggregate revenues in the
+second  quarter  of  fiscal 1998 as compared to 51.5% of aggregate revenues in
+the  comparable quarter of the prior fiscal year.  The year to year percentage
+increase  was  primarily  due  to  the  growth  in  the Company's XC4000EX and
+XC4000XL  devices.    These high density devices were shipped in volume in the
+third  quarter  of  fiscal  1997  and  in  the  first  quarter of fiscal 1998,
+respectively, and together represented $11.7 million during the second quarter
+of  fiscal  1998.    In  comparison  to the immediately preceding quarter, the
+133.0%  sequential  growth  in  revenues  achieved  by  the  Company's XC4000X
+products  only  partially  offset the decline in revenues and unit volumes for
+the Company's older XC4000 products.  Revenues for the XC4000 family decreased
+$12.3  million,  or  16.5%, in comparison to the first quarter of fiscal 1998.
+The  decrease  from  the  first  quarter  of  fiscal 1998 is a function of the
+slowing  requirements  for these mature products and the increasing demand for
+the  functionality  and  performance  provided  by  the higher density XC4000X
+products.   Total revenues in the second quarter of fiscal 1998 as compared to
+the  immediately  preceding quarter decreased $10.5 million, or 6.5%, and were
+adversely impacted by a general slowdown in the global CMOS programmable logic
+industry,  a  seasonal  slowdown  in  Europe, reduced demand for the Company's
+mature  FPGA products, distributor inventory balancing and continued decreases
+in  selling  prices.
+
+Revenues  for  the  Company's  XC2000,  XC3000  and  XC3100  product families,
+represented  26.7% of aggregate revenues in the second quarter of fiscal 1998,
+compared  to  36.8% of aggregate revenues during the comparable quarter of the
+prior fiscal year.  The decrease is a function of the slowing requirements for
+these products and the increasing demand for the functionality and performance
+provided  by  the  Company's  higher  density  FPGA  devices.
+
+Other  products, consisting primarily of the complex programmable logic device
+("CPLD")  families,  HardWire  Arrays  and  serial proms, represented 13.1% of
+aggregate  revenues  in the second quarter of fiscal 1998 compared to 11.7% of
+aggregate  revenues for the comparable quarter of the prior year.  Proprietary
+products  constituted 94.4% of revenues for the second quarter of fiscal 1998,
+as  compared  to  88.9%  in  the  comparable quarter last year.  Additionally,
+software  revenues  represented  approximately  3%  of  total revenues for the
+second quarter of 1998, representing approximately 2200 revenue seats.  In the
+second  quarter of fiscal 1997, software revenues represented approximately 3%
+of  total  revenues,  representing  approximately  1100  revenue  seats.   The
+increase  in revenue seats from the prior year quarter resulted from increased
+demand for the Company's lower cost, easier to use Foundation Series software,
+and  increased  demand  in  the  software utilized to design high volume logic
+devices,  as  well  as  a  decrease  in  average  selling  prices.
+
+International  revenues constituted approximately 37% of total revenues in the
+second  quarter of fiscal 1998 in comparison to approximately 36% in the prior
+year  quarter.  International revenues are primarily derived from customers in
+Europe,  Japan  and Southeast Asia, which represent approximately 21%, 11% and
+5%  of  the  Company's  worldwide  sales, respectively.  Revenue growth in the
+European,  Japanese  and  Southeast  Asian markets was 11.4%, 19.2% and 56.1%,
+respectively,  in the second quarter of 1998 as compared to the second quarter
+in  1997.
+
+Gross  Margin
+- -------------
+
+Cost  of  revenues was $56.0 million, or 37.3% of revenues, and $117.0 million
+or  37.6%  of  revenues  for the second quarter and first six months of fiscal
+1998,  respectively.    Costs of revenues for the comparable periods of fiscal
+1997 were $50.7 million, or 38.8% of revenues, and $104.0 million, or 37.0% of
+revenues,  respectively,  excluding  the impact of a $5.0 million write-off of
+the  XC8100  product  family  of  one-time  programmable antifuse devices (see
+below).  The decrease in the cost of revenues as a percentage of revenues from
+the  prior  year  second  quarter  was primarily attributable to ongoing yield
+improvements  and  the  favorable  impact  of lower wafer costs, including the
+impact  of  favorable  movement  in the yen exchange rate, partially offset by
+selling  price  reductions.   In the past, Xilinx has also been able to offset
+much  of  the  erosion  in  gross margin percentages on more mature integrated
+circuits with increased volumes of newer, proprietary, higher margin products.
+The  Company  recognizes  that  ongoing  manufacturing cost reductions for its
+integrated  circuits, which assist the Company in its efforts to lower selling
+prices  while  maintaining historical margins, represent a significant element
+in  expanding  the  market for its products.  Company management believes that
+future  gross  margin  objectives  in  the range of 60% to 62% of revenues are
+consistent  with  expanding  market  share while realizing acceptable returns,
+although  there  can be no assurance that future gross margins will be in this
+range.
+
+During  the second quarter of fiscal 1997, the Company discontinued the XC8100
+family  of  one-time  programmable antifuse devices.  As a result, the Company
+recorded  a  pretax  charge  against  earnings  of  $5.0 million.  This charge
+primarily  related  to  the write-off of inventory and for termination charges
+related to purchase commitments to foundry partners for work-in-process wafers
+which  had  not  completed  the  manufacturing  process.
+
+Research  and  Development
+- --------------------------
+
+Research  and  development  expenditures  were  $20.0  million  for the second
+quarter  and  $39.9  million for the first six months of fiscal 1998, or 13.3%
+and  12.8%  of  revenues,  respectively.   The expenditures for the comparable
+periods  in  the prior year were $16.7 million and $34.6 million, or 12.8% and
+12.3% of revenues, respectively.  The 19.1% and 15.3% increase in expenditures
+over  the  prior  year  second  quarter  and  six month periods, respectively,
+resulted  primarily  from  increased  testing  of  development  products  and
+labor-related  expenses  partially  offset  by  a decline in engineering wafer
+purchases.    The Company remains committed to a significant level of research
+and  development  effort  in  order to continue to compete aggressively in the
+programmable  logic  marketplace.
+
+Marketing,  General  and  Administrative
+- ----------------------------------------
+
+Marketing,  general  and  administrative expenses decreased as a percentage of
+revenue  from 22.0% and 20.7% of revenues, or $28.7 million and $58.3 million,
+respectively, during the second quarter and first six months of fiscal 1997 to
+20.8% and 20.5% of revenues, or $31.2 million and $63.9 million, respectively,
+during the second quarter and first six months of fiscal 1998.  These expenses
+have  increased  in  amount  primarily  as  a result of increased staffing and
+labor-related  expenses  as well as increased legal costs. The Company remains
+committed  to  controlling  administrative  expenses and believes that most of
+these  expenses should grow at a lower rate than revenue growth.  However, the
+timing  and  extent  of  future  legal  costs  associated  with  the  ongoing
+enforcement  of  the  Company's  intellectual  property rights are not readily
+predictable  and  may  significantly  increase  the  level  of  general  and
+administrative  expenses  in  the  future.
+
+
+Operating  Income
+- -----------------
+
+Operating  income of $43.0 million, or 28.6% of revenues, was generated during
+the second quarter of fiscal 1998, an increase of 46.1% from the $29.5 million
+or  22.6%  of  revenues,  for the prior year comparable period.  Excluding the
+impact  of  the  $5.0  million  non-recurring  write-off of the XC8100 product
+family in the second quarter of fiscal 1997, the second quarter of fiscal 1998
+operating income increased 24.9% from $34.5 million, or 26.4% of revenues.  In
+addition,  operating  income for the first six months of fiscal 1998 increased
+14.4%  to  $90.3 million, or 29.0% of revenues, from $79.0 million or 28.1% of
+revenues  in  the  comparable fiscal 1997 period.  Excluding the impact of the
+$5.0  million  non-recurring  write-off,  the  first six months of fiscal 1998
+operating  income was 7.6% higher than the operating income for the comparable
+prior  year period.  The increase in operating income in the second quarter of
+1998 compared to the second quarter of 1997 is primarily a result of the 15.1%
+revenue  growth, the impact of the non-recurring write-off and lower growth in
+marketing,  general  and  administrative  expenses.    Operating  income  as a
+percentage  of  revenues  could  be  adversely impacted in future years by the
+factors  noted  under  "Risk  Factors".
+
+Interest  and  Other,  net
+- --------------------------
+
+The  Company  earns  interest income on its cash, cash equivalents, short-term
+investments  and  restricted  investments.  The amount of interest earned is a
+function of the balance of cash invested as well as prevailing interest rates.
+The  Company incurs interest expense on the $250 million of 5 1/4% convertible
+subordinated  notes  issued  in  November  1995.    The  Company's  investment
+portfolio  contains  tax-advantaged  municipal  securities,  which have pretax
+yields  that  are  less than the interest rate on the convertible subordinated
+notes.   For financial reporting purposes, the Company effectively records the
+difference  between  the  pretax  and  tax-equivalent yields as a reduction in
+provision  for  taxes  on  income.
+
+The Company also records 25% of the net income of United Silicon Inc. ("USI"),
+a  wafer fabrication joint venture in which the Company participates, as joint
+venture  equity income.  To date, USI's net income has resulted primarily from
+interest  earned on its investment portfolio.  The Company expects that as the
+USI wafer fabrication facility begins to ramp up operations over the next year
+the  Company  may  incur  joint  venture  equity  losses.
+
+Net interest and other income was relatively constant in the second quarter of
+fiscal  1998 compared to the second quarter of fiscal 1997.  For the first six
+months of fiscal 1998, net interest income was up $1.2 million to $4.1 million
+as  compared  to  the prior year six-month period.  The increased interest and
+other  income  for  the  first  six  months of fiscal 1998 over the prior year
+period  is primarily attributable to joint venture equity income.  As a result
+of  the  difference  in interest income and expense yields, future uses of the
+Company's  investment  portfolio  and operating results for USI, levels of net
+interest  and  other  income  could  decrease  in  the  future.
+
+Provision  for  Income  Taxes
+- -----------------------------
+
+The  Company recorded a tax provision of $13.9 million (31.0% of income before
+taxes)  for  the  second  quarter  of fiscal 1998 as compared to $10.2 million
+(32.5%  of  income before taxes) in the comparable prior year period.  For the
+first  six  months  of  fiscal  1998 the Company recorded a provision of $30.0
+million  (31.8% of income before taxes) as compared to $28.1 million (34.3% of
+income  before  taxes) for the first six months of fiscal 1997.  The lower tax
+rate  for  the first six months of fiscal 1998 is primarily due to legislation
+extending  the  R&D  Tax  Credit  as  well  as  increased  profits  in foreign
+operations.
+
+
+RISK  FACTORS
+
+The  following  risk  factors  are  associated  with  the  Company's business:
+
+Factors  Affecting  Future  Operating  Results
+- ----------------------------------------------
+
+The  semiconductor  industry  is  characterized by rapid technological change,
+intense  competitive  pressure  and  cyclical  market patterns.  The Company's
+results  of  operations  are  affected by a wide variety of factors, including
+general  economic  conditions,  conditions  relating  to technology companies,
+conditions  specific  to  the  semiconductor  industry,  decreases  in average
+selling  prices  over  the  life  of any particular product, the timing of new
+product  introductions  (by  the  Company,  its  competitors  and others), the
+ability  to  manufacture  sufficient quantities of a given product in a timely
+manner,  the  timely  implementation  of  new  manufacturing technologies, the
+ability  to  safeguard patents and intellectual property from competitors, and
+the  impact  of  new  technologies resulting in rapid escalation of demand for
+some  products  in  the  face  of  equally steep decline in demand for others.
+Market demand for the Company's products, particularly for those most recently
+introduced,  can  be  difficult  to predict, especially in light of customers'
+demands  to  shorten  product  lead  times  and  minimize  inventory  levels.
+Unpredictable  market  demand  could lead to revenue volatility if the Company
+were  unable to provide sufficient quantities of specified products in a given
+quarter.  In  addition,  any difficulty in achieving targeted wafer production
+yields could adversely impact the Company's financial condition and results of
+operations.   The Company attempts to identify changes in market conditions as
+soon  as  possible; however, the dynamics of the market make prediction of and
+timely  reaction  to  such  events  difficult.  Due to the foregoing and other
+factors, past results, including those described in this report, are much less
+reliable  predictors of the future than is the case in many older, more stable
+and  less  dynamic industries.  Based on the factors noted herein, the Company
+may  experience  substantial period-to-period fluctuations in future operating
+results.
+
+The  semiconductor  industry has historically been cyclical and subject to, at
+various  times,  significant  economic  downturns  characterized by diminished
+product  demand,  limited  visibility  to demand for products further out than
+three  to  six  months,  accelerated  erosion  of  average  selling prices and
+overcapacity.  The  Company  may  experience  substantial  period-to-period
+fluctuations in future operating results due to general semiconductor industry
+conditions,  overall  economic  conditions  or  other  factors.
+
+The Company's future success depends in large part on the continued service of
+its  key  technical,  sales,  marketing  and  management  personnel and on its
+ability  to  continue to attract and retain qualified employees.  Particularly
+important are those highly skilled design, process and test engineers involved
+in  the  manufacture  of existing products and the development of new products
+and processes.  The competition for such personnel is intense, and the loss of
+key employees could have a material, adverse effect on the Company's financial
+condition  and  results  of  operations.
+
+Sales and operations outside of the United States subject the Company to risks
+associated  with  conducting  business  in  foreign  economic  and  regulatory
+environments.    The  Company's  financial condition and results of operations
+could be adversely impacted by unfavorable economic conditions in countries in
+which it does significant business and by changes in foreign currency exchange
+rates  affecting  those  countries.    Additionally,  risks include government
+regulation  of  exports,  tariffs  and other potential trade barriers, reduced
+protection  for  intellectual property rights in some countries, and generally
+longer  receivable collection periods.  The Company's business is also subject
+to  the  risks  associated  with the imposition of legislation and regulations
+relating  specifically to the import or export of semiconductor products.  The
+Company  cannot  predict  whether  quotas,  duties,  taxes or other charges or
+restrictions  will be imposed by the United States or other countries upon the
+importation or exportation of the Company's products in the future or what, if
+any,  effect  such actions would have on the Company's financial condition and
+results  of  operations.
+
+In  order  to expand international sales and service, the Company will need to
+maintain  and  expand  existing  foreign  operations  or establish new foreign
+operations.    This  entails  hiring  additional  personnel and maintaining or
+expanding  existing  relationships  with  international distributors and sales
+representatives.    This  will  require  significant  management attention and
+financial  resources  and  could  adversely  affect  the  Company's  financial
+condition  and  results  of  operations.    There can be no assurance that the
+Company will be successful in its maintenance or expansion of existing foreign
+operations,  in  its establishment of new foreign operations or in its efforts
+to  maintain  or  expand  its relationships with international distributors or
+sales  representatives.
+
+Many  of  the  Company's operations are centered in an area of California that
+has been seismically active.  Should there be a major earthquake in this area,
+the  Company's  operations  may be disrupted resulting in the inability of the
+Company  to  ship  products  in  a timely manner, thereby materially adversely
+affecting  the  Company's  financial  condition  and  results  of  operations.
+
+In  addition,  the  securities  of  many  high  technology  companies  have
+historically  been subject to extreme price and volume fluctuations, which may
+adversely  affect  the  market  price  of  the  Company's  common  stock.
+
+Dependence  Upon  Independent  Manufacturers
+- --------------------------------------------
+
+The Company does not manufacture the wafers used for its products.  During the
+past  two  years, most of the Company's wafers have been manufactured by Seiko
+Epson  Corporation  ("Seiko  Epson")  and  United Microelectronics Corporation
+("UMC").   The Company has depended upon these suppliers and others to produce
+wafers  with  competitive  performance  and  cost  attributes,  including
+transitioning to advanced process technologies, producing wafers at acceptable
+yields,  and  delivering  them  to  the Company in a timely manner.  While the
+timeliness,  yield  and  quality  of  wafer  deliveries have met the Company's
+requirements  to  date,  there  can  be  no assurance that the Company's wafer
+suppliers  will not experience future manufacturing problems, including delays
+in  the  realization  of  advanced  process technologies.  The Company is also
+dependent  on  subcontractors to provide semiconductor assembly services.  Any
+prolonged  inability  to  obtain  wafers or assembly services with competitive
+performance  and  cost  attributes,  adequate yields or timely deliveries from
+these  manufacturers/subcontractors,  or  any  other  circumstance  that would
+require  the  Company  to  seek  alternative  sources  of  supply, could delay
+shipments,  and  have  a  material  adverse  effect on the Company's financial
+condition  and  results  of  operations.
+
+The  Company's  long-term  growth  will  depend in large part on the Company's
+ability  to  obtain  increased  wafer  fabrication capacity from suppliers.  A
+significant  increase in general industry demand or any interruption of supply
+could  reduce the Company's supply of wafers or increase the Company's cost of
+such  wafers,  thereby  materially adversely affecting the Company's financial
+condition  and  results  of  operations.
+
+In  order  to  secure additional wafer capacity, the Company from time to time
+considers  alternatives, including, without limitation, equity investments in,
+or  loans,  deposits,  or  other  financial  commitments to, independent wafer
+manufacturers  to  secure  production  capacity, or the use of contracts which
+commit  the  Company  to purchase specified quantities of wafers over extended
+periods.    Although  the  Company  is  currently  able  to obtain wafers from
+existing  suppliers  in a timely manner, the Company has at times been unable,
+and  may  in the future be unable, to fully satisfy customer demand because of
+production  constraints, including the ability of suppliers and subcontractors
+to  provide materials and services in satisfaction of customer delivery dates,
+as  well  as the ability of the Company to process products for shipment.  The
+Company's  future  growth  will  depend  in  part on its ability to locate and
+qualify  additional  suppliers  and  subcontractors  and  to  increase its own
+capacity to ship products, and there can be no assurance that the Company will
+be  able  to  do  so.    Any  increase  in  these constraints on the Company's
+production  could  result  in  a  material  adverse  impact  on  the Company's
+financial  condition  and  results of operations.  In this regard, the Company
+has  entered  into  the USI joint venture with UMC and other parties to obtain
+wafer capacity from a new wafer fabrication facility.  However, there are many
+risks  associated with the construction of a new facility, and there can be no
+assurance  that such facility will become operational and/or cost effective in
+a  timely manner.  In addition, the Company has entered into an agreement with
+Seiko  Epson  to  obtain  additional  capacity from a facility currently under
+construction  and expected to provide wafers in calendar 1998.  If the Company
+requires  additional capacity and such capacity is unavailable, or unavailable
+on  reasonable  terms,  the  Company's  financial  condition  and  results  of
+operations  could  be  materially  adversely  affected.
+
+Litigation
+- ----------
+
+The  Company is currently engaged in patent litigation with Altera Corporation
+("Altera").    See  "Legal  Proceedings"  in  Part  II.
+
+Dependence  on  New  Products
+- -----------------------------
+
+The  Company's  future success depends in large part on its ability to develop
+and  introduce  on  a  timely  basis  new  products  which  address  customer
+requirements  and  compete  effectively on the basis of price and performance.
+The  success  of  new product introductions is dependent upon several factors,
+including  timely  completion  of  new product designs, the ability to utilize
+advanced  process technologies, achievement of acceptable yields, availability
+of  supporting  design  software  and  market acceptance.  No assurance can be
+given  that  the  Company's  product development efforts will be successful or
+that  its  new  products will achieve market acceptance.  Revenues relating to
+the  Company's mature FPGA products are expected to continue to decline in the
+future  as  a  percentage  of  aggregate  revenues,  and  the  Company will be
+increasingly  dependent  on  revenues  derived  from  newer product generation
+FPGAs,  other  existing products and future generation products.  In addition,
+the average selling price for any particular product tends to decrease rapidly
+over  the  product's  life.    To  offset  such  decreases, the Company relies
+primarily on obtaining yield improvements and corresponding cost reductions in
+the  manufacture  of  existing  products and on introducing new products which
+incorporate  advanced  features  and other price/performance factors such that
+higher  average  selling  prices and higher margins are achievable relative to
+mature product lines.  To the extent that such cost reductions and new product
+introductions  do  not  occur in a timely manner, or the Company's products do
+not  achieve  market  acceptance  at prices with higher margins, the Company's
+financial  condition  and  results  of operations could be adversely affected.
+
+Competition
+- -----------
+
+The  Company's  FPGA  and  CPLD  products  compete  in  the programmable logic
+marketplace,  with  a  substantial  majority of the Company's revenues derived
+from  its FPGA product families.  The industries in which the Company competes
+are intensely competitive and are characterized by rapid technological change,
+rapid  product obsolescence and continuous price erosion.  The Company expects
+significantly  increased competition both from existing competitors and from a
+number  of  companies  that  may  enter  its  market.
+
+Xilinx  believes  that important competitive factors in the programmable logic
+market  include  price,  product  performance and reliability, adaptability of
+products  to  specific  applications,  ease of use and functionality of design
+software, and the ability to provide timely customer service and support.  The
+Company's  strategy  for  expansion  in the programmable logic market includes
+continued  price reductions commensurate with the ability to lower the cost of
+manufacture for established products and continued introduction of new product
+architectures which address high volume, low cost applications as well as high
+performance,  leading  edge  density  applications.   However, there can be no
+assurance  that  the Company will be successful in achieving these strategies.
+
+The  Company's  major  sources of competition are comprised of three elements:
+the  manufacturers  of  custom  CMOS  gate  arrays,  providers of high density
+programmable logic products characterized by FPGA-type architectures and other
+providers  of  programmable  logic products.  The Company competes with custom
+gate  array  manufacturers  on  the  basis  of  lower  design  costs,  shorter
+development  schedules and reduced inventory risks.  The primary attributes of
+custom  gate  arrays  are high density, high speed and low production costs in
+high  volumes.    The  Company  continues  to develop lower cost architectures
+intended  to narrow the gap between current custom gate array production costs
+(in  high  volumes) and FPGA production costs.  The Company competes with high
+density  programmable logic suppliers on the basis of performance, the ability
+to  deliver  complete  solutions  to  customers  and  customer support, taking
+advantage  of  the  primary  characteristics  of  flexible,  high  speed
+implementation  and  quick  time-to-market  capabilities  of the Company's PLD
+product  offerings.    In addition, the Company competes with manufacturers of
+other  programmable  logic products on the basis of price, performance, design
+and  software utility.  Some of the Company's current or potential competitors
+have  substantially  greater financial, manufacturing, marketing and technical
+resources  than  Xilinx.    To the extent that such efforts to compete are not
+successful,  the Company's financial condition and results of operations could
+be  materially  adversely  affected.
+
+Intellectual  Property
+- ----------------------
+
+The  Company  relies upon patent, trademark, trade secret and copyright law to
+protect  its  intellectual  property.    There  can  be no assurance that such
+intellectual  property  rights  can  be successfully asserted in the future or
+will not be invalidated, circumvented or challenged.  From time to time, third
+parties, including competitors of the Company, have asserted exclusive patent,
+copyright  and  other  intellectual  property  rights to technologies that are
+important  to  the Company.  There can be no assurance that third parties will
+not  assert  infringement  claims  against  the  Company  in  the future, that
+assertions  by  third parties will not result in costly litigation or that the
+Company  would  prevail in such litigation or be able to license any valid and
+infringed  patents  from  third  parties  on  commercially  reasonable  terms.
+Litigation,  regardless  of  its outcome, could result in substantial cost and
+diversion  of  resources  of  the  Company.    Any infringement claim or other
+litigation  against  or  by the Company could materially, adversely affect the
+Company's  financial  condition  and  results  of  operations.
+
+
+
+FINANCIAL  CONDITION,  LIQUIDITY  AND  CAPITAL  RESOURCES
+
+The  Company's  financial  condition  at  September  27, 1997 remained strong.
+Total current assets exceeded total current liabilities by 5.6 times, compared
+to  6.2  times at March 29, 1997.  Since its inception, the Company has used a
+combination  of  equity  and  debt  financing and cash flow from operations to
+support  on-going  business  activities,  make acquisitions and investments in
+complementary  technologies,  obtain  facilities  and  capital  equipment  and
+finance  inventory  and  accounts  receivable.
+
+The  Company  continued  to generate positive cash flow from operations during
+the  first  six  months of fiscal 1998.  As of September 27, 1997, the Company
+had  cash,  cash  equivalents and short-term investments of $434.6 million and
+working  capital  of  $523.1  million.  Cash generated by operations of $116.4
+million  for the first six months of fiscal 1998 was $36.1 million higher than
+the  $80.4  million  generated  for  the first six months of fiscal 1997.  The
+increase in cash generated by operations during the first six months of fiscal
+1998  over  the  comparable  fiscal  1997  period  resulted primarily from the
+favorable  cash  flow  impact  of  net  income,  changes in deferred income on
+shipments to distributors and reduced inventories, which were partially offset
+by  the  unfavorable  cash flow impact of changes in accounts payable, accrued
+liabilities  and  income  taxes  payable.
+
+Cash  flows  used  for investing activities for the six months ended September
+27, 1997, included an additional equity investment of $67.4 million in the USI
+joint  venture  (see  Note  3  of  Notes  to  Consolidated Condensed Financial
+Statements),  a  $30.0 million advance to Seiko Epson for wafer purchases, and
+$10.6  million  of  property,  plant  and  equipment  acquisitions, which were
+partially  offset  by  the  net  maturities  of  $35.7  million  in short-term
+investments.    In  the  first six months of fiscal 1997, investing activities
+used funds for an advance to Seiko Epson for wafer purchases of $30.0 million,
+in  addition  to net purchases of $43.1 million in short-term investments, and
+acquisitions  in  property,  plant  and  equipment  of $17.2 million.  Capital
+additions  in  the first six months of fiscal 1998 decreased $6.6 million from
+the  comparable  fiscal  1997  period,  primarily  due to reduced expenditures
+relating to the Company's facility constructed last year in Boulder, Colorado.
+
+Net cash flows provided by financing activities were $0.4 million in the first
+six  months  of  fiscal 1998 as the proceeds from the issuance of common stock
+under  employee  stock plans of $15.5 million were almost completely offset by
+the  acquisition  of  Treasury  Stock  during  the  six  month period of $15.2
+million.  For the comparable fiscal 1997 period, financing activities included
+$13.6  million in proceeds from issuance of common stock under corporate stock
+plans.
+
+Stockholders'  equity  increased  by  $71.4  million  at  September  27, 1997,
+principally  as  a result of the net income for the six months ended September
+27,  1997.    In  addition,  proceeds  from the issuance of common stock under
+employee  stock  plans and related tax benefits from stock options contributed
+to  the increase in equity, which was partially offset by the foreign exchange
+cumulative  translation  adjustment  in  the  period.  The increase during the
+first  six months of fiscal 1998 of $3.6 million in the cumulative translation
+adjustment  resulted  primarily  from  changes in the exchange rate of the New
+Taiwan  dollar  and  the resulting impact on the USI financial statements upon
+translation  from  New  Taiwan  dollars  into  U.S.  dollars.
+
+The  Company  has  available credit line facilities for up to $46.2 million of
+which $6.2 million is intended to meet occasional working capital requirements
+for  the  Company's  wholly owned Irish subsidiary.  At September 27, 1997, no
+borrowings  were  outstanding  under  the  lines  of  credit.
+
+In  July 1997, the Company invested additional equity of $67.4 million towards
+the  construction  of  the  USI wafer fabrication facility in Taiwan.  UMC has
+committed  to  supply  the  Company  with  wafers  manufactured in an existing
+facility  until  capacity  is  available  in  the new facility.  Subsequent to
+September  27,  1997,  a fire occurred at a UMC related facility.  The Company
+currently  does  not anticipate that this event will have an adverse effect on
+its  ability to obtain wafers from UMC in the near future, nor that this event
+will  adversely  impact  the  USI  joint  venture,  although  there  can be no
+assurance  of  this.
+
+In  addition,  during  the  second quarter of fiscal 1997, the Company entered
+into  an agreement with Seiko Epson.  The agreement provides for an advance to
+Seiko  Epson of up to $200.0 million to be used in the construction of a wafer
+fabrication  facility  in  Japan.  Through September 27, 1997, the Company has
+advanced  a  total  of  $90.0  million  to  Seiko  Epson  under the agreement.
+Additional  $30.0 million installments are currently scheduled for November 1,
+1997  and  February 1, 1998 or upon the start of mass production, whichever is
+later.   The final installment for the advance payment of $50.0 million is due
+on  or after the later of April 1, 1998 or the date the outstanding balance of
+the  advance  payment  is  less  than  $125.0  million, as a function of wafer
+deliveries against the amounts advanced.  In addition to the advance payments,
+the  Company  may also provide further funding to Seiko Epson in the amount of
+$100.0  million.    This  additional  funding  would  be  paid after the final
+installment  of  the  advance  and  the form of the additional funding will be
+negotiated  at  that  time.
+
+
+The  Company anticipates that existing sources of liquidity and cash flow from
+operations  will  be  sufficient  to  satisfy the Company's cash needs for the
+foreseeable  future.  The  Company will continue to evaluate opportunities for
+investments  to  obtain  additional  wafer supply capacity, procure additional
+capital  equipment  and  facilities,  develop  new  products,  and  potential
+acquisitions of businesses, products or technologies that would complement the
+Company's  businesses  and  may use available cash or other sources of funding
+for  such  purposes.
+
+
+
+Part II.    OTHER INFORMATION
+
+Item 1.     Legal Proceedings
+
+
+On  June 7, 1993, the Company filed suit against Altera Corporation ("Altera")
+in  the  United  States District Court for the Northern District of California
+for  infringement  of  certain of the Company's patents.  Subsequently, Altera
+filed  suit  against  the  Company,  alleging  that  certain  of the Company's
+products  infringe certain Altera patents.  Fact and expert discovery has been
+completed  in  both  cases,  which have been consolidated.  On April 20, 1995,
+Altera  filed  an  additional suit against the Company in the Federal District
+Court  in  Delaware,  alleging  that  the Company's XC5200 family infringes an
+Altera patent.  The Company answered the Delaware suit denying that the XC5200
+family  infringes  the  patent in suit, asserting certain affirmative defenses
+and  counterclaiming  that the Altera Max 9000 family infringes certain of the
+Company's  patents.    The  Delaware suit was transferred to the United States
+District  Court for the Northern District of California and is also before the
+same  judge.    In  October  1997,  the  Court  held a hearing with respect to
+construction  of  the  claims  of  the  various patents in suit.  The ultimate
+outcome  of  these  matters  cannot  be  determined  at this time.  Management
+believes that it has meritorious defenses to such claims and is defending them
+vigorously.  The foregoing is a forward-looking statement subject to risks and
+uncertainties,  and  the  future  outcome  could  differ materially due to the
+uncertain  nature  of  the litigation with Altera and because the lawsuits are
+still  in  the  pre-trial  stage.
+
+There are no other pending legal proceedings of a material nature to which the
+Company  is  a  party  or  of  which  any  of  its  property  is  the subject.
+
+
+Item 4.     Submission  of  Matters  to  a  Vote  of  Security  Holders
+
+The  following  matters  were  submitted  to  a  vote  of  security holders in
+conjunction  with  the Annual Meeting of Stockholders of Xilinx held on August
+7,  1997.
+
+
+(a)         Election of directors
+                                              Votes For     Votes Withheld
+                                              ----------    --------------
+            Bernard V. Vonderschmitt          65,959,933     831,136
+            Willem P. Roelandts               66,354,782     436,287
+            John L. Doyle                     66,317,244     473,825
+            Philip T. Gianos                  66,332,609     458,460
+            William G. Howard, Jr.            66,350,052     441,017
+
+(b)         To ratify and approve the Company's 1997 Stock Option Plan.
+
+            For         Against     Abstain   No Vote
+            ----------  ----------  -------   ---------
+            44,112,354  16,290,413  564,893   5,823,409
+
+(c)         To ratify and approve an amendment to the Company's 1990 Employee
+Qualified  Stock  Purchase  Plan to increase the number of shares reserved for
+issuance  thereunder  by  1,000,000  shares.
+
+            For         Against    Abstain  No Vote
+            ----------  ---------  -------  ---------
+            59,295,963  1,524,118  147,579  5,823,409
+
+
+(d)         To ratify and approve an amendment to the Company's Certificate of
+Incorporation  to  increase the authorized number of shares of Common Stock of
+the  Company  from  200,000,000  to  300,000,000  shares.
+
+
+            For          Against   Abstain  No Vote
+            ----------  ---------  -------  -------
+            64,476,331  2,162,711  152,027       --
+
+
+(e) To ratify the appointment of Ernst & Young LLP as independent 
+Auditors of  the  Company  for  the  fiscal  year  ended  March  28,  1998.
+
+
+            For         Against  Abstain  No Vote
+            ----------  -------  -------  -------
+            66,672,104   45,652   73,313       --
+
+
+
+Item 6.     Exhibits and Reports on Form 8-K.
+
+(a) Exhibit 10.17: Lease dated October 8, 1997 for an additional 
+                           Facility on Logic Drive, San Jose, California
+            Exhibit 11:    Statement of Computation of Net Income Per Share
+            Exhibit 12:    Statement of Computation of Ratio of Earning to 
+                           Fixed Charges
+
+(b)         Reports on Form 8-K - None
+
+
+
+                                  SIGNATURES
+
+
+
+
+
+Pursuant  to  the  requirements  of  the  Securities Exchange Act of 1934, the
+Registrant  has  duly  caused  this  report  to be signed on its behalf by the
+undersigned  thereunto  duly  authorized.
+
+
+
+
+
+
+Date  November 7, 1997        XILINX, INC.
+     ------------------       ---------------------
+                              /s/ Gordon M. Steel
+                              ---------------------
+                              Gordon M. Steel
+                              Senior Vice President of Finance and 
+                              Chief Financial Officer
+                              (as principal accounting and financial officer
+                              and on behalf of Registrant)
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.17
+<SEQUENCE>2
+<TEXT>
+
+
+                                                                 EXHIBIT 10.17
+
+                              STANDARD FORM LEASE
+
+PARTIES:  This  Lease,  executed  in  duplicate  at  Cupertino, California, on
+October  8,  1997,  by and between Berg & Berg Enterprises, Inc., a California
+Corporation,  and  Xilinx,  Inc.,  a  Delaware Corporation, hereinafter called
+respectively  Lessor  and  Lessee,  without  regard  to  number  or  gender.
+
+USE:  Witnesseth:  That  Lessor hereby leases to Lessee, and Lessee hires from
+Lessor,  for  the  purpose  of  conducting  therein  office,  research  and
+development,  light  manufacturing,  and  warehouse  activities, and any other
+legal  activity;  and for no other purpose without obtaining the prior written
+consent  of  Lessor.
+
+PREMISES:  The  real  property  with  appurtenances as shown on Exhibit A (the
+"Premises")  situated in the City of San Jose, County of Santa Clara, State of
+California,  and  more  particularly  described  as  follows:
+
+     The  Premises  includes  180,000  square  feet of building, including all
+improvements thereto, as shown on Exhibit A including the right to use all the
+parking  spaces  at the Premises.  The address for the Premises is _____ Logic
+Drive, San Jose, California.  Lessee's pro-rata share of the Premises is 100%.
+
+TERM:  The  term  shall be for one hundred twenty (120) months unless extended
+pursuant  to  Section  35  of this Lease (the "Lease Term"), commencing on the
+Commencement  Date as defined in Section 1 and ending one hundred twenty (120)
+months  thereafter.
+
+RENT:  Base  rent  shall  be  payable  in  monthly  installments  as  follows:
+
+
+                               Base rent
+                               ---------
+Months 1 through 12            $253,350
+
+Monthly base rent to increase by 3% on the annual anniversary of the
+Commencement Date each year during the Lease Term over the prior year's rent.
+
+Base  rent  as  scheduled  above  shall be payable in advance on or before the
+first  day  of each calendar month during the Lease Term.  The term "Rent," as
+used  herein,  shall be deemed to be and to mean the base monthly rent and all
+other  sums required to be paid by Lessee pursuant to the terms of this Lease.
+Rent  shall  be  paid in lawful money of the United States of America, without
+offset  or  deduction,  and shall be paid to Lessor at such place or places as
+may  be designated from time to time by Lessor.  Rent for any period less than
+a calendar month shall be a pro rata portion of the monthly installment.  Upon
+execution  of  this  Lease,  Lessee  shall  deposit with Lessor the sum of Two
+Million  Nine  Hundred  Forty-Nine  Thousand Dollars ($2,949,000) representing
+full  payment  of  the  first  year's  rent,  discounted  to  present  value.
+
+LATE CHARGES: Lessee hereby acknowledges that a late payment made by Lessee to
+Lessor  of  Rent and other sums due hereunder will cause Lessor to incur costs
+not  contemplated  by  this Lease, the exact amount of which will be extremely
+difficult  to  ascertain.    Such  costs  include,  but  are  not  limited to,
+processing  and  accounting charges, and late charges, which may be imposed on
+Lessor  according  to  the  terms  of  any mortgage or trust deed covering the
+Premises.    Accordingly, if any installment of Rent or any other sum due from
+Lessee  is  not  received  by Lessor or Lessor's designee within ten (10) days
+after  such  amount  is due, Lessee shall pay to Lessor a late charge equal to
+five  (5%) percent of such overdue amount.  The parties hereby agree that such
+late charge represents a fair and reasonable estimate of the costs Lessor will
+incur  by  reason  of  late  payments made by Lessee.  Acceptance of such late
+charges  by  Lessor  shall in no event constitute a waiver of Lessee's default
+with  respect  to  such  overdue  amount,  nor  shall  it  prevent Lessor from
+exercising  any  of  the  other  rights  and  remedies  granted  hereunder.
+Notwithstanding  the  above, Lessee shall not be required to pay a late charge
+if  it  is  the  result  of a non-recurring unusual event such as a accounting
+error.
+
+SECURITY  DEPOSIT:  Lessee  shall  deposit  with Lessor the sum of Two Hundred
+Fifty-Three  Thousand  Three  Hundred  Fifty Dollars ($253,350) (the "Security
+Deposit").    The Security Deposit shall be held by Lessor as security for the
+faithful  performance by Lessee of all of the terms, covenants, and conditions
+of  this  Lease applicable to Lessee.  If Lessee commits a default as provided
+for  herein,  including  but  not  limited  to  a  default with respect to the
+provisions  contained herein relating to the condition of the Premises, Lessor
+may (but shall not be required to) use, apply or retain all or any part of the
+Security  Deposit  for  the  payment  of  any amount which Lessor may spend by
+reason  of  default  by  Lessee.  If any portion of the Security Deposit is so
+used  or applied, Lessee shall, within ten days after written demand therefor,
+deposit  cash  with  Lessor  in  an  amount sufficient to restore the Security
+Deposit  to its original amount.  Lessee's failure to do so shall be a default
+by  Lessee.  Any attempt by Lessee to transfer or encumber its interest in the
+Security Deposit shall be null and void.  Upon execution of this Lease, Lessee
+shall  deposit  with  Lessor  the Security Deposit. Notwithstanding the above,
+Lessor  agrees  to waive the requirement for Lessee to make a Security Deposit
+provided  Lessee's  shareholder's equity exceeds $100 million.  If at any time
+during  this  Lease,  Lessee's shareholder's equity is less than $100 million,
+Lessee  shall deposit with Lessor the Security Deposit referenced above within
+ten  days  after  the issuance of Lessee's financial statements indicating the
+reduction in shareholder's equity below $100 million.  If Lessee fails to make
+the  Security Deposit as required, Lessee shall be deemed to be in default per
+Section  14.1  (a)  of  this  Lease.
+
+QUIET  ENJOYMENT:  Lessor  covenants  and  agrees with Lessee that upon Lessee
+paying  Rent  and  performing  its  covenants and conditions under this Lease,
+Lessee  shall  and may peaceably and quietly have, hold and enjoy the Premises
+for  the  Lease  Term,  subject,  however,  to  the  rights reserved by Lessor
+hereunder.
+
+IT  IS  FURTHER  MUTUALLY  AGREED  BETWEEN  THE  PARTIES  AS  FOLLOWS:
+1. POSSESSION: Possession shall be deemed tendered and the term shall commence
+upon  the  first  to occur of the following (the "Commencement Date"): (i) the
+Premises  are  Substantially Complete or (ii) Lessee occupies the Premises and
+commences  to conduct business operations or (iii) if Lessor is prevented from
+or  delayed in completing its work under this Lease due to Lessee Delays, such
+work  will  be  deemed Substantially Complete as of the date on which it would
+have  been  Substantially  Complete  had it not been for such Lessee Delays or
+(iv)  90  days  after  Lessee  is  advised in writing that the Lessee Interior
+Improvements  as  defined  in  Section  2 may be started by Lessee.  It is the
+intention  of  Lessee  and Lessor that the Commencement Date shall be no later
+than  July  31,  1998.
+
+"Substantially  Complete"  shall mean that: (i) Lessor has tendered possession
+of  Premises  to  Lessee,  (ii)  Lessor  has  met  all  legal requirements for
+occupancy,  (iii) The Lessee Interior Improvements are materially complete per
+the  approved  plans,  exclusive  of telephone or other communication systems,
+punchlist  items  and  there  remains no incomplete or defective items of work
+which would materially adversely affect Lessee's intended use of the Premises,
+and  (iv)  said  interior  of  the  building  is in a "broom clean" condition.
+
+1.1  COMMENCEMENT  DATE  MEMORANDUM:  When  the  actual  Commencement  Date is
+determined,  the  parties shall execute a Commencement Date Memorandum setting
+forth  the  Commencement  Date,  the expiration date of the Lease Term and the
+actual  square  footage  of  the Premises and any required adjustments to base
+rent  and  CAC,  but failure to do so shall not affect the continuing validity
+and enforceability of this Lease, which shall remain in full force and effect.
+
+2.  BUILDING SHELL: The "Building Shell", as defined in the attached Exhibit B
+shall  be  constructed  at  Lessor's  sole  cost  and  expense  by independent
+contractors  to  be  employed  by  and  under  the  supervision  of  Lessor in
+accordance  with the site plan, elevations, plans, specifications, and working
+drawings to be prepared by Lessor, approved by Lessee, and thereafter attached
+hereto  as  Exhibit  C  (collectively  the  "Shell  Plans").   Lessor shall be
+obligated  to finish all of the Building Shell prior to the Commencement Date.
+Lessee  and  its  designated  representatives,  shall  at all times during the
+construction  of the Building Shell have access to the Premises to monitor the
+progress  of  construction  and  Lessor's  compliance  with  its  obligation
+hereunder; provided however, that such access shall not unreasonably interfere
+with  the activities of Lessor or its contractors. Lessor shall be responsible
+for  ensuring  that  the Building Shell conforms to the approved plans and all
+applicable  statutes,  rules,  regulations,  ordinances, and San Jose Building
+Department  interpretations  necessary for occupancy.  Lessor shall assign all
+its  normal  material  and  construction  warranties  from  sub-contractors to
+Lessee.
+
+2.1  LESSEE'S  INTERIOR  IMPROVEMENTS:
+Lessee  and  Lessor  agree  to  the  following with respect to Lessee Interior
+Improvements  to  be  constructed  by  Lessee  at  the  Premises:
+a.  Lessee shall be responsible for designing, contracting, and completing the
+Lessee  Interior  Improvements.    Lessor  shall  have  no  responsibility  or
+liability  for: (i) the Lessee Interior Improvements except for payment of the
+TI  Allowance as specified below, (ii) for any delay of the Commencement Date,
+(iii)  Lessee's  obligation  to commence paying Rent on the Commencement Date,
+(iv)  claims  asserted  by  Lessee  or  Lessee's  Agents related to the Lessee
+Interior  Improvements, and (v) any claims, responsibility, or liability owner
+may  assume  by  signing  for  building  permits  for  the  Lessee  Interior
+Improvements.
+
+b. Lessor shall review and approve all plans and specifications for the Lessee
+Interior  Improvements  to  be  made to the Premises within 5 business days of
+delivery to Lessor and if unacceptable, Lessor shall advise Lessee of the item
+or  items  that  are  unacceptable  and  that must be removed and the Premises
+restored  at the end of the Lease Term at the sole cost and expense of Lessee.
+
+c.  Lessee  shall be responsible for ensuring the Lessee Interior Improvements
+conform to the approved plans and all applicable statutes, rules, regulations,
+ordinances,  and  the  City  of  San  Jose Building Department interpretations
+necessary  for  occupancy.
+
+d.  The  Lessee  Interior  Improvements  shall  be  completed  in  a  good and
+workmanlike  manner, in compliance with all government codes, requirements and
+regulations,  and  with  all  necessary  permits.
+
+e.  Lessor  and  its designated representatives, shall at all times during the
+construction  of  the Lessee Interior Improvements have access to the Premises
+to  monitor  the progress of construction, but Lessor shall have no obligation
+to  verify  Lessee's  work  or  compliance  with  Lessee's obligations herein;
+provided  however,  that such access shall not unreasonably interfere with the
+activities  of  Lessee  or  its  contractors.
+
+f.  All  of Lessor's reimbursements to Lessee for Lessee Interior Improvements
+shall  be  paid  by Lessor within ten (10) days after receipt of the following
+from  Lessee  and  subject to the limitations set forth in h below: (a) Lessee
+providing  Lessor  with  evidence  of  the costs paid by Lessee for the Lessee
+Interior Improvements to the Premises, (b) Lessee providing Lessor with copies
+of  final  unconditional lien releases from all suppliers, subcontractors, and
+the general contractor applicable to the Lessee Interior Improvements, and (c)
+Lessee,  on  completion, providing Lessor with a copy of the final inspections
+and  certificate  of  occupancy  from  the  City of San Jose applicable to the
+Lessee  Interior  Improvements  at  the  Premises.
+
+g.  Lessor  shall  reimburse  Lessee  for  the  cost  of  the  Lessee Interior
+Improvements  to  be  constructed  by  Lessee in an amount not to exceed Three
+Million  Six Hundred Thousand Dollars ($3,600,000) (the "TI Allowance"), being
+Twenty Dollars $20.00 per square foot times 180,000.  In the event the cost of
+the Lessee Interior Improvements is more than the TI Allowance, such costs for
+the  Lessee  Interior  Improvements  shall  be paid in cash by Lessee.  Lessee
+shall,  at  its  sole  cost  and  expense,  pay any and all costs necessary to
+complete  the  project  per  the  approved  plans  and  specifications  less
+reimbursements  stated  herein  from  Lessor.
+
+h.  Lessee acknowledges that Lessor shall cause a notice of non-responsibility
+to  be  posted  at  the  Premises  and  Lessor  shall  cause  a  notice  of
+non-responsibility  to  be  recorded  in the Santa Clara County public records
+related  to  Lessee's  Interior  Improvements.
+
+i.  Lessee  and  Lessee's  Agents  shall  not  change or affect the structural
+components  or  structural  characteristics  of  the  Premises  without signed
+engineering  drawings  and  specific  written  approval  of  Lessor.
+
+j. The Lessee Interior Improvements shall at a minimum, include the following:
+   1. HVAC system with VAV units that services 95% of the Premises.
+   2. Minimum electric requirements of 3,000 amps, 480 volt, 3 phase service
+      with open office distribution.
+   3. Open office lighting and drop ceiling in 90% of the Premises.
+
+k.  Lessee  and  its  general contractor shall provide Lessor with evidence of
+general  liability  insurance  in  the  amount  of  not less than Five Million
+Dollars  ($5,000,000)  naming  Lessor as an additional insured prior to Lessee
+starting  any  work  at  the  Premises  and  prior to taking possession of the
+Premises.
+
+l.  Lessee shall, within 30 days after final inspection of the Lessee Interior
+Improvements  provide  Lessor with one complete set of all "as-built" drawings
+from  the  architect,  plumber,  mechanical and electrical contractors as blue
+line  drawings  and  one set of "as-built" Auto-Cad diskettes from each trade.
+
+m.  In  addition  to Lessee's indemnity obligations set forth in Section 38 of
+the  Lease,  Lessee  shall defend, indemnify and hold Lessor harmless from and
+against  any  and  all  obligations, losses, costs, expenses, claims, demands,
+attorney's  fees, investigation costs or liabilities on account of, or arising
+out  of  Lessee  or  Lessee's  Agent's  design, contracting, construction, and
+completion  of the Lessee Interior Improvements at the Premises and any act or
+omission  to  act  of  Lessee  or  Lessee's Agents with respect to the design,
+contracting,  construction, and completion of the Lessee Interior Improvements
+at  the Premises.  It is understood that Lessee is and shall be in control and
+possession  of  the Premises effective on the TI Date and that Lessor shall in
+no  event  be  responsible or liable for any injury or damage or injury to any
+person  whatsoever,  happening  on,  in,  about,  or  in  connection  with the
+Premises,  or  for  any  injury or damage to the Premises or any part thereof.
+The  provisions  of  this  Lease  permitting  Lessor  to enter and inspect the
+Premises  are  for  the  purpose  of  enabling Lessor to become informed as to
+whether  Lessee  is complying with the terms of this Lease and Lessor shall be
+under  no  duty  to enter, inspect or to perform any of Lessee's covenants set
+forth  in  this  Lease.
+
+2.2  ACCEPTANCE  OF  PREMISES AND COVENANTS TO SURRENDER: Lessee agrees on the
+last  day  of  the  Lease Term, or on the sooner termination of this Lease, to
+surrender the Premises to Lessor in Good Condition and Repair.  Good Condition
+and  Repair  ("Good  Condition and Repair") shall not mean original condition,
+but  shall  mean  that the Premises are in a commercially acceptable condition
+suitable  for  occupancy  by  a  reasonable lessee.  The interior walls of all
+office  and warehouse areas, the floors of all office and warehouse areas, all
+suspended  ceilings  and any carpeting are to be cleaned and in Good Condition
+and  Repair.  Lessee,  on  or  before  the  end  of  the  Lease Term or sooner
+termination  of  this  Lease, shall remove all its personal property and trade
+fixtures  from  the  Premises,  and  all such property not so removed shall be
+deemed  to  be  abandoned  by  Lessee.   Lessee shall reimburse Lessor for all
+disposition  costs incurred by Lessor relative to Lessee's abandoned property.
+If  the  Premises  are not surrendered at the end of the Lease Term or earlier
+termination  of  this  Lease,  Lessee  shall  indemnify Lessor against loss or
+liability  resulting  from  any  delay  caused  by  Lessee in surrendering the
+Premises  including,  without  limitation,  any  claims made by any succeeding
+Lessee  founded  on  such  delay.
+
+3.  USES  PROHIBITED:  Lessee shall not commit, or suffer to be committed, any
+waste  upon  the  Premises,  or  any nuisance, or other act or thing which may
+disturb  the quiet enjoyment of any other tenant in or around the buildings in
+which  the  subject Premises are located or allow any sale by auction upon the
+Premises, or allow the Premises to be used for any improper, immoral, unlawful
+or objectionable purpose, or place any loads upon the floor, walls, or ceiling
+which may endanger the structure, or use any machinery or apparatus which will
+in  any  manner vibrate or shake the Premises or the building of which it is a
+part, or place any harmful liquids in the drainage system of the building.  No
+waste materials or refuse shall be dumped upon or permitted to remain upon any
+part  of the Premises outside of the building proper.  No materials, supplies,
+equipment,  finished  products  or  semi-finished  products,  raw materials or
+articles  of  any  nature  shall  be stored upon or permitted to remain on any
+portion  of the Premises outside of the building structure, unless approved by
+the  local,  state  federal  or  other applicable governing authority.  Lessor
+consents  to  Lessee's  use  of  materials which are incidental to the normal,
+day-to-day  operations  of  any  office  user, such as copier fluids, cleaning
+materials,  etc.,  but  this does not relieve Lessee of any of its obligations
+not  to  contaminate  the  Premises  and  related real property or violate any
+Hazardous  Materials  Laws.
+
+4. ALTERATIONS AND ADDITIONS: Lessee shall not make, or suffer to be made, any
+alteration  or  addition  to  said  Premises, or any part thereof, without the
+express, advance written consent of Lessor; any addition or alteration to said
+Premises,  except movable furniture and trade fixtures, shall become at once a
+part  of  the  realty  and  belong  to  Lessor at the end of the Lease Term or
+earlier  termination  of  this Lease.  Alterations and additions which are not
+deemed  as  trade  fixtures  shall  include  HVAC  systems,  lighting systems,
+electrical  systems,  partitioning, carpeting, or any other installation which
+has  become  an integral part of the Premises.  Lessee agrees that it will not
+proceed  to  make  such alterations or additions until all required government
+permits have been obtained and after having obtained consent from Lessor to do
+so,  until  five (5) days from the receipt of such consent, so that Lessor may
+post  appropriate  notices  to  avoid any liability to contractors or material
+suppliers  for  payment  for Lessee's improvements.  Lessee shall at all times
+permit  such notices to be posted and to remain posted until the completion of
+work.    At  the  end  of the Lease Term or earlier termination of this Lease,
+Lessee  shall  remove  and  shall  be  required  to  remove its special tenant
+improvements,  all  related  equipment,  and  any  additions  or  alterations
+installed  by  Lessee  at or during the Lease Term and Lessee shall return the
+Premises  to  the condition that existed before the installation of the tenant
+improvements.    Notwithstanding  the  above,  Lessor  agrees  to  allow  any
+reasonable  alterations  and  improvements  and  will  use its best efforts to
+notify  Lessee at the time of approval if such improvements or alterations are
+to  be  removed  at  the end of the Lease Term  or earlier termination of this
+Lease.    Notwithstanding  the  above, Lessee shall have the right, during the
+term  of  this  Lease, to make improvements to the Premises at their sole cost
+and  expense of Five Hundred Thousand Dollars ($500,000) with no approval from
+Lessor,  provided  they  are  not structural and subject to the requirement to
+remove  the  subject  improvements  at  the  end  of  the  Lease  Term.
+
+5.  MAINTENANCE  OF  PREMISES:
+(a)  Lessor  shall at its sole cost and expense keep, repair, and maintain the
+interior of the Premises, including, but not limited to, all lighting systems,
+temperature  control  systems,  and  plumbing  systems  in  Good Condition and
+Repair,  including  any required replacements.  Lessee shall maintain all wall
+surfaces  and  floor  coverings  in  Good Condition and Repair, free of holes,
+gouges,  or  defacements  and  provide interior and exterior window washing as
+needed.
+
+(b)  Lessee  shall,  at  Lessee's  expense, keep, repair, and maintain in Good
+Condition  and Repair including replacements (based on a pro-rata share of (i)
+costs  based  on square footage or (ii) costs directly related to Lessee's use
+of  the  Premises)  the  following:
+1.  The  exterior  of  the building, any appurtenances and every part thereof,
+including  but  not  limited to, glazing, sidewalks, parking areas, electrical
+systems,  HVAC  systems,    roof  membrane,  and  painting  of exterior walls.
+2. The HVAC by a service contract with a licensed air conditioning and heating
+contractor which contract shall provide for a minimum of quarterly maintenance
+of  all  air conditioning and heating equipment at the Premises including HVAC
+repairs  or  replacements which are either excluded from such service contract
+or  any  existing  equipment  warranties.
+3.  The  landscaping  by  a  landscape contractor to water, maintain, trim and
+replace,  when  necessary,  any  shrubbery  and  landscaping  at the Premises.
+4.  The  roof membrane by a service contract with a licensed reputable roofing
+contractor  which  contract  shall  provide  for  a  minimum  of  semi-annual
+maintenance,  cleaning  of  storm  gutters,  drains,  removing  of debris, and
+trimming  overhanging  trees,  repair  of the roof and application of a finish
+coat  every  five  years  to  the  building  at  the  Premises.
+5.  Exterior  pest  control.
+6.  Fire  monitoring  services.
+7.  Pro-rata  share  of  Logic  Drive  maintenance  and  repair  costs.
+
+(c)  Lessee hereby waives any and all rights to make repairs at the expense of
+Lessor  as  provided  in  Section  1942  of  the  Civil  Code  of the State of
+California,  and  all  rights provided for by Section 1941 of said Civil Code.
+
+(d)  Lessor  shall  be responsible for the repair of any structural defects in
+the  Premises  including the roof structure (not membrane), exterior walls and
+foundation  during  the  Lease  Term.
+
+6. INSURANCE:
+6.  INSURANCE:
+A)  HAZARD  INSURANCE:  Lessee  shall not use, or permit said Premises, or any
+part  thereof,  to  be  used,  for  any purpose other than that for which said
+Premises  are  hereby leased; and no use shall be made or permitted to be made
+of  the  Premises,  nor  acts  done,  which  may  cause  a cancellation of any
+insurance policy covering said building, or any part thereof, nor shall Lessee
+sell  or  permit  to  be  kept,  used  or sold, in or about said Premises, any
+article  which  may  be  prohibited  by  an all risk insurance policy.  Lessee
+shall,  at  its  sole  cost and expense, comply with any and all requirements,
+pertaining  to  said  Premises,  of  any  insurance  organization  or company,
+necessary for the maintenance of reasonable all risk insurance,  covering said
+building  and  appurtenances.  Lessee agrees to purchase and keep in force all
+risk insurance, not including earthquake and flood, covering loss or damage to
+the   Premises in an amount equal to the full replacement cost of the Premises
+as determined by Lessor, with proceeds payable to Lessor.  Lessee acknowledges
+that  the  insurance  referenced  above does not include coverage for Lessee's
+personal  property.    In  the event of a loss per the insurance provisions of
+this paragraph, Lessee shall be responsible for all deductibles.  It is agreed
+that  the full replacement cost of the Premises as of the Commencement Date is
+eighteen  million  dollars  ($18,000,000).
+
+B)  LOSS OF RENTS INSURANCE: Lessee shall maintain in full force and effect at
+Lessee's  sole  cost, a policy of rental loss insurance, in an amount equal to
+the  amount  of  Rent payable by Lessee commencing on the date of loss for the
+next  ensuing  one  (1) year, as reasonably determined by Lessor with proceeds
+payable  to  Lessor  ("Loss  of Rents Insurance"). It is agreed that as of the
+Commencement Date the amount of Rent payable under the Loss of Rents Insurance
+coverage  shall  be  three million five hundred thousand dollars ($3,500,000).
+
+C)  LIABILITY AND PROPERTY DAMAGE INSURANCE: Lessee, as a material part of the
+consideration  to  be  rendered  to  Lessor,  hereby waives all claims against
+Lessor  and  Lessor's  Agents for damages to goods, wares and merchandise, and
+all  other personal property in, upon or about said Premises, and for injuries
+to  persons  in,  upon  or  about said Premises, from any cause arising at any
+time, and Lessee will hold Lessor and Lessor's Agents exempt and harmless from
+any damage or injury to any person, or to the goods, wares and merchandise and
+all  other  personal property of any person, arising from the use or occupancy
+of  the Premises by Lessee, or from the failure of Lessee to keep the Premises
+in  Good  Condition and Repair, as herein provided.  Lessee shall, at Lessee's
+sole  cost,  secure  and keep in force a standard policy of commercial general
+liability  insurance  and property damage policy covering the Premises and all
+related  areas  insuring  the  Lessee  having a combined single limit for both
+bodily  injury,  death  and  property  damage  in an amount not less than five
+million  dollars  ($5,000,000.00).    The  limits of said insurance shall not,
+however,  limit  the  liability of Lessee hereunder. Lessee shall, at its sole
+cost  and expense, comply with all of the insurance requirements of all local,
+municipal,  state and federal authorities now in force, or which may hereafter
+be  in  force,  pertaining to Lessee's use and occupancy of the said Premises.
+
+D) PERSONAL PROPERTY INSURANCE: Lessee shall obtain, at Lessee's sole cost and
+expense,  a  policy of fire and extended coverage insurance including coverage
+for  direct  physical  loss  special form, and a sprinkler leakage endorsement
+insuring  the  personal  property  of  Lessee.  The proceeds from any personal
+property  damage  policy  shall  be  payable  to  Lessee.
+
+All  insurance policies required above shall: (i) provide for a certificate of
+insurance  evidencing  the  insurance  required  herein,  being deposited with
+Lessor  ten  (10)  days prior to the Commencement Date, and upon each renewal,
+such  certificates  shall  be provided 30 days prior to the expiration date of
+such  coverage,  (ii) be in a form reasonably satisfactory to Lessor and shall
+provide  the  coverage required by Lessee in this Lease, (iii) be carried with
+companies  with  a  Best  Rating of A+ minimum, (iv) specifically provide that
+such  policies shall not be subject to cancellation, reduction of coverage, or
+other change except after 30 days prior written notice to Lessor, and (v) name
+Lessor, Lessor's lender, and any other party with an insurable interest in the
+Premises  as  additional  insureds  by  endorsement  to  policy.
+
+Lessor  and  Lessee  hereby  waive  any rights each may have against the other
+related  to  any loss or damage caused to Lessor or Lessee as the case may be,
+or  to  the  Premises  or  its  contents,  and  which  may arise from any risk
+generally  covered  by  all  risk insurance policy.  The parties shall provide
+that their respective insurance policies insuring the property or the personal
+property  include  a  waiver  of any right of subrogation which said insurance
+company  may  have  against  Lessor  or  Lessee,  as  the  case  may  be.
+
+7.  ABANDONMENT:  Lessee  shall not vacate or abandon the Premises at any time
+during  the  Lease Term; and if Lessee shall abandon, vacate or surrender said
+Premises,  or  be  dispossessed  by process of law, or otherwise, any personal
+property  belonging  to  Lessee and left on the Premises shall be deemed to be
+abandoned,  at  the option of Lessor.  Notwithstanding the above, the Premises
+shall  not be considered vacated or abandoned if Lessee maintains the Premises
+in  Good  Condition  and  Repair,  provides  security  and  is not in default.
+
+8. FREE FROM LIENS: Lessee shall keep the subject Premises and the property in
+which the subject Premises are situated, free from any and all liens including
+but  not  limited  to  liens  arising  out  of  any  work performed, materials
+furnished, or obligations incurred by Lessee.  However, the Lessor shall allow
+Lessee  to  contest  a lien claim, so long as the claim is discharged prior to
+any  foreclosure  proceeding being initiated against the property and provided
+Lessee  provides  Lessor  a  bond  if  the  lien  exceeds  $5,000.
+
+9.  COMPLIANCE  WITH  GOVERNMENTAL REGULATIONS: Lessee shall, at its sole cost
+and  expense,  comply  with  all  of the requirements of all local, municipal,
+state  and  federal  authorities  now  in  force, or which may hereafter be in
+force,  pertaining  to   the Premises, and shall faithfully observe in the use
+and occupancy of the Premises all local and municipal ordinances and state and
+federal  statutes  now  in  force  or  which  may  hereafter  be  in  force.
+
+10.  INTENTIONALLY  OMITTED.
+
+11.  ADVERTISEMENTS  AND SIGNS: Lessee shall not place or permit to be placed,
+in,  upon  or  about  the  Premises any unusual or extraordinary signs, or any
+signs  not  approved  by  the  city, local, state, federal or other applicable
+governing  authority.  Lessee shall not place, or permit to be placed upon the
+Premises,  any signs, advertisements or notices without the written consent of
+the  Lessor,  and  such consent shall not be unreasonably withheld.  A sign so
+placed on the Premises shall be so placed upon the understanding and agreement
+that  Lessee  will  remove  same  at  the  end  of  the  Lease Term or earlier
+termination  of  this  Lease  and  repair any damage or injury to the Premises
+caused thereby, and if not so removed by Lessee, then Lessor may have the same
+removed  at  Lessee's  expense.
+
+12.  UTILITIES:  Lessee  shall  pay  for  all  water, gas, heat, light, power,
+telephone and other utilities supplied to the Premises.  Any charges for sewer
+usage,  PG&E,  and  telephone  site  service  or  related  fees  shall  be the
+obligation  of  Lessee  and  paid for by Lessee.  If any such services are not
+separately  metered to Lessee, Lessee shall pay a reasonable proportion of all
+charges  which  are  jointly  metered,  the determination to be made by Lessor
+acting  reasonably  and  on any equitable basis.  Lessor and Lessee agree that
+Lessor  shall not be liable to Lessee for any disruption in any of the utility
+services  to  the  Premises.
+
+13.  ATTORNEY'S FEES: In case suit should be brought for the possession of the
+Premises,  for the recovery of any sum due hereunder, because of the breach of
+any  other  covenant  herein,  or  to enforce, protect, or establish any term,
+conditions,  or covenant of this Lease or the right of either party hereunder,
+the  losing party shall pay to the Prevailing Party reasonable attorney's fees
+which  shall  be deemed to have accrued on the commencement of such action and
+shall  be  enforceable  whether  or not such action is prosecuted to judgment.
+The  term  "Prevailing Party" shall mean the party that received substantially
+the  relief  requested,  whether  by  settlement, dismissal, summary judgment,
+judgment,  or  otherwise.
+
+14.1  DEFAULT:  The  occurrence  of  any  of  the following shall constitute a
+default  and  breach  of this Lease by Lessee: a) Any failure by Lessee to pay
+Rent or to make any other payment required to be made by Lessee hereunder when
+due  if  not cured within ten (10) days after written notice thereof by Lessor
+to  Lessee; b) The abandonment or vacation of the Premises by Lessee except as
+provided in Section 7; c) A failure by Lessee to observe and perform any other
+provision  of  this  Lease  to  be observed or performed by Lessee, where such
+failure  continues  for  thirty days after written notice thereof by Lessor to
+Lessee; provided, however, that if the nature of such default is such that the
+same  cannot  be  reasonably  cured within such thirty (30) day period, Lessee
+shall  not  be  deemed  to  be in default if Lessee shall, within such period,
+commence such cure and thereafter diligently prosecute the same to completion;
+d)  The  making  by  Lessee  of  any  general  assignment  for  the benefit of
+creditors;  the  filing  by  or  against  Lessee  of a petition to have Lessee
+adjudged  a  bankrupt or of a petition for reorganization or arrangement under
+any law relating to bankruptcy; e) the appointment of a trustee or receiver to
+take  possession  of substantially all of Lessee's assets or Lessee's interest
+in  this  Lease,  or  the  attachment,  execution or other judicial seizure of
+substantially  all  of  Lessee's assets located at the Premises or of Lessee's
+interest  in  this  Lease.
+
+14.2  SURRENDER  OF LEASE: In the event of any such default by Lessee, then in
+addition to any other remedies available to Lessor at law or in equity, Lessor
+shall  have the immediate option to terminate this Lease before the end of the
+Lease  Term  and  all  rights of Lessee hereunder, by giving written notice of
+such  intention  to terminate.  In the event that Lessor terminates this Lease
+due  to a default of Lessee, then Lessor may recover from Lessee: a) the worth
+at  the  time of award of any unpaid Rent which had been earned at the time of
+such  termination; plus b) the worth at the time of award of unpaid Rent which
+would have been earned after termination until the time of award exceeding the
+amount  of  such rental loss that the Lessee proves could have been reasonably
+avoided;  plus  c)  the  worth at the time of award of the amount by which the
+unpaid  Rent for the balance of the Lease Term after the time of award exceeds
+the  amount  of  such  rental  loss  that  the  Lessee  proves could have been
+reasonably  avoided;  plus  d) any other amount necessary to compensate Lessor
+for  all  the  detriment proximately caused by Lessee's failure to perform his
+obligations  under  this Lease or which in the ordinary course of things would
+be likely to result therefrom; and e) at Lessor's election, such other amounts
+in  addition  to  or in lieu of the foregoing as may be permitted from time to
+time  by  applicable California law.  As used in (a) and (b) above, the "worth
+at  the  time  of award" is computed by allowing interest at the rate of Wells
+Fargo's prime rate plus two percent (2%) per annum.  As used in (c) above, the
+"worth  at  the  time  of award" is computed by discounting such amount at the
+discount  rate  of  the  Federal  Reserve Bank of San Francisco at the time of
+award  plus  one  percent  (1%).
+
+14.3  RIGHT  OF ENTRY AND REMOVAL: In the event of any such default by Lessee,
+Lessor  shall  also have the right, with or without terminating this Lease, to
+re-enter  the  Premises and remove all persons and property from the Premises;
+such  property may be removed and stored in a public warehouse or elsewhere at
+the  cost  of  and  for  the  account  of  Lessee.
+
+14.4  ABANDONMENT:  In  the  event  of  the vacation or abandonment, except as
+provided  in  Section 7, of the Premises by Lessee or in the event that Lessor
+shall  elect  to  re-enter  as  provided in paragraph 14.3 above or shall take
+possession  of  the  Premises  pursuant to legal proceeding or pursuant to any
+notice  provided  by law, and Lessor does not elect to terminate this Lease as
+provided  in  Section  14.2  above, then Lessor may from time to time, without
+terminating this Lease, either recover all Rent as it becomes due or relet the
+Premises  or  any part thereof for such term or terms and at such rental rates
+and  upon  such  other terms and conditions as Lessor, in its sole discretion,
+may  deem  advisable  with  the  right  to make alterations and repairs to the
+Premises.    In  the event that Lessor elects to relet the Premises, then Rent
+received by Lessor from such reletting shall be applied; first, to the payment
+of  any  indebtedness  other  than  Rent  due hereunder from Lessee to Lessor;
+second, to the payment of any cost of such reletting; third, to the payment of
+the  cost  of  any  alterations  and  repairs  to the Premises; fourth, to the
+payment  of  Rent  due and unpaid hereunder; and the residue, if any, shall be
+held  by  Lessor  and  applied  to  the payment of future Rent as the same may
+become  due  and payable hereunder.  Should that portion of such Rent received
+from  such reletting during any month, which is applied by the payment of Rent
+hereunder  according to the application procedure outlined above, be less than
+the  Rent payable during that month by Lessee hereunder, then Lessee shall pay
+such  deficiency  to  Lessor immediately upon demand therefor by Lessor.  Such
+deficiency  shall  be  calculated  and paid monthly.  Lessee shall also pay to
+Lessor,  as  soon as ascertained, any costs and expenses incurred by Lessor in
+such  reletting  or  in making such alterations and repairs not covered by the
+rentals  received  from  such  reletting.
+
+14.5  NO IMPLIED TERMINATION: No re-entry or taking possession of the Premises
+by  Lessor  pursuant  to  Section  14.3 or Section 14.4 of this Lease shall be
+construed  as  an  election to terminate this Lease unless a written notice of
+such intention is given to Lessee or unless the termination thereof is decreed
+by  a  court of competent jurisdiction.  Notwithstanding any reletting without
+termination by Lessor because of any default by Lessee, Lessor may at any time
+after  such  reletting  elect  to  terminate  this Lease for any such default.
+
+15.  SURRENDER  OF  LEASE:  The  voluntary or other surrender of this Lease by
+Lessee,  or a mutual cancellation thereof, shall not work a merger, and shall,
+at  the  option  of  Lessor,  terminate  all  or any existing subleases or sub
+tenancies, or may, at the option of Lessor, operate as an assignment to him of
+any  or  all  such  subleases  or  sub  tenancies.
+
+16.  TAXES: Lessee shall pay and discharge punctually and when the same shall
+become  due  and  payable  without  penalty,  all  real estate taxes, personal
+property  taxes,  taxes  based  on  vehicles  utilizing  parking  areas in the
+Premises,  taxes computed or based on rental income (other than federal, state
+and  municipal  net  income taxes), environmental surcharges, privilege taxes,
+excise  taxes, business and occupation taxes, school fees or surcharges, gross
+receipts  taxes,  sales and/or use taxes, employee taxes, occupational license
+taxes,  water  and  sewer  taxes,  assessments (including, but not limited to,
+assessments  for  public  improvements  or  benefit),  assessments  for local
+improvement and maintenance districts, and all other govern-mental impositions
+and  charges  of  every kind and nature whatsoever, regardless of whether now
+customary or within the contemplation of the parties hereto and regardless of
+whether  resulting  from  increased  rate  and/or  valuation,  or  whether
+extraordinary  or  ordinary,  general  or  special, unforeseen or foreseen, or
+similar  or  dissimilar  to  any  of the foregoing (all of the foregoing being
+hereinafter  collectively  called  "Tax" or "Taxes") which, at any time during
+the  Lease  Term, shall be applicable or against the Premises, or shall become
+due  and  payable and a lien or charge upon the Premises under or by virtue of
+any  present  or  future  laws,  statutes,  ordinances,  regulations, or other
+requirements  of  any  governmental  authority  whatsoever.    The  term
+"Environmental  Surcharge"  shall include any and all expenses, taxes, charges
+or  penalties  imposed  by  the  Federal  Department  of  Energy,  Federal
+Environmental Protection Agency, the Federal Clean Air Act, or any regulations
+promulgated  thereunder,  or  any  other  local, state or federal governmental
+agency  or  entity  now  or  hereafter  vested with the power to impose taxes,
+assessments  or other types of surcharges as a means of controlling or abating
+environmental  pollution  or the use of energy in regard to the use, operation
+or  occupancy  of  the  Premises.    The  term  "Tax"  shall  include, without
+limitation,  all  taxes,  assessments,  levies,  fees,  impositions or charges
+levied,  imposed, assessed, measured, or based in any manner whatsoever (i) in
+whole  or in part on the Rent payable by Lessee under this Lease, (ii) upon or
+with  respect  to  the  use,  possession,  occupancy,  leasing,  operation  or
+management  of  the  Premises,  (iii) upon this transaction or any document to
+which  Lessee is a party creating or transferring an interest or an estate in
+the  Premises,  (iv)  upon  Lessee's  business  operations  conducted  at the
+Premises,  (v)  upon,  measured  by or reasonably attributable to the cost or
+value  of  Lessee's equipment, furniture, fixtures and other personal property
+located  on  the  Premises  or the cost or value of any leasehold improvements
+made  in  or  to the Premises by or for Lessee, regardless of whether title to
+such  improvements  shall  be  in  Lessor  or  Lessee,  or  (vi) in lieu of or
+equivalent  to  any  Tax  set forth in this Section 16.  In the event any such
+Taxes are payable by Lessor and it shall not be lawful for Lessee to reimburse
+Lessor  for such Taxes, then the Rent payable thereunder shall be increased to
+net  Lessor  the same net rent after imposition of any such Tax upon Lessor as
+would have been payable to Lessor prior to the imposition of any such Tax.  It
+is  the intention of the parties that Lessor shall be free from all such Taxes
+and  all other governmental impositions and  charges of every kind and nature
+whatsoever.    However,  nothing  contained  in  this Section 16 shall require
+Lessee  to  pay  any Federal or State income, franchise, estate, inheritance,
+succession,  transfer  or  excess  profits  tax  imposed upon Lessor.   If any
+general  or  special  assessment  is levied and assessed against the Premises,
+Lessor  agrees  to  use its best reasonable efforts to cause the assessment to
+become a lien on the Premises securing repayment of a bond sold to finance the
+improvements  to which the assessment relates which is payable in installments
+of  principal  and  interest  over  the  maximum  term al-lowed by law.  It is
+understood  and  agreed  that Lessee's obligation under this paragraph will be
+prorated  to  reflect the Commencement Date and the end of the Lease Term.  It
+is  further  understood  that  if Taxes cover the Premises and Lessee does not
+occupy  the entire Premises, the Taxes will be allocated to the portion of the
+Premises  occupied  by  Lessee  based  on  a  pro-rata square footage or other
+equitable  basis,  as  determined  by  Lessor.
+
+Subject  to  any limitations or restrictions imposed by any deeds of trust or
+mortgages  now  or  hereafter covering or affecting the Premises, Lessee shall
+have  the  right  to  contest  or  review the amount or validity of any Tax by
+appropriate  legal  proceedings  but which is not to be deemed or construed in
+any way as relieving, modifying or extending Lessee's covenant to pay such Tax
+at  the  time and in the manner as provided in this Section 16.  However, as a
+condition  of  Lessee's  right  to  contest, if such contested Tax is not paid
+before such contest and if the legal proceedings shall not operate to prevent
+or  stay  the  collection  of  the  Tax  so  contested,  Lessee  shall, before
+instituting  any  such  proceeding,  protect  the Premises and the interest of
+Lessor  and  of  the  beneficiary  of  a  deed  of trust or the mortgagee of a
+mortgage  affecting  the  Premises  against  any  lien upon the Premises by a
+surety  bond,  issued  by  an insurance company acceptable to Lessor and in an
+amount  equal  to  one  and one-half (1 1/2) times the amount contested or, at
+Lessor's  option,  the  amount  of  the  contested  Tax  and  the interest and
+penalties  in connection therewith.  Any contest as to the validity or amount
+of  any  Tax,  whether  before  or  after  payment, shall be made by Lessee in
+Lessee's own name, or if required by law, in the name of Lessor or both Lessor
+and Lessee.  Lessee shall defend, indemnify  and hold harmless Lessor from and
+against  any  and  all  costs  or  expenses,  including  attorneys'  fees,  in
+connection  with  any  such  proceedings brought by Lessee, whether in its own
+name  or  not.  Lessee  shall  be  entitled  to  retain any refund of any such
+contested  Tax  and  penalties  or  interest  thereon  which have been paid by
+Lessee.   Nothing contained herein shall be construed as affecting or limiting
+Lessor's  right  to  contest  any  Tax  at  Lessor's  expense.
+
+17.  NOTICES: Unless otherwise provided for in this Lease, any and all written
+notices or other communication (the "Communication") to be given in connection
+with  this  Lease  shall  be  given  in writing and shall be given by personal
+delivery, facsimile transmission or by mailing by registered or certified mail
+with  postage  thereon  or  recognized  overnight courier, fully prepaid, in a
+sealed  envelope  addressed  to  the  intended  recipient  as  follows:
+
+
+(a)  to the Lessor at:  10050 Bandley Drive
+                        Cupertino, California 95014
+                        Attention: Carl E. Berg
+                        Fax No: (408) 725-1626
+
+(b)  to the Lessee at:  2100 Logic Drive
+                        San Jose, California
+                        Attention:  David Granoff
+                        Fax No:  (408) 377-6137
+
+or  such  other addresses, facsimile number or individual as may be designated
+by  a  Communication  given by a party to the other parties as aforesaid.  Any
+Communication  given by personal delivery shall be conclusively deemed to have
+been  given and received on a date it is so delivered at such address provided
+that  such  date  is  a  business  day,  otherwise  on  the first business day
+following  its  receipt,  and if given by registered or certified mail, on the
+day  on  which delivery is made or refused or if given by recognized overnight
+courier,  on  the  first  business  day  following deposit with such overnight
+courier  and  if  given  by facsimile transmission, on the day on which it was
+transmitted  provided  such  day is a business day, failing which, on the next
+business  day  thereafter.
+
+18.  ENTRY  BY LESSOR: Lessee shall permit Lessor and its agents to enter into
+and  upon  said  Premises  at all reasonable times using the minimum amount of
+interference and inconvenience to Lessee and Lessee's business, subject to any
+security  regulations of Lessee, for the purpose of inspecting the same or for
+the  purpose  of maintaining the building in which said Premises are situated,
+or  for  the  purpose of making repairs, alterations or additions to any other
+portion  of  said  building,  including  the  erection and maintenance of such
+scaffolding, canopies, fences and props as may be required, without any rebate
+of  Rent  and  without  any  liability to Lessee for any loss of occupation or
+quiet  enjoyment  of  the Premises; and shall permit Lessor and his agents, at
+any  time within ninety (90) days prior to the end of the Lease Term, to place
+upon  said  Premises any usual or ordinary "For Sale" or "For Lease" signs and
+exhibit  the  Premises  to  prospective  tenants  at  reasonable  hours.
+
+19. DESTRUCTION OF PREMISES: In the event of a partial destruction of the said
+Premises  during  the  Lease  Term from any cause which is covered by Lessor's
+property  insurance,  Lessor  shall  forthwith  repair the same, provided such
+repairs  can  be made within ninety (90) days after receipt of building permit
+under  the  laws  and  regulations  of  State,  Federal,  County, or Municipal
+authorities,  but  such partial destruction shall in no way annul or void this
+Lease,  except  that  Lessee shall be entitled to a proportionate reduction of
+Rent  while  such repairs are being made to the extent of payments received by
+Lessor  under  its  Loss  of  Rents  Insurance  coverage.  With respect to any
+partial destruction which Lessor is obligated to repair or may elect to repair
+under  the terms of this paragraph, the provision of Section 1932, Subdivision
+2,  and  of  Section  1933,  Subdivision  4, of the Civil Code of the State of
+California  are waived by Lessee.  In the event that the building in which the
+subject  Premises  may  be  situated  is  destroyed  to an extent greater than
+thirty-three  and one-third percent (33 1/3%) of the replacement cost thereof,
+Lessor  may,  at  its  sole option, elect to terminate this Lease, whether the
+subject  Premises  is  insured or not.  A total destruction of the building in
+which  the  subject  Premises  are  situated  shall  terminate  this  Lease.
+Notwithstanding  the  above,  Lessor is only obligated to repair or rebuild to
+the  extent  of  available insurance proceeds including any deductible amount.
+Should  Lessor  determine  that  insufficient  or  no  insurance  proceeds are
+available  for  repair  or  reconstruction  of  Premises,  Lessor, at its sole
+option,  may  terminate the Lease.  Lessee shall have the option of continuing
+this  Lease  by  agreeing  to  pay  all  repair costs to the subject Premises.
+
+20.  ASSIGNMENT  AND  SUBLETTING:  Lessee  shall not assign this Lease, or any
+interest  therein, and shall not sublet the said Premises or any part thereof,
+or  any  right  or privilege appurtenant thereto, or cause any other person or
+entity  (a  bona fide subsidiary or affiliate of Lessee excepted) to occupy or
+use  the Premises, or any portion thereof, without the advance written consent
+of  Lessor.    Any such assignment or subletting without such consent shall be
+void,  and  shall,  at  the  option of the Lessor, terminate this Lease.  This
+Lease  shall  not,  or  shall  any  interest therein, be assignable, as to the
+interest  of  Lessee,  by  operation  of  law,  without the written consent of
+Lessor.    Notwithstanding Lessor's obligation to provide reasonable approval,
+Lessor  reserves  the right to withhold its consent for any proposed sublessee
+or  assignee  of  Lessee  if  the  proposed sublessee or assignee is a user or
+generator  of  Hazardous  Materials.    If Lessee desires to assign its rights
+under  this  Lease or to sublet, all or a portion of the subject Premises to a
+party  other  than a bona fide subsidiary or affiliate of Lessee, Lessee shall
+first notify Lessor of the proposed terms and conditions of such assignment or
+subletting.    Lessor  shall  have  the right of first refusal to enter into a
+direct  Lessor-lessee  relationship  with such party under such proposed terms
+and  conditions,  in  which  event Lessee shall be relieved of its obligations
+hereunder to the extent of the Lessor-lessee relationship entered into between
+Lessor and such third party.  Notwithstanding the foregoing, Lessee may assign
+this  Lease  to  a  successor  in  interest, whether by merger or acquisition,
+provided  there  is no substantial reduction in the net worth of the resulting
+entity  and  the  resulting  entity  is  not  a user or generator of Hazardous
+Materials.    Whether  or  not Lessor's consent to a sublease or assignment is
+required,  in  the  event  of  any sublease or assignment, Lessee shall be and
+shall  remain  primarily  liable  for  the  performance  of  all  conditions,
+covenants,  and obligations of Lessee hereunder and, in the event of a default
+by  an assignee or sublessee, Lessor may proceed directly against the original
+Lessee  hereunder  and/or  any other predecessor of such assignee or sublessee
+without  the  necessity  of  exhausting  remedies  against  said  assignee  or
+sublessee.    Notwithstanding  the above, Lessor hereby agrees that Lessee may
+sublease up to 90,000 square feet of the Premises without Lessor's approval on
+a one time basis for a maximum period of sixty (60) months with no extensions.
+
+21. CONDEMNATION: If any part of the Premises shall be taken for any public or
+quasi-public  use,  under any statute or by right of eminent domain or private
+purchase  in  lieu thereof, and a part thereof remains which is susceptible of
+occupation  hereunder,  this Lease shall as to the part so taken, terminate as
+of  the  date  title vests in the condemnor or purchaser, and the Rent payable
+hereunder  shall  be  adjusted so that the Lessee shall be required to pay for
+the  remainder of the Lease Term only that portion of Rent as the value of the
+part  remaining.  The rental adjustment resulting will be computed at the same
+Rental  rate  for the remaining part not taken; however, Lessor shall have the
+option  to terminate this Lease as of the date when title to the part so taken
+vests  in  the  condemnor  or purchaser.  If all of the Premises, or such part
+thereof  be  taken  so  that  there  does not remain a portion susceptible for
+occupation  hereunder, this Lease shall thereupon terminate.  If a part or all
+of  the  Premises be taken, all compensation awarded upon such taking shall be
+payable  to  the  Lessor.  Lessee may file a separate claim and be entitled to
+any  award  granted  to  Lessee.
+
+22. EFFECTS OF CONVEYANCE: The term "Lessor" as used in this Lease, means only
+the  owner  for  the  time  being  of  the  land and building constituting the
+Premises,  so  that,  in the event of any sale of said land or building, or in
+the  event of a Lease of said building, Lessor shall be and hereby is entirely
+freed  and  relieved of all covenants and obligations of Lessor hereunder, and
+it  shall  be  deemed  and  construed,  without  further agreement between the
+parties  and  the  purchaser  of any such sale, or the Lessor of the building,
+that  the  purchaser or lessor of the building has assumed and agreed to carry
+out  any  and  all  covenants and obligations of the Lessor hereunder.  If any
+security  is  given by Lessee to secure the faithful performance of all or any
+of  the covenants of this Lease on the part of Lessee, Lessor may transfer and
+deliver  the  security,  as  such,  to  the  purchaser at any such sale of the
+building,  and  thereupon  the  Lessor  shall  be  discharged from any further
+liability.
+
+23. SUBORDINATION: This Lease, in the event Lessor notifies Lessee in writing,
+shall  be  subordinate  to  any  ground  lease,  deed  of  trust,  or  other
+hypothecation  for  security now or hereafter placed upon the real property at
+which the Premises are a part and to any and all advances made on the security
+thereof  and  to renewals, modifications, replacements and extensions thereof.
+Lessee  agrees  to  promptly  execute  any  documents which may be required to
+effectuate  such  subordination. Notwithstanding such subordination, if Lessee
+is  not  in  default  and so long as Lessee shall pay the Rent and observe and
+perform  all  of  the  provisions  and  covenants  required  under this Lease,
+Lessee's  right  to quiet possession of the Premises shall not be disturbed or
+effected  by  any  subordination.
+
+24.  WAIVER:  The  waiver  by  Lessor  of  any breach of any term, covenant or
+condition,  herein  contained  shall  not  be construed to be a waiver of such
+term,  covenant or condition or any subsequent breach of the same or any other
+term,  covenant  or condition therein contained.  The subsequent acceptance of
+Rent hereunder by Lessor shall not be deemed to be a waiver of Lessee's breach
+of  any  term,  covenant,  or  condition  of  the  Lease.
+
+25.  HOLDING  OVER:  Any holding over after the end of the Lease Term requires
+Lessor's  written  approval  prior  to  the  end  of  the  Lease  Term, which,
+notwithstanding any other provisions of this Lease, Lessor may withhold.  Such
+holding  over  shall  be construed to be a tenancy at sufferance from month to
+month.  Lessee shall pay to Lessor monthly base rent equal to one and one-half
+(1.5)  times  the  monthly  base rent installment due in the last month of the
+Lease Term and all other additional rent and all other terms and conditions of
+the  Lease  shall apply, so far as applicable.  Holding over by Lessee without
+written  approval  of  Lessor  shall  subject  Lessee  to  the liabilities and
+obligations  provided for in this Lease and by law, including, but not limited
+to  those  in Section 2 of this Lease.  Lessee shall indemnify and hold Lessor
+harmless  against  any  loss  or  liability resulting from any delay caused by
+Lessee  in surrendering the Premises, including without limitation, any claims
+made  or penalties incurred by any succeeding lessee or by Lessor.  No holding
+over  shall  be  deemed or construed to exercise any option to extend or renew
+this  Lease in lieu of full and timely exercise of any such option as required
+hereunder.
+
+26.  LESSOR'S  LIABILITY:  If  Lessee  should recover a money judgment against
+Lessor  arising in connection with this Lease, the judgment shall be satisfied
+only out of the Lessor's interest in the Premises and neither Lessor or any of
+its  partners  shall  be  liable  personally  for  any  deficiency.
+
+27.  ESTOPPEL  CERTIFICATES:  Lessee  shall at any time during the Lease Term,
+upon not less than ten (10) days prior written notice from Lessor, execute and
+deliver  to  Lessor  a  statement  in  writing  certifying that, this Lease is
+unmodified  and  in full force and effect (or, if modified, stating the nature
+of  such  modification) and the dates to which the Rent and other charges have
+been  paid  in  advance,  if  any,  and  acknowledging  that there are not, to
+Lessee's  knowledge,  any  uncured defaults on the part of Lessor hereunder or
+specifying  such  defaults  if  they  are  claimed.  Any such statement may be
+conclusively  relied  upon by any prospective purchaser or encumbrancer of the
+Premises.  Lessee's failure to deliver such a statement within such time shall
+be conclusive upon the Lessee that (a) this Lease is in full force and effect,
+without  modification except as may be represented by Lessor; (b) there are no
+uncured  defaults  in  Lessor's  performance.
+
+28.  TIME:  Time  is  of  the  essence  of  the  Lease.
+
+29. CAPTIONS: The headings on titles to the paragraphs of this Lease are not a
+part  of  this  Lease  and  shall  have  no  effect  upon  the construction or
+interpretation  of  any  part  thereof.    This instrument contains all of the
+agreements  and  conditions  made  between  the  parties hereto and may not be
+modified  orally or in any other manner than by an agreement in writing signed
+by  all  of  the  parties  hereto  or their respective successors in interest.
+
+30.  PARTY  NAMES:  Landlord  and Tenant may be used in various places in this
+Lease  as  a  substitute  for  Lessor  and  Lessee  respectively.
+
+31.  EARTHQUAKE  INSURANCE:  As  a  condition  of Lessor agreeing to waive the
+requirement  for  earthquake  insurance,  Lessee  agrees  that it will pay, as
+additional  Rent, which shall be included in the monthly CAC, an amount not to
+exceed  Seventy-Two  Thousand  Dollars  ($72,000)  per  year  for  earthquake
+insurance if Lessor desires to obtain some form of earthquake insurance in the
+future,  if and when available, on terms acceptable to Lessor as determined in
+the  sole  and  absolute  discretion  of  Lessor.
+
+32.  HABITUAL  DEFAULT:  Notwithstanding anything to the contrary contained in
+Section 14 herein, Lessor and Lessee agree that if Lessee shall have defaulted
+in  the payment of Rent for three or more times during any twelve month period
+during  the  Lease Term, then such conduct shall, at the option of the Lessor,
+represent a separate event of default which cannot be cured by Lessee.  Lessee
+acknowledges  that  the  purpose  of  this  provision is to prevent repetitive
+defaults  by  the  Lessee  under the Lease, which constitute a hardship to the
+Lessor  and  deprive  the  Lessor  of  the  timely  performance  by the Lessee
+hereunder.
+
+33.  HAZARDOUS  MATERIALS
+33.1  DEFINITIONS:  As  used in this Lease, the following terms shall have the
+following  meaning:
+     a.  The  term  "Hazardous  Materials"  shall  mean  (i)  polychlorinated
+biphenyls;  (ii)  radioactive  materials  and  (iii) any chemical, material or
+substance  now  or  hereafter  defined  as  or  included in the definitions of
+"hazardous  substance"  "hazardous  water",  "hazardous  material", "extremely
+hazardous  waste",  "restricted hazardous waste" under Section 25115, 25117 or
+15122.7,  or  listed  pursuant  to  Section 25140 of the California Health and
+Safety  Code,  Division  20,  Chapter  6.5 (Hazardous Waste Control Law), (ii)
+defined  as "hazardous substance" under Section 25316 of the California Health
+and  Safety Code, Division 20, Chapter 6.8 (Carpenter-Presley-Tanner Hazardous
+Substances  Account  Act),  (iii)  defined as "hazardous material", "hazardous
+substance",  or "hazardous waste" under Section 25501 of the California Health
+and  Safety  Code,  Division  20,  Chapter  6.95 (Hazardous Materials Release,
+Response,  Plans and Inventory), (iv) defined as a "hazardous substance" under
+Section  25181 of the California Health and Safety Code, Division 20l, Chapter
+6.7  (Underground  Storage  of  Hazardous  Substances),  (v)  petroleum,  (vi)
+asbestos, (vii) listed under Article 9 or defined as "hazardous" or "extremely
+hazardous" pursuant to Article II of Title 22 of the California Administrative
+Code, Division 4, Chapter 20, (viii) defined as "hazardous substance" pursuant
+to  Section  311 of the Federal Water Pollution Control Act, 33 U.S.C. 1251 et
+seq. or listed pursuant to Section 1004 of the Federal Water Pollution Control
+Act (33 U.S.C. 1317), (ix) defined as a "hazardous waste", pursuant to Section
+1004  of the Federal Resource Conservation and Recovery Act, 42 U.S.C. 6901 et
+seq.,  (x)  defined  as  "hazardous  substance" pursuant to Section 101 of the
+Comprehensive  Environmental  Responsibility Compensations, and Liability Act,
+42  U.S.C.  9601 et seq., or (xi) regulated under the Toxic Substances Control
+Act,  156  U.S.C.  2601  et  seq.
+     b.  The  term  "Hazardous Materials Laws" shall mean any local, state and
+federal  laws,  rules,  regulations,  or  ordinances  relating  to  the  use,
+generation,  transportation,  analysis,  manufacture,  installation,  release,
+discharge,  storage  or  disposal  of  Hazardous  Material.
+     c.  The  term  "Lessor's  Agents"  shall  mean  Lessor's  agents,
+representatives,  employees,  contractors, subcontractors, directors, officers
+and  partners.
+     d.  The  term  "Lessee's  Agents"  shall  mean  Lessee's  agents,
+representatives,  employees, contractors, subcontractors, directors, officers,
+partners,  invitees  or  any  other  person  in  or  about  the  Premises.
+
+33.2  LESSEE'S  RIGHT  TO  INVESTIGATE: Lessee shall be entitled to cause such
+inspection,  soils and ground water tests, and other evaluations to be made of
+the  Premises  as Lessee deems necessary regarding (i) the presence and use of
+Hazardous  Materials  in  or  about  the  Premises, and (ii) the potential for
+exposure  to  Lessee's  employees and other persons to any Hazardous Materials
+used  and stored by previous occupants in or about the Premises.  Lessee shall
+provide  Lessor with copies of all inspections, tests and evaluations.  Lessee
+shall  indemnify,  defend  and  hold  Lessor  harmless from any cost, claim or
+expense  arising from such entry by Lessee or from the performance of any such
+investigation  by  such  Lessee.
+
+33.3  LESSOR'S  REPRESENTATIONS:  Lessor hereby represents and warrants to the
+best  of  Lessor's  knowledge  that  the  Premises are, as of the date of this
+Lease,  in  compliance  with  all  Hazardous  Material  Laws.
+
+33.4  LESSEE'S  OBLIGATION TO INDEMNIFY: Lessee, at its sole cost and expense,
+shall  indemnify, defend, protect and hold Lessor and Lessor's Agents harmless
+from and against any and all cost or expenses, including those described under
+subparagraphs  i, ii and iii herein below set forth, arising from or caused in
+whole  or  in  part,  directly  or  indirectly  by:
+     a.  Lessee's  or Lessee's Agents' use, analysis, storage, transportation,
+disposal,  release,  threatened  release, discharge or generation of Hazardous
+Material  to,  in,  on,  under,  about  or  from  the  Premises;  or
+     b.  Lessee's or Lessee's Agents failure to comply with Hazardous Material
+laws;  or
+     c.  Any  release  of Hazardous Material to, in, on, under, about, from or
+onto  the  Premises caused by or occurring as a result of acts or omissions of
+Lessee  or  Lessee's  Agents or occurring during the Lease Term, except ground
+water  contamination  from  other  parcels  where  the  source is from off the
+Premises  not  arising  from  or  caused  by  Lessee  or  Lessee's  Agents.
+The  cost and expenses indemnified against include, but are not limited to the
+following:
+     i.  Any  and  all  claims,  actions, suits, proceedings, losses, damages,
+liabilities,  deficiencies,  forfeitures,  penalties, fines, punitive damages,
+cost  or  expenses;
+     ii.  Any claim, action, suit or proceeding for personal injury (including
+sickness,  disease,  or  death),  tangible  or  intangible  property  damage,
+compensation  for lost wages, business income, profits or other economic loss,
+damage  to  the  natural  resources  of  the environment, nuisance, pollution,
+contamination,  leaks,  spills,  release  or  other  adverse  effects  on  the
+environment;
+     iii. The cost of any repair, clean-up, treatment or detoxification of the
+Premises  necessary  to  bring the Premises into compliance with all Hazardous
+Material  Laws,  including  the preparation and implementation of any closure,
+disposal,  remedial  action, or other actions with regard to the Premises, and
+expenses  (including,  without  limitation,  reasonable  attorney's  fees  and
+consultants fees, investigation and laboratory fees, court cost and litigation
+expenses).
+
+33.5 LESSEE'S OBLIGATION TO REMEDIATE CONTAMINATION: Lessee shall, at its sole
+cost  and  expense,  promptly  take  any and all action necessary to remediate
+contamination  of  the  Premises by Hazardous Materials during the Lease Term.
+
+33.6 OBLIGATION TO NOTIFY: Lessor and Lessee shall each give written notice to
+the  other  as  soon as reasonably practical of (i) any communication received
+from any governmental authority concerning Hazardous Material which related to
+the Premises and (ii) any contamination of the Premises by Hazardous Materials
+which  constitutes  a  violation  of  any  Hazardous  Material  Laws.
+
+33.7  SURVIVAL:  The obligations of Lessee under this Section 33 shall survive
+the  Lease  Term  or  earlier  termination  of  this  Lease.
+
+33.8  CERTIFICATION  AND  CLOSURE:  On  or before the end of the Lease Term or
+earlier  termination  of  this  Lease,  Lessee  shall  deliver  to  Lessor  a
+certification  executed  by  Lessee  stating  that,  to  the  best of Lessee's
+knowledge, there exists no violation of Hazardous Material Laws resulting from
+Lessee's obligation in Paragraph 33.  If pursuant to local ordinance, state or
+federal  law,  Lessee  is  required,  at  the expiration of the Lease Term, to
+submit  a  closure  plan for the Premises to a local, state or federal agency,
+then  Lessee  shall  furnish  to  Lessor  a  copy  of  such  plan.
+
+33.9 PRIOR HAZARDOUS MATERIALS: Lessee shall have no obligation to clean up or
+to  hold  Lessor  harmless  with  respect to, any Hazardous Material or wastes
+discovered on the Premises which were not introduced into, in, on, about, from
+or under the Premises during the Lease Term or ground water contamination from
+other  parcels  where  the source is from off the Premises not arising from or
+caused  by  Lessee  or  Lessee's  Agents.
+
+34.  BROKERS:  Lessor  and  Lessee  represent  that  they have not utilized or
+contacted a real estate broker or finder with respect to this Lease and Lessee
+agrees  to  indemnify  and  hold  Lessor  harmless  against  any  claim, cost,
+liability or cause of action asserted by any broker or finder claiming through
+Lessee.    Lessor  shall  pay  no brokerage commission in connection with this
+transaction.    Lessor  represents  and  warrants  that it has not utilized or
+contacted a real estate broker or finder with respect to this Lease and Lessor
+agrees  to  indemnify  and  hold  Lessee  harmless  against  any  claim, cost,
+liability or cause of action asserted by any broker or finder claiming through
+Lessor.
+
+35.  OPTION  TO  EXTEND
+A.  Option:  Lessor hereby grants to Lessee one (1) option to extend the Lease
+Term,  with  the  extended  term  to be for a period of five (5) years, on the
+following  terms  and  conditions:
+
+(i)  Lessee  shall give Lessor written notice of its exercise of its option to
+extend  no  earlier  than twenty-four (24) calendar months, nor later than six
+(6)  calendar  months  before  the Lease Term would end but for said exercise.
+Time  is  of  the  essence.
+
+(ii)  Lessee  may  not extend the Lease Term pursuant to any option granted by
+this  Section 35 if Lessee is in default as of the date of the exercise of its
+option.   If Lessee has committed a default by Lessee as defined in Section 14
+or  32 that has not been cured or waived by Lessor in writing by the date that
+any extended term is to commence, then Lessor may elect not to allow the Lease
+Term to be extended, notwithstanding any notice given by Lessee of an exercise
+of  this  option  to  extend.
+
+(iii)  All  terms and conditions of this Lease shall apply during the extended
+term,  except  that  the base rent and rental increases for each extended term
+shall  be  determined  as  provided  in  Section  35  (B)  below
+
+(iv)  Lessee  must provide Lessor written notice of its exercise of its option
+as provided hereunder at least nine (9) months before the Lease Term would end
+but  for  said  exercise for purposes of negotiating rental terms.  Lessee may
+withdraw its notice of exercise of an extension option for any reason prior to
+six  (6)  months  before  the  Lease  Term  would  end  but for said exercise.
+Lessor  shall  provide Lessee with Lessor's proposed base monthly rent for the
+option  period  within twenty (20) days of Lessee's written request.  However,
+once  Lessee  delivers  a  notice of exercise of an option to extend the Lease
+Term it may not be withdrawn unless notice in writing is provided to Lessor at
+least  six  (6)  months  before the Lease Term would end but for said exercise
+and,  subject  to the provisions of this Section 35, such notice shall operate
+to  extend  the Lease Term.   Upon any extension of the Lease Term pursuant to
+this  Section 35, the term "Lease Term" as used in this Lease shall thereafter
+include  the  then  extended  term.
+
+(v)  The  option  rights  of  Xilinx,  Inc.  granted under this Section 35 are
+granted  for  Xilinx,  Inc.'s  personal  benefit  and  may  not be assigned or
+transferred  by Xilinx, Inc. or exercised if Xilinx, Inc. is not occupying the
+Premises  at  the  time  of  exercise.
+
+B.  Extended  Term  Rent  -  Option  Period: The monthly Rent for the Premises
+during  the  extended  term  shall equal ninety-five percent (95%) of the fair
+market  monthly  Rent  for  the  Premises  as  of the commencement date of the
+extended term, but in no case, less than the Rent during the last month of the
+prior  Lease  term.   Promptly upon Lessee's exercise of the option to extend,
+Lessee  and  Lessor shall meet and attempt to agree on the fair market monthly
+Rent  for  the  Premises as of the commencement date of the extended term.  In
+the  event  the  parties fail to agree upon the amount of the monthly Rent for
+the  extended  term  prior  to  commencement thereof, the monthly Rent for the
+extended  term  shall  be  determined by appraisal in the manner hereafter set
+forth;  provided,  however,  that  in  no event shall the monthly Rent for the
+extended  term  be  less  than in the immediate preceding period.  Annual base
+rent  increases during the extended term shall be three percent (3%) per year.
+In  the  event it becomes necessary under this paragraph to determine the fair
+market monthly Rent of the Premises by appraisal, Lessor and Lessee each shall
+appoint  a  real  estate  appraiser  who  shall  be  a  member of the American
+Institute  of  Real  Estate Appraiser ("AIREA") and such appraisers shall each
+determine  the  fair  market monthly Rent for the Premises taking into account
+the value of the Premises and the amenities provided by the outside areas, the
+common areas, and the Building, and prevailing comparable Rentals in the area.
+Such  appraisers  shall,  within  twenty  (20)  business  days  after  their
+appointment,  complete  their appraisals and submit their appraisal reports to
+Lessor  and  Lessee.    If  the  fair  market  monthly  Rent  of  the Premises
+established  in  the two (2) appraisals varies by five percent (5%) or less of
+the  higher  Rent,  the average of the two shall be controlling.  If said fair
+market  monthly  Rent  varies  by  more  than  five percent (5%) of the higher
+Rental,  said  appraisers,  within  ten (10) days after submission of the last
+appraisal,  shall appoint a third appraiser who shall be a member of the AIREA
+and  who  shall  also  be  experienced  in  the  appraisal  of Rent values and
+adjustment  practices  for  commercial  properties  in  the  vicinity  of  the
+Premises.   Such third appraiser shall, within twenty (20) business days after
+his  appointment,  determine  by appraisal the fair market monthly Rent of the
+Premises  taking  into  account the same factors referred to above, and submit
+his  appraisal  report  to  Lessor  and  Lessee.  The fair market monthly Rent
+determined  by  the  third  appraiser  for  the Premises shall be controlling,
+unless  it  is  less  than  that  set  forth in the lower appraisal previously
+obtained,  in  which case the value set forth in said lower appraisal shall be
+controlling,  or  unless  it  is  greater  than  that  set forth in the higher
+appraisal  previously  obtained  in which case the Rent set for in said higher
+appraisal  shall  be controlling.  If either Lessor or Lessee fails to appoint
+an  appraiser, or if an appraiser appointed by either of them fails, after his
+appointment  to  submit his appraisal within the required period in accordance
+with  the  foregoing,  the  appraisal  submitted  by  the  appraiser  properly
+appointed  and  timely  submitting his appraisal shall be controlling.  If the
+two appraisers appointed by Lessor and Lessee are unable to agree upon a third
+appraiser  within  the  required  period  in  accordance  with  the foregoing,
+application  shall be made within twenty (20) days thereafter by either Lessor
+or  Lessee to AIREA, which shall appoint a member of said institute willing to
+serve  as appraiser.  The cost of all appraisals under this subparagraph shall
+be  borne  equally  be  Lessor  and  Lessee.
+
+36.  APPROVALS:  Whenever  in  this  Lease the Lessor's or Lessee's consent is
+required,  such  consent  shall not be unreasonably or arbitrarily withheld or
+delayed.  In the event that the Lessor or Lessee does not respond to a request
+for any consents which may be required of it in this Lease within ten business
+days  of  the request of such consent in writing by the Lessee or Lessor, such
+consent  shall  be  deemed  to  have  been  given  by  the  Lessor  or Lessee.
+
+37. AUTHORITY: Each party executing this Lease represents and warrants that he
+or  she  is  duly authorized to execute and deliver the Lease.  If executed on
+behalf  of  a  corporation,  that the Lease is executed in accordance with the
+by-laws  of  said  corporation (or a partnership that the Lease is executed in
+accordance  with the partnership agreement of such partnership), that no other
+party's  approval  or  consent to such execution and delivery is required, and
+that  the  Lease is binding upon said individual, corporation (or partnership)
+as  the  case  may  be  in  accordance  with  its  terms.
+
+38.  INDEMNIFICATION  OF  LESSOR:  Except  to  the  extent  caused by the sole
+negligence  or  willful  misconduct of Lessor or Lessor's Agents, Lessee shall
+defend,  indemnify  and  hold  Lessor  harmless  from  and against any and all
+obligations,  losses,  costs,  expenses,  claims,  demands,  attorney's  fees,
+investigation  costs  or liabilities on account of, or arising out of the use,
+condition or occupancy of the Premises or any act or omission to act of Lessee
+or  Lessee's  Agents  or  any  occurrence  in, upon, about or at the Premises,
+including,  without limitation, any of the foregoing provisions arising out of
+the  use,  generation, manufacture, installation, release, discharge, storage,
+or  disposal  of  Hazardous  Materials  by  Lessee  or Lessee's Agents.  It is
+understood  that  Lessee  is  and  shall  be  in control and possession of the
+Premises  and  that  Lessor shall in no event be responsible or liable for any
+injury  or damage or injury to any person whatsoever, happening on, in, about,
+or  in  connection  with  the  Premises,  or  for  any injury or damage to the
+Premises  or  any  part  thereof.    This Lease is entered into on the express
+condition  that  Lessor  shall  not be liable for, or suffer loss by reason of
+injury  to  person  or  property, from whatever cause, which in any way may be
+connected  with  the  use,  condition or occupancy of the Premises or personal
+property  located  herein.  The  provisions of this Lease permitting Lessor to
+enter  and  inspect  the  Premises  are  for the purpose of enabling Lessor to
+become informed as to whether Lessee is complying with the terms of this Lease
+and  Lessor  shall  be  under  no  duty to enter, inspect or to perform any of
+Lessee's  covenants  set forth in this Lease.  Lessee shall further indemnify,
+defend  and  hold  harmless Lessor from and against any and all claims arising
+from  any  breach  or default in the performance of any obligation to Lessee's
+part to be performed under the terms of this Lease.  The provisions of Section
+38  shall  survive  the  Lease  Term or earlier termination of this Lease with
+respect  to  any  damage,  injury  or  death  occurring during the Lease Term.
+
+40.  OPTION  TO  PURCHASE:  Lessor  grants to Lessee an option to purchase the
+Premises  in  accordance  with  the  following  terms  and  conditions:
+
+(a) In order to exercise this option to purchase, Lessee must notify Lessor in
+writing  of  such  exercise between the sixth and twelfth months following the
+Commencement  Date  of  the  initial  Lease Term of any property.  This option
+shall be null and void if not exercised as stated herein before the expiration
+of  the  twelfth  month  of  the  initial  Lease  Term.
+
+ (b)  The  purchase  price  shall  be  payable  in  cash  or other immediately
+available  funds,  at  close  of escrow, which shall occur on a date chosen by
+Lessor  but in any event (i) no earlier than thirty (30) days after Lessee has
+exercised its option to purchase and (ii) not later than the sixth month after
+Lessee  has  exercised  its  option  to  purchase.
+
+(c)  Upon payment of said purchase price, Lessor shall deliver title to Lessee
+by  grant  deed,  free  and  clear  of  all  claims,  liens,  restrictions and
+encumbrances,  other than current taxes, assessments, easements (all as of the
+date  of  Lessee's  exercise  of  its option) and anything of record or not of
+record  resulting from the acts or omissions of Lessee, and such other matters
+as  Lessor  and  Lessee  may  mutually  agree  upon.
+
+(d)  Upon  execution of this Lease, Lessee shall deposit with Lessor an amount
+equal  to  Twenty-Eight  Million  Three  Hundred  Fifty-One  Thousand  Dollars
+($28,351,000)  (the  "Option  Deposit").  This deposit shall be in addition to
+all  other  deposits  required  hereunder.   If Lessee elects to exercise this
+option  to purchase, the purchase price shall be $28,351,000, and Lessor shall
+credit  the Option Deposit against such purchase price as payment in full.  In
+addition,  if  Lessee  elects to exercise this option to purchase, the prepaid
+first  year's  rent  shall  be  forfeited  to Lessor, and Lessor shall have no
+obligation to refund any of such prepaid rent to Lessee regardless of when the
+close  of  escrow shall occur.  If Lessee elects not to exercise the option to
+purchase,  Lessor  shall  refund  the  Option Deposit in full to Lessee on the
+first  anniversary  of  the  Commencement  Date,  without  interest.
+
+(e)  Both Lessor and Lessee agree to cooperate with each other in effectuating
+a  tax-deferred  exchange  of  the  Property  pursuant  to Section 1031 of the
+Internal  Revenue  Code  of  1986,  as  amended.    Each party agrees to fully
+cooperate with any such exchange, provided that each party's obligation to the
+other  shall  be  limited to its purchase or sale of the Property, as the case
+may  be,  in  accordance  with  this  paragraph  40  and the purchase and sale
+agreement  to  be  executed  by  the parties as herein provided; neither party
+shall  have  any  greater  or different obligations and no lesser or different
+rights  from  those  set  forth  in  this paragraph and such purchase and sale
+agreement;    neither  party shall be put to any additional cost or expense on
+account  of any such exchange undertaken by the other party; and neither party
+shall have any responsibility whatsoever for the tax or nontax consequences of
+an  exchange  undertaken  by  the other party, or any liability arising out of
+holding  title  to  facilitate  such  exchange (for which the exchanging party
+shall  indemnify  the cooperating party), including without limitation whether
+the  tax  effects  of  any such exchange contemplated by such party and/or any
+third  party  to  the  exchange  are  in  fact successfully realized.  No such
+exchange  shall  delay  or  excuse  any  of the time periods specified in this
+paragraph  or in the purchase and sale agreement to be executed by the parties
+as  herein  provided.  Accordingly, if an exchange is contemplated but is not,
+for  whatever reason, completed on the closing date agreed upon by the parties
+for  the  consummation  of  the  sale  of  the  Premises,  the party which has
+undertaken  such  exchange  (or  both parties, if both parties have undertaken
+exchanges)  nevertheless  shall be obligated to close on the purchase and sale
+of  the  Premises at the time and in the manner such close would have occurred
+had  such party (or both parties, if both parties have undertaken an exchange)
+not  undertaken  an  exchange.
+
+(f)  There  shall  be no prorations as of the close of escrow and Lessee shall
+assume any assessments and Lessee shall pay all closing costs, transfer taxes,
+and  escrow  fees.
+
+(g)  Lessee  shall  purchase  the  Premises  in  an  "as is" condition without
+warranty  or  representation  from  Lessor.
+
+(h) Concurrently herewith Lessee and Lessor have entered an Option to Purchase
+which  will  be  recorded  by  Lessor.
+
+40.  SUCCESSORS  AND  ASSIGNS:  The  covenants and conditions herein contained
+shall,  subject  to  the  provisions  as  to assignment, apply to and bind the
+heirs, successors, executors, administrators and assigns of all of the parties
+hereto;  and  all  of the parties hereto shall be jointly and severally liable
+hereunder.
+
+41. MISCELLANEOUS PROVISIONS: All rights and remedies hereunder are cumulative
+and  not alternative to the extent permitted by law and are in addition to all
+other  rights  or  remedies  in  law  and  in  equity.
+
+42.  CHOICE  OF LAW:  This lease shall be construed and enforced in accordance
+with  the  substantive  laws  of the State of California.  The language of all
+parts  of  this  lease shall in all cases be construed as a whole according to
+its  fair  meaning  and  not  strictly for or against either Lessor or Lessee.
+
+43. ENTIRE AGREEMENT:  This Lease is the entire agreement between the parties,
+and  there  are no agreements or representations between the parties except as
+expressed  herein.    Except  as  otherwise provided for herein, no subsequent
+change or addition to this Lease shall be binding unless in writing and signed
+by  the  parties  hereto.
+
+IN  WITNESS  WHEREOF,  Lessor and Lessee have executed these presents, the day
+and  year  first  above  written.
+
+
+LESSOR                                   LESSEE
+BERG & BERG ENTERPRISES, INC.            XILINX, INC.
+
+By:  /s/ Carl E. Berg                    By:  /s/ Willem P. Roelandts
+- --------------------------------------   --------------------------------------
+signature of authorized representative   signature of authorized representative
+
+Carl E. Berg                             Willem P. Roelandts
+- --------------------------------------   --------------------------------------
+printed name                             printed name
+
+President                                CEO, President
+- --------------------------------------   --------------------------------------
+Title                                    Title
+
+October 8, 1997                          October 8, 1997
+- --------------------------------------   --------------------------------------
+date                                     date
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>3
+<TEXT>
+
+
+                                                                     EXHIBIT 11
+ 
+<TABLE>
+<CAPTION>
+                                                         XILINX, INC.
+                                       STATEMENT OF COMPUTATION OF NET INCOME PER SHARE
+                                           (in thousands, except per share amounts)
+
+                                          Three Months Ended       Six Months Ended
+                                          Sept. 27,   Sept. 28,   Sept. 27,     Sept. 28,
+                                             1997        1996        1997         1996
+                                          ----------  ----------  -----------  ----------
+<S>                                       <C>         <C>         <C>          <C>
+PRIMARY
+Weighted average number of
+     common shares outstanding                73,921      72,853       73,708      72,515
+Incremental common shares
+     attributable to outstanding options       7,495       6,525        7,663       6,646
+                                          ----------  ----------  -----------  ----------
+Total shares                                  81,416      79,378       81,371      79,161
+                                          ==========  ==========  ===========  ==========
+Net income                                $   30,950  $   21,218  $    64,394  $   53,710
+                                          ==========  ==========  ===========  ==========
+Net income per share                      $     0.38  $     0.27  $      0.79   $    0.68
+                                          ==========  ==========  ===========  ==========
+
+FULLY DILUTED
+Weighted average number of
+     common shares outstanding                73,921      72,853       73,708      72,515
+Incremental common shares
+     attributable to outstanding options       7,495       6,874        7,663       6,821
+                                          ----------  ----------  -----------  ----------
+Total shares                                  81,416      79,727       81,371      79,336
+                                          ==========  ==========  ===========  ==========
+Net income                                $   30,950  $   21,218  $    64,394  $   53,710
+                                          ==========  ==========  ===========  ==========
+Net income per share                      $     0.38  $     0.27  $      0.79  $     0.68
+                                          ==========  ==========  ===========  ==========
+<FN>
+
+
+Note:  The convertible debt is not included in the calculation of fully diluted net income per share
+since its inclusion would have had an anti-dilutive effect.
+
+</TABLE>
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>4
+<TEXT>
+
+                                                                    EXHIBIT 12
+
+<TABLE>
+<CAPTION>
+
+                                 XILINX, INC.
+        STATEMENT OF COMPUTATION OF RATIOS OF EARNINGS TO FIXED CHARGES
+                         (in thousands, except ratios)
+
+
+                                                       Three Months Ended     Six Months Ended
+                                                      Sept. 27,   Sept. 28,  Sept. 27,  Sept. 28,
+                                                           1997        1996       1997     1996
+                                                     ----------  ----------   --------  -------
+<S>                                                  <C>         <C>          <C>       <C>
+Income before taxes                                  $   44,855  $   31,434   $ 94,401  $81,809
+Add fixed charges                                         3,679       3,616      7,359    7,254
+                                                     ----------  ----------   --------  -------
+    Earnings (as defined)                            $   48,534  $   35,050   $101,760  $89,063
+                                                     ==========  ==========   ========  =======
+
+Fixed charges
+    Interest expense                                 $    3,278  $    3,219   $  6,551  $ 6,471
+    Amortization of debt issuance costs                     218         218        436      441
+    Estimated interest component  of rent expenses          183         179        372      342
+                                                     ----------  ----------   --------  -------
+Total fixed charges                                  $    3,679  $    3,616   $  7,359  $ 7,254
+                                                     ==========  ==========   ========  =======
+Ratio of earnings to fixed charges                         13.2         9.7       13.8     12.3
+                                                     ==========  ==========   ========  =======
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+<MULTIPLIER> 1000
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   6-MOS
+<FISCAL-YEAR-END>                          MAR-28-1998             MAR-28-1998
+<PERIOD-START>                             JUN-29-1997             MAR-30-1997
+<PERIOD-END>                               SEP-27-1997             SEP-27-1997
+<CASH>                                         260,372                 260,372
+<SECURITIES>                                   174,241                 174,241
+<RECEIVABLES>                                   72,542                  72,542
+<ALLOWANCES>                                     6,557                   6,557
+<INVENTORY>                                     54,313                  54,313
+<CURRENT-ASSETS>                               636,552                 636,552
+<PP&E>                                         163,096                 163,096
+<DEPRECIATION>                                  79,381                  79,381
+<TOTAL-ASSETS>                                 936,287                 936,287
+<CURRENT-LIABILITIES>                          113,473                 113,473
+<BONDS>                                        250,000                 250,000
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                           740                     740
+<OTHER-SE>                                     561,321                 561,321
+<TOTAL-LIABILITY-AND-EQUITY>                   936,287                 936,287
+<SALES>                                        150,272                 311,033
+<TOTAL-REVENUES>                               150,272                 311,033
+<CGS>                                           56,048                 116,954
+<TOTAL-COSTS>                                   56,048                 116,954
+<OTHER-EXPENSES>                                51,176                 103,780
+<LOSS-PROVISION>                                     0                       0
+<INTEREST-EXPENSE>                               3,496                   6,987
+<INCOME-PRETAX>                                 44,855                  94,401
+<INCOME-TAX>                                    13,905                  30,007
+<INCOME-CONTINUING>                             30,950                  64,394
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                    30,950                  64,394
+<EPS-PRIMARY>                                     0.38                    0.79
+<EPS-DILUTED>                                     0.38                    0.79
+        
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

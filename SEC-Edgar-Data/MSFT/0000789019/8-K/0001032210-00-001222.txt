@@ -1,0 +1,3311 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HD+5mL/7+2DrU9bd/YrhC1+vbLDAnpMPn4AnVDqJDSGtgCioLFug4l3UAXh+BDYi
+ V3VcJuf3+6zqjuEfANzaPw==
+
+<SEC-DOCUMENT>/in/edgar/work/20000616/0001032210-00-001222/0001032210-00-001222.txt : 20000919
+<SEC-HEADER>0001032210-00-001222.hdr.sgml : 20000919
+ACCESSION NUMBER:		0001032210-00-001222
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20000607
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000616
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [7372
+]		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0630
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		8-K
+			SEC ACT:		
+			SEC FILE NUMBER:	000-14278
+			FILM NUMBER:		656612
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		ONE MICROSOFT WAY #BLDG 8
+				STREET 2:		NORTH OFFICE 2211
+				CITY:			REDMOND
+				STATE:			WA
+				ZIP:			98052
+				BUSINESS PHONE:		4258828080
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		ONE MICROSOFT WAY - BLDG 8
+					STREET 2:		NORTH OFFICE 2211
+					CITY:			REDMOND
+					STATE:			WA
+					ZIP:			98052-6399
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<PAGE>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+
+
+
+                                   FORM 8-K
+
+
+
+                                CURRENT REPORT
+    Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+Date of Report (Date of earliest event reported):     June 7, 2000
+                                                   ------------------
+
+
+                             MICROSOFT CORPORATION
+- --------------------------------------------------------------------------------
+               (Exact name of registrant as specified in charter)
+
+Washington                            0-14278                91-1144442
+- --------------------------------------------------------------------------------
+(State or Other Jurisdiction   (Commission File Number)      (I.R.S. Employer
+        of Incorporation)                                    Identification No.)
+
+
+One Microsoft Way, Redmond, Washington                           98052-6399
+- --------------------------------------------------------------------------------
+(Address of Principal Executive Offices)                         (Zip Code)
+
+
+Registrant's telephone number, including area code: (425) 882-8080
+                                                    ---------------
+
+
+    N/A
+- --------------------------------------------------------------------------------
+         (Former Name or Former Address, if Changed Since Last Report)
+<PAGE>
+
+Item 5. Other Events.
+
+On June 7, 2000, the United States District Court for the District of Columbia
+entered a Final Judgment and Memorandum and Order in the case United States of
+America v. Microsoft Corporation, Civil Action Nos. 98-1232 (TPJ) and 98-1233
+(TPJ).  Generally, the Final Judgment ordered the following:
+
+     .  Within four months of the entry of the Final Judgment, Microsoft must
+        submit a plan to separate its business into two completely different
+        companies (the "Operating Systems Business" and the "Applications
+        Business"), which divestiture would be completed within one year after
+        the plan is approved by all parties to the case.
+     .  Prior to implementation of a divestiture plan, Microsoft must
+        preserve the business of each of the two proposed new companies as they
+        are presently conducted.
+     .  After implementation of divestiture, the two new companies would be
+        prohibited from merging, sharing technology or entering into joint
+        business ventures for 10 years.
+     .  The two new companies would be monitored for compliance with the plan of
+        divestiture and would be subject to a variety of restrictions on their
+        business conduct including the following:
+
+          .  A ban on threats or retaliation against computer makers supporting
+             competing products;
+          .  A requirement of uniform terms for the licensing of Microsoft's
+             operating system products except for different language versions
+             and volume discounts;
+          .  A requirement of greater flexibility in the configuration of
+             windows operating system products by computer makers;
+          .  A requirement to disclose of certain Microsoft proprietary
+             information including application program information to software
+             developers;
+          .  A ban on certain exclusive contracts;
+          .  A ban on contracts in which Microsoft establishes conditions under
+             which a licensee is required to license, promote or distribute
+             other Microsoft products;
+          .  A ban on "binding" of certain middleware products (such as
+             browsers) to Microsoft operating system products unless such
+             middleware can be readily removed by either the computer
+             manufacturer or the end user;
+          .  A requirement that predecessor versions of Microsoft operating
+             system products be made available to requesting computer
+             manufacturers for three years after release of a new product on the
+             same terms and conditions.
+
+     The Final Judgment contains a number of other provisions and is attached
+as an exhibit to this report. You are encouraged to read the full order as well
+as the other exhibits that are attached.
+
+     On June 13, 2000, Microsoft filed a Notice of Appeal and Motion for a Stay
+of the Judgment Pending Appeal, appealing to the United States Court of Appeals
+for the District of Columbia Circuit the Final Judgment and the Findings of Fact
+and Conclusions of Law entered on April 3, 2000 finding that Microsoft violated
+the federal and state antitrust laws.
+
+     The United States Court of Appeals for the District of Columbia Circuit
+entered an Order on June 13, 2000 agreeing to hear the appeal by the court
+sitting en banc.
+
+     Microsoft issued a press release on June 13, 2000 reporting Microsoft's
+appeal of the Final Judgment and Microsoft's position with respect to the Final
+Judgment and its arguments on appeal.
+
+     Although Microsoft expects to obtain relief from some or all of the
+provisions in the Final Judgment, it is unable to predict when or to what extent
+such relief will be obtained.  The failure to obtain sufficient relief through
+the stay and/or the appeal could have a material adverse effect on the value of
+Microsoft's common stock.  You are encouraged to read our motion for a stay
+pending the appeal, which is attached as an exhibit.  This motion summarizes our
+objections to the Final Judgment.
+
+Item 7. Financial Statements and Exhibits.
+
+       The Exhibits to this report are listed in the Index to Exhibits on page
+3.
+
+                                  SIGNATURES
+
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+
+                                           MICROSOFT CORPORATION
+                                         -------------------------------------
+                                                      (Registrant)
+
+
+Date: June 16, 2000                       /s/  Robert A. Eshelman
+     ---------------                     -------------------------------
+                                                Robert A. Eshelman
+                                                Deputy General Counsel
+                                                Finance & Operations
+
+                                       2
+
+<PAGE>
+
+                               INDEX TO EXHIBITS
+
+Exhibit No.                                  Description
+- -----------                                  -----------
+
+99-1                     Final Judgment entered June 7, 2000 in the United
+                         States District Court for the District of Columbia
+                         relating to the case United States of America v.
+                                              ---------------------------
+                         Microsoft Corporation, Civil Action Nos. 98-1232 (TPJ)
+                         ---------------------
+                         and 98-1233 (TPJ).
+
+99-2                     Memorandum and Order entered June 7, 2000 in the United
+                         States District Court for the District of Columbia
+                         relating to the case United States of America v.
+                                              ---------------------------
+                         Microsoft Corporation, Civil Action Nos. 98-1232 (TPJ)
+                         ---------------------
+                         and 98-1233 (TPJ).
+
+99-3                     Notice of Appeal of Microsoft Corporation filed June
+                         13, 2000 in the United States Court of Appeals for the
+                         District of Columbia Circuit.
+
+99-4                     Motion of Appellant Microsoft Corporation for a Stay of
+                         the Judgment Pending Appeal filed June 13, 2000 in the
+                         United States Court of Appeals for the District of
+                         Columbia Circuit.
+
+99-5                     Order entered June 13, 2000 in the United States Court
+                         of Appeals for the District of Columbia Circuit
+                         allowing the hearing of the Company's appeal by the
+                         appellate court sitting en banc.
+                                                 -- ----
+
+99-6                     Press Release dated June 13, 2000.
+
+                                       3
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>FINAL JUDGEMENT DATED JUNE 7, 2000.
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.1
+
+                         UNITED STATES DISTRICT COURT
+                          FOR THE DISTRICT OF COLUMBIA
+____________________________________
+                                   )
+UNITED STATES OF AMERICA,          )
+                                   )
+          Plaintiff,               )
+                                   )
+          v.                       )         Civil Action No. 98-1232 (TPJ)
+                                   )
+MICROSOFT CORPORATION,             )
+                                   )
+          Defendant.               )
+___________________________________)
+                                   )
+STATE OF NEW YORK, et al.,         )
+                   -- ---          )
+                                   )
+          Plaintiffs,              )
+                                   )
+          v.                       )
+                                   )
+MICROSOFT CORPORATION,             )
+                                   )
+  Defendant.                       )
+___________________________________)         Civil Action No. 98-1233 (TPJ)
+                                   )
+MICROSOFT CORPORATION,             )
+                                   )
+          Counterclaim-Plaintiff,  )
+                                   )
+5.                                 )
+                                   )
+ELIOT SPITZER, attorney general of )
+     the State of New York, in his )
+     official capacity, et al.,    )
+                        -- ---     )
+                                   )
+          Counterclaim-Defendants. )
+___________________________________)
+
+
+                                 FINAL JUDGMENT
+                                 --------------
+
+     Plaintiff, United States of America, having filed its complaint herein on
+     May 18, 1998;
+
+     Plaintiff States, having filed their complaint herein on the same day;
+<PAGE>
+
+     Defendant Microsoft Corporation ("Microsoft") having appeared and filed its
+answer to such complaints;
+
+     The Court having jurisdiction of the parties hereto and of the subject
+matter hereof and having conducted a trial thereon and entered Findings of Fact
+on November 5, 1999, and Conclusions of Law on April 3, 2000;
+
+     The Court having entered judgment in accordance with the Findings of Fact
+and the Conclusions of Law on April 3, 2000, that Microsoft has violated (S)(S)
+1 and 2 of the Sherman Act, 15 U.S.C. (S)(S) 1, 2, as well as the following
+state law provisions: Cal Bus. & Prof. Code (S)(S) 16720, 16726, 16727, 17200;
+Conn. Gen. Stat. (S)(S) 35-26, 35-27, 35-29; D.C. Code (S)(S) 28-4502, 28-4503;
+Fla. Stat. chs. 501.204(1), 542.18, 542.19; 740 Ill. Comp. Stat. ch. 10/3; Iowa
+Code (S)(S) 553.4, 553.5; Kan. Stat. (S)(S) 50-101 et seq.; Ky. Rev. Stat.
+(S)(S) 367.170, 367.175; La. Rev. Stat. (S)(S) 51:122, 51:123, 51:1405; Md. Com.
+Law II Code Ann. (S) 11-204; Mass. Gen. Laws ch. 93A, (S) 2; Mich. Comp. Laws
+(S)(S) 445.772, 445.773; Minn. Stat. (S) 325D.52; N.M. Stat. (S)(S) 57-1-1, 57-
+1-2; N.Y. Gen. Bus. Law (S) 340; N.C. Gen. Stat. (S)(S) 75-1.1, 75-2.1; Ohio
+Rev. Code (S)(S) 1331.01, 1331.02; Utah Code (S) 76-10-914; W.Va. Code (S)(S)
+47-18-3, 47-18-4; Wis. Stat. (S) 133.03(1)-(2); and
+
+     Upon the record at trial and all prior and subsequent proceedings herein,
+it is this _____ day of June, 2000, hereby:
+
+     ORDERED, ADJUDGED, AND DECREED as follows:
+
+2.   Divestiture
+
+     1.   Not later than four months after entry of this Final Judgment,
+          Microsoft shall submit to the Court and the Plaintiffs a proposed plan
+          of divestiture. The Plaintiffs shall submit any objections to the
+          proposed plan of divestiture to the Court within 60 days of receipt of
+          the plan, and Microsoft shall submit its response within 30 days of
+          receipt of the plaintiffs' objections.
+
+     2.   Following approval of a final plan of divestiture by the Court (the
+          "Plan")/1/ (and the expiration of the stay pending appeal set forth in
+          section 6.a), Microsoft shall implement such Plan.
+
+     3.   The Plan shall provide for the completion, within 12 months of the
+          expiration of the stay pending appeal set forth in section 6.a., of
+          the following steps:
+
+          1.   The separation of the Operating Systems Business from the
+               Applications Business, and the transfer of the assets of one of
+               them (the "Separated
+
+______________________
+     /1/  Definitions of capitalized terms are set forth in section 7, below.
+<PAGE>
+
+               Business") to a separate entity along with (a) all personnel,
+               systems, and other tangible and intangible assets (including
+               Intellectual Property) used to develop, produce, distribute,
+               market, promote, sell, license and support the products and
+               services of the Separated Business, and (b) such other assets as
+               are necessary to operate the Separated Business as an independent
+               and economically viable entity.
+
+          2.   Intellectual Property that is used both in a product developed,
+               distributed, or sold by the Applications Business and in a
+               product developed, distributed, or sold by the Operating Systems
+               Business as of April 27, 2000, shall be assigned to the
+               Applications Business, and the Operating Systems Business shall
+               be granted a perpetual, royalty-free license to license and
+               distribute such Intellectual Property in its products, and,
+               except with respect to such Intellectual Property related to the
+               Internet browser, to develop, license and distribute modified or
+               derivative versions of such Intellectual Property, provided that
+               the Operating Systems Business does not grant rights to such
+               versions to the Applications Business. In the case of such
+               Intellectual Property that is related to the Internet browser,
+               the license shall not grant the Operating Systems Business any
+               right to develop, license, or distribute modified or derivative
+               versions of the Internet browser.
+
+          3.   The transfer of ownership of the Separated Business by means of a
+               distribution of stock of the Separated Business to Non-Covered
+               Shareholders of Microsoft, or by other disposition that does not
+               result in a Covered Shareholder owning stock in both the
+               Separated Business and the Remaining Business.
+
+     4.   Until Implementation of the Plan, Microsoft shall:
+
+          1.   preserve, maintain, and operate the Operating Systems Business
+               and the Applications Business as ongoing, economically viable
+               businesses, with management, sales, products, and operations of
+               each business held as separate, distinct and apart from one
+               another as they were on April 27, 2000, except to provide the
+               accounting, management, and information services or other
+               necessary support functions provided by Microsoft prior to the
+               entry of this Final Judgment;
+
+          2.   use all reasonable efforts to maintain and increase the sales and
+               revenues of both the products produced or sold by the Operating
+               Systems Business and those produced or sold by the Applications
+               Business prior to the Implementation of the Plan and to support
+               research and development and
+
+                                      -3-
+<PAGE>
+
+               business development efforts of both the Operating Systems
+               Business and the Applications Business;
+
+          3.   take no action that undermines, frustrates, interferes with, or
+               makes more difficult the divestiture required by this Final
+               Judgment without the prior approval of the Court; and
+
+          4.   file a report with the Court 90 days after entry of this Final
+               Judgment on the steps Microsoft has taken to comply with the
+               requirements of this section 1.d.
+
+3.   Provisions Implementing Divestiture
+
+     1.   After Implementation of the Plan, and throughout the term of this
+          Final Judgment, neither the Operating Systems Business nor the
+          Applications Business, nor any member of their respective Boards of
+          Directors, shall acquire any securities or assets of the other
+          Business; no Covered Shareholder holding securities of either the
+          Operating Systems Business or the Applications Business shall acquire
+          any securities or assets of or shall be an officer, director, or
+          employee of the other Business; and no person who is an officer,
+          director, or employee of the Operating Systems Business or the
+          Applications Business shall be an officer, director, or employee of
+          the other Business.
+
+     2.   After Implementation of the Plan and throughout the term of this Final
+          Judgment, the Operating Systems Business and the Applications Business
+          shall be prohibited from:
+
+          1.   merging or otherwise recombining, or entering into any joint
+               venture with one another;
+
+          2.   entering into any Agreement with one another under which one of
+               the Businesses develops, sells, licenses for sale or
+               distribution, or distributes products or services (other than the
+               technologies referred to in the following sentence) developed,
+               sold, licensed, or distributed by the other Business;
+
+          3.   providing to the other any APIs, Technical Information,
+               Communications Interfaces, or technical information that is not
+               simultaneously published, disclosed, or made readily available to
+               ISVs, IHVs, and OEMs; and
+
+          4.   licensing, selling or otherwise providing to the other Business
+               any product or service on terms more favorable than those
+               available to any similarly situated third party.
+
+                                      -4-
+<PAGE>
+
+          Section 2.b.ii shall not prohibit the Operating Systems Business and
+          the Applications Business from licensing technologies (other than
+          Middleware Products) to each other for use in each others' products or
+          services provided that such technology (i) is not and has not been
+          separately sold, licensed, or offered as a product, and (ii) is
+          licensed on terms that are otherwise consistent with this Final
+          Judgment.
+
+     3.   Three months after Implementation of the Plan and once every three
+          months thereafter throughout the term of this Final Judgment, the
+          Operating Systems Business and the Applications Business shall file
+          with the Plaintiffs a copy of each Agreement (and a memorandum
+          describing each oral Agreement) entered into between them.
+
+     4.   Throughout the term of this Final Judgment, Microsoft, the Operating
+          Systems Business and the Applications Business shall be prohibited
+          from taking adverse action against any person or entity in whole or in
+          part because such person or entity provided evidence in this case.
+
+     5.   The obligations and restrictions set forth in sections 3 and 4 herein
+          shall, after the Implementation of the Plan, apply only to the
+          Operating Systems Business.
+
+4.   Provisions In Effect Until Full Implementation of the Plan of Divestiture .
+     The provisions in this section 3 shall remain in effect until the earlier
+     of three years after the Implementation of the Plan or the expiration of
+     the term of this Final Judgment.
+
+     1.   OEM Relations.
+
+          1.   Ban on Adverse Actions for Supporting Competing Products.
+               Microsoft shall not take or threaten any action adversely
+               affecting any OEM (including but not limited to giving or
+               withholding any consideration such as licensing terms; discounts;
+               technical, marketing, and sales support; enabling programs;
+               product information; technical information; information about
+               future plans; developer tools or developer support; hardware
+               certification; and permission to display trademarks or logos)
+               based directly or indirectly, in whole or in part, on any actual
+               or contemplated action by that OEM:
+
+     (1)  to use, distribute, promote, license, develop, produce or sell any
+          product or service that competes with any Microsoft product or
+          service; or
+
+                                      -5-
+<PAGE>
+
+          (2)  to exercise any of the options or alternatives provided under
+               this Final Judgment.
+
+     2.   Uniform Terms for Windows Operating System Products Licensed to
+          Covered OEMs. Microsoft shall license Windows Operating System
+          Products to Covered OEMs pursuant to uniform license agreements with
+          uniform terms and conditions and shall not employ market development
+          allowances or discounts in connection with Windows Operating System
+          Products. Without limiting the foregoing, Microsoft shall charge each
+          Covered OEM the applicable royalty for Windows Operating System
+          Products as set forth on a schedule, to be established by Microsoft
+          and published on a web site accessible to plaintiffs and all Covered
+          OEMs, that provides for uniform royalties for Windows Operating
+          System Products, except that -
+
+          (1)  the schedule may specify different royalties for different
+               language versions, and
+
+          (2)  the schedule may specify reasonable volume discounts based upon
+               actual volume of total shipments of Windows Operating System
+               Products.
+
+               Without limiting the foregoing, Microsoft shall afford Covered
+               OEMs equal access to licensing terms; discounts; technical,
+               marketing, and sales support; product information; technical
+               information; information about future plans; developer tools or
+               developer support; hardware certification; and permission to
+               display trademarks or logos.  The foregoing requirement insofar
+               as it relates to access to technical information and information
+               about future plans shall not apply to any bona fide joint
+               development effort by Microsoft and a Covered OEM with respect to
+               confidential matters within the scope of that effort.  Microsoft
+               shall not terminate a Covered OEM's license for a Windows
+               Operating System Product without having first given the Covered
+               OEM written notice of the reason for the proposed termination and
+               not less than thirty days' opportunity to cure.  Microsoft shall
+               not enforce any provision in any Agreement with a Covered OEM
+               that is inconsistent with this Final Judgment.
+
+          3.   OEM Flexibility in Product Configuration. Microsoft shall not
+               restrict (by contract or otherwise, including but not limited to
+               granting or withholding consideration) an OEM from modifying the
+               boot sequence, startup folder, internet connection wizard,
+               desktop, preferences, favorites, start page, first screen, or
+               other aspect of a Windows Operating System Product to -
+
+                                      -6-
+<PAGE>
+
+          (1)  include a registration sequence to obtain subscription or other
+               information from the user;
+
+          (2)  display icons of or otherwise feature other products or services,
+               regardless of the size or shape of such icons or features, or to
+               remove the icons, folders, start menu entries, or favorites of
+               Microsoft products or services;
+
+          (3)  display any user interfaces, provided that an icon is also
+               displayed that allows the user to access the Windows user
+               interface; or
+
+          (4)  launch automatically any non-Microsoft Middleware, Operating
+               System or application, offer its own Internet access provider or
+               other start-up sequence, or offer an option to make non-Microsoft
+               Middleware the Default Middleware and to remove the means of End-
+               User Access for Microsoft's Middleware Product.
+
+2.   Disclosure of APIs, Communications Interfaces and Technical Information.
+     Microsoft shall disclose to ISVs, IHVs, and OEMs in a Timely Manner, in
+     whatever media Microsoft disseminates such information to its own
+     personnel, all APIs, Technical Information and Communications Interfaces
+     that Microsoft employs to enable -
+
+     1.   Microsoft applications to interoperate with Microsoft Platform
+          Software installed on the same Personal Computer, or
+
+     2.   a Microsoft Middleware Product to interoperate with Windows Operating
+          System software (or Middleware distributed with such Operating System)
+          installed on the same Personal Computer, or
+
+     3.   any Microsoft software installed on one computer (including but not
+          limited to server Operating Systems and operating systems for handheld
+          devices) to interoperate with a Windows Operating System (or
+          Middleware distributed with such Operating System) installed on a
+          Personal Computer.
+
+     To facilitate compliance, and monitoring of compliance, with the foregoing,
+     Microsoft shall create a secure facility where qualified representatives of
+     OEMs, ISVs, and IHVs shall be permitted to study, interrogate and interact
+     with relevant and necessary portions of the source code and any related
+     documentation of Microsoft Platform Software for the sole purpose of
+     enabling their products to
+
+
+                                      -7-
+<PAGE>
+
+     interoperate effectively with Microsoft Platform Software (including
+     exercising any of the options in section 3.a.iii).
+
+3.   Knowing Interference with Performance. Microsoft shall not take any action
+     that it knows will interfere with or degrade the performance of any non-
+     Microsoft Middleware when interoperating with any Windows Operating System
+     Product without notifying the supplier of such non-Microsoft Middleware in
+     writing that Microsoft intends to take such action, Microsoft's reasons for
+     taking the action, and any ways known to Microsoft for the supplier to
+     avoid or reduce interference with, or the degrading of, the performance of
+     the supplier's Middleware.
+
+4.   Developer Relations. Microsoft shall not take or threaten any action
+     affecting any ISV or IHV (including but not limited to giving or
+     withholding any consideration such as licensing terms; discounts;
+     technical, marketing, and sales support; enabling programs; product
+     information; technical information; information about future plans;
+     developer tools or developer support; hardware certification; and
+     permission to display trademarks or logos) based directly or indirectly, in
+     whole or in part, on any actual or contemplated action by that ISV or IHV
+     to -
+
+     1.   use, distribute, promote or support any Microsoft product or service,
+          or
+
+     2.   develop, use, distribute, promote or support software that runs on
+          non-Microsoft Middleware or a non-Microsoft Operating System or that
+          competes with any Microsoft product or service, or
+
+     3.   exercise any of the options or alternatives provided under this Final
+          Judgment.
+
+5.   Ban on Exclusive Dealing. Microsoft shall not enter into or enforce any
+     Agreement in which a third party agrees, or is offered or granted
+     consideration, to -
+
+     1.   restrict its development, production, distribution, promotion or use
+          of, or payment for, any non-Microsoft Platform Software,
+
+     2.   distribute, promote or use any Microsoft Platform Software
+          exclusively,
+
+     3.   degrade the performance of any non-Microsoft Platform Software, or
+
+     4.   in the case of an agreement with an Internet access provider or
+          Internet content provider, distribute, promote or use Microsoft
+          software in exchange for placement with respect to any aspect of a
+          Windows Operating System Product.
+
+                                      -8-
+<PAGE>
+
+     6.   Ban on Contractual Tying. Microsoft shall not condition the granting
+          of a Windows Operating System Product license, or the terms or
+          administration of such license, on an OEM or other licensee agreeing
+          to license, promote, or distribute any other Microsoft software
+          product that Microsoft distributes separately from the Windows
+          Operating System Product in the retail channel or through Internet
+          access providers, Internet content providers, ISVs or OEMs, whether or
+          not for a separate or positive price.
+
+     7.   Restriction on Binding Middleware Products to Operating System
+          Products. Microsoft shall not, in any Operating System Product
+          distributed six or more months after the effective date of this Final
+          Judgment, Bind any Middleware Product to a Windows Operating System
+          unless:
+
+          1.   Microsoft also offers an otherwise identical version of that
+               Operating System Product in which all means of End-User Access to
+               that Middleware Product can readily be removed (a) by OEMs as
+               part of standard OEM preinstallation kits and (b) by end users
+               using add-remove utilities readily accessible in the initial boot
+               process and from the Windows desktop; and
+
+          2.   when an OEM removes End-User Access to a Middleware Product from
+               any Personal Computer on which Windows is preinstalled, the
+               royalty paid by that OEM for that copy of Windows is reduced in
+               an amount not less than the product of the otherwise applicable
+               royalty and the ratio of the number of amount in bytes of binary
+               code of (a) the Middleware Product as distributed separately from
+               a Windows Operating System Product to (b) the applicable version
+               of Windows.
+
+     8.   Agreements Limiting Competition. Microsoft shall not offer, agree to
+          provide, or provide any consideration to any actual or potential
+          Platform Software competitor in exchange for such competitor's
+          agreeing to refrain or refraining in whole or in part from developing,
+          licensing, promoting or distributing any Operating System Product or
+          Middleware Product competitive with any Windows Operating System
+          Product or Middleware Product.
+
+     9.   Continued Licensing of Predecessor Version. Microsoft shall, when it
+          makes a major Windows Operating System Product release (such as
+          Windows 95, OSR 2.0, OSR 2.5, Windows 98, Windows 2000 Professional,
+          Windows "Millennium," "Whistler," "Blackcomb," and successors to
+          these), continue for three years after said release to license on the
+          same terms and conditions the previous Windows Operating System
+          Product to any OEM that desires such a license. The net royalty rate
+          for the previous Windows Operating System Product shall be no more
+          than the average royalty paid by the OEM for such Product prior
+
+                                      -9-
+<PAGE>
+
+          to the release. The OEM shall be free to market Personal Computers in
+          which it preinstalls such an Operating System Product in the same
+          manner in which it markets Personal Computers preinstalled with other
+          Windows Operating System Products.
+
+5.   Internal Antitrust Compliance. This section shall remain in effect
+     throughout the term of this Final Judgment, provided that, consistent with
+     section 2.e, this section shall not apply to the Applications Business
+     after the Implementation of the Plan.
+
+     1.   Within 90 days after the effective date of this Final Judgment,
+          Microsoft shall establish a Compliance Committee of its corporate
+          Board of Directors, consisting of not fewer than three members of the
+          Board of Directors who are not present or former employees of
+          Microsoft.
+
+     2.   The Compliance Committee shall hire a Chief Compliance Officer, who
+          shall report directly to the Compliance Committee and to the Chief
+          Executive Officer of Microsoft.
+
+     3.   The Chief Compliance Officer shall be responsible for development and
+          supervision of Microsoft's internal programs to ensure compliance with
+          the antitrust laws and this Final Judgment.
+
+     4.   Microsoft shall give the Chief Compliance Officer sufficient authority
+          and resources to discharge the responsibilities listed herein.
+
+     5.   The Chief Compliance Officer shall:
+
+          1.   within 90 days after entry of this Final Judgment, cause to be
+               delivered to each Microsoft officer, director, and Manager, and
+               each platform software developer and employee involved in
+               relations with OEMs, ISVs, or IHVs, a copy of this Final Judgment
+               together with additional informational materials describing the
+               conduct prohibited and required by this Final Judgment;
+
+          2.   distribute in a timely manner a copy of this Final Judgment and
+               such additional informational materials to any person who
+               succeeds to a position of officer, director, or Manager, or
+               platform software developer or employee involved in relations
+               with OEMs, ISVs or IHVs;
+
+          3.   obtain from each officer, director, and Manager, and each
+               platform software developer and employee involved in relations
+               with OEMs, ISVs or IHVs, within 90 days of entry of this Final
+               Judgment, and for each
+
+                                      -10-
+<PAGE>
+
+               person thereafter succeeding to such a position within 5 days of
+               such succession, a written certification that he or she:
+
+               (1)  has read, understands, and agrees to abide by the terms of
+                    this Final Judgment; and
+
+               (2)  has been advised and understands that his or her failure to
+                    comply with this Final Judgment may result in conviction for
+                    criminal contempt of court;
+
+          4.   maintain a record of persons to whom this Final Judgment has been
+               distributed and from whom, pursuant to Section 4.e.iii, such
+               certifications have been obtained;
+
+          5.   establish and maintain a means by which employees can report
+               potential violations of this Final Judgment or the antitrust laws
+               on a confidential basis; and
+
+          6.   report immediately to Plaintiffs and the Court any violation of
+               this Final Judgment.
+
+     6.   The Chief Compliance Officer may be removed only by the Chief
+          Executive Officer with the concurrence of the Compliance Committee.
+
+     7.   Microsoft shall, with the supervision of the Chief Compliance Officer,
+          maintain for a period of at least four years the e-mail of all
+          Microsoft officers, directors and managers engaged in software
+          development, marketing, sales and developer relations related to
+          Platform Software.
+
+6.   Compliance Inspection.  This section shall remain in effect throughout the
+     term of this Final Judgment.
+
+     1.   For purposes of determining or securing implementation of or
+          compliance with this Final Judgment, including the provisions
+          requiring a plan of divestiture, or determining whether this Final
+          Judgment should be modified or vacated, and subject to any legally
+          recognized privilege, from time to time:
+
+          1.   Duly authorized representatives of a Plaintiff, upon the written
+               request of the Assistant Attorney General in charge of the
+               Antitrust Division of the United States Department of Justice, or
+               the Attorney General of a Plaintiff State, as the case may be,
+               and on reasonable notice to Microsoft made to its principal
+               office, shall be permitted:
+
+                                      -11-
+<PAGE>
+
+               (1) Access during office hours to inspect and copy or, at
+               Plaintiffs' option, demand Microsoft provide copies of all books,
+               ledgers, accounts, correspondence, memoranda, source code, and
+               other records and documents in the  possession or under the
+               control of Microsoft (which may have counsel present), relating
+               to the matters contained in this Final Judgment; and
+
+               (2) Subject to the reasonable convenience of Microsoft and
+               without restraint or interference from it, to interview, either
+               informally or on the record, its officers, employees, and agents,
+               who may have their individual counsel present, regarding any such
+               matters.
+
+          2.   Upon the written request of the Assistant Attorney General in
+               charge of the Antitrust Division of the United States Department
+               of Justice, or the Attorney General of a Plaintiff State, as the
+               case may be, made to Microsoft at its principal offices,
+               Microsoft shall submit such written reports, under oath if
+               requested, as may be requested with respect to any matter
+               contained in this Final Judgment.
+
+          3.   No information or documents obtained by the means provided in
+               this section shall be divulged by a representative of a Plaintiff
+               to any person other than a duly authorized representative of a
+               Plaintiff, except in the course of legal proceedings to which the
+               Plaintiff is a party (including grand jury proceedings), or for
+               the purpose of securing compliance with this Final Judgment, or
+               as otherwise required by law.
+
+          4.   If at the time information or documents are furnished by
+               Microsoft to a Plaintiff, Microsoft represents and identifies in
+               writing the material in any such information or documents to
+               which a claim of protection may be asserted under Rule 26(c)(7)
+               of the Federal Rules of Civil Procedure, and Microsoft marks each
+               pertinent page of such material, "Subject to claim of protection
+               under Rule 26(c)(7) of the Federal Rules of Civil Procedure,"
+               then 10 calendar days notice shall be given by a Plaintiff to
+               Microsoft prior to divulging such material in any legal
+               proceeding (other than a grand jury proceeding) to which
+               Microsoft is not a party.
+
+7.   Effective Date, Term, Retention of Jurisdiction, Modification.
+
+     1.   This Final Judgment shall take effect 90 days after the date on which
+          it is entered; provided, however that sections 1.b and 2 (except 2.d)
+          shall be stayed pending completion of any appeals from this Final
+          Judgment.
+
+                                      -12-
+<PAGE>
+
+     2.   Except as provided in section 2.e, the provisions of this Final
+          Judgment apply to Microsoft as defined in section 7.o of this Final
+          Judgment.
+
+     3.   This Final Judgment shall expire at the end of ten years from the date
+          on which it takes effect.
+
+     4.   The Court may act sua sponte to issue orders or directions for the
+                            --- ------
+          construction or carrying out of this Final Judgment, for the
+          enforcement of compliance therewith, and for the punishment of any
+          violation thereof.
+
+     5.   Jurisdiction is retained by this Court for the purpose of enabling any
+          of the parties to this Final Judgment to apply to this Court at any
+          time for such further orders or directions as may be necessary or
+          appropriate for the construction or carrying out of this Final
+          Judgment, for the modification of any of the provisions hereof, for
+          the enforcement of compliance herewith, and for the punishment of any
+          violation hereof.
+
+     6.   In accordance with the Court's Conclusions of Law, the plaintiff
+          States shall submit a motion for costs and fees, with supporting
+          documents as necessary, no later than 45 days after the entry of this
+          Final Judgment.
+
+8.   Definitions.
+
+     1.   "Agreement" means any agreement, arrangement, alliance, understanding
+          or joint venture, whether written or oral.
+
+     2.   "Application Programming Interfaces (APIs)" means the interfaces,
+          service provider interfaces, and protocols that enable a hardware
+          device or an application, Middleware, or server Operating System to
+          obtain services from (or provide services in response to requests
+          from) Platform Software in a Personal Computer and to use, benefit
+          from, and rely on the resources, facilities, and capabilities of such
+          Platform Software.
+
+     3.   "Applications Business" means all businesses carried on by Microsoft
+          Corporation on the effective date of this Final Judgment except the
+          Operating Systems Business. Applications Business includes but is not
+          limited to the development, licensing, promotion, and support of
+          client and server applications and Middleware (e.g., Office,
+                                                         -----
+          BackOffice, Internet Information Server, SQL Server, etc.), Internet
+          Explorer, Mobile Explorer and other web browsers, Streaming Audio and
+          Video client and server software, transaction server software, SNA
+          server software, indexing server software, XML servers and parsers,
+          Microsoft Management Server, Java virtual machines, Frontpage Express
+          (and other web authoring tools), Outlook Express (and other e-mail
+          clients),
+
+                                      -13-
+<PAGE>
+
+          Media player, voice recognition software, Net Meeting (and other
+          collaboration software), developer tools, hardware, MSN, MSNBC, Slate,
+          Expedia, and all investments owned by Microsoft in partners or joint
+          venturers, or in ISVs, IHVs, OEMs or other distributors, developers,
+          and promoters of Microsoft products, or in other information
+          technology or communications businesses.
+
+     4.   "Bind" means to include a product in an Operating System Product in
+          such a way that either an OEM or an end user cannot readily remove or
+          uninstall the product.
+
+     5.   "Business" means the Operating Systems Business or the Applications
+          Business.
+
+     6.   "Communications Interfaces" means the interfaces and protocols that
+          enable software installed on other computers (including servers and
+          handheld devices) to interoperate with the Microsoft Platform Software
+          on a Personal Computer.
+
+     7.   "Covered OEM" means one of the 20 OEMs with the highest volume of
+          licenses of Windows Operating System Products from Microsoft in the
+          calendar year preceding the effective date of the Final Judgment. At
+          the beginning of each year, starting on January 1, 2002, Microsoft
+          shall redetermine the Covered OEMs for the new calendar year, based on
+          sales volume during the preceding calendar year.
+
+     8.   "Covered Shareholder" means a shareholder of Microsoft on the date of
+          entry of this Final Judgment who is a present or former employee,
+          officer or director of Microsoft and who owns directly or beneficially
+          more than 5 percent of the voting stock of the firm.
+
+     9.   "Default Middleware" means Middleware configured to launch
+          automatically (that is, by "default") to provide particular
+          functionality when other Middleware has not been selected for this
+          purpose. For example, a default browser is Middleware configured to
+          launch automatically to display Web pages transmitted over the
+          Internet or an intranet that bear the .htm extension, when other
+          software has not been selected for this purpose.
+
+     10.  "End-User Access" means the invocation of Middleware directly or
+          indirectly by an end user of a Personal Computer or the ability of
+          such an end user to invoke Middleware. "End-User Access" includes
+          invocation of Middleware by end users which is compelled by the design
+          of the Operating System Product.
+
+     11.  "IHV" means an independent hardware vendor that develops hardware to
+          be included in or used with a Personal Computer.
+
+                                      -14-
+<PAGE>
+
+     12.  "Implementation of the Plan" means full completion of all of the steps
+          described in section 1.c.
+
+     13.  "Intellectual Property" means copyrights, patents, trademarks and
+          trade secrets used by Microsoft or licensed by Microsoft to third
+          parties.
+
+     14.  "ISV" means any entity other than Microsoft (or any subsidiary,
+          division, or other operating unit of any such other entity) that is
+          engaged in the development and licensing (or other marketing) of
+          software products intended to interoperate with Microsoft Platform
+          Software.
+
+     15.  "Manager" means a Microsoft employee who is responsible for the direct
+          or indirect supervision of more than 100 other employees.
+
+     16.  "Microsoft" means Microsoft Corporation, the Separated Business, the
+          Remaining Business, their successors and assigns (including any
+          transferee or assignee of any ownership rights to, control of, or
+          ability to license the patents referred to in this Final Judgment),
+          their subsidiaries, affiliates, directors, officers, managers, agents,
+          and employees, and all other persons in active concert or
+          participation with any of them who shall have received actual notice
+          of this Final Judgment by personal service or otherwise.
+
+     17.  "Middleware" means software that operates, directly or through other
+          software, between an Operating System and another type of software
+          (such as an application, a server Operating System, or a database
+          management system) by offering services via APIs or Communications
+          Interfaces to such other software, and could, if ported to or
+          interoperable with multiple Operating Systems, enable software
+          products written for that Middleware to be run on multiple Operating
+          System Products. Examples of Middleware within the meaning of this
+          Final Judgment include Internet browsers, e-mail client software,
+          multimedia viewing software, Office, and the Java Virtual Machine.
+          Examples of software that are not Middleware within the meaning of
+          this Final Judgment are disk compression and memory management.
+
+     18.  "Middleware Product" means
+
+          1.   Internet browsers, e-mail client software, multimedia viewing
+               software, instant messaging software, and voice recognition
+               software, or
+
+          2.   software distributed by Microsoft that -
+
+               (1)  is, or has in the applicable preceding year been,
+                    distributed separately from an Operating System Product in
+                    the retail channel
+
+                                      -15-
+<PAGE>
+
+                    or through Internet access providers, Internet content
+                    providers, ISVs or OEMs, and
+
+               (2)  provides functionality similar to that provided by
+                    Middleware offered by a competitor to Microsoft.
+
+     19.  "Non-Covered Shareholder" means a shareholder of Microsoft on the
+          record date for the transaction that effects the transfer of ownership
+          of the Separated Business under Section 1.c.iii who is not a Covered
+          Shareholder on the date of entry of this Final Judgment.
+
+     20.  "OEM" means the manufacturer or assembler of a personal computer.
+
+     21.  "Operating System" means the software that controls the allocation and
+          usage of hardware resources (such as memory, central processing unit
+          time, disk space, and peripheral devices) of a computer, providing a
+          "platform" by exposing APIs that applications use to "call upon" the
+          Operating System's underlying software routines in order to perform
+          functions.
+
+     22.  "Operating System Product" means an Operating System and additional
+          software shipped with the Operating System, whether or not such
+          additional software is marketed for a positive price. An Operating
+          System Product includes Operating System Product upgrades that may be
+          distributed separately from the Operating System Product.
+
+     23.  "Operating Systems Business" means the development, licensing,
+          promotion, and support of Operating System Products for computing
+          devices including but not limited to (i) Personal Computers, (ii)
+          other computers based on Intel x86 or competitive microprocessors,
+          such as servers, (iii) handheld devices such as personal digital
+          assistants and cellular telephones, and (iv) television set-top boxes.
+
+     24.  "Personal Computer" means any computer configured so that its primary
+          purpose is to be used by one person at a time, that uses a video
+          display and keyboard (whether or not the video display and keyboard
+          are actually included), and that contains an Intel x86, successor, or
+          competitive microprocessor, and computers that are commercial
+          substitutes for such computers.
+
+     25.  "Plaintiff" means the United States or any of the plaintiff States in
+          this action.
+
+     26.  "Plan" means the final plan of divestiture  approved by the Court.
+
+                                      -16-
+<PAGE>
+
+     27.  "Platform Software" means an Operating System or Middleware or a
+          combination of an Operating System and Middleware.
+
+     28.  "Remaining Business" means whichever of the Operating Systems Business
+          and the Applications Businesses is not transferred to a separate
+          entity pursuant to the Plan.
+
+     29.  "Separated Business" means whichever of the Operating Systems Business
+          and the Applications Businesses is transferred to a separate entity
+          pursuant to the Plan.
+
+     30.  "Technical Information" means all information regarding the
+          identification and means of using APIs and Communications Interfaces
+          that competent software developers require to make their products
+          running on any computer interoperate effectively with Microsoft
+          Platform Software running on a Personal Computer. Technical
+          information includes but is not limited to reference implementations,
+          communications protocols, file formats, data formats, syntaxes and
+          grammars, data structure definitions and layouts, error codes, memory
+          allocation and deallocation conventions, threading and synchronization
+          conventions, functional specifications and descriptions, algorithms
+          for data translation or reformatting (including
+          compression/decompression algorithms and encryption/decryption
+          algorithms), registry settings, and field contents.
+
+     31.  "Timely Manner": disclosure of APIs, Technical Information and
+          Communications Interfaces in a timely manner means, at a minimum,
+          publication on a web site accessible by ISVs, IHVs, and OEMs at the
+          earliest of the time that such APIs, Technical Information, or
+          Communications Interfaces are (1) disclosed to Microsoft's
+          applications developers, (2) used by Microsoft's own Platform Software
+          developers in software released by Microsoft in alpha, beta, release
+          candidate, final or other form, (3) disclosed to any third party, or
+          (4) within 90 days of a final release of a Windows Operating System
+          Product, no less than 5 days after a material change is made between
+          the most recent beta or release candidate version and the final
+          release.
+
+     32.  "Windows Operating System Product" means software code (including
+          source code and binary code, and any other form in which Microsoft
+          distributes its Windows Operating Systems for Personal Computers) of
+          Windows 95, Windows 98, Windows 2000 Professional, and their
+          successors, including the Windows Operating Systems for Personal
+          Computers codenamed "Millennium," "Whistler," and "Blackcomb," and
+          their successors.
+
+                                      -17-
+<PAGE>
+
+                            _______________________
+                            Thomas Penfield Jackson
+                              U.S. District Judge
+
+                                      -18-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>0003.txt
+<DESCRIPTION>MEMORANDUM AND ORDER DATED JUNE 7, 2000.
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.2
+
+                         UNITED STATES DISTRICT COURT
+                         FOR THE DISTRICT OF COLUMBIA
+
+_________________________________________
+                                         )
+UNITED STATES OF AMERICA,                )
+                                         )
+          Plaintiff,                     )
+                                         )
+          v.                             )  Civil Action No. 98-1232 (TPJ)
+                                         )
+MICROSOFT CORPORATION,                   )
+                                         )
+          Defendant.                     )
+_________________________________________)
+                                         )
+STATE OF NEW YORK, et al.,               )
+                   -- ---                )
+                                         )
+          Plaintiffs,                    )
+                                         )
+          v.                             )
+                                         )
+MICROSOFT CORPORATION,                   )
+                                         )
+          Defendant.                     )
+_________________________________________)  Civil Action No. 98-1233 (TPJ)
+                                         )
+MICROSOFT CORPORATION,                   )
+                                         )
+          Counterclaim-Plaintiff,        )
+                                         )
+          5.                             )
+                                         )
+ELIOT SPITZER, attorney general of the   )
+     State of New York, in his official  )
+ capacity, et al.,                 )
+           -- ---
+                                         )
+          Counterclaim-Defendants.       )
+_________________________________________)
+
+                             MEMORANDUM AND ORDER
+                             --------------------
+
+                                       1
+<PAGE>
+
+     These cases are before the Court for disposition of the sole matter
+presently remaining for decision by the trial court, namely, entry of
+appropriate relief for the violations of the Sherman Act, (S)(S) 1 and 2, and
+various state laws committed by the defendant Microsoft Corporation as found by
+Court in accordance with its Findings of Fact and Conclusions of Law.  Final
+judgment will be entered contemporaneously herewith.  No further proceedings
+will be required.
+
+     The Court has been presented by plaintiffs with a proposed form of final
+judgment that would mandate both conduct modification and structural
+reorganization by the defendant when fully implemented.  Microsoft has responded
+with a motion for summary rejection of structural reorganization and a request
+for months of additional time to oppose the relief sought in all other respects.
+Microsoft claims, in effect, to have been surprised by the "draconian" and
+"unprecedented" remedy the plaintiffs recommend.  What it proposes is yet
+another round of discovery, to be followed by a second trial - in essence an ex
+                                                                             --
+post and de facto bifurcation of the case already considered and rejected by the
+- ----     -- -----
+Court.
+
+     Microsoft's profession of surprise is not credible./1/  From the inception
+of this case Microsoft knew, from well-established Supreme Court precedents
+dating from the beginning of the last century, that a mandated divestiture was a
+possibility, if not a probability, in the event of an adverse result at trial.
+At the conclusion of the trial the Court's Findings of Fact gave clear warning
+to Microsoft that the result would likely be adverse, yet the Court delayed
+entry of its
+
+__________________________
+     /1/       Despite their surprise, compounded no doubt by the Court's
+refusal on May 24th to allow discovery and take testimony on the issue,
+Microsoft's attorneys were promptly able to tender a 35-page "Offer of Proof,"
+summarizing in detail the testimony 16 witnesses would give to explain why
+plaintiffs' proposed remedy, in its entirety, is a bad idea. Within a week they
+added seven more.
+
+                                       2
+<PAGE>
+
+Conclusions of Law for five months, and enlisted the services of a
+distinguished mediator, to assist Microsoft and the plaintiffs in reaching
+agreement on a remedy of some description that Microsoft knew was inevitable.
+Even assuming that Microsoft negotiated in utmost good faith in the course of
+mediation, it had to have in contemplation the prospect that, were mediation to
+fail, the prevailing plaintiffs would propose to the Court a remedy most to
+their liking and least likely to be acceptable to Microsoft.  Its failure to
+anticipate and to prepare to meet such an eventuality gives no reason to afford
+it an opportunity to do so now.
+
+     These cases have been before the Court, and have occupied much of its
+attention, for the past two years, not counting the antecedent proceedings.
+Following a full trial Microsoft has been found guilty of antitrust violations,
+notwithstanding its protests to this day that it has committed none.  The Court
+is convinced for several reasons that a final - and appealable - judgment should
+be entered quickly.  It has also reluctantly come to the conclusion, for the
+same reasons, that a structural remedy has become imperative: Microsoft as it is
+presently organized and led is unwilling to accept the notion that it broke the
+law or accede to an order amending its conduct.
+
+     First, despite the Court's Findings of Fact and Conclusions of Law,
+Microsoft does not yet concede that any of its business practices violated the
+Sherman Act.  Microsoft officials have recently been quoted publicly to the
+effect that the company has "done nothing wrong" and that it will be vindicated
+on appeal.  The Court is well aware that there is a substantial body of public
+opinion, some of it rational, that holds to a similar view.  It is time to put
+that assertion to the test.  If true, then an appellate tribunal should be given
+early opportunity to confirm it as promptly as possible, and to abort any
+remedial measures before they have become irreversible
+
+                                       3
+<PAGE>
+
+as a practical matter.
+
+     Second, there is credible evidence in the record to suggest that Microsoft,
+convinced of its innocence, continues to do business as it has in the past, and
+may yet do to other markets what it has already done in the PC operating system
+and browser markets.  Microsoft has shown no disposition to voluntarily alter
+its business protocol in any significant respect.  Indeed, it has announced its
+intention to appeal even the imposition of the modest conduct remedies it has
+itself proposed as an alternative to the non-structural remedies sought by the
+plaintiffs.
+
+     Third, Microsoft has proved untrustworthy in the past.  In earlier
+proceedings in which a preliminary injunction was entered, Microsoft's purported
+compliance with that injunction while it was on appeal was illusory and its
+explanation disingenuous.  If it responds in similar fashion to an injunctive
+remedy in this case, the earlier the need for enforcement measures becomes
+apparent the more effective they are likely to be.
+
+     Finally, the Court believes that extended proceedings on the form a remedy
+should take are unlikely to give any significantly greater assurance that it
+will be able to identify what might be generally regarded as an optimum remedy.
+As has been the case with regard to Microsoft's culpability, opinion as to an
+appropriate remedy is sharply divided.  There is little chance that those
+divergent opinions will be reconciled by anything short of actual experience.
+The declarations (and the "offers of proof") from numerous potential witnesses
+now before the Court provide some insight as to how its various provisions might
+operate, but for the most part they are merely the predictions of purportedly
+knowledgeable people as to effects which may or may not ensue if the proposed
+final judgment is entered.   In its experience the Court has found testimonial
+predictions of future events generally less reliable even than testimony as to
+
+                                       4
+<PAGE>
+
+historical fact, and cross-examination to be of little use in enhancing or
+detracting from their accuracy.
+
+     In addition to its substantive objections, the proposed final judgment is
+also criticized by Microsoft as being vague and ambiguous.  Plaintiffs respond
+that, to the extent it may be lacking in detail, it is purposely so to allow
+Microsoft itself to propose such detail as will be least disruptive of its
+business, failing which plaintiffs will ask the Court to supply it as the need
+appears.
+
+     Plaintiffs won the case, and for that reason alone have some entitlement to
+a remedy of their choice. Moreover, plaintiffs' proposed final judgment is the
+collective work product of senior antitrust law enforcement officials of the
+United States Department of Justice and the Attorneys General of 19 states, in
+conjunction with multiple consultants./2/ These officials are by reason of
+office obliged and expected to consider - and to act in - the public interest;
+Microsoft is not. The proposed final judgment is represented to the Court as
+incorporating provisions employed successfully in the past, and it appears to
+the Court to address all the principal objectives of relief in such cases,
+namely, to terminate the unlawful conduct, to prevent its repetition in the
+future, and to revive competition in the relevant markets. Microsoft's
+alternative decree is plainly inadequate in all three respects.
+
+     The final judgment proposed by plaintiffs is perhaps more radical than
+might have resulted had mediation been successful and terminated in a consent
+decree.  It is less so than that
+
+_________________________
+     /2/       Two states dissented from the imposition of structural remedies
+but fully supported the remainder of the relief proposed. The absence of total
+unanimity merely confirms the collaborative character of the process by which
+the proposed final judgment was formulated.
+
+                                       5
+<PAGE>
+
+advocated by four disinterested amici curiae. It is designed, moreover, to take
+                                ----- ------
+force in stages, so that the effects can be gauged while the appeal progresses
+and before it has been fully implemented. And, of course, the Court will retain
+jurisdiction following appeal, and can modify the judgment as necessary in
+accordance with instructions from an appellate court or to accommodate
+conditions changed with the passage of time.
+
+     It is, therefore, this _____ day of June, 2000,
+     ORDERED, that the motion of defendant Microsoft Corporation for summary
+rejection of the plaintiffs' proposed structural reorganization is denied; and
+it is
+
+     FURTHER ORDERED, that defendant Microsoft Corporation's "position" as to
+future proceedings on the issue of remedy is rejected; and it is
+
+     FURTHER ORDERED, that plaintiffs' proposed final judgment, as revised in
+accordance with the proceedings of May 24, 2000 and Microsoft's comments
+thereon, be entered as a Final Judgment herein.
+
+
+                            _______________________
+                            Thomas Penfield Jackson
+                              U.S. District Judge
+
+                                       6
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3
+<SEQUENCE>4
+<FILENAME>0004.txt
+<DESCRIPTION>NOTICE OF APPEAL DATED JUNE 13, 2000.
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.3
+
+                      IN THE UNITED STATES DISTRICT COURT
+                         FOR THE DISTRICT OF COLUMBIA
+
+     ---------------------------------------------------------------------------
+     UNITED STATES OF AMERICA,
+
+     Plaintiff,
+
+     vs.
+
+     MICROSOFT CORPORATION,                Civil Action No. 98-1232 (TPJ)
+
+     Defendant.
+     ---------------------------------------------------------------------------
+
+
+                               NOTICE OF APPEAL
+
+Defendant Microsoft Corporation hereby appeals to the United States Court of
+Appeals for the District of Columbia Circuit from the Final Judgment entered in
+this action on June 7, 2000, as well as from the Order entered in this action on
+April 3, 2000 (save from the portion of the Order dismissing the plaintiff's
+first claim for relief). Pursuant to Rule 42(a) of the Federal Rules of Civil
+Procedure, the district court consolidated this action with Civil Action No. 98-
+1233 (TPJ) for purposes of trial. An appeal is also taken in that action this
+day.
+
+______________________________
+William H. Neukom
+Thomas W. Burt
+David A. Heiner, Jr.
+Diane D'Arcangelo
+Christopher J. Meyers
+MICROSOFT CORPORATION
+One Microsoft Way
+Redmond, Washington 98052
+(425) 936-8080
+
+John L. Warden (Bar No. 222083)
+Richard J. Urowsky
+Steven L. Holley
+Theodore Edelman
+Michael Lacovara
+Richard C. Pepperman, II
+Christine C. Monterosso
+Bradley P. Smith
+SULLIVAN & CROMWELL
+125 Broad Street
+New York, New York 10004
+(212) 558-4000
+
+June 13, 2000 Microsoft Corporation
+<PAGE>
+
+                            CERTIFICATE OF SERVICE
+
+I hereby certify that on this 13th day of June, 2000, I caused a true and
+correct copy of the foregoing Notice of Appeal to be served by facsimile and by
+overnight courier upon:
+
+Phillip R. Malone, Esq.
+
+Antitrust Division
+
+U.S. Department of Justice
+
+450 Golden Gate Avenue, Room 10-0101
+
+San Francisco, California 94102
+
+Fax: (415) 436-6687
+
+Kevin J. O'Connor, Esq.
+
+Office of the Attorney General of Wisconsin
+
+P.O. Box 7857
+
+123 West Washington Avenue
+
+Madison, Wisconsin 53703-7957
+
+Fax: (608) 267-2223
+
+Christine Rosso, Esq.
+
+Chief, Antitrust Bureau
+
+Illinois Attorney General's Office
+
+100 West Randolph Street, 13th Floor
+
+Chicago, Illinois 60601
+
+Fax: (312) 814-2549
+
+Richard L. Schwartz, Esq.
+
+Deputy Chief, Antitrust Bureau
+
+New York State Attorney General's Office
+
+120 Broadway, Suite 2601
+
+New York, New York 10271
+
+Fax: (212) 416-6015
+
+______________________
+
+Bradley P. Smith
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.4
+<SEQUENCE>5
+<FILENAME>0005.txt
+<DESCRIPTION>STAY OF JUDGMENT APPEAL DATED JUNE 13, 2000.
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.4
+
+                                    IN THE
+                        United States Court of Appeals
+                     FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+                              -------------------
+                                 No. ________
+                              -------------------
+
+                            MICROSOFT CORPORATION,
+Defendant-Appellant,
+                                      v.
+                           UNITED STATES OF AMERICA,
+Plaintiff-Appellee.
+
+
+
+                ON APPEAL FROM THE UNITED STATES DISTRICT COURT
+                         FOR THE DISTRICT OF COLUMBIA
+                   -----------------------------------------
+                   Motion of Appellant Microsoft Corporation
+                   for a Stay of the Judgment Pending Appeal
+                   -----------------------------------------
+William H. Neukom
+Thomas W. Burt
+David A. Heiner, Jr.
+Diane D'Arcangelo
+Christopher J. Meyers
+MICROSOFT CORPORATION
+One Microsoft Way
+Redmond, Washington 98052
+(425) 936-8080
+John L. Warden (Bar No. 222083)
+Richard J. Urowsky
+Steven L. Holley
+Theodore Edelman
+Michael Lacovara
+Richard C. Pepperman, II
+Christine C. Monterosso
+Bradley P. Smith
+SULLIVAN & CROMWELL
+125 Broad Street
+New York, New York 10004
+(212) 558-4000
+Counsel for Defendant-Appellant
+June 13, 2000 Microsoft Corporation
+                        CORPORATE DISCLOSURE STATEMENT
+Pursuant to Rule 26.1 of the Federal Rules of Appellate Procedure and D.C.
+Circuit Rule 26.1, Microsoft Corporation certifies that it has no corporate
+parents and that no publicly-held company owns 10% or more of Microsoft
+Corporation's stock.
+
+<PAGE>
+
+                               TABLE OF CONTENTS
+CORPORATE DISCLOSURE STATEMENT                                     i
+
+TABLE OF AUTHORITIES                                             iii
+
+GLOSSARY                                                          vi
+
+LIST OF EXHIBITS                                                viii
+
+INTRODUCTION                                                       2
+
+STATEMENT OF THE CASE                                              3
+
+A. The Complaints and Preliminary Injunction Motion                3
+B. Pretrial Proceedings                                            5
+C. The Trial                                                       7
+D. Findings of Fact                                                8
+E. Conclusions of Law                                             11
+1. Tying                                                          12
+2. Exclusive Dealing                                              13
+3. Monopoly Maintenance                                           13
+4. Attempted Monopolization                                       15
+F. The Final Judgment                                             15
+
+ARGUMENT                                                          22
+
+I. Microsoft Will Prevail on the Merits                           22
+II. Microsoft Will Suffer Irreparable Injury Absent a Stay        30
+III. No Other Parties Will Be Harmed by a Stay                    35
+IV. The Public Interest Weighs Strongly in Favor of a Stay        37
+CONCLUSION                                                        39
+                             TABLE OF AUTHORITIES
+CASES
+Association for Intercollegiate Athletics for Women v. NCAA,
+735 F.2d 577 (D.C. Cir. 1984)                                     28
+Ball Mem'l Hosp., Inc. v. Mutual Hosp. Ins., Inc.,
+784 F.2d 1325 (7th Cir. 1986)                              26-27, 28
+* Barry Wright Corp. v. ITT Grinnell Corp.,
+724 F.2d 227 (1st Cir. 1983)                                      26
+City of Groton v. Connecticut Light & Power Co.,
+662 F.2d 921 (2d Cir. 1981)                                       28
+CityFed Fin. Corp. v. Office of Thrift Supervision,
+58 F.3d 738 (D.C. Cir. 1995)                                      22
+Continental Ore Co. v. Union Carbide & Carbon Corp.,
+370 U.S. 690 (1962)                                               28
+Cuomo v. United States Nuclear Regulatory Comm'n,
+772 F.2d 972 (D.C. Cir. 1985)                                     22
+<PAGE>
+
+Eastman Kodak Co. v. Image Technical Servs., Inc.,
+504 U.S. 451 (1992)                                                        12
+FMC Corp. v. Taiwan Tainan Giant Indus. Co.,
+730 F.2d 61 (2d Cir. 1984)                                                 32
+* Gilliam v. ABC,
+538 F.2d 14 (2d Cir. 1976)                                                 26
+Hilton v. Braunskill,
+481 U.S. 770 (1987)                                                        22
+In re Indep. Serv. Orgs. Antitrust Litig.,
+989 F. Supp. 1131 (D. Kan. 1997), aff'd,
+203 F.3d 1322 (Fed. Cir. 2000)                                             26
+Indiana Grocery, Inc. v. Super Valu Stores, Inc.,
+864 F.2d 1409 (7th Cir. 1989)                                              26
+Intergraph Corp. v. Intel Corp.,
+195 F.3d 1346 (Fed. Cir. 1999)                                         26, 28
+Jefferson Parish Hosp. Dist. No. 2 v. Hyde,
+466 U.S. 2 (1984)                                                      12, 25
+MCI v. AT&T,
+708 F.2d 1081 (7th Cir.), cert. denied,
+464 U.S. 891 (1983)                                                        27
+Southern Pac. Communications Co. v. AT&T,
+556 F. Supp. 825 (D.D.C. 1983), aff'd,
+740 F.2d 980 (D.C. Cir. 1984), cert. denied,
+470 U.S. 1005 (1985)                                                       28
+Timken Roller Bearing Co. v. United States,
+341 U.S. 593 (1951)                                                        29
+U.S. Healthcare, Inc. v. Healthsources, Inc.,
+986 F.2d 589 (1st Cir. 1993)                                               26
+United States v. American Airlines, Inc.,
+743 F.2d 1114 (5th Cir. 1984), cert. denied,
+474 U.S. 1001 (1985)                                                       29
+United States v. E.I. du Pont de Nemours & Co.,
+366 U.S. 316 (1961)                                                        29
+* United States v. Microsoft Corp.,
+147 F.3d 935 (D.C. Cir. 1998) passim
+United States v. Microsoft Corp.,
+Nos. 98-1232, 1233, 1998 WL 614485 (D.D.C. Sept. 14, 1998)               5, 6
+<PAGE>
+
+United States v. National Lead Co.,
+332 U.S. 319 (1947)                                                        29
+* WGN Continental Broad. Co. v. United Video, Inc.,
+693 F.2d 622 (7th Cir. 1982)                                               26
+RULES, TREATISES AND OTHER AUTHORITIES
+15 U.S.C. (S) 29(b)                                                     1, 16
+III Phillip E. Areeda & Hebert Hovenkamp,
+Antitrust Law (1996)                                                   24, 27
+D.C. Cir. R. 8(a)(1)                                                       22
+Fed. R. App. P. 8(a)(2)(A)(ii)                                              1
+Fed. R. Civ. P. 42(a)                                                       5
+Fed. R. Civ. P. 43(a)                                                      30
+Fed. R. Civ. P. 65(a)(2)                                                    5
+Model Code of Judicial Conduct Cannon 3B(9)                                21
+Joel Brinkley and Steve Lohr, Retracing the Missteps in
+Microsoft's Defense at Its Antitrust Trial,
+N.Y. Times, June 9, 2000, at A1                                         21-22
+James V. Grimaldi, Reluctant Ruling for Judge,
+Wash. Post, June 8, 2000, at A01                                           21
+Frances Katz, Netscape 6 Is Designed to Adapt to Non-PC Uses,
+Chicago Trib., Apr. 10, 2000, at 11                                        15
+John R. Wilke, For Antitrust Judge, Trust,
+or Lack of It, Really Was the Issue,
+Wall St. J., June 8, 2000, at A1                                           21
+
+                                   GLOSSARY
+
+"APIs" Application Programming Interfaces. APIs are interfaces exposed by an
+operating system or other platform software that can be invoked by an
+application or middleware to obtain services like displaying text on the video
+monitor or saving a document to the hard disk.
+"Conclusions" The term "conclusions" refers to the district court's Conclusions
+of Law entered April 3, 2000.
+"Consent Decree" The consent decree is the final judgment entered in Civil
+Action No. 94-1564 on August 21, 1995 and reported at 1995 WL 505998 (D.D.C.).
+"Findings" The term "findings" refers to the district court's Findings of Fact
+entered November 5, 1999.
+"IAP" Internet Access Provider. Plaintiffs use the term IAP to refer
+collectively to both ISPs and OLSs.
+<PAGE>
+
+"ICPs" Internet Content Providers. ICPs are entities that provide content to
+users of the Internet by maintaining Web sites.
+
+"ISPs" Internet Service Providers. ISPs provide their subscribers with a
+connection to the Internet via telephone, cable or satellite in exchange for a
+monthly fee.
+
+"ISVs" Independent Software Vendors. ISVs are entities engaged in developing and
+marketing software products.
+
+"Linux" Linux is an operating system created in 1991 by Linus Torvalds, a
+Finnish graduate student, and subsequently modified on a cooperative basis by
+software developers around the world.
+
+"Mac OS" Mac OS is Apple's operating system for Macintosh personal computers.
+
+"OEM" Original Equipment Manufacturer. OEMs are manufacturers or assemblers of
+personal computers.
+
+"Office" Microsoft Office. Office is a suite of business productivity
+applications developed by Microsoft, including Word word processing software,
+Excel spreadsheet software, PowerPoint presentation graphics software and Access
+relational database software.
+
+"OLSs" Online Services. OLSs provide their subscribers with a connection to the
+Internet as well as proprietary content and services like e-mail and personal
+Web pages.
+
+"OS/2 Warp" OS/2 Warp is an operating system first released by IBM in the fall
+of 1994. Early versions of OS/2 were developed jointly by IBM and Microsoft.
+
+"Windows 2000 Windows 2000 Professional is an operating system developed by
+Professional" Microsoft that was commercially released in February 2000. Windows
+2000 Professional is the successor to Microsoft's Windows NT 4.0 operating
+system and is targeted primarily at business customers.
+
+"Windows 2000 Windows 2000 Server is a server operating system developed by
+Server" Microsoft that was commercially released in February 2000. Windows 2000
+Server is the successor to Microsoft's Windows NT 4.0 Server operating system.
+Windows 2000 Server is used in computer networks and competes with Novell
+NetWare and a number of UNIX variants, including Tru-64 UNIX from Compaq, HP-UX
+from Hewlett-Packard, AIX from IBM and Solaris from Sun Microsystems.
+
+"Windows CE" Windows CE is an operating system developed by Microsoft for use
+in, inter alia, handheld devices and television set-top boxes. Windows CE
+competes with Aperios from Sony, ultron from Matsushita and other Japanese
+consumer electronics companies, OS/9 from Microware and a wide range of other
+embedded operating systems.
+
+
+<PAGE>
+
+                               LIST OF EXHIBIT
+
+Memorandum & Order and Final Judgment Exhibit                                  1
+DOJ's Complaint Exhibit                                                        2
+States' First Amended Complaint Exhibit                                        3
+Microsoft's Motion To Limit Issues for Trial Exhibit                           4
+Memorandum of Microsoft in Opposition to Plaintiffs'
+Motion To Compel and in Support of Microsoft's
+Motion To Limit Issues for Trial Exhibit                                       5
+Microsoft's Statement of Extraneous Issues
+To Be Excluded from Trial Exhibit                                              6
+Microsoft's Objections to Plaintiffs' New Requests for
+Relief and Attempt To Expand This Case Beyond the
+Allegations in the Complaints Exhibit                                          7
+Summary Judgment Opinion Exhibit                                               8
+Transcript of Hearing on September 17, 1998 Exhibit                            9
+Microsoft's Motion In Limine To Exclude Hearsay Statements
+in the Direct Examination of Jim Barksdale Exhibit                            10
+Findings of Fact Exhibit                                                      11
+Memorandum & Order re: Participation of
+Lawrence Lessig as Amicus Curiae Exhibit                                      12
+Brief of Lawrence Lessig as Amicus Curiae Exhibit                             13
+Conclusions of Law Exhibit                                                    14
+Transcript of Status Conference on April 4, 2000 Exhibit                      15
+Transcript of Status Conference on April 5, 2000 Exhibit                      16
+Scheduling Order No. 8 Exhibit                                                17
+Microsoft's Memorandum and Reply Memorandum in
+Support of Its Motion for Summary Rejection of the
+Government's Breakup Proposal Exhibit                                         18
+Microsoft's Position as to Future Proceedings
+on the Issue of Remedy Exhibit                                                19
+Microsoft's Summary Response to Plaintiffs'
+Proposed Final Judgment Exhibit                                               20
+Transcript of Hearing on May 24, 2000 Exhibit                                 21
+Microsoft's Offer of Proof and Supplemental Offer of Proof Exhibit            22
+Microsoft's Comments on Plaintiffs' Revised
+Proposed Final Judgment Exhibit                                               23
+Plaintiffs' Summary Response to Microsoft's Comments
+on Revised Proposed Final Judgment Exhibit                                    24
+<PAGE>
+
+Microsoft's Reply to Plaintiffs' Response to
+Microsoft's Comments on their Revised
+Proposed Final Judgment Exhibit                                               25
+James V. Grimaldi, Reluctant Ruling for Judge, Wash. Post,
+June 8, 2000, at A01 (available on the Internet at
+ http://washingtonpost.com/wp-dyn/articles/A17224-2000Jun7.html ) Exhibit     26
+John R. Wilke, For Antitrust Judge, Trust,
+or Lack of It, Really Was the Issue,
+Wall St. J., June 8, 2000, at A1 Exhibit                                      27
+Joel Brinkley and Steve Lohr, Retracing the Missteps in
+Microsoft's Defense at Its Antitrust Trial, N.Y. Times,
+June 9, 2000, at A1 (available on the Internet at
+ http://www.nytimes.com/library/tech/00/06/biztech/articles/09trial.html )
+Exhibit                                                                       28
+Defendant Microsoft Corporation's Motion for Stay Exhibit                     29
+Plaintiffs' Response to Microsoft's Motion for Stay Exhibit                   30
+Defendant Microsoft Corporation's Reply
+Memorandum in Support of Its Motion
+for a Stay Pending Appeal Exhibit                                             31
+Order of June 13, 2000 Exhibit                                                32
+
+Pursuant to Rule 8 of the Federal Rules of Appellate Procedure, defendant-
+appellant Microsoft Corporation ("Microsoft") hereby moves for a stay of all
+provisions of the district court's June 7, 2000 final judgment pending
+resolution of this appeal.
+
+Although the district court's judgment and accompanying memorandum made clear
+that it was highly unlikely that the district court would stay the judgment
+pending appeal, Microsoft filed a short stay motion with the district court on
+June 7, 2000. Five days later, plaintiffs filed a response to Microsoft's stay
+motion urging the district court to deny the motion, but to defer its ruling
+until (i) Microsoft filed its notice of appeal and (ii) the district court was
+in a position to resolve a motion for certification of direct appeal to the
+Supreme Court--issues wholly unrelated to the district court's consideration of
+a stay pending appeal. On June 13, 2000, the district court entered an order
+finding that "consideration of a stay pending appeal is premature in that no
+notice of appeal has yet been filed" and "reserv[ing] ruling on Microsoft's
+motion until such time as a timely notice of appeal is filed."
+
+Microsoft's stay motion has been pending for nearly a week, and the district
+court has "failed to afford the relief requested" by the motion. Fed. R. App. P.
+8(a)(2)(A)(ii). Accordingly, Microsoft now asks this Court to stay the judgment
+pending appeal. Time is of the essence here. Many extreme provisions of the
+judgment start to take effect 90 days after its entry, and Microsoft must begin
+preparing immediately if it is to be in compliance with the judgment in 84 days.
+Microsoft
+<PAGE>
+
+therefore respectfully requests that the Court set an expedited briefing
+schedule on Microsoft's motion so that it can be resolved as soon as possible.
+Microsoft will promptly advise the Court if, contrary to all expectations, the
+district court grants Microsoft's stay motion now that a notice of appeal has
+been filed.
+
+                                 INTRODUCTION
+
+This is an appeal from a judgment of the district court (Hon. Thomas Penfield
+Jackson) holding Microsoft liable for violations of Sections 1 and 2 of the
+Sherman Act and various corresponding provisions of state law. The judgment was
+entered in two consolidated actions, one brought by the Antitrust Division of
+the U.S. Department of Justice ("DOJ") and the other by nineteen States and the
+District of Columbia.
+
+Microsoft's appeal will present an overwhelming case for reversal of the
+judgment based on an array of serious substantive and procedural errors that
+infected virtually every aspect of the proceedings below. These flaws culminated
+in the entry of unprecedented relief that extends far beyond the case that was
+presented, without affording Microsoft an evidentiary hearing on the terms of
+one of the most complex antitrust decrees in history. Based on six hearsay
+declarations submitted by plaintiffs, the district court ordered that Microsoft
+be split into two companies, disclose its valuable intellectual property to
+competitors, redesign all of its operating system software to plaintiffs' vague
+specifications and re-price that software according to an arbitrary court-
+imposed formula.
+
+Although final implementation of the breakup is stayed pending appeal, the
+judgment's other extreme provisions take effect 90 days after entry. Absent a
+stay from this Court, these provisions will (i) result in a confiscation of
+large amounts of Microsoft's intellectual property, (ii) interfere with
+Microsoft's release of new products such as its Windows Millenium operating
+system, (iii) require Microsoft to redesign all of its existing operating
+systems within six months of the judgment's effective date or else withdraw them
+from the marketplace, (iv) force Microsoft immediately to divert vast resources
+from software development to complying with the judgment and formulating the
+required breakup plan, and (v) make it difficult for Microsoft to conduct
+business in the highly-competitive, fast-moving software industry at a critical
+time when software is being transformed from standalone products to Web-based
+services. The effect of these provisions will be devastating, not only to
+Microsoft, but also to its employees, shareholders, business partners and
+customers, and could have a significant adverse impact on the Nation's economy.
+A stay pending appeal is necessary to prevent these far-reaching and
+irreversible consequences of a profoundly flawed ruling.
+
+                             STATEMENT OF THE CASE
+
+A. The Complaints and Preliminary Injunction Motion
+
+On May 18, 1998, the DOJ and various States commenced these actions alleging
+violations of Sections 1 and 2 of the Sherman Act and the States' respective
+antitrust statutes. Plaintiffs
+<PAGE>
+
+asserted two claims under Section 1 (unlawful tying and exclusive dealing) and
+two claims under Section 2 (attempted monopolization of "Internet browsers" and
+maintenance of a monopoly in "PC operating systems"). (DOJ Compl. (P)(P) 130-41;
+States First Am. Compl. (P)(P) 85-90, 93-97.) The central allegation of
+plaintiffs' complaints was that Microsoft had unlawfully foreclosed Netscape
+Communications Corp. ("Netscape") from distributing and promoting its Web
+browsing software, called Navigator, by (i) including Microsoft's own Web
+browsing software, called Internet Explorer, in its Windows 95 and Windows 98
+operating systems, (ii) entering into exclusive distribution and promotion
+agreements relating to Internet Explorer with distributors such as online
+services ("OLSs"), Internet service providers ("ISPs") and Internet content
+providers ("ICPs"), and (iii) not granting computer manufacturers ("OEMs") that
+preinstall Windows the right to modify the initial Windows startup sequence and
+the Windows desktop to prevent end users from accessing Internet Explorer.
+
+Plaintiffs contended that Microsoft sought to limit Netscape's distribution of
+Navigator because it was concerned that Navigator could become a competing
+"platform" to which applications could be written, and thus might reduce what
+plaintiffs viewed as the sole barrier to entry into the PC operating system
+business. (DOJ Compl. (P)(P) 3-4, 7-9; States First Am. Compl. (P)(P) 32-37.)
+According to plaintiffs, this so-called barrier--referred to as the
+"applications barrier to entry"--results from Microsoft's success in persuading
+software developers to write large numbers of applications for Windows relative
+to other operating systems. (DOJ Compl. (P) 3; States First Am. Compl. (P) 35.)
+In plaintiffs' view, this purported barrier could be eroded if more applications
+were written for cross-platform "middleware" such as Navigator that has versions
+that run on multiple operating systems. (DOJ Compl. (P)(P) 66-68; States First
+Am. Compl. (P)(P) 34-36.)
+
+As the district court observed in its September 1998 summary judgment decision,
+plaintiffs' complaints both sought virtually the same narrow relief, namely, an
+order enjoining Microsoft from:
+
+(1) entering into or enforcing certain contractual provisions which allegedly
+foreclose distribution and/or promotion of competing Internet browsers; (2)
+distributing a "bundled" version of its operating system and browser unless
+Microsoft provides a practical way of removing browser functions and provides
+OEMs that do not wish to license the browser an appropriate deduction from the
+royalty rate; (3) distributing a "bundled" version of its operating system and
+browser unless Microsoft treats Netscape Corporation's ("Netscape") browser the
+same as its own with respect to inclusion and removal; and (4) retaliating
+against any OEM that chooses to remove Microsoft's browser from Windows 98.
+
+United States v. Microsoft Corp., Nos. 98-1232, 1233, 1998 WL 614485, at *1
+(D.D.C. Sept. 14, 1998). Together with their complaints, plaintiffs filed
+motions for a preliminary injunction seeking largely the same relief--what
+plaintiffs at the time referred to as a "surgical strike." Plaintiffs argued
+that in the absence of preliminary relief, Netscape would be effectively
+foreclosed from
+<PAGE>
+
+getting Navigator into the hands of consumers and that consumers would thus be
+deprived of their choice of Web browsing software.
+
+B. Pretrial Proceedings
+
+Following a scheduling conference on May 22, 1998, the district court
+consolidated the two actions pursuant to Rule 42(a) of the Federal Rules of
+Civil Procedure. The district court also advanced the trial of both actions on
+the merits and consolidated it with the preliminary injunction hearing pursuant
+to Rule 65(a)(2). In view of the narrow focus of plaintiffs' complaints and
+requested relief, the district court, over Microsoft's objection, scheduled the
+trial to commence on September 8, 1998--less than four months away. The court
+also limited each side to twelve trial witnesses and required the parties to
+file the direct examinations of their witnesses in the form of written
+declarations.
+
+On June 23, 1998, a little more than a month after the complaints were filed,
+this Court reversed the district court's December 11, 1997 order granting a sua
+sponte preliminary injunction in a closely related action brought by the DOJ
+against Microsoft under a 1994 consent decree. United States v. Microsoft Corp.,
+147 F.3d 935 (D.C. Cir. 1998). This Court held, based on the record before it,
+that Windows 95 and Internet Explorer 4.0 constitute an "integrated product"
+under the consent decree because there are "facially plausible benefits" to the
+"integrated design" of Windows 95, including its Internet Explorer components,
+"as compared to an operating system combined with a stand-alone browser such as
+Netscape's Navigator." Id. at 950. Based largely on this Court's decision,
+Microsoft moved for summary judgment on plaintiffs' tying and other claims.
+
+In denying Microsoft's motion for summary judgment on plaintiffs' tying claim,
+the district court observed that although this Court's opinion "was ostensibly
+limited to interpreting the specific terms of the Consent Decree, the analysis
+was, in the Court of Appeals' eyes, `consistent with tying law.'" 1998 WL
+614485, at *10 (quoting 147 F.3d at 950). The district court acknowledged that
+this Court had articulated the controlling legal standard in this case for
+"determining whether an integration amounts to a single product for purposes of
+evaluating a tying claim," id., a ruling the court would repudiate eighteen
+months later in its conclusions of law when it condemned Microsoft's design of
+Windows 95 and 98 as unlawful ties. In its summary judgment decision, however,
+the district court applied this Court's standard, stating that it could not
+"determine whether Windows and IE are `separate products' until it becomes clear
+what are the synergistic benefits that are unique to the Windows/IE combination,
+i.e., benefits that could not be obtained by combining another browser with
+Windows." Id. at *12.
+
+Although the district court denied Microsoft's summary judgment motion, this
+Court's June 1998 decision eviscerated the central contention of plaintiffs'
+complaints, namely, that Microsoft had "tied" Internet Explorer to Windows 95
+and Windows 98. (See, e.g., DOJ Compl. (P)(P) 18-23, 103-23, 134-37; States
+First Am. Compl. (P)(P) 47-50, 54-69, 93-95.) In the months following that
+<PAGE>
+
+decision, plaintiffs responded by dramatically expanding the scope of their
+case, raising new allegations not included in their complaints and seeking to
+convert the case into an omnibus Section 2 monopoly maintenance action. Over
+Microsoft's vehement and repeated objections, plaintiffs advanced new
+allegations concerning Microsoft's interactions with Intel Corporation
+("Intel"), Apple Computer Corp. ("Apple"), RealNetworks, Inc. ("RealNetworks")
+and IBM Corp. ("IBM"). Plaintiffs also contended that Microsoft unlawfully
+impeded marketplace acceptance of the Java technologies promoted by Sun
+Microsystems, Inc. ("Sun") by creating its own implementation of Java optimized
+for use with Windows. This allegation was already the subject of a lawsuit
+between Sun and Microsoft. See Sun Microsystems, Inc. v. Microsoft Corp., No. C-
+97-20884-RMW (N.D. Cal.).
+
+Despite the dramatic transformation of the cases, the district court did not
+require plaintiffs to amend their complaints. Rather, the court assured
+Microsoft that it "would not be making any findings" and "would not predicate
+any relief" on matters unrelated to the conduct challenged in the complaints
+(Sept. 17, 1998 Tr. at 7), an assurance the court would later ignore both in
+making its findings of fact and in fashioning relief. The court also refused to
+give Microsoft additional time to conduct discovery and prepare for a greatly
+expanded trial, notwithstanding Microsoft's repeated pleas for both. Because
+Microsoft ultimately had less than five months to prepare for trial (and much
+less time to prepare its defense to plaintiffs' new allegations involving
+various highly technical subjects), Microsoft was unable to pursue entire
+avenues of necessary discovery. The limited time available to Microsoft was
+particularly unfair given that the DOJ had been investigating the issues for
+years before filing its complaint using compulsory process granted by the
+Antitrust Civil Process Act.
+C. The Trial
+
+Notwithstanding Microsoft's motion for a continuance, trial began on October 19,
+1998, less than five months after the complaints were filed. The Final Pretrial
+Order provided that "no new discovery shall be initiated by any party after
+entry of this Final Pretrial Order except with prior leave of the Court for
+cause shown." The parties concluded their cases-in-chief on February 26, 1999,
+and presented rebuttal evidence between June 1, 1999 and June 24, 1999.
+
+At trial, the district court largely suspended application of the Federal Rules
+of Evidence, admitting into evidence numerous newspaper and magazine articles
+and other rank hearsay. For example, sixty-nine paragraphs of the written direct
+testimony of James Barksdale, then chief executive officer of Netscape and
+plaintiffs' first witness, contained large amounts of inadmissible hearsay,
+oftentimes multiple levels of hearsay. Yet, the district court denied
+Microsoft's motion in limine to exclude such hearsay statements.
+
+In the middle of trial, an event occurred that completely changed the
+competitive landscape of the software industry. On November 24, 1998, America
+Online, Inc. ("AOL"), a Microsoft competitor that provided plaintiffs' second
+witness, agreed to acquire Netscape--the company plaintiffs
+<PAGE>
+
+claimed had been fatally injured by Microsoft's conduct--in a stock acquisition
+valued at $10 billion at the time of closing. In a related transaction, AOL
+entered into a three-year "strategic alliance" with Sun, another competitor of
+Microsoft that likewise provided plaintiffs with a trial witness.
+
+D. Findings of Fact
+
+The district court bifurcated briefing on findings of fact and conclusions of
+law, and issued its findings of fact on November 5, 1999. Although 412
+paragraphs long, the court's findings do not contain a single citation to the
+record, making it impossible to ascertain the purported basis for many findings
+and thereby compounding the many evidentiary errors at trial. The court also did
+not make any specific credibility determinations, and many of its "findings"
+consist of nothing more than sweeping, conclusory assertions. What is more, the
+court simply ignored vast amounts of uncontradicted evidence submitted by
+Microsoft, including Microsoft's explanation of why it did not charge separately
+for Internet Explorer and Microsoft's detailed description of the many benefits
+flowing from the integrated design of Windows that cannot be duplicated by
+combining an operating system with a standalone browser like Navigator.
+
+The district court adopted nearly every position advanced by plaintiffs. The
+court found that Microsoft possesses monopoly power in the market for "Intel-
+compatible PC operating systems" (Findings (P) 33), a putative market that is so
+narrow that it excludes both Apple's Mac OS operating system (id. (P)(P) 20-21)
+and the competing platform technologies--Navigator and Java--that the court
+determined posed the greatest competitive threat to Microsoft's purported
+operating system monopoly and that were the crux of plaintiffs' claims of
+anticompetitive conduct (id. (P)(P) 68-77).
+
+The court also accepted plaintiffs' position as to the so-called "applications
+barrier to entry." (Id. (P) 36.) According to the district court, "[t]he
+overwhelming majority of consumers will only use a PC operating system for which
+there already exists a large and varied set of high-quality, full-featured
+applications." (Id. (P) 30.) Even if a competing operating system "attracted
+several thousand compatible applications," the court stated, it "would still
+look like a gamble from the consumer's perspective next to Windows, which
+supports over 70,000 applications." (Id. (P) 40.) The court concluded that
+"[a]lthough Apple's Mac OS supports more than 12,000 applications," including
+Microsoft Office, "even an inventory of that magnitude is not sufficient to
+enable Apple to present a significant percentage of users with a viable
+substitute for Windows." (Id. (P) 47.)
+
+Many of the district court's other findings are clearly erroneous, particularly
+those regarding Microsoft's supposed foreclosure of Netscape from specific
+channels of distribution. For example, the court found that "Microsoft has
+largely succeeded in exiling Navigator from the crucial OEM distribution
+channel." (Findings (P) 239.) According to the court, "[b]y the beginning of
+January 1999, Navigator was present on the desktop of only a tiny percentage of
+the PCs that OEMs were shipping." (Id.) In fact, documents reporting the results
+of AOL's due diligence
+<PAGE>
+
+investigation prior to acquiring Netscape--elsewhere relied on by the district
+court--state that as of 1998 Navigator was distributed on "22% of OEM
+shipments." (DX 2440 at 341778.) When confronted with these documents at trial,
+plaintiffs' economist, Frank Fisher, acknowledged that Barksdale's testimony
+that Microsoft had foreclosed Netscape from the OEM channel was an
+"exaggeration." (June 3, 1999 A.M. Tr. at 56-58.) There is thus no credible
+evidence to support the district court's finding of foreclosure in the OEM
+channel.
+
+Significantly, the district court found that Microsoft had not foreclosed
+Netscape from the marketplace as a whole. In particular, the court found that
+"Microsoft did not actually prevent users from obtaining and using Navigator"
+and that "Netscape could still carpet bomb the population with CD-ROMs and make
+Navigator available for downloading." (Findings (P) 357.) The court further
+found that "Navigator's installed base has grown even as its usage share has
+fallen" (id. (P) 378), demonstrating that Netscape was able not only to get
+Navigator into the hands of consumers, but also to get them to use it instead of
+Internet Explorer, even though Internet Explorer is included in Windows. In
+fact, the court noted that "Navigator's installed base in the United States
+alone grew from fifteen million in 1996 to thirty-three million in December
+1998" (id.), the very period in which plaintiffs claimed that Microsoft had
+foreclosed Netscape from promoting and distributing Navigator. And the court
+later found (Conclusions at 38) that Netscape was able to distribute 160 million
+copies of Navigator (nearly 1.6 copies for every Web user) in 1998 alone--the
+same year in which plaintiffs suggested that a preliminary injunction was
+necessary to prevent Microsoft from foreclosing Netscape's distribution.
+
+E. Conclusions of Law
+
+The parties subsequently submitted their proposed conclusions of law. Over
+Microsoft's objection, the district court invited Professor Lawrence Lessig, the
+same professor whom this Court prevented from acting as special master in the
+prior consent decree action, to participate as amicus curiae. In overruling
+Microsoft's objection, the court stated that Professor Lessig would "submit his
+views exclusively on the issue of technological tying," a subject on which the
+court said he was "uniquely qualified to offer advice." (Mem. & Order at 2.) In
+his amicus brief, Professor Lessig stated that the district court's "opinion in
+the summary judgment stage of this case seemed to indicate" that the standard
+articulated by this Court in its June 1998 decision governs the "separate
+product" issue, which lies at the heart of the tying claim. (Brief of Lawrence
+Lessig at 11.) After discussing this Court's decision, Professor Lessig
+concluded that "under the Court of Appeals test, Microsoft must prevail." (Id.
+at 17.)
+
+In its conclusions of law entered on April 3, 2000, the court nevertheless
+decided that Microsoft violated Section 1 of the Sherman Act by unlawfully tying
+Internet Explorer to Windows. The court, however, rejected plaintiffs' exclusive
+dealing claim, holding that the challenged agreements with various third parties
+"did not foreclose enough of the relevant market to constitute a (S) 1
+violation." (Conclusions at 39.) The court also determined that Microsoft had
+<PAGE>
+
+violated Section 2 by maintaining a monopoly in operating systems and by
+attempting to monopolize Web browsing software, despite the fact that
+distribution foreclosure is a central premise of both violations in this case.
+
+1. Tying
+
+Having been told by Professor Lessig that Microsoft must prevail under this
+Court's test for technological tying, the district court simply refused to apply
+that test. (Id. at 26-27.) The court did so even though it recognized that this
+Court's decision "sought to guide [the court], insofar as practicable, in the
+further proceedings it fully expected to ensue on the tying issue." (Id. at 26.)
+The court held that this Court's "undemanding test" is "inconsistent with
+pertinent Supreme Court precedents" (id. at 27), namely, Jefferson Parish
+Hospital District No. 2 v. Hyde, 466 U.S. 2 (1984), and Eastman Kodak Co. v.
+Image Technical Services, Inc., 504 U.S. 451 (1992), even though this Court
+carefully considered both cases in its June 1998 decision.
+
+Specifically, the court concluded that this Court's admonition "to refrain from
+any product design assessment as to whether the `integration' of Windows and
+Internet Explorer is a `net plus'. . . is at odds with the Supreme Court's own
+approach," which focuses on whether there is separate consumer demand for the
+alleged products. (Conclusions at 29.) "To the extent that the Supreme Court has
+spoken authoritatively on these issues," the district court stated, it "is bound
+to follow its guidance and is not at liberty to extrapolate a new rule governing
+the tying of software products." (Id. at 34.) The district court thus declined
+to follow this Court's test in favor of the "consumer-demand" test of Jefferson
+Parish and Eastman Kodak, despite the fact that this Court had expressly
+rejected the assertion that this "consumer-demand" test should apply to claims
+of "technological tying." 147 F.3d at 946-47. In so doing, the court recognized
+that its conclusion "is arguably at variance" with this Court's decision, but
+asserted that it was obliged to follow this Court's pronouncements only "until
+the trail falters." (Conclusions at 26-27.)
+
+2. Exclusive Dealing
+
+The district court dismissed plaintiffs' exclusive-dealing claims under Section
+1 because the challenged agreements did not exclude Netscape from the
+marketplace:
+
+Microsoft's multiple agreements with distributors did not ultimately deprive
+Netscape of the ability to have access to every PC user worldwide to offer an
+opportunity to install Navigator. Navigator can be downloaded from the Internet.
+It is available through myriad retail channels. It can (and has been) mailed
+directly to an unlimited number of households.
+
+(Id. at 38 (emphasis added).) In fact, the court determined that in 1998 alone,
+"Netscape was able to distribute 160 million copies of Navigator, contributing
+to an increase in its installed base from 15 million in 1996 to 33 million in
+December 1998." (Id.) The court concluded that "the evidence does not support a
+finding that these agreements completely excluded Netscape from any constituent
+portion of the worldwide browser market, the relevant line of commerce." (Id.)
+
+3. Monopoly Maintenance
+<PAGE>
+
+Despite finding that Netscape had access "to every PC user worldwide," the court
+held that Microsoft had unlawfully maintained a monopoly in operating systems
+primarily based on its erroneous conclusion that Microsoft had excluded Netscape
+from the OEM and Internet access provider ("IAP") distribution channels. (Id. at
+10-17.) The court stated: "The fact that Microsoft's arrangements with various
+firms did not foreclose enough of the relevant market to constitute a (S) 1
+violation in no way detracts from the Court's assignment of liability for the
+same arrangements under (S) 2." (Id. at 39.)
+
+The court concluded that Microsoft's design of Windows 95 and Windows 98 to
+include built-in Web browsing functionality and Microsoft's refusal to permit
+OEMs to "reconfigure or modify" its copyrighted operating systems to hide access
+to that functionality reduced the likelihood that OEMs would preinstall
+Navigator on their new computers. (Id. at 11.) The court also found that
+"Microsoft adopted similarly aggressive measures to ensure that the IAP channel
+would generate browser usage share for Internet Explorer rather than Navigator."
+(Id. at 15.) The court held that Microsoft's agreements with Apple, ICPs and
+independent software vendors ("ISVs") "supplemented Microsoft's efforts in the
+OEM and IAP channels" (id. at 17), and that Microsoft also unfairly "impeded
+Java's progress" (id. at 19).
+
+In holding that Microsoft had unlawfully maintained a monopoly, the district
+court branded as anticompetitive Microsoft's efforts "to maximize Internet
+Explorer's share of browser usage at Navigator's expense" at a time when
+Navigator enjoyed a substantial majority of usage share. (Id. at 10.) Indeed,
+the notion that Microsoft's desire to increase Internet Explorer's usage share
+somehow rendered its conduct anticompetitive was a recurring theme throughout
+the court's ruling. The court also concluded that conduct that was not itself
+anticompetitive could become unlawful when viewed together with other conduct.
+(Id. at 20-21.) "Viewing Microsoft's conduct as a whole," the court stated,
+"reinforces the conviction that it was predacious" by demonstrating that
+Microsoft induced third parties "to take actions that would help enhance
+Internet Explorer's share of browser usage at Navigator's expense." (Id. at 21.)
+By condemning vigorous competition by a new entrant into a purported market, the
+court evinced a profound misunderstanding of the antitrust laws.
+
+4. Attempted Monopolization
+
+The court's holding that Microsoft attempted to monopolize Web browsing software
+cannot be reconciled with its own findings of fact. For example, the court found
+that Microsoft's intent was to "demonstrate that Navigator would not become the
+standard" Web browsing software at a time when "Navigator seemed well on its way
+to becoming the standard." (Findings (P)(P) 133, 377.) Indeed, the court found
+that Navigator usage share was "above eighty percent in January 1996." (Id. (P)
+360.) Yet, in its conclusions of law, the court determined that Microsoft's
+efforts to prevent Netscape from monopolizing Web browsing software established
+that Microsoft itself had an unlawful intent to monopolize because "there is no
+evidence that Microsoft tried" to prevent its
+<PAGE>
+
+efforts "from achieving overkill." (Conclusions at 23.) In so ruling, the court
+invoked the negligence standard in resolving the issue of specific intent:
+
+While Microsoft's top executives never expressly declared acquisition of
+monopoly power in the browser market to be the objective, they knew, or should
+have known, that the tactics they actually employed were likely to push Internet
+Explorer's shares to those extreme heights.(Id. at 22 (emphasis added).)
+
+F. The Final Judgment
+
+The district court's April 3, 2000 order accompanying its conclusions of law
+stated that it would enter relief "following proceedings to be established by
+further Order of the Court." The court thereafter held two chambers conferences
+to discuss the procedures to be employed during the remedies phase of the trial.
+At those conferences, Microsoft stated that it could not take a position on the
+procedures to be followed until it received plaintiffs' request for relief.
+(Apr. 4, 2000 Tr. at 14-16, 18; Apr. 5, 2000 Tr. at 7-8.) The court responded
+that Microsoft's position was "fair" and "reasonable." (Apr. 4, 2000 Tr. at 15,
+18; Apr. 5, 2000 Tr. at 8.) When asked by Microsoft whether it "contemplate[d]
+further proceedings of some kind or another" on remedies, the court replied, "I
+would assume that there would be further proceedings." (Apr. 4, 2000 Tr. at 8-
+9.) The court stated that it might "replicate the procedure at trial with
+testimony in written form subject to cross-examination." (Id. at 11.)
+
+Microsoft proposed that it file a "summary response" shortly after receiving
+plaintiffs' proposed relief, which "would consist of three things: our
+objections to the government's proposal, our counterproposal and our submission
+to the court of our position on the procedure that should be employed in
+adjudicating the remedy question." (Apr. 5, 2000 Tr. at 6.) The court thereafter
+issued Scheduling Order No. 8, which called for Microsoft to submit only a
+"summary response" to plaintiffs' proposed relief consisting of the three items
+Microsoft had suggested.
+
+On April 28, 2000, plaintiffs filed their proposed final judgment, together with
+a supporting memorandum and six declarations. Although such radical relief was
+not even hinted at in their complaints, plaintiffs (with the exception of two
+States, Illinois and Ohio) requested that Microsoft be broken up into two
+separate companies, one that would have Microsoft's operating systems and the
+other that would have Microsoft's applications and other products (including
+numerous operating system components).
+
+The other provisions of plaintiffs' proposed final judgment were just as extreme
+and unwarranted as their breakup proposal. For example, plaintiffs requested
+that Microsoft be required to disclose proprietary information about its
+operating systems--including source code--to all who claim a desire to make
+their products "interoperate effectively" with Microsoft's operating systems, a
+group that includes all of Microsoft's competitors. Plaintiffs further requested
+that Microsoft be required to redesign all of its existing and future operating
+systems to enable OEMs and end users to substitute third-party software for
+components of the operating
+<PAGE>
+
+system, thus forcing Microsoft to offer new operating system features on an a la
+carte basis and severely hindering Microsoft's ability to improve its products.
+Moreover, like the breakup proposal, the scope of the injunctive relief
+requested by plaintiffs extended far beyond the case that was tried,
+encompassing products like Windows CE, Windows 2000 Server and Microsoft Office
+that are wholly outside the markets defined by the court.
+
+In accordance with Scheduling Order No. 8, Microsoft filed its own proposed
+final judgment, its summary objections to plaintiffs' proposed final judgment
+and its recommendations for future proceedings on remedies. Microsoft also filed
+a motion for summary rejection of plaintiffs' breakup proposal, arguing that
+dismemberment of Microsoft is unwarranted as a matter of law. In its submission
+on future proceedings, Microsoft asserted that the nature and scope of the
+procedures required depended on the kinds of remedies the court was prepared to
+consider; the more extreme the remedies under consideration, the more discovery
+and the more time Microsoft would need to prepare for an evidentiary hearing on
+relief. Microsoft thus requested that if the court elected not to enter
+Microsoft's proposed final judgment, the court should enter a schedule providing
+for three to six months in which to conduct discovery and prepare for an
+evidentiary hearing, depending on which of three requested categories of relief
+the court intended to consider. Such additional proceedings were absolutely
+essential in this case because much of the relief requested by plaintiffs
+related to highly complex subjects such as Microsoft's addition of Kerberos
+support in Windows 2000 that were not even touched on at trial. Indeed, by
+filing six declarations with their proposed final judgment, plaintiffs
+implicitly acknowledged that the trial record was insufficient to support the
+sweeping relief they requested.
+
+Following plaintiffs' submission of a reply in which they urged the district
+court to enter their proposed final judgment "forthwith," the court held a
+hearing on May 24, 2000. At the outset of that hearing, Microsoft stated its
+view that only two matters were before the court: Microsoft's motion for summary
+rejection of plaintiffs' breakup proposal and the court's consideration of a
+schedule for further proceedings to take evidence relating to plaintiffs'
+requested relief. (May 24, 2000 A.M. Tr. at 4.) Notwithstanding the prior
+discussions in chambers and the terms of Scheduling Order No. 8, the court again
+changed the rules to Microsoft's prejudice, responding, "I intend to proceed to
+the merits of the remedy." (Id. at 5.) The court also made clear that it was not
+interested in further submissions on remedies. When plaintiffs volunteered to
+submit a brief on a particular issue, the court responded, "I don't want any
+more briefs." (Id. at 34.)
+
+At the conclusion of the hearing, Microsoft again asked if there would be
+further process on the issue of remedies, to which the court responded, "I'm not
+contemplating any further process." (May 24, 2000 P.M. Tr. at 33.) Microsoft
+then filed an offer of proof summarizing the anticipated testimony of sixteen
+individuals whom it would have called as witnesses at an evidentiary hearing on
+relief. Microsoft also stressed that if given an opportunity, it would have
+developed testimony
+<PAGE>
+
+from additional witnesses about the extreme adverse effects of plaintiffs'
+proposed final judgment. (Id. at 35-36.)
+
+On May 26, 2000, plaintiffs submitted a revised proposed final judgment that
+made minor modifications to their initial proposal. Plaintiffs again urged the
+court to enter their proposed relief without any further proceedings. On May 31,
+2000, Microsoft submitted objections to the form of plaintiffs' proposed decree,
+together with a supplemental offer of proof identifying seven additional
+witnesses whom Microsoft would have called at an evidentiary hearing. Plaintiffs
+responded to Microsoft's objections on June 5, 2000, agreeing to make only a few
+cosmetic changes to their proposed decree and rejecting all of the
+clarifications to the decree that they themselves had proffered in prior
+filings. Microsoft submitted a reply on June 6, 2000.
+
+On June 7, 2000, the district court signed plaintiffs' proposed final judgment
+as ultimately proffered without a single substantive change. The court thus
+entered radical and unwarranted permanent injunctive relief in these actions
+without granting Microsoft leave to conduct discovery and without making
+findings of fact or creating an evidentiary record on the issue of remedies. In
+ordering the breakup of Microsoft--which, until the court entered its findings
+of fact, had the largest market capitalization in the world--the court did not
+even grant Microsoft leave to depose the six individuals who submitted
+declarations in support of plaintiffs' proposed remedies.
+
+Together with its final judgment, the district court issued a remarkable six-
+page memorandum that purports to explain the basis for its entry of the sweeping
+relief requested by plaintiffs. The memorandum is bereft of even a single
+citation to case law or evidence. According to the court, "a structural remedy
+has become imperative" because "Microsoft does not yet concede that any of its
+business practices violated the Sherman Act." (Mem. & Order at 3.) Despite the
+court's criticism of Microsoft for being "unwilling to accept the notion that it
+broke the law" (id.), it should go without saying that Microsoft's exercise of
+its appellate rights provides no conceivable basis for imposing punitive
+sanctions.
+
+Rather than finding that the judgment would increase competition, the court
+remarked that even "purportedly knowledgeable people" do not know what "may or
+may not ensue," and the court dismissed the notion of having an evidentiary
+hearing to explore that question because "testimonial predictions of future
+events" are "less reliable even than testimony as to historical fact." (Id. at
+4.) In an astounding abdication of the judicial function, the court offered the
+following reason for its entry of the final judgment served up by plaintiffs:
+
+Plaintiffs won the case, and for that reason alone have some entitlement to a
+remedy of their choice. Moreover, plaintiffs' proposed final judgment is the
+collective work product of senior antitrust law enforcement officials of the
+United States Department of Justice and the Attorneys General of 19 states, in
+conjunction with multiple consultants. These officials are by reason of office
+obliged and expected to consider--and act in--the public interest; Microsoft is
+not. (Id. at 5 (footnote omitted).)
+<PAGE>
+
+The court was even more blunt in the many press interviews it gave about the
+case, both before and after entry of final judgment. For instance, the Wall
+Street Journal quoted the court as giving the following explanation for its
+refusal to provide Microsoft with any process before entering relief: "[I]t's
+procedurally unusual to do what Microsoft is proposing--are you aware of very
+many cases in which the defendant can argue with the jury about what an
+appropriate sanction should be? Were the Japanese allowed to propose the terms
+of their surrender? The government won the case." John R. Wilke, For Antitrust
+Judge, Trust, or Lack of It, Really Was the Issue, Wall St. J., June 8, 2000, at
+A1. And the Washington Post quoted the following explanation for why the court
+adopted plaintiffs' proposed relief without modification: "I am not an
+economist. I do not have the resources of economic research or any significant
+ability to be able to craft a remedy of my own devising." James V. Grimaldi,
+Reluctant Ruling for Judge, Wash. Post, June 8, 2000, at A1.
+
+Perhaps most shocking, however, are the remarks attributed to the court in an
+article in The New York Times. When asked about the possibility of a breakup of
+Microsoft during a February 2000 interview--which was described as "a rare
+audience with a sitting judge during the course of a trial"--the court is quoted
+as saying, "I am not sure I am competent to do that." Joel Brinkley & Steve
+Lohr, Retracing the Missteps in the Microsoft Defense, N.Y. Times, June 9, 2000,
+at A1. The court apparently echoed that sentiment in a later interview. When
+asked why it had simply rubberstamped plaintiffs' draconian remedies, the court
+is quoted as responding, "I am not in a position to duplicate that and re-
+engineer their work. There's no way I can equip myself to do a better job than
+they have done." Id. at C9. Lastly, in a repudiation of the most fundamental
+tenet of American jurisprudence, the court is quoted as offering the following
+explanation for its rejection of Microsoft's pleas for an evidentiary hearing on
+relief, "I am not aware of any case authority that says I have to give them any
+due process at all. The case is over. They lost." Id. at C8.
+
+                                   ARGUMENT
+
+In determining whether a stay pending appeal is warranted, courts consider four
+factors: (i) the likelihood that the moving party will prevail on the merits,
+(ii) the prospect of irreparable injury to the moving party absent a stay, (iii)
+the possibility of harm to other parties if a stay is granted, and (iv) the
+public interest in granting the stay. See Hilton v. Braunskill, 481 U.S. 770,
+776 (1987); see also D.C. Cir. R. 8(a)(1). If the arguments for one factor are
+particularly strong, a stay may issue even if the arguments for other factors
+are less so. See CityFed Fin. Corp. v. Office of Thrift Supervision, 58 F.3d
+738, 747 (D.C. Cir. 1995). Hence, "[a] stay may be granted with either a high
+probability of success and some injury, or vice versa." Cuomo v. United States
+Nuclear Regulatory Comm'n, 772 F.2d 972, 974 (D.C. Cir. 1985) (per curiam).
+Here, all four factors strongly support issuance of a stay pending appeal.
+
+I. Microsoft Will Prevail on the Merits.
+<PAGE>
+
+As the preceding discussion makes clear, the proceedings below went badly awry
+from the outset. The district court's many serious substantive and procedural
+errors are fatal to its conclusion that Microsoft violated the antitrust laws
+and to the relief entered. Before listing some of the district court's more
+egregious errors, two general observations illustrate how misguided the decision
+below is.
+
+First, the court's ruling condemns Microsoft's efforts to add support for
+Internet standards like HTML and HTTP to Windows in order to make the operating
+system relevant in the Internet era. The court found that "consumers in 1995
+were already demanding software that enabled them to use the Web with ease,"
+that "IBM had announced in September 1994 its plan to include browsing
+capability in OS/2 Warp [the principal challenger to Windows at the time] at no
+extra charge," and that "Microsoft had reason to believe that other operating-
+system vendors would do the same." (Findings (P) 140.) In such circumstances,
+adding Internet support to Windows cannot violate the antitrust laws, no matter
+what Microsoft's "intent" was in doing so. Indeed, Microsoft's addition of such
+functionality to Windows was but a single instance of a pervasive practice in
+high-technology industries--the improvement of a product through the integration
+of new functionality previously provided by separate products. See 147 F.3d at
+951.
+
+To hold that efforts to improve a product in response to consumer demand and
+competitive pressures and to distribute those improvements broadly to consumers
+violate the antitrust laws is to turn those laws on their head. The record here
+demonstrates that Microsoft's inclusion of Internet support in Windows made it
+easier for thousands of software developers to write Internet-enabled
+applications that rely on platform services provided by the Internet Explorer
+components of the operating system and for millions of consumers to access the
+Internet. Even the district court recognized that Microsoft's "inclusion of
+Internet Explorer with Windows at no separate charge increased general
+familiarity with the Internet and reduced the cost to the public of gaining
+access to it." (Findings (P) 408.)
+
+At the same time, Microsoft did nothing to exclude Netscape from the
+marketplace. There is no claim that Navigator is incompatible with either
+Windows 95 or Windows 98; to the contrary, Netscape's Barksdale testified that
+Navigator is "perfectly interoperable" with Windows. (Oct. 22, 1998 P.M. Tr. at
+51-52.) The court also found that Netscape had "access to every PC user
+worldwide," distributing 160 million copies of Navigator in 1998 alone and
+increasing its user base from 15 million to 33 million between 1996 and 1998.
+(Conclusions at 38.) Absent a showing of actual exclusion--precluded by these
+undisputed facts--no antitrust issue is even presented.
+
+Second, accepting, arguendo, plaintiffs' theory of the case, there is no
+antitrust violation. Plaintiffs' theory was that Microsoft attempted to impede
+the distribution of Navigator because it threatened to reduce (through a long,
+speculative and unproven chain of causation) the hypothesized "applications
+barrier to entry" into the market for "Intel-compatible PC operating systems."
+There is no dispute, however, that Microsoft entered the alleged market for Web
+<PAGE>
+
+browsing software at a time when Netscape was dominant. It is also undisputed
+that Microsoft's efforts to develop, promote and distribute Internet Explorer
+resulted in lower prices, greater innovation and increased distribution of Web
+browsing software. In fact, the district court found that Microsoft's actions
+"contributed to improving the quality of Web browsing software, lowering its
+cost, and increasing its availability, thereby benefiting consumers." (Findings
+(P) 408.) Unambiguously procompetitive conduct in one supposed market does not
+become an antitrust violation simply because that conduct allegedly had
+collateral effects in another supposed market. As Areeda and Hovenkamp have
+observed:
+
+[A]ggressive but non-predatory pricing, higher output, improved product quality,
+energetic market penetration, successful research and development, cost-reducing
+innovations, and the like are welcomed by the Sherman Act. They are therefore
+not to be considered "exclusionary" for (S) 2 purposes even though they tend to
+exclude rivals and may even create monopoly.
+
+III Phillip E. Areeda & Hebert Hovenkamp, Antitrust Law (P) 651b, at 76 (1996).
+
+In holding that Microsoft violated the antitrust laws by improving Windows and
+distributing broadly the operating system's Internet Explorer technologies, the
+district court committed many serious legal errors, several of which are
+summarized below:
+
+     .    The district court erroneously held that Microsoft's inclusion of
+          Internet support in Windows 95 and Windows 98 constituted an unlawful
+          tie. In upholding plaintiffs' "technological tying" claim, the trial
+          court became the first court ever to sustain such a challenge to a
+          single, integrated product. As this Court observed, "courts have
+          recognized the limits of their institutional competence and have on
+          that ground rejected theories of `technological tying.'" 147 F.3d at
+          949. Similarly, in entering relief that intrudes broadly on
+          Microsoft's product design decisions based on the purported tying
+          violation, the district court disregarded this Court's warning about
+          the "undesirability of having courts oversee product design." Id. at
+          948. The district court was able to reach this unprecedented result
+          only by refusing to apply the test articulated by this Court in the
+          consent decree case and by other courts in cases involving
+          "technological tying" claims. As the court's handpicked amicus curiae
+          stated, under this Court's test, "Microsoft must prevail." (Brief of
+          Lawrence Lessig at 17.) By instead applying a consumer-demand test,
+          the court adopted a standard that would essentially freeze product
+          development. As this Court explained, focusing on consumer demand
+          "seems sure to thwart Microsoft's legitimate desire to continue to
+          integrate products that had been separate--and hence necessarily would
+          have been provided in distinct markets." 147 F.3d at 953.
+
+     .    The district court erroneously held that agreements with distributors
+          that did not violate Section 1 of the Sherman Act because they did not
+          foreclose Netscape's access to consumers could nevertheless violate
+          Section 2. The court concluded that "[t]he fact that Microsoft's
+          arrangements with various firms did not foreclose enough of the
+          relevant market to constitute a (S) 1 violation in no way detracts
+          from the Court's assignment of liability for the same arrangements
+          under (S) 2." (Conclusions at 39.) That conclusion is contrary to
+          settled law. E.g., Barry Wright Corp. v. ITT Grinnell Corp., 724 F.2d
+          227, 236-38 (1st Cir. 1983) (Breyer, J.). An act is anticompetitive
+          under Section 2 only if it has a significant exclusionary impact. U.S.
+          Healthcare, Inc. v. Healthsources, Inc., 986 F.2d 589, 597-98 (1st
+          Cir. 1993). Agreements that do not substantially foreclose competitors
+          from the marketplace do not have such an exclusionary impact.
+
+     .    The district court erroneously held that the provisions in Microsoft's
+          license agreements with OEMs that do not permit OEMs to modify
+          Microsoft's copyrighted operating systems without Microsoft's
+          permission violate Section 2 of the Sherman Act by foreclosing
+          distribution of Navigator. In refusing to grant OEMs a broad license
+          to modify Windows by removing or hiding features of the operating
+          system, Microsoft has simply exercised rights granted to it by federal
+<PAGE>
+
+          copyright law. As the holder of valid copyrights, Microsoft is
+          entitled to require its distributors--including OEMs--to deliver
+          Windows to users as Microsoft created it. See WGN Continental Broad.
+          Co. v. United Video, Inc., 693 F.2d 622, 625 (7th Cir. 1982) (Posner,
+          J.); Gilliam v. ABC, 538 F.2d 14, 21, 23 (2d Cir. 1976). Because the
+          challenged provisions of Microsoft's OEM license agreements simply
+          restate, and do not enlarge upon, Microsoft's rights under federal
+          copyright and trademark law, they do not violate the antitrust laws.
+          See Intergraph Corp. v. Intel Corp., 195 F.3d 1346, 1362 (Fed. Cir.
+          1999); In re Indep. Serv. Orgs. Antitrust Litig., 989 F. Supp. 1131,
+          1134 (D. Kan. 1997), aff'd, 203 F.3d 1322 (Fed. Cir. 2000). In any
+          event, the court found that "Microsoft's license agreements have never
+          prohibited OEMs from pre-installing programs, including Navigator, on
+          their PCs and placing icons and entries for those programs on the
+          Windows desktop and in the `Start' menu." (Findings (P) 217.)
+
+     .    The district court erroneously held that Microsoft possesses monopoly
+          power in a relevant product market. The market defined by the court is
+          too narrow because it excludes the most serious threats faced by
+          Microsoft's operating systems, including the competing platform
+          technologies that were the objects of the allegedly anticompetitive
+          conduct in this case. In addition, the court did not find that
+          Microsoft has the power unilaterally to raise prices in or exclude
+          competition from the operating system business, the touchstone of
+          monopoly power. See, e.g., Indiana Grocery, Inc. v. Super Valu Stores,
+          Inc., 864 F.2d 1409, 1414 (7th Cir. 1989); Ball Mem'l Hosp., Inc. v.
+          Mutual Hosp. Ins., Inc., 784 F.2d 1325, 1335 (7th Cir. 1986). In fact,
+          the court found that the evidence was insufficient to establish that
+          Microsoft ever charged a "monopoly price" for Windows. (See Findings
+          (P) 65.)
+
+     .    The district court erroneously held that Microsoft maintained a
+          monopoly through anticompetitive conduct. The general theme running
+          through the court's ruling is that Microsoft "set out to maximize
+          Internet Explorer's share of browser usage at Netscape's expense."
+          (Conclusions at 10.) That says nothing about whether Microsoft engaged
+          in anticompetitive conduct because "[t]he intent to preserve or expand
+          one's market share is presumptively lawful." MCI v. AT&T, 708 F.2d
+          1081, 1113 (7th Cir.), cert. denied, 464 U.S. 891 (1983). The district
+          court's condemnation of Microsoft's conduct was all the more misguided
+          given that Microsoft was a new entrant into a line of business
+          dominated by Netscape. Under these circumstances, efforts to maximize
+          Microsoft's share at the expense of Netscape were procompetitive.
+          Indeed, the court found that "[t]he debut of Internet Explorer and its
+          rapid improvement gave Netscape an incentive to improve Navigator's
+          quality at a competitive rate." (Findings (P) 408.)
+
+     .    The district court erroneously held that Microsoft unlawfully
+          maintained a monopoly even though plaintiffs failed to establish the
+          requisite causal connection between the alleged anticompetitive
+          conduct and Microsoft's maintenance of a purported monopoly in
+          operating systems. "To find that a monopolist's acts may improperly
+          impair rivals' opportunities does not say how substantial a
+          contribution that act has made or may make to achieving or maintaining
+          the monopoly." III Areeda & Hovenkamp, supra (P) 651c, at 77. An
+          antitrust plaintiff "has the burden of pleading, introducing evidence,
+          and presumably proving by a preponderance of the evidence that
+          [anticompetitive] behavior has contributed significantly to the
+          achievement or maintenance of the monopoly." Id. (P) 650c, at 69. The
+          district court found that "[t]here is insufficient evidence to find
+          that, absent Microsoft's actions, Navigator and Java already would
+          have ignited genuine competition in the market for Intel-compatible PC
+          operating systems." (Findings (P) 411.) That finding is fatal to
+          plaintiffs' monopoly maintenance claim.
+
+     .    The district court erroneously held that acts that are not
+          anticompetitive under controlling legal principles can somehow become
+          illegal when viewed in combination with other acts that are not
+          anticompetitive. Relying on Continental Ore Co. v. Union Carbide &
+          Carbon Corp., 370 U.S. 690 (1962), the court ruled that conduct that
+          does not "independently satisfy the second element of a (S) 2 monopoly
+          maintenance claim" can become anticompetitive when viewed together
+          with other conduct. (Conclusions at 20.) In Intergraph, the Federal
+          Circuit recently rejected just such a reading of Continental Ore. 195
+          F.3d at 1366-67. Contrary to the district court's ruling, "once a
+          claim is found to be without merit, such a claim cannot be used as a
+          basis for finding other claims to constitute a violation of the
+          antitrust laws." Southern Pac. Communications Co. v. AT&T, 556 F.
+          Supp. 825, 888 n.69 (D.D.C. 1983), aff'd, 740 F.2d 980 (D.C. Cir.
+          1984), cert. denied, 470 U.S. 1005 (1985). Courts have "reject[ed] the
+          notion that if there is a fraction of validity to each of the basic
+          claims and the sum of the fractions is one or more, the plaintiffs
+          have proved a violation of
+<PAGE>
+
+          section 1 or section 2 of the Sherman Act." City of Groton v.
+          Connecticut Light & Power Co., 662 F.2d 921, 928-29 (2d Cir. 1981).
+
+     .    The district court erroneously held that Microsoft possessed a
+          specific intent to monopolize Web browsing software. In upholding
+          plaintiffs' attempted monopolization claim, the court stated that
+          Microsoft attempted to "expand[] Internet Explorer's share of browser
+          usage--and simultaneously depress[] Navigator's share--to an extent
+          sufficient to demonstrate to developers that Navigator would never
+          emerge as the standard software employed to browse the Web."
+          (Conclusions at 22-23.) That conclusion is patently insufficient to
+          establish a specific intent to monopolize. "[S]pecific intent in this
+          context refers to a purpose to acquire monopoly power by driving one's
+          rival from the market by exclusionary or predatory means." Association
+          for Intercollegiate Athletics for Women v. NCAA, 735 F.2d 577, 585
+          (D.C. Cir. 1984). At most, Microsoft intended to compete vigorously
+          with Netscape to prevent Navigator from achieving a dominant position
+          in the eyes of developers. The antitrust laws encourage, rather than
+          proscribe, such an intent. Ball Mem'l Hosp., 784 F.2d at 1338-39.
+
+     .    The district court erroneously held that Microsoft's discussions with
+          Netscape in June 1995--when Microsoft allegedly presented a "market
+          allocation proposal"--established a dangerous probability of
+          monopolization, relying on United States v. American Airlines, Inc.,
+          743 F.2d 1114 (5th Cir. 1984), cert. denied, 474 U.S. 1001 (1985).
+          (Conclusions at 24.). Even plaintiffs' witness Barksdale suggested
+          that whatever proposal Microsoft made in June 1995 was vague and in
+          futuro (Oct. 27, 1998 P.M. Tr. at 69-71), and there is no dispute that
+          Netscape rejected Microsoft's alleged proposal (see, e.g., Findings
+          (P)(P) 86-87). Moreover, the June 1995 discussions related to
+          collaboration in the development of new products--a necessary and
+          usually procompetitive activity--not price fixing. Indeed, Microsoft
+          was not even a participant in the purported "Internet browser market"
+          until it released Windows 95 in August 1995. The facts surrounding
+          Microsoft's June 1995 discussions with Netscape are thus a far cry
+          from those at issue in American Airlines, which the court described as
+          "uniquely unequivocal" and "uniquely consequential." 743 F.2d at 1119.
+
+     .    The district court erroneously imposed extreme and punitive relief
+          unrelated to the violations found in this case. It is well-settled
+          that "[c]ourts are not authorized in civil proceedings to punish
+          antitrust violators" and that relief "must not be punitive." United
+          States v. E.I. du Pont de Nemours & Co., 366 U.S. 316, 326 (1961).
+          Structural remedies are "not to be used indiscriminately, without
+          regard to the type of violation or whether other effective methods,
+          less harsh, are available." Timken Roller Bearing Co. v. United
+          States, 341 U.S. 593, 603-04 (1951) (Reed, J., concurring). The
+          draconian relief imposed by the court--which includes, but is not
+          limited to, the only breakup of a unitary company ever ordered under
+          Section 2 outside the context of negotiated consent decrees--bears no
+          relation whatsoever to the antitrust violations found. What is more,
+          the relief ordered is punitive in concept and effect, extending to
+          products and markets far removed from those in issue at trial, and
+          thus is unwarranted as a matter of law. See United States v. National
+          Lead Co., 332 U.S. 319, 351-53 (1947).
+
+     .    The district court erroneously entered a sweeping permanent
+          injunction, including a breakup of Microsoft, over Microsoft's
+          strenuous objection, without conducting an evidentiary hearing on
+          relief or affording Microsoft an opportunity to present evidence. The
+          only basis proffered by plaintiffs in support of the relief ultimately
+          entered were six hearsay declarations untested by cross-examination.
+          Such a "record" cannot provide a basis for awarding permanent
+          injunctive relief. See Fed. R. Civ. P. 43(a). Nor did the district
+          court make corresponding findings of fact and conclusions of law
+          regarding the terms of the decree. In sum, there was no competent
+          adjudication of relief, which by itself requires that the judgment be
+          vacated.
+
+In light of the numerous legal errors and procedural irregularities that
+pervaded the proceedings below, it is inconceivable that the judgment will
+withstand appellate review. This is reason alone to stay the judgment pending
+appeal.
+
+II. Microsoft Will Suffer Irreparable Injury Absent a Stay.
+
+Although the district court's judgment provides that the actual dismemberment of
+Microsoft is stayed pending appeal, the judgment's other extreme provisions take
+effect 90 days after entry.
+<PAGE>
+
+Absent a stay, those provisions will inflict massive and irreparable injury on
+Microsoft, possibly resulting in the company's demise as an effective competitor
+in the software industry. Indeed, the court itself recognized in its June 7,
+2000 memorandum that absent appellate intervention, the relief entered will
+quickly become "irreversible as a practical matter." (Mem. & Order at 3.)
+
+The non-breakup provisions of the judgment reflect three primary objectives,
+none of which is warranted by the violations found by the court and none of
+which serves a legitimate purpose under the antitrust laws. First, the judgment
+reflects a profound hostility to Microsoft's efforts to improve Windows by
+adding new features and functionality. The judgment treats Windows not as a
+single product, but rather as a combination of (i) software that fits
+plaintiffs' narrow (and static) definition of an "operating system" and (ii) an
+indeterminate set of separate technologies (dubbed "middleware products") that
+OEMs may elect to turn on or off, or delete altogether, as they choose. By
+prohibiting Microsoft from maintaining the consistency of Windows as a platform
+for software development, the judgment will destroy the principal value of a
+product that Microsoft has spent billions of dollars developing and that has
+played a major role in the personal computer revolution. Second, for the
+proffered purpose of promoting "interoperability," the judgment will effect a
+confiscation of Microsoft's intellectual property in its operating systems by
+requiring disclosure of proprietary information--an extreme remedy that is
+unrelated to any of the claims alleged in the complaints and that applies to
+products that were not even part of this case. Third, the judgment will
+effectively compel Microsoft to treat all OEMs and ISVs, among others, exactly
+the same in all respects, whether or not such third parties have the capability
+or desire to work closely with Microsoft. This will make it virtually impossible
+for Microsoft to continue to collaborate with a broad array of OEMs and ISVs to
+develop and market innovative new technologies.
+
+Some examples of the serious injury that will befall Microsoft if a stay is not
+granted are discussed below.
+
+     .    The judgment will require Microsoft to disclose large amounts of
+          proprietary information about its operating systems and other products
+          to competitors, the ultimate penalty for a company whose business is
+          based entirely on intellectual property. Paragraph 3.b of the judgment
+          will require Microsoft to disclose the internals of important products
+          to all software developers, hardware vendors and OEMs, a group that
+          includes literally everyone in the computer industry. Even worse,
+          paragraph 3.b will require Microsoft to permit anyone in the industry,
+          including all of Microsoft's competitors, "to study, interrogate and
+          interact" with the source code for Microsoft's operating systems,
+          which are replete with valuable trade secrets and constitute
+          Microsoft's "crown jewels." Although the judgment purports to limit
+          the purpose of such source code access to development of products that
+          "interoperate effectively" with Windows, that restriction is
+          hopelessly vague and thus would be impossible to enforce. In short,
+          the judgment will require Microsoft to disclose much of its
+          intellectual property--the lifeblood of the company--without
+          compensation, thereby undermining Microsoft's incentive to innovate.
+          Once that intellectual property is disclosed, the loss will be
+          irretrievable. FMC Corp. v. Taiwan Tainan Giant Indus. Co., 730 F.2d
+          61, 63 (2d Cir. 1984) ("A trade secret once lost is, of course, lost
+          forever.").
+
+     .    The judgment will result in a direct and immediate intrusion into
+          Microsoft's product design decisions. For instance, paragraph 3.g will
+          prohibit Microsoft from adding most new features (not just Web
+          browsing functionality) to its operating systems unless it provides
+          OEMs and end users with a means of removing end user access to those
+          new features. The judgment thus essentially
+<PAGE>
+
+          draws a line around Windows, preventing its evolution as a software
+          development platform. The judgment also ignores this Court's
+          admonition about the "undesirability of having courts oversee product
+          design" 147 F.3d at 948, as well as its statement that "by allowing
+          OEMs to conceal IE, rather than refuse it, the remedy fits poorly with
+          the Department's tying theory," id. at 941 n.3. The effect of this
+          interference with Microsoft's development of new products during the
+          pendency of an appeal will be irremediable even if Microsoft prevails.
+
+     .    The judgment will result in fragmentation of the Windows platform. A
+          primary benefit of Windows is that it provides a consistent platform
+          for software developers and users. The net result of paragraphs
+          3.a.iii(4), 3.f and 3.g will be to undermine the integrity of Windows
+          as a platform so that neither software developers nor end users can
+          rely on crucial functionality being present. For example, paragraph
+          3.f will require Microsoft to permit OEMs to remove software code from
+          Windows if Microsoft also distributes that code separately from the
+          operating system through various enumerated channels, a routine
+          practice in the software industry. If software code that comprises
+          Windows is not present on a machine because the OEM removed it, then
+          applications that rely on that software code will not function
+          properly or at all.
+
+     .    The judgment will require Microsoft to relinquish its rights under
+          federal trademark and copyright laws. Paragraph 3.a.iii(4) will
+          require Microsoft to permit OEMs to substitute third-party software
+          for components of Microsoft's copyrighted Windows operating systems.
+          Not only will Microsoft be compelled to allow OEMs to create
+          derivative works of Windows; the judgment also will permit OEMs to
+          market their modified versions of the operating system using
+          Microsoft's trademarks and logos--denying Microsoft the ability to
+          control what is marketed to customers under the valuable Windows
+          trademark. The damage to Microsoft's copyright and trademark rights
+          will not be curable even if Microsoft prevails on this appeal.
+
+     .    The judgment will prevent Microsoft from releasing new and innovative
+          operating systems in a timely manner, and may require Microsoft to
+          halt distribution of its currently shipping operating systems.
+          Paragraph 3.g will prohibit Microsoft from "distribut[ing]" any
+          operating system that does not comply with various amorphous design
+          specifications six months after the effective date of the judgment.
+          This provision thus will require Microsoft to reengineer all of its
+          currently shipping operating systems (including Windows 98 and Windows
+          2000 Professional), as well as soon-to-be-released operating systems
+          like Windows Millenium. It could take several years for Microsoft to
+          redesign those products to remove all cross-dependencies among
+          components that fall within the judgment's vague and open-ended
+          definition of "middleware," depending on how that term is construed.
+          As a result, Microsoft will be unable to release Windows Millenium
+          later this year as scheduled, and it may have to halt distribution of
+          its currently shipping operating systems six months after the judgment
+          becomes effective. Plaintiffs' only response to this serious concern
+          is to note that "Microsoft will have nine months from entry of the
+          Final Judgment to prepare the modified version[s]" of its operating
+          systems required by paragraph 3.g. (Pls.' Response to MS Comments at
+          18.) More fundamentally, requiring Microsoft to devote the lion's
+          share of its development resources to reengineering its existing
+          products--which Microsoft will need to begin doing immediately absent
+          a stay--will greatly delay Microsoft's release of many other new
+          products.
+
+     .    The judgment will require Microsoft to modify its existing license
+          agreements with the top 20 OEMs, wreaking havoc with Microsoft's
+          relationships with those companies. Paragraph 3.a.ii compels Microsoft
+          to license Windows to those OEMs "pursuant to uniform license
+          agreements with uniform terms and conditions." Because that paragraph
+          also prohibits Microsoft from enforcing any license provision
+          inconsistent with the judgment, Microsoft will be required to
+          renegotiate existing license agreements with those OEMs within 90 days
+          of entry of the judgment--although why any of them would agree to
+          forego the benefits of their existing contracts is unclear.
+
+     .    The judgment will make it virtually impossible for Microsoft to work
+          with and assist software developers and hardware vendors seeking to
+          create products for use with Windows. Paragraph 3.d.i provides that
+          Microsoft shall not take "any action affecting" any software developer
+          or hardware vendor "based directly or indirectly, in whole or in part,
+          on any actual or contemplated action" by such party to "use,
+          distribute, promote, or support any Microsoft product." Such
+          regulation of Microsoft's relationships with software developers and
+          hardware vendors will block
+<PAGE>
+
+          the sort of collaboration that has facilitated the creation of large
+          numbers of products compatible with Windows.
+
+     .    The judgment will prevent Microsoft from entering into routine cross-
+          promotional and joint development agreements, even plainly
+          procompetitive ones. Given the judgment's broad definitions of terms
+          such as "platform software" and "middleware," paragraph 3.e will
+          forbid Microsoft from entering into any agreement that in any way
+          limits a third party's development, distribution, promotion or use of
+          any non-Microsoft software. Similarly, paragraph 3.h will proscribe
+          routine interactions with other software developers. Plaintiffs' only
+          response to these concerns is that they "intend to enforce the
+          provision only against anticompetitive agreements." (Pls.' Response to
+          MS Comments at 19.) The scope of an injunction cannot be based on the
+          purported intentions of the party charged with enforcing it.
+
+     .    The judgment will require Microsoft to submit a "proposed plan of
+          divestiture" not later than four months after its entry. Requiring
+          Microsoft to submit such a plan will cause a huge diversion of effort
+          by Microsoft's executives at a critical time when Microsoft is
+          attempting to change its entire business and programming model to
+          remain competitive in the Internet age. This diversion (and the
+          adverse effect on employee morale when the plan is submitted) will be
+          entirely pointless even in the event that the decreed breakup is
+          affirmed--given the lightening pace of change in the software
+          industry, any "proposed plan of divestiture" created four months after
+          entry of judgment will be out of date when it comes time actually to
+          implement the plan.
+
+     .    The judgment will require Microsoft to freeze its internal
+          organization. Paragraph 1.d.i compels Microsoft to "preserve,
+          maintain, and operate the Operating System Business and the
+          Applications Business as separate . . . as they were on April 27,
+          2000." This requirement will make it difficult for Microsoft to adapt
+          its organization to the ever-changing needs of its business.
+          Reorganizations to realign product units across the imaginary boundary
+          decreed in the judgment have been a routine part of Microsoft's
+          business and are essential to ensure that needed resources are brought
+          to bear on the competitive challenges faced by the company. Freezing
+          Microsoft's internal organization will result in stagnation, with
+          fewer products being brought to market.
+
+In sum, compliance with the terms of the judgment, which touch upon virtually
+every aspect of Microsoft's business, will be impossible despite Microsoft's
+best efforts. The provisions of paragraph 3, read in conjunction with the
+definitions of the numerous defined terms (many of which are contrary to normal
+industry usage), are hopelessly vague and ambiguous. Moreover, the distraction
+that inevitably will flow from efforts to comply with the judgment will damage
+Microsoft's most important asset--its ability to recruit, retain and motivate
+creative people. As an intellectual property firm, Microsoft's entire business
+depends on that asset. The judgment also will prevent Microsoft from working
+closely with other companies in the industry to deliver innovative computing
+solutions unless Microsoft is willing to work with all companies--including its
+competitors--on identical terms. Simply stated, Microsoft cannot operate its
+business under the terms of the judgment.
+
+III. No Other Parties Will Be Harmed by a Stay.
+
+No other parties interested in the proceeding will be harmed if the Court grants
+a stay, much less suffer injury that would outweigh the serious and irreparable
+injury Microsoft will suffer absent a stay. Plaintiffs cannot claim that they
+themselves will be harmed in any respect by a stay. Nor can they contend that
+other interested parties--i.e., the Microsoft competitors that convinced them to
+bring this lawsuit and seek draconian structural relief--will be injured in any
+legal sense if relief in these actions is stayed pending appeal.
+<PAGE>
+
+Nothing in the district court's findings of fact and conclusions of law suggests
+that any other party will suffer immediate, tangible harm if the relief in these
+actions is stayed pending appeal. The vague "consumer harm" identified in the
+court's findings consists primarily of speculation about unspecified innovations
+that might have come to market and competition that might have existed but for
+Microsoft's alleged conduct. (Findings (P)(P) 411-12.) Yet, the court determined
+that there was insufficient evidence to conclude that, absent Microsoft actions,
+greater operating system competition would exist today. (See, e.g., id. (P)
+411.) Similarly, the antitrust violations found by the court focus primarily on
+Microsoft's alleged efforts to restrict Netscape's access to the OEM and IAP
+channels of distribution over a very limited period of time. (Conclusions at 10-
+18.) But the court also found that Netscape was--and is--able to distribute
+Navigator broadly through other channels of distribution to "every PC user
+worldwide" (id. at 38), and many of the agreements challenged by plaintiffs have
+since expired and are not being renewed by Microsoft (Findings (P)(P) 269, 331).
+There is thus no basis in the district court's ruling to suggest that another
+party will go out of business or suffer some other irreparable injury unless the
+relief entered in these actions takes effect immediately.
+
+In contrast to the vague and speculative harm to consumers and competitors
+discussed in the court's findings, if the judgment is not stayed, Microsoft, its
+employees, its shareholders, its business partners and customers and the
+consuming public will suffer certain, definite and immediate harm. That harm
+clearly outweighs any speculative injury that others with an interest in the
+proceedings might suffer if a stay is granted.
+
+IV. The Public Interest Weighs Strongly in Favor of a Stay.
+
+The public interest requires a stay of the judgment pending appeal. The
+devastating effects of the judgment will not be felt by Microsoft and its
+employees and shareholders alone. Tens of thousands of computer manufacturers,
+software developers, system integrators and resellers that have built their
+entire businesses on Windows, as well as the millions of consumers who use
+Microsoft's products, will also suffer grievous injury absent a stay. Indeed,
+the entire United States economy may suffer if Microsoft is irreparably injured
+while it prosecutes this appeal. Some, but by no means all, of the ways in which
+the public will suffer absent a stay of the judgment pending appeal are
+described below.
+
+     .    The public will suffer serious and far-reaching harm if the Windows
+          platform begins to fragment. Millions of computer users and thousands
+          of software developers depend on the consistency and stability of the
+          Windows platform. Paragraphs 3.a.iii, 3.f and 3.g.i of the judgment
+          threaten to destroy the consistency and stability of Windows by giving
+          OEMs broad latitude to modify the operating system and yet market
+          their modified versions using the Windows logo and trademark. If the
+          Windows platform begins to fragment due to these modifications,
+          applications designed to run on Windows will no longer work on some or
+          all versions of the operating system, imposing significant costs on
+          both software developers and consumers.
+
+     .    The public will suffer irreparable harm if Microsoft cannot develop
+          and release new products in a timely manner. Requiring Microsoft to
+          devote vast resources to redesigning its existing operating systems
+          and otherwise attempting to comply with the provisions of the judgment
+          will greatly retard Microsoft's ability to develop innovative products
+          like the "Pocket PC," the "Tablet PC,"
+<PAGE>
+
+          the "E-book" reader and the "X-Box" game console. That distraction
+          also will impair Microsoft's ability to pursue its major initiative
+          for the next competitive era--Next Generation Windows Services. To be
+          sure, Microsoft's competitors will benefit if Microsoft's ability to
+          innovate is impeded and its intellectual property is disclosed, but
+          consumers and the economy will not. In addition, Microsoft is
+          scheduled to release its latest consumer operating system, Windows
+          Millenium, later this year. OEMs, software developers and retailers
+          are already counting on this release to help stimulate demand for
+          their products in the critical Christmas season. If Microsoft is
+          required to redesign Windows Millenium in accordance with the
+          judgment, the release of that product will be delayed for many months.
+
+     .    The public will suffer severe adverse consequences if Microsoft is
+          required to halt distribution of Windows six months after the judgment
+          becomes effective. Despite plaintiffs' unfounded assurances to the
+          contrary, Microsoft cannot redesign all of its existing operating
+          systems such as Windows 95, Windows 98 and Windows 2000 Professional
+          in accordance with the requirements of paragraph 3.g.i in the six-
+          month period provided. If Microsoft were forced to halt distribution
+          of those operating systems, the worldwide personal computer industry
+          would be paralyzed, causing severe economic dislocation.
+
+     .    Innovation by software developers, hardware vendors and OEMs will be
+          reduced if the judgment takes effect. Paragraphs 3.a and 3.d seek to
+          regulate Microsoft's relationships with companies creating products
+          that are compatible with Windows. By preventing Microsoft from
+          providing information to any software developer, hardware vendor or
+          OEM unless Microsoft provides the same information to everyone else in
+          the industry, including companies creating products for competing
+          operating systems, the judgment will limit the amount and kind of
+          information that Microsoft can provide to companies with the resources
+          and motivation to work closely with Microsoft on joint development
+          projects. The judgment thus will block the sort of cooperative efforts
+          that provide major benefits to consumers by producing a wide range of
+          new technologies.
+
+There can be no doubt that the public interest weighs heavily in favor of a
+stay. Even plaintiffs admit that the judgment will have profound and uncertain
+effects on the high-technology sector of the United States economy. There is no
+reason to subject the Nation's economic well being to such risks before this
+Court has had an opportunity to review the fatally flawed decision below.
+
+                                  CONCLUSION
+
+The judgment is the culmination of a proceeding permeated by serious substantive
+and procedural errors, and it imposes harsh and unsustainable burdens on
+Microsoft, the software industry and the public. The Court should stay the
+judgment in its entirety pending this appeal.
+Respectfully submitted,
+
+______________________________
+William H. Neukom John L. Warden
+Thomas W. Burt Richard J. Urowsky
+David A. Heiner, Jr. Steven L. Holley
+Diane D'Arcangelo Michael Lacovara
+Christopher J. Meyers Richard C. Pepperman, II
+MICROSOFT CORPORATION Christine C. Monterosso
+One Microsoft Way Bradley P. Smith
+Redmond, Washington 98052 SULLIVAN & CROMWELL
+(425) 936-8080 125 Broad Street
+<PAGE>
+
+New York, New York 10004
+(212) 558-4000
+Counsel for Appellant
+June 13, 2000 Microsoft Corporation
+
+                                 VERIFICATION
+
+I, William H. Neukom, Senior Vice President, Law and Corporate Affairs of
+Microsoft Corporation, state that I have read the foregoing Motion of Appellant
+Microsoft Corporation for a Stay of the Judgment Pending Appeal, that I know the
+contents thereof, and that the statements contained in the motion are true of my
+own knowledge.
+
+I declare under penalty of perjury under 28 U.S.C. (S) 1746 that the foregoing
+is true and correct.
+Executed at Redmond, Washington this 13th day of June, 2000.
+
+
+__________________________
+William H. Neukom
+
+                            CERTIFICATE OF SERVICE
+
+I hereby certify that on this 13th day of June, 2000, I caused a true and
+correct copy of the foregoing Motion of Appellant Microsoft Corporation for a
+Stay of the Judgment Pending Appeal to be served by facsimile (without the
+accompanying three volumes of exhibits) and by hand (with the accompanying three
+volumes of exhibits) upon:
+
+Phillip R. Malone, Esq.
+Antitrust Division
+U.S. Department of Justice
+325 Seventh Street, N.W.
+Room 615
+Washington, D.C. 20530
+Fax: (202) 307-1454
+
+
+______________________
+Bradley P. Smith
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.5
+<SEQUENCE>6
+<FILENAME>0006.txt
+<DESCRIPTION>ORDER DATED JUNE 13, 2000 ALLOW APPEAL EN BANC
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.5
+
+                        United States Court of Appeals
+                     For The District of Columbia Circuit
+
+                                 _____________
+
+No. 00-5212                                                 September Term, 1999
+                                                                       98cv01232
+
+
+United States of America,
+                 Appellee
+
+
+               v.
+
+
+
+Microsoft Corporation
+                 Appellant
+
+
+
+       BEFORE:       Edwards, Chief Judge; Silberman*, Williams, Ginsburg,
+                     Sentelle, Henderson*, Randolph, Rogers, Tatel and
+                     Garland*, Circuit Judges
+
+
+                                   O R D E R
+                                   ---------
+
+     In view of the exceptional importance of these cases and the fact that the
+number of judges of this court disqualified from participation as a practical
+possibility precludes any en banc rehearing of a panel decision, it is
+
+     ORDERED, sua sponte, by the en banc court that these cases and all motions
+and petitions filed in these cases be heard by the court sitting en banc.
+Parties shall hereafter file an original and nineteen copies of all pleadings
+and briefs submitted.
+
+                                  Per Curiam
+                                  ----------
+
+                                                FOR THE COURT:
+
+                                                /s/ Mark J. Langer
+
+                                                Mark J. Langer, Clerk
+
+     *Circuit Judges Silberman, Henderson, and Garland took no part in the
+consideration and issuance of this order, and they will take no part in any
+future consideration of matters before the court involving these cases.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.6
+<SEQUENCE>7
+<FILENAME>0007.txt
+<DESCRIPTION>PRESS RELEASE DATED JUNE 13, 2000.
+<TEXT>
+
+<PAGE>
+
+                                                                    EXHIBIT 99.6
+
+Microsoft Files Notice of Appeal and
+Motion for Stay
+
+Appeal Will Point Out "Serious Substantive and Procedural Errors"; Company Asks
+Court of Appeals to Stay Remedies While Appeal Is Pending
+
+REDMOND, Wash. -- June 13, 2000 -- Microsoft Corp. today filed its notice of
+appeal and asked the U.S. Court of Appeals to stay all provisions of the U. S.
+District Court's June 7, 2000, final judgment pending resolution of the appeal
+process.
+
+"Microsoft is looking forward to the next phase of this case, and we are
+optimistic that the appellate courts will reverse the recent ruling," said Steve
+Ballmer, Microsoft president and CEO. "Obviously, we will comply with any final
+order in this case, but we believe this judgment is both wrong and unfair. We
+believe the appellate courts will recognize that Microsoft's product innovation
+is the heart and soul of competition in the high-tech industry."
+
+The company filed a 39-page brief seeking a stay of the June 7 ruling. The
+company will file a more detailed brief on the merits of its appeal in the
+future, based on a schedule established by the court.
+
+In Wednesday's filing, the company argues that reversal of the district court
+judgment is necessary "based on an array of serious substantive and procedural
+errors that infected virtually every aspect of the proceedings below. These
+flaws culminated in the entry of unprecedented relief that extends far beyond
+the case that was presented, without affording Microsoft an evidentiary
+hearing." (Filing at p. 2.)
+
+"We've created a world-class technology team here at Microsoft. For 25 years,
+our team has worked to deliver widespread benefits to the economy and to
+consumers. This ruling says to Microsoft and other creators of intellectual
+property --the government can take what you have created and give it to others
+if you are too successful or too popular," Ballmer said.
+
+Microsoft also noted that many of the district court's factual findings are
+clearly erroneous and that the court ignored unchallenged evidence presented by
+Microsoft on many key issues. While the company will provide more extensive
+examples when it files its detailed appeal papers, the stay brief cites several
+examples in which the district court erred, because it:
+
+     .    Failed to address evidence submitted by Microsoft showing why the
+          company did not charge consumers a separate fee for the Internet
+          Explorer improvements to Windows, a practice that clearly benefited
+          software developers and consumers.
+
+     .    Failed to address detailed and unrefuted evidence submitted by
+          Microsoft of the many benefits from the design of Windows with
+          integrated Internet support that cannot be duplicated by combining an
+          operating system with a standalone browser like Netscape Navigator.
+
+     .    Failed to address the fact that Navigator was distributed on 22
+          percent of shipments of new personal computers and thus was not
+          foreclosed from the OEM channel of distribution even though this fact
+          was included in a third-party document that the court relied upon for
+          other reasons.
+<PAGE>
+
+"The factual errors are the tip of the iceberg," said Bill Neukom, Microsoft's
+executive vice president for law and corporate affairs. "The district court's
+judgment should also be stayed and its Findings of Fact and Conclusions of Law
+should be reversed because it misapplied longstanding legal precedent and
+presided over a pretrial process and a trial that did not afford Microsoft a
+fair opportunity to defend itself." As part of its analysis of the district
+court's legal conclusions, Microsoft notes the following:
+
+     .    The district court declined to apply the legal test for technological
+          tying that was previously articulated by the court of appeals and
+          reflects prior court precedents. Instead, the district court
+          formulated its own test that it said was based on U.S. Supreme Court
+          precedents, despite the fact that the court of appeals considered and
+          rejected the applicability of those specific precedents in its June
+          1998 decision in favor of Microsoft on the very same issue.
+
+     .    The district court misapplied a fundamental tenet of the antitrust
+          laws --confusing anticompetitive conduct with pro-competitive conduct.
+          In particular, the court improperly overlooked the pro-competitive,
+          pro-consumer impact of Microsoft's efforts to compete broadly with
+          Netscape by improving Windows to make it relevant in the Internet age
+          and distributing Internet Explorer broadly, particularly in view of
+          the fact that Netscape Navigator held more than 80 percent of the
+          browser usage share in 1996 (according to the court). Microsoft's
+          actions directly benefited consumers by lowering the price, increasing
+          the availability and accelerating the development of browsing
+          technology, as the court found.
+
+In its filing today, Microsoft asks the court of appeals to stay the judgment so
+that its extreme regulations will not be imposed while the court hears the
+appeal. On June 7, the district court entered the government's proposed final
+judgment without a single substantive change and without giving Microsoft the
+opportunity to call witnesses to testify about the adverse impacts of the
+government's proposal. According to Microsoft's filing, "The provisions that
+become effective on September 5, 2000 absent a stay from the Appellate Courts
+would force Microsoft to:
+
+     .    disclose its valuable intellectual property -- including source code
+          -- to competitors,
+
+     .    interfere with Microsoft's release of new products,
+
+     .    require the company to redesign all of its operating systems within 6
+          months of the effective date of the judgment date,
+
+     .    impose price controls on the company,
+
+     .    and make it difficult for Microsoft to deliver on its vision for the
+          next-generation of Web-based software services.
+
+"The effect of these provisions will be devastating, not only to Microsoft, but
+also to its employees, shareholders, business partners and customers, and could
+have a significant adverse impact on the nation's economy, " the Microsoft
+filing notes. "A stay pending appeal is necessary to prevent these far-reaching
+and irreversible consequences of a profoundly flawed ruling." (Filing at p. 3.)
+The Department of Justice has indicated that it intends to ask Judge Jackson to
+certify the case for direct appeal to the U.S. Supreme Court. The U.S. Supreme
+Court has complete discretion on whether it will accept jurisdiction of the
+case.
+<PAGE>
+
+"We want to resolve this case as quickly as possible. We believe we have a
+winning legal case, regardless of where the case goes. Given the enormous
+procedural and factual irregularities throughout this trial record, we believe
+the court of appeals is the appropriate next step," Neukom said. "In the past 26
+years, only two cases have bypassed the appeals court and gone directly to the
+U.S. Supreme Court, and both of those cases involved very narrow issues of law
+and the parties were united in seeking immediate U.S. Supreme Court review."
+                                   #########
+Microsoft is a registered trademark of Microsoft Corp. in the United States
+and/or other countries.
+For more information, press only:
+Jim Cullinan, Microsoft, (425) 703-5913, jcull@microsoft.com
+Rapid Response Team, Waggener Edstrom, (503) 443-7000, rrt@wagged.com
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

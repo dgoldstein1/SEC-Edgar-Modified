@@ -1,0 +1,3348 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NYcIvPD6/nD5J0Fa/Hzg+GtYxGx9NV2O9UDfjZi9kW8zzMtA31FZtjSDWSTplDOK
+ gl9CtNHoCbIzmifWmXC3ow==
+
+<SEC-DOCUMENT>0000050863-96-000002.txt : 19960401
+<SEC-HEADER>0000050863-96-000002.hdr.sgml : 19960401
+ACCESSION NUMBER:		0000050863-96-000002
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	19951230
+FILED AS OF DATE:		19960329
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-06217
+		FILM NUMBER:		96540616
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<TEXT>
+
+                              UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                         Washington, D.C. 20549
+
+                                FORM 10-K
+(Mark One)
+[X]  Annual Report Pursuant to Section 13 or 15(d) of the Securities Exchange
+     Act of 1934 (Fee Required)  
+            For the fiscal year ended December 30, 1995, OR
+
+[ ]  Transition Report Pursuant to Section 13 or 15(d) of the Securities 
+     Exchange Act of 1934 (No Fee Required)
+     For the transition period from ___________to___________
+
+Commission File Number 0-6217
+
+                             INTEL CORPORATION
+          (Exact name of registrant as specified in its charter)
+            Delaware                                           94-1672743
+ (State or other jurisdiction of                            (I.R.S. Employer
+  incorporation or organization)                           Identification No.)
+
+   2200 Mission College Boulevard, Santa Clara, California, 95052-8119
+            (Address of principal executive offices, Zip Code)
+
+    Registrant's telephone number, including area code (408) 765-8080
+
+        Securities registered pursuant to Section 12(b) of the Act:
+
+Title of each class                                   Name of each exchange on
+                                                          which registered
+                                   NONE
+
+       Securities registered pursuant to Section 12(g) of the Act:
+
+                      Common Stock, $.001 par value
+             1998 Step-Up Warrants to Purchase Common Stock
+
+Indicate by check mark whether the registrant (1) has filed all reports 
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act 
+of 1934 during the preceding 12 months (or for such shorter period that the 
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES__X__  NO_____
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 
+of Regulation S-K is not contained herein, and will not be contained, to the 
+best of registrant's knowledge, in definitive proxy or information statements 
+incorporated by reference in Part III of this Form 10-K or any amendment to 
+this Form 10-K. [  ]
+
+                Aggregate market value of voting stock held
+         by non-affiliates of the registrant as of February 24, 1996
+
+                              $46.67 billion
+
+   821.2 million shares of Common Stock outstanding as of February 24, 1996
+
+                   DOCUMENTS INCORPORATED BY REFERENCE
+
+(1)     Portions of Annual Report to Stockholders for fiscal year ended 
+        December 30, 1995 - Part II, and Part IV.
+(2)     Portions of Proxy Statement dated April 4, 1996 - Part III.
+
+
+
+
+PAGE 2
+PART I
+ITEM 1. BUSINESS
+
+INDUSTRY
+
+Intel Corporation and its subsidiaries (collectively called "Intel," the 
+"Company" or the "Registrant") operates predominantly in one industry segment. 
+The Company designs, develops, manufactures and markets microcomputer 
+components and related products at various levels of integration. 
+
+Intel components consist of silicon-based semiconductors etched with complex 
+patterns of transistors. Each one of these integrated circuits can perform the 
+functions of thousands--even millions--of individual transistors, diodes, 
+capacitors and resistors. 
+
+PRODUCTS
+
+The Company's major products include microprocessors and related board-level 
+products, chipsets, embedded processors and microcontrollers, flash memory 
+chips, network and communications products and conferencing products.
+
+Microprocessors and Related Board-Level Products.
+- -------------------------------------------------
+A microprocessor is the central processing unit of a computer system. It 
+processes system data and controls other devices in the system, acting as the 
+brains of a computer. Intel's flagship microprocessors include the Pentium(R)
+Pro and the Pentium(R) microprocessor families.
+
+Intel-designed board-level products are used as basic building blocks for 
+consumer, technical and commercial computing applications. Many original 
+equipment manufacturers (OEMs) use Intel's board-level products to build their 
+own PCs, microcomputers, real-time control systems and other products. OEM 
+customers buy at this level of integration to accelerate their time-to-market 
+and to direct their investments to other areas of their product lines. The 
+Company provides board-level products to give OEM customers flexibility by 
+enabling them to choose whether to buy at the component or board-level.
+
+Intel's developments in the area of semiconductor design and manufacturing 
+have made it possible to decrease the feature size of circuits etched into 
+silicon. This permits a greater number of transistors to be used on each 
+microprocessor, and a greater number of microprocessors to be placed on each 
+silicon wafer. The result is microprocessors that are smaller, faster, consume 
+less power and cost less to manufacture. In 1995, the Company ramped its first 
+production on its most advanced 0.35 micron process technology. Intel plans to 
+add additional 0.35 micron capacity in 1996, enabling very high-volume 
+production of its newest, fastest Pentium Pro and Pentium microprocessors.
+
+During 1995, the rapid transition of the PC market to the Pentium 
+microprocessor continued. Quarterly unit shipments of the Pentium 
+microprocessor family surpassed the Intel486(TM) microprocessor family in the 
+third quarter of 1995. The Pentium microprocessors now power entry-level to 
+high-end computers. Intel significantly enhanced the performance of the 
+Pentium microprocessor family in 1995, introducing new versions operating at 
+120 and 133 MHz, and in January of 1996, 150 and 166 MHz. Intel plans to 
+introduce to the market higher performance versions of the Pentium 
+microprocessor, including versions with enhancements to improve performance of 
+multimedia and communications applications. Intel also introduced, in 1995, 
+new 90- and 120-MHz versions, and in early 1996, a 133-MHz version of the 
+Pentium microprocessor for mobile computers that have lower power consumption 
+and a smaller package than the desktop/server version.
+
+
+
+
+PAGE 3
+MICROPROCESSORS AND RELATED BOARD-LEVEL PRODUCTS, CONTINUED.
+- ------------------------------------------------------------
+In late 1995, Intel introduced its sixth-generation processor, the Pentium 
+Pro microprocessor at speeds of 150, 166, 180 and 200MHz. The Pentium Pro 
+microprocessor is fully compatible with prior generations and delivers 
+performance comparable to that of high-end workstations. The Pentium Pro 
+microprocessor uses Intel's Dynamic Execution architecture to increase the 
+amount of work that can be done in parallel. In 1996, Pentium Pro 
+microprocessors are expected to be used for enterprise server applications and 
+business desktops utilizing full 32-bit software environments such as Windows 
+NT*. The Pentium Pro microprocessor also offers enhanced multiprocessing and 
+manageability features for high-performance desktops and servers. The Pentium 
+Pro microprocessor uses a high-speed bus between the CPU and second-level 
+cache memory to provide optimum performance.
+
+Sales of the Pentium microprocessor family comprised a majority of the 
+Company's revenues and a substantial majority of its gross margin in 1995.  A 
+significant and growing portion of the Company's revenues and gross margins 
+were derived from sales of the Pentium microprocessor family in 1994. During 
+1995, the Intel486 microprocessor family represented a significant but rapidly
+declining portion of the Company's revenues and gross margins.  The Intel486 
+microprocessor family comprised a majority of the Company's revenues and a 
+substantial majority of its gross margin during 1994 and 1993. The Intel486 
+microprocessor products are now offered primarily for embedded applications.
+
+During 1995, Overdrive(R) processors, a family of upgrade microprocessors, 
+expanded to include products based on the Pentium microprocessor that will 
+allow users to upgrade their Intel486 microprocessor systems. In early 1996, 
+Intel announced Overdrive processors that upgrade systems to equivalents of 
+120-, 125- and 133-MHz versions of the Pentium microprocessor.
+
+CHIPSETS.  The Company's core-logic chipsets support incremental performance,
+ease-of-use and new capabilities for systems based on Intel's Pentium and 
+Pentium Pro microprocessors. Based on these incremental capabilities, and the
+growth of the Pentium microprocessor-based systems, Intel has become a 
+significant supplier of core-logic chipsets. The Intel 430FX chipset 
+introduced in early 1995, won numerous awards and has become one of the most 
+popular chipsets in the industry. Intel plans to introduce several new members
+of this product family in 1996.
+
+Based on the Peripheral Components Interconnect (PCI) bus, the Intel 430 
+PCIset family for the Pentium microprocessors and the Intel 440 PCIset family 
+for the Pentium Pro microprocessors support and extend the graphic, video and 
+other capabilities of many Intel processor-based systems.
+
+EMBEDDED PROCESSORS AND MICROCONTROLLERS.
+- -----------------------------------------  
+Intel provides embedded products such as microprocessors, microcontrollers and 
+memory components to application segments that are focused on enhancing the PC 
+and voice and data communication. Embedded products are used in many 
+peripheral devices, including keyboards, printers, networks, copiers and fax 
+machines, which enhance the PC's capabilities and make it easier to use. In 
+addition, embedded products are improving the functionality of wireless 
+communication devices such as cellular phones and pagers, and enabling the 
+development of new peripherals such as digital cameras and personal digital 
+assistants. Intel's embedded products provide advanced technology to other 
+market segments as well, including commercial and military avionics, medical 
+instrumentation, automotive and factory automation control products.
+
+Intel's embedded products line consists of 32-bit processors, including the 
+i960(R) processor family and the embedded Intel386(TM) and Intel486 processor 
+families; the 80C186 16-bit processor family; MCS(R) 96 16-bit
+microcontrollers, and 8-bit microcontrollers, such as the MCS 51 and MCS 251 
+microcontroller families.
+
+The Company introduced several embedded control products in 1995, including 
+the 80960RP processor, used in server motherboards and adapter cards connected 
+to servers; the 83C196EA and 87C196CB 16-bit microcontrollers for automotive 
+and industrial applications, and the 8xC51RA/RB/RC 8-bit microcontrollers. 
+During 1995, Intel also started shipping in volume its new MCS 251 
+microcontroller, the 8xC251SB. Intel has begun to implement the Universal 
+Serial Bus (USB) specification in microcontroller products.
+
+________________________
+
+
+*  Other brands and names are the property of their respective owners.
+
+
+
+
+PAGE 4
+FLASH MEMORY PRODUCTS.  Memory components are used to store user data and 
+computer program code. Flash memory retains information when the power is off. 
+Intel is a leader in flash applications, such as PC BIOS, cellular phones and 
+networking. The Company was a key player in defining and promoting the 
+Miniature Card specification for low-cost, very small form-factor flash cards 
+to be used in a variety of consumer electronics applications.  In 1995, Intel 
+expanded its SmartVoltage memory product line with additional densities and a 
+low-voltage device targeted for the mobile market.
+
+NETWORK AND COMMUNICATIONS PRODUCTS. These hardware and software products are 
+sold to corporate network administrators and PC users through distributor and 
+reseller channels. The product line improves the performance, capabilities and 
+manageability of PC desktop and server systems in corporate networks.
+
+Intel's networking products are designed to provide high-bandwidth 
+communications to PC desktop and server systems, and to make it easier for LAN 
+administrators to install and manage their systems. The architecture that 
+delivers this management capability is called Smart Network Services.
+
+Intel's networking products consist of LAN products, such as the 
+EtherExpress(TM) family of adapters and Express Stackable Hubs, and network 
+management products, including the LANDesk(R) Management Group of products.
+
+Supporting the Smart Network Services strategy are new or upgraded LAN 
+products: EtherExpress PRO adapters that use flash memory for one-step 
+installation and configuration; EtherExpress PRO/100, a fast Ethernet adapter 
+that can operate at 10 or 100 megabytes per second; Express Stackable Hubs; 
+StorageExpress(TM) backup servers; NetportExpress(TM) print servers; LANDesk 
+Management Suite software, which combines management of desktop systems and 
+servers on LANs; LANDesk Workgroup Manager; LANDesk Server Manager Pro; and 
+LANDesk Virus Protect.
+
+CONFERENCING PRODUCTS.  In 1994, Intel introduced its ProShare conferencing 
+products. This product line includes Intel's ProShare(TM) Conferencing Video 
+System 200, a PC-based video-conferencing system that offers full application 
+and document sharing and is certified in over 25 countries.  It gives users 
+powerful information-sharing capabilities and an innovative way to convey 
+ideas. ProShare conferencing products deliver instant communications.
+
+The ProShare Conferencing Video System 200 supports video and data conferences 
+over ISDN or corporate LAN/WAN networks. The product supports industry 
+standards, such as the H.320 international telecommunications standard, to 
+conduct video conferences with other H.320-compliant products, including room 
+conferencing systems. 
+
+In 1995, the ProShare Conferencing Video System 200 became one of the 
+industry's leading desktop conferencing products. This system won many industry
+awards, including "Editors' Choice" from PC Magazine UK, CADENCE magazine and 
+PC Laptop Computers magazine.            --------------  -------
+- -------------------
+
+Also in 1995, Intel introduced the ProShare TeamStation, a group video 
+conferencing system for meeting rooms, with all the features of the ProShare 
+Conferencing Video System 200.
+
+
+
+
+PAGE 5
+MANUFACTURING
+
+A majority of the Company's wafer production and some assembly and final 
+testing of VLSI (very large-scale integration) components are conducted at 
+domestic Intel facilities in Chandler, Arizona; Aloha, Oregon; Santa Clara and 
+Folsom, California; and Rio Rancho, New Mexico.  A significant portion of 
+Intel's production of microprocessor board-level products and systems takes 
+place at facilities in Hillsboro, Oregon and Las Piedras, Puerto Rico.
+
+Outside the United States, a significant portion of Intel's VLSI wafer 
+production, including microprocessor fabrication, is conducted at plants in 
+Jerusalem, Israel and Leixlip, Ireland.  A significant portion of Pentium 
+processor production is conducted at the Ireland site. A majority of the 
+Company's VLSI component assembly and testing is performed at facilities in 
+Penang, Malaysia and Manila, Philippines. A significant portion of Intel's 
+production of microprocessor board-level products and systems is conducted at 
+facilities in Leixlip, Ireland and Penang, Malaysia.
+
+In general, if Intel were unable to fabricate wafers or assemble or test its 
+products abroad, or if air transportation between its foreign facilities and 
+the United States were disrupted, there could be a materially adverse effect 
+upon the Company's operations.  In addition to normal manufacturing risks, 
+foreign operations are subject to certain additional exposures, including 
+political instability, currency controls and fluctuations, and tariff and 
+import restrictions.  To date, Intel has not experienced significant 
+difficulties related to these foreign business risks.   
+
+To augment capacity, Intel uses subcontractors to perform assembly of certain 
+products and wafer fabrication for certain VLSI components, primarily flash 
+memory and chipsets, and for production capacity of board-level products. A 
+significant portion of Intel's production of board-level products is conducted 
+through the use of subcontractors in Penang, Malaysia. The Company cannot give 
+assurances that it will be able to fully satisfy demand for certain of these 
+products.
+
+The manufacture of integrated circuits is a complex process.  Normal 
+manufacturing risks include errors in the fabrication process, defects in raw 
+materials, as well as other factors, all of which can affect yields.
+
+
+EMPLOYEES
+
+At December 30, 1995, the Company employed approximately 41,600 people 
+worldwide.
+
+
+SALES
+
+Most of Intel's products are sold or licensed through sales offices located 
+near major concentrations of users throughout the United States, Europe, 
+Japan, Asia-Pacific and other parts of the world.  
+
+The Company also uses distributors (industrial and retail) and representatives 
+to distribute its products both in the United States and overseas.  Typically, 
+distributors handle a wide variety of products, including those competitive 
+with Intel products, and fill orders for many customers.  Most of Intel's 
+sales to distributors are made under agreements allowing for price protection 
+and/or the right of return on unsold merchandise.  Sales representatives 
+generally do not offer directly competitive products, but may carry 
+complementary items manufactured by others.  Representatives do not maintain a 
+product inventory; instead, their customers place large-quantity orders 
+directly with Intel and are referred to distributors for smaller orders.  
+Intel sold products to over one thousand customers worldwide in 1995, none of 
+which represented more than 10% of total revenues.
+
+
+
+
+PAGE 6
+BACKLOG
+
+Intel's sales are made primarily pursuant to standard purchase orders for 
+delivery of standard products.  Intel has some agreements that give a customer 
+the right to purchase a specific number of products during a time period.  
+Although not generally obligating the customer to purchase any particular 
+number of such products, some of these agreements do contain billback clauses.
+As a matter of industry practice, billback clauses are difficult to enforce.  
+The quantity actually purchased by the customer, as well as the shipment 
+schedules, are frequently revised during the agreement term to reflect changes 
+in the customer's needs.  In light of industry practice and experience, Intel 
+does not believe that such agreements are meaningful for determining backlog 
+figures.  Intel believes that only a small proportion of its order backlog is 
+noncancellable and that the dollar amount associated with the noncancellable 
+portion is immaterial.  Therefore, Intel does not believe that backlog as of 
+any particular date is necessarily indicative of future results.
+
+COMPETITION
+
+The Company competes in different product lines to various degrees on the 
+basis of price, performance, availability and quality.  Many companies compete 
+with Intel and are engaged in the same basic fields of activity, including 
+research and development.  Both foreign and domestic, these competitors range 
+in size from large multinationals to smaller companies competing in 
+specialized market segments. Intel is engaged in a rapidly advancing field of 
+technology in which its ability to compete depends upon the continuing 
+improvement of its products and processes, continuing cost reductions and the 
+development of new products to meet changing customer requirements.
+
+Prices decline rapidly in the semiconductor industry as unit volume grows, as 
+competition develops, and as production experience is accumulated. In 
+microprocessor board-level and system products, Intel competes with board 
+manufacturers and microprocessor-based computer manufacturers.  Some of these 
+competitors are also Intel customers.
+
+A number of competitors have developed products that are software compatible 
+with some of the Company's key products. Many of Intel's competitors are 
+licensed to use Intel patents. Furthermore, based on the current case law, 
+Intel's competitors can design microprocessors that are compatible with Intel 
+microprocessors and avoid Intel patent rights through the use of foundry 
+services that have licenses with Intel. Competitors' products may add features 
+and increase performance. The Company also faces significant competition from 
+companies that offer rival microprocessor architectures. The Company cannot 
+predict whether such rival architectures will gain market acceptance or 
+provide increased competition to the Company's products. Future distortion of 
+price maturity curves could occur as software compatible products enter the 
+market in significant volume or alternative architectures gain market 
+acceptance.
+
+It continues to be Intel's strategy to introduce ever-higher performance 
+microprocessors and work with the software industry to develop compelling 
+applications that can take advantage of this higher performance, thus driving 
+demand toward the Company's newer products. Intel also is committed to the 
+protection of its intellectual property rights against illegal use. There can 
+be no assurance, however, that competitors will not introduce new products 
+(either software compatible or of rival architectural designs) or reduce 
+prices on existing products. Such developments could have an adverse effect on 
+Intel's revenues and margins.
+
+
+
+
+PAGE 7
+RESEARCH AND DEVELOPMENT
+
+The Company's competitive position has developed to a large extent because of 
+its emphasis on research and development.  This emphasis has enabled Intel to 
+deliver products before they have become available from competitors, and thus 
+has permitted Intel's customers to commit to the use of these new products in 
+the development of their own products.  Intel's research and development 
+activities are directed toward developing new products, hardware technologies 
+and processes, and improving existing products and lowering their cost. Intel 
+is jointly developing semiconductor processes, software optimization and 
+microprocessor architecture. New 64-bit processors based on the jointly 
+developed architecture are expected to be initially targeted at server, 
+workstation and enterprise computing products, probably in the late 1990s. The 
+Company also develops "enabling" software technologies, such as open software 
+specifications and software tools, to enhance the functionality and acceptance 
+of the personal computer platform.  Intel's expenditures for research and 
+development were $1,296 million, $1,111 million and $970 million in fiscal 
+years 1995, 1994 and 1993, respectively.  As of December 30, 1995, Intel had 
+approximately 7,700 employees engaged in research and development.  The 
+results of Intel's research and development activities depend upon competitive 
+circumstances and Intel's ability to transfer new products to production in a 
+timely and cost-effective manner.
+
+Most design and development of VLSI components and other products is performed 
+at Intel's facilities in Santa Clara and Folsom, California; Aloha and 
+Hillsboro, Oregon; Chandler, Arizona; and Haifa, Israel.
+
+
+INTELLECTUAL PROPERTY AND LICENSING
+
+Intellectual property rights that apply to various Intel products include 
+patents, copyrights, trade secrets, trademarks and maskwork rights.  Because 
+of the rapidly changing technology and a broad distribution of patents in the 
+semiconductor industry, Intel's present intention is not to rely primarily on 
+intellectual property rights to protect or establish its market position.  
+However, Intel has established an active program to protect its investment in 
+technology by enforcing all of its intellectual property rights. Intel does 
+not intend to broadly license its intellectual property rights unless it can 
+obtain adequate consideration. Reference is also made to the heading 
+"Competition."
+
+Intel has filed and obtained a number of patents in the United States and 
+abroad. Intel has entered into patent cross-license agreements with many of 
+its major competitors.
+
+Intel protects many of its computer programs by copyrighting them.  Intel has 
+registered numerous copyrights with the United States Copyright Office.  The 
+ability to protect or to copyright software in some foreign jurisdictions is 
+not clear.  However, Intel has a policy of requiring customers to sign a 
+software license contract before providing a customer with certain computer 
+programs.  Certain VLSI components have computer programs embedded in them, 
+and Intel has obtained copyright protection for some of these programs as 
+well. Beginning in 1985, Intel has obtained protection for the maskworks for a 
+number of its components under the Chip Protection Act of 1984.
+
+Intel has obtained certain trademarks and trade names for its products to 
+distinguish genuine Intel products from those of its competitors and is 
+currently engaged in a cooperative program with OEMs to identify personal 
+computers that incorporate genuine Intel microprocessors with the Intel 
+Inside( logo.  Intel maintains certain details about its processes, products 
+and strategies as trade secrets.
+
+As is the case with many companies in the semiconductor industry, Intel has, 
+from time to time, been notified of claims that it may be infringing certain 
+patent rights of others.  These claims have been referred to counsel, and they 
+are in various stages of evaluation and negotiation.  If it appears necessary 
+or desirable, Intel may seek licenses for these intellectual property rights.  
+Intel can give no assurance that licenses will be offered by all claimants, 
+that the terms of any offered licenses will be acceptable to Intel or that in 
+all cases the dispute will be resolved without litigation.
+
+
+
+
+PAGE 8
+COMPLIANCE WITH ENVIRONMENTAL REGULATIONS
+
+To Intel's present knowledge, compliance with federal, state and local 
+provisions enacted or adopted for protection of the environment has had no 
+material effect upon its operations.  However, reference is made to Item 3. 
+Legal Proceedings, of this Form 10-K.
+
+
+EXECUTIVE OFFICERS
+
+The following sets forth certain information with regard to executive officers 
+of Intel (ages are as of December 30, 1995):
+
+Craig R. Barrett (age 56) has been Chief Operating Officer since 1993; a 
+director of Intel since 1992; and Executive Vice President since 1990.
+
+Andrew S. Grove (age 59) has been a director of Intel since 1974; President 
+since 1979; and Chief Executive Officer since 1987.
+
+Gordon E. Moore (age 67) has been a director of Intel since 1968 and Chairman 
+of the Board since 1979. 
+
+Leslie L. Vadasz (age 59) has been a director of Intel since 1988; and Senior 
+Vice President, Director of Corporate Business Development since 1991.
+
+Frank C. Gill (age 52) has been Senior Vice President and General Manager, 
+Internet and Communications Group since 1996. Prior to that, Mr. Gill was 
+Senior Vice President and General Manager, Intel Products Group from 1991 to 
+1996; and Senior Vice President and President of the Systems Group from 1990 
+to 1991.
+
+David L. House (age 52) has been Senior Vice President and General Manager, 
+Enterprise Server Group since 1995. Prior to that, Mr. House was Senior Vice 
+President and Director, Corporate Strategy from 1993 to 1995; Senior Vice 
+President and General Manager, Architecture Marketing and Applications Group 
+from 1992 to 1993; and Senior Vice President and President of Microcomputer 
+Components Group from 1990 to 1991.
+
+Paul S. Otellini (age 45) has been Senior Vice President, Director, Sales 
+since 1994. Prior to that, Mr. Otellini was  Senior Vice President and General 
+Manager, Microprocessor Products Group, from 1992 to 1994; Vice President and 
+General Manager, Microprocessor Products Group from 1991 to 1992; and Vice 
+President, Microcomputer Components Group, General Manager, Micro Products 
+Group from 1990 to 1991.
+
+Gerhard H. Parker (age 52) has been Senior Vice President and General Manager, 
+Technology & Manufacturing Group, since 1992. Prior to that, Dr. Parker was 
+Vice President and General Manager, Technology & Manufacturing Group from 1990 
+to 1992.
+
+Robert W. Reed (age 49) has been Senior Vice President and General Manager, 
+Semiconductor Products Group, since 1991. Prior to that, Mr. Reed was Senior 
+Vice President and Chief Financial Officer from 1990 to 1991.
+
+Ronald J. Whittier (age 59) has been Senior Vice President and General 
+Manager, Content Group since 1995. Prior to that, Mr. Whittier was Senior Vice 
+President and General Manager, Intel Architecture Laboratories from 1993 to 
+1995; Vice President and General Manager, Software Technology Group from 1991 
+to 1992; and Vice President and Director of Marketing from 1990 to 1991.
+
+Albert Y.C. Yu (age 54) has been Senior Vice President and General Manager, 
+Microprocessor Products Group since 1993. Prior to that, Dr. Yu was Vice 
+President and General Manager, Microprocessor Products Group from 1991 to 
+1993; and Vice President and General Manager, Micro Products Group from 1990 
+to 1991.
+
+
+
+
+PAGE 9
+EXECUTIVE OFFICERS, CONTINUED
+
+Michael A. Aymar (age 48) has been Vice President and General Manager, Desktop 
+Products Group since 1995. Prior to that, Mr. Aymar was Vice President and 
+General Manager, Intel486(TM) Microprocessor Division from 1994 to 1995; 
+Vice President and General Manager, Mobile Computing Group from 1991 to 1994; 
+and Vice President and General Manager, Santa Clara Microcomputer Division 
+from 1989 to 1991.
+
+Andy D. Bryant (age 45) has been Vice President and Chief Financial Officer 
+since 1994. Prior to that, Mr. Bryant was Vice President, Intel Products Group 
+from 1990 to 1994.
+
+F. Thomas Dunlap, Jr. (age 44) has been Vice President, General Counsel and 
+Secretary since 1987.
+
+G. Carl Everett, Jr. (age 45) has been Senior Vice President and General 
+Manager, Desktop Products Group since 1995. Prior to that, Mr. Everett was 
+Senior Vice President and General Manager, Microprocessor Products Group from 
+1994 to 1995; and Vice President and Director, Worldwide Sales Group from 1990 
+to 1994.
+
+Stephen P. Nachtsheim (age 50) has been Vice President and General Manager, 
+Mobile/Handheld Products Group since 1995. Prior to that, Mr. Nachtsheim was 
+Vice President and General Manager, Mobile and Home Products Group from 1994 
+to 1995; and General Manager of European Intel Products Group from 1990 to 
+1994.
+
+
+
+
+PAGE 10
+ITEM 2.  PROPERTIES    
+
+At December 30, 1995, Intel owned the major facilities described below:
+<TABLE>
+No. of Bldgs.    Location        Total Sq. Ft.    Use
+- -------------    --------        -------------    ---
+<S>              <C>                <C>           <C>
+56               United States (A)  9,744,000     Executive and administrative
+                                                  offices, wafer fabrication, 
+                                                  components testing and 
+                                                  assembly, research and 
+                                                  development, computer and 
+                                                  service functions, system 
+                                                  assembly and warehousing.
+
+6                Ireland              959,000     Wafer fabrication, system 
+                                                  and board assembly, and 
+                                                  administrative offices.
+
+6                Malaysia (B)         531,000     Components assembly and 
+                                                  testing and administrative 
+                                                  offices.
+
+4                Israel               379,000     Wafer fabrication, design 
+                                                  center, sales office and 
+                                                  related support functions.
+
+4                Puerto Rico          292,000     Systems manufacturing, board 
+                                                  assembly, warehousing and 
+                                                  administration.
+
+3                England              184,000     European sales, marketing, 
+                                                  warehousing and related 
+                                                  support functions.
+
+3                Japan                167,000     Sales, warehousing and 
+                                                  related support functions.
+
+1                Philippines (C)      431,000     Components assembly and 
+                                                  testing and administrative 
+                                                  offices.
+
+1                Germany               86,000     European marketing, German 
+                                                  sales and administrative 
+                                                  offices.
+</TABLE>
+
+At December 30, 1995, Intel also leased 24 major facilities in the U.S. 
+totaling approximately 893,000 square feet and 11 facilities in other 
+countries totaling approximately 250,000 square feet.  These leases expire at 
+varying dates through 2005, including renewals at the option of Intel.
+
+Intel believes that its existing facilities are suitable and adequate for its 
+present purposes, and the productive capacity in such facilities is in general 
+being utilized.  Intel has other facilities available that it can equip to 
+meet anticipated future demand.  These include 4.7 million square feet of 
+building space under various stages of construction in the United States and 
+abroad for manufacturing and administrative purposes.
+
+___________________
+(A)     Includes an idle, 131,000-square-foot facility formerly utilized for 
+        wafer fabrication and administration, which was sold in March 1996.
+(B)     The lease on a portion of the land used for these facilities expires 
+         in 2032.
+(C)     Leases on land expire in 1998.
+
+
+
+
+PAGE 11
+ITEM 3.  LEGAL PROCEEDINGS
+
+A. LITIGATION
+
+Consumer Class Action Suits
+- ---------------------------
+Machtinger vs. Intel, Cook Co. Circuit Court, IL (94-C-7300)
+Anthony Uzzo & Co. vs. Intel, Santa Clara Co. Superior Court (CV745729)
+Liberty Bell Equip. vs. Intel, Santa Clara Co. Superior Court (CV745803)
+Sloane vs. Intel, Santa Clara Co. Superior Court (CV745876)
+Klein vs. Intel, Santa Clara Co. Superior Court (CV745895)
+Scalzo vs. Intel, Santa Clara Co. Superior Court (CV745924)
+Rep. Electronic Products vs. Intel and Dell,
+Wayne Co. Circuit Court, MI (94-435132CK)
+Fingold vs. Intel, Santa Clara Co. Superior Court (CV746031)
+Lees et al vs. Intel, Camden Co. Superior Court, NJ (L 11508 94)
+Kurtz, Orman vs. Intel, Santa Clara Co. Superior Court (CV746116)
+Data Technology Services vs. Intel, U.S.D.C., Dist. of CO (94-N-2886)
+Carney vs. Intel, Santa Clara Co. Superior Court (CV746128)
+- -----------------------------------------------------------
+
+During the period from November 29, 1994 through December 19, 1994, numerous 
+civil consumer lawsuits were filed in state courts in various states against 
+the Company.  Although the complaints differed, these actions generally 
+alleged that Intel breached express and implied warranties, engaged in 
+deceptive advertising and otherwise committed consumer fraud by shipping 
+Pentium processors which contained a divide problem in the floating point 
+unit, and by failing to disclose it.  The suits sought compensatory and 
+punitive damages of unspecified amounts. A Stipulation of Settlement covering 
+all actions was filed in the Santa Clara Superior Court on March 22, 1995 and 
+became final on June 22, 1995. 
+
+Weisberg vs. C. Barrett, W.H. Chen, A. Grove, D.J. Guzy, G. Moore, M. 
+Palevsky, A. Rock, J. Shaw, L. Vadasz, D. Yoffie, C. Young and Intel
+Southern District, NY (C95-0674)
+- --------------------------------
+
+On January 31, 1995, the plaintiff brought this suit in Federal Court in New 
+York (Southern District) as both a derivative and stockholder action to 
+invalidate the Company's Executive Officer Bonus Plan, alleging that the Plan 
+is so vague and misleading as to be ambiguous.  Plaintiff sought (i) 
+cancellation of the stockholders' approval of the Plan, (ii) unspecified 
+damages to Intel by the Board of Directors, and (iii) to enjoin implementation 
+of the Plan and the payment of any bonuses under the Plan. A hearing was held 
+on January 12, 1996 to consider and approve a stipulated settlement and 
+dismissal of the action.  The Court approved the settlement, and an order of 
+dismissal was signed and became effective on January 22, 1996.
+
+
+Thorn EMI North America, Inc. vs. Intel
+and Advanced Micro Devices, Inc., DEL (C95-199)
+- -----------------------------------------------
+
+On March 29, 1995, Thorn EMI North America Inc. brought suit in Federal Court 
+in Delaware against Intel and Advanced Micro Devices, Inc. (AMD) alleging 
+infringement of a U.S. patent relating to processes for manufacturing 
+semiconductors, certain of which processes are utilized in the manufacture of 
+the Company's Pentium(R) and Pentium(R) Pro microprocessors.  The plaintiff is 
+seeking injunctive relief and unspecified damages. On September 8, 1995, Intel 
+was granted a motion to sever its case from the AMD case.  Trial of the 
+plaintiff's claims against Intel is presently set for June 1996.  The Company 
+believes this lawsuit to be without merit and will defend the case vigorously. 
+Although the ultimate outcome of this lawsuit cannot be determined at this 
+time, management, including internal counsel, does not believe that the 
+ultimate outcome will have a material adverse effect on Intel's financial 
+position or overall trends in results of operations.
+
+
+
+
+PAGE12
+B. ENVIRONMENTAL PROCEEDINGS
+
+Intel has been named to the California and U.S. Superfund lists for three of 
+its sites and has completed, along with two other companies, a Remedial 
+Investigation/Feasibility study with the U.S. Environmental Protection Agency 
+(EPA) to evaluate the groundwater in areas adjacent to its former Mountain 
+View, California site.  The EPA has issued a Record of Decision with respect 
+to a groundwater cleanup plan at that site.  Under the California and U.S. 
+Superfund statutes, liability for cleanup of the Mountain View site and 
+adjacent area is joint and several.  The Company has reached agreement with 
+those same two companies which should significantly limit the Company's 
+liabilities under the proposed cleanup plan.  Also, the Company has completed 
+extensive studies at its other sites and is engaged in cleanup at several of 
+these sites.  In the opinion of management, including internal counsel, the 
+potential losses to the Company in excess of amounts already accrued arising 
+out of these matters will not have a material adverse effect on the Company's 
+financial position or overall trends in results of operations, even if joint 
+and several liability were to be assessed.
+
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+None.
+
+
+
+
+PAGE13
+PART II
+
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER 
+         MATTERS
+
+(a)     Reference is made to the information regarding market, market price 
+range and dividend information appearing under "Financial Information by 
+Quarter (Unaudited)" on page 31 of the Registrant's Annual Report to 
+Stockholders which information is hereby incorporated by reference. 
+
+(b)     As of February 24, 1996, there were 85,273 holders of record of the 
+Registrant's Common Stock.
+
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+Reference is made to the information regarding selected financial data for the 
+fiscal years 1991 through 1995, under the heading "Financial Summary" on page 
+27 of the Registrant's Annual Report to Stockholders, which information is 
+hereby incorporated by reference.  
+
+In addition, the ratios of earnings to fixed charges for each of the five 
+years in the period ended December 30, 1995 are as follows:
+
+                             Fiscal Year
+          -----------------------------------------------------
+          1991        1992        1993        1994        1995
+
+          12.4x       20.7x       54.4x       39.5x       67.6x
+
+Fixed charges consist of interest expense and the estimated interest component 
+of rent expense.
+
+
+
+
+PAGE 14
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND 
+RESULTS OF OPERATIONS
+
+Reference is made to the information appearing under the heading "Management's 
+Discussion and Analysis of Financial Condition and Results of Operations" on 
+pages 28 through 30 of the Registrant's 1995 Annual Report to Stockholders, 
+which information is hereby incorporated by reference.
+
+Subsequent to December 30, 1995, Intel repurchased 4.1 million shares of 
+Common Stock under the Company's authorized stock repurchase program at a cost 
+of $234 million, including 1.8 million shares at a cost of $108 million upon 
+the exercise of put warrants. The Company also sold 3 million put warrants, 
+receiving proceeds of $18 million, while 1.5 million previously outstanding 
+put warrants expired unexercised. As of March 25, 1996, the Company had the 
+potential obligation to repurchase 11.7 million shares of Common Stock at an 
+aggregate price of $734 million under outstanding put warrants. The 11.7 
+million put warrants outstanding at March 25, 1996 expire on various dates 
+between May 1996 and February 1997 and have exercise prices ranging from $56 
+to $68 per share, with an average exercise price of $62.  After reserving 
+shares to cover these outstanding put warrants, 26.1 million shares remained 
+available under the stock repurchase program authorization.
+
+During the third quarter of 1995, a portion of the receivable balance from one 
+of the Company's five largest customers was converted into a loan.  The total 
+amount receivable from this customer at December 30, 1995 was approximately 
+$400 million.  The total amount receivable from this customer at March 25, 
+1996 was approximately $356 million. This customer has informed the Company 
+that it anticipates obtaining additional outside financing.  No assurances can 
+be given that this additional financing will be obtained.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Consolidated financial statements of Intel Corporation at December 30, 1995 
+and December 31, 1994 and for each of the three years in the period ended 
+December 30, 1995 and the Report of Independent Auditors thereon and Intel 
+Corporation's unaudited quarterly financial data for the two-year period ended 
+December 30, 1995 are incorporated by reference from the Registrant's 1995 
+Annual Report to Stockholders, on pages 14 through 31.
+
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND 
+FINANCIAL DISCLOSURE
+
+Not applicable.
+
+
+
+
+PAGE 15
+PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+Reference is made to the information regarding Directors and Executive 
+Officers appearing under the heading "Election of Directors" on pages 2 
+through 4 of the Registrant's Proxy Statement dated April 4, 1996, which 
+information is hereby incorporated by reference, and to the information under 
+the heading "Executive Officers" in Part I hereof.
+
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+Reference is made to the information appearing under the headings "Directors' 
+Compensation," "Compensation Committee Interlocks and Insider Participation," 
+and "Executive Compensation," on pages 5 and 6, 10 and 12, respectively, of the
+Registrant's Proxy Statement dated April 4, 1996, which information is hereby 
+incorporated by reference.
+
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+Reference is made to information appearing in the Registrant's Proxy Statement 
+dated April 4, 1996, under the heading "Security Ownership of Certain 
+Beneficial Owners and Management," on pages 15 and 16, which information is 
+hereby incorporated by reference.
+
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+None.
+
+
+
+
+PAGE 16
+PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a)  1.  Financial Statements
+
+         The financial statements listed in the accompanying index to 
+         financial statements and financial statement schedules are filed or 
+         incorporated by reference as part of this annual report.
+
+     2.  Financial Statement Schedule
+
+         The financial statement schedule listed in the accompanying index to 
+         financial statements and financial statement schedules is filed as 
+         part of this annual report.
+
+     3.  Exhibits
+
+         The exhibits listed in the accompanying index to exhibits are filed 
+         or incorporated by reference as part of this annual report.
+
+(b)      Reports on Form 8-K
+
+         None.
+
+
+
+
+PAGE 17
+INDEX TO FINANCIAL STATEMENTS
+AND FINANCIAL STATEMENT SCHEDULES
+(Item 14 (a))                                               Reference Page
+                                                            --------------
+                                                                        1995
+                                                                      Annual
+                                                         Form      Report to
+                                                         10-K   Stockholders
+                                                         ----   ------------
+<TABLE>
+<S>                                                      <C>    <C>
+Consolidated Balance Sheets-
+  December 30, 1995 and December 31, 1994 . . . . . . . . . . . . . . . . 15
+Consolidated Statements of Income for
+  the years ended December 30, 1995,
+  December 31, 1994 and December 25, 1993 . . . . . . . . . . . . . . . . 14
+Consolidated Statements of Cash Flows 
+  for the years ended December 30, 1995,
+  December 31, 1994 and December 25, 1993 . . . . . . . . . . . . . . . . 16
+Consolidated Statements of Stockholders' 
+  Equity for the years ended December 30, 1995, 
+  December 31, 1994 and December 25, 1993 . . . . . . . . . . . . . . . . 17
+Notes to Consolidated Financial Statements- 
+  December 30, 1995, December 31, 1994 and 
+  December 25, 1993 . . . . . . . . . . . . . . . . . . . . . . . . . .18-26
+Report of Independent Auditors . . . . . . . . . . . . . . . . . . . . . .27
+Supplementary Information (unaudited)
+  Financial Information by Quarter . . . . . . . . . . . . . . . . . . . .31
+Schedule for years ended December 30, 1995, 
+  December 31, 1994 and December 25, 1993:
+II- Valuation and Qualifying Accounts . . . . . . . . . . .18
+</TABLE>
+Schedules other than the one listed above are omitted for the reason that they 
+are not required or are not applicable, or the required information is shown 
+in the financial statements or notes thereto.
+
+The consolidated financial statements listed in the above index, which are 
+included in the Company's Annual Report to Stockholders, are hereby 
+incorporated by reference.  With the exception of the pages listed in the 
+above index and the portions of such report referred to in Items 5, 6, 7 and 8 
+of this Form 10-K, the 1995 Annual Report to Stockholders is not to be deemed 
+filed as part of this report.
+
+Page references to the 1995 Annual Report to Stockholders relate to the bound, 
+printed version of the report.
+
+
+
+
+PAGE 18
+INTEL CORPORATION
+- -----------------
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+December 25, 1993, December 31, 1994 and December 30,1995
+(In Millions)
+
+
+
+                                            Additions
+                              Balance at   Charged to                  Balance
+                               Beginning    Costs and                   at End
+                                 of Year     Expenses  Deductions (A)  of Year
+                              ----------   ----------  -------------   -------
+<TABLE>
+<S>                           <C>          <C>         <C>             <C>
+1993
+Allowance for Doubtful Receivables   $26          $ 4           $ 8        $22
+                                     ---          ---           ---        ---
+1994
+Allowance for Doubtful Receivables   $22          $10           $--        $32
+                                     ---          ---           ---        ---
+1995
+Allowance for Doubtful Receivables   $32          $28           $ 3        $57
+
+(A)  Uncollectible accounts written off, net of recoveries.
+</TABLE>
+
+
+
+PAGE 19
+INDEX TO EXHIBITS
+(Item 14(a))
+     Description
+
+3.1  Intel Corporation Certificate of Incorporation (incorporated by reference 
+     to Exhibit 3.1 of Registrant's Form 10-Q for the quarter ended June 26, 
+     1993 as filed on August 10, 1993).
+
+3.2  Intel Corporation Bylaws as amended, (incorporated by reference to 
+     Exhibit 3.2 of Registrant's Registration Statement on Form 10-Q for the 
+     quarter ended September 25, 1993 as filed on November 9, 1993).
+
+4.1  Agreement to Provide Instruments Defining the Rights of Security Holders 
+     (incorporated by reference to Exhibit 4.1 of Registrant's Form 10-K as 
+     filed on March 28, 1986).
+
+4.2  Warrant Agreement dated as of March 1, 1993, as amended between the 
+     Registrant and Harris Trust and Savings Bank (as successor Warrant Agent) 
+     related to the issuance of 1998 Step-Up Warrants to purchase Common Stock 
+     of Intel Corporation (incorporated by reference to Exhibit 4.6 of 
+     Registrant's Form 10-K as filed on March 25, 1993), together with the 
+     First Amendment to Warrant Agreement dated as of October 18, 1993 and the 
+     Second Amendment to Warrant Agreement dated as of January 17, 1994 
+     (incorporated by reference to Exhibit 4.4 of the Registrant's Form 10-K 
+     as filed on March 25, 1994) and the Third Amendment to Warrant Agreement 
+     dated as of May 1, 1995.
+
+10.1 Intel Corporation 1984 Stock Option Plan, as amended and restated, 
+     effective May 4, 1994 (incorporated by reference to Exhibit 10.2 of 
+     Registrant's Form 10-Q for the quarter ended April 2, 1994 as filed on 
+     May 16, 1994), together with the First Amendment to Intel Corporation 
+     1984 Stock Option Plan, dated July 1995 (incorporated by reference to 
+     Exhibit 10.1 of Registrant's Form 10-Q for the quarter ended July 1, 1995 
+     as filed on August 10, 1995).
+
+10.2 Intel Corporation 1988 Executive Long-Term Stock Option Plan as amended 
+     and restated (incorporated by reference to Exhibit 10.6 of Registrant's 
+     Form 10-Q for the quarter ended April 2, 1994 as filed on May 16, 1994).
+
+10.3 Intel Corporation Executive Officer Bonus Plan as amended and restated 
+     effective January 1, 1995 (incorporated by reference to Exhibit 10.7 of 
+     Registrant's Form 10-Q for the quarter ended April 5, 1995 as filed on 
+     May 15, 1995).
+
+10.4 Intel Corporation Sheltered Employee Retirement Plan Plus, as amended and 
+     restated effective November 1, 1995 (incorporated by reference to Exhibit 
+     4.1 of Registrant's Registration Statement on Form S-8 as filed October 
+     18, 1995).
+
+11.  Computation of Per Share Earnings.
+
+12.  Statement Setting Forth the Computation of Ratios of Earnings to Fixed 
+     Charges.
+
+13.  Portions of the Annual Report to Stockholders for fiscal year ended 
+     December 30, 1995 expressly incorporated by reference herein.
+
+21.  Intel Subsidiaries.
+
+23.  Consent of Ernst & Young LLP, Independent Auditors.
+
+27.  Financial Data Schedule.
+
+
+
+
+PAGE 20
+SIGNATURES
+
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange 
+Act of 1934, the Registrant has duly caused this Annual Report to be signed on 
+its behalf by the undersigned, thereunto duly authorized.
+
+INTEL CORPORATION
+- -----------------
+Registrant
+
+
+INTEL CORPORATION
+Registrant
+
+By /s/ F. Thomas Dunlap, Jr.
+- ----------------------------
+  F. Thomas Dunlap, Jr.
+  Vice President and Secretary
+  March 27, 1996
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this 
+report has been signed below by the following persons on behalf of the 
+Registrant and in the capacities and on the dates indicated.
+
+/s/ Craig R. Barrett
+- --------------------                            --------------------
+Craig R. Barrett                                Max Palevsky
+Director                                        Director
+March 27, 1996                                  March 27, 1996
+
+/s/ Andy D. Bryant                              /s/ Arthur Rock
+- ------------------                              ---------------
+Andy D. Bryant                                  Arthur Rock
+Vice President, Principal                       Director
+Accounting and Chief Financial Officer          March 27, 1996
+March 27, 1996
+                                                /s/ Jane E. Shaw
+/s/ Winston H. Chen                             ----------------
+- -------------------                             Jane E. Shaw
+Winston H. Chen                                 Director
+Director                                        March 27, 1996
+March 27, 1996
+                                                /s/ Leslie L. Vadasz
+/s/ Andrew S. Grove                             --------------------
+- -------------------                             Leslie L. Vadasz
+Andrew S. Grove                                 Director
+Principal Executive Officer                     March 27, 1996
+President and Director
+March 27, 1996                                  /s/ David B. Yoffie
+                                                -------------------
+/s/ D. James Guzy                               David B. Yoffie
+- -----------------                               Director
+D. James Guzy                                   March 27, 1996
+Director
+March 27, 1996                                  /s/ Charles E. Young
+                                                --------------------
+/s/ Gordon E. Moore                             Charles E. Young
+- -------------------                             Director
+Gordon E. Moore                                 March 27, 1996
+Chairman of the Board
+March 27, 1996
+
+??
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<TEXT>
+
+EXHIBIT 11.1
+       
+                                             INTEL CORPORATION
+                                     COMPUTATION OF EARNINGS PER SHARE
+                                 (In millions, except per share amounts)
+<TABLE>
+                                                                   Year Ended
+                                                          -----------------------------
+                                                          Dec. 25,   Dec. 31,   Dec. 30,
+                                                            1993       1994       1995
+                                                          -------    -------    -------
+<S>                                                       <C>        <C>        <C>                              
+PRIMARY SHARES CALCULATION
+
+Reconciliation of weighted average number
+of shares outstanding to amount used in
+primary earnings per share computation:
+
+Weighted average number of shares outstanding                 836        830        825
+
+ Add-shares issuable from assumed exercise of options
+  and warrants                                                 46         44         59
+                                                           ------     ------     ------
+
+ Weighted average number of shares outstanding as
+  adjusted                                                    882        874        884
+                                                           ======     ======     ======
+
+FULLY DILUTED SHARES CALCULATION
+
+Reconciliation of weighted average number
+of shares outstanding to amount used in
+fully diluted earnings per share computation:
+
+  Weighted average number of shares outstanding               836        830        825
+
+  Add-shares issuable from assumed exercise of options
+  and warrants                                                 46         44         65
+                                                           ------     ------     ------
+
+  Weighted average number of shares outstanding as 
+   adjusted                                                   882        874        890
+                                                           ======     ======     ======
+
+NET INCOME                                                 $2,295     $2,288     $3,566
+                                                           ======     ======     ======
+
+PRIMARY EARNINGS PER SHARE                                 $ 2.60     $ 2.62     $ 4.03
+                                                           ======     ======     ======
+
+FULLY DILUTED EARNINGS PER SHARE(1)                        $ 2.60     $ 2.62     $ 4.01
+                                                           ======     ======     ======
+</TABLE>        
+(1)     Earnings per common and common equivalent share presented on the face
+of the income statement represent primary earnings per share.  Dual
+presentation of primary and fully diluted earnings per share has not been
+made on the face of the income statement because the differences are 
+insignificant. This exhibit is presented because common stock equivalents 
+represent more than 3% of weighted average common shares outstanding.
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>3
+<TEXT>
+
+EXHIBIT 12.1
+
+
+                               INTEL CORPORATION
+
+
+                    STATEMENT SETTING FORTH THE COMPUTATION
+          OF RATIOS OF EARNINGS TO FIXED CHARGES FOR INTEL CORPORATION
+
+                            (In millions, except ratios)
+
+<TABLE>
+                                                        Years Ended
+                           ----------------------------------------------------
+<S>                        <C>        <C>        <C>        <C>        <C>
+                           Dec. 28,   Dec. 26,   Dec. 25,   Dec. 31,   Dec. 30,
+                             1991       1992       1993       1994       1995
+                           --------   --------   --------   --------   --------
+Income before taxes          $1,195     $1,569     $3,530     $3,603     $5,638
+
+Add - Fixed charges net of
+  capitalized interest           98         68         58         66         38
+                             ------     ------     ------     ------     ------
+
+Income before taxes and 
+  fixed charges (net of 
+  capitalized interest)      $1,293     $1,637     $3,588     $3,669     $5,676
+                             ======     ======     ======     ======     ======
+
+Fixed charges:
+
+Interest*                    $   82     $   54     $   50     $   57     $   29
+
+Capitalized interest              6         11          8         27         46
+
+Estimated interest component
+  of rental expense              16         14          8          9          9
+                             ------     ------     ------     ------     ------
+
+Total                        $  104     $   79     $   66     $   93     $   84
+                             ======     ======     ======     ======     ======
+
+
+Ratio of earnings before taxes
+  and fixed charges, to fixed
+  charges                     12.4x      20.7x      54.4x      39.5x      67.6x
+
+</TABLE>
+*  Interest expense includes the amortization of underwriting fees for the
+   relevant periods outstanding.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-13
+<SEQUENCE>4
+<TEXT>
+
+Exhibit 13
+
+Consolidated Statements Of Income
+Three years ended December 30, 1995
+(In millions--except per share amounts)
+<TABLE>
+<S>                                        <C>           <C>           <C>
+                                              1995          1994          1993
+                                           -------       -------       -------
+Net revenues                               $16,202       $11,521       $ 8,782
+                                           -------       -------       -------
+Cost of sales                                7,811         5,576         3,252
+Research and development                     1,296         1,111           970
+Marketing, general and 
+  administrative                             1,843         1,447         1,168
+                                           -------       -------       -------
+Operating costs and expenses                10,950         8,134         5,390
+                                           -------       -------       -------
+Operating income                             5,252         3,387         3,392
+Interest expense                               (29)          (57)          (50)
+Interest income and other, net                 415           273           188
+                                           -------       -------       -------
+Income before taxes                          5,638         3,603         3,530
+Provision for taxes                          2,072         1,315         1,235
+                                           -------       -------       -------
+Net income                                 $ 3,566       $ 2,288       $ 2,295
+                                           =======       =======       =======
+Earnings per common and 
+  common equivalent share                  $  4.03       $  2.62       $  2.60
+                                           =======       =======       =======
+Weighted average common and 
+  common equivalent shares 
+  outstanding                                  884           874           882
+                                           =======       =======       =======
+</TABLE>
+See accompanying notes.
+
+
+Consolidated Balance Sheets
+December 30, 1995 and December 31, 1994 
+(In millions--except per share amounts)
+<TABLE>
+<S>                                                      <C>           <C> 
+                                                            1995          1994
+                                                         -------       -------
+Assets
+Current assets:
+     Cash and cash equivalents                           $ 1,463       $ 1,180
+     Short-term investments                                  995         1,230
+     Accounts receivable, net of allowance for 
+       doubtful accounts of $57 ($32 in 1994)              3,116         1,978
+     Inventories                                           2,004         1,169
+     Deferred tax assets                                     408           552
+     Other current assets                                    111            58
+                                                         -------       -------
+Total current assets                                       8,097         6,167
+                                                         -------       -------
+Property, plant and equipment:
+     Land and buildings                                    3,145         2,292
+     Machinery and equipment                               7,099         5,374
+     Construction in progress                              1,548           850
+                                                         -------       -------
+                                                          11,792         8,516
+     Less accumulated depreciation                         4,321         3,149
+                                                         -------       -------
+Property, plant and equipment, net                         7,471         5,367
+                                                         -------       -------
+Long-term investments                                      1,653         2,127
+Other assets                                                 283           155
+                                                         -------       -------
+     Total assets                                        $17,504       $13,816
+                                                         =======       =======
+Liabilities and stockholders' equity
+Current liabilities:
+     Short-term debt                                     $   346       $   517
+     Accounts payable                                        864           575
+     Deferred income on shipments to distributors            304           269
+     Accrued compensation and benefits                       758           588
+     Accrued advertising                                     218           108
+     Other accrued liabilities                               328           538
+     Income taxes payable                                    801           429
+                                                         -------       -------
+Total current liabilities                                  3,619         3,024
+                                                         -------       -------
+Long-term debt                                               400           392
+Deferred tax liabilities                                     620           389
+Put warrants                                                 725           744
+Commitments and contingencies
+Stockholders' equity:
+     Preferred Stock, $.001 par value, 50 shares 
+       authorized; none issued                                --            --
+     Common Stock, $.001 par value, 1,400 shares 
+       authorized; 821 issued and outstanding in 
+       1995 (827 in 1994) and capital in excess 
+       of par value                                        2,583         2,306
+     Retained earnings                                     9,557         6,961
+                                                         -------       -------
+Total stockholders' equity                                12,140         9,267
+                                                         -------       -------
+     Total liabilities and stockholders' equity          $17,504       $13,816
+                                                         =======       =======
+</TABLE>
+See accompanying notes.
+
+<TABLE>
+Consolidated Statements Of Cash Flows
+Three years ended December 30, 1995
+(In millions)                                 1995          1994          1993
+                                           -------       -------       -------
+<S>                                        <C>           <C>           <C>
+Cash and cash equivalents, 
+  beginning of year                        $ 1,180       $ 1,659       $ 1,843
+                                           =======       =======       =======
+Cash flows provided by (used for) 
+  operating activities:
+Net income                                   3,566         2,288         2,295
+Adjustments to reconcile net income to 
+  net cash provided by (used for) 
+  operating activities:
+     Depreciation                            1,371         1,028           717
+     Net loss on retirements of property, 
+       plant and equipment                      75            42            36
+     Amortization of debt discount               8            19            17
+     Change in deferred tax assets and 
+       liabilities                             346          (150)           12
+Changes in assets and liabilities:
+     (Increase) in accounts receivable      (1,138)         (530)         (379)
+     (Increase) in inventories                (835)         (331)         (303)
+     (Increase) in other assets               (241)          (13)          (68)
+     Increase in accounts payable              289           148           146
+     Tax benefit from employee stock plans     116            61            68
+     Increase in income taxes payable          372            38            32
+     Increase in accrued compensation and 
+       benefits                                170            44           109
+     (Decrease) increase in other 
+       liabilities                             (73)          337           119
+                                           -------       -------       -------
+     Total adjustments                         460           693           506
+                                           -------       -------       -------
+Net cash provided by operating activities    4,026         2,981         2,801
+                                           =======       =======       =======
+Cash flows provided by (used for) 
+  investing activities:
+     Additions to property, plant and 
+       equipment                            (3,550)       (2,441)       (1,933)
+     Purchases of long-term, 
+       available-for-sale investments         (129)         (975)       (1,165)
+     Sales of long-term, 
+       available-for-sale investments          114            10             5
+     Maturities and other changes in 
+       available-for-sale investments, net     878           503          (244)
+                                           -------       -------       -------
+Net cash (used for) investing activities    (2,687)       (2,903)       (3,337)
+                                           =======       =======       =======
+Cash flows provided by (used for) 
+  financing activities:
+     (Decrease) increase in short-term 
+       debt, net                              (179)          (63)          197
+     Additions to long-term debt                --           128           148
+     Retirement of long-term debt               (4)          (98)           --
+     Proceeds from sales of shares through 
+       employee stock plans and other          192           150           133
+     Proceeds from sale of Step-Up 
+       Warrants, net                            --            --           287
+     Proceeds from sales of put warrants, 
+       net of repurchases                       85            76            62
+     Repurchase and retirement of 
+       Common Stock                         (1,034)         (658)         (391)
+     Payment of dividends to stockholders     (116)          (92)          (84)
+                                           -------       -------       -------
+Net cash (used for) provided by financing 
+  activities                                (1,056)         (557)          352
+                                           =======       =======       =======
+Net increase (decrease) in cash and cash 
+  equivalents                                  283          (479)         (184)
+                                           =======       =======       =======
+Cash and cash equivalents, end of year     $ 1,463       $ 1,180       $ 1,659
+                                           =======       =======       =======
+Supplemental disclosures of cash flow 
+  information:
+Cash paid during the year for:
+     Interest                              $   182       $    76       $    39
+     Income taxes                          $ 1,209       $ 1,366       $ 1,123
+
+Cash paid for interest in 1995 includes approximately $108 million of 
+accumulated interest on Zero Coupon Notes that matured in 1995. 
+</TABLE>
+See accompanying notes.
+
+
+Consolidated Statements Of Stockholders' Equity
+<TABLE>
+                                        Common Stock 
+                                   and capital in excess
+                                        of par value
+                                    -------------------
+Three years ended December 30, 1995   Number              Retained
+(In millions)                       of shares    Amount   earnings     Total
+                                    ---------  ---------  ---------  ---------
+<S>                                 <C>        <C>        <C>        <C>
+Balance at December 26, 1992             837    $ 1,776    $ 3,669    $ 5,445
+
+Proceeds from sales of shares 
+  through employee stock plans, 
+  tax benefit of $68 and other            14        201         --        201
+Proceeds from sales of put warrants       --         62         --         62
+Reclassification of put warrant 
+  obligation, net                         --        (37)      (278)      (315)
+Proceeds from sale of Step-Up Warrants    --        287         --        287
+Repurchase and retirement of Common 
+  Stock                                  (14)       (95)      (296)      (391)
+Cash dividends declared 
+  ($.10 per share)                        --         --        (84)       (84)
+Net income                                --         --      2,295      2,295
+                                     -------    -------    -------    -------
+Balance at December 25, 1993             837      2,194      5,306      7,500
+
+Proceeds from sales of shares through 
+  employee stock plans, tax benefit of 
+  $61 and other                           12        215         --        215
+Proceeds from sales of put warrants       --         76         --         76
+Reclassification of put warrant 
+  obligation, net                         --        (15)      (106)      (121)
+Repurchase and retirement of 
+  Common Stock                           (22)      (164)      (429)      (593)
+Redemption of Common Stock 
+  Purchase Rights                         --         --         (2)        (2)
+Cash dividends declared 
+  ($.115 per share)                       --         --        (96)       (96)
+Net income                                --         --      2,288      2,288
+                                     -------    -------    -------    -------
+Balance at December 31, 1994             827      2,306      6,961      9,267
+
+Proceeds from sales of shares 
+  through employee stock plans, 
+  tax benefit of $116 and other           13        310         --        310
+Proceeds from sales of put warrants       --         85         --         85
+Reclassification of put warrant 
+  obligation, net                         --         61        (42)        19
+Repurchase and retirement of 
+  Common Stock                           (19)      (179)      (855)    (1,034)
+Cash dividends declared 
+  ($.15 per share)                        --         --       (124)      (124)
+Unrealized gain on 
+  available-for-sale investments, net     --         --         51         51
+Net income                                --         --      3,566      3,566
+                                     -------    -------    -------    -------
+Balance at December 30, 1995             821    $ 2,583    $ 9,557    $12,140
+                                     =======    =======    =======    =======
+</TABLE>
+See accompanying notes.
+
+
+Notes To Consolidated Financial Statements
+
+Accounting policies
+Fiscal year. Intel Corporation ("Intel" or "the Company") has a fiscal year 
+that ends the last Saturday in December. Fiscal years 1995 and 1993, each 
+52-week years, ended on December 30 and 25, respectively. Fiscal 1994 was a 
+53-week year and ended on December 31, 1994. The next 53-week year will end on 
+December 30, 2000.
+Basis of presentation. The consolidated financial statements include the 
+accounts of Intel and its wholly owned subsidiaries. Significant intercompany 
+accounts and transactions have been eliminated. Accounts denominated in foreign
+currencies have been remeasured into the functional currency in accordance with
+Statement of Financial Accounting Standards (SFAS) No. 52, "Foreign Currency 
+Translation," using the U.S. dollar as the functional currency.
+The preparation of financial statements in conformity with generally accepted 
+accounting principles requires management to make estimates and assumptions 
+that affect the amounts reported in the financial statements and accompanying 
+notes. Actual results could differ from those estimates.
+Investments. Highly liquid investments with insignificant interest rate risk 
+and with original maturities of three months or less are classified as cash 
+and cash equivalents. Investments with maturities greater than three months 
+and less than one year are classified as short-term investments. Investments 
+with maturities greater than one year are classified as long-term investments.
+The Company accounts for investments in accordance with SFAS No. 115, 
+"Accounting for Certain Investments in Debt and Equity Securities," effective 
+as of the beginning of fiscal 1994. The Company's policy is to protect the 
+value of its investment portfolio and to minimize principal risk by earning 
+returns based on current interest rates. All of the Company's marketable 
+investments are classified as available-for-sale as of the balance sheet date 
+and are reported at fair value, with unrealized gains and losses, net of tax, 
+recorded in Stockholders' equity. The cost of securities sold is based on the 
+specific identification method. Realized gains or losses and declines in 
+value, if any, judged to be other than temporary on available-for-sale 
+securities are reported in other income or expense. Investments in non-
+marketable instruments are recorded at the lower of cost or market and included
+in other assets.
+Fair values of financial instruments. Fair values of cash and cash equivalents,
+short-term investments and short-term debt approximate cost due to the short 
+period of time to maturity. Fair values of long-term investments, long-term 
+debt, non-marketable instruments, swaps, currency forward contracts, currency 
+options and options hedging non-marketable instruments are based on quoted 
+market prices or pricing models using current market rates.
+Derivative financial instruments. The Company utilizes derivative financial 
+instruments to reduce financial market risks. These instruments are used to 
+hedge foreign currency, equity and interest rate market exposures of underlying
+assets, liabilities and other obligations. The Company does not use derivative 
+financial instruments for speculative or trading purposes. The Company's 
+accounting policies for these instruments are based on the Company's 
+designation of such instruments as hedging transactions. The criteria the 
+Company uses for designating an instrument as a hedge include its effectiveness
+in risk reduction and one-to-one matching of derivative instruments to 
+underlying transactions. Gains and losses on currency forward contracts, and 
+options that are designated and effective as hedges of anticipated 
+transactions, for which a firm commitment has been attained, are deferred and
+recognized in income in the same period that the underlying transactions are 
+settled. Gains and losses on currency forward contracts, options and swaps that
+are designated and effective as hedges of existing transactions are recognized 
+in income in the same period as losses and gains on the underlying transactions
+are recognized and generally offset. Gains and losses on options hedging 
+investments in non-marketable instruments are deferred and recognized in income
+in the same period as the hedges mature or when the underlying transaction is 
+sold, whichever comes first. Income or expense on swaps is accrued as an 
+adjustment to the yield of the related investments or debt they hedge.
+Inventories. Inventories are stated at the lower of cost or market. Cost is 
+computed on a currently adjusted standard basis (which approximates actual cost
+on a current average or first-in, first-out basis). Inventories at fiscal 
+year-ends were as follows:
+<TABLE>
+<S>                                                      <C>           <C>
+(In millions)                                               1995          1994
+                                                         -------       -------
+Materials and purchased parts                            $   674       $   345
+Work in process                                              707           528
+Finished goods                                               623           296
+                                                         -------       -------
+Total                                                    $ 2,004       $ 1,169
+                                                         =======       =======
+</TABLE>
+Property, plant and equipment. Property, plant and equipment are stated at 
+cost. Depreciation is computed for financial reporting purposes principally by 
+use of the straight-line method over the following estimated useful lives: 
+machinery and equipment, 2-4 years; land and buildings, 4-45 years. 
+The Company adopted SFAS No. 121, "Accounting for the Impairment of Long-Lived 
+Assets and for Long-Lived Assets to Be Disposed Of," effective as of the 
+beginning of fiscal 1995. This adoption had no material effect on the Company's
+financial statements. Deferred income on shipments to distributors. Certain of 
+the Company's sales are made to distributors under agreements allowing price 
+protection and/or right of return on merchandise unsold by the distributors. 
+Because of frequent sales price reductions and rapid technological obsolescence
+in the industry, Intel defers recognition of such sales until the merchandise
+is sold by the distributors.
+Advertising. Cooperative advertising obligations are accrued and the costs 
+expensed at the same time the related revenue is recognized. All other 
+advertising costs are expensed as incurred. The Company does not incur any 
+direct-response advertising costs. Advertising expense was $654 million, $459 
+million and $325 million in 1995, 1994 and 1993, respectively.
+Interest. Interest as well as gains and losses related to contractual 
+agreements to hedge certain investment positions and debt (see "Derivative 
+financial instruments") are recorded as net interest income or expense on a 
+monthly basis. Interest expense capitalized as a component of construction 
+costs was $46 million, $27 million and $8 million for 1995, 1994 and 1993, 
+respectively.
+Earnings per common and common equivalent share. Earnings per common and common
+equivalent share are computed using the weighted average number of outstanding 
+common and dilutive common equivalent shares outstanding. Fully diluted 
+earnings per share have not been presented as part of the consolidated 
+statements of income because the differences are insignificant.
+Stock distribution. On June 16, 1995, the Company effected a stock distribution
+in the form of a two-for-one stock split to stockholders of record as of May 
+19, 1995. Share, per share, Common Stock, capital in excess of par value, stock
+option and warrant amounts herein have been restated to reflect the effect of 
+this split.
+Common Stock
+1998 Step-Up Warrants. In 1993, the Company issued 40 million 1998 Step-Up 
+Warrants to purchase 40 million shares of Common Stock. This transaction 
+resulted in an increase of $287 million in Common Stock and capital in excess 
+of par value, representing net proceeds from the offering. The Warrants became 
+exercisable in May 1993 at an effective price of $35.75 per share of Common 
+Stock, subject to annual increases to a maximum price of $41.75 per share 
+effective in March 1997. As of December 30, 1995, approximately 40 million 
+Warrants were exercisable at a price of $38.75 and expire on March 14, 1998 
+if not previously exercised. For 1995, the Warrants had a dilutive effect on 
+earnings per share and represented approximately 
+11 million common equivalent shares. The Warrants did not have a dilutive 
+effect on earnings per share in 1994 or 1993.
+Stock repurchase program. In 1990, the Board of Directors authorized the 
+repurchase of up to 80 million shares of Intel's Common Stock in open market 
+or negotiated transactions. The Board increased this authorization to a maximum
+of 110 million shares in July 1994. As of December 30, 1995, the Company had 
+repurchased and retired approximately 68 million shares for the program to date
+at a cost of $2.19 billion. As of December 30, 1995, after reserving shares to 
+cover outstanding put warrants, 29.9 million shares remained available under 
+the repurchase authorization.
+Put warrants
+In a series of private placements from 1991 through 1995, the Company sold put 
+warrants that entitle the holder of each warrant to sell one share of Common 
+Stock to the Company at a specified price. Activity during the past three years 
+is summarized as follows:
+<TABLE>
+                                                        Put warrants
+                                                        outstanding
+                               Cumulative        ---------------------------
+                                  premium        Number of        Potential
+(In millions)                    received         warrants        obligation
+- ----------------------------------------------------------------------------
+<S>                               <C>               <C>             <C>
+December 26, 1992                    $ 56             28.0             $373
+Sales                                  62             21.6              561
+Expirations                            --            (20.0)            (246)
+                                   ------           ------           ------
+December 25, 1993                     118             29.6              688
+Sales                                  76             25.0              744
+Exercises                              --             (2.0)             (65)
+Expirations                            --            (27.6)            (623)
+                                   ------           ------           ------
+December 31, 1994                     194             25.0              744
+Sales                                  85             17.5              925
+Repurchases                            --             (5.5)            (201)
+Expirations                            --            (25.0)            (743)
+                                   ------           ------           ------
+December 30, 1995                    $279             12.0             $725
+                                   ======           ======           ======
+</TABLE>
+The amount related to Intel's potential repurchase obligation has been 
+reclassified from stockholders' equity to put warrants. The 12 million put 
+warrants outstanding at December 30, 1995 expire on various dates between 
+February 1996 and November 1996 and have exercise prices ranging from $38 to 
+$68 per share, with an average exercise price of $60 per share. There is no 
+significant dilutive effect on earnings per share for the periods presented.
+Borrowings
+Short-term debt. Short-term debt and weighted average interest rates at 
+fiscal year-ends were as follows:
+<TABLE>
+                                 1995                         1994 
+                        -----------------------       -----------------------
+                                       Weighted                      Weighted
+                                        average                       average
+(In millions)           Balance   interest rate       Balance   interest rate
+- -----------------------------------------------------------------------------
+<S>                      <C>            <C>            <C>            <C>
+Borrowed under  
+  lines of credit        $   57            3.2%        $   68            3.2%
+Reverse repurchase 
+  agreements payable
+  in non-U.S. currencies    124            9.2%            99            8.0%
+Notes payable                 2            4.7%             5            4.7%
+Short-term portion  
+  of long-term debt          --              --           179           11.8%
+Drafts payable              163             N/A           166             N/A
+                         ------                        ------
+Total                    $  346                        $  517
+                         ======                        ======
+</TABLE>
+At December 30, 1995, the Company had established foreign and domestic lines of
+credit of approximately $1.16 billion. The Company generally renegotiates these
+lines annually. Compensating balance requirements are not material.
+The Company also borrows under commercial paper programs. Maximum borrowings 
+reached $700 million during both 1995 and 1994. This debt is rated A1+ by 
+Standard and Poor's and P1 by Moody's. Proceeds are used to fund short-term 
+working capital needs.
+
+Long-term debt. Long-term debt at fiscal year-ends was as follows: 
+<TABLE>
+(In millions)                                               1995          1994
+                                                         -------       -------
+<S>                                                      <C>           <C>
+Payable in U.S. dollars:
+AFICA Bonds due 2013 at 4%                               $   110       $   110
+Zero Coupon Notes due 1995 at 11.8%, 
+  net of unamortized discount of $8 in 1994                   --           179
+Other U.S. dollar debt                                         4             4
+Payable in other currencies:
+     Irish punt due 2008-2024 at 6%-12%                      240           228
+     Greek drachma due 2001                                   46            46
+     Other foreign currency debt                              --             4
+(Less short-term portion)                                     --          (179)
+                                                         -------       -------
+Total                                                    $   400       $   392
+                                                         =======       =======
+</TABLE>
+The Company has guaranteed repayment of principal and interest on the AFICA 
+Bonds issued by the Puerto Rico Industrial, Medical and Environmental Pollution
+Control Facilities Financing Authority (AFICA). The bonds are adjustable and 
+redeemable at the option of either the Company or the bondholder every five 
+years through 2013 and are next adjustable and redeemable in 1998. The Zero 
+Coupon Notes matured during 1995. The Irish punt borrowings were made in 
+connection with the financing of a factory in Ireland, and Intel has invested 
+the proceeds in Irish punt denominated instruments of similar maturity to hedge
+foreign currency and interest rate exposures. The Greek drachma borrowings were
+made under a tax incentive program in Ireland, and the proceeds and cash flows
+have been swapped to U.S. dollars.
+In 1994, the Company filed a shelf registration statement with the Securities 
+and Exchange Commission (SEC) that became effective in 1995. When combined with
+previous shelf registration statements, this filing gave Intel the authority to 
+issue up to $3.3 billion in the aggregate of Common Stock, Preferred Stock, 
+depositary shares, debt securities and warrants to purchase the Company's or 
+other issuers' Common Stock, Preferred Stock and debt securities, and, subject 
+to certain limits, stock index warrants and foreign currency exchange units. 
+In 1993, Intel completed an offering of Step-Up Warrants (see "1998 Step-Up 
+Warrants"). The Company may issue up to $1.4 billion in additional securities 
+under effective registration statements. 
+As of December 30, 1995, aggregate debt maturities were as follows: 1996-none; 
+1997-none; 1998-$110 million; 1999-none; 2000-none; and thereafter-$290 million.
+
+Investments
+The stated return on a majority of the Company's marketable investments in 
+long-term fixed rate debt and equity securities are swapped to U.S. dollar 
+LIBOR-based returns. The currency risks of investments denominated in foreign 
+currencies are hedged with foreign currency borrowings, currency forward 
+contracts or currency interest rate swaps (see "Derivative 
+financial instruments" under "Accounting policies").
+Investments with maturities of greater than six months consist primarily of A 
+and A2 or better rated financial instruments and counterparties. Investments 
+with maturities of up to six months consist primarily of A1/P1 or better rated 
+financial instruments and counterparties. Foreign government regulations 
+imposed upon investment alternatives of foreign subsidiaries, or the absence 
+of A and A2 rated counterparties in certain countries, result in some minor 
+exceptions. Intel's practice is to obtain and secure available collateral from
+counterparties against obligations whenever Intel deems appropriate. At 
+December 30, 1995, investments were placed with approximately 100 different 
+counterparties. 
+Investments at December 30, 1995 were as follows:
+
+<TABLE>
+                                            Gross        Gross    Estimated
+                                       unrealized   unrealized         fair
+(In millions)                   Cost        gains       losses        value
+                             -------      -------      -------      -------
+<S>                          <C>          <C>          <C>          <C>
+Commercial paper             $   576      $    --      $    --      $   576
+Repurchase agreements            474           --           --          474
+Securities of foreign 
+  governments                    456            1           (1)         456
+Corporate bonds                  375            5           --          380
+Bank time deposits               360           --           --          360
+Loan participations              278           --           --          278
+Floating rate notes              224           --           --          224
+Fixed rate notes                 159            1           (1)         159
+Collateralized mortgage 
+  obligations                    129           --           (1)         128
+Other debt securities            119           --           (1)         118
+                             -------      -------      -------      -------
+    Total debt securities      3,150            7           (4)       3,153
+                             -------      -------      -------      -------
+Hedged equity                    431           45           --          476
+Preferred stock and 
+  other equity                   309           91          (11)         389
+                             -------      -------      -------      -------
+    Total equity securities      740          136          (11)         865
+                             -------      -------      -------      -------
+Swaps hedging investments in 
+  debt securities                 --            2           (9)          (7)
+Swaps hedging investments in 
+  equity securities               --            5          (47)         (42)
+Currency forward 
+  contracts hedging investments 
+  in debt securities              --            3           --            3
+                             -------      -------      -------      -------
+Total available-for-sale 
+   securities                  3,890          153          (71)       3,972
+Less amounts classified 
+  as cash equivalents         (1,324)          --           --       (1,324)
+                             -------      -------      -------      -------
+Total investments            $ 2,566      $   153      $   (71)     $ 2,648
+                             =======      =======      =======      =======
+
+Investments at December 31, 1994 were as follows:
+
+                                            Gross        Gross    Estimated
+                                       unrealized   unrealized         fair
+(In millions)                   Cost        gains       losses        value
+- ---------------------------------------------------------------------------
+Commercial paper             $   544      $    --      $    --      $   544
+Repurchase agreements            194           --           --          194
+Securities of 
+  foreign governments            518            2           (7)         513
+Corporate bonds                  440           12          (14)         438
+Bank time deposits               406           --           --          406
+Loan participations              266            6           (2)         270
+Fixed rate notes                 167            1           (2)         166
+Collateralized mortgage 
+  obligations                    170           --           (4)         166
+Floating rate notes              488            1           (1)         488
+Other debt securities            293           --           (5)         288
+                             -------      -------      -------      -------
+     Total debt securities     3,486           22          (35)       3,473
+                             -------      -------      -------      -------
+Hedged equity                    431           --          (58)         373
+Preferred stock and 
+  other equity                   368           20          (16)         372
+                             -------      -------      -------      -------
+     Total equity securities     799           20          (74)         745
+                             -------      -------      -------      -------
+Swaps hedging investments 
+  in debt securities              --           22          (14)           8
+Swaps hedging investments 
+  in equity securities            --           60           --           60
+Currency forward contracts 
+  hedging investments in 
+  debt securities                 --            1           --            1
+                             -------      -------      -------      -------
+Total available-for-sale 
+  securities                   4,285          125         (123)       4,287
+Less amounts classified 
+  as cash equivalents           (930)          --           --         (930)
+                             -------      -------      -------      -------
+Total investments            $ 3,355      $   125      $  (123)     $ 3,357
+                             =======      =======      =======      =======
+</TABLE>
+Note: Certain 1994 amounts have been restated to conform to the 1995 
+presentation. 
+
+During the year ended December 30, 1995, debt and marketable securities with a 
+fair value at the date of sale of $114 million were sold. The gross realized 
+gains on such sales totaled $60 million. There were no material proceeds or 
+gross realized gains or losses from sales of securities during 1994. 
+The amortized cost and estimated fair value of investments in debt securities 
+at December 30, 1995, by contractual maturity, were as follows:
+<TABLE>
+                                                                     Estimated
+                                                                          fair
+(In millions)                                               Cost         value
+- ------------------------------------------------------------------------------
+<S>                                                      <C>           <C>
+Due in 1 year or less                                    $ 2,172       $ 2,172
+Due in 1-2 years                                             486           489
+Due in 2-5 years                                             214           214
+Due after 5 years                                            278           278
+                                                         -------       -------
+Total investments in debt securities                     $ 3,150       $ 3,153
+                                                         =======       =======
+</TABLE>
+Derivative financial instruments
+Outstanding notional amounts for derivative financial instruments at fiscal 
+year-ends were as follows:
+<TABLE>
+(In millions)                                               1995          1994
+- ------------------------------------------------------------------------------
+<S>                                                      <C>           <C>
+Swaps hedging investments in debt securities             $   824       $ 1,080
+Swaps hedging investments in equity securities           $   567       $   567
+Swaps hedging debt                                       $   156       $   156
+Currency forward contracts                               $ 1,310       $   784
+Currency options                                         $    28       $    10
+Options hedging investments in non-marketable  
+  instruments                                            $    82       $    --
+</TABLE>
+While the contract or notional amounts provide one measure of the volume of 
+these transactions, they do not represent the amount of the Company's exposure 
+to credit risk. The amounts potentially subject to credit risk (arising from 
+the possible inability of counterparties to meet the terms of their contracts) 
+are generally limited to the amounts, if any, by which the counterparties' 
+obligations exceed the obligations of the Company. The Company controls credit 
+risk through credit approvals, limits and monitoring procedures. Credit rating 
+criteria for off-balance-sheet transactions are similar to those for 
+investments.
+Swap agreements. The Company utilizes swap agreements to exchange the foreign 
+currency, equity, and interest rate returns of its investment and debt 
+portfolios for a floating U.S. dollar interest rate based return. The floating 
+rates on swaps are based primarily on U.S. dollar LIBOR and reset on a monthly,
+quarterly or semiannual basis. 
+Weighted average pay and receive rates, average maturities and range of 
+maturities on swaps at December 30, 1995 were 
+as follows:
+
+<TABLE>
+                                            Weighted
+                                Weighted     average     Weighted
+                                 average     receive      average      Range of
+                                pay rate        rate     maturity    maturities
+- -------------------------------------------------------------------------------
+<S>                               <C>         <C>      <C>           <C>
+Swaps hedging investments 
+  in U.S. dollar debt securities    6.5%        6.2%    1.1 years     0-3 years
+Swaps hedging investments 
+  in foreign currency 
+  debt securities                  10.4%        9.1%    1.1 years     0-3 years
+Swaps hedging investments 
+  in equity securities               N/A        5.4%    1.2 years     0-2 years
+Swaps hedging debt                  5.9%        5.2%    3.6 years     3-6 years
+</TABLE>
+Note: Pay and receive rates are based on the reset rates that were in effect at
+December 30, 1995.
+
+Pay rates on swaps hedging investments in debt securities generally match the 
+yields on the underlying investments they hedge. Payments on swaps hedging 
+investments in equity securities generally match the equity returns on the 
+underlying investments they hedge. Receive rates on swaps hedging debt 
+generally match the expense on the underlying debt they hedge. Maturity dates 
+of swaps generally match those of the underlying investment or the debt they 
+hedge. There is approximately a one-to-one matching of investments and debt to
+swaps. Swap agreements generally remain in effect until expiration. Income or 
+expense on swaps is accrued as an adjustment to the yield of the related 
+investments or debt they hedge.
+Other foreign currency instruments. Intel transacts business in various foreign
+currencies, primarily Japanese yen and certain European currencies. The 
+maturities on most of these foreign currency instruments are less than 12 
+months. Deferred gains or losses attributable to foreign currency instruments 
+are not material.
+Fair values of financial instruments 
+The estimated fair values of financial instruments outstanding at fiscal 
+year-ends were as follows:
+
+<TABLE>
+                                    1995                      1994
+                            ---------------------     ---------------------
+                                        Estimated                 Estimated
+                            Carrying         fair     Carrying         fair
+(In millions)                 amount        value       amount        value
+- ---------------------------------------------------------------------------
+<S>                          <C>          <C>          <C>          <C>
+Cash and cash equivalents    $ 1,463      $ 1,463      $ 1,180      $ 1,180
+Short-term investments       $   995      $   995      $ 1,230      $ 1,230
+Long-term investments        $ 1,699      $ 1,699      $ 2,058      $ 2,058
+Non-marketable instruments   $   239      $   259      $    59      $   144
+Swaps hedging investments 
+  in debt securities         $    (7)     $    (7)     $     8      $     8
+Swaps hedging investments 
+  in equity securities       $   (42)     $   (42)     $    60      $    60
+Options hedging 
+  investments in non-
+  marketable instruments     $    (9)     $   (13)     $    --      $    --
+Short-term debt              $  (346)     $  (346)     $  (517)     $  (517)
+Long-term debt               $  (400)     $  (399)     $  (392)     $  (384)
+Swaps hedging debt           $    --      $    (1)     $    --      $   (12)
+Currency forward contracts   $     3      $     4      $     1      $     5
+Currency options             $    --      $    --      $    --      $    --
+</TABLE>
+Concentrations of credit risk
+Financial instruments that potentially subject the Company to concentrations of
+credit risk consist principally of investments and trade receivables. Intel 
+places its investments with high-credit-quality counterparties and, by policy, 
+limits the amount of credit exposure to any one counterparty. A substantial 
+majority of the Company's trade receivables are derived from sales to 
+manufacturers of microcomputer systems, with the remainder spread across 
+various other industries. 
+During 1995, the Company experienced an increase in its concentration of credit
+risk due to increasing trade receivables from sales to manufacturers of 
+microcomputer systems. The Company's five largest customers accounted for 
+approximately 33% of net revenues for 1995. At December 30, 1995, these 
+customers accounted for approximately 34% of net accounts receivable. A portion
+of the receivable balance from one of the Company's five largest customers has 
+been converted into a loan. The total amount receivable from this customer was 
+approximately $400 million at December 30, 1995.
+The Company endeavors to keep pace with the evolving computer industry and has 
+adopted credit policies and standards intended to accommodate industry growth 
+and inherent risk. Management believes that credit risks are moderated by the 
+diversity of its end customers and geographic sales areas. Intel performs 
+ongoing credit evaluations of its customers' financial condition and requires 
+collateral as deemed necessary. 
+<TABLE>
+Interest income and other
+(In millions)                        1995             1994             1993
+- ----------------------------------------------------------------------------
+<S>                                <C>              <C>              <C>
+Interest income                    $   272          $   235          $   155
+Foreign currency gains                  29               15               --
+Other income                           114               23               33
+                                   -------          -------          -------
+Total                              $   415          $   273          $   188
+                                   =======          =======          =======
+</TABLE>
+Other income for 1995 included approximately $58 million from the settlement of
+ongoing litigation and $60 million from sales of a portion of the Company's 
+investment in marketable equity securities. Other income for 1994 included non-
+recurring gains from the settlement of various insurance claims. Other income 
+for 1993 included non-recurring gains from the sale of certain benefits related
+to the Company's Irish expansion and dividend income earned on equity 
+investments.
+Provision for taxes 
+The provision for taxes consisted of the following:
+<TABLE>
+(In millions)                        1995             1994             1993
+- ----------------------------------------------------------------------------
+<S>                                <C>              <C>              <C>
+Income before taxes:
+  U.S.                             $ 3,427          $ 2,460          $ 2,587
+  Foreign                            2,211            1,143              943
+                                   -------          -------          -------
+Total income before taxes          $ 5,638          $ 3,603          $ 3,530
+                                   =======          =======          =======
+Provision for taxes:
+Federal:
+  Current                          $ 1,169          $ 1,169          $   946
+  Deferred                             307             (178)              35
+                                   -------          -------          -------
+                                     1,476              991              981
+                                   -------          -------          -------
+State: 
+  Current                              203              162              150
+Foreign: 
+  Current                              354              134              127
+  Deferred                              39               28              (23)
+                                   -------          -------          -------
+                                       393              162              104
+                                   -------          -------          -------
+Total provision for taxes          $ 2,072          $ 1,315          $ 1,235
+                                   =======          =======          =======
+Effective tax rate                   36.8%            36.5%            35.0%
+                                   =======          =======          =======
+</TABLE>
+The tax benefit associated with dispositions from employee stock plans reduced
+taxes currently payable for 1995 by $116 million ($61 million and $68 million
+for 1994 and 1993, respectively). 
+The provision for taxes reconciled to the amount computed by applying the 
+statutory federal rate of 35% to income before taxes as follows:
+<TABLE>
+(In millions)                        1995             1994             1993
+- ----------------------------------------------------------------------------
+<S>                                <C>              <C>              <C>
+Computed expected tax              $ 1,973          $ 1,261          $ 1,235
+State taxes, net of federal 
+  benefits                             132              105               98
+Other                                  (33)             (51)             (98)
+                                   -------          -------          -------
+Provision for taxes                $ 2,072          $ 1,315          $ 1,235
+                                   =======          =======          =======
+</TABLE>
+Deferred income taxes reflect the net tax effects of temporary differences 
+between the carrying amount of assets and liabilities for financial reporting 
+purposes and the amounts used for income tax purposes. 
+Significant components of the Company's deferred tax assets and liabilities at
+fiscal year-ends were as follows: 
+<TABLE>
+(In millions)                                               1995          1994
+- -------------------------------------------------------------------------------
+<S>                                                       <C>           <C>
+Deferred tax assets
+Accrued compensation and benefits                         $    61       $    49
+Deferred income                                               127           127
+Inventory valuation and related reserves                      104           255
+Interest and taxes                                             61            54
+Other, net                                                     55            67
+                                                          -------       -------
+                                                              408           552
+Deferred tax liabilities
+Depreciation                                                 (475)         (338)
+Unremitted earnings of certain subsidiaries                  (116)          (51)
+Other, net                                                    (29)           --
+                                                          -------       -------
+                                                             (620)         (389)
+                                                          -------       -------
+Net deferred tax (liability) asset                        $  (212)      $   163
+                                                          =======       =======
+</TABLE>
+U.S. income taxes were not provided for on a cumulative total of approximately 
+$615 million of undistributed earnings for certain non-U.S. subsidiaries. The 
+Company intends to reinvest these earnings indefinitely in operations outside 
+the United States. 
+The Company's U.S. income tax returns for the years 1978 through 1987 have been
+examined by the Internal Revenue Service (IRS). In 1989, the Company received 
+a notice of proposed deficiencies from the IRS totaling $36 million, exclusive 
+of penalties and interest, for the years 1978 through 1982. These proposed 
+deficiencies relate primarily to operations in Puerto Rico. In 1989, the Company
+filed a petition in the U.S. Tax Court contesting these proposed deficiencies 
+and subsequently reached settlement of certain issues with the IRS. In 1993, 
+the U.S. Tax Court ruled in favor of the Company on an export source issue and 
+for the IRS on another, smaller issue. The IRS appealed the decision to the 
+United States Court of Appeals for the Ninth Circuit, and the Company filed a 
+cross-appeal of the decision. In 1995, the Court of Appeals affirmed the 
+decision of the Tax Court. The IRS has subsequently requested a re-hearing. 
+The Company has also received an examination report for the years 1983 through
+1987. Intel has lodged a protest, which relates solely to the export source 
+issue referenced above, to the IRS Appeals Office, but no decisions have been 
+reached.
+The Company's U.S. income tax returns for the years 1988 through 1990 are 
+presently under examination by the IRS. Final proposed adjustments have not yet
+been received for these years. Management believes that adequate amounts of tax
+and related interest and penalties, if any, have been provided for any 
+adjustments that may result from unsettled portions of the 1978-1987 cases or 
+the years now under examination.
+Employee benefit plans
+Stock option plans. Intel has a stock option plan (hereafter referred to as the
+EOP Plan) under which officers, key employees and non-employee directors may be
+granted options to purchase shares of the Company's authorized but unissued 
+Common Stock. The Company also has an Executive Long-Term Stock Option Plan 
+(ELTSOP) under which certain key executive officers may be granted options to 
+purchase shares of the Company's authorized but unissued Common Stock. Under 
+all plans, the option purchase price is not less than fair market value at the 
+date of grant. The Company accounts for stock options in accordance with APB 
+Opinion No. 25, "Accounting for Stock Issued to Employees." In accordance with 
+SFAS No. 123, "Accounting for Stock-Based Compensation," the Company intends to
+continue to apply APB No. 25 for purposes of determining net income and to 
+adopt the pro forma disclosure requirements for fiscal 1996.
+Options currently expire no later than ten years from the grant date. Proceeds 
+received by the Company from exercises are credited to Common Stock and 
+capital in excess of par value. Additional information with respect to EOP Plan
+activity was as follows:
+<TABLE>
+                                                         Outstanding options
+                                           Shares      -----------------------
+                                        available         Number    Aggregate
+(In millions)                         for options      of shares        price
+- ------------------------------------------------------------------------------
+<S>                                     <C>            <C>          <C>
+December 26, 1992                            65.4           73.6     $   669
+Grants                                      (15.2)          15.2         357
+Exercises                                      --           (9.0)        (56)
+Cancellations                                 1.8           (1.8)        (24)
+                                          -------        -------     -------
+December 25, 1993                            52.0           78.0         946
+Grants                                      (12.0)          12.0         397
+Exercises                                      --           (8.2)        (54)
+Cancellations                                 1.6           (1.6)        (33)
+                                          -------        -------     -------
+December 31, 1994                            41.6           80.2       1,256
+Grants                                      (13.5)          13.5         645
+Exercises                                      --           (9.8)        (81)
+Cancellations                                 3.0           (3.0)        (77)
+                                          -------        -------     -------
+December 30, 1995                            31.1           80.9     $ 1,743
+                                          =======        =======     =======
+Options exercisable at:
+December 25, 1993                                           20.4     $   135
+December 31, 1994                                           26.2     $   198
+December 30, 1995                                           25.3     $   236
+</TABLE>
+The range of exercise prices for options outstanding under the EOP Plan at 
+December 30, 1995 was $3.13 to $69.43. These options will expire if not 
+exercised at specific dates ranging from January 1996 to December 2005. Prices 
+for options exercised during the three-year period ended December 30, 1995 
+ranged from $3.04 to $36.13.
+
+Activity for the ELTSOP Plan is summarized below:
+<TABLE>
+                                                         Outstanding options
+                                           Shares        -------------------
+                                        available         Number     Aggregate
+(In millions)                         for options      of shares        price
+- ------------------------------------------------------------------------------
+<S>                                     <C>             <C>         <C>
+December 26, 1992                            13.2            6.0     $    44
+Grants                                       (0.4)           0.4          11
+Exercises                                      --           (0.8)         (6)
+                                          -------        -------     -------
+December 25, 1993                            12.8            5.6          49
+Exercises                                      --           (0.6)         (4)
+                                          -------        -------     -------
+December 31, 1994                            12.8            5.0          45
+Grants                                       (0.5)           0.5          30
+Exercises                                      --           (0.9)         (6)
+                                          -------        -------     -------
+December 30, 1995                            12.3            4.6     $    69
+                                          =======        =======     =======
+Options exercisable at:
+December 25, 1993                                            1.4     $    11
+December 31, 1994                                            2.6     $    19
+December 30, 1995                                            3.8     $    29
+</TABLE>
+The range of exercise prices for options outstanding under the ELTSOP Plan at
+December 30, 1995 was $7.31 to $60.48. 
+
+These options will expire if not exercised at specific dates ranging from April
+1999 to September 2005. Prices for options exercised during the three-year 
+period ended December 30, 1995 ranged from $7.31 to $7.34.
+Stock participation plan. Under this plan, eligible employees may purchase 
+shares of Intel's Common Stock at 85% of fair market value at specific, 
+predetermined dates. Of the 59.0 million shares authorized to be issued under 
+the plan, 11.9 million shares were available for issuance at December 30, 1995.
+Employees purchased 3.5 million shares in 1995 (4.0 million and 4.4 million in 
+1994 and 1993, respectively) for $110 million ($94 million and $71 million in 
+1994 and 1993, respectively).
+Retirement plans. The Company provides tax-qualified profit-sharing retirement 
+plans (the "Qualified Plans") for the benefit of eligible employees in the U.S.
+and Puerto Rico. The plans are designed to provide employees with an 
+accumulation of funds for retirement on a tax-deferred basis and provide for 
+annual discretionary contributions to trust funds. 
+The Company also provides a non-qualified profit-sharing retirement plan (the 
+"Non-Qualified Plan") for the benefit of eligible employees in the U.S. This 
+plan is designed to permit certain discretionary employer contributions in 
+excess of the tax limits applicable to the Qualified Plans and to permit 
+employee deferrals in excess of certain tax limits. This plan is unfunded.
+The Company accrued $188 million for the Qualified Plans and the Non-Qualified
+Plan in 1995 ($152 million in 1994 and $103 million in 1993). Of the $188 
+million accrued in 1995, the Company expects to fund approximately $145 million
+for the 1995 contribution to the Qualified Plans and to allocate approximately 
+$6 million for the Non-Qualified Plan. The remainder, plus approximately $140 
+million carried forward from prior years, is expected to be contributed to 
+these plans when allowable under IRS regulations and plan rules. Contributions
+made by the Company vest based on the employee's years of service. Vesting 
+begins after three years of service in 20% annual increments until the employee
+is 100% vested after seven years.
+The Company provides tax-qualified defined-benefit pension plans for the 
+benefit of eligible employees in the U.S. and Puerto Rico. Each plan provides 
+for minimum pension benefits that are determined by a participant's years of 
+service, final average compensation (taking into account the participant's 
+social security wage base) and the value of the Company's contributions, plus 
+earnings, in the Qualified Plan. If the balance in the participant's Qualified 
+Plan exceeds the pension guarantee, the participant will receive benefits from 
+the Qualified Plan only. Intel's funding policy is consistent with the funding 
+requirements of federal laws and regulations.
+Pension expense for 1995, 1994 and 1993 for the U.S. and Puerto Rico plans was 
+less than $1 million per year, and no component of expense exceeded $2 million.
+The funded status of these plans as of December 30, 1995 and December 31, 1994 
+was as follows:
+<TABLE>
+(In millions)                                               1995          1994
+- --------------------------------------------------------------------------------
+<S>                                                       <C>           <C> 
+Vested benefit obligation                                 $    (3)      $    (3)
+                                                          =======       =======
+Accumulated benefit obligation                            $    (4)      $    (3)
+                                                          =======       =======
+Projected benefit obligation                              $    (6)      $    (5)
+Fair market value of plan assets                                8             6
+                                                          -------       -------
+Projected benefit obligation less than plan assets              2             1
+Unrecognized net (gain)                                       (12)          (12)
+Unrecognized prior service cost                                 3             4
+                                                          -------       -------
+Accrued pension costs                                     $    (7)      $    (7)
+                                                          =======       =======
+</TABLE>
+At fiscal year-ends, the weighted average discount rates and Long-Term rates 
+for compensation increases used for estimating the benefit obligations and the 
+expected return on plan assets were as follows:
+<TABLE>
+                                     1995             1994             1993
+- ----------------------------------------------------------------------------
+<S>                                  <C>              <C>              <C>
+Discount rate                         7.0%             8.5%             7.0%
+Rate of increase in compensation 
+  levels                              5.0%             5.5%             5.0%
+Expected Long-Term return on assets   8.5%             8.5%             8.5%
+</TABLE>
+Plan assets of the U.S. and Puerto Rico plans consist primarily of listed 
+stocks and bonds, repurchase agreements, money market securities, U.S. 
+government securities and stock index derivatives.
+The Company provides defined-benefit pension plans in certain foreign countries 
+where required by statute. The Company's funding policy for foreign defined-
+benefit plans is consistent with the local requirements in each country. 
+Pension expense for 1995, 1994 and 1993 for the foreign plans included the 
+following:
+<TABLE>
+(In millions)                        1995             1994             1993
+- ----------------------------------------------------------------------------
+<S>                               <C>              <C>              <C>
+Service cost-benefits earned 
+  during the year                  $     9          $     5          $     5
+Interest cost of projected 
+  benefit obligation                     6                5                6
+Actual investment (return)
+  on plan assets                        (4)              (8)              (7)
+Net amortization and deferral           (2)               3                2
+                                   -------          -------          -------
+Net pension expense                $     9          $     5          $     6
+                                   =======          =======          =======
+</TABLE>
+The funded status of the foreign defined-benefit plans as of December 30, 1995 
+and December 31, 1994 is summarized below: 
+<TABLE>
+                                                     Assets          Accu-
+                                                     exceed          mulated
+                                                     accu-           benefits
+1995                                                 mulated         exceed
+(In millions)                                        benefits        assets
+- ------------------------------------------------------------------------------
+<S>                                                  <C>             <C>
+Vested benefit obligation                             $   (44)        $    (8)
+                                                      =======         =======
+Accumulated benefit obligation                        $   (46)        $   (14)
+                                                      =======         =======
+Projected benefit obligation                          $   (62)        $   (22)
+Fair market value of plan assets                           67               4
+                                                      -------         -------
+Projected benefit obligation less than
+  (in excess of) plan assets                                5             (18)
+Unrecognized net loss                                       4               5
+Unrecognized net transition obligation                      2              --
+                                                      -------         -------
+Prepaid (accrued) pension costs                       $    11         $   (13)
+                                                      =======         =======
+
+                                                     Assets          Accu-
+                                                     exceed          mulated
+                                                     accu-           benefits
+1994                                                 mulated         exceed
+(In millions)                                        benefits        assets
+- ------------------------------------------------------------------------------
+Vested benefit obligation                             $   (32)        $    (4)
+                                                      =======         =======
+Accumulated benefit obligation                        $   (34)        $    (9)
+                                                      =======         =======
+Projected benefit obligation                          $   (49)        $   (16)
+Fair market value of plan assets                           51               3
+                                                      -------         -------
+Projected benefit obligation 
+  less than (in excess of) plan assets                      2             (13)
+Unrecognized net loss                                       2               2
+Unrecognized net transition obligation                     --               1
+                                                      -------         -------
+Prepaid (accrued) pension costs                       $     4         $   (10)
+                                                      =======         =======
+</TABLE>
+At fiscal year-ends, the weighted average discount rates and Long-Term rates 
+for compensation increases used for estimating the benefit obligations and the 
+expected return on plan assets were as follows:
+<TABLE>
+                                     1995             1994             1993
+- -----------------------------------------------------------------------------
+<S>                                <C>              <C>              <C>
+Discount rate                      5.5%-14%         5.5%-14%         5.5%-14%
+Rate of increase in 
+  compensation levels              4.5%-11%         4.5%-11%         4.5%-11%
+Expected Long-Term return on 
+  assets                           5.5%-14%         5.5%-14%         5.5%-14%
+</TABLE>
+Plan assets of the foreign plans consist primarily of listed stocks, bonds and 
+cash surrender value life insurance policies.
+Other postemployment benefits. The Company has adopted SFAS No. 106, 
+"Employers' Accounting for Postretirement Benefits Other Than Pensions," and 
+SFAS No. 112, "Employers' Accounting for Postemployment Benefits." There was 
+no material impact on the Company's financial statements for the periods 
+presented.
+Commitments
+The Company leases a portion of its capital equipment and certain of its 
+facilities under operating leases that expire at various dates through 2011. 
+Rental expense was $38 million in 1995, $38 million in 1994 and $35 million in 
+1993. Minimum rental commitments under all non-cancelable leases with an 
+initial term in excess of one year are payable as follows: 1996--$25 million; 
+1997--$20 million; 1998--$15 million; 1999--$12 million; 2000--$10 million; 2001
+and beyond--$23 million. Commitments for construction or purchase of property, 
+plant and equipment approximated $1.47 billion at December 30, 1995. In 
+connection with certain manufacturing arrangements, Intel had minimum purchase 
+commitments of approximately $1.12 billion at December 30, 1995 for flash 
+memories and other memory components and for production capacity of board-level
+products.
+Contingencies
+On March 29, 1995, Thorn EMI North America Inc. brought suit in Federal Court 
+in Delaware against Intel and Advanced Micro Devices, Inc. (AMD) alleging 
+infringement of a U.S. patent relating to processes for manufacturing 
+semiconductors, certain of which processes are utilized in the manufacture of 
+the Company's Pentium(R) and Pentium(R) Pro microprocessors. The plaintiff is 
+seeking injunctive relief and unspecified damages. On September 8, 1995, Intel 
+was granted a motion to sever its case from the AMD case. Trial of the 
+plaintiff's claims against Intel is presently set for June 1996. The Company 
+believes this lawsuit to be without merit and intends to defend the lawsuit 
+vigorously. Although the ultimate outcome of this lawsuit cannot be determined 
+at this time, management, including internal counsel, does not believe that the
+outcome of this litigation will have a material adverse effect on the Company's
+financial position or overall trends in results of operations.
+Intel has been named to the California and U.S. Superfund lists for three of 
+its sites and has completed, along with two other companies, a Remedial 
+Investigation/Feasibility study with the U.S. Environmental Protection Agency 
+(EPA) to evaluate the groundwater in areas adjacent to one of its former sites.
+The EPA has issued a Record of Decision with respect to a groundwater cleanup 
+plan at that site, including expected costs to complete. Under the California 
+and U.S. Superfund statutes, liability for cleanup of this site and the 
+adjacent area is joint and several. The Company, however, has reached agreement
+with those same two companies which significantly limits the Company's 
+liabilities under the proposed cleanup plan. Also, the Company has completed 
+extensive studies at its other sites and is engaged in cleanup at several of 
+these sites. In the opinion of management, including internal counsel, the 
+potential losses to the Company in excess of amounts already accrued arising 
+out of these matters will not have a material adverse effect on the Company's 
+financial position or overall trends in results of operations, even if joint 
+and several liability were to be assessed. 
+The Company is party to various other legal proceedings. In the opinion of 
+management, including internal counsel, these proceedings will not have a 
+material adverse effect on the financial position or overall trends in results 
+of operations of the Company. 
+The estimate of the potential impact on the Company's financial position or 
+overall results of operations for the above legal proceedings could change in 
+the future.
+Industry segment reporting
+The Company operates predominantly in one industry segment. The Company 
+designs, develops, manufactures and markets microcomputer components and 
+related products at various levels of integration. The Company sells its 
+products directly to original equipment manufacturers (OEMs) and also to a 
+network of industrial and retail distributors throughout the world. The 
+Company's principal markets are in the United States, Europe, Asia-Pacific and 
+Japan, with the U.S. and Europe being the largest based on revenues. The 
+Company's major products include microprocessors and related board-level 
+products, chipsets, embedded processors and microcontrollers, flash memory 
+chips, and network and communications products. Microprocessors and related 
+board-level products account for a substantial majority of the Company's net 
+revenues. No customer exceeded 10% of revenues in 1995 or 1994. One significant
+customer accounted for 10% of revenues in 1993. Summary balance sheet 
+information for operations outside the United States at 
+Fiscal year-ends is as follows:
+<TABLE>
+(In millions)                                               1995          1994
+- -------------------------------------------------------------------------------
+<S>                                                       <C>           <C>
+Total assets                                              $ 4,404       $ 2,940
+Total liabilities                                         $ 1,661       $   962
+Net property, plant and equipment                         $ 1,414       $ 1,238
+</TABLE>
+Geographic information for the three years ended December 30, 1995 is presented
+in the following table. Transfers between geographic areas are accounted for at
+amounts that are generally above cost and consistent with rules and regulations
+of governing tax authorities. Such transfers are eliminated in the consolidated
+financial statements. Operating income by geographic segment does not include 
+an allocation of general corporate expenses. identifiable assets are those that 
+can be directly associated with a particular geographic area. Corporate assets 
+include cash and cash equivalents, short-term investments, deferred tax assets,
+other current assets, long-term investments and certain other assets.
+<TABLE>
+                                   Transfers
+                       Sales to      between                            Identi-
+(In millions)      unaffiliated   geographic         Net    Operating    fiable
+1995                  customers        areas    revenues       income    assets
+- -------------------------------------------------------------------------------
+<S>                     <C>          <C>         <C>          <C>       <C>
+United States           $ 7,922      $ 6,339     $14,261      $ 3,315   $12,603
+Europe                    4,560        1,190       5,750        1,383     2,517
+Japan                     1,737           28       1,765          353       665
+Asia-Pacific              1,983        1,566       3,549          271       893
+Other                        --          684         684          410       329
+Eliminations                 --       (9,807)     (9,807)         124    (3,651)
+Corporate                    --           --          --         (604)    4,148
+                        -------      -------     -------      -------   -------
+Consolidated            $16,202      $    --     $16,202      $ 5,252   $17,504
+                        =======      =======     =======      =======   =======
+
+1994
+- -------------------------------------------------------------------------------
+United States           $ 5,826      $ 4,561     $10,387      $ 2,742   $ 7,771
+Europe                    3,158          380       3,538          418     1,733
+Japan                       944           61       1,005          125       343
+Asia-Pacific              1,593        1,021       2,614          154       540
+Other                        --          639         639          378       324
+Eliminations                 --       (6,662)     (6,662)         179    (1,878)
+Corporate                    --           --          --         (609)    4,983
+                        -------      -------     -------      -------   -------
+Consolidated            $11,521      $    --     $11,521      $ 3,387   $13,816
+                        =======      =======     =======      =======   =======
+
+1993
+- -------------------------------------------------------------------------------
+United States           $ 4,416      $ 3,406     $ 7,822      $ 2,896   $ 5,379
+Europe                    2,476           51       2,527          309     1,214
+Japan                       678          119         797          108       351
+Asia-Pacific              1,212          745       1,957          132       420
+Other                        --          566         566          348       207
+Eliminations                 --       (4,887)     (4,887)          85    (1,123)
+Corporate                    --           --          --         (486)    4,896
+                        -------      -------     -------      -------   -------
+Consolidated            $ 8,782      $    --     $ 8,782      $ 3,392   $11,344
+                         =======      =======     =======      =======   =======
+</TABLE>
+Supplemental information (unaudited)
+Quarterly information for the two years ended December 30, 1995 is presented on
+page 31. 
+
+
+
+Report Of Ernst & Young LLP,  Independent Auditors
+The Board of Directors and 
+Stockholders, Intel Corporation
+We have audited the accompanying consolidated balance sheets of Intel 
+Corporation as of December 30, 1995 and December 31, 1994, and the related 
+consolidated statements of income, stockholders' equity, and cash flows for 
+each of the three years in the period ended December 30, 1995. These financial 
+statements are the responsibility of the Company's management. Our 
+responsibility is to express an opinion on these financial statements based 
+on our audits.
+We conducted our audits in accordance with generally accepted auditing 
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of 
+material misstatement. An audit includes examining, on a test basis, evidence 
+supporting the amounts and disclosures in the financial statements. An audit 
+also includes assessing the accounting principles used and significant 
+estimates made by management, as well as evaluating the overall financial 
+statement presentation. We believe that our audits provide a reasonable basis 
+for our opinion.
+In our opinion, the consolidated financial statements referred to above 
+present fairly, in all material respects, the consolidated financial position 
+of Intel Corporation at December 30, 1995 and December 31, 1994, and the 
+consolidated results of its operations and its cash flows for each of the three
+years in the period ended December 30, 1995, in conformity with generally 
+accepted accounting principles.
+
+
+San Jose, California
+January 15, 1996
+
+Financial Summary
+Ten Years Ended December 30, 1995 
+<TABLE>
+                                                                      Additions
+                 Net investment             Long-term      Stock-  to property,
+                   in property,     Total  debt & put    holders'       plant &
+(In millions)    plant & equip.    assets    warrants      equity     equipment
+- -------------------------------------------------------------------------------
+<S>                  <C>         <C>         <C>         <C>          <C>
+1995                  $ 7,471     $17,504     $ 1,125     $12,140      $ 3,550
+1994                  $ 5,367     $13,816     $ 1,136     $ 9,267      $ 2,441
+1993                  $ 3,996     $11,344     $ 1,114     $ 7,500      $ 1,933
+1992                  $ 2,816     $ 8,089     $   622     $ 5,445      $ 1,228
+1991                  $ 2,163     $ 6,292     $   503     $ 4,418      $   948
+1990                  $ 1,658     $ 5,376     $   345     $ 3,592      $   680
+1989                  $ 1,284     $ 3,994     $   412     $ 2,549      $   422
+1988                  $ 1,122     $ 3,550     $   479     $ 2,080      $   477
+1987                  $   891     $ 2,499     $   298     $ 1,276      $   302
+1986                  $   779     $ 1,977     $   287     $ 1,245      $   155
+</TABLE>
+<TABLE>
+(In millions--except per share amounts)
+                           Research  Operating        Net   Earnings  Dividends
+           Net   Cost of   & devel-     income     income      (loss)  declared
+      revenues     sales     opment      (loss)     (loss) per share  per share
+- -------------------------------------------------------------------------------
+<S>    <C>       <C>        <C>        <C>        <C>        <C>        <C>
+1995   $16,202   $ 7,811    $ 1,296    $ 5,252    $ 3,566    $  4.03    $  0.15
+1994   $11,521   $ 5,576    $ 1,111    $ 3,387    $ 2,288    $  2.62    $ 0.115
+1993   $ 8,782   $ 3,252    $   970    $ 3,392    $ 2,295    $  2.60    $  0.10
+1992   $ 5,844   $ 2,557    $   780    $ 1,490    $ 1,067    $  1.24    $  0.05
+1991   $ 4,779   $ 2,316    $   618    $ 1,080    $   819    $  0.98         --
+1990   $ 3,921   $ 1,930    $   517    $   858    $   650    $  0.80         --
+1989   $ 3,127   $ 1,721    $   365    $   557    $   391    $  0.52         --
+1988   $ 2,875   $ 1,506    $   318    $   594    $   453    $  0.63         --
+1987   $ 1,907   $ 1,044    $   260    $   246    $   248    $  0.34         --
+1986   $ 1,265   $   861    $   228    $  (195)   $  (203)   $ (0.29)        --
+</TABLE>
+Management's  Discussion And Analysis Of Financial Condition 
+And Results Of Operations
+Results of operations. Intel posted record net revenues in 1995, for the 
+ninth consecutive year, rising by 41% from 1994 to 1995 and by 31% from 1993 
+to 1994. Higher volumes of the rapidly ramping Pentium(R) microprocessor 
+family, partially offset by lower prices, and increased sales of related board-
+level products were responsible for most of the growth in revenues in 1994 and 
+1995. Revenues from the Intel486(TM) microprocessor family declined 
+substantially in 1995 due to a shift in market demand toward the Company's 
+Pentium microprocessors and lower Intel486 microprocessor prices.
+Higher volumes of flash memory and chipset products also contributed toward the
+increase in revenues from 1993 to 1995 and also helped enable the successful 
+Pentium microprocessor ramp. Sales of system platforms, embedded control 
+products, and networking and communications products also grew.
+Cost of sales increased by 40% from 1994 to 1995 and by 71% from 1993 to 1994. 
+The growth in cost of sales from 1993 to 1995 was driven by Pentium 
+microprocessor and board-level unit volume growth, new factories coming into 
+production, shifts in process and product mix, and in the fourth quarter of 
+1995, by costs associated with unusually high reserves related to inventories 
+of certain purchased components. Gross margin for the fourth quarter of 1994 
+included the impact of a $475 million charge, primarily to cost of sales, to 
+cover replacement costs, replacement material and an inventory writedown 
+related to a divide problem in the floating point unit of the Pentium 
+microprocessor. As a result of the above factors, the gross margin percentage 
+was 52% in 1995 and 1994, compared to 63% in 1993.
+Quarterly unit shipments of the Pentium microprocessor family surpassed those 
+of the Intel486 microprocessor family during the third quarter of 1995. The 
+Company helped accelerate this transition by offering chipsets and motherboards
+to enable computer manufacturers to bring their products to market faster. 
+Sales of the Pentium microprocessor family comprised a majority of the 
+Company's revenues and a substantial majority of its gross margin during 1995.
+During 1995, the Intel486 microprocessor family represented a significant but 
+rapidly declining portion of the Company's revenues and gross margins. The 
+Intel486 microprocessor family comprised a majority of the Company's revenues 
+and a substantial majority of its gross margin during 1993 and 1994. 
+Research and development spending grew by 17% from 1994 to 1995, as the Company
+continued to invest in strategic programs, particularly for the internal 
+development of microprocessor products and related manufacturing technology. 
+Increased spending for marketing programs, including media merchandising and 
+the Company's Intel Inside(R) cooperative advertising program, drove the 27% 
+increase in marketing, general and administrative expenses from 1994 to 1995.
+The $28 million decrease in interest expense from 1994 to 1995 was mainly due 
+to lower average borrowing balances in addition to higher interest 
+capitalization resulting from increased facility construction programs. The 
+increase in interest expense from 1993 to 1994 was primarily due to higher 
+average interest rates on borrowings, partially offset by higher interest 
+capitalization.
+Interest and other income increased by $142 million from 1994 to 1995, 
+primarily due to higher average interest rates on investments in 1995, gains 
+of $58 million related to the settlement of litigation and gains of $60 
+million from the sale of a portion of the Company's investment in marketable 
+equity securities. Interest and other income increased by $85 million from 1993
+to 1994, mainly due to higher average interest rates on investments in 1994, 
+gains related to the settlement of various insurance claims in 1994, and 
+higher foreign exchange gains and investment balances in 1994. Interest and 
+other income in 1993 included gains of $27 million from the sale of certain 
+foreign benefits related to a plant expansion in Ireland during 1993. 
+The Company utilizes investments and corresponding interest rate swaps to 
+preserve principal while enhancing the yield on its investment portfolio 
+without significantly increasing risk, and uses forward contracts, options and 
+swaps to hedge currency, market and interest rate exposures. Gains and losses 
+on these instruments are generally offset by those on the underlying hedged 
+transactions; as a result, there was no material net impact on the Company's
+financial results during the 1993- 1995 period.
+The Company's effective income tax rate increased to 36.8% in 1995 compared to 
+36.5% and 35.0% in 1994 and 1993, respectively. The increases in rate from 
+1993 to 1995 resulted from the fact that tax credits have not grown as rapidly 
+as overall pretax income. 
+Financial condition. The Company's financial condition remains very strong. As 
+of December 30, 1995, total cash and short- and long-term investments totaled 
+$4.11 billion, down from $4.54 billion at December 31, 1994. Cash generated 
+from operating activities rose to $4.03 billion in 1995, compared to $2.98 
+billion and $2.80 billion in 1994 and 1993, respectively.
+Investing activities consumed $2.69 billion in cash during 1995, compared to 
+$2.90 billion during 1994 and $3.34 billion during 1993. Capital expenditures 
+increased substantially in both 1994 and 1995, as the Company continued to 
+invest in the property, plant and equipment needed for future business 
+requirements, including manufacturing capacity. The Company expects to spend 
+approximately $4.1 billion for capital additions in 1996 and had committed 
+approximately $1.47 billion for the construction or purchase of property, plant 
+and equipment as of December 30, 1995.
+Inventory levels, particularly raw materials and finished goods, increased 
+significantly in 1995. This increase was primarily attributable to the increased
+level of business and, to a lesser extent, to an unusually low level of 
+inventory at the end of 1994 because of a writedown of inventories in the 
+fourth quarter of 1994 in connection with the divide problem in the floating 
+point unit of the Pentium processor. The increase in accounts receivable in 
+1995 was mainly due to revenue growth, including the growth of non-domestic 
+sales that have longer payment terms. During 1995, the Company experienced an 
+increase in its concentration of credit risk due to increasing trade 
+receivables from sales to manufacturers of microcomputer systems. The Company's
+five largest customers accounted for approximately 33% of net revenues for 
+1995. At December 30, 1995, these customers accounted for approximately 34% of 
+net accounts receivable. A portion of the receivable balance from one of its 
+five largest customers has been converted into a loan. The total amount 
+receivable from this customer was approximately $400 million at December 30, 
+1995.
+The Company used $1.06 billion and $557 million for financing activities in 
+1995 and 1994, respectively, while $352 million was provided in 1993. The major
+financing application of cash in 1995 was for stock repurchases totaling $1.03 
+billion. Financing applications of cash in 1994 included stock repurchases of 
+$658 million and the early retirement of the Company's 8 1/8% debt. Sources of 
+financing in 1993 included the Company's public offering of the 1998 Step-Up 
+Warrants, which resulted in proceeds of $287 million.
+As part of its authorized stock repurchase program, the Company had outstanding
+put warrants at the end of 1995, with the potential obligation to buy back 12 
+million shares of its Common Stock at an aggregate price of $725 million. The 
+exercise price of these warrants ranges from $38 to $68 per share, with an 
+average exercise price of $60 per share.
+Other sources of liquidity include combined credit lines and authorized 
+commercial paper borrowings of $1.86 billion, $57 million of which was 
+outstanding at December 30, 1995. The Company also maintains the ability to 
+issue an aggregate of approximately $1.4 billion in debt, equity and other 
+securities under Securities and Exchange Commission (SEC) shelf registration 
+statements. The Company believes that it has the financial resources needed to 
+meet business requirements in the foreseeable future, including capital 
+expenditures for the recently announced expansion of international 
+manufacturing sites, working capital requirements, the potential put warrant 
+obligation and the dividend program.
+Outlook. The statements contained in this Outlook are based on current 
+expectations. These statements are forward looking, and actual results may 
+differ materially. 
+Intel expects that the total number of personal computers using Intel's 
+Pentium microprocessors and other semiconductor components sold worldwide will 
+continue to grow in 1996. Intel has expanded manufacturing capacity over the 
+last few years and continues to expand capacity to be able to meet the 
+potential increase in demand. Intel's financial results are to a large extent 
+dependent on this market segment. Revenue is also a function of the 
+distribution of microprocessor speed and performance levels, which is difficult
+to forecast. Because of the large price difference between components for the 
+highest and lowest performance computers, this distribution affects the 
+average price Intel will realize and has a large impact on Intel's revenues.
+Intel's strategy has been, and continues to be, to introduce ever higher 
+performance microprocessors and work with the software industry to develop 
+compelling applications that can take advantage of this higher performance, 
+thus driving demand toward the newer products. Capacity has been planned based 
+on the assumed continued success of the Company's strategy. 
+In line with this strategy, the Company has recently announced higher speed 
+members of the Pentium(R) Pro microprocessor family. If the market demand does 
+not continue to grow and move rapidly toward higher performance products, 
+revenue growth may be impacted, the manufacturing capacity installed might be 
+under-utilized and capital spending may be slowed. The Company may continue to 
+reduce microprocessor prices aggressively and systematically to bring its 
+technology to market.
+The Company's gross margin percentage is a sensitive function of the product 
+mix sold in any period. Because the percentage of motherboards that Intel's 
+customers purchase changes with maturity of the product cycle, and motherboards
+generally have lower gross margin percentages than microprocessors, Intel's 
+gross margin percentage varies depending on the mix of microprocessors and 
+related motherboards within a product family. Various other factors, including 
+unit volumes and costs and yield issues associated with initiating production 
+at new factories or on new processes, also will continue to affect the amount 
+of cost of sales and the variability of gross margin percentages in future 
+quarters. From time to time the Company may forecast a range of gross margin
+percentages for the coming quarter. Actual results may differ. Longer term 
+gross margin percentages are even more difficult to predict.
+To implement its strategy, Intel continues to build capacity to produce high-
+performance microprocessors and other products. The Company expects that 
+capital spending will increase to approximately $4.1 billion in 1996. This 
+spending plan is dependent upon delivery times of various machines and 
+construction schedules for new facilities. Based on this forecast, depreciation
+for 1996 is expected to be approximately $1.9 billion, an increase of 
+approximately $500 million from 1995. Most of this increased depreciation will 
+be included in cost of sales and research and development spending.
+The industry in which Intel operates is characterized by very short product 
+life cycles. Intel considers it imperative to maintain a strong research and 
+development program to continue to succeed. Accordingly, research and 
+development spending is expected to grow in 1996 to approximately $1.6 billion.
+The Company will also continue spending to promote its products and to increase
+the value of its product brands. Based on current forecasts, spending for 
+marketing and general and administrative expenses is expected to increase in 
+1996.
+The Company expects its tax rate to decrease to 36.5% for 1996. This estimate 
+is based on current tax law and is subject to change.
+The Company's future results of operations and the other forward looking 
+statements contained in this Outlook, in particular the statements regarding 
+growth in the personal computer industry, capital spending, depreciation, 
+research and development, and marketing and general and administrative 
+expenses, involve a number of risks and uncertainties. In addition to the 
+factors discussed above, among the other factors that could cause actual 
+results to differ materially are the following: business conditions and the 
+general economy; competitive factors, such as rival chip architectures, 
+competing software compatible microprocessors, acceptance of new products and 
+price pressures; availability of third-party component products at reasonable 
+prices; risk of nonpayment of accounts receivable or customer loans; 
+manufacturing ramp and capacity; risks associated with foreign operations; risk
+of inventory obsolescence due to shifts in market demand; timing of software 
+industry product introductions; and litigation involving intellectual property 
+and consumer issues.
+Intel believes that it has the product offerings, facilities, personnel, and
+competitive and financial resources for continued business success, but future
+revenues, costs, margins, product mix and profits are all influenced by a number
+of factors, as discussed above.
+
+Financial Information  By Quarter 
+(In millions--except per share data)
+(Unaudited)
+<TABLE>
+1995 for quarter ended      December 30  September 30       July 1      April 1
+- -------------------------------------------------------------------------------
+<S>                             <C>           <C>          <C>          <C>
+Net revenues                    $ 4,580       $ 4,171      $ 3,894      $ 3,557
+Cost of sales                   $ 2,389       $ 2,008      $ 1,805      $ 1,609
+Net income                      $   867       $   931      $   879      $   889
+Earnings per share              $   .98       $  1.05      $   .99      $  1.02
+Dividends per share(A) 
+               Declared         $   .04       $   .04      $   .04      $   .03
+               Paid             $   .04       $   .04      $   .03      $   .03
+Market price range Common 
+  Stock(B)     High             $ 72.88       $ 76.44      $ 65.63      $ 44.25
+               Low              $ 56.75       $ 58.63      $ 42.75      $ 31.81
+Market price range Step-Up 
+  Warrants(B)  High             $ 39.00       $ 43.63      $ 31.88      $ 11.91
+               Low              $ 26.75       $ 30.44      $ 11.31      $  6.97
+
+(In millions-except per share data)
+1994 for quarter ended      December 31     October 1       July 2      April 2
+- -------------------------------------------------------------------------------
+Net revenues                    $ 3,228       $ 2,863      $ 2,770      $ 2,660
+Cost of sales                   $ 2,023       $ 1,273      $ 1,156      $ 1,124
+Net income                      $   372(C)    $   659      $   640      $   617
+Earnings per share              $   .43       $   .76      $   .73      $   .70
+Dividends per share(A) 
+               Declared         $   .03       $   .03      $   .03      $  .025
+               Paid             $   .03       $   .03      $  .025      $  .025
+Market price range Common 
+  Stock(B)     High             $ 33.06       $ 33.63      $ 35.31      $ 36.13
+               Low              $ 28.91       $ 28.25      $ 28.75      $ 30.63
+Market price range Step-Up 
+  Warrants(B)  High             $  7.50       $  8.00      $  9.22      $  9.75
+               Low              $  6.16       $  6.50      $  6.50      $  7.56
+</TABLE>
+(A) Intel plans to continue its dividend program. However, dividends are 
+dependent on future earnings, capital requirements and financial condition.
+(B) Intel's Common Stock (symbol INTC) and 1998 Step-Up Warrants (symbol INTCW)
+trade on The Nasdaq Stock Market  and are quoted in the Wall Street Journal 
+and other newspapers. Intel's Common Stock also trades on the Zurich, Basel and
+Geneva, Switzerland exchanges. At December 30, 1995, there were approximately 
+69,400 holders of Common Stock. All stock and warrant prices are closing prices
+per The Nasdaq Stock Market.
+(C) Net income for the fourth quarter of 1994 was impacted by a $475 million 
+pretax charge to revenue and cost of sales to cover replacement and other costs
+associated with a divide problem in the floating point unit of the Company's 
+Pentium processor.
+
+
+GRAPHICS APPENDIX LIST*
+ 
+* In this Appendix, the following descriptions of graphs on pages 28 and 29 of
+the Company's 1995 Annual Report to Stockholders that are omitted from the 
+EDGAR text are more specific with respect to the actual amounts and percentages
+than can be determined from the graphs themselves.
+ 
+The Company submits such more specific descriptions only for the purpose of
+complying with EDGAR requirements for transmitting this Annual Report on Form
+10-K; such more specific descriptions are not intended in any way to provide
+information that is additional to that otherwise provided in the 1995 Annual
+Report to Stockholders.
+ 
+<TABLE>
+REVENUES AND INCOME
+(Dollars in billions)                               1993      1994      1995
+                                                  ------    ------    ------
+<S>                                               <C>       <C>       <C>
+Net revenues                                       8.782    11.521    16.202
+Net income                                         2.295     2.288     3.566
+
+
+COSTS AND EXPENSES
+(Percent of revenues)                              1993      1994      1995
+                                                 ------    ------    ------
+Cost of sales                                       37%       48%       48%
+R&D                                                 11%       10%        8%
+Marketing and G&A                                   13%       13%       11%
+ 
+ 
+OTHER INCOME AND EXPENSE
+(Dollars in millions)                              1993      1994      1995
+                                                 ------    ------    ------
+Interest and other income                           188       273       415
+Interest expense                                     50        57        29
+
+
+
+CASH AND INVESTMENTS
+(Dollars in billions)                                        1994      1995
+                                                           ------    ------
+Cash and cash equivalents                                   1.180     1.463
+Short-term investments                                      1.230      .995
+Long-term investments                                       2.127     1.653
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>5
+<TEXT>
+
+EXHIBIT 21
+
+
+
+
+
+                               INTEL CORPORATION
+
+
+                                  SUBSIDIARIES
+
+                                (All 100% Owned)
+
+
+
+Intel International
+(Incorporated in California)
+
+Intel Overseas Corp.
+(Incorporated in California)
+
+Synchroquartz (U.S.) Corp.
+(Incorporated in California)
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23
+<SEQUENCE>6
+<TEXT>
+
+EXHIBIT 23
+
+CONSENT OF ERNST & YOUNG LLP, INDEPENDENT AUDITORS
+
+We consent to the incorporation by reference in this Annual Report (Form 10-K) 
+of Intel Corporation of our report dated January 15, 1996, included in the 1995
+Annual Report to Stockholders of Intel Corporation.
+
+Our audits also included the financial statement schedule of Intel Corporation 
+listed in Item 14(a).  This schedule is the responsibility of the Company's 
+management.  Our responsibility is to express an opinion based on our audits. 
+In our opinion, the financial statement schedule referred to above, when 
+considered in relation to the basic financial statements taken as a whole, 
+presents fairly in all material respects the information set forth therein.
+
+We also consent to the incorporation by reference in the Registration 
+Statements (Form S-8 Nos. 33-10392, 2-73464, 2-56648, 33-33983, 2-90217, 
+33-29672, 33-41771, and 33-63489; and Form S-3 Nos. 33-20117, 33-54220, 
+33-58964, 33-49827, 33-50971 and 33-56107) of our report dated January 15, 
+1996, with respect to the financial statements incorporated herein by 
+reference, and our report included in the preceding paragraph with respect to 
+the financial statement schedule included in this Annual Report (Form 10-K) of 
+Intel Corporation.
+
+                                                    /s/Ernst & Young LLP
+
+San Jose, California
+March 27, 1996
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>7
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary information extracted from Intel Corporation's
+CONSOLIDATED CONDENSED STATEMENTS OF INCOME AND CONSOLIDATED CONDENSED BALANCE
+SHEETS and is qualified in its entirety by reference to such financial
+statements.
+</LEGEND>
+       
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          DEC-30-1995
+<PERIOD-END>                               DEC-30-1995
+<CASH>                                            1463
+<SECURITIES>                                       995
+<RECEIVABLES>                                     3173
+<ALLOWANCES>                                        57
+<INVENTORY>                                       2004
+<CURRENT-ASSETS>                                  8097
+<PP&E>                                           11792
+<DEPRECIATION>                                    4321
+<TOTAL-ASSETS>                                   17504
+<CURRENT-LIABILITIES>                             3619
+<BONDS>                                            400
+<COMMON>                                          2583
+<PREFERRED-MANDATORY>                              725<F1>
+<PREFERRED>                                          0
+<OTHER-SE>                                           0
+<TOTAL-LIABILITY-AND-EQUITY>                     17504
+<SALES>                                          16202
+<TOTAL-REVENUES>                                 16202
+<CGS>                                             7811
+<TOTAL-COSTS>                                     7811
+<OTHER-EXPENSES>                                  1296<F2>
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  29
+<INCOME-PRETAX>                                   5638
+<INCOME-TAX>                                      2072
+<INCOME-CONTINUING>                               3566
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      3566
+<EPS-PRIMARY>                                     4.03
+<EPS-DILUTED>                                        0
+<FN>
+<F1>Item consists of put warrants.
+<F2>Item consists of research and development.
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-4
+<SEQUENCE>8
+<TEXT>
+
+Exhibit 4.2
+
+THIRD AMENDMENT TO WARRANT AGREEMENT
+
+This Third Amendment to Warrant Agreement (this "Amendment") is made and 
+entered into as of May 1, 1995, by and between Intel Corporation, a Delaware 
+corporation (the "Company"), and Harris Trust and Savings Bank, an Illinois 
+banking corporation ("Harris"), as Warrant Agent, for purposes of amending that
+certain Warrant Agreement -- 1998 Step-Up Warrants to Purchase Common Stock, 
+dated March 1, 1993, as amended by that certain First Amendment to Warrant 
+Agreement, dated October 18, 1993, and that certain Second Amendment to Warrant
+Agreement, dated January 17, 1994 (collectively, the "Warrant Agreement").
+
+RECITALS
+(a)     The Company issued 1998 Step-Up Warrants (the "Warrants") entitling 
+holders to purchase 20,000,000 shares of the Company's Common Stock, $.001 par 
+value (the "Common Stock") (as adjusted for previous stock splits);
+(b)     On April 27, 1995, the Company's Board of Directors declared a two for 
+one stock split to be effected as a special stock distribution of one share of 
+Common Stock for each share of Common Stock outstanding (the "Split"); and
+(c)     Pursuant to Sections 14(a), (h) and (k) of the Agreement, the Warrants 
+will be adjusted, as of the June 16, 1995 payment date for the Split (the 
+"Payment Date"), by reducing the per share exercise prices of each Warrant to 
+one-half of the per share exercise prices in effect immediately prior to the 
+Payment Date, and by issuing to each Warrant holder of record on the May 19, 
+1995 record date for the Split, one additional Warrant at the adjusted per 
+share exercise prices for each Warrant held as of such record date.
+
+AGREEMENT
+NOW, THEREFORE, for good and valuable consideration, the receipt and 
+sufficiency of which are hereby acknowledged, the Company and Harris agree as 
+follows:
+1.     Effective as of June 16, 1995, Section 2 of the Warrant Agreement is 
+hereby amended to read in its entirety as follows:
+"SECTION 2.  Amount Issued.  Subject to the provisions of this Agreement, 
+Warrants to purchase no more than forty million (40,000,000) Shares may be 
+issued and delivered by the Company hereunder."
+2.     Effective as of June 16, 1995, the second paragraph of Section 7 of the 
+Warrant Agreement is hereby amended to read in its entirety as follows:
+"Subject to the provisions of this Agreement, including Section 14, each 
+Warrant shall entitle the holder thereof to purchase from the Company (and 
+the Company shall issue and sell to such holder of a Warrant) one fully paid 
+and nonassessable Share at the price set forth in the following table (such 
+price, as it may be adjusted from time to time as provided in Section 14, 
+being the "Exercise Price"):
+
+        Exercise Date
+- -----------------------------------
+After                  On or Before                 Exercise Price Per Share
+
+May 13, 1993           March 14, 1994               $35.75**
+March 14, 1994         March 14, 1995               $37.25**
+March 14, 1995         March 14, 1996               $38.75
+March 14, 1996         March 14, 1997               $40.25
+March 14, 1997         March 14, 1998               $41.75
+
+**(expired prior to, but adjusted to reflect, stock distribution paid 
+June 16, 1995)"
+
+3.     Effective as of June 16, 1995, Exhibit A is replaced with the attached 
+       Exhibit A-3.
+4.     Except as expressly modified herein, the Warrant Agreement remains in 
+       full force and effect.
+The parties hereto have caused this Amendment to be executed and delivered as 
+of the date first set forth above.
+
+Attest:                          INTEL CORPORATION
+/s/ THOMAS R. LAVELLE            By: /s/ ARVIND SODHANI
+- ---------------------            -------------------------------------
+                                 Name/Title: Arvind Sodhani, Treasurer
+
+Attest:                          HARRIS TRUST AND SAVINGS BANK 
+____________________________     By: /s/ RICHARD C. CARLSON
+                                 ----------------------------------------------
+                                 Name/Title: Richard C. Carlson, Vice President
+
+
+EXHIBIT A-3 (REVISED 5/95)
+[FORM OF FACE OF WARRANT CERTIFICATE]
+VOID AFTER MARCH 14, 1998
+
+No. C-                                              WARRANT TO PURCHASE _______
+                                                         SHARES OF COMMON STOCK
+INTEL CORPORATION
+1998 STEP-UP WARRANT TO PURCHASE COMMON STOCK
+
+     This Warrant Certificate certifies that ______________________ or 
+registered assigns, is the registered holder of a 1998 Step-Up Warrant (the 
+"Warrant") of Intel Corporation, a Delaware corporation (the "Company"), to 
+purchase the number of shares (the "Shares") of Common Stock, $0.001 par value
+(the "Common Stock"), of the Company set forth above.  This Warrant expires at
+5:00 p.m. New York City time (the "Close of Business") on March 14, 1998 (the 
+"Expiration Date"), unless such date is extended at the option of the Company, 
+and entitles the holder to purchase from the Company the number of fully paid 
+and nonassessable Shares set forth above at the initial exercise price (the 
+"Exercise Price"), payable in lawful money of the United States of America, 
+determined in accordance with the following table:
+
+            Exercise Date
+After the Close     On or Before the                   Exercise Price
+of Business         Close of Business                  Per Share   
+- ---------------     -----------------                  ---------------
+May 13, 1993        March 14, 1994                     $35.75**
+March 14, 1994      March 14, 1995                     $37.25**
+March 14, 1995      March 14, 1996                     $38.75
+March 14, 1996      March 14, 1997                     $40.25
+March 14, 1997      March 14, 1998                     $41.75
+
+**(expired prior to, but adjusted to reflect, stock distribution paid 
+June 16, 1995)
+
+Subject to the terms and conditions set forth herein and in the Warrant 
+Agreement referred to on the reverse hereof, this Warrant may be exercised 
+upon surrender of this Warrant Certificate and payment of the aggregate 
+Exercise Price at the office or agency of the Warrant Agent in New York, 
+New York or in Chicago, Illinois (each such office, a "Warrant Agent Office").
+     The Exercise Price and the number of Shares purchasable upon exercise of 
+this Warrant are subject to adjustment upon the occurrence of certain events 
+as set forth in the Warrant Agreement.
+     No Warrant may be exercised prior to May 14, 1993 or after the Close of 
+Business on the Expiration Date, unless the Company exercises its option to 
+extend such date.  After the Close of Business on the Expiration Date, the 
+Warrants will become wholly void and of no value.
+
+     REFERENCE IS HEREBY MADE TO THE FURTHER PROVISIONS OF THIS WARRANT 
+CERTIFICATE SET FORTH ON THE REVERSE HEREOF.  SUCH FURTHER PROVISIONS SHALL 
+FOR ALL PURPOSES HAVE THE SAME EFFECT AS THOUGH FULLY SET FORTH AT THIS PLACE.
+
+     This Warrant Certificate shall not be valid unless countersigned by the 
+Warrant Agent.
+
+     IN WITNESS WHEREOF, the Company has caused this Certificate to be executed
+by its duly authorized officers, and the corporate seal hereunto affixed.
+     Dated:  ________________
+                                                 INTEL CORPORATION
+                                                 By ___________________________
+
+[Corporate Seal of Intel Corporation]
+
+ATTEST:
+
+By __________________________________
+
+Countersigned:
+
+HARRIS TRUST AND SAVINGS BANK,
+AS WARRANT AGENT
+
+By __________________________________
+
+
+[FORM OF REVERSE OF WARRANT CERTIFICATE]
+INTEL CORPORATION
+The warrant evidenced by this warrant certificate is a part of a duly 
+authorized issue of 1998 Step-Up Warrants to purchase a maximum of forty 
+million (40,000,000) Shares of Common Stock (subject to adjustment) issued 
+pursuant to a Warrant Agreement, dated as of March 1, 1993, as the same has 
+and may be amended from time to time (the "Warrant Agreement"), duly executed 
+and delivered by the Company to Harris Trust and Savings Bank, as Warrant 
+Agent (the "Warrant Agent").  The Warrant Agreement hereby is incorporated by 
+reference in and made a part of this instrument and is hereby referred to for a
+description of the rights, limitation of rights, obligations, duties and 
+immunities thereunder of the Warrant Agent, the Company and the holders (the 
+words "holders" or "holder" meaning the registered holders or registered 
+holder) of the Warrants.  A copy of the Warrant Agreement may be inspected at 
+the Warrant Agent Office and is available upon written request addressed to 
+the Company.  All terms used herein that are defined in the Warrant Agreement 
+have the meanings assigned to them therein.
+     Warrants may be exercised to purchase Shares from the Company before the 
+Close of Business on the Expiration Date, at the Exercise Price set forth on 
+the face hereof, subject to adjustment as described in the Warrant Agreement.  
+The holder of the Warrant evidenced by this Warrant Certificate may exercise 
+such Warrant by surrendering the Warrant Certificate, with the form of election
+to purchase set forth hereon properly completed and executed, together with 
+payment of the aggregate Exercise Price, in lawful money of the United States 
+of America, and any applicable transfer taxes, at the Warrant Agent Office.
+     In the event that upon any exercise of the Warrant evidenced hereby the 
+number of Shares actually purchased shall be less than the total number of 
+Shares purchasable upon exercise of the Warrant evidenced hereby, there shall 
+be issued to the holder hereof, or such holder's assignee, a new Warrant 
+Certificate evidencing a Warrant to purchase the Shares not so purchased.  No 
+adjustment shall be made for any cash dividends on any Shares issuable upon 
+exercise of this Warrant.  After the Close of Business on the Expiration Date, 
+unexercised Warrants shall become wholly void and of no value.
+     The Company shall not be required to issue fractions of Shares or any 
+certificates that evidence fractional Shares.  In lieu of such fractional 
+Shares, there shall be paid to holders of the Warrant Certificates with regard 
+to which such fractional Shares would otherwise be issuable an amount in cash 
+equal to the same fraction of the current market value (as determined pursuant 
+to the Warrant Agreement) of a full Share.
+     Warrant Certificates, when surrendered at the Warrant Agent Office by the 
+registered holder thereof in person or by a legal representative or attorney 
+duly authorized in writing, may be exchanged, in the manner and subject to the 
+limitations provided in the Warrant Agreement, but without payment of any 
+service charge, for another Warrant Certificate or Warrant Certificates of like
+tenor evidencing a Warrant to purchase in the aggregate a like number of Shares.
+     Upon due presentment for registration of transfer of this Warrant 
+Certificate at the Warrant Agent Office, a new Warrant Certificate or Warrant 
+Certificates of like tenor and evidencing a Warrant or Warrants to purchase in 
+the aggregate a like number of Shares shall be issued to the transferee in 
+exchange for this Warrant Certificate, subject to the limitations provided in 
+the Warrant Agreement, without charge, except for any tax or other 
+governmental charge imposed in connection therewith.
+     The Company and Warrant Agent may deem and treat the registered holder 
+hereof as the absolute owner of this Warrant Certificate (notwithstanding any 
+notation of ownership or other writing hereon made by anyone) for the purpose 
+of any exercise hereof and for all other purposes, and neither the Company nor 
+the Warrant Agent shall be affected by any notice to the contrary.
+
+
+ELECTION TO EXERCISE
+(TO BE EXECUTED UPON EXERCISE OF THE WARRANT)
+     The undersigned hereby irrevocably elects to exercise the right, 
+represented by this Warrant Certificate, to purchase _______ Shares and 
+herewith tenders in payment for such Shares $______ in lawful money of the 
+United States of America, in accordance with the terms hereof.  The undersigned
+requests that a certificate representing such Shares be registered and 
+delivered as follows:
+
+           ___________________________________________________
+                                 Name
+           ___________________________________________________
+                                Address
+           ___________________________________________________
+                     Delivery Address (if different)
+
+If such number of Shares is less than the aggregate number of Shares 
+purchasable hereunder, the undersigned requests that a new Warrant Certificate 
+representing the balance of such Shares be registered and delivered as follows:
+
+           ___________________________________________________
+                                 Name
+           ___________________________________________________
+                                Address
+           ___________________________________________________
+                     Delivery Address (if different)
+
+_________________________________             _________________________________
+Social Security or Other Taxpayer                         Signature
+ Identification Number of Holder
+                                              Note:  The above signature must 
+                                              correspond with the name as 
+                                              written upon the face of this 
+                                              Warrant Certificate in every 
+                                              particular, without alteration or
+                                              enlargement or any change what-
+                                              soever.  If the certificate 
+                                              representing the Shares or any 
+                                              Warrant Certificate representing 
+                                              Warrants not exercised is to be 
+                                              registered in a name other than 
+                                              that in which this Warrant 
+                                              Certificate is registered, the 
+                                              signature of the holder hereof 
+                                              must be guaranteed.
+
+SIGNATURE GUARANTEED:
+_________________________________
+
+
+
+ASSIGNMENT
+(TO BE EXECUTED BY THE REGISTERED HOLDER IF SUCH
+HOLDER DESIRES TO TRANSFER THE WARRANT CERTIFICATE)
+FOR VALUE RECEIVED,  the undersigned registered holder hereby sells, assigns 
+and transfers unto
+
+           ___________________________________________________
+                            Name of Assignee
+
+           ___________________________________________________
+                          Address of Assignee
+
+this Warrant Certificate, together with all right, title and interest therein, 
+and does irrevocably constitute and appoint ____________________ attorney, to 
+transfer the within Warrant Certificate on the books of the Warrant Agent, with
+full power of substitution.
+
+_________________________________             _________________________________
+             Dated                                        Signature
+
+                                              Note:  The above signature must 
+                                              correspond with the name as 
+                                              written upon the face of this 
+                                              Warrant Certificate in every 
+                                              particular, without alteration or
+                                              enlargement or any change 
+                                              whatsoever.
+
+_________________________________
+Social Security or Other Taxpayer
+Identification Number of Assignee
+
+
+SIGNATURE GUARANTEED:
+_________________________________
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

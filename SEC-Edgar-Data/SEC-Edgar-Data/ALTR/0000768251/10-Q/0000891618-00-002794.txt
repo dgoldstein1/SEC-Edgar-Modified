@@ -1,0 +1,1120 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NLlIFo1ur14vPzMtSINKyB0+R1BzB+GOJjYbfCZTwwdZwniFxY1F1gDQb406SanD
+ YyKAhn0x73ZT7xIwptGmQQ==
+
+<SEC-DOCUMENT>0000891618-00-002794.txt : 20000515
+<SEC-HEADER>0000891618-00-002794.hdr.sgml : 20000515
+ACCESSION NUMBER:		0000891618-00-002794
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000512
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALTERA CORP
+		CENTRAL INDEX KEY:			0000768251
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770016691
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-16617
+		FILM NUMBER:		629876
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 INNOVATION DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4085448000
+
+	MAIL ADDRESS:	
+		STREET 1:		101 INNOVATION DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR PERIOD ENDED 3/31/00
+<TEXT>
+
+<PAGE>   1
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                    FORM 10-Q
+
+
+   X     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+- -------                        EXCHANGE ACT OF 1934
+
+                  For the quarterly period ended March 31, 2000
+
+                                       OR
+
+         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+- -------                        EXCHANGE ACT OF 1934
+
+
+                        For the transition period from to
+
+
+                         Commission file number 0-16617
+
+
+                               ALTERA CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+<TABLE>
+<S>                                                <C>
+             DELAWARE                                   77-0016691
+  (State or other jurisdiction of                    (I.R.S. Employer
+   incorporation or organization)                  Identification Number)
+</TABLE>
+
+
+                              101 INNOVATION DRIVE
+                           SAN JOSE, CALIFORNIA 95134
+                    (Address of principal executive offices)
+
+
+
+                                  408-544-7000
+              (Registrant's telephone number, including area code)
+
+
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for at least the past 90 days.
+
+
+                        Yes   X             No
+                             ---               ---
+
+     Number of shares of common stock outstanding at May 5, 2000: 199,068,428
+
+<PAGE>   2
+
+<TABLE>
+<CAPTION>
+PART I            FINANCIAL INFORMATION                                         NUMBER
+<S>      <C>                                                                      <C>
+
+ITEM 1:  Financial Statements
+
+         Condensed Consolidated Balance Sheets as of March 31, 2000
+         and December 31, 1999..................................................   3
+
+         Condensed Consolidated Statements of Operations for the
+         Three Months Ended March 31, 2000 and 1999 ............................   4
+
+         Condensed Consolidated Statements of Cash Flows for the
+         Three Months Ended March 31, 2000 and 1999.............................   5
+
+         Notes to Condensed Consolidated Financial Statements...................   6
+
+ITEM 2:  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations..............................................   9
+
+ITEM 3:  Quantitative and Qualitative Disclosures About Market Risk.............  14
+
+PART II  OTHER INFORMATION
+
+ITEM 1:  Legal Proceedings......................................................  15
+
+ITEM 5:  Other Information......................................................  16
+
+ITEM 6:  Exhibits and Reports on Form 8-K.......................................  16
+
+
+Signatures      ................................................................  17
+</TABLE>
+
+                                       2
+<PAGE>   3
+
+PART I FINANCIAL INFORMATION
+
+ITEM 1: Financial Statements
+
+
+                               ALTERA CORPORATION
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                            (UNAUDITED, IN THOUSANDS)
+
+
+<TABLE>
+<CAPTION>
+                                                          MARCH 31,          DECEMBER 31,
+                                                            2000                1999
+                                                        -------------        ------------
+<S>                                                       <C>                 <C>
+ASSETS
+
+Current assets:
+  Cash and cash equivalents                              $  270,161          $  164,257
+  Short-term investments                                    660,540             681,409
+                                                         ----------          ----------
+       Total cash, cash equivalents,
+          and short-term investments                        930,701             845,666
+  Accounts receivable, net                                  119,334              90,101
+  Inventories                                                81,597              64,027
+  Deferred income taxes                                     101,360              84,747
+  Other current assets                                       17,379              22,344
+                                                         ----------          ----------
+       Total current assets                               1,250,371           1,106,885
+
+Property and equipment, net                                 163,375             155,217
+Investments and other assets                                175,903             177,497
+                                                         ----------          ----------
+                                                         $1,589,649          $1,439,599
+                                                         ==========          ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                                       $   33,970          $   32,272
+  Accrued liabilities                                        29,144              26,758
+  Accrued compensation                                       22,849              25,301
+  Deferred income on sales to distributors                  259,696             227,760
+  Income taxes payable                                       17,583               9,435
+                                                         ----------          ----------
+       Total current liabilities                            363,242             321,526
+                                                         ----------          ----------
+Stockholders' equity:
+  Common stock                                                  200                 199
+  Capital in excess of par value                            361,015             326,439
+  Retained earnings                                         866,589             791,435
+  Accumulated other comprehensive loss                       (1,397)                  -
+                                                         ----------          ----------
+       Total stockholders' equity                         1,226,407           1,118,073
+                                                         ----------          ----------
+                                                         $1,589,649          $1,439,599
+                                                         ==========          ==========
+</TABLE>
+
+     See accompanying notes to condensed consolidated financial statements.
+
+                                       3
+<PAGE>   4
+
+
+
+
+                               ALTERA CORPORATION
+
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                   (UNAUDITED)
+
+
+<TABLE>
+<CAPTION>
+                                                                THREE MONTHS ENDED
+                                                                      MARCH 31,
+                                                          -------------------------------
+                                                             2000                  1999
+                                                             ----                  ----
+<S>                                                         <C>                  <C>
+Sales                                                       $272,781             $186,399
+Costs & expenses:
+   Cost of sales                                              94,590               69,154
+   Research and development expenses                          34,442               17,023
+   Selling, general and administrative expenses               43,378               32,320
+                                                            --------             --------
+Total costs and expenses                                     172,410              118,497
+                                                            --------             --------
+Income from operations                                       100,371               67,902
+Interest and other income, net                                10,548                4,618
+                                                            --------             --------
+Income before income taxes and equity investment             110,919               72,520
+Provision for income taxes                                    34,386               23,569
+                                                            --------             --------
+Income before equity investment                               76,533               48,951
+Equity in loss of WaferTech, LLC                              (1,379)              (1,976)
+                                                            --------             --------
+Net income                                                  $ 75,154             $ 46,975
+                                                            ========             ========
+INCOME PER SHARE:
+   Basic                                                    $   0.38             $   0.24
+                                                            ========             ========
+   Diluted                                                  $   0.36             $   0.23
+                                                            ========             ========
+WEIGHTED SHARES OUTSTANDING:
+   Basic                                                     199,269              195,866
+                                                            ========             ========
+   Diluted                                                   209,776              205,374
+                                                            ========             ========
+</TABLE>
+
+     See accompanying notes to condensed consolidated financial statements.
+
+                                       4
+<PAGE>   5
+
+                               ALTERA CORPORATION
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                            (UNAUDITED, IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                                 THREE MONTHS ENDED
+                                                                     MARCH 31,
+                                                               --------------------
+                                                               2000            1999
+                                                               ----            ----
+<S>                                                          <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net income                                                 $ 75,154        $ 46,975
+  Adjustments to reconcile net income to net cash
+  provided by operating activities:
+   Equity in loss of WaferTech, LLC                             1,379           1,976
+   Depreciation and amortization                                7,721           7,448
+   Deferred income taxes                                      (15,720)         (1,000)
+   Changes in assets and liabilities:
+     Accounts receivable, net                                 (29,233)          3,971
+     Inventories                                              (17,931)         (5,117)
+     Other assets                                               4,965           6,587
+     Accounts payable and accrued liabilities                   1,632          (2,494)
+     Deferred income on sales to distributors                  31,936         (15,540)
+     Income taxes payable                                      35,639          18,716
+                                                             --------        --------
+Cash provided by operating activities                          95,542          61,522
+                                                             --------        --------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Purchases of property and equipment                         (15,487)         (5,663)
+  Net change in short-term investments                         18,579          36,062
+  Investment in WaferTech, LLC                                      -         (37,500)
+                                                             --------        --------
+Cash provided by (used for) investing activities                3,092          (7,101)
+                                                             --------        --------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Net proceeds from issuance of common stock                    7,270           6,276
+  Repurchase of common stock                                        -         (12,846)
+                                                             --------        --------
+Cash provided by (used for) financing activities                7,270          (6,570)
+                                                             --------        --------
+Net increase in cash and cash equivalents                     105,904          47,851
+Cash and cash equivalents at beginning of period              164,257         131,029
+                                                             --------        --------
+Cash and cash equivalents at end of period                   $270,161        $178,880
+                                                             ========        ========
+Cash paid during the period for:
+  Income taxes                                               $ 13,928        $    976
+</TABLE>
+
+     See accompanying notes to condensed consolidated financial statements.
+
+                                       5
+<PAGE>   6
+
+
+                               ALTERA CORPORATION
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+
+Note 1 - Organization and Basis of Presentation:
+
+The condensed consolidated financial information as of March 31, 2000 and for
+the three month periods ended March 31, 2000 and 1999 included herein is
+unaudited and has been prepared by the Company in accordance with generally
+accepted accounting principles and reflects all adjustments, consisting only of
+normal recurring adjustments, which in the opinion of management are necessary
+to state fairly the Company's financial position, results of operations, and
+cash flows for the periods presented. The December 31, 1999 balance sheet was
+derived from audited financial statements on that date. All significant
+intercompany transactions and balances have been eliminated.
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and the disclosure of
+contingent assets and liabilities at the date of the financial statements as
+well as the reported amounts of revenue and expenses during the reporting
+period. Actual results will differ from those estimates, and such differences
+may be material to the financial statements. These condensed consolidated
+financial statements should be read in conjunction with the Company's audited
+consolidated financial statements for the year ended December 31, 1999 included
+in the Company's Annual Report and Form 10-K, as filed on March 24, 2000, with
+the Securities and Exchange Commission. The results of operations for the three
+months ended March 31, 2000 are not necessarily indicative of the results to be
+expected for any future periods.
+
+The Company has interim periods that end on the Friday nearest March 31st. For
+presentation purposes, the interim financial statements and accompanying notes
+refer to the Company's interim periods ending as of March 31st.
+
+
+Note 2 - Balance Sheet Details (in thousands):
+<TABLE>
+<CAPTION>
+                                                     March 31,      December 31,
+                                                       2000             1999
+                                                     ---------      ------------
+<S>                                                  <C>              <C>
+Inventories:
+  Raw materials and work-in-process                  $ 56,553         $ 40,612
+  Finished goods                                       25,044           23,415
+                                                     --------         --------
+                                                     $ 81,597         $ 64,027
+                                                     ========         ========
+
+Property and equipment:
+  Land                                               $ 21,040         $ 20,753
+  Building                                             83,080           80,893
+  Equipment and software                              140,175          130,016
+  Office furniture and fixtures                        12,389           11,755
+  Leasehold improvements                                1,699            1,623
+                                                     --------         --------
+                                                      258,383          245,040
+  Accumulated depreciation and amortization           (95,008)         (89,823)
+                                                     --------         --------
+                                                     $163,375         $155,217
+                                                     ========         ========
+</TABLE>
+
+                                       6
+
+<PAGE>   7
+
+Note 3 - Comprehensive Income:
+
+Comprehensive income, including net income and unrealized loss on
+available-for-sale investments, was $73.8 million for the first quarter of 2000.
+Comprehensive income approximated net income of $47.0 million for the same
+quarter last year.
+
+Accumulated other comprehensive loss of $1.4 million presented in the
+accompanying condensed consolidated balance sheets consists of the accumulated
+unrealized loss on available-for-sale investments of $2.3 million, net of income
+taxes of $0.9 million.
+
+
+Note 4 - Income Per Share:
+
+Basic income per share is computed by dividing net income available to common
+stockholders by the weighted average number of common shares outstanding during
+the period and excludes the dilutive effect of stock options. Diluted income per
+share gives effect to all dilutive potential common shares outstanding during a
+period. In computing diluted income per share, the tax benefit resulting from
+employee stock transactions and the average stock price for the period are used
+in determining the number of shares assumed to be purchased from exercise of
+stock options.
+
+A reconciliation of basic and diluted income per share is presented below (in
+thousands, except per share amounts):
+
+<TABLE>
+<CAPTION>
+                                                             Three Months Ended
+                                                                 March 31,
+                                                         --------------------------
+                                                           2000              1999
+                                                           ----              ----
+<S>                                                      <C>               <C>
+Basic:
+Net income                                               $ 75,154          $ 46,975
+                                                         ========          ========
+Weighted average common shares outstanding                199,269           195,866
+                                                         ========          ========
+Basic income per share                                   $   0.38          $   0.24
+                                                         ========          ========
+
+Diluted:
+
+Net income                                               $ 75,154          $ 46,975
+                                                         ========          ========
+
+Weighted average common shares outstanding                199,269           195,866
+Dilutive stock options                                     10,507             9,508
+                                                         --------          --------
+Weighted average common shares outstanding                209,776           205,374
+                                                         ========          ========
+
+Diluted income per share                                 $   0.36          $   0.23
+                                                         ========          ========
+</TABLE>
+
+Note 5 - Common Stock Repurchase:
+
+In April 2000, the Company repurchased 1,415,000 shares of common stock for an
+aggregate cost of $111.5 million. The repurchased shares were retired upon
+acquisition. The Company did not repurchase any shares during the first quarter
+of 2000. Since the inception of the repurchase program, the Company has
+repurchased a total of 7,800,000 shares.
+
+                                       7
+<PAGE>   8
+
+Note 6 - New Accounting Pronouncements:
+
+In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards ("SFAS") No. 133, "Accounting for Derivative
+Instruments and Hedging Activities." SFAS No. 133 establishes standards for
+accounting and reporting on derivative instruments for periods beginning after
+June 15, 2000 and early adoption is permitted. SFAS No. 133 requires that all
+derivative instruments be recognized in the balance sheet as either assets or
+liabilities and measured at fair value. Furthermore, SFAS No. 133 requires
+current recognition in earnings of changes in the fair value of derivative
+instruments depending on the intended use of the derivative and the resulting
+designation. The Company expects that its adoption of SFAS No. 133, which will
+become effective in fiscal year 2001, will not have a material effect on the
+Company's financial statements.
+
+
+Note 7 - Subsequent events:
+
+During the second quarter of 2000, the Company acquired two privately-held
+companies, DesignPRO Inc. ("DesignPRO") and Right Track CAD Inc. ("Right
+Track"). DesignPRO, located in Nepean, Ontario, Canada, is a provider of
+intellectual property (IP) cores and custom design solutions, specializing in
+optical internetworking technologies. Right Track, located in Toronto, Ontario,
+Canada, develops architectural and computer aided design (CAD) tools for
+advanced programmable logic devices (PLDs). The acquisitions will be accounted
+for as purchases. The aggregate purchase consideration includes amounts that
+will be allocated to in-process research and development, which will be recorded
+as a one-time charge in the second quarter, deferred compensation, which will be
+amortized to research and development expense over two years for DesignPRO and
+four years for Right Track, and other intangible assets, which will be amortized
+to research and development expense over four years.
+
+                                       8
+
+<PAGE>   9
+
+
+ITEM 2: Management's Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+     The following Discussion and Analysis of Financial Condition and Results of
+Operations contains "forward looking statements" within the meaning of Section
+27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act
+of 1934. Forward looking statements are generally written in the future tense
+and/or are preceded by words such as "expects," "suggests," "believes,"
+"anticipates," or "intends." The Company's future results of operations and the
+other forward looking statements contained in this Report involve a number of
+risks and uncertainties, many of which are outside the Company's control. Some
+of these risks and uncertainties are described in proximity to forward looking
+statements in this Report. Factors that could cause actual results to differ
+materially from projected results include but are not limited to risks
+associated with the Company's ability to achieve continued cost reductions and
+maintain gross margins, the Company's ability to continue to achieve die size
+reductions, the Company's ability to achieve and maintain appropriate inventory
+mix and levels and respond successfully to changes in product demand, the
+ability of price reductions to increase demand and strengthen the Company's
+market share over the long term, successful development and subsequent
+introduction of new products through investment in research and development and
+application of new process technologies to old and new product lines, market
+acceptance of the Company's new products, continued demand for the Company's
+existing products, and general market conditions. Additional risk factors are
+disclosed in the Company's 1999 Annual Report and Form 10-K on file with the
+Securities and Exchange Commission.
+
+RESULTS OF OPERATIONS
+
+Sales
+
+     The Company classifies its products into the following categories. New
+products consist of the Company's 3.3-volt (or lower) families, are manufactured
+on a 0.35-micron (or finer) geometry and are made up of the FLEX 10KA/10KE, FLEX
+6000/6000A, MAX 3000A, MAX 7000A/7000B, APEX 20K/20KE and ACEX 1K families.
+Mainstream products include the MAX 7000S, MAX 9000 and FLEX 10K families.
+Mature products consist of the Classic, MAX 7000 and FLEX 8000 families. Other
+products include tools, FLASHlogic, configuration devices and MPLDs.
+
+     Sales during the first quarter of 2000 were $272.8 million, 46.3% higher
+than the $186.4 million reported for the same period last year. Sales in the
+first quarter of 2000 increased from the same period last year primarily due to
+increases in unit sales of New and Mainstream products. The increase in sales
+was partially offset by decreases in average unit selling prices as well as
+lower unit sales of Mature products. Sales of New products during the first
+quarter of 2000 were $114.8 million, 187.0% higher than the $40.0 million
+reported for the same period last year. Sales of Mainstream products increased
+to $90.1 million in the first quarter of 2000, a 28.7% increase from $69.9
+million in the first quarter of 1999. During the same period, sales of Mature
+products decreased 14.8% to $51.3 million from $60.2 million, while sales of
+other products increased 2.3% to $16.6 million from $16.3 million. Management
+expects that the decline in sales of the Mature products, which presently
+comprise approximately 18.8% of the Company's revenue base, will continue. The
+Company's ability to maintain or increase sales in the future is dependent on
+sales of New and Mainstream product families increasing more rapidly than the
+decline in sales of Mature product families. While management is optimistic that
+New and Mainstream product sales will increase, there can be no assurances that
+New and Mainstream product sales growth will offset the decline in sales of
+Mature products.
+
+     Sales in North America, Europe and Asia Pacific increased, while sales in
+Japan declined as a percentage of total sales during the first quarter of 2000
+compared to the same period last year. Sales in North America increased 46.8% to
+$154.5 million from $105.2 million, Europe increased 73.2% to $61.9 million from
+$35.8 million and Asia Pacific increased 57.7% to $15.4 million from $9.7
+million. Japan sales increased 14.8% to $41.0 million from $35.7 million, but
+declined as a percentage of total sales.
+
+     In October 1999, the Company sold to Cypress Semiconductor Corporation
+("Cypress") the exclusive right to manufacture, market and sell its MAX 5000
+programmable logic device product family (a Mature product family) and its
+equity interest in Cypress Semiconductor (Texas), Inc. Excluding the MAX 5000
+product family, total sales during the first quarter of 2000 grew 48.9% over the
+same period last year.
+
+                                       9
+<PAGE>   10
+
+Gross Margin
+
+     Gross Margin, as a percentage of sales, was 65.3% and 62.9% for the three
+months ended March 31, 2000 and 1999, respectively. The increase in gross margin
+was primarily attributable to cost reductions as a result of manufacturing
+process improvements.
+
+     Yields on New products continued to improve for the first quarter ended
+March 31, 2000. This includes improvements in the APEX 20K/20KE, FLEX 10KE and
+FLEX 10KA product families. The Company continues to spend a significant amount
+of financial resources to improve production yields on both new and established
+products. Difficulties in production yields can often occur when the Company is
+beginning production of new products or transitioning to new processes. These
+difficulties can potentially result in significantly higher costs and lower
+product availability. For example, in the fourth quarter of 1999, process
+control issues associated with WaferTech's volume ramp up resulted in low die
+yields on FLEX 10KA and FLEX 10KE products leading to reduced product
+availabilty in these families. As a result, the Company was unable to support
+distributor stocking at desired levels and in some cases could not meet end
+customer demand. Management expects to continue to introduce new and established
+products using new process technologies and may encounter similar start-up
+difficulties during the transition to such process technologies. Further,
+production throughput times vary considerably among the Company's wafer
+suppliers, and the Company may experience delays from time to time in processing
+some of its products which also may result in higher costs and lower product
+availability.
+
+Research and Development
+
+     Research and development expenditures for the three months ended March 31,
+2000 and 1999 were $34.4 million and $17.0 million, or 12.6% and 9.1% of sales,
+respectively. Research and development expenditures include expenditures for
+labor, prototype and developmental wafer supply costs, development of process
+technology, development of software to support new products and design
+environments, and development of new packages.
+
+     Research and development expenses in the first quarter of 2000 increased
+$17.4 million from the same period last year. The increase in absolute dollars
+was primarily a result of increased headcount, spending on masks, wafers,
+package development and outside development services relating to the development
+of new products including FLEX 10KE, MAX 7000A/7000B, APEX 20K/20KE and ACEX
+1K/2K families, as well as development of the Company's Quartus software.
+Historically, the level of research and development expenditures as a percentage
+of sales has fluctuated in part due to the timing of the purchase of masks and
+wafers used in development and prototyping of new products. The Company expects
+that, in the long term, research and development expenses will increase in
+absolute dollars primarily due to the Company's efforts to develop new products.
+
+     The Company expects to continue to make significant investments in the
+development of FLEX 10KA, MAX 7000A/7000B, APEX 20K/20KE, ACEX 1K/2K, Quartus
+software and future products. During the first quarter of 1999, the Company
+shipped a new family of devices, APEX 20K, and its new fourth generation
+software design tool, Quartus. During the fourth quarter of 1999, the Company
+began shipping its APEX 20KE family of devices. The APEX 20KE family offers
+advanced features over the APEX 20K family including lower power consumption,
+faster performance, expanded I/O support and smaller die sizes. APEX 20K/20KE
+devices utilize a new architecture for programmable logic and address higher
+density designs. APEX 20K/20KE devices are exclusively supported by the
+Company's new software design tool, Quartus. Management expects both APEX
+20K/20KE devices and Quartus software to be successful in the market, however,
+the commercial success of these products is dependent on the acceptance of the
+use of APEX 20K/20KE devices in high-density designs and the acceptance of the
+Quartus design software. Management can give no assurances on the market
+acceptance of the Company's products.
+
+     The Company also continues to focus its efforts on the development of new
+programmable logic chips, related development software and hardware, and
+advanced semiconductor wafer fabrication processes. However, there can be no
+assurance that the Company will accomplish its goals in the development and
+subsequent introduction of new products and manufacturing processes.
+Furthermore, there is no assurance that these products will achieve market
+acceptance, that the new manufacturing processes will be successful, or that the
+suppliers will provide the Company with the quality or quantity of wafers and
+materials that the Company requires. The Company must continue to develop and
+introduce new products in a timely manner to help counter the industry's
+historical trend of declining prices as products mature.
+
+                                       10
+<PAGE>   11
+
+Selling, General and Administrative
+
+     Selling, general and administrative expenses for the three months ended
+March 31, 2000 and 1999 were $43.4 million and $32.3 million, or 15.9% and 17.3%
+of sales, respectively. Selling, general and administrative expenses include
+salary expenses related to field sales, marketing and administrative personnel,
+commissions and incentive expenses, advertising and promotional expenditures,
+and legal expenses. Also included in selling, general and administrative
+expenses are costs related to the direct sales force and field application
+engineers who work in field sales offices worldwide and stimulate demand by
+assisting customers in the use and proper selection of the Company's products.
+
+     Selling, general and administrative expenses in the first quarter of 2000
+increased $11.1 million from the same period last year. The increase in absolute
+dollars was mainly driven by increased personnel expenses for marketing and
+administration, higher advertising and higher commission and incentive expenses
+associated with higher sales.
+
+Income from Operations
+
+     Income from operations for the three months ended March 31, 2000 and 1999
+was $100.4 million and $67.9 million, or 36.8% and 36.4% of sales, respectively.
+The year-to-year increase in operating income, as a percentage of sales, was
+primarily due to improvements in gross margin partially offset by increased
+research and development expenses as a percentage of sales.
+
+Interest and Other Income
+
+     Interest and other income for the three months ended March 31, 2000 and
+1999 was $10.5 million and $4.6 million, respectively. Interest and other income
+consists mainly of interest income on cash balances available for investment.
+The increase in interest and other income was primarily due to the increase in
+interest income related to higher cash balances available for investment and
+higher interest rates.
+
+Provision for Income Taxes
+
+     The Company's effective tax rate was 31.0% and 32.5% for the three months
+ended March 31, 2000 and 1999, respectively. The reduction in effective tax rate
+primarily resulted from the reinstitution of the research and development tax
+credit and a change in the geographic mix of revenue.
+
+Equity Investment
+
+     In June 1996, the Company, TSMC and several other partners formed
+WaferTech, LLC ("WaferTech"), a joint-venture company, to build and operate a
+wafer manufacturing plant in Camas, Washington. In return for a $140.4 million
+cash investment, the Company received an 18% equity ownership in the
+joint-venture company and certain obligations and rights to procure up to 27% of
+the joint-venture's output at market prices. In January 1999, the Company
+purchased from Analog Devices, Inc. an additional 5% equity ownership interest
+in WaferTech for approximately $37.5 million, increasing its ownership interest
+to 23%. This increased investment in WaferTech provides the Company with
+additional obligations and rights to procure up to 35% of the joint-venture's
+future output. In October 1999, the Company made an additional $23.0 million
+cash investment in WaferTech. As a result of this additional cash investment,
+there were no changes to the Company's ownership interest or obligations and
+rights for the procurement of the joint-venture's output. The Company accounts
+for this investment under the equity method based on the Company's ability to
+exercise significant influence on the operating and financial policies of
+WaferTech. The Company's equity in the loss of WaferTech was $1.4 million and
+$2.0 million for the three months ended March 31, 2000 and 1999, respectively.
+WaferTech has experienced lower than forecast production yields resulting in
+lower than forecast output. Although the Company expects future WaferTech
+production volumes and yields to increase, the ramp up of WaferTech's production
+has been slower than forecasted and has not met the targeted level to achieve
+profitability.
+
+
+Future Results
+
+     Future operating results will depend on the Company's ability to develop,
+manufacture and sell complex semiconductor components and programming software
+that offer customers greater value than
+
+                                       11
+<PAGE>   12
+
+solutions offered by competing vendors. The Company's efforts in this regard may
+not be successful. The Company is developing programmable chips for applications
+that are presently served by other ASIC vendors. These vendors have
+well-established market positions and a solution that has been proven
+technically feasible and economically competitive over several decades. There
+can be no assurance that the Company will be successful in displacing ASIC
+vendors in the targeted applications and densities. Furthermore, other
+programmable logic vendors are targeting these applications and may be
+successful in securing market share to the exclusion of the Company. Moreover,
+standard cell technologies are increasingly used by the Company's customers to
+achieve greater integration in their systems; this may not only impede the
+Company's efforts to penetrate the ASIC market but may also displace the
+Company's products in the applications that it presently serves. The Company's
+future growth will depend on its ability to continually, and on a timely basis,
+introduce new products, and to continue to improve the performance of the
+Company's products in response to both evolving demands of the market place and
+competitive product offerings.
+
+     The Company is highly dependent upon subcontractors to manufacture silicon
+wafers and assemble, test and ship product to end customers. The Company is also
+dependent on its wafer foundry partners to improve process technologies in a
+timely manner to enhance the Company's product designs and cost structure. Their
+inability to do so could have a severe negative impact on the Company. The vast
+majority of the Company's products are manufactured and shipped to customers by
+subcontractors located in Asia, principally Hong Kong, Japan, Korea, Malaysia,
+the Philippines and Taiwan. Disruptions or adverse supply conditions arising
+from market conditions, political strife, labor disruptions and other factors
+could have adverse consequences on the Company's future results. Market demand
+for silicon wafers increased significantly during the course of 1999 and through
+the first quarter of 2000, while supply of such wafers has increased at a much
+slower rate, resulting in a firmer pricing environment, less responsiveness to
+requests for expedited delivery by wafer suppliers, and in some cases,
+unsatisfied demand. In general, the lead time to increase market wafer supply by
+building additional wafer fabrication facilities is approximately two years and
+in periods where demand for wafers increases rapidly for a prolonged period,
+market shortages tend to occur. Management believes that for at least the next
+several quarters, demand will exceed the foundry industry's ability to supply
+silicon wafers and that certain companies that rely on the foundry industry will
+not be successful in securing all of the wafers that they desire, thereby
+constraining their revenues. The Company believes that under such circumstances
+it is important to have close business relationships with wafer suppliers in
+order to receive the desired quantity of product. The Company believes that it
+enjoys close working relationships with its principal wafer supplier, TSMC, and
+as of March 31, 2000, the Company had in its other current assets a deposit of
+$8.4 million for future wafer allocations from TSMC which will be utilized
+during the second quarter of 2000. However, there can be no assurance the
+Company will be successful in securing its total desired output from TSMC or
+that the Company's future growth will not be impaired by the scarcity of silicon
+wafers.
+
+     Natural or man-made disasters, normal process fluctuations and variances in
+manufacturing yields could have a severe negative impact on the Company's
+operating capabilities. For example, in September 1999 a major earthquake struck
+Taiwan resulting in widespread physical damage and loss of life. The earthquake
+halted wafer fabrication production at the Company's primary vendor, TSMC, for
+several days and then only limited production began. It was nearly two weeks
+before full production resumed and additionally some portion of the inventory in
+the production process was scrapped as a result of damage incurred during the
+earthquake. The Company has sought to diversify its operating risk by
+participating in the WaferTech joint venture to manufacture silicon wafers with
+other partners in Camas, Washington. Production began at the WaferTech joint
+venture in October 1998 and volume production was achieved in 1999. WaferTech
+has yet to make a profit and has experienced lower than forecast production
+yields resulting in lower than forecast output. Although the Company expects
+future WaferTech production volumes and yields to increase, the ramp up of
+WaferTech's production has been slower than forecasted and has not met the
+targeted level to achieve profitability. There can be no assurances that the
+worldwide supply and demand for semiconductor wafers will be such that WaferTech
+will make a profit and that WaferTech will not continue to have an adverse
+impact on the Company's operating results.
+
+     Also, a number of factors outside of the Company's control, including
+general economic conditions and cycles in world markets, exchange rate
+fluctuations or a lack of growth in the Company's end markets could adversely
+impact future results. Because of the foregoing and other factors that might
+affect the Company's operating results, past financial performance should not be
+considered an indicator of future performance, and investors should not use
+historical trends to anticipate future results. In addition, the cyclical nature
+of the semiconductor industry and other factors have resulted in a highly
+volatile price of the Company's common stock.
+
+                                       12
+<PAGE>   13
+
+Liquidity and Capital Resources
+
+     During the first quarter of 2000, cash, cash equivalents and short-term
+investments increased by $85.0 million to $930.7 million from $845.7 million at
+December 31, 1999. During the first three months of 2000, the Company's
+operating activities generated net cash of $95.5 million. This cash flow was
+primarily attributable to net income of $75.2 million, adjusted by non-cash
+items including equity in the loss of WaferTech of $1.4 million, depreciation
+and amortization of $7.7 million, an increase in deferred income on sales to
+distributors and income taxes payable of $31.9 million and $35.6 million,
+respectively. These items were partially offset by an increase in deferred
+income taxes, accounts receivable and inventories of $15.7 million, $29.2
+million and $17.9 million, respectively.
+
+     During the first three months of 2000, cash provided by investing
+activities was $3.1 million. The Company invested $15.5 million primarily for
+manufacturing and data processing equipment and software, and building
+improvements in its headquarter's facility. The Company also sold $18.6 million
+(net) of short-term investments. Cash provided by financing activities of $7.3
+million for the first three months of 2000 represented proceeds from the
+issuance of 1.2 million shares of common stock to employees through various
+stock option and award plans.
+
+Financial Condition
+
+     Since its inception, the Company has used a combination of equity and debt
+financing and cash generated from operations to support its operating
+activities.
+
+     As of March 31, 2000, the Company had $930.7 million of cash, cash
+equivalents and short-term investments available to finance future growth. The
+Company believes the available sources of funds and cash expected to be
+generated from operations will be adequate to finance current operations,
+capital expenditures and common stock repurchases for at least the next year.
+
+Impact of Currency and Inflation
+
+     The Company purchases the majority of its materials and services in U.S.
+dollars, and its foreign sales are transacted in U.S. dollars. The Company has,
+in the past, entered into forward contracts to hedge against currency
+fluctuations and to meet contractual commitments denominated in foreign
+currencies. As of March 31, 2000, the Company had no open forward contracts. The
+Company may choose to enter into such contracts from time to time should
+conditions appear favorable. Effects of inflation on the Company's financial
+results have not been significant.
+
+                                       13
+<PAGE>   14
+
+ITEM 3: Quantitative and Qualitative Disclosures About Market Risk
+
+     As of March 31, 2000 and 1999, the Company's investment portfolio consisted
+of fixed income securities of $838.5 million and $528.7 million, respectively.
+These securities, like all fixed income instruments, are subject to interest
+rate risk and will decline in value if market interest rates increase. If market
+interest rates were to increase immediately and uniformly by 10% from levels as
+of March 31, 2000 and 1999, the decline in the fair value of the portfolio would
+not be material. Additionally, the Company has the ability to hold its fixed
+income investments until maturity and, therefore, the Company would not expect
+to recognize such an adverse impact in income or cash flows.
+
+     The Company has international subsidiary operations and is, therefore,
+subject to foreign currency rate exposure. To date, the exposure to the Company
+related to exchange rate volatility has not been significant. If the foreign
+currency rates fluctuate by 10% from rates at March 31, 2000 and 1999, the
+effect on the Company's financial position and results of operations would not
+be material. However, there can be no assurance that there will not be a
+material impact in the future.
+
+                                       14
+<PAGE>   15
+
+PART II OTHER INFORMATION
+
+
+ITEM 1: Legal Proceedings
+
+     The Company is a party to lawsuits and may in the future become a party to
+lawsuits involving various types of claims, including, but not limited to,
+unfair competition and intellectual property matters. Legal proceedings tend to
+be unpredictable and costly and may be affected by events outside the control of
+the Company. There is no assurance that litigation will not have an adverse
+effect on the Company's financial position or results of operations. The
+Company's major litigation matters as of March 31, 2000 are described below.
+
+     In June 1993, Xilinx, Inc. ("Xilinx") brought suit against the Company
+seeking monetary damages and injunctive relief based on the Company's alleged
+infringement of certain patents held by Xilinx. In June 1993, the Company
+brought suit against Xilinx, seeking monetary damages and injunctive relief
+based on Xilinx's alleged infringement of certain patents held by the Company.
+In April 1995, the Company filed a separate lawsuit against Xilinx in Delaware,
+Xilinx's state of incorporation, seeking monetary damages and injunctive relief
+based on Xilinx's alleged infringement of one of the Company's patents. In May
+1995, Xilinx counter-claimed against the Company in Delaware, asserting defenses
+and seeking monetary damages and injunctive relief based on the Company's
+alleged infringement of certain patents held by Xilinx. Subsequently, the
+Delaware case has been transferred to California. In October 1998, both parties
+filed motions for summary judgment with respect to certain issues in the first
+two cases regarding infringement or non-infringement and validity or invalidity
+of the patents at issue in the respective cases. In October 1999 - December
+1999, the Court ruled on the motions. In the Xilinx suit, the Court ruled that
+one of Xilinx's claims is invalid and another claim was withdrawn. The Court
+also ruled that issues of infringement and validity on the remaining claims are
+subject to trial which has been re-scheduled to begin October 5, 2000. In the
+Company's suit, the Court granted that one of the Company's patents is invalid,
+granted that one patent is not infringed, and granted another patent is not
+literally infringed but denied non-infringement under doctrine of equivalence.
+The Court also ordered that the parties engage in mediation, which began
+February 24, 2000; although no substantial progress to resolution has been made,
+mediation is continuing. Due to the nature of the litigation with Xilinx and
+because the lawsuits are still in the pre-trial stage, the Company's management
+cannot estimate the total expense, the possible loss, if any, or the range of
+loss that may ultimately be incurred in connection with the allegations.
+Management cannot ensure that Xilinx will not succeed in obtaining significant
+monetary damages or an injunction against the manufacture and sale of the
+Company's products, including but not limited to MAX 7000, FLEX 8000 or MAX 9000
+families of products, or succeed in invalidating other of the Company's patents.
+Although no assurances can be given as to the results of these cases, the
+Company believes that it has meritorious defenses to the claims asserted in the
+Xilinx suit and intends to defend itself vigorously in this matter.
+
+     In August 1994, Advanced Micro Devices, Inc. ("AMD") brought suit against
+the Company seeking monetary damages and injunctive relief based on the
+Company's alleged infringement of certain patents held by AMD. In September
+1994, the Company answered the complaint asserting that it is licensed to use
+the patents which AMD claims are infringed and filed a counterclaim against AMD
+alleging infringement of certain patents held by the Company. In October 1997,
+upon completion of trials bifurcated from the infringement claims, the District
+Court ruled that the Company is licensed under all patents asserted by AMD in
+the suit. In December 1997, AMD filed a Notice of Appeal of the District Court's
+rulings. In April 1999, the Federal Circuit Court ruled in AMD's favor on its
+appeal, finding that the Company is not licensed to AMD's patents, and remanded
+the case back to the District Court for further proceedings. In 1999, Lattice
+Corporation entered into an agreement with AMD which includes assuming both the
+claims against the Company and the claims against AMD and has replaced AMD in
+the suit with Vantis Corporation, a wholly owned subsidiary of Lattice. Due to
+the nature of the litigation, the Company's management cannot estimate the total
+expense, the possible loss, if any, or the range of loss that may ultimately be
+incurred in connection with the allegations. Management cannot ensure that
+Lattice will not succeed in obtaining significant monetary damages or an
+injunction against the manufacture and sale of the Classic, MAX 7000, FLEX 8000,
+MAX 9000 and FLEX 10K product families, or succeed in invalidating any of the
+Company's patents remaining in the suit. Although no assurances can be given as
+to the results of this case, the Company intends to defend itself vigorously in
+the matter.
+
+                                       15
+<PAGE>   16
+
+     In November 1999, the Company filed suit against Clear Logic Inc. ("Clear
+Logic") alleging that Clear Logic is unlawfully appropriating the Company's
+registered mask work technology in violation of the federal mask work statute
+and that Clear Logic has unlawfully interfered with the Company's relationships
+and contracts with its customers. The lawsuit seeks compensatory and punitive
+damages and an injunction to stop Clear Logic from unlawfully using the
+Company's mask work technology and from interfering with the Company's
+customers. Clear Logic has answered the complaint by denying that it is
+infringing the Company's mask work technology and denying that it has unlawfully
+interfered with the Company's relationships and contracts with its customers.
+Clear Logic has also filed a counterclaim against the Company for unfair
+competition under California law alleging that the Company has made false
+statements to its customers regarding Clear Logic. Due to the nature of the
+litigation with Clear Logic and because the lawsuit is still in the pre-trial
+stage, the Company's management cannot estimate the total expenses, the possible
+loss, if any, or the range of loss that may ultimately be incurred in connection
+with the counterclaim allegations. Although no assurances can be given as to the
+results of this case, the Company intends to defend itself vigorously in the
+matter.
+
+
+ITEM 5: Other Information
+
+     During the second quarter of 2000, the Company acquired two privately-held
+companies, DesignPRO Inc. ("DesignPRO") and Right Track CAD Inc. ("Right
+Track"). DesignPRO, located in Nepean, Ontario, Canada, is a provider of
+intellectual property (IP) cores and custom design solutions, specializing in
+optical internetworking technologies. Right Track, located in Toronto, Ontario,
+Canada, develops architectural and computer aided design (CAD) tools for
+advanced programmable logic devices (PLDs). The acquisitions will be accounted
+for as purchases. The aggregate purchase consideration includes amounts that
+will be allocated to in-process research and development, which will be recorded
+as a one-time charge in the second quarter, deferred compensation, which will be
+amortized to research and development expense over two years for DesignPRO and
+four years for Right Track, and other intangible assets, which will be amortized
+to research and development expense over four years.
+
+
+ITEM 6: Exhibits and Reports on Form 8-K
+
+        (a) Exhibits
+
+            27.1   Financial Data Schedule for the three months ended March 31,
+                   2000.
+
+        (b) Reports on Form 8-K
+
+            None.
+
+                                       16
+
+<PAGE>   17
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                       ALTERA CORPORATION
+
+                                       /s/ NATHAN SARKISIAN
+                                       --------------------------
+                                       Nathan Sarkisian, Senior Vice President
+                                       (duly authorized officer) and  Chief
+                                       Financial Officer (principal financial
+                                       officer)
+
+                                       Date: May 12, 2000
+
+                                       17
+<PAGE>   18
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+  Exhibit
+  Number       Description
+  -------      -----------
+   <S>         <C>
+   27.1        Financial Data Schedule for the three months ended March 31,
+               2000.
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 27.1
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JAN-01-2000
+<PERIOD-END>                               MAR-31-2000
+<CASH>                                         270,161
+<SECURITIES>                                   660,540
+<RECEIVABLES>                                  119,334
+<ALLOWANCES>                                     5,999
+<INVENTORY>                                     81,597
+<CURRENT-ASSETS>                             1,250,371
+<PP&E>                                         163,375
+<DEPRECIATION>                                  95,008
+<TOTAL-ASSETS>                               1,589,649
+<CURRENT-LIABILITIES>                          363,242
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           200
+<OTHER-SE>                                   1,226,207
+<TOTAL-LIABILITY-AND-EQUITY>                 1,589,649
+<SALES>                                        272,781
+<TOTAL-REVENUES>                               272,781
+<CGS>                                           94,590
+<TOTAL-COSTS>                                   94,590
+<OTHER-EXPENSES>                                77,820
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                110,919
+<INCOME-TAX>                                    34,386
+<INCOME-CONTINUING>                             75,154
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    75,154
+<EPS-BASIC>                                       0.38<F1>
+<EPS-DILUTED>                                     0.36
+<FN>
+<F1>For purposes of this Exhibit, Primary means Basic.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

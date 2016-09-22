@@ -1,0 +1,1756 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ SH7VmxkuOE6n8L6vqWQO7qRSmMgqCVdC22avG1s7fNbYRpmXl2XwivQn/7E3wkUm
+ mjqo7g+eR2oZLryK9cMnpA==
+
+<SEC-DOCUMENT>/in/edgar/work/0000050863-00-000130/0000050863-00-000130.txt : 20001115
+<SEC-HEADER>0000050863-00-000130.hdr.sgml : 20001115
+ACCESSION NUMBER:		0000050863-00-000130
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-06217
+			FILM NUMBER:		763809
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		2200 MISSION COLLEGE BLVD
+				CITY:			SANTA CLARA
+				STATE:			CA
+				ZIP:			95052
+				BUSINESS PHONE:		4087658080
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		2200 MISSION COLLEGE BLVD
+					STREET 2:		RN6-27
+					CITY:			SANTA CLARA
+					STATE:			CA
+					ZIP:			95052-8119
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+
+
+
+               UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  FORM 10-Q
+
+(Mark One)
+  X    Quarterly report pursuant to Section 13 or 15(d) of the Securities
+- -----  Exchange Act of 1934
+         For the quarterly period ended September 30, 2000
+
+                                      OR
+       Transition report pursuant to Section 13 or 15(d) of the Securities
+       Exchange Act of 1934
+         For the transition period from          to
+                                        --------    --------
+
+
+Commission file number  0-6217
+                        ------
+
+                              INTEL CORPORATION
+           (Exact name of registrant as specified in its charter)
+
+      Delaware                                       94-1672743
+      --------                                       ----------
+      (State or other jurisdiction of             (I.R.S. Employer
+      incorporation or organization)             Identification No.)
+
+
+2200 Mission College Boulevard, Santa Clara, California     95052-8119
+- -------------------------------------------------------     ----------
+     (Address of principal executive offices)               (Zip Code)
+
+                          (408) 765-8080
+                          --------------
+           (Registrant's telephone number, including area code)
+
+                                     N/A
+                                -------------
+           (Former name, former address, and former fiscal year,
+                         if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes  X    No
+                                                    -----    -----
+
+             Shares outstanding of the Registrant's common stock:
+
+      Class                                Outstanding at September 30, 2000
+Common stock, $0.001 par value                    6,730 million
+
+
+<PAGE>
+
+PART I - FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+INTEL CORPORATION
+CONSOLIDATED CONDENSED STATEMENTS OF INCOME (UNAUDITED)
+(in millions, except per share amounts)
+
+<TABLE>
+<CAPTION>
+
+                                                      Three Months Ended     Nine Months Ended
+                                                     -------------------    --------------------
+                                                     Sept. 30,  Sept. 25,   Sept. 30,  Sept. 25,
+                                                       2000       1999        2000       1999
+                                                     ---------  ---------   ---------  ---------
+<S>                                                  <C>       <C>         <C>        <C>
+Net revenues                                          $  8,731   $  7,328   $  25,024  $  21,177
+Costs and expenses:
+  Cost of sales                                          3,148      3,026       9,420      8,660
+  Research and development                                 977        840       2,899      2,234
+  Marketing, general and administrative                  1,321        952       3,668      2,767
+  Amortization of goodwill and other acquisition-
+   related intangibles and costs                           420        121       1,127        170
+  Purchased in-process research and development              8        333          91        333
+                                                     ---------  ---------   ---------  ---------
+Operating costs and expenses                             5,874      5,272      17,205     14,164
+                                                     ---------  ---------   ---------  ---------
+
+Operating income                                         2,857      2,056       7,819      7,013
+Gains on investments, net                                  716        195       3,309        556
+Interest expense                                            (5)        (8)        (26)       (28)
+Interest income and other, net                             255        129         664        425
+                                                     ---------  ---------   ---------  ---------
+Income before taxes                                      3,823      2,372      11,766      7,966
+
+Provision for taxes                                      1,314        914       3,424      2,760
+                                                     ---------  ---------   ---------  ---------
+
+Net income                                            $  2,509   $  1,458    $  8,342   $  5,206
+                                                     =========  =========   =========  =========
+Basic earnings per common share                      $    0.37  $    0.22   $    1.24  $    0.78
+                                                     =========  =========   =========  =========
+Diluted earnings per common share                    $    0.36  $    0.21   $    1.19  $    0.75
+                                                     =========  =========   =========  =========
+Cash dividends declared per
+  common share                                       $   0.020  $   0.030   $   0.070  $   0.055
+                                                     =========  =========   =========  =========
+
+Weighted average common shares outstanding               6,719      6,650       6,704      6,639
+                                                     =========  =========   =========  =========
+Weighted average common shares outstanding,
+  assuming dilution                                      7,007      6,943       7,002      6,930
+                                                     =========  =========   =========  =========
+
+</TABLE>
+
+
+See Notes to Consolidated Condensed Financial Statements.
+
+
+
+<PAGE>
+
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION
+CONSOLIDATED CONDENSED BALANCE SHEETS
+(in millions)
+
+<TABLE>
+<CAPTION>
+
+                                                        Sept. 30,          Dec. 25,
+                                                          2000               1999
+                                                          ----               ----
+                                                       (unaudited)
+<S>                                                   <C>               <C>
+ASSETS
+Current assets:
+  Cash and cash equivalents                            $   6,434         $   3,695
+  Short-term investments                                   7,170             7,705
+  Trading assets                                             403               388
+  Accounts receivable, net                                 4,574             3,700
+  Inventories:
+    Raw materials                                            334               183
+    Work in process                                          926               755
+    Finished goods                                           676               540
+                                                       ---------         ---------
+                                                           1,936             1,478
+                                                       ---------         ---------
+  Deferred tax assets                                        736               673
+  Other current assets                                       257               180
+                                                       ---------         ---------
+Total current assets                                      21,510            17,819
+                                                       ---------         ---------
+
+Property, plant and equipment                             26,037            23,557
+Less accumulated depreciation                             12,623            11,842
+                                                       ---------         ---------
+Property, plant and equipment, net                        13,414            11,715
+Marketable strategic equity securities                     4,548             7,121
+Other long-term investments                                1,770               790
+Goodwill and other acquisition-related intangibles, net    6,163             4,934
+Other assets                                               1,608             1,470
+                                                       ---------         ---------
+TOTAL ASSETS                                           $  49,013         $  43,849
+                                                       =========         =========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Short-term debt                                      $     336          $     230
+  Accounts payable                                         2,360              1,370
+  Accrued compensation and benefits                        1,381              1,454
+  Deferred income on shipments to distributors               716                609
+  Accrued advertising                                        725                582
+  Other accrued liabilities                                1,621              1,159
+  Income taxes payable                                     1,386              1,695
+                                                       ---------          ---------
+Total current liabilities                                  8,525              7,099
+                                                       ---------          ---------
+Long-term debt                                               610                955
+Deferred tax liabilities                                   2,173              3,130
+Put warrants                                                   -                130
+Stockholders' equity:
+  Preferred stock                                              -                  -
+  Common stock and capital in excess
+    of par value                                           8,643              7,316
+  Acquisition-related unearned stock compensation            (96)                 -
+  Retained earnings                                       27,254             21,428
+  Accumulated other comprehensive income                   1,904              3,791
+                                                        ---------         ---------
+Total stockholders' equity                                37,705             32,535
+                                                        ---------         ---------
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY             $  49,013          $  43,849
+                                                        =========         =========
+
+</TABLE>
+
+See Notes to Consolidated Condensed Financial Statements.
+
+
+
+<PAGE>
+
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION
+CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(in millions)
+
+<TABLE>
+<CAPTION>
+
+                                                                       Nine Months Ended
+                                                                       -----------------
+                                                                     Sept. 30,     Sept. 25,
+                                                                       2000          1999
+                                                                       ----          ----
+<S>                                                                 <C>          <C>
+Cash flows provided by (used for) operating activities:
+Net income                                                           $   8,342    $   5,206
+Adjustments to reconcile net income to net cash provided
+   by operating activities:
+  Depreciation                                                           2,463        2,338
+  Amortization of goodwill and other acquisition-related
+   intangibles and costs                                                 1,127          170
+  Purchased in-process research and development                             91          333
+  Gains on investments, net                                             (3,309)        (556)
+  Net loss on retirements of property, plant and equipment                  99          161
+  Deferred taxes                                                          (108)        (216)
+  Changes in assets and liabilities:
+    Accounts receivable                                                   (839)         191
+    Inventories                                                           (437)          17
+    Accounts payable                                                       958          288
+    Accrued compensation and benefits                                      (82)        (140)
+    Income taxes payable                                                  (311)         201
+    Tax benefit from employee stock plans                                  852          416
+    Other assets and liabilities                                           603           38
+                                                                     ---------    ---------
+      Total adjustments                                                  1,107        3,241
+                                                                     ---------    ---------
+
+Net cash provided by operating activities                                9,449        8,447
+                                                                     ---------    ---------
+
+Cash flows provided by (used for) investing activities:
+  Additions to property, plant and equipment                            (4,251)      (2,423)
+  Acquisitions, net of cash acquired                                    (2,102)      (1,039)
+  Purchases of available-for-sale investments                          (11,250)      (6,199)
+  Sales of available-for-sale investments                                3,624          628
+  Maturities of available-for-sale investments                          10,324        6,028
+  Other investing activities                                              (522)        (537)
+                                                                     ---------    ---------
+Net cash used for investing activities                                  (4,177)      (3,542)
+                                                                     ---------    ---------
+Cash flows provided by (used for) financing activities:
+  Increase in short-term debt, net                                         106            3
+  Additions to long-term debt                                               11           28
+  Retirements of long-term debt                                            (46)           -
+  Proceeds from sales of shares through employee stock plans and other     737          493
+  Proceeds from sales of put warrants                                        -           20
+  Repurchase and retirement of common stock                             (3,006)      (3,709)
+  Payment of dividends to stockholders                                    (335)        (266)
+                                                                     ---------    ---------
+Net cash used for financing activities                                  (2,533)      (3,431)
+                                                                     ---------    ---------
+Net increase in cash and cash equivalents                            $   2,739    $   1,474
+                                                                     =========    =========
+
+Supplemental disclosures of cash flow information:
+  Cash paid during the period for:
+   Interest                                                          $      32    $      31
+   Income taxes                                                      $   2,987    $   2,348
+
+</TABLE>
+
+See Notes to Consolidated Condensed Financial Statements.
+
+
+
+<PAGE>
+
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION, NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS -
+UNAUDITED
+
+
+BASIS OF PRESENTATION
+
+The accompanying interim consolidated condensed financial statements of Intel
+Corporation have been prepared in conformity with generally accepted
+accounting principles, consistent in all material respects with those applied
+in the company's Annual Report on Form 10-K for the year ended December 25,
+1999.  The interim financial information is unaudited, but reflects all normal
+adjustments which are, in the opinion of management, necessary to provide a
+fair statement of results for the interim periods presented.  The interim
+financial statements should be read in connection with the financial
+statements in the company's Annual Report on Form 10-K for the year ended
+December 25, 1999.  Certain amounts for prior periods have been reclassified
+to conform to the current presentation.  All share, per share and warrant
+amounts in prior periods have been restated to reflect the two-for-one stock
+split, effected as a special stock distribution on July 30, 2000.
+
+DIVIDEND POLICY
+
+The company's dividend policy generally results in the Board of Directors
+considering two dividend declarations in each of the first and third quarters
+of the year, with dividend payments made quarterly.  However, in conjunction
+with the stock split announcement in the second quarter of 2000, the Board of
+Directors declared a quarterly dividend that was paid on September 1, 2000,
+and at the same time the Board of Directors approved an increase in the
+quarterly dividend from $0.015 to $0.02 per share.  Only one dividend was
+declared in the third quarter, for $0.02 per share, payable December 1, 2000
+to shareholders of record on November 7, 2000.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+The company will adopt Statement of Financial Accounting Standards (SFAS) No.
+133, "Accounting for Derivative Instruments and Hedging Activities," as
+amended, at the beginning of its fiscal year 2001.  The standard will require
+the company to recognize all derivatives on the balance sheet at fair value.
+Derivatives that are not hedges must be adjusted to fair value through income.
+If the derivative is a hedge, depending on the nature of the hedge, changes in
+the fair value of derivatives will either be offset against the change in fair
+value of the hedged assets, liabilities or firm commitments through earnings,
+or recognized in other comprehensive income until the hedged item is
+recognized in earnings.  The change in a derivative's fair value related to
+the ineffective portion of a hedge, if any, will be immediately recognized in
+earnings.  Management believes appropriate systems and processes will be in
+place prior to adoption in order to comply with the requirements of the
+standard.  The primary impact on adoption is expected to result from the
+recognition of the fair value of investments in equity warrants.  The
+adjustment for the cumulative effect of adoption in the first quarter of 2001
+will depend on the actual holdings of derivative instruments and the market
+conditions on the date of adoption, but could result in an addition to net
+income per share of as much as $0.02, on an after-tax basis.
+
+In December 1999, the Securities and Exchange Commission released Staff
+Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements"
+(SAB 101), providing the staff's views in applying generally accepted
+accounting principles to selected revenue recognition issues.  For Intel, SAB
+101 becomes effective in the fourth quarter of 2000.  The company believes
+that it is in compliance with SAB 101.
+
+
+
+<PAGE>
+
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION, NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS -
+UNAUDITED (CONTINUED)
+
+EARNINGS PER SHARE
+
+A reconciliation of the shares used in the computation of the company's basic
+and diluted earnings per common share is as follows (in millions):
+
+<TABLE>
+<CAPTION>
+
+                                           Three Months Ended         Nine Months Ended
+                                           ------------------         -----------------
+                                          Sept. 30,  Sept. 25,       Sept. 30,  Sept. 25,
+                                            2000       1999            2000       1999
+                                            ----       ----            ----       ----
+<S>                                         <C>        <C>             <C>        <C>
+Weighted average common shares
+   outstanding                               6,719      6,650           6,704      6,639
+Dilutive effect of:
+   Employee stock options                      283        289             291        290
+   Convertible notes                             5          4               7          1
+                                             -----      -----           -----      -----
+Weighted average common shares
+   outstanding, assuming dilution            7,007      6,943           7,002      6,930
+                                             =====      =====           =====      =====
+</TABLE>
+
+Weighted average common shares outstanding, assuming dilution, includes the
+incremental shares that would be issued upon the assumed exercise of stock
+options and the assumed conversion of the convertible notes for the period
+they were outstanding (see Long-Term Debt note).  Certain of the company's
+stock options were excluded from the calculation of diluted earnings per share
+because they were antidilutive, but these options could be dilutive in the
+future.  Net income for the purpose of computing diluted earnings per common
+share is not materially affected by the assumed conversion of the convertible
+notes.
+
+STOCK REPURCHASE PROGRAM
+
+During the first nine months of 2000, the company repurchased 50.7 million
+shares of common stock under the company's authorized repurchase program at a
+cost of $3.0 billion.  As of September 30, 2000, approximately 149.5 million
+shares remained available for repurchase under the program.
+
+PUT WARRANTS
+
+In a series of private placements during the 1991-1999 period, the company
+sold put warrants that entitled the holder of each warrant to sell to the
+company, by physical delivery, one share of common stock at a specified price.
+The four million put warrants that were outstanding at December 25, 1999
+expired unexercised in the first quarter of 2000.
+
+INTEREST INCOME AND OTHER
+
+Interest income and other, net included (in millions):
+
+<TABLE>
+<CAPTION>
+                              Three Months Ended          Nine Months Ended
+                             -------------------         ------------------
+                            Sept. 30,  Sept. 25,        Sept. 30,  Sept. 25,
+                              2000       1999             2000       1999
+                              ----       ----             ----       ----
+<S>                        <C>        <C>              <C>        <C>
+Interest income             $    267   $    152         $    672   $    456
+Other, net                       (12)       (23)              (8)       (31)
+                            --------   --------         --------   --------
+Total                       $    255   $    129         $    664   $    425
+                            ========   ========         ========   ========
+
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION, NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS -
+UNAUDITED (CONTINUED)
+
+ACQUISITIONS
+
+During the first nine months of 2000, the company completed several
+acquisitions, all of which have been accounted for using the purchase method
+of accounting.
+
+In March 2000, the company acquired Ambient Technologies, Inc. in a cash
+transaction.  Ambient develops integrated digital subscriber line silicon
+solutions and analog modems designed to bring high-speed Internet access to
+home users and small businesses.
+
+Also in March 2000, the company acquired GIGA A/S in a cash transaction.  GIGA
+specializes in the design of advanced high-speed communications chips used in
+optical networking and communications products that direct traffic across the
+Internet and corporate networks.
+
+In April 2000, the company acquired Picazo Communications, Inc. in a cash
+transaction.  Picazo specializes in CT Media-TM- server software which
+allows third-party vendors to develop innovative new applications for
+telecommunications.
+
+In May 2000, the company acquired Basis Communications Corporation for cash
+and options assumed.  Basis designs and markets advanced semiconductors and
+other products used in equipment that directs traffic across the Internet and
+corporate networks.
+
+In August 2000, the company acquired Trillium Digital Systems, Inc. in
+exchange for 2.6 million unregistered shares of Intel common stock, cash and
+options assumed.  The portion of the purchase consideration related to 1.2
+million shares and the intrinsic value of stock options related to future
+services, totaling $102 million, is contingent on the continued employment of
+certain key employees and is classified as Acquisition-Related Unearned Stock
+Compensation within Stockholders' Equity.  This amount is being amortized over
+the period during which the services will be performed (see Acquisition-
+Related Unearned Stock Compensation note).  Trillium is a provider of
+communications software solutions which are used by suppliers of wireless,
+Internet, broadband and telephony products.
+
+These purchase transactions are further described below (in millions):
+
+<TABLE>
+<CAPTION>
+
+                                  Purchased             Goodwill
+  Entity                      In-Process Research   and Identified
+   Name      Consideration     and Development        Intangibles     Form of Consideration
+- ---------    -------------    -------------------   --------------    ---------------------
+<S>          <C>              <C>                   <C>               <C>
+Ambient        $    148          $    10               $    135       Cash and options assumed
+GIGA           $  1,247          $    52               $  1,184       Cash
+Picazo         $    120          $     -               $    120       Cash and options assumed
+Basis          $    453          $    21               $    472       Cash and options assumed
+Trillium       $    277          $     8               $    232       Common stock, cash and
+                                                                      options assumed
+
+</TABLE>
+
+Consideration includes the cash paid, less any cash acquired, together with
+the value of any stock issued and options assumed, but excludes any debt
+assumed.
+
+
+
+<PAGE>
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION, NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS -
+UNAUDITED (CONTINUED)
+
+ACQUISITIONS (CONTINUED)
+
+For the first nine months of 2000, $91 million was allocated to purchased in-
+process research and development (IPR&D) and expensed upon acquisition of the
+above companies.  The fair value of the IPR&D was determined using the income
+approach, which discounts expected future cash flows from projects under
+development to their net present value.  Each project was analyzed to
+determine the technological innovations included; the utilization of core
+technology; the complexity, cost and time to complete development; any
+alternative future use or current technological feasibility; and the stage of
+completion.  Future cash flows were estimated, taking into account the
+expected life cycles of the products and the underlying technology, relevant
+market sizes and industry trends.  Discount rates were derived from weighted
+average cost of capital analysis, adjusted to reflect the relative risks
+inherent in each entity's development process.  The IPR&D charge includes the
+fair value of IPR&D completed.  The fair value assigned to developed
+technology is included in identified intangible assets, and no value is
+assigned to IPR&D to be completed or to future development.  Intel believes
+the amounts determined for IPR&D, as well as developed technology, are
+representative of fair value and do not exceed the amounts an independent
+party would pay for these projects.
+
+In addition to the transactions described above, Intel also purchased other
+businesses in smaller transactions.  The charge for IPR&D related to the other
+acquisitions was not significant.  The total amount allocated to goodwill and
+identified intangibles for these transactions was $207 million, which
+represents a substantial majority of the consideration for these transactions.
+
+The consolidated condensed financial statements include the operating results
+of acquired businesses from the dates of acquisition.  The operating results
+of Ambient, GIGA and Trillium since their acquisition have been included in
+the operating results of the Network Communications Group operating segment.
+The operating results of Picazo and Basis since their acquisition have been
+included in the operating results of the Communications Product Group
+operating segment.  These groups have been included in the "all other"
+category for segment reporting purposes.
+
+The pro forma information below assumes that companies acquired in 2000 and
+1999 had been acquired at the beginning of 1999 and includes the effect of
+amortization of goodwill and other identified intangibles and costs from that
+date.  The impact of charges for IPR&D has been excluded.  This is presented
+for informational purposes only and is not necessarily indicative of the
+results of future operations or results that would have been achieved had the
+acquisitions taken place at the beginning of 1999.
+
+<TABLE>
+<CAPTION>
+
+                                                   Three Months Ended         Nine Months Ended
+                                                   ------------------         -----------------
+                                                 Sept. 30,  Sept. 25,       Sept. 30,  Sept. 25,
+(in millions, except per share amounts)            2000       1999            2000       1999
+                                                   ----       ----            ----       ----
+<S>                                             <C>        <C>             <C>        <C>
+Net revenues                                     $  8,735   $  7,434        $ 25,086   $ 21,765
+Net income                                       $  2,509   $  1,497        $  8,288   $  4,543
+Basic earnings per common share                  $   0.37   $   0.22        $   1.24   $   0.68
+Diluted earnings per common share                $   0.36   $   0.21        $   1.18   $   0.65
+</TABLE>
+
+
+
+<PAGE>
+
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION, NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS -
+UNAUDITED (CONTINUED)
+
+GOODWILL AND OTHER ACQUISITION-RELATED INTANGIBLES
+
+Net goodwill and other acquisition-related intangibles at the end of each
+period consisted of the following (in millions):
+
+<TABLE>
+<CAPTION>
+
+                                                Sept. 30,      Dec. 25,
+                             Life in Years        2000           1999
+                             -------------        ----           ----
+<S>                          <C>               <C>           <C>
+Goodwill                          2-6           $  5,168      $  4,124
+Developed technology              3-6                793           612
+Other intangibles                 2-6                202           198
+                                                --------      --------
+Total                                           $  6,163      $  4,934
+                                                ========      ========
+
+</TABLE>
+
+
+Other intangibles include items such as trademarks, workforce-in-place and
+customer lists.  The total balances presented above are net of total
+accumulated amortization of $1.6 billion and $471 million at September 30,
+2000 and December 25, 1999, respectively.
+
+Amortization of goodwill and other acquisition-related intangibles and costs
+was $1.1 billion for the first nine months of 2000.  This includes $942
+million of amortization of goodwill, $179 million of amortization of other
+acquisition-related intangibles (a majority of which was related to developed
+technology) and $6 million of amortization of acquisition-related compensation
+costs (see Acquisition-Related Unearned Stock Compensation note).
+
+MTH RESERVE
+
+In May 2000, the company announced that it would replace motherboards that
+have a defective memory translator hub (MTH) component that enables SDRAM
+memory to work with the Intel-R- 820 Chipset.  The MTH component began shipping
+in November 1999, with a substantial majority of Intel's shipments occurring
+in the first quarter of 2000.  The company estimates that fewer than one
+million boards or systems with the MTH component were shipped to end users.
+In the first quarter of 2000, the company recorded a revenue reserve for
+chipsets and motherboards with the MTH component that remained in raw
+materials inventories at Intel's customers and which could be returned to
+Intel for credit.  The company also recorded additional inventory reserves
+related to these products.  In the second quarter of 2000, the company was
+able to estimate the cost of the motherboard replacement program and recorded
+a $200 million reserve.  For the nine months ended September 30, 2000, the
+total impact on gross margin of the revenue and inventory reserves and the
+estimated cost of the motherboard replacement program was approximately $253
+million.  As of September 30, 2000, the balance in the reserve was
+approximately $87 million.  Management believes that the balance in the
+reserve is adequate for the estimated remaining costs of the motherboard
+replacement program.
+
+LONG-TERM DEBT
+
+During August of 2000, the company announced its intention to call the 4%
+convertible subordinated notes due 2004 issued by Level One Communications,
+Inc.  In September, all of the notes were exchanged for approximately 7.4
+million shares of unregistered Intel common stock.  The notes had a principal
+amount of $115 million and a total carrying value of $207 million.
+
+INCOME TAX BENEFIT
+
+In March of 2000, the Internal Revenue Service closed its examination of the
+company's tax returns for years up to and including 1998.  Resolution was
+reached on a number of issues including adjustments related to the
+intercompany allocation of profits.  As part of this closure, the company
+reversed previously accrued taxes, reducing the tax provision for the first
+quarter of 2000 by $600 million, or approximately $0.09 per share.
+
+
+
+<PAGE>
+
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION, NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS -
+UNAUDITED (CONTINUED)
+
+ACQUISITION-RELATED UNEARNED STOCK COMPENSATION
+
+During the third quarter of 2000, the company recorded acquisition-related
+purchase consideration of $102 million as unearned stock-based compensation,
+in accordance with Financial Accounting Standards Board Interpretation No. 44,
+"Accounting for Certain Transactions Involving Stock Compensation."  This
+amount represents the portion of the purchase consideration related to shares
+issued contingent on continued employment of certain employee stockholders and
+the intrinsic value of stock options assumed that become exercisable as future
+services are provided by employees.  The compensation is being recognized over
+the related employment period and the expense is included in the amortization
+of goodwill and other acquisition-related intangibles and costs.  A total of
+$6 million of expense was recognized in the third quarter of 2000.
+
+COMPREHENSIVE INCOME
+
+The components of comprehensive income, net of tax, were as follows (in
+millions):
+
+<TABLE>
+<CAPTION>
+
+                                               Three Months Ended         Nine Months Ended
+                                               ------------------        ------------------
+                                             Sept. 30,  Sept. 25,       Sept. 30,  Sept. 25,
+                                               2000       1999            2000       1999
+                                               ----       ----            ----       ----
+<S>                                         <C>        <C>             <C>        <C>
+Net income                                   $  2,509   $  1,458        $  8,342   $  5,206
+Change in net unrealized gain on
+  available-for-sale investments               (1,072)       929          (1,887)     1,456
+                                              --------   --------        --------   --------
+Total                                        $  1,437   $  2,387        $  6,455   $  6,662
+                                              ========   ========        ========   ========
+
+</TABLE>
+
+Accumulated other comprehensive income presented in the accompanying
+consolidated condensed balance sheets consists of the accumulated net
+unrealized gain on available-for-sale investments.
+
+COMMITMENTS
+
+During May 2000, the company announced that it had entered into an agreement
+to form a new company with Excalibur Technologies Corporation.  Upon
+completion of the transaction, the new company will be named Convera.  Intel
+expects to contribute its Interactive Media Services division to Convera and
+invest approximately $155 million in cash.  Convera is intended to enable
+owners of branded content, such as sports and entertainment, to produce and
+securely sell their audio and video content over the Internet.  The completion
+of this transaction is subject to regulatory review, Excalibur stockholder
+approval and other normal closing conditions.
+
+CONTINGENCIES
+
+In November 1997, Intergraph Corporation filed suit in Federal District Court
+in Alabama for patent infringement and generally alleging that Intel attempted
+to coerce Intergraph into relinquishing certain patent rights.  The suit
+alleges that Intel infringes five Intergraph microprocessor-related patents,
+and includes alleged violations of antitrust laws and various state law
+claims.  The suit seeks injunctive relief, damages and prejudgment interest,
+and further alleges that Intel's infringement is willful and that any damages
+awarded should be trebled.  Intergraph's expert witness has claimed that
+Intergraph is entitled to damages of approximately $2.2 billion for Intel's
+alleged patent infringement, $500 million for the alleged antitrust violations
+and an undetermined amount for alleged state law violations.  Intel has
+counterclaimed that the Intergraph patents are invalid and further alleges
+infringement of seven Intel patents, breach of contract and misappropriation
+of trade secrets.  In October 1999, the court reconsidered an earlier adverse
+ruling and granted Intel's motion for summary judgment that the Intergraph
+patents are licensed to Intel, and dismissed all of Intergraph's patent
+infringement claims with prejudice.  Intergraph has appealed this ruling.  In
+November 1999, the Court of Appeals for the Federal Circuit reversed the
+District Court's April 1998 order requiring Intel to continue to deal with
+Intergraph on the same terms as it treats allegedly similarly situated
+customers with respect to confidential information and products supply.  In
+March 2000, the District Court issued an order granting Intel summary judgment
+
+
+
+<PAGE>
+
+
+ITEM 1.  FINANCIAL STATEMENTS (CONTINUED)
+
+INTEL CORPORATION, NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS -
+UNAUDITED (CONTINUED)
+
+CONTINGENCIES (CONTINUED)
+
+on Intergraph's antitrust claims.  Intergraph has appealed this ruling.  The
+company disputes Intergraph's remaining state law claims, and intends to
+defend the lawsuit vigorously.
+
+The company is currently party to various legal proceedings, including that
+noted above.  While management, including internal counsel, currently believes
+that the ultimate outcome of these proceedings, individually and in the
+aggregate, will not have a material adverse effect on the company's financial
+position or overall trends in results of operations, litigation is subject to
+inherent uncertainties.  Were an unfavorable ruling to occur, there exists the
+possibility of a material adverse impact on the net income of the period in
+which the ruling occurs.
+
+OPERATING SEGMENT INFORMATION
+
+Intel is organized into five product-line operating segments, the Intel
+Architecture Group, the Wireless Communications and Computing Group, the
+Network Communications Group, the Communications Products Group, and the New
+Business Group.
+
+Although the company has five operating segments, only the Intel Architecture
+Group is a reportable segment.  The Intel Architecture Group's products
+include microprocessors, motherboards and other related board-level products,
+including chipsets.
+
+The "all other" category includes revenues and earnings or losses for all
+operating segments other than the Intel Architecture Group.  In addition, "all
+other" includes certain corporate-level operating expenses (primarily the
+amount by which total profit-dependent bonus expenses differ from a targeted
+level allocated to all of the operating segments) not allocated to operating
+segments.
+
+Prior to the third quarter of 2000, changes in the reserve for deferred income
+on shipments to distributors were not allocated to the operating segments and
+therefore were included in the "all other" category in order to reconcile
+total revenues and operating profits.  As of the third quarter of 2000, the
+revenue and operating profit related to changes in the distributor reserve
+have been allocated to the operating segments for internal management
+reporting and segment reporting.  Information for prior periods has been
+restated to conform to the new presentation.
+
+Segment information is summarized as follows (in millions):
+
+<TABLE>
+<CAPTION>
+
+                                Three Months Ended         Nine Months Ended
+                                ------------------         -----------------
+                               Sept. 30,  Sept. 25,      Sept. 30,  Sept. 25,
+                                 2000       1999           2000       1999
+                                 ----       ----           ----       ----
+
+<S>                           <C>        <C>            <C>        <C>
+Intel Architecture Group:
+- -------------------------
+  Revenues                     $  7,038   $  6,268       $ 20,449   $ 18,496
+  Operating profit             $  3,457   $  2,731       $  9,612   $  8,120
+
+All other:
+- ----------
+  Revenues                     $  1,693   $  1,060       $  4,575   $  2,681
+  Operating loss               $   (600)  $   (675)      $ (1,793)  $ (1,107)
+
+Total:
+- ------
+  Revenues                     $  8,731   $  7,328        $ 25,024  $ 21,177
+  Operating profit             $  2,857   $  2,056        $  7,819  $  7,013
+
+</TABLE>
+
+
+<PAGE>
+
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+RESULTS OF OPERATIONS - THIRD QUARTER OF 2000 COMPARED TO THIRD QUARTER OF
+1999
+
+Intel's net revenues in Q3 2000 increased by 19% compared to Q3 1999.  Net
+revenues for the Intel Architecture Group operating segment increased 12% in
+Q3 2000 compared to Q3 1999.  The increase in net revenues for the Intel
+Architecture Group was primarily due to higher unit sales volume of
+microprocessors as well as increased revenues from sales of chipsets.
+Additionally within the "all other" category for segment reporting purposes,
+revenues from sales of flash memory and networking and communications products
+grew significantly between these periods.  As of the third quarter of 2000,
+the revenues related to changes in the distributor reserve have been allocated
+to the operating segments.  Amounts for 1999 have been reclassified on a
+comparable basis.
+
+For Q3 2000, sales of microprocessors and related board-level products based
+on the P6 microarchitecture, which are included in the Intel Architecture
+Group's operations, comprised a majority of Intel's consolidated net revenues
+and a substantial majority of gross margin.  For Q3 1999, these products
+represented a substantial majority of the company's consolidated net revenues
+and gross margin.
+
+Cost of sales increased 4% in Q3 2000 compared to Q3 1999.  Within the Intel
+Architecture Group operating segment, cost of sales decreased primarily due to
+lower unit costs in Q3 2000, partially offset by increased costs due to higher
+sales volume of microprocessors and other products.  The lower unit costs in
+Q3 2000 were achieved primarily through the continued transition to
+microprocessor products with lower-cost packaging as well as factory
+efficiencies.  Increased costs due to higher sales volume of products within
+the "all other" category more than offset decreased costs in the Intel
+Architecture Group.  The company's gross margin percentage increased to 64% in
+Q3 2000 from 59% in Q3 1999.  The improvement in gross margin was primarily a
+result of lower unit costs of microprocessors in the Intel Architecture Group.
+In addition, improved demand and higher prices for flash memory in Q3 2000
+also contributed to the improvement in gross margin.  See "Outlook" for a
+discussion of gross margin expectations.
+
+Excluding charges of $8 million for purchased in-process research and
+development (IPR&D) related to the acquisitions completed in Q3 2000, research
+and development spending increased $137 million, or 16%, in Q3 2000 compared
+to Q3 1999.  This increase was primarily due to increased spending on product
+development programs, including product development of companies acquired
+since Q3 1999.  Marketing, general and administrative expenses increased $369
+million, or 39%, in Q3 2000 compared to Q3 1999, primarily due to increases
+for the Intel Inside-R- cooperative advertising program, profit-dependent
+bonus expenses, and marketing, general and administrative expenses from
+companies acquired.  Excluding the charges for IPR&D and the amortization of
+goodwill and other acquisition-related intangibles and costs, operating
+expenses were 26% of net revenues in Q3 2000 and 24% of net revenues in Q3
+1999.
+
+In Q3 2000, the company recorded a charge of $8 million for IPR&D related to
+the acquisition of Trillium Digital Systems, Inc.  In Q3 1999, the company
+recorded a charge of $333 million for IPR&D primarily related to the
+acquisitions of Dialogic Corporation and Level One Communications, Inc.
+Amortization of goodwill and other acquisition-related intangibles and costs
+increased to $420 million in Q3 2000 compared to $121 million in Q3 1999,
+primarily due to the increased level of acquisitions since Q3 1999.
+
+Gains on investments amounted to $716 million in Q3 2000 and $195 million in
+Q3 1999, primarily resulting from sales of marketable strategic equity
+securities.  Interest and other income increased to $255 million in Q3 2000
+compared to $129 million in Q3 1999 primarily due to higher interest income.
+The increase in interest income is due to higher average investment balances
+and higher interest rates in Q3 2000 compared to Q3 1999.
+
+The company's effective income tax rate was approximately 34.4% in Q3 2000.
+Excluding the impact of non-deductible charges for IPR&D and amortization of
+goodwill, the company's effective income tax rate was approximately 31.8% for
+Q3 2000 compared to approximately 33% in Q3 1999.  The decreased rate in Q3
+2000 compared to Q3 1999 reflects the impact of the resolution reached with
+the Internal Revenue Service in Q1 2000 on a number of issues including
+adjustments related to the intercompany allocation of profits.
+
+
+
+<PAGE>
+
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS (CONTINUED)
+
+RESULTS OF OPERATIONS - FIRST NINE MONTHS OF 2000 COMPARED TO FIRST NINE
+MONTHS OF 1999
+
+Intel's net revenues for the first nine months of 2000 increased by 18%
+compared to the first nine months of 1999.  Net revenues for the Intel
+Architecture Group operating segment increased 11% in the first nine months of
+2000 compared to the first nine months of 1999.  The increase in net revenues
+for the Intel Architecture Group was primarily due to higher unit sales volume
+of microprocessors partially offset by lower prices.  Additionally within the
+"all other" category for segment reporting purposes, revenues from sales of
+flash memory and networking and communications products grew significantly
+between these periods.
+
+Sales of microprocessors and related board-level products based on the P6
+microarchitecture comprised a majority of Intel's consolidated net revenues
+and a substantial majority of gross margin for the first nine months of 2000.
+For the first nine months of 1999, these products represented a substantial
+majority of the company's consolidated net revenues and gross margin.
+
+Cost of sales increased 9% in the first nine months of 2000 compared to the
+first nine months of 1999.  Within the Intel Architecture Group operating
+segment, cost of sales decreased primarily due to lower unit costs in the
+first nine months of 2000, partially offset by increased costs due to higher
+sales volume of microprocessors and other products.  The lower unit costs in
+the first nine months of 2000 were achieved primarily through the continued
+transition to redesigned microprocessor products with lower-cost packaging as
+well as factory efficiencies.  Lower unit costs within the Intel Architecture
+Group were also partially offset by the costs recorded in the first nine
+months of 2000 for the impact of inventory reserves related to chipsets and
+motherboards with the defective MTH component and the charge for the
+motherboard replacement program.  Increased costs due to higher sales volume
+of products within the "all other" category more than offset decreased costs
+from the Intel Architecture Group.  The company's gross margin percentage
+increased to 62% in the first nine months of 2000, up from 59% in first nine
+months of 1999.  The improvement in gross margin was primarily a result of
+lower unit costs of microprocessors in the Intel Architecture Group, partially
+offset by the impact of lower sales prices for microprocessors and the impact
+of the MTH issue.  In addition, improved demand and higher prices for flash
+memory in the first nine months of 2000 also contributed to the improvement in
+gross margin.  See "Outlook" for a discussion of gross margin expectations.
+
+Excluding charges of $91 million for IPR&D related to the acquisitions
+completed in the first nine months of 2000, research and development spending
+increased $665 million, or 30%, in the first nine months of 2000 compared to
+the first nine months of 1999.  This increase was primarily due to increased
+spending on product development programs including product development of
+companies acquired.  Marketing, general and administrative expenses increased
+$901 million, or 33%, in the first nine months of 2000 compared to the first
+nine months of 1999, primarily due to increases for the Intel Inside
+cooperative advertising program, profit-dependent bonus expenses, and
+marketing, general and administrative expenses from companies acquired.
+Excluding the charges for IPR&D and the amortization of goodwill and other
+acquisition-related intangibles and costs, operating expenses were 26% of net
+revenues in the first nine months of 2000 and 24% of net revenues in the first
+nine months of 1999.
+
+In the first nine months of 2000, the company recorded $91 million in charges
+for IPR&D related to the acquisition of GIGA A/S, Basis Communications
+Corporation, Trillium and Ambient Technologies, Inc.  The total charge for
+IPR&D for GIGA was approximately $52 million.  GIGA specializes in the design
+of advanced high-speed communications chips used in optical networking and
+communications products that direct traffic across the Internet and corporate
+networks.  One project, in the 10 gigabits-per-second (Gbps) product group,
+accounted for 73% of the IPR&D value, with four remaining projects each
+contributing from 5% to 9% of the total IPR&D value.  The in-process projects
+include the development of next generation integrated circuit devices
+featuring improved speed, efficiency and functionality for communications
+equipment.  These projects ranged from 7% to 78% complete, with the 10 Gbps
+project approximately 61% complete.  Expected completion dates for the
+projects range from Q2 2000 to Q2 2001, with total remaining costs to complete
+of approximately $12 million.  The average discount rates used for GIGA were
+20% for IPR&D projects, and 11% for developed technology.  GIGA's weighted
+average cost of capital was 15%.
+
+
+
+<PAGE>
+
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS (CONTINUED)
+
+RESULTS OF OPERATIONS - FIRST NINE MONTHS OF 2000 COMPARED TO FIRST NINE
+MONTHS OF 1999 (CONTINUED)
+
+The estimated completion dates of certain IPR&D projects from companies
+acquired in 1999 were revised in the first nine months of 2000.  For the
+Dialogic Corporation acquisition, the computer telephony (CT) server project,
+accounting for 35% of the value assigned to IPR&D, is now expected to be
+completed in Q4 2000.  This project was originally scheduled to be completed
+in Q1 2000.  For the Level One Communications, Inc. acquisition, one project
+related to digital subscriber lines and accounting for 13% of the value
+assigned to IPR&D, originally expected to be completed in Q2 2000, is now
+expected to be completed in Q1 2001.  A project for Level One Communications
+related to high-end switches and accounting for 17% of the value assigned to
+IPR&D is now complete.  This project was originally scheduled to be completed
+in Q1 2000 and was subsequently revised to Q4 2000.  For the DSP
+Communications acquisition, development efforts for three projects have
+revised plans.  One project based on CDMA (code division multiple access)
+frequency standards, which accounted for 30% of the value assigned to IPR&D,
+has been discontinued, with development efforts refocused on new and emerging
+market technologies built on the CDMA base.  One project based on PDC
+(personal digital cellular) standards and accounting for 10% of the value
+assigned to IPR&D originally scheduled to be completed in 2001 is now expected
+to be completed in Q1 2002.  The third project based on TDMA Edge (time
+division multiple access) standards and accounting for 11% of the value
+assigned to IPR&D originally scheduled to be completed in 2003 is now expected
+to be completed in 2004.  All other significant projects are substantially on
+schedule.
+
+Failure to deliver new products to the market on a timely basis, or to achieve
+expected market acceptance or revenue and expense forecasts, could have a
+significant impact on the financial results and operations of the acquired
+businesses.
+
+Amortization of goodwill and other acquisition-related intangibles and costs
+increased to $1.1 billion in the first nine months of 2000 compared to $170
+million in the first nine months of 1999, primarily due to the increased level
+of acquisitions.
+
+Gains on investments in the first nine months of 2000 increased to $3.3
+billion compared to $556 million in the first nine months of 1999 and include
+a realized gain on the sale of the company's holdings of Micron Technology,
+Inc. shares.  Interest and other income increased to $664 million in the first
+nine months of 2000 compared to $425 million in the first nine months of 1999
+primarily due to higher interest income.  The increase in interest income is
+due to higher average investment balances and higher interest rates in the
+first nine months of 2000 compared to the first nine months of 1999.
+
+The company's effective income tax rate was approximately 29.1% in the first
+nine months of 2000.  Excluding the one-time benefit for the reversal in Q1
+2000 of previously accrued taxes, and the impact of non-deductible charges for
+IPR&D and amortization of goodwill, the company's effective income tax rate
+was approximately 31.8% for the first nine months of 2000 compared to
+approximately 33% in the first nine months of 1999.  The decreased rate in the
+first nine months of 2000 compared to the first nine months of 1999 reflects
+the impact of the resolution reached with the Internal Revenue Service in Q1
+2000 on a number of issues including adjustments related to the intercompany
+allocation of profits.
+
+
+FINANCIAL CONDITION
+
+The company's financial condition remains very strong.  At September 30, 2000,
+total cash, trading assets, and short- and long-term investments, excluding
+marketable strategic equity securities, totaled $15.8 billion, up from $12.6
+billion at December 25, 1999.
+
+The major sources of cash during the first nine months of 2000 were cash
+provided by operating activities of $9.4 billion and proceeds of $3.6 billion
+from sales of strategic equity securities.  Major uses of cash during the
+period included $3.0 billion to repurchase 50.7 million shares of common stock
+and capital spending of $4.3 billion for
+
+
+
+<PAGE>
+
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS (CONTINUED)
+
+FINANCIAL CONDITION (CONTINUED)
+
+property, plant and equipment, primarily for microprocessor manufacturing
+capacity.  The company also paid $2.1 billion in net cash for acquisitions,
+including the purchases of GIGA, Basis, Ambient, Picazo Communications, Inc
+and Trillium.  See "Outlook" for a discussion of capital expenditure
+expectations in 2000.
+
+The company's five largest customers accounted for approximately 41% of net
+revenues for the first nine months of 2000.  At September 30, 2000, the five
+largest customers accounted for approximately 39% of net accounts receivable.
+
+At September 30, 2000, marketable strategic equity securities totaled $4.5
+billion with approximately $2.9 billion in unrealized appreciation.  Compared
+to December 25, 1999, the total value of marketable strategic equity
+securities decreased by approximately $2.6 billion and the unrealized
+appreciation decreased by approximately $2.9 billion.  The decrease in value
+is primarily due to sales of appreciated equity securities and declines in
+market values partially offset by additional investments.
+
+During May 2000, the company announced that it had entered into an agreement
+to form a new company (Convera) with Excalibur Technologies Corporation.
+Intel expects to contribute its Interactive Media Services division to Convera
+and invest approximately $155 million in cash.  Convera is intended to enable
+owners of branded content, such as sports and entertainment, to produce and
+securely sell their audio and video content over the Internet.  The completion
+of this transaction is subject to regulatory review, Excalibur stockholder
+approval and other normal closing conditions.
+
+The company believes that it has the financial resources needed to meet
+business requirements for the next twelve months, including potential future
+acquisitions or strategic investments, capital expenditures for the expansion
+or upgrading of worldwide manufacturing capacity, working capital requirements
+and the dividend program.
+
+
+OUTLOOK
+
+This outlook section contains a number of forward-looking statements, all of
+which are based on current expectations.  Actual results may differ
+materially.  These statements do not reflect the potential impact of any
+mergers, acquisitions or other business combinations that had not closed as of
+the end of the third quarter of 2000.
+
+Intel's goal is to be the preeminent building block supplier to the worldwide
+Internet economy.  The company's primary focus areas are the client platform,
+the server platform, networking and communications, and solutions and
+services.  The company's five product-line operating segments support these
+initiatives.  The Intel Architecture Group operating segment supports the
+client and server platform initiatives.  Intel's strategy for client and
+server platforms is to introduce ever higher performance microprocessors and
+chipsets, tailored for the different market segments of the worldwide
+computing market, using a tiered branding approach.  In line with this
+strategy, during the third quarter of 2000, the company introduced higher
+performance microprocessors based on the P6 microarchitecture specifically for
+different computing segments: a mobile version of the Intel-R- Celeron-TM-
+processor for the value segment; mobile versions of the Pentium-R- III
+processor for home and business applications; and a Pentium-R- III Xeon-TM-
+processor for mid-range and high-end servers and workstations.  In addition,
+the Intel Architecture Group provides products and services to accelerate
+integration and deployment of Intel Architecture-based e-Business solutions.
+
+In the fourth quarter of 2000, the company expects to introduce a new
+generation of desktop microprocessors based on the new Intel-R- NetBurst-TM-
+microarchitecture under the Pentium-R- 4 brand name.  The Pentium 4 processor
+is designed for consumers who want to take advantage of the latest Web
+technologies like broadband, interactive 3-D and streaming audio and video.
+Subsequent to the end of the third quarter of 2000, the company began to ship
+processors based on the IA-64 architecture, under the Itanium-TM- brand, for
+systems used by information technology end-users in pilot installations.
+Pilot systems will be followed by the release of generally available system
+hardware, operating systems environments, and application solutions, following
+industry practice for enterprise computing systems.
+
+
+
+<PAGE>
+
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS (CONTINUED)
+
+OUTLOOK (CONTINUED)
+
+Intel plans to cultivate new businesses as well as continue to work with the
+computing industry to expand Internet capabilities and product offerings, and
+develop compelling software applications that can take advantage of higher
+performance microprocessors and chipsets, thus driving demand toward Intel's
+newer products in each computing market segment.  The company's microprocessor
+products compete with existing and future products in the various computing
+market segments.  The company has recently experienced an increase in the
+competitive product offerings in the performance desktop market segment.  The
+company may continue to take various steps, including reducing microprocessor
+prices and offering rebates at such times as it deems appropriate, in order to
+increase acceptance of its latest technology and to remain competitive within
+each relevant market segment.
+
+The client platform strategy also includes providing low-power processors and
+flash memory for handheld wireless devices.  The Wireless Communications and
+Computing Group supports the handheld wireless device initiatives.
+
+In the network and communications infrastructure area, Intel's strategy is to
+deliver both the system-level communications products and solutions, and
+component-level silicon building blocks for networking and communications
+systems.  The Communications Products Group operating segment supports
+initiatives to deliver the system-level communications products and solutions
+directed at service providers running e-Business data centers.  The
+Communications Products Group plans to transition from a business model of
+selling Intel NetStructure-TM- products direct to service providers,
+distributors, resellers and OEMs (original equipment manufacturers), to a
+model where it increases its focus on providing communications building blocks
+to OEM customers.  The Communications Products Group also provides component-
+level products for converged voice and data communications systems for the
+telecommunications industry.  The Network Communications Group operating
+segment supports initiatives to deliver component-level networking products
+for home and small- and medium-sized businesses.  Intel has made acquisitions
+and expects to make additional acquisitions to grow new networking and
+communications areas.
+
+Intel also intends to build new service businesses around the Internet.
+Intel-R- Online Services, which provides Web hosting and e-Commerce services
+for customers, is part of this initiative.  Intel intends to deliver a
+consistent worldwide platform for developing and delivering e-Business
+solutions.  The New Business Group operating segment supports these service
+business initiatives.
+
+Intel expects to grow revenues in the networking, communications and wireless
+businesses by 50% or more in 2000.  Intel's expectations for growth in these
+areas, as well as in new service businesses, are subject to the company's
+ability to acquire businesses as well as integrate and operate them
+successfully, and to grow new businesses internally.
+
+The company expects revenue for the fourth quarter of 2000 to be up 4% to 8%
+from third quarter revenue of $8.7 billion.  The company's financial results
+are substantially dependent on sales of microprocessors and related components
+by the Intel Architecture Group.  Revenue is partly a function of the mix of
+microprocessor types and speeds sold as well as the mix of related chipsets,
+motherboards, purchased components and other semiconductor products, all of
+which are difficult to forecast.  Because of the wide price difference among
+types of microprocessors, this mix affects the average price Intel will
+realize and has a large impact on Intel's revenues.  Revenue is also subject
+to the impact of economic conditions in various geographic regions.
+
+The company expects the gross margin percentage in the fourth quarter of 2000
+to be approximately 63%, plus or minus a point.  The company's gross margin
+percentage in any period varies depending on the mix of types and speeds of
+processors sold as well as the mix of microprocessors and related motherboards
+and purchased components.  In the fourth quarter of 2000, unit cost reductions
+due to the continued transition to microprocessor products with lower cost
+packaging and continued productivity improvements on existing manufacturing
+processes are expected to be largely offset by increases in start-up costs.
+Various other factors (including unit volumes, yield issues associated with
+production at factories, ramp of new technologies, shortage of manufacturing
+capacity and the company's ability to forecast demand and optimize the
+allocation of existing capacity across product lines, the reusability of
+factory equipment, the estimate of the MTH motherboard replacement rate,
+insufficient or excess inventory, inventory
+
+
+
+<PAGE>
+
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS (CONTINUED)
+
+OUTLOOK (CONTINUED)
+
+obsolescence, variations in inventory valuation and mix of shipments of other
+semiconductor and non-semiconductor products) will also continue to affect the
+amount of cost of sales and the variability of gross margin percentages.
+
+Intel's primary goal is to get its advanced technology to the marketplace, and
+at the same time increase gross margin dollars.  The company's plans to grow
+in non-microprocessor areas, particularly those areas that have the potential
+to expand networking and communications capabilities, are intended to increase
+gross margin dollars but may lower the gross margin percentage.
+
+The company has expanded its semiconductor manufacturing and assembly and test
+capacity over the last few years, and continues to plan capacity based on the
+assumed continued success of its strategy and the acceptance of its products
+in specific market segments.  The company currently expects that capital
+spending will be approximately $6.0 billion in 2000.  This capital spending
+includes expected spending related to the next-generation 0.13-micron process
+technology, spending on new fabrication facility construction and equipment
+purchases to add 0.18-micron process capacity.  If demand for the company's
+products does not continue to grow, revenues and gross margins could be
+adversely affected and manufacturing capacity could be underutilized.  This
+spending plan is dependent upon expectations regarding production efficiencies
+and delivery times of various machinery and equipment, and construction
+schedules for new facilities.  Depreciation for the fourth quarter of 2000 is
+expected to be approximately $865 million.  Amortization of goodwill and other
+acquisition-related intangibles and costs is expected to be approximately $440
+million in the fourth quarter.
+
+Spending on research and development, excluding IPR&D, and marketing, general
+and administrative expenses in the fourth quarter of 2000 is expected to be
+approximately 6% to 8% higher than third quarter expenses of $2.3 billion,
+primarily due to seasonally higher spending on marketing programs, and higher
+revenue dependent expenses.  Expenses are dependent in part on the level of
+revenue.
+
+Research and development spending, excluding IPR&D, is expected to be
+approximately $1.0 billion in the fourth quarter of 2000.
+
+The company expects gains on investments and interest and other income for the
+fourth quarter of 2000 to be approximately $950 million depending on interest
+rates, cash balances, equity market levels and volatility, the realization of
+expected gains on investments, including gains on investments acquired by
+third parties, and assuming no unanticipated items.
+
+The company expects the tax rate for 2000 to be approximately 31.8%, excluding
+the one-time tax benefit related to the closure of the Internal Revenue
+Service audit of tax returns for years up to and including 1998, and the
+impact of any IPR&D and amortization of goodwill from both prior and potential
+future mergers or acquisitions.  This estimate is based on current tax law,
+the current estimate of earnings and the expected distribution of income among
+various tax jurisdictions.
+
+In September of 2000, the company was notified that the investigation by the
+Federal Trade Commission (FTC) into Intel's business practices has been
+closed.  The investigation began in September 1997 and covered all aspects of
+Intel's business.  The FTC also closed its investigation of whether Intel's
+acquisition of Chips and Technologies Inc. and equity in Real3D had any anti-
+competitive effect on any markets for graphics components or other computer
+hardware.
+
+The company is currently party to various legal proceedings.  Although
+litigation is subject to inherent uncertainties, management, including
+internal counsel, does not believe that the ultimate outcome of these legal
+proceedings will have a material adverse effect on the company's financial
+position or overall trends in results of operations.  However, were an
+unfavorable ruling to occur in any specific period, there exists the
+possibility of a material adverse impact on the results of operations of that
+period.  Management believes, given the company's current liquidity and cash
+and investments balances, that even an adverse judgment would not have a
+material impact on cash and investments or liquidity.
+
+
+
+<PAGE>
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS (CONTINUED)
+
+OUTLOOK (CONTINUED)
+
+The company's future results of operations and the other forward-looking
+statements contained in this outlook-in particular the statements regarding
+Intel's goals and strategies, statements regarding expected product
+introductions, expectations regarding additional acquisitions, revenues,
+pricing, gross margin, costs and continued productivity improvements, capital
+spending, depreciation and amortization, research and development expenses,
+marketing and general and administrative expenses, interest and other income,
+the tax rate, and pending legal proceedings-involve a number of risks and
+uncertainties.  In addition to the factors discussed above, among the other
+factors that could cause actual results to differ materially are the
+following: business and economic conditions and growth in the computing
+industry in various geographic regions; changes in customer order patterns;
+competitive factors such as rival chip architectures and manufacturing
+technologies, competing software-compatible microprocessors and acceptance of
+new products in specific market segments; development and timing of the
+introduction of compelling software applications; pricing pressures; continued
+success in technological advances, including development and implementation of
+new processes and strategic products for specific market segments; execution
+of the manufacturing ramp, including the transition to the 0.18-micron process
+technology; impact of events outside the United States such as the business
+impact of fluctuating currency rates or unrest or political instability in a
+locale, such as transport disruption in Europe or unrest in Israel;
+unanticipated costs or other adverse effects associated with processors and
+other products containing errata (deviations from published specifications);
+and litigation involving antitrust, intellectual property, consumer and other
+issues.
+
+Intel believes that it has the product offerings, facilities, personnel, and
+competitive and financial resources for continued business success, but future
+net revenues, costs, margins and profits are all influenced by a number of
+factors, including those discussed above, all of which are inherently
+difficult to forecast.
+
+
+OUTLOOK PUBLICATION PROCEDURES
+
+In connection with the recent adoption of new SEC rules on corporate
+disclosure, the company is changing its procedures for publishing and updating
+its Outlook forward-looking statements and risk factors statements.  Following
+the publication of its Outlook in its quarterly Earnings Release and in this
+quarterly report on Form 10-Q, the company will continue its current practice
+of having corporate representatives meet privately during the quarter with
+investors, the media, investment analysts and others.  At these meetings the
+company may reiterate the published Outlook.  At the same time, the company
+will keep its Earnings Release and Outlook publicly available on its Web site
+(www.intc.com).  Prior to the start of the Quiet Period (described below), the
+public can continue to rely on the Outlook on the Web site as still being
+Intel's current expectations on matters covered, unless the company publishes
+a notice stating otherwise.
+
+Towards the end of each fiscal quarter, the company will have a "Quiet Period"
+during which the Outlook as provided in the 10-Q and the company's most recent
+quarterly Earnings Release no longer constitute the company's current
+expectations.  During the Quiet Period, the Outlook in these documents should
+be considered to be historical, speaking as of prior to the Quiet Period only
+and not subject to update by the company.  During the Quiet Period the
+company's representatives will not comment concerning the Outlook or Intel's
+financial results or expectations.  The Quiet Period will extend until the day
+when company's next quarterly Earnings Release is published.  For the fourth
+quarter of 2000, the Quiet Period will be December 16, 2000 through January
+16, 2001.
+
+
+
+<PAGE>
+
+
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+For financial market risks related to changes in foreign currency exchange
+rates, reference is made to Part II, Item 7A, Quantitative and Qualitative
+Disclosures About Market Risk, in the Registrant's Annual Report on Form 10-K
+for the year ended December 25, 1999 and to the subheading "Financial Market
+Risks" under the heading "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" on page 33 of the Registrant's 1999
+Annual Report to Stockholders.
+
+The primary objective of the company's investments in debt securities is to
+preserve principal while maximizing yields, without significantly increasing
+risk.  To achieve this objective, the returns on a substantial majority of the
+company's marketable investments in long-term fixed rate debt securities are
+swapped to U.S. dollar LIBOR-based returns.  The company considered the
+historical volatility of the three-month LIBOR rate experienced in the most
+recent twelve months and determined that it was reasonably possible that an
+adverse change of 80 basis points, or approximately 12% of the rate at the end
+of the quarter, could be experienced in the near term.  A hypothetical 80-
+basis-point increase in interest rates would result in an approximate $16
+million decrease in the fair value of the company's investments in debt
+securities as of September 30, 2000.
+
+The company is exposed to equity price risk on the marketable portion of its
+portfolio of strategic equity securities.  The company typically does not
+attempt to reduce or eliminate its market exposure on these securities.  These
+investments are generally in companies in the high-technology industry, and a
+substantial majority of the market value of the portfolio is in three sectors:
+Internet, semiconductor and networking.  As of September 30, 2000, five equity
+positions constituted approximately 31% of the market value of the portfolio
+and no individual holding constituted 10% or more of the value.
+
+The company analyzed the historical movements over the past several years of
+high-technology stock indices that the company considered appropriate.  Based
+on the analysis, the company estimated that it was reasonably possible that
+the prices of the stocks in the company's portfolio could experience a 30%
+adverse change in the near term.  Assuming a 30% adverse change, the company's
+marketable strategic equity securities would decrease in value by
+approximately $1.4 billion, based on the value of the portfolio as of
+September 30, 2000.  During the month of October 2000, many high-technology
+stocks experienced a significant decrease in value.  If the company's
+marketable strategic equity security positions as of September 30, 2000 had
+been valued using prices as of October 27, 2000, the value of these securities
+would have decreased by approximately $1.0 billion, or 23%.  The portfolio's
+concentrations in specific companies or sectors may vary over time and may be
+different from the compositions of the indices analyzed, and these factors may
+affect the portfolio's price volatility.  This estimate is not necessarily
+indicative of future performance and actual results may differ materially.
+
+
+
+<PAGE>
+
+
+
+PART II - OTHER INFORMATION
+
+
+ITEM 1.     LEGAL PROCEEDINGS
+
+Reference is made to Item 3, Legal Proceedings in the Registrant's Annual
+Report on Form 10-K for the year ended December 25, 1999 and Part II, Item 1,
+Legal Proceedings in the Registrant's Form 10-Q for the quarter ended April 1,
+2000 for descriptions of legal proceedings.
+
+
+ITEM 2.          CHANGES IN SECURITIES
+
+(c)     Unregistered sales of equity securities.
+
+In August 2000, the company acquired approximately 14.9 million shares of
+Trillium Digital Systems, Inc. in exchange for approximately 2.6 million
+shares of Intel common stock, pursuant to the exemption from registration
+provided by Rule 506 of Regulation D of the Securities Act of 1933.  This
+transaction was made without general solicitation or advertising.  The company
+believes that each purchaser (i) was an accredited investor or a sophisticated
+investor (either alone or through its representative) with access to all
+relevant information necessary, (ii) was acquiring the Intel common stock
+solely for his or her own account and for investment, and (iii) does not
+intend to offer, sell or dispose of such shares except in compliance with the
+Securities Act of 1933.
+
+During the quarter ended September 30, 2000, warrants were exercised for
+approximately 200,000 shares of Intel common stock at an exercise price of
+approximately $3.58 per share.  These warrants were assumed by the company in
+its August 1999 acquisition of Level One Communications, Inc.  Level One had
+previously assumed the warrants in Level One's acquisition of Acclaim
+Communications, Inc., who had issued the warrants to two individuals in a
+transaction exempt from registration pursuant to Section 4(2) of the
+Securities Act of 1933.  The issuance of Intel common stock upon exercise of
+the warrants was exempt from registration pursuant to Section 4(2) of the
+Securities Act of 1933.  These transactions were made without general
+solicitation or advertising.  The company believes that each purchaser (i) was
+an accredited investor or a sophisticated investor (either alone or through
+its representative) with access to all relevant information necessary, (ii)
+was acquiring the Intel common stock solely for his or her own account and for
+investment, and (iii) does not intend to offer, sell or dispose of such shares
+except in compliance with the Securities Act of 1933.
+
+In connection with the acquisition of Level One, the company assumed the
+obligations of Level One with respect to its prior acquisition of SF Telecom,
+Inc.  In partial satisfaction of these obligations, the company issued 2,500
+shares of Intel common stock to the former shareholders of SF Telecom in
+August 2000 pursuant to the exemption from registration provided by Section
+4(2) of the Securities Act of 1933.  This transaction was made without general
+solicitation or advertising.  The company believes that each purchaser (i) was
+an accredited investor or a sophisticated investor (either alone or through
+its representative) with access to all relevant information necessary, (ii)
+was acquiring the Intel common stock solely for his or her own account and for
+investment, and (iii) does not intend to offer, sell or dispose of such shares
+except in compliance with the Securities Act of 1933.
+
+
+
+<PAGE>
+
+
+
+ITEM 6.     EXHIBITS AND REPORTS ON FORM 8-K
+
+
+(a)     Exhibits
+
+
+     12.1     Statement setting forth the computation of ratios of earnings to
+fixed charges.
+
+     27     Financial Data Schedule.
+
+
+(b)     Reports on Form 8-K
+
+1)     On July 20, 2000, Intel filed a report on Form 8-K relating to financial
+information for Intel Corporation for the quarter ended July 1, 2000 and
+forward-looking statements relating to 2000, the third quarter of 2000 and the
+second half of 2000 as presented in a press release of July 18, 2000.
+
+2)     On September 26, 2000, Intel filed a report on Form 8-K relating to an
+announcement regarding an update to forward-looking statements relating to
+2000 and the third quarter of 2000 as presented in a press release of
+September 21, 2000.
+
+
+
+<PAGE>
+
+
+
+
+
+
+SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                         INTEL CORPORATION
+                                         (Registrant)
+
+
+
+
+
+Date:  November 13, 2000     By: /s/ Andy D. Bryant
+                                -------------------
+                                Andy D. Bryant
+                                Senior Vice President,
+                                Chief Financial Officer and
+                                Principal Accounting Officer
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+Exhibit 12.1
+                                INTEL CORPORATION
+                     STATEMENT SETTING FORTH THE COMPUTATION
+                      OF RATIOS OF EARNINGS TO FIXED CHARGES
+
+                                  (in millions)
+<TABLE>
+<CAPTION>
+                                              Nine Months Ended
+                                            Sept. 30,     Sept. 25,
+                                              2000          1999
+                                            ----------------------
+<S>                                        <C>           <C>
+Income before taxes                         $ 11,766      $  7,966
+
+Add fixed charges net of
+   capitalized interest                           62            47
+                                            --------      --------
+Income before taxes and fixed
+  charges (net of capitalized
+  interest)                                 $ 11,828      $  8,013
+                                            ========      ========
+
+Fixed charges:
+
+Interest                                    $     26      $     28
+
+Capitalized interest                               5             3
+
+Estimated interest component
+  of rental expense                               36            19
+                                            --------      --------
+
+Total                                       $     67      $     50
+                                            ========      ========
+
+Ratio of earnings before taxes and
+  fixed charges, to fixed charges                177           160
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>3
+<FILENAME>0003.txt
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY INFORMATION EXTRACTED FROM INTEL CORPORATION'S
+CONSOLIDATED CONDENSED STATEMENTS OF INCOME AND CONSOLIDATED CONDENSED BALANCE
+SHEETS AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL
+STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-30-2000
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                            6434
+<SECURITIES>                                      7573
+<RECEIVABLES>                                     4574<F2>
+<ALLOWANCES>                                         0
+<INVENTORY>                                       1936
+<CURRENT-ASSETS>                                 21510
+<PP&E>                                           26037
+<DEPRECIATION>                                   12623
+<TOTAL-ASSETS>                                   49013
+<CURRENT-LIABILITIES>                             8525
+<BONDS>                                            610
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                          8643
+<OTHER-SE>                                       29062
+<TOTAL-LIABILITY-AND-EQUITY>                     49013
+<SALES>                                          25024
+<TOTAL-REVENUES>                                 25024
+<CGS>                                             9420
+<TOTAL-COSTS>                                     9420
+<OTHER-EXPENSES>                                  4117<F1>
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  26
+<INCOME-PRETAX>                                  11766
+<INCOME-TAX>                                      3424
+<INCOME-CONTINUING>                               8342
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      8342
+<EPS-BASIC>                                       1.24
+<EPS-DILUTED>                                     1.19
+<FN>
+<F2>ITEM SHOWN NET OF ALLOWANCE, CONSISTENT WITH THE BALANCE SHEET PRESENTATION.
+<F1>ITEM CONSISTS OF RESEARCH AND DEVELOPMENT, INCLUDING PURCHASED IN-PROCESS
+RESEARCH AND DEVELOPMENT, AND AMORTIZATION OF GOODWILL AND OTHER
+ACQUISITION-RELATED INTANGIBLES AND COSTS.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

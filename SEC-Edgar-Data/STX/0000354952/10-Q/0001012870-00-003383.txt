@@ -1,0 +1,1182 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FEc/1PJpDd0gSLu3nkSp7JaHhZHYRvVI9L4IUMY1fmEOGO1JH7dTPuM338wFQ/vj
+ BKAZZziqaLX3ofxaG4ABeQ==
+
+<SEC-DOCUMENT>/in/edgar/work/20000614/0001012870-00-003383/0001012870-00-003383.txt : 20000919
+<SEC-HEADER>0001012870-00-003383.hdr.sgml : 20000919
+ACCESSION NUMBER:		0001012870-00-003383
+CONFORMED SUBMISSION TYPE:	10-Q/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000331
+FILED AS OF DATE:		20000614
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SEAGATE TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0000354952
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3572
+]		IRS NUMBER:				942612933
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0628
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q/A
+			SEC ACT:		
+			SEC FILE NUMBER:	001-11403
+			FILM NUMBER:		655331
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		920 DISC DR
+				CITY:			SCOTTS VALLEY
+				STATE:			CA
+				ZIP:			95066
+				BUSINESS PHONE:		8314386550
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		920 DISC DRIVE
+					CITY:			SCOTTS VALLEY
+					STATE:			CA
+					ZIP:			95066
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>QUARTERLY REPORT DATED MARCH 31, 2000
+<TEXT>
+
+<PAGE>
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                  FORM 10-Q/A
+                                AMENDMENT NO. 1
+
+                  QUARTERLY REPORT UNDER SECTION 13 OR 15(d)
+                                      OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+                     For the Quarter Ended March 31, 2000
+                       Commission File Number 001-11403
+
+                           SEAGATE TECHNOLOGY, INC.
+            (Exact name of registrant as specified in its charter)
+
+           Delaware                                      94-2612933
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+                920 Disc Drive, Scotts Valley, California 95066
+              (Address of principal executive offices) (Zip Code)
+
+                           Telephone:  (831) 438-6550
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+
+                             Yes  X    No
+                             ----     ----
+
+On March 31, 2000, 227,222,348 shares of the registrant's common stock were
+issued and outstanding.
+
+                                       1
+<PAGE>
+
+                                     INDEX
+
+
+                            SEAGATE TECHNOLOGY, INC.
+
+
+<TABLE>
+<CAPTION>
+
+
+ PART I                       FINANCIAL INFORMATION                     PAGE NO.
+- ---------  -----------------------------------------------------------  --------
+<S>        <C>                                                          <C>
+
+Item 1.    Financial Statements (Unaudited)
+
+           Consolidated condensed statements of operations--
+             Three and nine months ended March 31, 2000 and
+             April 2, 1999                                                     3
+
+           Consolidated condensed balance sheets--
+             March 31, 2000 (As amended June 14, 2000)
+             and July 2, 1999                                                  4
+
+           Consolidated condensed statements of cash flows--
+             Nine months ended March 31, 2000 and
+             April 2, 1999                                                     5
+
+           Notes to consolidated condensed financial statements
+             (As Amended June 14, 2000 to revise Note 8)                       6
+
+
+PART II    OTHER INFORMATION
+- ---------  -----------------------------------------------------------
+
+Item 6.    Exhibits and Reports on Form 8-K                                   17
+
+           SIGNATURES                                                         18
+</TABLE>
+
+                                       2
+<PAGE>
+
+                            SEAGATE TECHNOLOGY, INC.
+                CONSOLIDATED CONDENSED STATEMENTS OF OPERATIONS
+                      (In Millions, Except Per Share Data)
+                                  (Unaudited)
+
+                                  Three Months Ended      Nine Months Ended
+                                  ------------------      -----------------
+<TABLE>
+<CAPTION>
+                                       March 31,    April 2,    March 31,   April 2,
+                                         2000         1999        2000       1999
+                                       ---------    --------    ---------   --------
+<S>                                    <C>          <C>         <C>        <C>
+
+Revenue                                    $1,573      $1,805     $4,900   $5,159
+
+Cost of sales                               1,245       1,371      3,984    3,976
+Product development                           144         143        430      440
+Marketing and administrative                  123         135        366      401
+Amortization of goodwill and
+ other intangibles                             15           9         32       29
+In-process research and development           105           -        105        -
+Restructuring costs                            49          60        183       60
+Unusual items                                   -           -        325       78
+                                           ------      ------     ------   ------
+
+   Total Operating Expenses                 1,681       1,718      5,425    4,984
+
+   Income (Loss) from Operations             (108)         87       (525)     175
+
+Interest income                                27          28         69       81
+Interest expense                              (13)        (12)       (39)     (37)
+Activity related to equity interest
+ in VERITAS                                   (74)          -       (256)       -
+Gain on sale of VERITAS stock                   -           -        537        -
+Gain on sale of SanDisk stock                 453           -        515        -
+Other                                           -           2         (3)      10
+                                           ------      ------     ------   ------
+
+   Other Income (Expense), net                393          18        823       54
+                                           ------      ------     ------   ------
+
+Income before income taxes                    285         105        298      229
+Provision for income taxes                    149          23        219       72
+                                           ------      ------     ------   ------
+
+   Net Income                              $  136      $   82     $   79   $  157
+                                           ======      ======     ======   ======
+
+Net income per share:
+  Basic                                    $ 0.61      $ 0.35     $ 0.36   $ 0.65
+  Diluted                                    0.58        0.34       0.35     0.63
+
+Number of shares used in
+   per share computations:
+  Basic                                     223.4       236.6      218.9    242.2
+  Diluted                                   235.6       243.9      227.6    247.3
+</TABLE>
+
+See notes to consolidated condensed financial statements.
+
+                                       3
+<PAGE>
+
+                            SEAGATE TECHNOLOGY, INC.
+                     CONSOLIDATED CONDENSED BALANCE SHEETS
+                                 (In Millions)
+                                  (Unaudited)
+<TABLE>
+<CAPTION>
+                                                       March 31,    July 2,
+                                                         2000       1999 (1)
+                                                       ---------    -------
+<S>                                                    <C>         <C>
+ASSETS
+- ------
+Cash and cash equivalents                                 $1,125    $   396
+Short-term investments                                       765      1,227
+Accounts receivable, net                                     761        872
+Inventories                                                  334        451
+Deferred income taxes                                        248        252
+Other current assets                                         155        114
+                                                          ------    -------
+     Total Current Assets                                  3,388      3,312
+Property, equipment and leasehold improvements, net        1,539      1,687
+Investment in VERITAS Software, net                        1,191      1,745
+Goodwill and other intangibles, net                          409        144
+Other assets (2)                                             853        184
+                                                          ------    -------
+     Total Assets                                         $7,380    $ 7,072
+                                                          ======    =======
+LIABILITIES
+- -----------
+Accounts payable                                          $  598    $   714
+Accrued employee compensation                                193        205
+Accrued expenses                                             476        577
+Accrued income taxes                                         244         43
+Current portion of long-term debt                              1          1
+                                                          ------    -------
+     Total Current Liabilities                             1,512      1,540
+Deferred income taxes (2)                                  1,189      1,103
+Other liabilities                                            126        163
+Long-term debt, less current portion                         703        703
+                                                          ------    -------
+     Total Liabilities                                     3,530      3,509
+                                                          ------    -------
+STOCKHOLDERS' EQUITY
+- --------------------
+Common stock                                                   3          3
+Additional paid-in capital                                 1,919      1,991
+Retained earnings                                          2,311      2,355
+Accumulated other comprehensive income (loss) (2)            418         (7)
+Deferred compensation                                        (34)       (43)
+Treasury common stock at cost                               (767)      (736)
+                                                          ------    -------
+     Total Stockholders' Equity                            3,850      3,563
+                                                          ------    -------
+     Total Liabilities and Stockholders' Equity           $7,380    $ 7,072
+                                                          ======    =======
+</TABLE>
+(1) The information in this column was derived from the Company's audited
+    consolidated balance sheet as of July 2, 1999.
+(2) See Note 8 to the consolidated condensed financial statements.
+
+See notes to consolidated condensed financial statements.
+
+                                       4
+<PAGE>
+
+                            SEAGATE TECHNOLOGY, INC.
+                CONSOLIDATED CONDENSED STATEMENTS OF CASH FLOWS
+                                 (In Millions)
+                                  (Unaudited)
+<TABLE>
+<CAPTION>
+                                                                   Nine Months Ended
+                                                                -------------------------
+                                                                March 31,        April 2,
+                                                                  2000             1999
+                                                                --------         --------
+<S>                                                             <C>              <C>
+OPERATING ACTIVITIES:
+Net income                                                       $    79         $   157
+Adjustments to reconcile net income to net
+  cash provided by operating activities:
+ Depreciation and amortization                                       541             507
+ Deferred income taxes                                              (223)             73
+ In-process research and development                                 105               -
+ Non-cash portion of restructuring charge                             88              34
+ Activity related to equity interest in VERITAS                      256               -
+ Gain on sale of VERITAS stock                                      (537)              -
+ Gain on sale of SanDisk stock                                      (515)              -
+ Compensation expense for SSI exchange offer                         284               -
+ Other, net                                                           34              38
+ Changes in operating assets and liabilities:
+  Accounts receivable                                                106            (118)
+  Inventories                                                         94             129
+  Accounts payable                                                  (125)             20
+  Accrued income taxes                                                (9)             13
+  Accrued expenses and employee compensation                        (216)            (23)
+  Other assets and liabilities, net                                  (17)            170
+                                                                 -------         -------
+ Net cash provided by (used in) operating activities                 (55)          1,000
+
+INVESTING ACTIVITIES:
+Acquisition of property, equipment and leasehold
+  improvements, net                                                 (385)           (420)
+Purchases of short-term investments                               (1,796)         (5,332)
+Maturities and sales of short-term investments                     2,249           5,243
+Proceeds from sale of VERITAS stock                                  834               -
+Proceeds from sale of SanDisk stock                                  535               -
+Other, net                                                           (14)            (31)
+                                                                 -------         -------
+ Net cash provided by (used in) investing activities               1,423            (540)
+
+FINANCING ACTIVITIES:
+Sale of common stock                                                 138              74
+Purchase of treasury stock                                          (776)           (843)
+Other, net                                                             -              (1)
+                                                                 -------         -------
+  Net cash used in financing activities                             (638)           (770)
+
+Effect of exchange rate changes on cash and cash equivalents          (1)             (2)
+                                                                 -------         -------
+
+Increase (decrease) in cash and cash equivalents                     729            (312)
+Cash and cash equivalents at the beginning of the period             396             666
+                                                                 -------         -------
+Cash and cash equivalents at the end of the period               $ 1,125         $   354
+                                                                 =======         =======
+</TABLE>
+See notes to consolidated condensed financial statements.
+
+                                       5
+<PAGE>
+
+                            SEAGATE TECHNOLOGY, INC.
+              NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+
+1.   Basis of Presentation
+     ---------------------
+
+     The consolidated condensed financial statements have been prepared by the
+     Company, without audit, pursuant to the rules and regulations of the
+     Securities and Exchange Commission.  Certain information and footnote
+     disclosures normally included in financial statements prepared in
+     accordance with generally accepted accounting principles have been
+     condensed or omitted pursuant to such rules and regulations.  The Company
+     believes the disclosures included in the unaudited consolidated condensed
+     financial statements, when read in conjunction with the consolidated
+     financial statements of the Company as of July 2, 1999 and notes thereto,
+     are adequate to make the information presented not misleading.
+
+     The consolidated condensed financial statements reflect, in the opinion of
+     management, all material adjustments necessary to summarize fairly the
+     consolidated financial position, results of operations and cash flows for
+     such periods.  Such adjustments are of a normal recurring nature.
+
+     The results of operations for the three and nine month periods ended March
+     31, 2000 are not necessarily indicative of the results that may be expected
+     for the entire fiscal year ending June 30, 2000.
+
+     The Company operates and reports financial results on a fiscal year of 52
+     or 53 weeks ending on the Friday closest to June 30.  Accordingly, fiscal
+     1999 was 52 weeks and ended on July 2, 1999 and fiscal 2000 will be 52
+     weeks and will end on June 30, 2000.
+
+2.   Net Income Per Share
+     --------------------
+
+     The following table sets forth the computation of basic and diluted net
+     income (loss) per share:
+
+<TABLE>
+<CAPTION>
+
+(In Millions, Except                 Three Months Ended    Nine Months Ended
+Per Share Data)                      -------------------  -------------------
+                                     March 31,  April 2,  March 31,  April 2,
+                                       2000       1999      2000       1999
+                                     ---------  --------  ---------  --------
+<S>                                  <C>        <C>       <C>        <C>
+     Numerator:
+      Net income                        $  136    $   82     $   79    $  157
+                                        ------    ------     ------  --------
+
+     Denominator:
+      Denominator for basic net
+      income per share - weighted
+      average shares outstanding         223.4     236.6      218.9     242.2
+</TABLE>
+
+                                       6
+<PAGE>
+
+<TABLE>
+<S>                                    <C>     <C>     <C>     <C>
+Incremental common shares
+      attributable to exercise of
+      outstanding options (assuming
+      proceeds would be used to
+      purchase treasury stock)           12.2     7.3     8.7     5.1
+                                       ------  ------  ------  ------
+
+      Denominator for diluted net
+      income per share - adjusted
+      weighted average shares           235.6   243.9   227.6   247.3
+                                       ======  ======  ======  ======
+
+     Basic net income
+     per share                         $ 0.61  $ 0.35  $ 0.36  $ 0.65
+                                       ======  ======  ======  ======
+
+     Diluted net income
+     per share                         $ 0.58  $ 0.34  $ 0.35  $ 0.63
+                                       ======  ======  ======  ======
+</TABLE>
+
+     Options to purchase 0.1 million shares and 1.6 million shares of common
+     stock were outstanding during the quarter and nine months ended March 31,
+     2000, respectively, but were not included in the computation of diluted net
+     income per share because the options' exercise price was greater than the
+     average market price of the common stock and, therefore, the effect would
+     be antidilutive.  Options to purchase 1.6 million shares and 7.2 million
+     shares of common stock were outstanding during the quarter and nine months
+     ended April 2, 1999, respectively, but were not included in the computation
+     of diluted net income per share because the options' exercise price was
+     greater than the average market price of the common stock and, therefore,
+     the effect would be antidilutive.
+
+
+3.   Balance Sheet Information
+     -------------------------
+     (In millions)
+
+<TABLE>
+<CAPTION>
+                                                   March 31,   July 2,
+                                                     2000       1999
+                                                   ---------   -------
+<S>                                                <C>         <C>
+Accounts Receivable:
+
+Accounts receivable                                  $   835   $   925
+Allowance for non-collection                             (74)      (53)
+                                                     -------   -------
+                                                     $   761   $   872
+                                                     =======   =======
+
+Inventories:
+
+Components                                           $   118   $   143
+Work-in-process                                           64        54
+Finished goods                                           152       254
+                                                     -------   -------
+                                                     $   334   $   451
+                                                     =======   =======
+
+Property, Equipment and Leasehold Improvements:
+
+Property, equipment and leasehold improvements       $ 3,580   $ 3,533
+Allowance for depreciation and amortization           (2,041)   (1,846)
+                                                     -------   -------
+                                                     $ 1,539   $ 1,687
+                                                     =======   =======
+</TABLE>
+
+                                       7
+<PAGE>
+
+4.   Income Taxes
+     ------------
+
+     The effective tax rate used to record the provision for income taxes for
+     the nine months ended March 31, 2000 was 74% compared with a 32% effective
+     tax rate used to record the provision for income taxes for the nine months
+     ended April 2, 1999.  The higher effective tax rate used to record the
+     provision for income taxes for the nine months ended March 31, 2000
+     resulted primarily from the effects of net non-deductible charges
+     associated with the acquisition of the minority interest in Seagate
+     Software, the acquisition of XIOtech Corporation ("XIOtech"), the net gain
+     from the sales of SanDisk Corporation ("SanDisk") and VERITAS Software
+     Corporation ("VERITAS") common stock and activity related to the Company's
+     equity interest in VERITAS.  Excluding these items, and considering the
+     effects of the Company's settlement of litigation with Rodime PLC (the
+     "Rodime Settlement") and certain non-recurring restructuring costs, the pro
+     forma effective tax rate used to record the provision for income taxes for
+     the nine months ended March 31, 2000 would have been 28%.  The pro forma
+     effective tax rate of 28% is less than the statutory rate because a portion
+     of the Company's anticipated foreign operating income is not subject to
+     foreign income taxes and is considered to be permanently reinvested in non-
+     U.S. operations.
+
+5.   Supplemental Cash Flow Information
+     ----------------------------------
+     (In millions)
+
+<TABLE>
+<CAPTION>
+                                                       Nine Months Ended
+                                                    ------------------------
+                                                    March 31,       April 2,
+                                                      2000            1999
+                                                    ---------       --------
+<S>                                                 <C>             <C>
+     Cash Transactions:
+      Cash paid for interest                        $  52           $  52
+      Cash paid for income taxes, net of refunds      447            (115)
+
+     Non-Cash Transactions:
+      Acquisition of minority interest                 19               -
+      Acquisition of XIOtech                          359               -
+</TABLE>
+
+6.   Restructuring Costs
+     -------------------
+
+     During the nine months ended March 31, 2000, the Company recorded
+     restructuring charges totaling $184 million including $49 million recorded
+     in the quarter ended March 31, 2000.  These charges were a result of a
+     restructuring plan established to align the Company's global workforce and
+     manufacturing capacity with existing and anticipated future market
+     requirements and necessitated by the Company's improved productivity and
+     operating efficiencies (the "fiscal 2000 restructuring plan").  These
+     actions include workforce reductions, capacity reductions including closure
+     of facilities or portions of facilities, write-off of excess equipment and
+     consolidation of operations in the Company's recording media operations,
+     disc drive assembly and test facilities, printed circuit board assembly
+     manufacturing, recording head operations, software operations, customer
+     service operations, sales and marketing activities, and research and
+     development activities.  The restructuring charges were comprised of $60
+     million for the write-off of excess manufacturing, assembly and test
+     equipment formerly utilized in Singapore, Thailand and
+
+                                       8
+<PAGE>
+
+     Northern California; $81 million for employee termination costs; $29
+     million for the write-off of owned facilities located in Singapore; $7
+     million in lease termination and holding costs; $5 million in renovation
+     costs to restore facilities in Singapore and Northern California to their
+     pre-lease condition; and $2 million in contract cancellations associated
+     with one of the Singapore facilities. Prior to this period, there was no
+     indication of permanent impairment of the assets associated with the
+     closure and consolidation of facilities.
+
+     In connection with the restructuring activities taken to date, the Company
+     plans to reduce its workforce by approximately 21,800 primarily
+     manufacturing employees.  Approximately 17,500 of the 21,800 employees had
+     been terminated as of March 31, 2000.  As a result of employee terminations
+     and the write-off of equipment and facilities in connection with the
+     restructuring charges recorded during the nine months ended March 31, 2000
+     related to the fiscal 2000 restructuring plan, the Company estimates that
+     after completion of these restructuring activities, annual salary and
+     depreciation expense will be reduced by approximately $118 million and $76
+     million, respectively.  The Company may implement additional actions
+     pursuant to the fiscal 2000 restructuring plan, and, if such additional
+     actions are implemented, the Company anticipates that additional charges
+     would be taken related to these actions. The Company expects the
+     implementation of the fiscal 2000 restructuring plan will be substantially
+     complete by September 30, 2000.
+
+     In connection with the restructuring plan implemented in fiscal 1999, the
+     Company's planned workforce reduction has been completed as of March 31,
+     2000 and the other restructuring activities were substantially complete as
+     of March 31, 2000.
+
+     The following table summarizes the Company's restructuring activities for
+     the nine months ended March 31, 2000:
+
+<TABLE>
+<CAPTION>
+                               Severance
+                                  and        Excess                   Contract
+In millions                     Benefits   Facilities   Equipment   Cancellations  Other   Total
+                              -------------------------------------------------------------------
+<S>                            <C>         <C>          <C>         <C>            <C>     <C>
+Reserve balances,
+ July 2, 1999                       $  4         $ 18        $  -              $3    $11    $ 36
+
+Q1FY00 restructuring charge           27           33          48               2      2     112
+Q2FY00 restructuring charge           19            1           -               -      3      23
+Q3FY00 restructuring charge           35            2          12               -      -      49
+Cash charges                         (62)         (11)          -               -     (2)    (75)
+Non-cash charges                       -          (28)        (60)              -      -     (88)
+Adjustments and
+ reclassifications                    (2)           -           -               -      2       -
+                                    ------------------------------------------------------------
+Reserve balances,
+ March 31, 2000                     $ 21         $ 15        $  -              $5    $16    $ 57
+                                    ============================================================
+</TABLE>
+
+7.   Business Segments
+     -----------------
+
+     The Company has three operating segments, disc drives, software and tape
+     drives, however, only the disc drive business is a reportable segment under
+     the criteria of SFAS 131.  The "other" category in the following tables
+     consists of tape drives, software, and out-of-warranty repair.  The Chief
+     Executive Officer (the "CEO") has been identified as the
+
+                                       9
+<PAGE>
+
+     Chief Operating Decision Maker as defined by SFAS 131. The CEO evaluates
+     performance and allocates resources based on revenue and gross profit from
+     operations. Gross profit from operations is defined as revenue less cost of
+     sales. The following tables summarize the Company's operations by business
+     segment:
+
+     In millions
+
+<TABLE>
+<CAPTION>
+                                   Three Months Ended     Nine Months Ended
+                                   --------------------  --------------------
+
+                                   March 31,   April 2,   March 31,  April 2,
+                                     2000        1999       2000       1999
+                                   ---------   --------   ---------  --------
+<S>                                <C>         <C>        <C>        <C>
+     Revenue:
+       Disc Drives                  $  1,468   $  1,614      $4,568    $4,627
+       Other                             105        191         332       532
+                                    --------   --------      ------    ------
+       Consolidated                 $  1,573   $  1,805      $4,900    $5,159
+                                    ========   ========      ======    ======
+
+     Gross Profit:
+       Disc Drives                  $    279   $    322      $  768    $  885
+       Other                              49        112         148       298
+                                    --------   --------      ------    ------
+       Consolidated                 $    328   $    434      $  916    $1,183
+                                    ========   ========      ======    ======
+
+
+                                    March 31,   July 2,
+                                      2000       1999
+                                    ---------  --------
+     Total Assets (see note 8):
+       Disc Drives                  $ 19,346   $ 16,553
+       Other                             504        586
+                                    --------   --------
+       Operating Segments             19,850     17,139
+
+       Investment in VERITAS           1,191      1,745
+       Eliminations                  (13,661)   (11,812)
+                                    --------   --------
+       Consolidated                 $  7,380   $  7,072
+                                    ========   ========
+</TABLE>
+
+8.   Comprehensive Income (As amended June 14, 2000)
+     --------------------
+
+     During the quarter ended October 1, 1999, Gadzoox Networks Inc.
+     ("Gadzoox"), a company in which Seagate Technology held a 19.89% interest
+     as of that date, completed an initial public offering of its common stock.
+     The Company is required to account for its investment under Statement of
+     Financial Accounting Standards No. 115, "Accounting for Certain Investments
+     in Debt and Equity Securities" ("SFAS 115").  The Company has identified
+     this investment as "available-for-sale".  Under SFAS 115, an available-for-
+     sale security is recorded at fair value on the balance sheet and unrealized
+     holding gains and losses are reported, net of taxes, in a separate
+     component of stockholders' equity called accumulated other comprehensive
+     income, until realized.  For the nine months ended March 31, 2000, the
+     Company recorded net unrealized gains on securities of $130 million, net of
+     tax, with respect to its investment in Gadzoox.
+
+     The recorded investment in SanDisk has been amended to revise the
+     calculation of its fair value, unrealized holding gain and related taxes.
+     As a result, the balance sheet caption amounts of other assets, deferred
+     income tax liabilities and accumulated other comprehensive income increased
+     by $224 million, $88 million and $136 million, respectively. No other
+     financial statements were affected by this matter. The Company has also
+
+                                       10
+<PAGE>
+
+     updated information related to the decrease in the fair value of its
+     investment in SanDisk to reflect recent sales and declines in market value
+     from March 31, 2000 through June 9, 2000. Decreases in the fair value of
+     its investment in Gadzoox have also been updated for the same period.
+
+     During the quarter ended December 31, 1999, the Company identified its
+     investment in SanDisk as "available-for-sale" after it had sold 2,000,000
+     shares of stock it held in SanDisk, adjusted for a 2 for 1 stock split on
+     February 23, 2000, resulting in an ownership percentage of 15.8% as of
+     December 31, 1999.  The Company recorded an unrealized gain on securities
+     of $285 million, net of $184 million of tax, to record its investment in
+     SanDisk at fair value as of December 31, 1999.  For the nine months ended
+     March 31, 2000, the Company recorded unrealized gains on securities of $298
+     million, net of $192 million of tax, with respect to its investment in
+     SanDisk.
+
+     Between March 31, 2000 and June 9, 2000, the quoted market prices of
+     SanDisk and Gadzoox common stocks declined.  As a result, the Company
+     experienced a decrease in the fair values of its remaining investments in
+     SanDisk and Gadzoox of $154 million and $62 million, respectively.  On an
+     after tax basis, these unrealized losses were $93 million and $38 million,
+     respectively.
+
+     The components of comprehensive income, net of related tax, for the three
+     and nine months ended March 31, 2000 and April 2, 1999 were as follows (in
+     millions):
+
+<TABLE>
+<CAPTION>
+                                            Three Months Ended     Nine Months Ended
+                                            -------------------   -------------------
+                                            March 31,  April 2,   March 31,  April 2,
+                                              2000       1999       2000       1999
+                                            --------   --------   ---------  --------
+<S>                                         <C>        <C>        <C>        <C>
+Net income                                    $ 136     $  82       $  79     $ 157
+Unrealized gain (loss) on securities             27        (3)        425        (2)
+Foreign currency translation adjustments          -         -           -        (1)
+                                              -----     -----       -----     -----
+Comprehensive income                          $ 163     $  79       $ 504     $ 154
+                                              =====     =====       =====     =====
+</TABLE>
+
+     The components of accumulated other comprehensive income (loss), net of
+     related tax, at March 31, 2000 and July 2, 1999 were as follows (in
+     millions):
+
+<TABLE>
+<CAPTION>
+                                                      March 31,   July 2,
+                                                        2000       1999
+                                                      ---------   -------
+<S>                                                   <C>         <C>
+
+     Unrealized gain (loss) on securities              $ 420       $  (5)
+     Foreign currency translation adjustments             (2)         (2)
+                                                       -----       -----
+     Accumulated other comprehensive income (loss)     $ 418       $  (7)
+                                                       =====       =====
+</TABLE>
+
+                                       11
+<PAGE>
+
+9.   Equity Investment in VERITAS Software Corporation
+     -------------------------------------------------
+
+     During the quarters ended October 1, 1999 and December 31, 1999, Seagate
+     Software sold 18,523,502 and 9,000,000 shares, respectively, of VERITAS
+     common stock, adjusted for 3 for 2 stock splits on November 22, 1999 and
+     March 6, 2000, for proceeds of  $397 million and $437 million,
+     respectively, net of underwriting discounts and commissions.  Seagate
+     Software acquired such shares in connection with the contribution of its
+     Network & Storage Management Group business to VERITAS in May 1999.  The
+     sale of shares of VERITAS common stock by Seagate Software in the quarters
+     ended October 1, 1999 and December 31, 1999 resulted in pre-tax gains of
+     $193 million and $344 million, respectively.  As of March 31, 2000, Seagate
+     Software held approximately 33% of the outstanding common stock of VERITAS.
+     The Company accounts for its investment in VERITAS under the equity method
+     and records its equity interest in VERITAS' net income (loss) on a one-
+     quarter lag.
+
+     Summarized income statement information for VERITAS for the three and nine
+     months ended December 31, 1999 is as follows (in millions):
+
+<TABLE>
+<CAPTION>
+                          Three Months Ended   Nine Months Ended
+                             December 31,         December 31,
+                                 1999                 1999
+                          -------------------  ------------------
+<S>                       <C>                  <C>
+
+          Revenue                      $ 226               $ 524
+          Gross profit                   188                 438
+          Net loss                      (171)               (517)
+</TABLE>
+
+     The Company's recorded equity in the net income of VERITAS for the three
+     and nine months ended March 31, 2000 was $12 million and $20 million,
+     respectively, and differs from the Company's proportionate share of
+     VERITAS' reported net loss for the three and nine months ended December 31,
+     1999.  This difference is primarily because the Company eliminates from
+     VERITAS' net income (loss) the effect of VERITAS' accounting for the
+     Network & Storage Management Group business contribution, including
+     VERITAS' amortization expense related to intangible assets.
+
+     The Company's activity related to equity interest in VERITAS for the three
+     and nine months ended March 31, 2000 consisted of the recorded equity in
+     the net income of VERITAS of $12 million and $20 million, respectively, as
+     described above, and the Company's amortization expense for goodwill and
+     other intangible assets relating to the investment in VERITAS amounting to
+     $86 million and $276 million, respectively.
+
+
+10.  Seagate Software Reorganization
+     -------------------------------
+
+     On October 20, 1999, the stockholders of Seagate Software, a majority-owned
+     subsidiary of the Company, approved  the merger of Seagate Daylight Merger
+     Corp., a wholly-owned subsidiary of the Company, with and into Seagate
+     Software.  Seagate Software's assets consisted of the assets of the
+     Information Management Group ("IMG") and its investment in the common stock
+     of VERITAS Software Corporation.  The merger was effected on October 20,
+     1999.  As a result of the merger, Seagate Software became a wholly-owned
+
+                                       12
+<PAGE>
+
+     subsidiary of the Company.  In connection with the merger, Seagate
+     Software's stockholders and optionees received payment in the form of 3.23
+     shares of the Company's common stock per share of Seagate Software common
+     stock less any amounts due for the payment of the exercise price for such
+     options.  All outstanding Seagate Software stock options were accelerated
+     immediately prior to the merger.  Seagate Technology issued 9,124,046
+     shares to optionees and minority stockholders of Seagate Software.
+
+     In connection with the reorganization, Seagate Software also formed a
+     wholly-owned subsidiary that assumed the name "Seagate Software, Inc."
+     ("Software Operating Company").  Seagate Software transferred the IMG
+     assets into Software Operating Company.  This new company, Software
+     Operating Company, is now the operating entity for the IMG business.  In
+     October 1999, a new stock option plan was established for Software
+     Operating Company, and employees of the IMG business are eligible to
+     participate in the plan.
+
+     Seagate Software accounted for the exchange of shares of its common stock
+     as the acquisition of a minority interest for Seagate Software common stock
+     outstanding and vested more than six months held by employees and all stock
+     held by former employees and consultants.  The fair value of the shares of
+     Seagate Technology issued was $19 million and was recorded as purchase
+     price and allocated to the assets and liabilities received.  The Company
+     accounted for the exchange of shares of its common stock for stock options
+     in Seagate Software held by employees and stock held and vested by
+     employees less than six months as the settlement of an earlier stock award.
+     During the quarter ended December 31, 1999, the Company recorded
+     compensation expense of $284 million, plus $2 million in payroll taxes,
+     related to the purchase of minority interest in Seagate Software.
+
+     Allocation of minority interest purchase price to the intangible
+     assets of Seagate Software
+
+<TABLE>
+<CAPTION>
+   In millions
+   -------------------------------------------------------------------
+<S>                                                                <C>
+
+   Distribution channel..........................................  $ 1
+   Developed technology..........................................    1
+   Goodwill......................................................   18
+                                                                   ---
+      Subtotal...................................................   20
+
+   Deferred tax liability........................................   (1)
+                                                                   ---
+   Total.........................................................   19
+                                                                   ===
+
+   Compensation relating to stock purchased from employees
+   Dollars in millions, except per share data
+   -------------------------------------------------------------------
+
+   Seagate Software options exercised and
+     exchanged for Seagate Technology stock........................   3,723,015
+   Plus: Seagate Software stock held for less than 6 months
+     and exchanged for Seagate Technology stock....................      17,952
+                                                                     ----------
+   Total Seagate Software shares exchanged.........................   3,740,967
+   Times: Exchange ratio into Seagate Technology stock.............        3.23
+                                                                     ----------
+   Number of Seagate Technology shares issued......................  12,083,323
+                                                                     ----------
+
+   Value per share of Seagate Technology common
+     stock on October 20, 1999.....................................  $    29.00
+
+   Less: Average price paid per Seagate Technology share...........  $    (5.50)
+                                                                     ----------
+
+   Average compensation expense per
+     Seagate Technology share issued...............................  $    23.50
+                                                                     ----------
+
+   Total compensation expense......................................  $      284
+                                                                     ==========
+</TABLE>
+
+                                       13
+<PAGE>
+
+11.  Acquisition of XIOtech Corporation
+     ----------------------------------
+
+     On January 28, 2000, the Company acquired XIOtech Corporation ("XIOtech"),
+     a provider of virtual storage and Storage Area Network (SAN) solutions, for
+     Seagate Technology common stock with a value of $359 million.  This
+     acquisition was accounted for as a purchase and, accordingly, the results
+     of operations of XIOtech have been included in the consolidated financial
+     statements from the date of acquisition.  The purchase price has been
+     allocated based on the estimated fair market value of net tangible and
+     intangible assets acquired as well as in-process research and development
+     costs.  As a result of the acquisition, the Company incurred a one-time
+     write-off of in-process research and development of $105 million. Goodwill
+     and other intangibles arising from the acquisition are being amortized on a
+     straight-line basis over periods ranging from four months to seven years.
+     Amortization of goodwill and other intangibles is expected to be
+     approximately $51 million the first year and approximately $47 million in
+     subsequent years.  XIOtech's revenue and expenses are immaterial to the
+     Company's consolidated revenue and expenses.
+
+     The following is a summary of the purchase price allocation (in millions):
+
+<TABLE>
+<CAPTION>
+<S>                                              <C>
+     Tangible assets less liabilities assumed    $ 12
+     Developed technology                          90
+     Tradenames                                     5
+     Assembled workforce                            2
+     Customer list                                  2
+     In-process research and development          105
+     Goodwill                                     182
+     Deferred tax liability                       (39)
+                                                 ----
+                                                 $359
+                                                 ====
+</TABLE>
+
+12.  Stock Purchase Agreement and Merger Agreement
+     ---------------------------------------------
+
+     On March 29, 2000, Seagate Technology, Seagate Software Holdings, Inc.
+     ("Seagate Software") and Suez Acquisition Company (Cayman) Limited ("SAC"),
+     an entity affiliated with, among others, Silver Lake Partners and Texas
+     Pacific Group entered into a Stock Purchase Agreement (the "Stock Purchase
+     Agreement"), and Seagate Technology, VERITAS and a wholly owned subsidiary
+     of VERITAS entered into an Agreement and Plan of Merger and Reorganization
+     (the "Merger Agreement").
+
+     Under the Stock Purchase Agreement, SAC has agreed to purchase, in exchange
+     for $2 billion in cash, all of the assets of Seagate Technology and its
+     consolidated subsidiaries, including Seagate's disc drive, tape drive and
+     software businesses and operations, but
+
+                                       14
+<PAGE>
+
+     excluding the approximately 128 million shares of VERITAS common stock
+     currently held by Seagate Software and Seagate Technology's equity
+     investments in Gadzoox Networks, SanDisk Corporation, CVC, Inc. and Dragon
+     Systems, Inc., a privately held company. In addition, under the Stock
+     Purchase Agreement, SAC has agreed to assume substantially all of the
+     liabilities of Seagate Technology and its consolidated subsidiaries. This
+     transaction is referred to herein as the SAC transaction.
+
+     Under the Merger Agreement, immediately following and contingent upon the
+     consummation of the SAC transaction, a wholly-owned subsidiary of VERITAS
+     will merge with and into Seagate Technology, with Seagate Technology to
+     survive the merger and to become a wholly-owned subsidiary of VERITAS. This
+     transaction is referred to herein as the Merger. VERITAS is not acquiring
+     Seagate Technology's disc drive business or any other Seagate operating
+     business. In the Merger, the Seagate stockholders will receive merger
+     consideration consisting of:
+
+          -   Approximately 109.3 million shares of VERITAS common stock issued
+          in exchange for the approximately 128 million shares of VERITAS common
+          stock that Seagate currently holds,
+
+          -   additional shares of VERITAS common stock issued in exchange for
+          the investment securities, and, at VERITAS' election, for up to $750
+          million in retained cash, and
+
+          -   all cash on the Seagate balance sheet in excess of $800 million
+          (including cash generated from the SAC transaction) and after giving
+          effect to VERITAS retained cash, debt repayment, taxes and other
+          liabilities.
+
+     The Merger is intended to qualify as a tax-free reorganization.
+
+     On March 29, 2000, Seagate Technology, VERITAS and SAC entered into an
+     Indemnification Agreement, pursuant to which these entities and certain
+     other subsidiaries of Seagate Technology have agreed to certain
+     indemnification provisions regarding tax and other matters that may arise
+     in connection with the SAC transaction and the Merger. Also on March 29,
+     2000, VERITAS and SAC entered into a letter agreement, pursuant to which
+     VERITAS agreed to a no-shop provision and an alternative termination fee
+     provision.
+
+     All of the transactions contemplated by the SAC transaction and the Merger
+     are herein referred to as the Veritas/Silver Lake transaction.  The
+     Veritas/Silver Lake transaction is expected to close in the first quarter
+     of fiscal year 2001, subject to the approval of VERITAS and Seagate
+     stockholders, funding of the debt commitments and clearance by the U.S.
+     Securities and Exchange Commission, as well as clearance under antitrust
+     laws and other customary closing conditions. The Company expects that while
+     the Veritas/Silver Lake transaction is pending, the value of Seagate common
+     stock will depend primarily on the value of VERITAS common stock.
+
+
+13.  Litigation
+     ----------
+
+     Following the Company's announcement of the Veritas/Silver Lake
+     transaction, a number of stockholders filed lawsuits against the Company,
+     the individual members of the Board of Directors and certain executive
+     officers in both Delaware and California.  As of April 11,
+
+                                       15
+<PAGE>
+
+     2000, 17 complaints had been filed in the Chancery Court of Delaware. In
+     California, three complaints were filed in Santa Clara County Superior
+     Court and two complaints were filed in Santa Cruz County Superior Court.
+     The complaints in these jurisdictions each allege that the members of the
+     Company's Board of Directors breached their fiduciary duties to the
+     Company's shareholders by entering into the Veritas/Silver Lake
+     transaction. The complaints also allege that the Company's directors and
+     executive officers have conflicting financial interests and did not secure
+     the highest possible price for the Company's shares. All the complaints are
+     styled as class actions, and seek to enjoin the Veritas/Silver Lake
+     transaction and secure damages from all defendants. The Company believes
+     that none of the lawsuits has any merit and intends to defend all these
+     claims vigorously.
+
+     In late 1992, Rodime PLC filed a complaint alleging infringement on a
+     certain patent.  The process of litigation ensued and elapsed through
+     January 2000.  On January 18, 2000, the U.S. Supreme Court denied the
+     Company's petition for certiorari.  On the following day, through a
+     mediation process, the Company and Rodime agreed to a settlement amount of
+     $45 million to bring the related litigation to an end.  As a result, a
+     previously recorded estimate of related settlement costs was revised and a
+     charge of $39 million was recorded in the three months ended December 31,
+     1999.  See Part II, Item 1 of this Form 10-Q for a description of legal
+     proceedings.
+
+                                       16
+<PAGE>
+
+                                    PART II
+                               OTHER INFORMATION
+
+Item 6.  Exhibits and Reports on Form 8-K
+         --------------------------------
+
+(a) Exhibits
+
+The following exhibits are included herein:
+
+27.  Financial Data Schedule (As amended June 14, 2000)
+
+(b) Reports on Form 8-K
+
+The following report on Form 8-K was filed with the Securities and Exchange
+Commission during the three months ended March 31, 2000:
+
+A Form 8-K dated January 27, 2000 regarding the Company's announcement that it
+had entered into a settlement with Rodime PLC.
+
+                                       17
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+                            SEAGATE TECHNOLOGY, INC.
+                            ------------------------
+                                  (Registrant)
+
+
+
+DATE:   June 14, 2000          BY:  /s/ Charles C. Pope
+                                    _______________________
+                                    CHARLES C. POPE
+                                    Executive Vice President
+                                    and Chief Financial Officer
+                                    (Principal Financial and
+                                    Accounting Officer)
+
+
+
+DATE:   June 14, 2000          BY:  /s/ Stephen J. Luczo
+                                    _______________________
+                                    STEPHEN J. LUCZO
+                                    Chief Executive Officer
+                                    (Principal Executive Officer
+                                    and Director)
+
+                                      18
+<PAGE>
+
+                            SEAGATE TECHNOLOGY, INC.
+                               INDEX TO EXHIBITS
+
+Exhibit
+Number
+_______
+
+27       Financial Data Schedule (As amended June 14, 2000)
+
+                                       19
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>9-MONTHS
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED CONDENSED BALANCE SHEET AS OF MARCH 31, 2000 AND THE CONSOLIDATED
+CONDENSED STATEMENT OF OPERATIONS FOR THE NINE MONTHS ENDED MARCH 31, 2000 AND
+IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          JUN-30-2000
+<PERIOD-START>                             JUL-03-1999
+<PERIOD-END>                               MAR-31-2000
+<CASH>                                           1,125
+<SECURITIES>                                       765
+<RECEIVABLES>                                      835
+<ALLOWANCES>                                        74
+<INVENTORY>                                        334
+<CURRENT-ASSETS>                                 3,388
+<PP&E>                                           3,580
+<DEPRECIATION>                                   2,041
+<TOTAL-ASSETS>                                   7,380
+<CURRENT-LIABILITIES>                            1,512
+<BONDS>                                            703
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                             3
+<OTHER-SE>                                       3,847
+<TOTAL-LIABILITY-AND-EQUITY>                     7,380
+<SALES>                                          4,900
+<TOTAL-REVENUES>                                 4,900
+<CGS>                                            3,984
+<TOTAL-COSTS>                                    3,984
+<OTHER-EXPENSES>                                 1,075
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  39
+<INCOME-PRETAX>                                    298
+<INCOME-TAX>                                       219
+<INCOME-CONTINUING>                                 79
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                        79
+<EPS-BASIC>                                       0.36
+<EPS-DILUTED>                                     0.35
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

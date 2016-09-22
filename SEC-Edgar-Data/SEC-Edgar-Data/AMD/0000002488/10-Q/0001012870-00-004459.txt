@@ -1,0 +1,2509 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T3u3g6LK5UMy6JryZIcxMYt+bfi4gECUIuk6BDTegQU5kI/OXqXJUlk39s9EJKy+
+ WayPr+6lfRXniFeNHN4iNw==
+
+<SEC-DOCUMENT>/in/edgar/work/20000816/0001012870-00-004459/0001012870-00-004459.txt : 20000922
+<SEC-HEADER>0001012870-00-004459.hdr.sgml : 20000922
+ACCESSION NUMBER:		0001012870-00-004459
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20000702
+FILED AS OF DATE:		20000816
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED MICRO DEVICES INC
+		CENTRAL INDEX KEY:			0000002488
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				941692300
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1227
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	001-07882
+			FILM NUMBER:		703960
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		ONE AMD PL
+				STREET 2:		P O BOX 3453
+				CITY:			SUNNYVALE
+				STATE:			CA
+				ZIP:			94088-3453
+				BUSINESS PHONE:		4087322400
+</BUSINESS-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             Washington, D.C. 20549
+
+                                    Form 10-Q
+
+     (Mark One)
+(X)  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d)
+     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+     For the quarterly period ended      July 2, 2000
+                                         ------------
+
+                                    OR
+( )  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d)
+     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+     For the transition period from __________ to __________
+
+Commission File Number     1-7882
+                      -----------------
+
+                         ADVANCED MICRO DEVICES, INC.
+- ------------------------------------------------------------------------------
+            (Exact name of registrant as specified in its charter)
+
+ Delaware                                               94-1692300
+- --------------------------------             ----------------------------------
+(State or other jurisdiction                (I.R.S. Employer Identification No.)
+of incorporation or organization)
+
+One AMD Place
+Sunnyvale, California                                        94086
+- ---------------------------------------                    ---------
+(Address of principal executive offices)                   (Zip Code)
+
+Registrant's telephone number, including area code:  (408) 732-2400
+                                                   ------------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                Yes   X     No
+                                    -----      -----
+
+The number of shares of $0.01 par value common stock outstanding as of August 7,
+2000: 155,744,812
+
+                                       1
+<PAGE>
+
+INDEX
+- -----
+
+Part I. Financial Information
+        ---------------------
+
+<TABLE>
+<CAPTION>
+
+
+                                                                                 Page No.
+                                                                                 --------
+<S>                                                                              <C>
+
+        Item 1. Financial Statements
+                Condensed Consolidated Statements of Operations -
+                  Quarters Ended July 2, 2000 and June 27, 1999                          3
+                  and Six Months Ended July 2, 2000 and June 27, 1999
+
+                Condensed Consolidated Balance Sheets -
+                July 2, 2000 and December 26, 1999                                       4
+
+                Condensed Consolidated Statements of Cash Flows -
+                Six Months Ended July 2, 2000 and June 27, 1999                          5
+
+                Notes to Condensed Consolidated Financial Statements                     6
+
+        Item 2. Management's Discussion and Analysis of Financial Condition
+                  and Results of Operations                                             14
+
+        Item 3. Quantitative and Qualitative Disclosures About Market Risk              38
+
+
+Part II. Other Information
+         -----------------
+
+        Item 1. Legal Proceedings                                                       39
+
+        Item 4. Submission of Matters to a Vote of Security Holders                     39
+
+        Item 6. Exhibits and Report on Form 8-K                                         40
+
+        Signature                                                                       41
+</TABLE>
+
+                                       2
+
+
+<PAGE>
+
+PART I  FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+                CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                -----------------------------------------------
+                                  (Unaudited)
+                     (Thousands except per share amounts)
+<TABLE>
+<CAPTION>
+                                                                        Quarter Ended                         Six Months Ended
+                                                               --------------------------------       -----------------------------
+                                                                 July 2,              June 27,          July 2,           June 27,
+                                                                  2000                  1999             2000              1999
+                                                               ----------            ---------        ----------        ----------
+<S>                                                           <C>                   <C>              <C>               <C>
+Net sales                                                      $1,170,437            $ 595,109        $2,262,466        $1,226,702
+
+Expenses:
+     Cost of sales                                                612,567              458,339         1,218,324           908,770
+     Research and development                                     155,651              167,278           316,948           327,224
+     Marketing, general and administrative                        152,022              124,520           296,328           251,830
+     Restructuring and other special charges                            -               17,514                 -            32,530
+                                                               ----------            ---------        ----------        ----------
+                                                                  920,240              767,651         1,831,600         1,520,354
+                                                               ----------            ---------        ----------        ----------
+
+Operating income (loss)                                           250,197             (172,542)          430,866          (293,652)
+Gain on sale of Vantis                                                  -              432,059                 -           432,059
+Interest income and other, net                                     19,935                7,252            41,063            18,020
+Interest expense                                                  (11,244)             (18,087)          (22,723)          (38,850)
+                                                               ----------            ---------        ----------        ----------
+
+Income before income taxes and equity in joint
+ venture                                                          258,888              248,682           449,206           117,577
+Provision for income taxes                                         51,778              172,823            51,778           167,350
+                                                               ----------            ---------        ----------        ----------
+Income (loss) before equity in joint venture                      207,110               75,859           397,428           (49,773)
+Equity in net income (loss) of joint venture                           32                4,037              (937)            1,302
+                                                               ----------            ---------        ----------        ----------
+Net income (loss)                                              $  207,142            $  79,896        $  396,491        $  (48,471)
+                                                               ==========            =========        ==========        ==========
+Net income (loss) per common share:
+     Basic                                                     $     1.34            $    0.54        $     2.60        $    (0.33)
+                                                               ==========            =========        ==========        ==========
+     Diluted                                                   $     1.21            $    0.53        $     2.36        $    (0.33)
+                                                               ==========            =========        ==========        ==========
+Shares used in per share calculation:
+     Basic                                                        154,558              146,947           152,719           146,428
+                                                               ==========            =========        ==========        ==========
+     Diluted                                                      176,218              149,540           174,080           146,428
+                                                               ==========            =========        ==========        ==========
+</TABLE>
+
+
+See accompanying notes
+- ----------------------
+
+
+                                       3
+<PAGE>
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+                    CONDENSED CONSOLIDATED BALANCE SHEETS*
+                    --------------------------------------
+                                  (Thousands)
+
+<TABLE>
+<CAPTION>
+                                                                                     July 2,           December 26,
+                                                                                      2000                1999
+                                                                                   ----------          ------------
+<S>                                                                                <C>                 <C>
+Assets
+- ------
+
+Current assets:
+  Cash and cash equivalents                                                       $   709,523          $   294,125
+  Short-term investments                                                              370,370              302,386
+                                                                                  -----------          -----------
+     Total cash, cash equivalents and short-term investments                        1,079,893              596,511
+     Accounts receivable, net                                                         533,007              429,809
+     Inventories:
+        Raw materials                                                                  11,430               10,236
+        Work-in-process                                                               162,101               97,143
+        Finished goods                                                                 82,048               90,834
+                                                                                  -----------          -----------
+           Total inventories                                                          255,579              198,213
+     Deferred income taxes                                                             63,440               55,956
+     Prepaid expenses and other current assets                                        127,472              129,389
+                                                                                  -----------          -----------
+           Total current assets                                                     2,059,391            1,409,878
+Property, plant and equipment, at cost                                              5,063,403            4,938,302
+Accumulated depreciation and amortization                                          (2,587,736)          (2,415,066)
+                                                                                  -----------          -----------
+            Property, plant and equipment, net                                      2,475,667            2,523,236
+Investment in joint venture                                                           267,448              273,608
+Other assets                                                                          160,988              170,976
+                                                                                  -----------          -----------
+                                                                                  $ 4,963,494          $ 4,377,698
+                                                                                  ===========          ===========
+Liabilities and Stockholders' Equity
+- ------------------------------------
+
+Current liabilities:
+   Accounts  payable                                                              $   353,398          $   387,193
+   Accrued compensation and benefits                                                  155,779               91,900
+   Accrued liabilities                                                                233,256              273,689
+   Income tax payable                                                                  18,763               17,327
+   Deferred income on shipments to distributors                                        99,590               92,917
+   Current portion of long-term debt, capital lease obligations and other              75,951               47,626
+                                                                                  -----------          -----------
+      Total current liabilities                                                       936,737              910,652
+
+Deferred income taxes                                                                 101,861               60,491
+Long-term debt, capital lease obligations and other, less current portion           1,481,725            1,427,282
+
+Commitments and contingencies
+
+Stockholders' equity:
+   Common stock, par value                                                              1,649                1,496
+   Capital in excess of par value                                                   1,219,409            1,121,956
+   Retained earnings                                                                1,269,726              873,235
+   Accumulated other comprehensive loss                                               (47,613)             (17,414)
+                                                                                  -----------          -----------
+      Total stockholders' equity                                                    2,443,171            1,979,273
+                                                                                  -----------          -----------
+                                                                                  $ 4,963,494          $ 4,377,698
+                                                                                  ===========          ===========
+</TABLE>
+
+   * Amounts as of July 2, 2000 are unaudited. Amounts as of December 26, 1999
+     were derived from the December 26, 1999 audited financial statements.
+
+     See accompanying notes
+
+                                       4
+<PAGE>
+
+                         ADVANCED MICRO DEVICES, INC.
+                         ----------------------------
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                -----------------------------------------------
+                                  (Unaudited)
+                                  (Thousands)
+<TABLE>
+<CAPTION>
+                                                                                         Six Months Ended
+                                                                               ----------------------------------
+                                                                                  July 2,              June 27,
+                                                                                   2000                  1999
+                                                                               -----------           -----------
+<S>                                                                           <C>                   <C>
+Cash flows from operating activities:
+    Net income (loss)                                                          $   396,491          $   (48,471)
+    Adjustments to reconcile net income(loss) to net cash
+     provided by (used in) operating activities:
+      Gain on sale of Vantis                                                             -             (432,059)
+      Depreciation and amortization                                                275,703              255,371
+      Net change in deferred income taxes                                           33,886              166,419
+      Restructuring and other special charges                                            -               25,038
+      Foreign grant and subsidy income                                             (22,155)             (25,405)
+      Net loss on disposal of property, plant and equipment                          3,414                5,336
+      Net gain realized on sale of available-for-sale securities                         -               (4,250)
+      Undistributed loss (income) of joint venture                                     937               (1,302)
+      Recognition of deferred gain on sale of building                                (840)                (840)
+      Net compensation recognized under employee stock options                       2,508                  (63)
+      Changes in operating assets and liabilities:
+       Net (increase) decrease in receivables, inventories,
+        prepaid expenses and other assets                                         (150,241)              22,491
+       Net (decrease) increase in payables and accrued liabilities                 (15,740)              31,391
+       Increase (decrease) in income tax payable                                     1,436              (11,402)
+       Customer deposits under long-term purchase agreements                       142,500                    -
+                                                                               -----------          -----------
+Net cash provided by (used in) operating activities                                667,899              (17,746)
+
+Cash flows from investing activities:
+    Proceeds from sale of Vantis                                                         -              454,269
+    Purchase of property, plant and equipment                                     (289,893)            (347,446)
+    Proceeds from sale of property, plant and equipment                              9,660                2,915
+    Purchase of available-for-sale securities                                   (1,562,628)          (1,041,084)
+    Proceeds from sale of available-for-sale securities                          1,497,207              935,686
+                                                                               -----------          -----------
+Net cash (used in) provided by investing activities                              (345,654)                4,340
+
+Cash flows from financing activities:
+    Proceeds from borrowings                                                        6,924                5,835
+    Payments on debt and capital lease obligations                                (12,380)            (149,398)
+    Proceeds from issuance of stock                                                95,099               27,256
+                                                                               -----------          -----------
+Net cash provided by (used in) financing activities                                89,643             (116,307)
+
+Effect of exchange rate changes on cash and cash equivalents                        3,510              (11,557)
+                                                                               -----------          -----------
+Net increase (decrease) in cash and cash equivalents                              415,398             (141,270)
+Cash and cash equivalents at beginning of period                                  294,125              361,908
+                                                                               ----------           ----------
+Cash and cash equivalents at end of period                                     $  709,523           $  220,638
+                                                                               ==========           ==========
+Supplemental disclosures of cash flow information:
+    Cash paid (refunded) during the first six months for:
+       Interest                                                                $   23,542           $   46,449
+                                                                               ==========           ==========
+       Income taxes                                                            $    9,734           $    9,768
+                                                                               ==========           ==========
+</TABLE>
+
+See accompanying notes
+- ----------------------
+
+                                       5
+<PAGE>
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+1.  Basis of Presentation
+
+    The accompanying unaudited condensed consolidated financial statements of
+    Advanced Micro Devices, Inc. (the Company or AMD) have been prepared in
+    accordance with generally accepted accounting principles for interim
+    financial information and with the instructions to Form 10-Q and Article 10
+    of Regulation S-X. The results of operations for the interim periods shown
+    in this report are not necessarily indicative of results to be expected for
+    the full fiscal year ending December 31, 2000. In the opinion of the
+    Company's management, the information contained herein reflects all
+    adjustments necessary to make the results of operations for the interim
+    periods a fair statement of such operations. All such adjustments are of a
+    normal recurring nature. The interim financial statements should be read in
+    conjunction with the financial statements in the Company's Annual Report on
+    Form 10-K for the year ended December 26, 1999.
+
+    The Company uses a 52- to 53-week fiscal year ending on the last Sunday in
+    December. The quarters ended July 2, 2000 and June 27, 1999 each included 13
+    weeks.
+
+                                       6
+<PAGE>
+
+2.  Available-For-Sale Securities
+
+    The following is a summary of available-for-sale securities:
+<TABLE>
+<CAPTION>
+                                                         July 2,
+                                                          2000
+                                                        ---------
+(Thousands)
+<S>                                                    <C>
+Cash equivalents:
+ Bank note                                              $ 10,000
+ Money market funds                                       35,301
+ Commercial paper                                        505,034
+ Certificates of deposit                                  10,000
+ Federal agency note                                      15,278
+                                                        --------
+  Total cash equivalents                                $575,613
+                                                        ========
+Short-term investments:
+ Federal agency notes                                   $ 33,505
+ Floating rate note                                        5,000
+ Money market auction rate preferred stocks              224,358
+ Certificate of deposit                                    9,973
+ Corporate notes                                          16,232
+ Commercial paper                                         81,302
+                                                        --------
+  Total short-term investments                          $370,370
+                                                        ========
+Long-term investments:
+ Equity investments                                     $ 22,935
+ Commercial paper                                          9,999
+ Treasury notes                                            1,350
+                                                        --------
+  Total long-term investments (included in other
+  assets)                                               $ 34,284
+                                                        ========
+</TABLE>
+
+                                       7
+<PAGE>
+
+3.  Net Income (Loss) per Common Share
+
+    Basic net income (loss) per common share is computed using the weighted-
+    average common shares outstanding. Diluted net income (loss) per common
+    share is computed using the weighted-average common shares outstanding plus
+    any potential dilutive securities. Dilutive securities include stock
+    options, restricted stock and convertible debt. The following table sets
+    forth the computation of basic and diluted net income (loss) per common
+    share:
+
+<TABLE>
+<CAPTION>
+                                                                    Quarter Ended              Six Months Ended
+                                                               --------------------          ---------------------
+                                                                 July 2,    June 27,         July 2,      June 27,
+(Thousands except per share data)                                 2000       1999              2000         1999
+                                                               --------   --------           --------    ---------
+<S>                                                       <C>             <C>        <C>                <C>
+Numerator:
+  Numerator for basic net income (loss) per common share       $207,142   $ 79,896           $396,491    $(48,471)
+  Effect of adding back interest expense associated
+   with convertible debentures                                    6,207          -             13,970            -
+                                                               --------   --------           --------    ---------
+  Numerator for diluted net income (loss) per common           $213,349   $ 79,896           $410,462    $(48,471)
+   share
+
+Denominator:
+  Denominator for basic net income (loss)
+    per common share - weighted-average shares                  154,558    146,947            152,719      146,428
+  Effect of dilutive securities:
+    Employee stock options                                        7,680      2,538              7,380            -
+    Restricted stock                                                  -         55                  -            -
+    Convertible debentures                                       13,980          -             13,981            -
+                                                               --------   --------           --------    ---------
+  Dilutive potential common shares                               21,660      2,593             21,361            -
+                                                               --------   --------           --------    ---------
+  Denominator for diluted net income (loss) per
+    common share - adjusted weighted-average shares             176,218    149,540            174,080      146,428
+                                                               ========   ========           ========    =========
+
+Basic net income (loss) per common share                       $   1.34   $   0.54           $   2.60    $  (0.33)
+                                                               ========   ========           ========    =========
+Diluted net income (loss) per common share                     $   1.21   $   0.53           $   2.36    $  (0.33)
+                                                               ========   ========           ========    =========
+</TABLE>
+
+    On July 19, 2000, the Company announced a 2-for-1 stock split to be effected
+    as a stock dividend of one share of common stock for each share of AMD
+    common stock held on August 7, 2000. The payment date will be August 21,
+    2000.
+
+4.  Investment in Joint Venture
+
+    In 1993, AMD and Fujitsu Limited formed a joint venture, Fujitsu AMD
+    Semiconductor Limited (FASL), for the development and manufacture of non-
+    volatile memory devices. FASL operates advanced integrated circuit
+    manufacturing facilities in Aizu-Wakamatsu, Japan, to produce Flash memory
+    devices. FASL also uses a foundry facility in Iwate, Japan. The Company's
+    share of FASL is 49.992 percent, and the investment is being accounted for
+    under the equity method. At July 2, 2000, the cumulative adjustment related
+    to the translation of the FASL financial statements into U.S. dollars
+    resulted in an increase in the investment in FASL of $2,065,000. The
+    following are the significant FASL related-party transactions and balances:
+
+
+                                       8
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                        Quarter Ended                      Six Months Ended
+                                  --------------------------          ----------------------------
+                                   July 2,        June 27,              July 2,          June 27,
+                                    2000           1999                  2000              1999
+(Thousands)                       ----------    -----------           -----------      -----------
+<S>                               <C>             <C>                 <C>               <C>
+Royalty income                     $ 7,110        $ 6,134              $ 13,653           $ 10,737
+
+Purchases                           78,420         61,618               154,658            118,776
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                         July 2,          December 26,
+(Thousands)                               2000               1999
+                                     -------------       -------------
+<S>                                 <C>                  <C>
+Royalty receivable                    $ 6,709              $ 6,601
+Accounts payable                       57,354               35,701
+</TABLE>
+
+    The following is condensed unaudited financial data of FASL:
+<TABLE>
+<CAPTION>
+                                        Quarter Ended                      Six Months Ended
+                                  --------------------------          ----------------------------
+                                   July 2,        June 27,              July 2,          June 27,
+(Thousands)                         2000           1999                  2000              1999
+                                  ----------    -----------           -----------      -----------
+<S>                               <C>             <C>                 <C>               <C>
+Net sales                          $156,587       $118,398             $302,029          $215,670
+Gross profit                          2,485         24,836                3,298            18,670
+Operating income                      1,806         24,310                1,677            17,443
+Net income                            1,092         14,034                  845             9,880
+</TABLE>
+
+    The Company's share of the above FASL net income differs from the equity in
+    net income of joint venture reported on the condensed consolidated
+    statements of operations. The difference is due to adjustments resulting
+    from the related party relationships between FASL and the Company which are
+    reflected on the Company's condensed consolidated statements of operations.
+
+5.  Segment Reporting
+
+    AMD operates in three reportable segments: the Core Products segment, the
+    Communications Group segment and the Other segment. AMD revised its segments
+    in the first quarter of fiscal 2000 to reflect the sale of its former
+    programmable logic devices subsidiary, Vantis, and a change in senior
+    management. Prior period segment information has been restated. The Core
+    Products segment includes microprocessors, core logic products, embedded
+    processors, Flash memory devices, and Erasable Programmable Read-Only Memory
+    (EPROM) devices. Communications Group products include telecommunication
+    products and networking products. As a result of AMD's sale of its
+    Communications Products Division on August 4, 2000, AMD is reevaluating
+    its reporting structure. The Other segment includes sales from Vantis and
+    fees for services provided to Vantis subsequent to its sale.
+
+                                       9
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                                         Quarter Ended                  Six Months Ended
+                                                   -----------------------------     ---------------------------
+(Thousands)                                          July 2,        June 27,           July 2,        June 27,
+                                                      2000           1999               2000           1999
+                                                   -----------    --------------     ------------   ------------
+<S>                                                <C>            <C>               <C>            <C>
+Net sales:
+ Core Products segment
+ External Customers                                 $1,028,965      $ 483,155        $1,999,971     $1,004,254
+ Intersegment sales                                          -         15,450                 -         32,626
+                                                    ----------      ---------        ----------     ----------
+                                                     1,028,965        498,605         1,999,971      1,036,880
+Communications Group segment external customers        117,300         69,946           218,459        133,285
+Other segment external customers                        24,172         42,006            44,036         89,163
+Elimination of intersegment sales                            -        (15,450)                -        (32,626)
+                                                    ----------      ---------        ----------     ----------
+  Total Net sales                                   $1,170,437      $ 595,107        $2,262,466     $1,226,702
+                                                    ==========      =========        ==========     ==========
+Segment operating income (loss):
+ Core Products segment                              $  208,894      $(176,460)       $  363,467     $ (303,546)
+ Communications Group segment                           37,078          1,190            57,940            798
+ Other Segment                                           4,225          2,728             9,459          9,096
+                                                    ----------      ---------        ----------     ----------
+    Total operating income (loss)                      250,197       (172,542)          430,866       (293,652)
+Interest income and other, net                          19,935          7,252            41,063         18,020
+Gain on sale of Vantis                                       -        432,059                 -        432,059
+Interest expense                                       (11,244)       (18,087)          (22,723)       (38,850)
+Provision for income taxes                             (51,778)      (172,823)          (51,778)      (167,350)
+Equity in net income (loss) of FASL                         32          4,037              (937)         1,302
+                                                    ----------      ---------        ----------     ----------
+    Net income (loss)                               $  207,142     $   79,896        $  396,491     $  (48,471)
+                                                    ==========      =========        ==========     ==========
+</TABLE>
+
+6.  Comprehensive Income (Loss)
+
+    Under Statement of Financial Accounting Standards No. 130, "Reporting
+    Comprehensive Income," unrealized gains or losses on the Company's
+    available-for-sale securities and foreign currency translation adjustments
+    are included in other comprehensive income (loss).
+
+    The following are the components of comprehensive income (loss):
+
+<TABLE>
+<CAPTION>
+                                                         Quarter Ended                  Six Months Ended
+                                                   -----------------------------     ---------------------------
+                                                      July 2,        June 27,           July 2,        June 27,
+(Thousands)                                             2000           1999               2000           1999
+                                                   -----------    --------------     ------------   ------------
+<S>                                                <C>            <C>                <C>             <C>
+Net income (loss)                                  $   207,142    $       79,896     $    396,491    $   (48,471)
+
+Foreign currency translation adjustments                (7,394)          (19,679)         (32,763)       (29,990)
+Unrealized gains on securities, net of tax:
+ Unrealized gains on investments arising
+   during the period                                        54             6,244            2,564          7,869
+ Less: Reclassification adjustment for gains
+   included in earnings                                      -                 -                -         (3,453)
+                                                   -----------    --------------     ------------    -----------
+Other comprehensive loss                                (7,340)          (13,435)         (30,199)       (25,574)
+                                                   -----------    --------------     ------------    -----------
+Comprehensive income (loss)                        $   199,802    $       66,461     $    366,292    $   (74,045)
+                                                   ===========    ==============     ============    ===========
+
+</TABLE>
+
+The components of accumulated other comprehensive loss are as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                       July 2,                      December 26,
+(Thousands)                                             2000                            1999
+                                                   --------------                ------------------
+<S>                                                <C>                           <C>
+Unrealized gain on investments, net of tax         $       16,842                $           14,278
+Cumulative translation adjustments                        (64,455)                          (31,692)
+                                                   --------------                ------------------
+                                                   $      (47,613)               $          (17,414)
+                                                   ==============                ==================
+</TABLE>
+
+                                      10
+<PAGE>
+
+    The components of accumulated other comprehensive loss are as follows:
+
+
+
+7.  Sale of the Communication Products Division
+
+    On May 21, 2000, the Company entered into definitive agreements with
+    Francisco Partners, L.P., a private equity investment firm, providing for a
+    recapitalization of the Communication Products Division (CPD), a portion of
+    the Communications Group that produces telecommunication products. On August
+    4, 2000, the Company completed the sale of 90 percent of the recapitalized
+    CPD for approximately $375 million in cash. The Company has retained a 10
+    percent ownership interest in the recapitalized CPD and also has a warrant
+    to acquire approximately an additional 10 percent. The new entity will do
+    business under the name of Legerity, Inc. As part of the transaction, the
+    Company negotiated various service contracts with Francisco Partners to
+    continue to provide, among other things, wafer fabrication and assembly,
+    test, mark and pack services to Legerity.
+
+8.  Restructuring and Other Special Charges
+
+    Restructuring and other special charges were zero in the first six months of
+    2000 and $38 million during the year ended December 26, 1999. These charges
+    were the result of the Company's efforts to better align its cost structure
+    with expected revenue growth rates.
+
+                                      11
+<PAGE>
+
+  The charges against accruals for restructuring and other special charges
+  through the quarter ended July 2, 2000 are as follows:
+<TABLE>
+<CAPTION>
+                                    Severance
+                                      and                                          Equipment    Discontinued
+                                    Employee                                        Disposal       System
+(Thousands)                         Benefits      Facilities        Equipment         Costs       Projects        Total
+                                   ---------      ----------        ---------      ---------    ------------    ---------
+<S>                              <C>             <C>               <C>            <C>          <C>             <C>
+Q1 99 charges                      $  779         $      -           $   8,148      $      -       $  6,089       $ 15,016
+Non-cash charges                        -                -              (8,148)            -         (6,089)       (14,237)
+                                   ------         --------           ---------      --------       --------       --------
+Accruals at March 28, 1999            779                -                   -             -              -            779
+Q2 99 charges                       2,245              968              10,801         3,500              -         17,514
+Cash charges                       (1,360)               -                   -             -              -         (1,360)
+Non-cash charges                        -                -             (10,801)            -              -        (10,801)
+                                   ------         --------           ---------      --------       --------       --------
+Accruals at June 27, 1999           1,664              968                   -         3,500              -          6,132
+Cash charges                       (1,664)             (35)                  -        (1,067)             -         (2,766)
+                                   ------         --------           ---------      --------       --------       --------
+Accruals at September 26, 1999          -              933                   -         2,433              -          3,366
+Q4 99 charges                           -                -               4,820           880              -          5,700
+Cash charges                            -              (21)                  -          (870)             -           (891)
+Non-cash charges                        -                -              (4,820)            -              -         (4,820)
+                                   ------         --------           ---------      --------       --------       --------
+Accruals at December 26, 1999           -              912                   -         2,443              -          3,355
+Cash charges                            -             (307)                  -          (106)             -           (413)
+                                   ------         --------           ---------      --------       --------       --------
+Accruals at April 2, 1999               -              605                   -         2,337              -          2,942
+Cash charges                            -                -                   -        (2,337)             -         (2,337)
+                                   ------         --------           ---------      --------       --------       --------
+Accruals at July 2, 2000           $    -         $    605           $       -      $      -       $      -       $    605
+                                   ======         ========           =========      ========       ========       ========
+</TABLE>
+
+The Company anticipates that the remaining accruals for sales office facilities
+will be utilized over the period through lease termination in the second quarter
+of 2002.  The remaining accruals for the disposal costs for equipment that has
+been taken out of service were fully discharged in the second quarter of 2000.
+
+9. Debt
+
+   On July 6, 2000, the Company announced a cash tender offer and consent
+   solicitation for the outstanding $400 million aggregate principal amount of
+   the 11% Senior Secured Notes due 2003 (the Senior Secured Notes). On July 19,
+   2000, the consent solicitation period expired and the Company announced that
+   it had obtained consents and tenders from registered holders of the Senior
+   Secured Notes representing more than 85 percent of the principal amount. The
+   tender offer expired on August 2, 2000, and approximately $356 million
+   aggregate principal amounts had been tendered. In the third quarter of 2000,
+   the Company will incur a one time extraordinary cost of approximately $36
+   million in connection with retirement of the debt.
+
+                                      12
+<PAGE>
+
+10.  Contingencies
+
+     Ellis Investment Co., Ltd., et al v. AMD, et al. Between March 10, 1999 and
+     April 22, 1999, AMD and certain individual officers of AMD were named as
+     defendants in a number of lawsuits that were consolidated under Ellis
+     Investment Co., Ltd., et al v. Advanced Micro Devices, Inc., et al.
+     Following appointment of lead counsel, the case was re-named Hall et al. v.
+     Advanced Micro Devices, Inc., et al. The class action complaints allege
+     various violations of Section 10(b) of the Exchange Act and Rule 10b-5
+     promulgated thereunder. Most of the complaints purportedly were filed on
+     behalf of all persons, other than the defendants, who purchased or
+     otherwise acquired common stock of AMD during the period from October 6,
+     1998 to March 8, 1999. Two of the complaints allege a class period from
+     July 13, 1998 to March 9, 1999. All of the complaints allege that
+     materially misleading statements and/or material omissions were made by AMD
+     and certain individual officers of AMD concerning design and production
+     problems relating to high-speed versions of the AMD-K6-2 and AMD-K6-III
+     microprocessors. Based upon information presently known to management, the
+     Company does not believe that the ultimate resolution of these lawsuits
+     will have a material adverse effect on the Company's financial condition.
+
+                                      13
+<PAGE>
+
+- -------------------------------------------------------------------------------
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+The statements in this Management's Discussion and Analysis of Financial
+Condition and Results of Operations that are forward-looking are based on our
+current expectations and beliefs and involve numerous risks and uncertainties
+that could cause actual results to differ materially.  The forward-looking
+statements relate to, among other things, operating results; anticipated cash
+flows; capital expenditures; adequacy of resources to fund operations and
+capital investments; our ability to increase customer and market acceptance of
+AMD Athlon microprocessors and AMD Duron microprocessors, our seventh generation
+microprocessors; our ability to maintain average selling prices for our seventh
+generation microprocessors; the effect of foreign currency hedging transactions;
+our new submicron integrated circuit manufacturing and design facility located
+in Dresden, Germany (Dresden Fab 30); our ability to ramp production in Dresden
+Fab 30; and the Fujitsu AMD Semiconductor Limited (FASL) manufacturing
+facilities.  See "Financial Condition" and "Risk Factors" below, as well as such
+other risks and uncertainties as are detailed in our other Securities and
+Exchange Commission reports and filings for a discussion of the factors that
+could cause actual results to differ materially from the forward-looking
+statements.
+
+The following discussion should be read in conjunction with the Consolidated
+Financial Statements and related notes as of July 2, 2000, December 26, 1999,
+and December 27, 1998, and for the quarter ended July 2, 2000 and each of the
+three years in the period ended December 26, 1999.
+
+AMD, the AMD logo, and combinations thereof, Advanced Micro Devices, K86, AMD-
+K6, AMD-K6-2, AMD-K6-III, AMD Athlon, AMD Duron and 3DNow! are either trademarks
+or registered trademarks of Advanced Micro Devices, Inc. Vantis is a trademark
+of Vantis Corporation.  Microsoft and Windows are either registered trademarks
+or trademarks of Microsoft Corporation. Pentium and Celeron are either
+registered trademarks or trademarks of Intel Corporation. Other terms used to
+identify companies and products may be trademarks of their respective owners.
+
+                                      14
+<PAGE>
+
+- -------------------------------------------------------------------------------
+RESULTS OF OPERATIONS
+
+During the six months ended July 2, 2000, we participated in all three
+technology areas within the digital integrated circuit market - memory circuits,
+logic circuits and microprocessors - through our Core Products segment, our
+Communications Group segment, and our Other segment. The Core Products segment
+consists of two of our product groups - our Computation Products Group (CPG) and
+our Memory Group. CPG products include microprocessors, core logic products and
+embedded processors. Memory Group products include Flash memory devices and
+Erasable Programmable Read-Only Memory (EPROM) devices. Communications Group
+products include telecommunication products and networking products. As a result
+of the sale of our Communications Products Division on August 4, 2000, we are
+reevaluating our reporting structure. The Other segment includes sales from our
+former programmable logic devices subsidiary, Vantis, and service fees from
+Vantis subsequent to its sale.
+
+On June 15, 1999, we completed the sale of Vantis to Lattice Semiconductor
+Corporation.  As part of the sale of Vantis, we negotiated various service
+contracts with Lattice to continue to provide, among other things, wafer
+fabrication and assembly, test, mark and pack services to Vantis.
+
+On May 21, 2000, we entered into definitive agreements with Francisco Partners,
+L.P., a private equity investment firm, providing for a recapitalization of the
+Communication Products Division (CPD), a portion of the Communications Group
+that produces telecommunication products. On August 4, 2000, we completed the
+sale of 90 percent of the recapitalized CPD for approximately $375 million in
+cash. We have retained a 10 percent ownership interest in the recapitalized CPD
+and also have a warrant to acquire approximately an additional 10 percent. The
+new entity will do business under the name of Legerity, Inc. As part of the
+transaction, we negotiated various service contracts with Francisco Partners to
+continue to provide, among other things, wafer fabrication and assembly, test,
+mark and pack services to Legerity.
+
+On July 6, 2000, we announced a cash tender offer and consent solicitation for
+the outstanding $400 million aggregate principal amount of our 11% Senior
+Secured Notes due 2003 (the Senior Secured Notes). On July 19, 2000, the consent
+solicitation period expired and we announced that we had obtained consents and
+tenders from registered holders of the Senior Secured Notes representing more
+than 85 percent of the principal amount. The tender offer expired on August 2,
+2000, and approximately $356 million aggregate principal amounts had been
+tendered. In the third quarter of 2000, we will incur a one time extraordinary
+cost of approximately $36 million in connection with the retirement of the debt.
+
+We use a 52- to 53-week fiscal year ending on the last Sunday in December.  The
+quarters ended July 2, 2000 and June 27, 1999 each included 13 weeks, and the
+quarter ended April 2, 2000 included 14 weeks.
+
+                                      15
+<PAGE>
+
+The following is a summary of our net sales by segment for the periods presented
+below:
+
+<TABLE>
+<CAPTION>
+                                                          Quarter Ended                             Six Months Ended
+                                           --------------------------------------               ------------------------
+                                           July 2,        April 2,       June 27,               July 2,         June 27,
+(Millions)                                  2000           2000            1999                  2000            1999
+                                           ------         ------           -----                ------          ------
+<S>                                       <C>             <C>            <C>                   <C>               <C>
+Core Products segment:
+     CPG                                  $  667         $  644           $ 317                  $1,311         $  712
+     Memory Group                            362            327             166                     689            292
+Communications Group segment                 117            101              70                     218            133
+Other segment                                 24             20              42                      44             89
+                                          ------         ------           -----                  ------         ------
+                                          $1,170         $1,092           $ 595                  $2,262         $1,226
+                                          ======         ======           =====                  ======         ======
+</TABLE>
+
+Net Sales Comparison of Quarters Ended July 2, 2000 and April 2, 2000
+
+Net sales of $1,170 million for the second quarter of 2000 increased by seven
+percent compared to net sales of $1,092 million for the first quarter of 2000.
+
+CPG net sales of $667 million increased four percent in the second quarter of
+2000 compared to the first quarter of 2000. The increase in net sales was
+primarily due to higher unit sales of our seventh generation microprocessors,
+partially offset by lower unit sales of AMD-K6(R) microprocessors. In June 2000,
+we introduced and began shipping the AMD Duron(TM) microprocessor, a derivative
+of the AMD Athlon(TM) microprocessor designed to provide a solution for value
+conscious PC buyers. Overall CPG sales growth in 2000 is dependent upon a
+successful production ramp in Dresden Fab 30, availability of chipsets and
+motherboards from third-party suppliers and increasing market acceptance of our
+seventh generation microprocessors, as to which we cannot give any assurance.
+
+Memory Group net sales of $362 million increased 11 percent in the second
+quarter of 2000 compared to the first quarter of 2000 primarily as a result of
+continued strong demand for Flash memory devices.  Although demand for Flash
+memory devices has remained strong, achieving further growth in net sales of
+Flash memory devices will depend upon our ability to execute our plans to
+increase our Flash memory manufacturing capacity, and continuing market
+acceptance of our flash memory products as to which we cannot give any
+assurance.
+
+Communications Group net sales amounted to $117 million, of which $63 million
+related to CPD, our Communications Products Division that was sold on August 4,
+2000. The net sales increased 16 percent in the second quarter of 2000 compared
+to the first quarter of 2000 primarily due to increased net sales of
+telecommunications line-card circuits, Asymmetric Digital Subscriber Line (ADSL)
+chips, and devices for physical layer Ethernet. Therefore, the second quarter of
+2000 will be the last full quarter to report sales from CPD.
+
+                                      16
+<PAGE>
+
+In the Other segment, we received service fees of $24 million from Lattice in
+the second quarter of 2000 compared to $20 million in the first quarter of 2000.
+
+Net Sales Comparison of Quarters Ended July 2, 2000 and June 27, 1999
+
+Net sales of $1,170 million for the second quarter of 2000 increased by 97
+percent compared to net sales of $595 million for the second quarter of 1999.
+Excluding net sales from the Other segment, net sales for the second quarter of
+2000 increased 107 percent compared to the second quarter of 1999.
+
+CPG net sales of $667 million increased 110 percent in the second quarter of
+2000 compared to the same quarter of 1999 primarily due to increased net sales
+of our seventh generation microprocessors.  Although unit sales of AMD-K6
+microprocessors increased, net sales decreased due to declines in average
+selling prices which were caused by aggressive Intel pricing.
+
+Memory Group net sales of $362 million increased by 118 percent in the second
+quarter of 2000 compared to the second quarter of 1999 as a result of strong
+growth in demand for Flash memory devices.  This increase was slightly offset by
+lower net sales of EPROMs.
+
+Communications Group net sales of $117 million increased 68 percent in the
+second quarter of 2000 compared to the second quarter of 1999 primarily due to
+increased net sales of telecommunications line-card circuits, ADSL chips, and
+devices for physical layer Ethernet.
+
+In the Other segment, we received service fees of $24 million from Lattice in
+the second quarter of 2000. Net sales from our former Vantis subsidiary in the
+second quarter of 1999 were $40 million. Due to the sale of Vantis on June 15,
+1999, we did not record any sales for Vantis in the second quarter of 2000.
+
+Net Sales Comparison of Six months Ended July 2, 2000 and June 27, 1999
+
+Net Sales of $2,262 million for the first half of 2000 increased by 85 percent
+compared to net sales of $1,226 million for the first half of 1999. Excluding
+net sales from the Other segment, net sales for the first half of 2000 increased
+95 percent compared to the first half of 1999.
+
+CPG net sales of $1,311 million increased by 84 percent in the first half of
+2000 compared to the first half of 1999 primarily due to increased net sales
+from our seventh generation microprocessors.  This increase was partially offset
+by decreased net sales of AMD-K6 microprocessors.  Although unit sales of AMD-K6
+microprocessors increased, net sales decreased due to declines in average
+selling prices which were caused by aggressive Intel pricing.
+
+                                      17
+<PAGE>
+
+Memory Group net sales of $689 million increased by 136 percent in the first
+half of 2000 compared to the first half of 1999 as a result of strong growth in
+demand for Flash memory devices.  This increase was slightly offset by lower net
+sales of EPROMs.
+
+Communications Group net sales of $218 million increased 64 percent in the first
+half of 2000 compared to the first half of 1999 primarily due to increased net
+sales of telecommunications line-card circuits, ADSL chips, and devices for
+physical layer Ethernet.
+
+In the Other segment, we received service fees of $44 million from Lattice in
+the first half of 2000. Net sales from our former Vantis subsidiary in the first
+half of 1999 were $87 million. Due to the sale of Vantis on June 15, 1999, we
+did not record any sales for Vantis in the first half of 2000.
+
+Comparison of Expenses, Gross Margin Percentage and Interest
+
+The following is a summary of expenses, gross margin percentage and interest
+income and other, net for the periods presented below:
+<TABLE>
+<CAPTION>
+                                                                Quarter Ended                  Six Months Ended
+                                                                -------------                  ----------------
+                                                        July 2,    April 2,     June 27,      July 2,       June 27,
+                                                         2000       2000          1999          2000         1999
+                                                       --------   ---------     --------     --------     ----------
+<S>                                                    <C>        <C>           <C>          <C>          <C>
+(Millions except for gross margin percentage)
+Cost of sales                                            $613       $606         $458        $1,218        $909
+Gross Margin percentage                                    48%        45%          23%           46%         26%
+Research and development                                 $156       $161         $167        $  317        $327
+Marketing; general and administrative                     152        144          125           296         252
+Restructuring and other special charges                     -          -           18             -          33
+Gain on sale of Vantis                                      -          -          432             -         432
+Interest income and other, net                             20         21            7            41          18
+Interest expense                                           11         11           18            23          39
+</TABLE>
+
+We operate in an industry characterized by high fixed costs due to the capital-
+intensive manufacturing process, particularly the state-of-the-art production
+facilities, required for microprocessors.  As a result, our gross margin
+percentage is significantly affected by fluctuations in product sales.  Gross
+margin percentage growth depends on continually increasing sales because fixed
+costs continue to rise due to the ongoing capital investments required to expand
+production capacity and capability.
+
+The gross margin percentage of 48 percent in the first quarter of 2000 increased
+from 45 percent in the first quarter of 2000 and 23 percent in the second
+quarter of 1999. Gross margin percentage of 46 percent in the first half of 2000
+increased from 26 percent in the first half of 1999.  The increases were
+primarily due to higher net sales of microprocessors and Flash memory devices,
+which more than offset the increases in fixed costs. Fixed costs will continue
+to increase as we ramp production in Dresden Fab 30. As described in the
+paragraph immediately below, Dresden Fab 30 went into production in the second
+quarter of 2000, which contributed to, and will continue to contribute to,
+increases in cost of sales.
+
+Research and development expenses of $156 million in the second quarter of 2000
+decreased three percent compared to the immediate-prior quarter. Research and
+
+                                      18
+<PAGE>
+
+development expenses in the second quarter of 2000 decreased seven percent
+compared to the same quarter in 1999. Research and development expenses of  $317
+million in the first half of 2000 decreased three percent compared to the first
+half of 1999. The decreases were primarily a result of shifting a portion of
+Dresden Fab 30 expenses from research and development to cost of sales in the
+second quarter of 2000 as Dresden Fab 30 began shipping products. Offsetting
+Dresden Fab 30 expenses are the recognition of deferred credits on foreign
+capital grants and interest subsidies that we received for Dresden Fab 30. These
+credits of approximately $11 million per quarter (denominated in deutsche marks)
+will continue to be offset against Dresden Fab 30 expenses in future quarters
+until June 2007. The decreases in research and development expenses were also
+due to the absence of Vantis expenses in the second quarter of 2000, savings in
+our Submicron Development Center (SDC) as a result of restructuring activities
+in 1999 and a decrease in expenses related to our technology development
+alliance with Motorola.
+
+Marketing, general and administrative expenses of $152 million in the second
+quarter of 2000 increased six percent compared to the first quarter of 2000 as a
+result of increased advertising and marketing expenses related to the AMD Athlon
+and AMD Duron microprocessors. Marketing, general and administrative expenses in
+the second quarter of 2000 increased twenty-two percent compared to the second
+quarter of 1999. Marketing, general and administrative expenses of $296 million
+in the first half of 2000 increased 17 percent compared to the first half of
+1999. The increases were due to increased advertising and marketing for the AMD
+Athlon microprocessor and higher expenses associated with employee bonuses and
+profit sharing.
+
+In the first quarter of 1999, we initiated an internal review to better align
+our cost structure with expected revenue growth rates. Based upon this review,
+we recorded restructuring and other special charges of $38 million during 1999,
+$15 million of which was recorded in the first quarter of 1999, $17 million of
+which was recorded in the second quarter of 1999 and $6 million of which was
+recorded in the fourth quarter of 1999.
+
+The $38 million in restructuring and other special charges consisted of the
+following:
+
+ .  $25 million for the closure of a submicron development laboratory facility in
+   the SDC, the write-off of certain equipment in the SDC and the write-off of
+   equipment taken out of service in Fab 25 related to the 0.35-micron wafer
+   fabrication process;
+ .  $6 million for the write-off of capitalized costs related to discontinued
+   system projects;
+ .  $3 million for the disposal of equipment taken out of service in the SDC;
+ .  $3 million for severance and employee benefits for 178 terminated employees
+   in the Information Technology department, the SDC and certain sales offices;
+   and
+ .  $1 million for costs of leases for vacated and unused sales offices.
+
+As of July 2, 2000, the total cash outlay for restructuring and other special
+charges was approximately $8 million. We anticipate that accruals of $600,000
+for sales office facilities will be utilized over the period through lease
+terminations in the second quarter of 2002. The accruals for the disposal costs
+for equipment that has been taken out of sevice were fully discharged during the
+second quarter of 2000.
+
+                                      19
+<PAGE>
+
+The remaining $30 million of restructuring and other special charges consisted
+of non-cash charges primarily for asset write-offs. As a result of the
+restructuring and other special charges, we expect that depreciation otherwise
+incurred will be reduced by $30 million over the next several years.
+
+Interest income and other, net of $20 million in the second quarter of 2000 was
+relatively flat compared to the first quarter of 2000 and increased 175 percent
+compared to the same quarter of 1999 primarily due to higher average cash
+balances and an insurance settlement from environmental litigation.  Interest
+income and other, net of $41 million in the first half of 2000 increased $23
+million compared to the first half of 1999.  The increase was primarily due to
+gains of $9 million on the sale of real property, an insurance settlement from
+environmental litigation, and higher average cash balances.
+
+Interest expense of $11 million in the second quarter of 2000 was flat compared
+to the first quarter of 2000.  Interest expense in the second quarter of 2000
+decreased 38 percent as compared to the same quarter in 1999 primarily due to
+lower average debt balances resulting from our repayment in July 1999 of the
+outstanding principal balance on our $250 million four-year secured term loan.
+Interest expense of $23 million in the first half of 2000 decreased 42 percent
+compared to the first half of 1999.  This decrease was primarily due to the
+lower average debt balances resulting from our repayment in July 1999 of the
+outstanding principal balance on our $250 million four-year secured term loan.
+Beginning in the third quarter of 2000, interest expense will be reduced by the
+retirement of $356 million of our Senior Secured Notes. In addition, we will no
+longer capitalize interest relating to Dresden Fab 30 since Dresden Fab 30
+became a production facility in the second quarter of 2000 which will offset
+the reduction in interest on the Senior Secured Notes.
+
+Income Tax
+
+We recorded a $52 million income tax provision in the second quarter of 2000 and
+a $173 million income tax provision in the second quarter of 1999.  The tax
+provision recorded in the second quarter of 1999 was attributable to the gain on
+the sale of Vantis.  The effective tax rates for the three and six months ended
+July 2, 2000 (20 percent and 12 percent) reflect the realization of previously
+unbenefitted deferred tax assets, and are higher than the equivalent tax rates
+on income excluding gain on the sale of Vantis in 1999 (0 percent) due to the
+projected 2000 income amount exceeding the amount able to be offset through the
+realization of such deferred tax assets.
+
+Other Items
+
+International sales as a percent of net sales were 61 percent in the second
+quarter of 2000 compared to 59 percent in the first quarter of 2000 and 58
+percent in the second quarter of 1999.  International sales were 60 percent of
+net sales in the first half of 2000 and 58 percent in the first half of 1999.
+During the second quarter of 2000, approximately six percent of our net sales
+were denominated in foreign currencies.   We do not have sales denominated in
+local currencies in countries that have highly inflationary economies, as
+defined by generally accepted accounting principles.  The impact on our
+operating results
+
+                                      20
+<PAGE>
+
+from changes in foreign currency rates individually and in the aggregate has not
+been material.
+
+Comparison of Segment Income (Loss)
+
+For a comparison of segment net sales, refer to the previous discussions on net
+sales by product group.
+
+The following is a summary of operating income (loss) by segment for the periods
+presented below:
+<TABLE>
+<CAPTION>
+                                                      Quarter Ended                       Six Months Ended
+                                                      -------------                       ----------------
+                                             July 2,     April 2,     June 27,         July 2,        June 27,
+(Millions)                                    2000        2000         1999             2000           1999
+                                            ---------    --------     --------        ---------     ----------
+<S>                                         <C>         <C>           <C>             <C>          <C>
+Core Products segment                        $  209       $ 155        $ (177)         $ 364         $ (304)
+Communications Group segment                     37          21             1             58              1
+Other segment                                     4           5             3              9              9
+                                             ------       -----        ------          -----         ------
+   Total                                     $  250       $ 181        $ (173)         $ 431         $ (294)
+                                             ======       =====        ======          =====         ======
+</TABLE>
+
+The Core Products' operating income in the second quarter of 2000 increased 38
+percent compared to the first quarter of 2000. The increase was mainly due to an
+increase in net sales of AMD Athlon microprocessors and Flash memory devices
+which more than offset higher fixed costs. The Core Products segment had an
+operating income of $250 million in the second quarter of 2000 and operating
+income of $431 million in the first half of 2000 compared to a loss of $173
+million in the same quarter of 1999 and a loss of $294 million in the first half
+of 1999 mainly due to higher net sales of our seventh generation microprocessors
+and Flash memory devices in 2000 and restructuring expenses in the first quarter
+of 1999. The Communications Group's operating income increased in the second
+quarter of 2000 compared to the first quarter of 2000 and the same quarter of
+1999, and in the second half of 2000 to the second half of 1999 mainly due to an
+increase in net sales of our telecommunications line-card circuits, ADSL chips,
+and devices for physical layer Ethernet solutions. As a result of the sale of
+our Communications Products Division on August 4, 2000, we are reevaluating our
+reporting structure.
+
+                                      21
+<PAGE>
+
+- -------------------------------------------------------------------------------
+FINANCIAL CONDITION
+
+Net cash provided by (used in) operating activities was $668 million in the
+first half of 2000 compared to ($18 million) in the same period of 1999.  Net
+operating cash flows in the first half of 2000 increased $686 million over the
+same period in 1999 primarily due to an increase in net income of $445 million
+and the following changes in noncash adjustments to net income:
+
+ .  a nonrecurring $432 million reduction to net income from the gain on the sale
+   of Vantis in 1999,
+ .  an increase of $20 million in depreciation and amortization,
+ .  a $142 million increase in customer deposits under long-term purchase
+   agreements, and
+ .  $13 million more of an increase in income tax payable.
+
+These were partially offset by:
+
+ .  $132 million less of a decrease in deferred income tax assets,
+ .  a nonrecurring $25 million addition to net income from restructuring charges
+   in 1999,
+ .  $173 million more of an increase in receivables, inventories, prepaid
+   expenses and other assets, and
+ .  $47 million more of a decrease in payables and accrued liabilities.
+
+Net cash provided by (used in) investing activities was ($346 million) during
+the first half of 2000 compared to $4 million during the first half of 1999.
+The increase in cash used in investing activities of $350 million was primarily
+due to the nonrecurring $454 million we received in 1999 from the sale of
+Vantis, which was partially offset by a $57 million decrease in capital
+expenditures.
+
+Net cash provided by (used in) financing activities was $90 million during the
+first half of 2000 compared to ($116 million) in the same period of 1999.  This
+increase of $206 million was primarily the result of a $137 million decrease in
+the payment of debt as well as a $68 million increase in proceeds from issuance
+of stock in connection with the exercise of employee stock options.
+
+Under our Loan and Security Agreement (the Loan Agreement), which provides for a
+four-year secured revolving line of credit of up to $200 million, we can borrow,
+subject to amounts which may be set aside by the lenders, up to 85 percent of
+our eligible accounts receivable from Original Equipment Manufacturers (OEMs)
+and 50 percent of our eligible accounts receivable from distributors.   We must
+comply with certain financial covenants if the level of domestic cash we hold
+declines to certain levels, or the amount of borrowings under the Loan Agreement
+rises to certain levels.  Our obligations
+
+                                      22
+<PAGE>
+
+under the Loan Agreement are secured by a pledge of most of our accounts
+receivable, inventory, general intangibles and the related proceeds. As of July
+2, 2000, no funds were drawn under the Loan Agreement. In addition, we had
+available unsecured, uncommitted bank lines of credit in the amount of $71
+million, none of which was outstanding.
+
+We plan to make capital investments of approximately $800 million during 2000.
+These investments include those relating to the continued facilitization of
+Dresden Fab 30 and Fab 25.
+
+AMD Saxony, an indirect wholly owned German subsidiary of AMD, has constructed a
+fab and is installing equipment in Dresden Fab 30.  AMD, the Federal Republic of
+Germany, the State of Saxony and a consortium of banks are supporting the
+project.  We currently estimate construction and facilitization costs of Dresden
+Fab 30 will be $2.2 billion when fully equipped.  In March 1997, AMD Saxony
+entered into a loan agreement and other related agreements (the Dresden Loan
+Agreements) with a consortium of banks led by Dresdner Bank AG.  The Dresden
+Loan Agreements provide for the funding of the construction and facilitization
+of Dresden Fab 30.  The funding consists of:
+
+ . equity, subordinated loans and loan guarantees from AMD;
+ . loans from a consortium of banks; and
+ . grants, subsidies and loan guarantees from the Federal Republic of Germany and
+  the State of Saxony.
+
+The Dresden Loan Agreements require that we partially fund Dresden Fab 30
+project costs in the form of subordinated loans to, or equity investments in,
+AMD Saxony.  In accordance with the terms of the Dresden Loan Agreements, we
+have invested $424 million to date in the form of subordinated loans to and
+equity in AMD Saxony. In addition to support from AMD, the consortium of banks
+referred to above has made available $796 million in loans  to AMD Saxony to
+help fund Dresden Fab 30 project costs.  AMD Saxony had $253 million of such
+loans outstanding as of July 2, 2000.
+
+Finally, the Federal Republic of Germany and the State of Saxony are supporting
+the Dresden Fab 30 project, in accordance with the Dresden Loan Agreements, in
+the form of:
+
+ .  guarantees of the lesser of 65 percent of AMD Saxony bank debt or $796
+   million;
+ .  capital investment grants and allowances totaling $287 million; and
+ .  interest subsidies totaling $148 million.
+
+Of these amounts, AMD Saxony had received $284 million in capital investment
+grants and allowances and $22 million in interest subsidies as of July 2, 2000.
+The grants and subsidies are subject to conditions, including meeting specified
+levels of employment in December 2001 and maintaining those levels until June
+2007.  Noncompliance with the conditions of the grants and subsidies could
+result in the forfeiture of all or a portion of the future amounts to be
+received as well as the repayment of all or a portion of amounts received to
+date.  As of July 2, 2000, we were in compliance with all of the conditions of
+the grants and subsidies.
+
+                                      23
+<PAGE>
+
+The Dresden Loan Agreements also require that we:
+
+ .  provide interim funding to AMD Saxony if either the remaining capital
+   investment allowances or the remaining interest subsidies are delayed, such
+   funding to be repaid to AMD as AMD Saxony receives the grants or subsidies
+   from the State of Saxony;
+ .  fund shortfalls in government subsidies resulting from any default under the
+   subsidy agreements caused by AMD Saxony or its affiliates;
+ .  guarantee a portion of AMD Saxony's obligations under the Dresden Loan
+   Agreements up to a maximum of $105 million until Dresden Fab 30 has been
+   completed;
+ .  fund certain contingent obligations including obligations to fund project
+   cost overruns, if any; and
+ .  make funds available to AMD Saxony, after completion of Dresden Fab 30, up to
+   approximately $70 million if AMD Saxony does not meet its fixed charge
+   coverage ratio covenant.
+
+Because most of the amounts under the Dresden Loan Agreements are denominated in
+deutsche marks, the dollar amounts set forth above are subject to change based
+on applicable conversion rates.  We used the exchange rate at the end of the
+second quarter of 2000, which was approximately 2.07 deutsche marks to 1 U.S.
+dollar, to value the amounts denominated in deutsche marks.
+
+The definition of defaults under the Dresden Loan Agreements includes the
+failure of AMD, AMD Saxony or AMD Holding, the parent company of AMD Saxony and
+a wholly owned subsidiary of AMD, to comply with obligations in connection with
+the Dresden Loan Agreements, including:
+
+ .  material variances from the approved schedule and budget;
+ .  our failure to fund equity contributions or shareholder loans or otherwise
+   comply with our obligations relating to the Dresden Loan Agreements;
+ .  the sale of shares in AMD Saxony or AMD Holding;
+ .  the failure to pay material obligations;
+ .  the occurrence of a material adverse change or filings or proceedings in
+   bankruptcy or insolvency with respect to us, AMD Saxony or AMD Holding; and
+ .  the occurrence of default under the indenture dated August 1, 1996 between
+   AMD and the United States Trust Company of New York (the Indenture) pursuant
+   to which our Senior Secured Notes were issued or the Loan Agreement.
+
+Generally, any default with respect to borrowings made or guaranteed by AMD
+results in recourse to us of more than $10 million and is not cured by us, would
+result in a cross-default under the Dresden Loan Agreements and the Loan
+Agreement.  Under certain circumstances, cross-defaults result under our
+Convertible Subordinated Notes due 2005 and the Dresden Loan Agreements.
+
+In the event we are unable to meet our obligation to make loans to, or equity
+investments in, AMD Saxony as required under the Dresden Loan Agreements, AMD
+Saxony will be unable to
+
+                                      24
+<PAGE>
+
+complete Dresden Fab 30, and we will be in default under the Dresden Loan
+Agreements and the Loan Agreement, which would permit acceleration of certain
+indebtedness, which would have a material adverse effect on us. We cannot assure
+that we will be able to obtain the funds necessary to fulfill these obligations.
+Any such failure would have a material adverse effect on us.
+
+FASL, a joint venture formed by AMD and Fujitsu Limited in 1993, is continuing
+the facilitization of its second Flash memory device wafer fabrication facility,
+FASL II, in Aizu-Wakamatsu, Japan.  The facility, including equipment, is
+expected to cost approximately $1 billion when fully equipped.  As of July 2,
+2000, approximately $568 million (denominated in yen) of this cost had been
+funded. In July 2000, FASL broke ground for a third fabrication facility for the
+manufacture of Flash memory devices in Aizu-Wakamatsu, Japan.  The facility,
+designated as JV3, is expected to cost approximately $1.5 billion when fully
+equipped.  Capital expenditures for FASL II and JV3 construction to date have
+been funded by cash generated from FASL operations and borrowings by FASL.
+
+FASL capital expenditures in 2000 will continue to be funded by cash generated
+from FASL operations and local borrowings by FASL.  However, to the extent that
+FASL is unable to secure the necessary funds for FASL II or JV3, we may be
+required to contribute cash or guarantee third-party loans in proportion to our
+49.992 percent interest in FASL.  As of July 2, 2000, we had no loan guarantees
+outstanding with respect to these loans.  These planned costs are denominated in
+yen and are, therefore, subject to change due to foreign exchange rate
+fluctuations.  At the end of the second quarter of 2000, the exchange rate was
+approximately 105.41 yen to 1 U.S. dollar, which we used to calculate the
+amounts denominated in yen.
+
+We believe that cash flows from operations and current cash balances, together
+with external financing activities, will be sufficient to fund operations and
+capital investments for the next 12 months.
+
+On August 4, 2000, we received approximately $375 million for the sale of 90
+percent of the recapitalized CPD.  The proceeds of the sale were subsequently
+used to redeem approximately $356 million aggregate principal amount of the
+Senior Secured Notes.
+
+                                      25
+<PAGE>
+
+RISK FACTORS
+
+Our business, results of operations and financial condition are subject to a
+number of risk factors, including the following:
+
+Microprocessor Products
+
+Future Dependence on AMD Seventh-Generation Microprocessors. We will need to
+successfully market our seventh-generation Microsoft Windows compatible
+microprocessors, the AMD Athlon and AMD Duron microprocessors, in order to
+increase our microprocessor product revenues in 2000 and beyond, and to benefit
+fully from the substantial financial investments and commitments we have made
+and continue to make related to microprocessors. We commenced initial shipments
+of AMD Athlon microprocessors in June 1999 and began volume shipments in the
+second half of 1999. We introduced and began shipments of the AMD Duron
+processor, a derivative of the AMD Athlon processor designed to provide an
+optimized solution for value conscious business and home users, in June 2000.
+Our production and sales plans for AMD Athlon and AMD Duron microprocessors are
+subject to numerous risks and uncertainties, including:
+
+ .  our ability to produce seventh-generation microprocessors in the volume and
+   with the feature set required by customers on a timely basis;
+ .  our ability to design, manufacture and deliver processor modules through
+   subcontractors;
+ .  the availability and acceptance of motherboards and chipsets designed for our
+   seventh-generation microprocessors;
+ .  market acceptance of  our seventh-generation microprocessors;
+ .  our ability to maintain average selling prices of seventh-generation
+   microprocessors despite aggressive Intel pricing, including market rebates
+   and product bundling of microprocessors, motherboards, chipsets and
+   combination thereof;
+ .  the successful development and installation of 0.18-micron process technology
+   and copper interconnect technology;
+ .  our ability to ramp production in Dresden Fab 30;
+ .  the pace at which we are able to ramp production in Dresden Fab 30 on 0.18-
+   micron copper interconnect process technology;
+ .  the use and market acceptance of a non-Intel processor bus (adapted by us
+   from Digital Equipment Corporation's EV6 bus) in the design of our seventh-
+   generation microprocessors, and the availability of chipsets from vendors who
+   will develop, manufacture and sell chipsets with the EV6 interface in volumes
+   required by us;
+ .  our ability to expand our chipset and system design capabilities;
+ .  our ability to successfully offer new higher performance versions of the AMD
+   Athlon microprocessor; and
+ .  the availability to our customers of cost and performance competitive Static
+   Random Access Memories (SRAMs) (including Tag chips) if Intel controls the
+   market for SRAM production capacity through its relationships with SRAM
+   manufacturers.
+
+                                      26
+<PAGE>
+
+If we fail to achieve market acceptance of our seventh-generation
+microprocessors, if our subcontractors are unable to provide the processor
+modules we require or if chipsets and motherboards which are compatible with our
+seventh-generation microprocessors are not made available, our business will be
+materially and adversely affected.
+
+Investment in and Dependence on K86(TM) AMD Microprocessor Products. Our
+microprocessor product revenues have significantly impacted, and will continue
+in 2000 and 2001 to significantly impact, our overall revenues, profit margins
+and operating results. We plan to continue to make significant capital
+expenditures to support our microprocessor products both in the near and long
+term. These capital expenditures will be a substantial drain on our cash flow
+and cash balances.
+
+Our ability to increase microprocessor product revenues, and benefit fully from
+the substantial financial investments and commitments we have made and continue
+to make related to microprocessors, depends upon success of the AMD Athlon and
+AMD Duron microprocessors, which are our seventh-generation Microsoft Windows
+compatible microprocessors, the AMD-K6 microprocessors with 3DNow! technology
+and future generations of K86 microprocessors. The microprocessor market is
+characterized by short product life cycles and migration to ever-higher
+performance microprocessors. To compete successfully against Intel in this
+market, we must transition to new process technologies at a faster pace than
+before and offer higher performance microprocessors in significantly greater
+volumes. We must achieve acceptable yields while producing microprocessors at
+higher speeds. In the past, we have experienced significant difficulty in
+achieving microprocessor yield and volume plans. Such difficulties have in the
+past, and may in the future, adversely affect our results of operations and
+liquidity. If we fail to offer higher performance microprocessors in significant
+volume on a timely basis in the future, our business could be materially and
+adversely affected. We may not achieve the production ramp necessary to meet our
+customers' volume requirements for higher performance microprocessors. It is
+also possible that we may not increase our microprocessor revenues enough to
+achieve sustained profitability.
+
+To sell the volume of AMD Athlon, AMD Duron and AMD-K6 microprocessors we
+currently plan to make in 2000 and 2001, we must increase sales to existing
+customers and develop new customers in both consumer and commercial markets. If
+we lose any current top tier OEM customer, or if we fail to attract additional
+customers through direct sales and through our distributors, we may not be able
+to sell the volume of units planned. This result could have a material adverse
+effect on our business.
+
+Our production and sales plans for AMD Athlon, AMD Duron and AMD-K6
+microprocessors are subject to other risks and uncertainties, including:
+
+ .  market acceptance of AMD Athlon and AMD Duron microprocessors, including the
+   timely availability of processor modules as well as motherboards and chipsets
+   designed for these processors;
+ .  whether we can successfully fabricate higher performance microprocessors in
+   planned volume and speed mixes;
+
+                                      27
+<PAGE>
+
+ .  the effects of Intel's new product introductions, marketing strategies and
+   pricing;
+ .  the continued market acceptance for AMD-K6 microprocessors and systems based
+   on them;
+ .  whether we will have the financial and other resources necessary to continue
+   to invest in the microprocessor products, including leading-edge wafer
+   fabrication equipment and advanced process technologies;
+ .  the possibility that our newly introduced products may be defective;
+ .  adverse market conditions in the personal computer (PC) market and consequent
+   diminished demand for our microprocessors; and
+ .  unexpected interruptions in our manufacturing operations.
+
+Because Intel has dominated the microprocessor market for many years and has
+brand strength, we have in the past priced AMD-K6 microprocessors below the
+published price of Intel processors offering comparable performance. Thus,
+Intel's processor marketing and pricing can impact and have impacted the average
+selling prices of our microprocessors, and consequently can impact and have
+impacted our overall margins. Our business could be materially and adversely
+affected if we are are unable to:
+
+ .  achieve the product performance improvements necessary to meet customer
+   needs;
+ .  continue to achieve market acceptance of our microprocessors and increase
+   market share;
+ .  maintain revenues of AMD-K6 microprocessors; and
+ .  successfully ramp production and sales of AMD Athlon and AMD Duron
+   microprocessors.
+
+See also the discussions below regarding Intel Dominance and Process Technology.
+
+Intel Dominance. Intel has dominated the market for microprocessors used in PCs
+for many years. Because of its dominant market position, Intel has historically
+set and controlled x86 microprocessor and PC system standards and, thus,
+dictated the type of product the market requires of Intel's competitors. In
+addition, Intel may vary prices on its microprocessors and other products at
+will and thereby affect the margins and profitability of its competitors due to
+its financial strength and dominant position. Intel exerts substantial influence
+over PC manufacturers and their channels of distribution through the Intel
+Inside advertising rebate program and other marketing programs. Intel invests
+billions of dollars in, and as a result exerts influence over, many other
+technology companies. We expect Intel to continue to invest heavily in research
+and development, new manufacturing facilities and other technology companies,
+and to remain dominant:
+
+ .  through the Intel Inside and other marketing programs;
+ .  through other contractual constraints on customers, retailers, industry
+   suppliers and other third parties;
+ .  by controlling industry standards; and
+ .  by controlling supply and demand of motherboards, chipsets and other system
+   components.
+
+                                      28
+<PAGE>
+
+As an extension of its dominant microprocessor market share, Intel also
+dominates the PC platform. As a result, it is difficult for PC manufacturers to
+innovate and differentiate their product offerings. We do not have the financial
+resources to compete with Intel on such a large scale. As long as Intel remains
+in this dominant position, we may be materially and adversely affected by its:
+
+ .  product mix and introduction schedules;
+ .  product bundling and pricing strategies;
+ .  control over industry standards, PC manufacturers and other PC industry
+   participants, including motherboard, chipset and basic input/output system
+   (BIOS) suppliers; and
+ .  customer brand loyalty.
+
+As Intel expanded its dominance over the PC system platform, many PC
+manufacturers reduced their system development expenditures and now purchase
+microprocessors together with chipsets or in assembled motherboards. PC OEMs are
+increasingly dependent on Intel, less innovative on their own and, to a large
+extent, distributors of Intel technology. In marketing our microprocessors to
+these OEMs and dealers, we depend on companies other than Intel for the design
+and manufacture of core-logic chipsets, motherboards, BIOS software and other
+components. In recent years, many of these third-party designers and
+manufacturers have lost significant market share to Intel. In addition, these
+companies produce chipsets, motherboards, BIOS software and other components to
+support each new generation of Intel's microprocessors only if Intel makes
+information about its products available to them in time to address market
+opportunities. Delay in the availability of such information makes, and will
+continue to make, it increasingly difficult for these third parties to retain or
+regain market share.
+
+To compete with Intel in the microprocessor market in the future, we intend to
+continue to form closer relationships with third-party designers and
+manufacturers of chipsets, motherboards, BIOS software and other components.
+Similarly, we intend to expand our chipset and system design capabilities, and
+to offer OEMs licensed system designs incorporating our microprocessors and
+companion products. We cannot be certain, however, that our efforts will be
+successful. We expect that, as Intel introduces future generations of
+microprocessors, chipsets and motherboards, the design of chipsets, memory and
+other semiconductor devices, and higher level board products which support Intel
+microprocessors, will become increasingly dependent on the Intel microprocessor
+design and may become incompatible with non-Intel processor-based PC systems.
+
+Intel's Pentium(R) III and Celeron(TM) microprocessors are sold only in form
+factors that are not physically or interface protocol compatible with "Socket 7"
+motherboards currently used with AMD-K6 microprocessors. Thus, Intel no longer
+supports the Socket 7 infrastructure as it did when it was selling its fifth-
+generation Pentium processors. Because AMD-K6 microprocessors are designed to be
+Socket 7 compatible, and will not work with motherboards designed for Pentium
+II, III and Celeron processors, we intend to continue to work with third-party
+designers and manufacturers of motherboards, chipsets and other products to
+ensure the continued availability of Socket 7 infrastructure support for AMD-K6
+microprocessors, including support for enhancements and features
+
+                                      29
+<PAGE>
+
+we add to our microprocessors. Socket 7 infrastructure support for AMD-K6
+microprocessors may not endure over time as Intel moves the market to its
+infrastructure choices.
+
+We do not currently plan to develop microprocessors that are bus interface
+protocol compatible with the Pentium III and Celeron processors because our
+patent cross-license agreement with Intel does not extend to microprocessors
+that are bus interface protocol compatible with Intel's sixth and subsequent
+generation processors. Thus, the AMD Athlon microprocessor is not designed to
+function with motherboards and chipsets designed to work with Intel
+microprocessors. Our ability to compete with Intel in the market for AMD Athlon
+seventh-generation and future generation microprocessors will depend on our:
+
+ .  success in designing and developing the microprocessors; and
+ .  ability to ensure that the microprocessors can be used in PC platforms
+   designed to support Intel's microprocessors and our microprocessors, or that
+   alternative platforms are available which are competitive with those used
+   with Intel processors.
+
+A failure for any reason of the designers and producers of motherboards,
+chipsets, processor modules and other system components to support our K86
+microprocessor offerings would have a material adverse effect on our business.
+
+Dependence on Microsoft and Logo License. Our ability to innovate beyond the x86
+instruction set controlled by Intel depends on support from Microsoft in its
+operating systems. If Microsoft does not provide support in its operating
+systems for the x86 instructions that we innovate and design into our
+processors, independent software providers may forego designing their software
+applications to take advantage of our innovations. This would adversely affect
+our ability to market our processors. In addition, we have entered into logo
+license agreements with Microsoft that allow us to label our products as
+"Designed for Microsoft Windows." We have also obtained appropriate
+certifications from recognized testing organizations for our K86
+microprocessors. If we fail to maintain the logo license agreements with
+Microsoft, we may lose our ability to label our K86 microprocessors with the
+Microsoft Windows logo. This could impair our ability to market the products and
+could have a material adverse effect on our business.
+
+Fluctuations in PC Market. Since most of our microprocessor products are used in
+PCs and related peripherals, our future growth is closely tied to the growth of
+the PC industry. Industry-wide fluctuations in the PC marketplace have in the
+past and may in the future materially and adversely affect our business.
+
+Financing Requirements
+
+We will have significant capital requirements over the next 12 months.  To the
+extent that we cannot generate the required capital internally or obtain such
+capital externally, our business could be materially adversely affected.  We
+cannot assure the availability of such capital on terms favorable to us, or at
+all.  We currently plan to make capital
+
+                                      30
+<PAGE>
+
+investments of approximately $800 million in 2000 although the actual
+expenditures may vary. These investments include those relating to the continued
+facilitization of Dresden Fab 30 and Fab 25.
+
+In March 1997, our indirect wholly owned subsidiary, AMD Saxony, entered into
+the Dresden Loan Agreements with a consortium of banks led by Dresdner Bank AG.
+The terms of the Dresden Loan Agreements required us to make subordinated loans
+to, or equity investments in, AMD Saxony totaling $100 million in 1999. The
+Dresden Loan Agreements require that we partially fund Dresden Fab 30 project
+costs in the form of subordinated loans to, or equity investments in, AMD
+Saxony. In accordance with the terms of the Dresden Loan Agreements, we have
+invested $424 million as of July 2, 2000 in the form of subordinated loans and
+equity in AMD Saxony.  If we are unable to meet our obligation to make loans to,
+or equity investments in, AMD Saxony as required under the Dresden Loan
+Agreements, AMD Saxony will be unable to complete Dresden Fab 30 and we will be
+in default under the Dresden Loan Agreement and the Loan Agreement, which would
+permit acceleration of indebtedness, which would have a material adverse effect
+on our business.
+
+In 1999, the building construction of FASL II was completed, equipment was
+installed and production was initiated. We expect the facility, including
+equipment, to cost approximately $1 billion when fully equipped. In July 2000,
+FASL broke ground for a third fabrication facility for the manufacture of Flash
+memory devices in Aizu-Wakamatsu, Japan.  The facility, designated as JV3, is
+expected to cost approximately $1.5 billion when fully equipped.  Capital
+expenditures for FASL II and JV3 construction to date have been funded by cash
+generated from FASL operations and borrowings by FASL. If FASL is unable to
+secure the necessary funds for FASL II or JV3, we may be required to contribute
+cash or guarantee third-party loans in proportion to our 49.992 percent interest
+in FASL.
+
+If we are unable to obtain the funds necessary to fulfill our obligations to AMD
+Saxony or FASL,  our business will be materially and adversely affected.
+
+Manufacturing
+
+Capacity. We underutilize our manufacturing facilities from time to time as a
+result of reduced demand for certain of our products. Our operations related to
+microprocessors have been particularly affected by this situation. If we
+underutilize our manufacturing facilities in the future, our gross margins may
+suffer. We are substantially increasing our manufacturing capacity by making
+significant capital investments in Fab 25 and Dresden Fab 30. In addition, in
+1999, the building construction of FASL II, a second Flash memory device
+manufacturing facility, was completed, equipment was installed and production
+was initiated. In July 2000, FASL broke ground for a third fabrication facility
+for the manufacture of Flash memory devices in Aizu-Wakamatsu, Japan.  We have
+also built a new test and assembly facility in Suzhou, China. We are basing our
+strategy of increasing our manufacturing capacity on industry projections for
+future growth. If these industry projections are inaccurate, or if demand for
+our products does not increase
+
+                                      31
+<PAGE>
+
+consistent with our plans and expectations, we will likely underutilize our
+manufacturing facilities and our business could be materially and adversely
+affected.
+
+In contrast to the above, there also have been situations in the past in which
+our manufacturing facilities were inadequate to meet the demand for certain of
+our products. Our inability to obtain sufficient manufacturing capacities to
+meet demand, either in our own facilities or through foundry or similar
+arrangements with others, could have a material adverse effect on our business.
+At this time, the risk is that we will have insufficient capacity to meet demand
+for Flash memory products and underutilized capacity relative to demand for our
+microprocessor offerings.
+
+Process Technology. In order to remain competitive, we must make continuing
+substantial investments in improving our process technologies. In particular, we
+have made and continue to make significant research and development investments
+in the technologies and equipment used to fabricate our microprocessor products
+and our Flash memory devices. Portions of these investments might not be fully
+recovered if we fail to continue to gain market acceptance or if the market for
+our Flash memory products should significantly deteriorate. Likewise, we are
+making a substantial investment in Dresden Fab 30. The business plan for Dresden
+Fab 30 calls for the successful development and installation of 0.18-micron
+process technology and copper interconnect technology in order to manufacture
+AMD Athlon microprocessors in Dresden Fab 30. We have entered into a strategic
+alliance with Motorola to co-develop logic process and embedded Flash
+technologies. The logic process technology which is the subject of the alliance
+includes the copper interconnect technology that is required for AMD Athlon
+microprocessors and subsequent generations of microprocessors. We cannot be
+certain that the strategic alliance will be successful or that we will be able
+to develop or obtain the leading-edge process technologies that will be required
+in Fab 25 or Dresden Fab 30 to fabricate AMD Athlon microprocessors
+successfully.
+
+Manufacturing Interruptions and Yields. Any substantial interruption of our
+manufacturing operations, either as a result of a labor dispute, equipment
+failure or other cause, could materially and adversely affect our business
+operations. We also have been and may in the future be materially and adversely
+affected by fluctuations in manufacturing yields. For example, our results in
+the past have been negatively affected by disappointing AMD-K6 microprocessor
+yields. The design and manufacture of integrated circuits is a complex process.
+Normal manufacturing risks include errors and interruptions in the fabrication
+process and defects in raw materials, as well as other risks, all of which can
+affect yields. Additional manufacturing risks incurred in ramping up new
+fabrication areas and/or new manufacturing processes include equipment
+performance and process controls, as well as other risks, all of which can
+affect yields.
+
+Product Incompatibility. Our products may possibly be incompatible with some or
+all industry-standard software and hardware. If our customers are unable to
+achieve compatibility with software or hardware after our products are shipped
+in volume, we could be materially adversely affected. It is also possible that
+we may be unsuccessful in correcting any such compatibility problems that are
+discovered or that corrections will be
+
+
+
+                                      32
+<PAGE>
+
+unacceptable to customers or made in an untimely manner. In addition, the mere
+announcement of an incompatibility problem relating to our products could have a
+material adverse effect on our business.
+
+Product Defects. One or more of our products may possibly be found to be
+defective after we have already shipped such products in volume, requiring a
+product replacement, recall or a software fix which would cure such defect but
+impede performance. We may also be subject to product returns which could impose
+substantial costs on us and have a material and adverse effect on our business.
+
+Essential Manufacturing Materials. Certain raw materials we use in the
+manufacture of our products are available from a limited number of suppliers.
+For example, a few foreign companies principally supply several types of the
+integrated circuit packages purchased by us, as well as by the majority of other
+companies in the semiconductor industry. Interruption of supply or increased
+demand in the industry could cause shortages in various essential materials. We
+would have to reduce our manufacturing operations if we were unable to procure
+certain of these materials. This reduction in our manufacturing operations could
+have a material adverse effect on our business.
+
+International Manufacturing and Foundries. Nearly all product assembly and final
+testing of our products are performed at our manufacturing facilities in Penang,
+Malaysia; Bangkok, Thailand; Suzhou, China; and Singapore; or by subcontractors
+in the United States and Asia. We also depend on foreign foundry suppliers and
+joint ventures for the manufacture of a portion of our finished silicon wafers.
+Foreign manufacturing and construction of foreign facilities entail political
+and economic risks, including political instability, expropriation, currency
+controls and fluctuations, changes in freight and interest rates, and loss or
+modification of exemptions for taxes and tariffs. For example, if we were unable
+to assemble and test our products abroad, or if air transportation between the
+United States and our overseas facilities were disrupted, there could be a
+material adverse effect on our business.
+
+Flash Memory Products
+
+The demand for Flash memory devices has recently increased due to the increasing
+use of equipment and other devices requiring non-volatile memory such as:
+
+ .  cellular telephones;
+ .  routers which transfer data between local area networks; and
+ .  PC cards which are inserted into notebook and subnotebook computers or
+   personal digital assistants.
+
+As a result, the demand for Flash memory devices currently exceeds the available
+supply. In order to meet this demand, we must increase our production of Flash
+memory devices through FASL, FASL II and JV3 and through foundry or similar
+arrangements with others. We cannot be certain that the demand for Flash memory
+products will remain at current or greater levels, or that we will have
+sufficient capacity to meet the demand for
+
+                                      33
+<PAGE>
+
+Flash memory devices. Currently we are expanding production capacity of Flash
+memory devices through foundry arrangments. We can not be certain that we will
+be able to ramp production of Flash memory devices in foundries successfully in
+order to meet demand. Our inability to meet the demand for Flash memory devices
+could have a material adverse effect on our business.
+
+Competition in the market for Flash memory devices will increase as existing
+manufacturers introduce new products and industry-wide production capacity
+increases, and as Intel continues to aggressively price its Flash memory
+products. We expect competition in the marketplace for Flash memory devices to
+continue to increase in 2000 and beyond. It is possible that we will be unable
+to maintain or increase our market share in Flash memory devices as the market
+develops and as existing and potential new competitors introduce competitive
+products. A decline in our Flash memory device business or decline in the gross
+margin percentage in this product line could have a material adverse effect on
+our business.
+
+Key Personnel
+
+Our future success depends upon the continued service of numerous key
+engineering, manufacturing, marketing, sales and executive personnel. We may or
+may not be able to continue to attract, retain and motivate qualified personnel
+necessary for our business. Loss of the service of, or failure to recruit, key
+engineering design personnel could be significantly detrimental to our product
+development programs or otherwise have a material adverse effect on our
+business.
+
+Demand for Our Products Affected by Asian and Other Domestic and International
+Economic Conditions
+
+While general industry demand is currently strengthening, the demand for our
+products during the last few years has been weak due to the general downturn in
+the worldwide semiconductor market and an economic crisis in Asia. A renewed
+decline of the worldwide semiconductor market or economic condition in Asia
+could decrease the demand for microprocessors and other ICs. A significant
+decline in economic conditions in any significant geographic area, either
+domestically or internationally, could decrease the overall demand for our
+products which could have a material adverse effect on our business.
+
+Fluctuations in Operating Results
+
+Our operating results are subject to substantial quarterly and annual
+fluctuations due to a variety of factors, including:
+
+ .  the effects of competition with Intel in microprocessor and Flash memory
+   device markets;
+ .  competitive pricing pressures;
+ .  decreases in unit average selling prices of our products;
+
+                                      34
+<PAGE>
+
+ . production capacity levels and fluctuations in manufacturing yields,
+  particularly in the early stages of production at new facilities, such as
+  Dresden Fab 30;
+ . availability and cost of products from our suppliers;
+ . the gain or loss of significant customers;
+ . new product introductions by us or our competitors;
+ . changes in the mix of products produced and sold and in the mix of sales by
+  distribution channels;
+ . market acceptance of new or enhanced versions of our products;
+ . seasonal customer demand; and
+ . the timing of significant orders and the timing and extent of product
+  development costs.
+
+Our operating results also tend to vary seasonally due to vacation and holiday
+schedules. Our revenues are generally lower in the first, second and third
+quarters of each year than in the fourth quarter. This seasonal pattern is
+largely a result of decreased demand in Europe during the summer months and
+higher demand in the retail sector of the personal computer market during the
+winter holiday season.
+
+In addition, operating results have recently been, and may in the future be,
+adversely affected by general economic and other conditions causing a downturn
+in the market for semiconductor devices, or otherwise affecting the timing of
+customer orders or causing order cancellations or rescheduling. Our customers
+may change delivery schedules or cancel orders without significant penalty. Many
+of the factors listed above are outside of our control. These factors are
+difficult to forecast, and these or other factors could materially and adversely
+affect our quarterly or annual operating results.
+
+Other Risk Factors
+
+Debt Restrictions. The Loan Agreement contains significant covenants that limit
+our ability and our subsidiaries' ability to engage in various transactions and
+require satisfaction of specified financial performance criteria. In addition,
+the occurrence of certain events, including, among other things, failure to
+comply with the foregoing covenants, material inaccuracies of representations
+and warranties, certain defaults under or acceleration of other indebtedness and
+events of bankruptcy or insolvency, would in certain cases after notice and
+grace periods, constitute events of default permitting acceleration of
+indebtedness. The limitations imposed by the Loan Agreement are substantial, and
+failure to comply with such limitations could have a material adverse effect on
+our business.
+
+In addition, the Dresden Loan Agreements substantially prohibit AMD Saxony from
+transferring assets to us, which will prevent us from using current or future
+assets of AMD Saxony other than to satisfy obligations of AMD Saxony.
+
+Technological Change and Industry Standards. The market for our products is
+generally characterized by rapid technological developments, evolving industry
+standards, changes in customer requirements, frequent new product introductions
+and enhancements, short
+
+                                      35
+<PAGE>
+
+product life cycles and severe price competition. Currently accepted industry
+standards may change. Our success depends substantially on our ability, on a
+cost-effective and timely basis, to continue to enhance our existing products
+and to develop and introduce new products that take advantage of technological
+advances and adhere to evolving industry standards. An unexpected change in one
+or more of the technologies related to our products, in market demand for
+products based on a particular technology or of accepted industry standards
+could materially and adversely affect our business. We may or may not be able to
+develop new products in a timely and satisfactory manner to address new industry
+standards and technological changes, or to respond to new product announcements
+by others. In addition, new products may or may not achieve market acceptance.
+
+Competition. The integrated circuit industry is intensely competitive and,
+historically, has experienced rapid technological advances in product and system
+technologies. After a product is introduced, prices normally decrease over time
+as production efficiency and competition increase, and as successive generations
+of products are developed and introduced for sale. Technological advances in the
+industry result in frequent product introductions, regular price reductions,
+short product life cycles and increased product capabilities that may result in
+significant performance improvements. Competition in the sale of integrated
+circuits is based on:
+
+ .  performance;
+ .  product quality and reliability;
+ .  price;
+ .  adherence to industry standards;
+ .  software and hardware compatibility;
+ .  marketing and distribution capability;
+ .  brand recognition;
+ .  financial strength; and
+ .  ability to deliver in large volumes on a timely basis.
+
+Order Revision and Cancellation Policies. We manufacture and market standard
+lines of products. Sales are made primarily pursuant to purchase orders for
+current delivery or agreements covering purchases over a period of time, which
+may be revised or canceled without penalty. As a result, we must commit
+resources to the production of products without any advance purchase commitments
+from customers. Our inability to sell products after we devoted significant
+resources to them could have a material adverse effect on our business.
+
+Distributors typically maintain an inventory of our products. In most instances,
+our agreements with distributors protect their inventory of our products against
+price reductions, as well as products that are slow moving or have been
+discontinued. These agreements, which may be canceled by either party on a
+specified notice, generally allow for the return of our products if the
+agreement with the distributor is terminated. The market for our products is
+generally characterized by, among other things, severe price competition. The
+price protection and return rights we offer to our distributors could
+
+                                      36
+<PAGE>
+
+materially and adversely affect us if there is an unexpected significant decline
+in the price of our products.
+
+Intellectual Property Rights; Potential Litigation. It is possible that:
+
+ .  we will be unable to protect our technology or other intellectual property
+   adequately through patents, copyrights, trade secrets, trademarks and other
+   measures;
+ .  patent applications that we may file will not be issued;
+ .  foreign intellectual property laws will not protect our intellectual property
+   rights;
+ .  any patent licensed by or issued to us will be challenged, invalidated or
+   circumvented or that the rights granted thereunder will not provide
+   competitive advantages to us; and
+ .  others will independently develop similar products, duplicate our products or
+   design around our patents and other rights.
+
+From time to time, we have been notified that we may be infringing intellectual
+property rights of others. If any such claims are asserted against us, we may
+seek to obtain a license under the third party's intellectual property rights.
+We could decide, in the alternative, to resort to litigation to challenge such
+claims. Such challenges could be extremely expensive and time-consuming and
+could have a material adverse effect on our business. We cannot give any
+assurance that all necessary licenses can be obtained on satisfactory terms, or
+whether litigation may always be avoided or successfully concluded.
+
+Environmental Regulations. We could possibly be subject to fines, suspension of
+production, alteration of our manufacturing processes or cessation of our
+operations if we fail to comply with present or future governmental regulations
+related to the use, storage, handling, discharge or disposal of toxic, volatile
+or otherwise hazardous chemicals used in the manufacturing process. Such
+regulations could require us to acquire expensive remediation equipment or to
+incur other expenses to comply with environmental regulations. Our failure to
+control the use of, disposal or storage of, or adequately restrict the discharge
+of, hazardous substances could subject us to future liabilities and could have a
+material adverse effect on our business.
+
+Year 2000.  We have not experienced any material system failures, disruptions of
+operations or interruptions of our ability to process transactions, send
+invoices or engage in other normal business activities as a result of Year 2000
+issues.  In addition, we are not aware of any material problems resulting from
+Year 2000 issues with our products and services.
+
+
+                                      37
+<PAGE>
+
+International Sales. Our international sales operations entail political and
+economic risks, including expropriation, currency controls, exchange rate
+fluctuations, changes in freight rates and changes in rates and exemptions for
+taxes and tariffs.
+
+Volatility of Stock Price; Ability to Access Capital. Based on the trading
+history of our stock, we believe that the following factors have caused and are
+likely to continue to cause the market price of our common stock to fluctuate
+substantially:
+
+ .  quarterly fluctuations in our operating and financial results;
+ .  announcements of new products and/or pricing by us or our competitors;
+ .  the pace of new process technology and product manufacturing ramps;
+ .  production yields of key products; and
+ .  general conditions in the semiconductor industry.
+
+In addition, an actual or anticipated shortfall in revenue, gross margins or
+earnings from securities analysts' expectations could have an immediate effect
+on the trading price of our common stock in any given period. Technology company
+stocks in general have experienced extreme price and volume fluctuations that
+are often unrelated to the operating performance of the companies. This market
+volatility may adversely affect the market price of our common stock and
+consequently limit our ability to raise capital or to make acquisitions. Our
+current business plan envisions substantial cash outlays which may require
+external capital financing. It is possible that capital and/or long-term
+financing will be unavailable on terms favorable to us or in sufficient amounts
+to enable us to implement our current plan.
+
+Earthquake Danger. Our corporate headquarters, a portion of our manufacturing
+facilities, assembly and research and development activities and certain other
+critical business operations are located near major earthquake fault lines. We
+could be materially and adversely affected in the event of a major earthquake.
+
+Euro Conversion. On January 1, 1999, eleven of the fifteen member countries of
+the European Union established fixed conversion rates between their existing
+currencies and the euro. The participating countries adopted the euro as their
+common legal currency on that date. The transition period will last through
+January 1, 2002. We are assessing the potential impact to us that may result
+from the euro conversion. We do not expect the introduction and use of the euro
+to materially affect our foreign exchange activities, to affect our use of
+derivatives and other financial instruments or to result in any material
+increase in costs to us. We will continue to assess the impact of the
+introduction of the euro currency over the transition period, as well as the
+period subsequent to the transition, as applicable.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+On March 22, 2000, we entered into an interest rate swap agreement to reduce
+interest expense of our 11% Senior Secured Notes ($400 million) due 2003.  The
+swap converts
+
+                                      38
+<PAGE>
+
+our 11% fixed rate notes into a floating rate instrument. The variable rate
+component of the swap will be fixed from inception through August 1, 2001. The
+notes are cancelable at the option of the counter-party (Bank of America) on
+August 1, 2001. After August 1, 2001, the swap will be marked-to-market to
+determine on-going effectiveness.
+
+For additional Quantitative and Qualitative Disclosures about Market Risk,
+including other foreign exchange risks associated with Dresden Fab 30, reference
+is made to Part II, Item 7A, Quantitative and Qualitative Disclosures about
+Market Risk, in our Annual Report on Form 10-K for the year ended December 26,
+1999.
+
+PART II.  OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+Ellis Investment Co., Ltd., et al v. AMD, et al.  Between March 10, 1999 and
+April 22, 1999, AMD and certain individual officers of AMD were named as
+defendants in a number of lawsuits that were consolidated under Ellis Investment
+                                                                ----------------
+Co., Ltd., et al v. Advanced Micro Devices, Inc., et al.   Following appointment
+- -------------------------------------------------------
+of lead counsel, the case was re-named Hall et al. v. Advanced Micro Devices,
+                                       -------------------------------------
+Inc., et al. The class action complaints allege various violations of federal
+- -----------
+securities law, including violations of Section 10(b) of the Exchange Act and
+Rule 10b-5 promulgated thereunder. Most of the complaints purportedly were filed
+on behalf of all persons, other than the defendants, who purchased or otherwise
+acquired common stock of AMD during the period from October 6, 1998 to March 8,
+1999.  Two of the complaints allege a class period from July 13, 1998 to March
+9, 1999.  All of the complaints allege that materially misleading statements
+and/or material omissions were made by AMD and certain individual officers of
+AMD concerning design and production problems relating to high-speed versions of
+the AMD-K6(R)-2 and AMD-K6-III microprocessors.  Based upon information
+presently known to management, we do not believe that the ultimate resolution of
+these lawsuits will have a material adverse effect on our business.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+AMD's annual meeting of stockholders was held on April 27, 2000. The following
+are the results of the voting on the proposals submitted to stockholders at the
+annual meeting.
+
+Proposal No. 1  Election of Directors. The following individuals were elected as
+directors:
+
+
+
+Name                                    For                   Withheld
+
+W.J. Sanders III                    115,865,626               9,618,078
+Friedrich Baur                      124,489,326                 994,378
+Charles M. Blalack                  123,280,520               2,203,184
+R. Gene Brown                       123,290,730               2,192,974
+Robert B. Palmer                    124,314,725               1,168,979
+Joe L. Roby                         123,329,165               2,154,539
+Hector de J. Ruiz                   122,561,376               2,922,328
+Leonard Silverman                   124,518,947                 964,757
+
+
+
+Proposal No. 2  The proposal to ratify the appointment of Ernst & Young LLP as
+AMD's independent auditors for the current fiscal year was approved.
+
+For:      125,066,320        Against:        240,827      Abstain:     176,557
+
+
+                                      39
+
+<PAGE>
+
+
+Proposal No. 3  The proposal to approve the amendment to the 1996 Stock
+Incentive Plan was approved.
+
+For:       95,852,803        Against:     29,125,755      Abstain:     505,146
+
+
+Proposal No. 4  The proposal to approve the 2000 Employee Stock Purchase Plan
+was approved.
+
+For:      122,822,403        Against:      2,244,510      Abstain:     416,791
+
+
+Proposal No. 5  The stockholder proposal to amend the Bylaws was defeated.
+
+For:       15,897,704        Against:     61,974,429      Abstain:   1,613,982
+
+No Vote:   45,997,589
+
+The annual meeting of the stockholders was reconvened on May 25, 2000. The
+following are the results of the voting on the proposal submitted to the
+stockholders at the reconvened annual meeting.
+
+Proposal No. 1  The proposal to restate the Certificate of Incorporation to
+increase the number of shares of Common Stock from 250,000,000 to 750,000,000
+shares was approved.
+
+For:      108,396,496        Against:     17,534,577      Abstain:   1,150,157
+
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)  Exhibits
+
+     * 10.25(b) Amendment 2 to the Technology Development and License Agreement,
+       entered into as of October 1, 1998 by AMD and its subsidiaries and
+       Motorola, Inc. and its subsidiaries.
+
+     27.1  Financial Data Schedule
+
+     * Confidential treatment has been requested with respect to certain
+       portions of this Exhibit.
+
+(b)  Reports on Form 8-K
+
+1.  A Current Report on Form 8-K dated March 30, 2000 reporting under Item 5 -
+    Other Events was filed announcing that AMD will retain our Network Products
+    Division.
+
+2.  A Current Report on Form 8-K dated April 5, 2000 reporting under Item 5 -
+    Other Events was filed announcing expected sales in the first quarter.
+
+
+3.  A Current Report on Form 8-K dated April 12, 2000 reporting under Item 5 -
+    Other Events was filed announcing our first quarter earnings.
+
+4.  A Current Report on Form 8-K dated May 21, 2000 reporting under Item 5 -
+    Other Events was filed announcing the execution of definitive agreements
+    with respect to the recapitalization of our Communications Products
+    Division.
+
+
+
+                                      40
+
+<PAGE>
+
+   Pursuant to the requirements of the Securities Exchange Act of 1934, the
+   registrant has duly caused this report to be signed on its behalf by the
+   undersigned thereunto duly authorized.
+
+
+                                     ADVANCED MICRO DEVICES, INC.
+
+
+   Date:  August 15, 2000            By: /s/ Francis P. Barton
+                                        ----------------------------
+                                     Francis P. Barton
+                                     Senior Vice President,
+                                     Chief Financial Officer
+
+                                     Signing on behalf of the registrant and as
+                                     the principal accounting officer
+
+
+                                      41
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.25
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>AMENDMENT NO. 2 TO APPENDIX D
+<TEXT>
+
+<PAGE>
+
+                                                                EXHIBIT 10.25(b)
+
+                                  AMENDMENT 2
+
+This is an amendment of Appendix D and a second amendment of the Technology
+Development and License Agreement ("Agreement') entered into as of October 1,
+1998 by and between Advanced Micro Devices, Inc. and its Subsidiaries ("AMD"), a
+Delaware Corporation, with principal offices located at One AMD Place, P.O. Box
+3453, Sunnyvale, California 94088-3453, and Motorola, Inc. and its Subsidiaries
+("Motorola"), a Delaware corporation, with principal offices located at 1303
+East Algonquin Road, Schaumburg, Illinois 60196.
+
+
+Replace Section 1.4 of Appendix D with the below new Section 1.4:
+
+  1.4  Approved Projects - The parties agree no Project will be considered in
+the Cost Equalization determination without prior approval of a Statement of
+Work by the Executive Board of Directors, except as described below for 1998.
+The parties agree any change to a Project plan scope or duration or budget
+variance over the course of a fiscal year in excess of 110% must be approved by
+the Executive Board of Directors.
+
+
+Replace Section 1.5.2 of Appendix D with the below new Section 1.5.2:
+
+  1.5.2 For 1999 and subsequent years - Thirty days after the conclusion of each
+quarter, each party will provide a statement to the other stating the Cost
+Equalization determination for each Project then pending, including a summary
+breakdown of the cost elements.
+
+  Processing of device and product test structures or test vehicles, including
+equal quantities of transfer wafers for each party, are included in the cope of
+Project requirements and, as such, are intended to be included in the Statements
+of Work and are subject to Cost Equalization.
+
+  Except as set forth in the preceding paragraph with respect to transfer
+wafers, each party with bear its own costs in connection with technology
+transfer and installation into production facilities and such costs will not be
+subject to the Cost Equalization determination.  Costs not subject to Cost
+Equalization include process documentation, all reasonable personnel expenses,
+including travel, for personnel assigned to assist in a process transfer, and
+other similar costs.  In the event that one party (first party) requires more
+transfer wafers than the other (second party), the quantity of transfer wafers
+required by the first party in excess of that required by the second party will
+not be subject to Cost Equalization and the cost thereof shall be borne by the
+first party.
+
+  If either party requests the other party to process material either because it
+requires a quantity of transfer wafers in excess of that required by the other
+party or for a purpose beyond the scope of a Project such as for the transfer of
+a technology, verification of designs, additional processing for technology
+evaluation, or product qualification, the non-requesting party will make
+commercially reasonable efforts to comply with the request and will charge the
+requesting party a price not to exceed actual costs.
+
+                                                                          Page 1
+<PAGE>
+
+  Pre-production, pilot production, risk starts, or other product specific
+processing are outside the scope of the Projects and are not to be included in
+the Statements of Work or included in the Cost Equalization determination. This
+type of processing by one party on behalf of the other party would be considered
+Foundry.
+
+  Each party will continue to calculate quarterly actual spending on a by
+project basis.  Actual spending will be reviewed by Program Management.
+
+  The actual quarterly spending for each party will be compared to each party's
+spending budget for that quarter.  If either party exceeds their respective
+quarterly spending budget, in total for all projects, the actual spending will
+be lowered to budget for determining an Adjusted Cost Equalization amount.
+
+  For 1999, the parties will compare the Cost Equalization statements.  For 2000
+and subsequent years, the parties will compare the Adjusted Cost Equalization
+amounts.  The party with the smaller amount for the quarter will pay the other
+party fifty percent (50%) of the difference between the two parties' Cost
+Equalization amounts within forty-five (45) days after the end of the quarter.
+
+  If on a forward looking basis there are significant changes (greater than 10%
+on a yearly basis) in scope or party participation on a project basis, or it is
+believed that actual spending by either or both parties will exceed budget by
+greater than 10% for all projects for the calendar year, the Steering Committee
+may recommend to the Board of Directors revisions to each party's budgeted
+project spending.  Upon approval of changes by the board, these revised budget
+amounts will be used in determination of quarter Cost Equalization amounts.
+
+  Payment will be made by electronic funds transfer:
+  To AMD at
+    Bank of America, San Francisco
+    Bank Routing #:  121000358
+    Account #:  1233404900
+
+  To Motorola at
+    1st Nat'l Bank of Chicago
+    One 1st National Bank Plaza
+    Chicago, IL 60670
+    Bank Routing #:  071000013
+    Account #:  52-65673
+
+
+Replace Section 1.6.2 of Appendix D with the below new Section 1.6.2:
+
+  1.6.2 Standardized costs - non-Process and non-Direct costs associated with
+Project related engineering development and support.  These costs include, but
+are not limited to:
+
+  (a) Process, device, design, reliability, and test engineering, and related
+personnel labor and fringes, otherwise not comprehended in Process costs above,
+at a mutually agreed upon standard rate of *****.  This rate will be reviewed
+annually and mutually agreed to by both parties through their respective
+compensation personnel.  Any change
+
+
+*  Confidential treatment has been requested for portions of this exhibit.  The
+copy filed herewith omits the information subject to the confidentiality
+request.  Omissions are designated as *****.  A complete version of this exhibit
+has been filed separately with the Securities and Exchange Commission.
+
+                                                                          Page 2
+<PAGE>
+
+to this rate will be presented to the Executive Board of Directors for final
+approval and incorporated into the Statements of Work.
+
+  For budget cost reporting, each Project will be budgeted by individual name
+and/or number of individuals, and Project time applied by quarter.
+
+  For actual cost reporting, each Program Manager will provide an employee
+participation list quarterly, by individual name and Project time applied in
+weekly increments for that individual. Weekly increments may be subdivided to
+the nearest whole day or 0.2 weeks. The standard rate per quarter will be
+prorated by the number of Project weeks applied versus total weeks in the
+quarter.
+
+  (b) One party's personnel assigned to a Project, and the other party's
+assignees to that party's facility where office space is provided, will be
+assessed by that party at the standard rate of ***** prorated by the time
+applied to the Project by individual as outlined above for purposes of
+comprehending items such as comparable rent; facilities upkeep; phone;
+networking requirements; systems administration support; workstation hardware
+depreciation and maintenance; software amortization, expense, licenses, and
+maintenance; internal data processing charges; and general office supplies.
+
+  This rate will be reviewed annually and mutually agreed to by both parties'
+finance personnel. Any changes to this rate will be presented to the Executive
+Board of Directors for final approval and incorporated into the Statements of
+Work.
+
+  (c) Experiments, tests, and development in device lab, reliability lab, test
+lab or other facilities otherwise not comprehended in Process costs above will
+be budgeted at amounts mutually agreed to by the Program Managers, or the
+parties if the Project has only one Program Manager, in the Statements of Work.
+These costs will be assigned to the Projects at the budgeted amounts, or
+budgeted fixed amounts per project participant, in the quarter actually incurred
+for Cost Equalization determination.
+
+  (d) For individuals in this cost category, including one party's assignees to
+the other party's facility, the party owning the facility is responsible for the
+acquisition and cost of individual tool requirements. These costs include, but
+are not limited to, engineering workstations, software, licenses, and
+maintenance.
+
+
+Replace Section 1.6.3 of Appendix D with the below new Section 1.6.3:
+
+  1.6.3 Direct Costs - actual costs incurred for budgeted activities of Projects
+that are not comprehended or otherwise covered in the two categories above.  The
+costs include, but are not limited to:
+  (a)  External processing, testing, consulting, or evaluation (actual or
+       budgeted amount);
+  (b)  Photomask costs identified to the Project.
+
+
+*  Confidential treatment has been requested for portions of this exhibit.  The
+copy filed herewith omits the information subject to the confidentiality
+request.  Omissions are designated as *****.  A complete version of this exhibit
+has been filed separately with the Securities and Exchange Commission.
+                                                                          Page 3
+<PAGE>
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of
+
+
+April 26, 2000.
+
+ADVANCED MICRO DEVICES, INC.                 MOTOROLA, INC.
+
+Signature:  /s/ W.T. Siegle                  Signature: /s/ Bill Walker
+            ----------------------                      ----------------------
+
+Name:  W.T. Siegle                           Name:  Bill Walker
+
+                                                                          Page 4
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>3
+<FILENAME>0003.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             APR-03-2000
+<PERIOD-END>                               JUL-02-2000
+<CASH>                                         709,523
+<SECURITIES>                                   370,370
+<RECEIVABLES>                                  552,010
+<ALLOWANCES>                                  (19,003)
+<INVENTORY>                                    255,579
+<CURRENT-ASSETS>                             2,059,391
+<PP&E>                                       5,063,403
+<DEPRECIATION>                             (2,587,736)
+<TOTAL-ASSETS>                               4,963,494
+<CURRENT-LIABILITIES>                          936,737
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         1,649
+<OTHER-SE>                                   2,441,522
+<TOTAL-LIABILITY-AND-EQUITY>                 4,963,494
+<SALES>                                      1,146,265
+<TOTAL-REVENUES>                             1,170,437
+<CGS>                                          588,282
+<TOTAL-COSTS>                                  612,567
+<OTHER-EXPENSES>                                81,737
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              11,244
+<INCOME-PRETAX>                                258,888
+<INCOME-TAX>                                    51,778
+<INCOME-CONTINUING>                            207,142
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   207,142
+<EPS-BASIC>                                       1.34
+<EPS-DILUTED>                                     1.21
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

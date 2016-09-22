@@ -1,0 +1,1806 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DgyMmZNeE7c7A3AEOps9hHfTi7Bb48EZL/LpifcAfaMoAAOVfT9Q1VVAUJnZioC0
+ TMf7egfuw/15ACesrJTaAg==
+
+<SEC-DOCUMENT>0001005477-99-005197.txt : 19991115
+<SEC-HEADER>0001005477-99-005197.hdr.sgml : 19991115
+ACCESSION NUMBER:		0001005477-99-005197
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19990930
+FILED AS OF DATE:		19991112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTERNATIONAL BUSINESS MACHINES CORP
+		CENTRAL INDEX KEY:			0000051143
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		IRS NUMBER:				130871985
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	001-02360
+		FILM NUMBER:		99749775
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 NEW ORCHARD ROAD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504-
+		BUSINESS PHONE:		9144991900
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE NEW ORCHARD RD
+		CITY:			ARMONK
+		STATE:			NY
+		ZIP:			10504
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                   FORM 10 - Q
+
+                QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                    FOR THE QUARTER ENDED SEPTEMBER 30, 1999
+
+                                     1-2360
+                                     ------
+                            (Commission file number)
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                   -------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+        New York                                          13-0871985
+        --------                                          ----------
+(State of incorporation)                    (IRS employer identification number)
+
+          Armonk, New York                                   10504
+          ----------------                                   -----
+(Address of principal executive offices)                   (Zip Code)
+
+                                  914-499-1900
+                                  ------------
+                         (Registrant's telephone number)
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section l3 or l5(d) of the Securities Exchange Act of
+1934 during the preceding l2 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes |X| No |_|
+
+      The registrant has 1,802,604,435 shares of common stock outstanding at
+September 30, 1999.
+<PAGE>
+
+                                      Index
+
+                                                                            Page
+                                                                            ----
+
+Part I - Financial Information:
+
+   Item 1. Consolidated Financial Statements
+
+      Consolidated Statement of Earnings for the three and nine
+         months ended September 30, 1999 and 1998 ...........................1
+
+      Consolidated Statement of Financial Position at
+         September 30, 1999 and December 31, 1998 ...........................3
+
+      Consolidated Statement of Cash Flows for the nine months
+         ended September 30, 1999 and 1998 ..................................5
+
+      Notes to Consolidated Financial Statements ............................6
+
+   Item 2. Management's Discussion and Analysis of
+              Results of Operations and Financial Condition .................10
+
+Part II - Other Information .................................................22
+<PAGE>
+
+                         Part I - Financial Information
+
+ITEM 1. Consolidated Financial Statements
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                       CONSOLIDATED STATEMENT OF EARNINGS
+                                   (UNAUDITED)
+
+(Dollars in millions except          Three Months Ended   Nine Months Ended
+per share amounts)                      September 30,       September 30,
+                                     ------------------   -----------------
+                                       1999       1998      1999      1998
+                                     -------    -------   -------   -------
+Revenue:
+Hardware                             $ 8,840    $ 8,920   $26,803   $23,952
+Global Services                        7,898      7,046    23,436    20,356
+Software                               3,010      2,808     9,056     8,318
+Global Financing                         774        679     2,222     2,110
+Enterprise Investments/Other             622        642     1,849     1,800
+                                     -------    -------   -------   -------
+Total revenue                         21,144     20,095    63,366    56,536
+
+Cost:
+Hardware                               6,610      6,101    19,559    16,667
+Global Services                        5,715      5,222    17,003    14,917
+Software                                 567        544     1,642     1,632
+Global Financing                         335        351       978     1,108
+Enterprise Investments/Other             353        410     1,138     1,149
+                                     -------    -------   -------   -------
+Total cost                            13,580     12,628    40,320    35,473
+                                     -------    -------   -------   -------
+
+Gross profit                           7,564      7,467    23,046    21,063
+Operating expenses:
+Selling, general and administrative    3,501      4,057    10,284    11,588
+Research, development and
+  engineering                          1,383      1,240     3,857     3,639
+                                     -------    -------   -------   -------
+Total operating expenses               4,884      5,297    14,141    15,227
+
+Operating income                       2,680      2,170     8,905     5,836
+Other income, principally interest       134        122       423       402
+Interest expense                         185        160       556       500
+                                     -------    -------   -------   -------
+Income before income taxes             2,629      2,132     8,772     5,738
+Income tax provision                     867        638     3,149     1,756
+                                     -------    -------   -------   -------
+Net income                             1,762      1,494     5,623     3,982
+Preferred stock dividends                  5          5        15        15
+                                     -------    -------   -------   -------
+Net income applicable to common
+shareholders                         $ 1,757    $ 1,489   $ 5,608   $ 3,967
+                                     =======    =======   =======   =======
+
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                      -1-
+<PAGE>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                CONSOLIDATED STATEMENT OF EARNINGS - (CONTINUED)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                        Three Months Ended      Nine Months Ended
+                                           September 30,          September 30,
+                                       --------------------   --------------------
+                                         1999       1998*       1999        1998*
+                                         ----       -----       ----        -----
+<S>                                    <C>         <C>        <C>         <C>
+Earnings per share of common
+     stock - assuming dilution         $   0.93    $   0.78   $   2.99    $   2.05
+
+Earnings per share of common
+     stock - basic                     $   0.97    $   0.80   $   3.09    $   2.11
+
+Average number of common
+     shares outstanding: (millions)
+
+     Assuming dilution                  1,869.6     1,909.0    1,874.7     1,931.0
+
+     Basic                              1,805.2     1,856.9    1,813.7     1,878.8
+
+Cash dividends per common share        $   0.12    $   0.11   $   0.35    $   0.32
+</TABLE>
+
+* Adjusted to reflect a two-for-one stock split effective May 10, 1999.
+
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                      -2-
+<PAGE>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                  CONSOLIDATED STATEMENT OF FINANCIAL POSITION
+                                   (UNAUDITED)
+
+                                     ASSETS
+
+<TABLE>
+<CAPTION>
+(Dollars in millions)                                      At September 30,   At December 31,
+                                                                 1999               1998
+                                                           ----------------   ---------------
+<S>                                                             <C>               <C>
+Assets
+Current assets:
+Cash and cash equivalents                                       $ 4,582           $ 5,375
+Marketable securities -- at fair value,
+   which approximates market                                      1,444               393
+Notes and accounts receivable -- trade, net of lowances
+   allowances                                                    20,379            20,271
+Sales-type leases receivable                                      6,432             6,510
+Inventories, at lower of average cost or  net
+   realizable value
+   Finished goods                                                 1,292             1,088
+   Work in process and raw materials                              3,838             4,112
+                                                                -------           -------
+Total inventories                                                 5,130             5,200
+Prepaid expenses and other current assets                         4,910             4,611
+                                                                -------           -------
+Total current assets                                             42,877            42,360
+
+Plant, rental machines and other property                        40,812            44,870
+   Less: Accumulated depreciation                                23,349            25,239
+                                                                -------           -------
+Plant, rental machines and other property -- net                 17,463            19,631
+Software                                                            628               599
+Investments and sundry assets                                    24,407            23,510
+                                                                -------           -------
+
+Total assets                                                    $85,375           $86,100
+                                                                =======           =======
+</TABLE>
+
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                      -3-
+<PAGE>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+           CONSOLIDATED STATEMENT OF FINANCIAL POSITION - (CONTINUED)
+                                   (UNAUDITED)
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+(Dollars in millions except                    At September 30,  At December 31,
+per share amounts)                                   1999              1998
+                                               ----------------  ---------------
+Liabilities and Stockholders' Equity
+  Current liabilities:
+    Taxes                                         $  3,778          $  3,125
+    Accounts payable and accruals                   19,904            19,797
+    Short-term debt                                 14,096            13,905
+                                                  --------          --------
+  Total current liabilities                         37,778            36,827
+
+  Long-term debt                                    13,807            15,508
+  Other long-term liabilities                       12,315            12,818
+  Deferred income taxes                              1,407             1,514
+                                                  --------          --------
+  Total liabilities                                 65,307            66,667
+
+  Stockholders' equity:
+    Preferred stock - par value $.01 per share         247               247
+      Shares authorized: 150,000,000
+      Shares issued:  1999 - 2,546,011
+                      1998 - 2,546,011
+    Common stock - par value $.20 per share         11,850            10,121
+      Shares authorized: 4,687,500,000
+      Shares issued:  1999 - 1,874,691,460
+                      1998 - 1,853,738,104*
+    Retained earnings                               15,074            10,141
+
+    Treasury stock - at cost                        (5,314)             (133)
+      Shares: 1999 - 52,087,025
+              1998 - 1,924,293*
+
+    Employee benefits trust                         (2,419)           (1,854)
+      Shares: 1999 - 20,000,000
+              1998 - 20,000,000*
+
+    Accumulated gains and losses not
+      affecting retained earnings                      630               911
+                                                  --------          --------
+  Total stockholders' equity                        20,068            19,433
+                                                  --------          --------
+  Total liabilities and stockholders' equity      $ 85,375          $ 86,100
+                                                  ========          ========
+
+* Adjusted to reflect a two-for-one stock split effective May 10, 1999.
+
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                      -4-
+<PAGE>
+
+                   INTERNATIONAL BUSINESS MACHINES CORPORATION
+                            AND SUBSIDIARY COMPANIES
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                     FOR THE NINE MONTHS ENDED SEPTEMBER 30,
+                                   (UNAUDITED)
+
+(Dollars in millions)                                     1999          1998
+                                                          ----          ----
+Cash flow from operating activities:
+   Net income                                           $ 5,623       $ 3,982
+   Adjustments to reconcile net income to
+     cash provided from operating activities:
+     Depreciation                                         5,010         3,246
+     Amortization of software                               319           401
+     Gain on disposition of fixed and other assets       (4,554)         (156)
+     Changes in operating assets and liabilities            362          (932)
+                                                        -------       -------
+   Net cash provided from operating activities            6,760         6,541
+                                                        -------       -------
+Cash flow from investing activities:
+   Payments for plant, rental machines
+     and other property, net of proceeds                 (3,373)       (3,975)
+   Investment in software                                  (321)         (180)
+   Purchases of marketable securities and other
+     investments                                         (2,754)       (1,532)
+   Proceeds from sale of the IBM Global Network           4,808            --
+   Proceeds from marketable securities and other
+     investments                                          1,081         1,201
+                                                        -------       -------
+   Net cash used in investing activities                               (4,486)
+                                                        -------       -------
+Cash flow from financing activities:
+   Proceeds from debt issuance                            4,658         6,049
+   Payments to settle debt                               (5,639)       (4,053)
+   Short-term borrowings less than 90 days-- net           (650)         (246)
+   Common stock transactions-- net                       (4,544)       (4,830)
+   Cash dividends paid                                     (656)         (623)
+                                                        -------       -------
+
+   Net cash used in financing activities                 (6,831)       (3,703)
+                                                        -------       -------
+Effect of exchange rate changes on
+  cash and cash equivalents                                (163)           95
+                                                        -------       -------
+
+Net change in cash and cash equivalents                    (793)       (1,553)
+
+Cash and cash equivalents at January 1                    5,375         7,106
+                                                        -------       -------
+
+Cash and cash equivalents at September 30               $ 4,582       $ 5,553
+                                                        =======       =======
+
+(The accompanying notes are an integral part of the financial statements.)
+
+
+                                       -5-
+<PAGE>
+
+Notes to Consolidated Financial Statements
+
+1. In the opinion of the management of International Business Machines
+Corporation (the company), all adjustments necessary to a fair statement of the
+results for the unaudited three- and nine-month periods have been made.
+
+2. The Accumulated gains and losses not affecting retained earnings line of
+stockholders' equity comprises foreign currency translation adjustments and
+unrealized gains and losses on marketable securities. Net income ($1,762 million
+and $1,494 million) plus the increase in foreign currency translation
+adjustments ($276 million and $253 million) plus unrealized gains/(losses) on
+marketable securities [$193 million and ($43) million] totaled $2,231 million
+and $1,704 million for the three-month periods ended September 30, 1999 and
+1998, respectively. Net income ($5,623 million and $3,982 million) plus the
+(decrease)/increase in foreign currency translation adjustments [($476) million
+and $72 million] plus unrealized gains/(losses) on marketable securities [$195
+million and ($60) million] totaled $5,342 million and $3,994 million for the
+nine-month periods ended September 30, 1999 and 1998, respectively.
+
+3. In June 1999, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards (SFAS) No. 137, Accounting for Derivative
+Instruments and Hedging Activities--Deferral of the Effective Date Of FASB
+Statement No. 133. This statement defers the effective date of SFAS No. 133,
+Accounting for Derivative Instruments and Hedging Activities, to fiscal years
+beginning after June 15, 2000, although early adoption is encouraged. SFAS No.
+133 establishes accounting and reporting standards for derivative instruments.
+It requires an entity to recognize all derivatives as either assets or
+liabilities in the statement of financial position and to measure those
+instruments at fair value. Additionally, the fair value adjustments will affect
+either stockholders' equity or net income depending on whether the derivative
+instrument qualifies as a hedge for accounting purposes and, if so, the nature
+of the hedging activity. The company will adopt this standard as of January 1,
+2001. Management does not expect the adoption to have a material effect on the
+company's results of operations; however, the effect on the company's financial
+position depends on the fair values of the company's derivatives and related
+financial instruments at the date of adoption.
+
+4. The tables on pages 26 through 29 of this Form 10-Q reflect the results of
+the company's segments consistent with the company's management system. These
+results are not necessarily a depiction that is in conformity with generally
+accepted accounting principles, e.g., employee retirement plan costs are
+developed using actuarial assumptions on a country-by-country basis and
+allocated to the segments on headcount. A different result could be arrived at
+for any segment if actuarial assumptions unique to each segment were used.
+Performance measurement is based on income before income taxes (pre-tax income).
+These results are used, in part, by management, both in evaluating the
+performance of, and in allocating resources to, each of the segments.
+
+5. On January 26, 1999, the company's Board of Directors approved a two-for-one
+stock split effective May 10, 1999. On April 27, 1999, the stockholders of the
+company approved amendments to the Certificate of Incorporation to increase the
+number of authorized shares of common stock from 1,875 million to 4,687.5
+million, which was required to effect that stock split. In addition, the
+amendment reduced the par value of the common shares from
+
+
+                                      -6-
+<PAGE>
+
+Notes to Consolidated Financial Statements - (continued)
+
+$.50 to $.20 per share. Common stockholders of record at the close of business
+on May 10, 1999 received one additional share for each share held.
+
+      All share and per share data presented in the Consolidated Financial
+Statements reflect the two-for-one stock split.
+
+6. The third quarter 1999 results include a pre-tax benefit of $201 million ($63
+million after tax, or $.03 per diluted common share) related to the sale of
+IBM's Global Network, actions within the company's Technology Group, and charges
+for acquired in-process research and development related to three purchase
+acquisitions.
+
+      Sale of the Global Network. In December 1998, the company announced that
+it would sell its Global Network business to AT&T for $5 billion. The IBM Global
+Network generated revenues of approximately $1.2 billion in 1998.
+
+      During the third quarter of 1999, the company completed the sales of its
+Global Network business in 34 countries for approximately $727 million, bringing
+the year-to-date total to 38 countries and $4,919 million. More than 5,100 IBM
+employees joined AT&T as a result of these sales.
+
+      The company recognized a pre-tax gain of $586 million on the third-quarter
+sales ($366 million after tax, or $.19 per diluted common share). The net gain
+reflects dispositions of Plant, rental machines and other property of $62
+million and contractual obligations of $79 million.
+
+      Technology Group Actions. On August 31, 1999, the company announced that
+the Networking Hardware Division (NHD) of the company's Technology Group entered
+into a global alliance with Cisco Systems, Inc. (Cisco) comprising an agreement
+by Cisco to purchase IBM technology over the next five years; a strategic
+relationship with IBM Global Services under which the two companies will offer a
+full spectrum of services and jointly developed solutions for customers'
+e-business and networking needs; and the sale to Cisco of intellectual property
+(IP) related to routing and switching technology. The completion of the sale of
+IP is subject to regulatory approvals.
+
+      The IP sales agreement permits the company to continue to (a) sell router
+and switch products to new customers for one year after the company receives the
+regulatory approvals and (b) fulfill existing contractual commitments beyond the
+one-year period. As a result of the announcement of the alliance, demand for the
+router and switch products from both existing and new customers has abruptly
+deteriorated. Thus, the company took a pre-tax charge totaling $178 million
+($109 million after tax, or $.06 per diluted common share) related to a
+write-down to net realizable value of its inventory of router and switch
+products ($144 million) and related contract cancellation fees ($34 million).
+
+      During the second quarter, the company approved and implemented actions
+designed to better align the operations of IBM's Technology Group with that
+group's strategic direction in view of the competitive environment, overcapacity
+in the industry and resulting pricing pressures. As part of those actions, the
+company announced (in the second quarter) aggressive
+
+
+                                      -7-
+<PAGE>
+
+Notes to Consolidated Financial Statements - (continued)
+
+steps to improve the competitive position of its Storage Systems Division (SSD)
+by merging server hard disk drive product lines and realigning operations. The
+company will integrate all server hard disk drives into a single low-cost design
+platform that uses common development and manufacturing processes. The company
+took a pre-tax charge of $264 million in the second quarter and expects these
+actions to be substantially completed by the first half of 2000.
+
+      The continuing actions within SSD resulted in additional third quarter
+pre-tax charges of $96 million ($83 million after tax, or $.04 per diluted
+common share). That amount includes write-downs to fair value of equipment (a)
+that is idle and will be scrapped ($42 million), (b) under contract for sale and
+delivery by March 31, 2000 ($7 million), and (c) subject to sale-leaseback
+agreements ($47 million write-down of the equipment to appraised fair value).
+
+      The liability as of September 30, 1999 for the second quarter charges
+within the Technology Group is $327 million. There is no liability at that date
+for the third-quarter SSD asset write-downs.
+
+      Acquisitions. On September 24, 1999, the company acquired all of the
+outstanding capital stock of Sequent Computer Systems, Inc. (Sequent) for
+approximately $828 million or $18 for each outstanding share of Sequent common
+stock. Sequent is an acknowledged leader in systems based on NUMA (non-uniform
+memory access) architecture. NUMA is advanced hardware and software that allows
+large numbers of processors to operate as a single system while maintaining the
+ease of programming and manageability of a small system.
+
+      On September 29, 1999, the company completed the acquisition of Mylex
+Corporation (Mylex) for approximately $259 million or $12 for each outstanding
+share of Mylex common stock. Mylex is a leading developer of technology for
+moving, storing, protecting and managing data in desktop and networked
+environments.
+
+      On September 27, 1999, the company acquired DASCOM, Inc., (DASCOM) an
+industry leader in Web-based and enterprise-security technology, for
+approximately $115 million.
+
+      The company accounted for each acquisition as a purchase transaction. The
+effects of these acquisitions on the company's consolidated financial statements
+were not material. Hence, the company has not provided pro forma financial
+statements as if the companies had combined at the beginning of the current
+period or the immediately preceding period.
+
+      The company engaged a nationally recognized independent appraisal firm to
+express an opinion on the fair value of the net assets that the company acquired
+to serve as a basis for the following allocation of the purchase price.
+
+
+                                      -8-
+<PAGE>
+
+Notes to Consolidated Financial Statements - (continued)
+
+(Dollars in millions)
+
+                                          Sequent      Mylex       DASCOM
+                                          -------      -----       ------
+
+Purchase price                             $ 828       $ 259       $ 115
+
+Tangible net assets                          382          67         (17)
+Identifiable intangible assets               187          35          13
+Current technology                            87          26          19
+Goodwill                                     183         145          92
+In-process research
+    and development                           85           7          19
+Deferred tax liabilities related
+    to identifiable intangible assets        (96)        (21)        (11)
+
+      The tangible net assets comprise primarily cash, accounts receivable,
+land, buildings and leasehold improvements. The identifiable intangible assets
+comprise primarily patents, trademarks, customer lists, assembled work force,
+employee agreements and leasehold interests.
+
+      Current technology includes products currently in the marketplace as of
+the acquisition date and products still in the development stage and
+technologically feasible. The identifiable intangible assets and goodwill, and
+current technology will be amortized on a straight-line basis over a five- and
+two-year period, respectively.
+
+      Purchased In-Process Research and Development. In connection with the
+acquisitions of Sequent, Mylex and DASCOM, the company recorded a pre-tax charge
+for research, development and engineering of $111 million ($111 million after
+tax, or $.06 per diluted common share) for acquired in-process research and
+development (IPR&D). At the date of each acquisition, the IPR&D projects had not
+yet reached technological feasibility and had no alternative future uses. The
+value of IPR&D is calculated using a discounted cash flow analysis of the
+anticipated income stream of the related product sales. The discount rate
+assumptions range from 25 percent to 50 percent based on stage of completion of
+each of the projects, costs and complexity of the work completed to date and to
+be completed, and other risks associated with completing the development.
+
+7. Subsequent Events: On October 6, 1999, the company announced that the
+Personal Systems Group (PSG) took actions to intensify its focus on direct
+distribution channels, consolidate organizations throughout PSG, change its
+approach to the consumer market and reduce overall costs and expenses. As a
+result of those actions, the Consumer Division will no longer be a separate
+structure within PSG. This action had no effect on the third quarter
+consolidated financial statements.
+
+      On October 26, 1999, the Board of Directors authorized the company to
+repurchase up to an additional $3.5 billion of IBM common shares. The company
+plans to repurchase the shares in the open market from time to time, based on
+market conditions.
+
+ITEM 2.
+
+
+                                      -9-
+<PAGE>
+
+                      MANAGEMENT'S DISCUSSION AND ANALYSIS
+                OF RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+             FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 1999
+
+      The company's third-quarter results were mixed. Results reflect a
+so-called Year 2000 (Y2K) slowdown toward the end of the quarter. It became
+apparent late in the quarter that many customers had accelerated their hardware
+purchases earlier in the year to accommodate Y2K testing. Therefore, the third
+quarter reflected reduced revenue as customers completed the task of making
+their enterprise-wide, mission-critical applications Y2K compliant and did not
+purchase additional capacity to begin to install new or expanded applications.
+That slowdown was particularly evident in S/390 and AS/400 servers, and to a
+lesser extent in services and operating systems software. Additionally, results
+reflected shortages of flat-panel displays, price pressure in the hard disk
+drive (HDD) business, sales deterioration as a result of the sale of
+intellectual property related to certain NHD hardware technology and the
+company's inability to rapidly expand into growth areas beyond its traditional
+customer set. On the positive side, the company's growth businesses -- services,
+software other than operating systems and original equipment manufacturer (OEM)
+- -- all performed well.
+
+      The company's actions in the networking hardware and storage areas are
+intended to improve the competitiveness of the company's technology business and
+to further strengthen the company's overall business portfolio.
+
+      While the results for the third quarter were mixed, the results underscore
+the strength of the company's broad portfolio and its fundamental business
+strategies. Looking forward, the company believes that it will continue to feel
+the effects of the Y2K slowdown in the fourth quarter of 1999 and the first
+quarter of 2000. Although fourth quarter demand for servers historically has
+been roughly 50 percent higher than the third quarter, the company does not
+expect customer buying patterns for S/390 and AS/400 to follow the historical
+trend this year. Many customers will hold back on building or expanding their
+mission-critical applications until after the millennium. The company's fourth
+quarter earnings per share could be as much as $.15 or $.20 below last year's
+fourth quarter due to this Y2K slowdown. Additionally, the earnings per share in
+the first quarter of 2000 could be flat to down slightly from the first quarter
+of 1999, as these factors start to lift. The company remains confident about its
+fundamental business strategies, the value of its products and services and its
+overall momentum.
+
+
+                                      -10-
+<PAGE>
+
+Results of Operations
+
+(Dollars in millions)          Three Months Ended          Nine Months Ended
+                                  September 30                September 30
+                               ------------------          ------------------
+                               1999          1998          1999          1998
+                               ----          ----          ----          ----
+
+Revenue                       $21,144       $20,095       $63,366       $56,536
+Cost                           13,580        12,628        40,320        35,473
+                              -------       -------       -------       -------
+Gross profit                  $ 7,564       $ 7,467       $23,046       $21,063
+Gross profit margin              35.8%         37.2%         36.4%         37.3%
+Net income                    $ 1,762       $ 1,494       $ 5,623       $ 3,982
+Earnings per share of
+     common stock:
+        Assuming dilution     $  0.93       $  0.78*      $  2.99       $  2.05*
+        Basic                 $  0.97       $  0.80*      $  3.09       $  2.11*
+
+* Adjusted to reflect a two-for-one stock split effective May 10, 1999.
+
+      As a result of the company's share repurchase program, the average number
+of common shares outstanding assuming dilution was lower by 39.4 million than
+the third quarter in 1998 and by 56.3 million than the first nine months of
+1998. The average number of shares assuming dilution was 1,869.6 million in the
+third quarter of 1999 and 1,874.7 million for the first nine months of 1999.
+There were 1,802.6 million shares outstanding at September 30, 1999.
+
+      Revenue for the three months ended September 30, 1999 increased 5.2
+percent versus the same period last year (approximately 5 percent in constant
+currency). Services, middleware software and OEM revenue continued to show good
+growth. Hardware revenue declined slightly as a result of lower S/390 and AS/400
+server revenue, attributable to the Y2K slowdown. In addition, while RS/6000
+revenue declined slightly from the same period last year, RS/6000 Enterprise
+Unix servers saw double-digit revenue growth. NT servers growth was even
+stronger. Networking hardware revenue declined significantly. Those declines
+were partially offset by increased revenue from personal computers, due to
+strong growth in the Netfinity server line. Microelectronics revenue also
+increased when compared with the third quarter of 1998.
+
+      Revenue for the third quarter of 1999 from the company's end-user
+businesses totaled $9.6 billion from the Americas, a decrease of 0.6 percent
+(approximately 1 percent increase in constant currency) compared with the same
+period last year. Latin America, which is approximately 10 percent of the
+America's revenue, showed improvement with revenues growing at 7 percent on a
+constant currency basis. Revenue from Europe/Middle East/Africa was $5.8
+billion, down 1.6 percent (approximately 4 percent increase in constant
+currency). Asia-Pacific revenue grew 28.1 percent (approximately 10 percent in
+constant currency) to $3.7 billion. As in the first half of 1999, key areas
+outside of Japan continued to show strong double-digit growth. Revenue in Japan
+was strong in the third quarter following modest growth in the first half of
+1999. OEM revenue across all geographies was $2.0 billion, a 23.8 percent
+increase (approximately 22 percent in constant currency) compared with the third
+quarter of 1998.
+
+
+                                      -11-
+<PAGE>
+
+Results of Operations - (continued)
+
+      The company's overall gross profit margin was 35.8 percent in the third
+quarter compared with 37.2 percent in the same period of 1998. The decline in
+gross profit margin continues to reflect the changing mix of the company's
+business to services, and a decline in margins in the hardware business related
+to a shift from servers to personal computers which have a lower gross profit
+margin. In addition, an inventory write-down of $144 million related to the
+networking hardware business negatively affected the company's overall gross
+margin by 0.7 points in the third quarter of 1999.
+
+      The company's $4.9 billion third quarter expenses reflect the actions
+(excluding the inventory write-down for certain NHD products of $144 million)
+that are described in Note No. 6 to the Consolidated Financial Statements on
+pages 7 through 9. The company's expense-to-revenue ratio improved 3.2 points in
+the quarter. The actions that were included in expense contributed to a 1.6
+point improvement in the expense-to-revenue ratio in the third quarter of 1999.
+
+      The company's tax rate was 33.0 percent in the third quarter compared with
+30.0 percent in the year-earlier period. The increase was principally due to the
+third quarter actions taken by the company.
+
+      Net income for the nine months ended September 30, 1999, including the
+effect of actions taken in the second and third quarters, was $5.6 billion, or
+$2.99 per diluted common share, compared with net income of $4.0 billion, or
+$2.05 per diluted common share, in the year-earlier period. Through the first
+nine months of 1999, the company's diluted earnings per share grew 46 percent,
+with 20 points of that growth attributable to actions taken in the second and
+third quarters. Revenues for the nine months ended September 30, 1999 were $63.4
+billion, an increase of 12 percent (approximately 12 percent in constant
+currency) compared with $56.5 billion in the same period of 1998.
+
+Hardware
+
+(Dollars in millions)    Three Months Ended          Nine Months Ended
+                            September 30                September 30
+                         ------------------          ------------------
+                          1999         1998          1999          1998
+                          ----         ----          ----          ----
+
+Total revenue            $8,840       $8,920       $26,803       $23,952
+Total cost                6,610        6,101        19,559        16,667
+                         ------       ------       -------       -------
+Gross profit             $2,230       $2,819       $ 7,244       $ 7,285
+Gross profit margin        25.2%        31.6%         27.0%         30.4%
+
+      Revenue from hardware for the third quarter of 1999 declined 0.9 percent
+and increased 11.9 percent for the first nine months of 1999 when compared with
+the same periods in 1998.
+
+      Despite continued pricing pressures, personal computer revenue continued
+to improve for the third quarter and the first nine months of 1999, compared
+with the same periods in 1998. The increases were driven by higher revenue for
+both commercial and consumer personal computers and a richer mix to mobile and
+Netfinity server products. Although Thinkpad results were good,
+
+
+                                      -12-
+<PAGE>
+
+Results of Operations - (continued)
+
+sales were constrained by supply shortages of flat-panel displays. That supply
+constraint may continue into the fourth quarter of 1999. In the third quarter,
+the company continued to focus on expanding its direct channel customers;
+improving its indirect channel efficiency; increasing focus on fast growing
+small- and medium-size businesses; and realizing more opportunity in businesses
+that are tied to the personal computer including services, software and
+financing. As described in Note No. 7 on page 9, the company announced on
+October 6, 1999 that the Personal Systems Group (PSG) took actions to intensify
+its focus on direct distribution channels, consolidate organizations throughout
+PSG, change its approach to the consumer market and reduce overall costs and
+expenses. As a result of those actions, the Consumer Division will no longer be
+a separate structure within PSG. This action had no effect on the third quarter
+financial statements.
+
+      Technology revenue increased for both the third quarter and first nine
+months of 1999 when compared with year-ago periods. The increase in third
+quarter revenue was driven by strong growth in custom logic and high-performance
+SRAMs; DRAM revenue grew moderately. A slower growth rate in HDD storage revenue
+than in the comparable year-ago periods continued to reflect pricing pressures
+and a leaner mix of revenue for high-end HDDs. Those increases were partially
+offset by (a) declines in high-end RAMAC sales, as customers awaited a new
+Enterprise Storage Server (Shark) which began to ship in the last week of the
+quarter, (b) lower tape and DASD sales and (c) declines in Networking Hardware
+revenue as a result of the proposed sale of routing and switching IP to Cisco
+Systems. (See Note No. 6 to Consolidated Financial Statements on pages 7 through
+9 for further information on this sale). The increase in technology revenue for
+the first nine months of 1999 primarily was driven by growth in HDD storage,
+custom logic and storage tape products.
+
+      The actions that the company took in the third quarter of 1999 in the
+networking hardware and storage areas are a continuation of the second quarter
+actions that are aimed directly at strengthening the Technology Group over the
+long term. Those actions are intended to shift the focus of the Technology Group
+to higher margin businesses and more efficient operations.
+
+      Server revenue declined in the third quarter and the first nine months of
+1999, versus the same periods of 1998. S/390 revenue declined sharply in the
+third quarter and decreased for the first nine months of 1999, when compared
+with the same periods in 1998. S/390 MIPS shipments decreased 18 percent versus
+the third quarter of last year. Some S/390 customers have completed the task of
+making Y2K compliant the mainframe computers that they use in data centers to
+run highly-integrated enterprise-wide applications with large transaction
+volumes that are mission critical to the customer. Once the systems are Y2K
+ready, customers are disinclined to enhance them until next year because of
+concerns about somehow affecting their Y2K readiness. S/390 also had a difficult
+compare with the third quarter of 1998, in which the company introduced and
+shipped the Model G5. AS/400 declined in the third quarter and first nine months
+of 1999, when compared with the same periods last year. The AS/400 continued to
+see a decline due to poor sales execution and a slowdown in sales related to
+Enterprise Resource Planning (ERP) solutions due to Y2K concerns. RS/6000
+revenue declined in the third quarter and was flat for the first nine months of
+1999 versus the same periods in 1998. The RS/6000 enterprise servers had good
+growth in the quarter, despite the fact that the new S80 server did not start to
+ship until the end of the third quarter.
+
+
+                                      -13-
+<PAGE>
+
+Results of Operations - (continued)
+
+      Hardware sales gross profit for the third quarter and first nine months of
+1999 decreased 20.9 percent and 0.6 percent, respectively, from comparable
+periods in 1998. The hardware gross profit margin decreased 6.4 points and 3.4
+points, respectively, from the prior year. Pricing pressures associated with
+personal computers and hard disk drives drove the declines in gross profit
+margins from the same periods in 1998. Additionally, the change in mix between
+personal systems and servers, and a lower model mix in the mobile HDDs (in which
+some customers' capacity needs are being met by new mid-range products, rather
+than the more profitable high-end mobile products) also had a negative effect on
+gross profit for the third quarter and first nine months of 1999. In addition,
+the third quarter write-down for certain NHD inventory contributed 1.6 points of
+the decline in hardware gross profit margin. Those declines were partially
+offset by improved margins for personal computers and a higher mix of servers
+and laptops.
+
+Global Services
+
+(Dollars in millions)            Three Months Ended         Nine Months Ended
+                                    September 30               September 30
+                                 ------------------         ------------------
+                                 1999          1998         1999          1998
+                                 ----          ----         ----          ----
+
+Total revenue                   $7,898        $7,046      $23,436       $20,356
+Total cost                       5,715         5,222       17,003        14,917
+                                ------        ------      -------       -------
+Gross profit                    $2,183        $1,824      $ 6,433       $ 5,439
+Gross profit margin               27.6%         25.9%        27.5%         26.7%
+
+      Global Services revenue increased 12.1 percent and 15.1 percent in the
+third quarter and first nine months of 1999, respectively, when compared with
+the same periods of last year. The increase in revenue was driven by strong
+growth in strategic outsourcing, systems integration and product support
+services. Networking revenue was down for the quarter and increased for the
+nine-month period, despite the sale of most of the IBM Global Network to AT&T
+during the second and third quarter of 1999. In the third quarter of 1999, the
+company started to see a decline in Y2K services, and expects further declines
+in the fourth quarter of 1999 and the first quarter of 2000 as the need for
+these services disappears. The company sees growing demand for new services
+offerings including addressing the European Monetary Unit, business
+intelligence, e-business services, supply chain management and customer
+relationship management. Maintenance revenue was flat in the third quarter of
+1999 and decreased slightly on a nine-month basis when compared with the same
+period in 1998. New contract signings in the third quarter were $9.2 billion.
+Most of those contracts are for strategic outsourcing agreements and involve a
+full spectrum of the company's services and product offerings. Those signings
+include 10 deals that individually are valued at over $100 million.
+
+      Global Services gross profit dollars increased in the third quarter and
+first nine months of 1999 by 19.7 percent and 18.3 percent, respectively, when
+compared with year-ago periods. The improvement in gross profit dollars and
+margin was a result of improved services margins in systems integration,
+strategic outsourcing and product support services. Those improvements more than
+offset the changing mix away from the higher margin maintenance business to
+services. Maintenance margins improved in the third quarter of 1999 and were
+flat year over year when compared with the same periods in 1998.
+
+
+                                      -14-
+<PAGE>
+
+Results of Operations - (continued)
+
+Software
+
+(Dollars in millions)              Three Months Ended        Nine Months Ended
+                                      September 30              September 30
+                                   ------------------        -----------------
+                                   1999         1998         1999         1998
+                                   ----         ----         ----         ----
+
+Total revenue                     $3,010       $2,808       $9,056       $8,318
+Total cost                           567          544        1,642        1,632
+                                  ------       ------       ------       ------
+Gross profit                      $2,443       $2,264       $7,414       $6,686
+Gross profit margin                 81.2%        80.6%        81.9%        80.4%
+
+      Revenue from software for the third quarter and first nine months of 1999
+increased 7.2 percent and 8.9 percent, respectively, over comparable periods in
+1998. The growth continues to be driven by the company's middleware products
+which comprise data management, transaction processing, Tivoli systems
+management, and Lotus Notes messaging and collaboration across both IBM and
+non-IBM platforms. The company continues to focus on helping customers use its
+software to transform their businesses to e-businesses, particularly in
+collaboration with the company's Global Services Group and channel partners.
+
+      Operating-systems software revenue declined in the third quarter and is
+flat for the nine months of 1999 when compared with year-ago periods. The
+decline in third quarter revenue was driven by AS/400 products partially offset
+by growth in S/390 and RS/6000 offerings.
+
+      Software gross profit dollars for both the third quarter and first nine
+months of 1999 increased 7.9 percent and 10.9 percent, respectively, versus the
+same periods in 1998. The improvement in gross profit dollars and margin is due
+to increased revenue and lower levels of amortization costs associated with
+previously deferred development spending, partially offset by higher vendor
+royalty payments due primarily to increased volumes.
+
+Global Financing
+
+(Dollars in millions)             Three Months Ended        Nine Months Ended
+                                     September 30              September 30
+                                  ------------------        -----------------
+                                   1999        1998         1999          1998
+                                   ----        ----         ----          ----
+
+Total revenue                      $774        $679        $2,222        $2,110
+Total cost                          335         351           978         1,108
+                                   ----        ----        ------        ------
+Gross profit                       $439        $328        $1,244        $1,002
+Gross profit margin                56.7%       48.1%         56.0%         47.5%
+
+      Global Financing revenue increased 13.9 percent and 5.3 percent for the
+third quarter and first nine months of 1999, respectively, when compared with
+the same periods of 1998. The increases in revenue were driven by growth in
+customer financing and a changing asset base as financing of software and
+services showed strong growth. In addition, used equipment sales
+
+
+                                      -15-
+<PAGE>
+
+Results of Operations - (continued)
+
+increased in the third quarter of 1999 and decreased for the first nine months
+of 1999, when compared with the same periods in 1998. Financing originations
+increased in the quarter to $10.0 billion, with strong year-to-year growth in
+commercial financing, partially offset by lower customer financing.
+
+      Global Financing gross profit dollars increased 33.8 percent and 24.2
+percent, respectively, for the third quarter and first nine months of 1999,
+versus the same periods of 1998. The increase was driven by Global Financing's
+ongoing strategy to increase its use of the company's Global Treasury Centers
+rather than external banks as a funding source and by lower cost of borrowing.
+
+Enterprise Investments / Other
+
+(Dollars in millions)             Three Months Ended        Nine Months Ended
+                                     September 30              September 30
+                                  ------------------        ------------------
+                                   1999        1998         1999          1998
+                                   ----        ----         ----          ----
+
+Total revenue                      $622        $642        $1,849        $1,800
+Total cost                          353         410         1,138         1,149
+                                   ----        ----        ------        ------
+Gross profit                       $269        $232        $  711        $  651
+Gross profit margin                43.1%       36.1%         38.4%         36.2%
+
+      Revenue from Enterprise Investments/Other decreased 3.1 percent and
+increased 2.8 percent, respectively, for the third quarter and first nine months
+of 1999, versus comparable periods in 1998. Third quarter 1999 revenue decreased
+as the company exited several non-strategic businesses. That decline was
+partially offset by growth in point-of-sale terminals and CATIA software. The
+increase for the first nine months was driven by growth in point-of-sale
+terminals and CATIA software, partially offset by lower revenue for
+non-strategic businesses the company has exited.
+
+      The Enterprise Investments/Other gross profit dollars increased 15.9
+percent and 9.2 percent, respectively, in the third quarter and first nine
+months of 1999, versus the same periods of 1998. The increases were primarily
+driven by the increased revenue from point-of-sale terminals as well as an
+improving gross profit margin.
+
+Expenses
+
+(Dollars in millions)                   Three Months Ended    Nine Months Ended
+                                            September 30         September 30
+                                        ------------------    -----------------
+                                          1999       1998      1999       1998
+                                          ----       ----      ----       ----
+
+Selling, general and administrative    $ 3,501    $ 4,057    $10,284    $11,588
+Percentage of revenue                     16.6%      20.2%      16.2%      20.5%
+
+Research, development and engineering  $ 1,383    $ 1,240    $ 3,857    $ 3,639
+Percentage of revenue                      6.5%       6.2%       6.1%       6.4%
+
+
+                                      -16-
+<PAGE>
+
+Results of Operations - (continued)
+
+      Selling, general and administrative expense for the third quarter and
+first nine months of 1999 decreased 13.7 percent and 11.2 percent, respectively,
+from the same periods in 1998. The decrease in the third quarter of 1999 was
+primarily driven by the net pre-tax benefit of $456 million associated with the
+sale of the Global Network, continuing actions within SSD for write-downs to
+fair value of equipment and the contract cancellation fees associated with the
+proposed sale of IP by NHD. (See Note No. 6 to the Consolidated Financial
+Statements on pages 7 through 9 for further information). The decrease in the
+first nine months of 1999 reflects the net pre-tax benefit of $2,066 million
+associated with the sale of the Global Network and the actions taken in the
+second and third quarter of 1999 to better align the operations of the company's
+Technology Group with that group's strategic direction.
+
+      The company continues to manage aggressively its infrastructure expense
+and its overall portfolio to allow for investment in growth segments of the
+business. Key ongoing investments include software marketing, major marketing
+campaigns and new offerings for small and medium business opportunities, as well
+as the e-business campaign. These types of expenditures are consistent with the
+company's ongoing objective of growing revenue while improving the
+expense-to-revenue ratio over time.
+
+      Research, development and engineering expense increased 11.5 percent and
+6.0 percent, respectively, for the third quarter and first nine months of 1999,
+when compared with the same periods of 1998. The increases reflect a $111
+million pre-tax charge taken in the third quarter of 1999 for in-process
+research and development associated with the acquisition of Sequent, Mylex and
+DASCOM. Those acquisitions are intended to improve the company's long-term
+competitiveness in the server, storage and Web-security markets, respectively.
+In addition, the increases also reflect the company's continued investments in
+high-growth opportunities like e-business, Tivoli systems management and Lotus
+products.
+
+      Interest on total borrowings of the company and its subsidiaries, which
+includes interest expense and interest costs associated with rentals and
+financing, amounted to $366 million and $1,118 million for the third quarter and
+first nine months of 1999, respectively. Of these amounts, the company
+capitalized $8 million for the third quarter and $23 million for the first nine
+months of 1999.
+
+      The effective tax rate for the quarter ended September 30, 1999, was 33.0
+percent versus 30.0 percent for the same period in 1998. The 3.0 point increase
+was principally due to the actions taken by the company in the third quarter.
+
+      The effective tax rate for the first nine months of 1999 was 35.9 percent
+versus 30.6 percent for the same period in 1998. The 5.3 point increase from the
+1998 rate was primarily a result of the actions taken by the company in the
+second and third quarters.
+
+Financial Condition
+
+      During the first nine months of 1999, the company continued to make
+significant investments to fund its future growth and increase shareholder
+value. These investments included expenditures of $4,284 million for Research,
+development and engineering,
+
+
+                                      -17-
+<PAGE>
+
+Financial Condition - (continued)
+
+$4,217 million in Plant, rental machines and other property and $5,140 million
+for the repurchase of the company's common shares. The company had $6,026
+million in Cash and cash equivalents and Marketable securities at September 30,
+1999.
+
+Cash Flow
+
+(Dollars in millions)                              Nine Months Ended
+                                                      September 30,
+                                                ------------------------
+                                                1999                1998
+                                                ----                ----
+Net cash provided from (used in):
+   Operating activities                       $  6,760            $  6,541
+   Investing activities                           (559)             (4,486)
+   Financing activities                         (6,831)             (3,703)
+Effect of exchange rate changes on cash
+   and cash equivalents                           (163)                 95
+                                              --------            --------
+Net change in cash and cash equivalents       $   (793)           $ (1,553)
+
+Working Capital
+
+(Dollars in millions)                     At September 30,     At December 31,
+                                                1999                1998
+                                              --------            --------
+
+Current assets                                $ 42,877            $ 42,360
+Current liabilities                             37,778              36,827
+                                              --------            --------
+   Working capital                            $  5,099            $  5,533
+Current ratio                                   1.13:1              1.15:1
+
+       Current assets increased $517 million from year-end 1998 primarily due to
+increases of $258 million in Cash and cash equivalents and Marketable
+securities, and $299 million in Prepaid expenses and other current assets. The
+increase in Cash and cash equivalents and Marketable securities resulted
+primarily from cash generated from operations and the net proceeds from the sale
+of the IBM Global Network, offset by stock repurchases, capital expenditures and
+strategic acquisitions. The increase in prepaid expenses and other current
+assets is mostly due to increases in deferred tax assets from year-end 1998.
+
+       Current liabilities increased $951 million from year-end 1998 with
+increases of $653 million in Taxes payable, $191 million in Short-term debt and
+$107 million in Accounts payable and other accruals (increases in deferred
+income and other accruals offset by a decrease in accounts payable).
+
+Investments
+
+      During the first nine months of 1999, the company continued to invest in
+its rapidly growing services business, primarily in the management of customers'
+information technology, as well as in manufacturing capacity for hard disk
+drives and microelectronics. The company's capital investment for Plant, rental
+machines and other property was $4,217 million during the period, a
+
+
+                                      -18-
+<PAGE>
+
+Financial Condition - (continued)
+
+decline of $365 million from the comparable 1998 period. This decrease reflects
+the write down of assets in the second and third quarter relating to SSD
+operations.
+
+      In addition to software development expense included in Research,
+development and engineering expense, the company capitalized $321 million of
+software costs during the first nine months of 1999, an increase of $141 million
+from the comparable period in 1998. The increase resulted from the January 1,
+1999 adoption by the company of the American Institute of Certified Public
+Accountants Statement of Position (SOP) 98-1, "Accounting for the Costs of
+Computer Software Developed or Obtained for Internal Use." The SOP requires the
+capitalization of internal use computer software if certain criteria are met.
+The capitalized costs are amortized on a straight-line basis over the useful
+life of the software. Amortization of capitalized software costs (both internal
+use and externally marketed) was $319 million during the first nine months of
+1999, a decline of $82 million from the comparable 1998 period.
+
+      Investments and sundry assets were $24,407 million at September 30, 1999,
+an increase of $897 million from year-end 1998, resulting primarily from
+increases in prepaid pension assets and alliance investments.
+
+Other Long-term Liabilities
+
+      Other long-term liabilities of $12,315 million at September 30, 1999,
+declined $503 million from year-end 1998 primarily in postretirement benefits
+and non-U.S. retirement reserves.
+
+Debt and Equity
+
+(Dollars in millions)                         At September 30,  At December 31,
+                                                    1999              1998
+                                                  -------           -------
+
+Global financing debt                             $27,335           $27,754
+Non-global financing debt                             568             1,659
+                                                  -------           -------
+Total debt                                        $27,903           $29,413
+
+Stockholders' equity                              $20,068           $19,433
+
+Debt/capitalization                                  58.2%             60.2%
+EBITDA / interest expense                              9x                8x
+Non-global financing:
+  Debt/capitalization                                 3.6%              9.9%
+  EBITDA/interest expense                              18x               15x
+Global financing debt/equity                        5.7:1             6.5:1
+
+      Total debt decreased $1,510 million from year-end 1998 as non-global
+financing debt decreased $1,091 million and debt supporting the growth in global
+financing assets decreased $419 million. Stockholders' equity increased $635
+million from December 31, 1998, as the increase in the company's retained
+earnings was partially offset by the common share repurchases.
+
+
+                                      -19-
+<PAGE>
+
+Financial Condition - (continued)
+
+Liquidity
+
+      The company maintains a $10.0 billion committed global credit facility as
+part of its ongoing efforts to ensure appropriate levels of liquidity. As of
+September 30, 1999, $9,001 million of this confirmed line of credit remained
+unused and available for future use.
+
+      At September 30, 1999, the company had an outstanding balance of $568
+million in assets under management from the securitization of loans, leases and
+trade receivables.
+
+      On September 9, 1999, the company issued a $450 million 5.8 percent note
+due September 9, 2002, the net proceeds of which were used for general corporate
+purposes.
+
+Year 2000
+
+      The "Year 2000 issue" arises because many computer hardware and software
+systems use only two digits to represent the year. As a result, these systems
+and programs may not process dates beyond 1999, which may cause errors in
+information or systems failures. Assessments of the potential effects of the
+Year 2000 issues vary markedly among different companies, governments,
+consultants, economists and commentators, and it is not possible to predict what
+the actual impact may be. Given this uncertainty, the company recognizes the
+need to remain vigilant and is continuing its analysis, assessment and planning
+for the various Year 2000 issues, across its business.
+
+      With respect to its internal systems, the potential Year 2000 impacts
+extend beyond the company's information technology systems to its manufacturing
+and development systems and physical facilities. The company has been addressing
+these issues using the same five-part methodology it recommends to its
+customers: (1) assessment and strategy; (2) detailed analysis and planning; (3)
+implementation; (4) maintaining readiness of converted systems; and (5) Project
+Office Management. The company has completed most conversion and testing
+efforts, with extended system integration testing and contingency planning
+projects scheduled throughout 1999. The company estimates that at the conclusion
+of its various Year 2000 efforts, including conversion, testing and contingency
+planning, it will have spent a total of approximately $575 million over a
+multi-year period. Although the company believes its efforts will be successful,
+any failure or delay could result in the disruption of business and in the
+company incurring substantial expense. To minimize any such potential impact,
+the company has initiated a global contingency planning effort designed to
+support critical business operations.
+
+      As part of its ordinary course product development efforts, the company's
+current product and service offerings have been designed to be Year 2000 ready.
+The Year 2000 readiness of the company's customers varies, and the company is
+actively encouraging its customers to prepare their own systems, making
+available a broad array of product, service and educational offerings to assist
+them (see the IBM Year 2000 Home Page at http://www.ibm.com/IBM/year2000/).
+Efforts by customers to address Year 2000 issues may absorb a substantial part
+of their information technology budgets in the near term, and customers may
+either delay or accelerate the deployment and implementation of new applications
+and systems. While this behavior may increase demand for certain of the
+company's products and services, including its Year 2000 offerings, it could
+also soften demand for other offerings or change customer buying practices
+
+
+                                      -20-
+<PAGE>
+
+Year 2000 - (continued)
+
+from past trends. These events could affect the company's revenues or change its
+revenue patterns. See Management's Discussion and Analysis of Results of
+Operations and Financial Condition for further information.
+
+      The company is continuing its assessment of the Year 2000 readiness of its
+key suppliers in an effort to establish that the company has adequate resources
+for required supplies and components. With respect to third-party products that
+the company may remarket or provide with the company's offering (such as
+third-party software pre-loaded on the company's personal computers), the
+company relies on its business partners and other third parties to be
+responsible for the Year 2000 readiness of their offerings. A failure of the
+company's suppliers, business partners and other third parties to address
+adequately their Year 2000 readiness could affect the company's business. As
+part of its contingency planning efforts, the company is identifying alternate
+sources or strategies where necessary if significant exposures are identified.
+
+      Further, some commentators believe that a significant amount of litigation
+will arise from Year 2000 issues. The company continues to believe that it has
+good defenses to any such claims brought against it.
+
+      Finally, the Year 2000 presents a number of other risks and uncertainties
+that could affect the company, including utilities failures, competition for
+personnel skilled in the resolution of Year 2000 issues, and the nature of
+government responses to the issues, among others. While the company continues to
+believe that the Year 2000 matters discussed above will not have a material
+impact on its business, financial condition or results of operations, it remains
+uncertain whether or to what extent the company may be affected.
+
+      The Year 2000 statements set forth above are designated as "Year 2000
+Readiness Disclosures" pursuant to the Year 2000 Information and Readiness
+Disclosure Act (P.L. 105-271).
+
+Forward Looking and Cautionary Statements
+
+      Except for the historical information and discussions contained herein,
+statements contained in this Form 10-Q (including statements in the Year 2000
+discussion above) may constitute "forward looking statements" within the meaning
+of the Private Securities Litigation Reform Act of 1995. These statements
+involve a number of risks, uncertainties and other factors that could cause
+actual results to differ materially, including the company's failure to continue
+to develop and market new and innovative products and services and to keep pace
+with technological change; competitive pressures; failure to obtain or protect
+intellectual property rights; the ultimate effect of the various Year 2000
+issues on the company's business, financial condition or results of operations;
+quarterly fluctuations in revenues and volatility of stock prices; the company's
+ability to attract and retain key personnel; currency and customer financing
+risks; dependence on certain suppliers; changes in the financial or business
+condition of the company's distributors or resellers; the company's ability to
+successfully manage acquisitions and alliances; legal, political and economic
+changes and other risks, uncertainties and factors discussed elsewhere in this
+Form 10-Q, in the company's other filings with the Securities and Exchange
+Commission or in materials incorporated therein by reference.
+
+
+                                      -21-
+<PAGE>
+
+                           Part II - Other Information
+
+ITEM 6 (a). Exhibits
+
+Exhibit Number
+
+     11     Statement re: computation of per share earnings.
+
+     12     Statement re: computation of ratios.
+
+     27     Financial Data Schedule.
+
+ITEM 6 (b). Reports on Form 8-K
+
+      The company filed Form 8-K on July 21, 1999, with respect to the company's
+financial results for the periods ended June 30, 1999 and included the unaudited
+Consolidated Statement of Earnings, Consolidated Statement of Financial Position
+and Segment Data for the periods ended June 30, 1999.
+
+      The company filed Form 8-K on August 5, 1999, to properly reflect the
+increased number of shares registered under registration statement number
+33-54375. No financial statements were filed with this Form 8-K.
+
+                                    SIGNATURE
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                    International Business Machines Corporation
+                                    -------------------------------------------
+                                                    (Registrant)
+
+
+Date: November 12, 1999
+- -----------------------
+
+                                          By: Mark Loughridge
+                                              -------------------
+                                              Mark Loughridge
+                                              Vice President and Controller
+
+
+                                      -22-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11
+<SEQUENCE>2
+<DESCRIPTION>COMPUTATION OF BASIC AND DILUTED EARNINGS
+<TEXT>
+
+
+                                                                      EXHIBIT 11
+
+                        COMPUTATION OF BASIC AND DILUTED
+                               EARNINGS PER SHARE
+                                   (UNAUDITED)
+
+                                                     For Quarter Ended
+                                          --------------------------------------
+                                          September 30, 1999  September 30, 1998
+                                          ------------------  ------------------
+
+Number of shares on which basic
+  earnings per share is calculated:
+
+Average outstanding during period             1,805,214,582     1,856,855,724*
+
+Add - Incremental shares under stock
+  compensation plans                             60,953,163        52,140,528*
+
+Add - Incremental shares associated
+  with contingently issuable shares               3,447,351                 0
+                                             --------------    --------------
+Number of shares on which diluted
+  earnings per share is calculated            1,869,615,096     1,908,996,252*
+                                             ==============    ==============
+Net income applicable to common
+  shareholders (millions)                    $        1,757    $        1,489
+
+Less - net income applicable to
+  contingently issuable shares (millions)                12                 0
+                                             --------------    --------------
+Net income on which diluted earnings
+  per share is calculated (millions)         $        1,745    $        1,489
+                                             ==============    ==============
+Earnings per share of common
+  stock - assuming dilution                  $         0.93    $         0.78*
+
+Earnings per share of common
+  stock - basic                              $         0.97    $         0.80*
+
+* Adjusted to reflect a two-for-one stock split effective May 10, 1999.
+
+      Stock options to purchase 22,701,344 shares and 27,600 shares were
+outstanding as of September 30, 1999 and 1998, respectively, but were not
+included in the computation of diluted earnings because the options' exercise
+price was greater than the average market price of the common shares and,
+therefore, the effect would have been antidilutive. Net income applicable to
+common shareholders excludes preferred stock dividends of $5 million for the
+three months ended September 30, 1999 and 1998.
+
+
+                                      -23-
+<PAGE>
+
+                        COMPUTATION OF BASIC AND DILUTED
+                        EARNINGS PER SHARE - (continued)
+                                   (UNAUDITED)
+
+                                                  For Nine Months Ended
+                                          --------------------------------------
+
+                                          September 30, 1999  September 30, 1998
+                                          ------------------  ------------------
+Number of shares on which basic
+  earnings per share is calculated:
+
+Average outstanding during period             1,813,707,108     1,878,833,270*
+
+Add - Incremental shares under stock
+  compensation plans                             61,009,102        52,192,788*
+                                             --------------    --------------
+Number of shares on which diluted
+  earnings per share is calculated            1,874,716,210     1,931,026,058*
+                                             ==============    ==============
+Net income applicable to common
+  shareholders (millions)                    $        5,608    $        3,967
+
+Less - net income applicable to
+  contingently issuable shares (millions)                 0                 0
+                                             --------------    --------------
+Net income on which diluted earnings
+  per share is calculated (millions)         $        5,608    $        3,967
+                                             ==============    ==============
+Earnings per share of common
+  stock - assuming dilution                  $         2.99    $         2.05*
+
+Earnings per share of common
+  stock - basic                              $         3.09    $         2.11*
+
+* Adjusted to reflect a two-for-one stock split effective May 10, 1999.
+
+      Stock options to purchase 23,240,852 shares as of September 30, 1999 and
+377,700 shares as of September 30, 1998 were outstanding, but were not included
+in the computation of diluted earnings because the options' exercise price was
+greater than the average market price of the common shares, and therefore, the
+effect would have been antidilutive. In addition, 3,215,252 restricted stock
+units as of September 30, 1999 relating to the company's Long-Term Performance
+Plan were not included in the computation of diluted earnings as their effect
+would have been antidilutive. Net income applicable to common shareholders
+excludes preferred stock dividends of $15 million for the nine months ended
+September 30, 1999 and 1998.
+
+
+                                      -24-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12
+<SEQUENCE>3
+<DESCRIPTION>COMPUTATION OF RATIO OF NET INCOME
+<TEXT>
+
+
+                                                                      EXHIBIT 12
+
+             COMPUTATION OF RATIO OF NET INCOME TO FIXED CHARGES AND
+       NET INCOME TO COMBINED FIXED CHARGES AND PREFERRED STOCK DIVIDENDS
+                       FOR NINE MONTHS ENDED SEPTEMBER 30
+                                   (UNAUDITED)
+
+(Dollars in millions)
+
+                                                               1999        1998
+                                                               ----        ----
+
+Income before income taxes (1)                               $ 8,697      $5,720
+
+Add: Fixed charges, excluding
+  capitalized interest                                         1,448       1,512
+                                                             -------      ------
+
+Income as adjusted before income taxes                       $10,145      $7,232
+                                                             =======      ======
+
+Fixed charges:
+  Interest expense                                           $ 1,098      $1,154
+  Capitalized interest                                            23          20
+  Portion of rental expense representative of
+    interest                                                     350         358
+                                                             -------      ------
+
+Total fixed charges                                          $ 1,471      $1,532
+                                                             =======      ======
+
+Preferred stock dividends (2)                                     23          21
+                                                             -------      ------
+
+Combined fixed charges and preferred stock
+  dividends                                                  $ 1,494      $1,553
+                                                             =======      ======
+
+Ratio of net income to fixed charges                            6.90        4.72
+
+Ratio of net income to combined fixed charges
+and preferred stock dividends                                   6.79        4.66
+
+(1) Income before income taxes excludes the company's share in the income and
+losses of less-than-fifty percent-owned affiliates.
+
+(2) Included in the ratio computation are preferred stock dividends of $15
+million for the first nine months of 1999 and 1998, or $23 million and $21
+million, respectively, representing the pre-tax income that would be required to
+cover those dividend requirements based on the company's effective tax rate for
+the nine months ended September 30, 1999 and 1998.
+
+
+                                      -25-
+<PAGE>
+
+                               SEGMENT INFORMATION
+                                   (UNAUDITED)
+
+                                Hardware Segments
+
+                                                Personal                 Global
+(Dollars in millions)              Technology    Systems     Server     Services
+- --------------------------------------------------------------------------------
+Quarter Ended September 30, 1999:
+
+External revenue                     $ 3,100     $ 3,716     $ 1,946     $7,898
+Internal revenue                         883          12          72        688
+                                     -------     -------     -------     ------
+  Total revenue                      $ 3,983     $ 3,728     $ 2,018     $8,586
+                                     =======     =======     =======     ======
+Pre-tax income (loss)                $   285     $   (69)    $   295     $1,174
+                                     =======     =======     =======     ======
+
+Revenue year-to-year change             (1.0)%      11.3%      (29.7)%     10.2%
+Pre-tax income year-to-year change     108.0%       43.4%      (59.6)%     38.1%
+Pre-tax income margin                    7.2%       (1.9)%      14.6%      13.7%
+
+Quarter Ended September 30, 1998:
+
+External revenue                     $ 2,824     $ 3,343     $ 2,751     $7,046
+Internal  revenue                      1,200           8         120        742
+                                     -------     -------     -------     ------
+Total revenue                        $ 4,024     $ 3,351     $ 2,871     $7,788
+                                     =======     =======     =======     ======
+Pre-tax income (loss)                $   137     $  (122)    $   731     $  850
+                                     =======     =======     =======     ======
+
+Pre-tax income margin                    3.4%       (3.6)%      25.5%      10.9%
+
+Reconciliations to IBM as Reported:
+
+                                       Quarter Ended        Quarter Ended
+(Dollars in millions)               September 30, 1999   September 30, 1998
+                                    ------------------   ------------------
+Revenue:
+Total reportable segments                 $ 23,096            $ 22,517
+Eliminations/other                          (1,952)             (2,422)
+                                          --------            --------
+   Total IBM Consolidated                 $ 21,144            $ 20,095
+                                          ========            ========
+
+Pretax income:
+Total reportable segments                 $  2,515            $  2,267
+Sales of IBM's Global Network                  586                   0
+Third quarter actions                         (385)                  0
+Eliminations/other                             (87)               (135)
+                                          --------            --------
+   Total IBM Consolidated                 $  2,629            $  2,132
+                                          ========            ========
+
+
+                                      -26-
+<PAGE>
+
+                    Global           Enterprise             Total
+Software          Financing         Investments            Segments
+- -------------------------------------------------------------------
+
+$ 3,010              $786              $ 619               $21,075
+    168               194                  4                 2,021
+- -------              ----              -----               -------
+$ 3,178              $980              $ 623               $23,096
+=======              ====              =====               =======
+$   597              $322              $ (89)              $ 2,515
+=======              ====              =====               =======
+
+    6.0%             11.0%               3.7%                  2.6%
+    8.0%             14.2%              45.7%                 10.9%
+   18.8%             32.9%             (14.3)%                10.9%
+
+$ 2,808              $706              $ 585               $20,063
+    191               177                 16                 2,454
+- -------              ----              -----               -------
+$ 2,999              $883              $ 601               $22,517
+=======              ====              =====               =======
+$   553              $282              $(164)              $ 2,267
+=======              ====              =====               =======
+
+   18.4%             31.9%             (27.3)%                10.1%
+
+
+                                      -27-
+<PAGE>
+
+                               SEGMENT INFORMATION
+                                   (UNAUDITED)
+
+                                Hardware Segments
+
+<TABLE>
+<CAPTION>
+                                                      Personal                Global
+(Dollars in millions)                    Technology    Systems    Server     Services
+- -------------------------------------------------------------------------------------
+<S>                                       <C>         <C>         <C>        <C>
+Nine Months Ended September 30, 1999:
+
+External revenue                          $  9,032    $ 11,178    $ 6,368    $23,436
+Internal revenue                             2,794          26        237      1,985
+                                          --------    --------    -------    -------
+Total revenue                             $ 11,826    $ 11,204    $ 6,605    $25,421
+                                          ========    ========    =======    =======
+Pre-tax income (loss)                     $    485    $   (311)   $ 1,309    $ 3,284
+                                          ========    ========    =======    =======
+
+Revenue year-to-year change                    1.3%       34.1%     (11.4)%     13.5%
+Pre-tax income year-to-year change           (26.1)%      69.4%     (26.9)%     30.0%
+Pre-tax income margin                          4.1%       (2.8)%   19.8 %       12.9%
+
+Nine Months Ended September 30, 1998:
+
+External revenue                          $  8,369    $  8,335    $ 7,159    $20,356
+Internal  revenue                            3,306          21        298      2,033
+                                          --------    --------    -------    -------
+Total revenue                             $ 11,675     $8, 356    $ 7,457    $22,389
+                                          ========    ========    =======    =======
+Pre-tax income (loss)                     $    656    $ (1,016)   $ 1,790    $ 2,526
+                                          ========    ========    =======    =======
+
+Pre-tax income margin                          5.6%      (12.2)%     24.0%      11.3%
+</TABLE>
+
+Reconciliations to IBM as Reported:
+
+                                   Nine Months Ended      Nine Months Ended
+(Dollars in millions)              September 30, 1999     September 30, 1998
+                                   ------------------     ------------------
+Revenue:
+Total reportable segments               $ 69,393              $ 63,106
+Eliminations/other                        (6,027)               (6,570)
+                                        --------              --------
+Total IBM Consolidated                  $ 63,366              $ 56,536
+                                        ========              ========
+Pretax income:
+Total reportable segments               $  7,406              $  6,105
+Sales of IBM's Global Network              4,016                     0
+Second and third quarter actions          (2,205)                    0
+Eliminations/other                          (445)                 (367)
+                                        --------              --------
+  Total IBM Consolidated                $  8,772              $  5,738
+                                        ========              ========
+
+
+                                      -28-
+<PAGE>
+
+                Global        Enterprise         Total
+Software      Financing      Investments        Segments
+
+ $9,056         $2,274         $ 1,829          $63,173
+    561            599              18            6,220
+ ------         ------         -------          -------
+ $9,617         $2,873         $ 1,847          $69,393
+ ======         ======         =======          =======
+ $1,954         $  947         $  (262)         $ 7,406
+ ======         ======         =======          =======
+
+    8.4%           7.4%            9.7%            10.0%
+   10.1%          11.4%           44.8%            21.3%
+   20.3%          33.0%          (14.2)%           10.7%
+
+ $8,318         $2,172         $ 1,643          $56,352
+    552            504              40            6,754
+ ------         ------         -------          -------
+ $8,870         $2,676         $ 1,683          $63,106
+ ======         ======         =======          =======
+ $1,774         $  850         $  (475)         $ 6,105
+ ======         ======         =======          =======
+
+   20.0%          31.8%          (28.2)%            9.7%
+
+
+                                      -29-
+<PAGE>
+
+                         EXHIBITS OMITTED FROM THIS COPY
+
+The Financial Data Schedule
+
+Copies of this exhibit may be obtained without charge from the First Chicago
+Trust Company of New York, Suite 4688, P.O. Box 2530, Jersey City, New Jersey
+07303-2530.
+
+
+                                      -30-
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>4
+<DESCRIPTION>FDS
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE>                     5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM IBM
+CORPORATION'S FINANCIAL STATEMENTS FOR THE NINE MONTHS ENDED SEPTEMBER 30, 1999
+AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCAIL STATEMENTS.
+</LEGEND>
+<MULTIPLIER>                  1,000,000
+
+
+<S>                             <C>
+<PERIOD-TYPE>                         9-MOS
+<FISCAL-YEAR-END>               DEC-31-1999
+<PERIOD-END>                    SEP-30-1999
+<CASH>                                6,026
+<SECURITIES>                          1,444
+<RECEIVABLES>                        20,379
+<ALLOWANCES>                              0
+<INVENTORY>                           5,130
+<CURRENT-ASSETS>                     42,877
+<PP&E>                               40,812
+<DEPRECIATION>                       23,349
+<TOTAL-ASSETS>                       85,375
+<CURRENT-LIABILITIES>                37,778
+<BONDS>                                   0
+<PREFERRED-MANDATORY>                11,850
+<PREFERRED>                               0
+<COMMON>                                247
+<OTHER-SE>                            7,971
+<TOTAL-LIABILITY-AND-EQUITY>         85,375
+<SALES>                              26,803
+<TOTAL-REVENUES>                     63,366
+<CGS>                                19,559
+<TOTAL-COSTS>                        40,320
+<OTHER-EXPENSES>                     14,141
+<LOSS-PROVISION>                          0
+<INTEREST-EXPENSE>                      556
+<INCOME-PRETAX>                       8,772
+<INCOME-TAX>                          3,149
+<INCOME-CONTINUING>                   5,623
+<DISCONTINUED>                            0
+<EXTRAORDINARY>                           0
+<CHANGES>                                 0
+<NET-INCOME>                          5,623
+<EPS-BASIC>                          3.09
+<EPS-DILUTED>                          2.99
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

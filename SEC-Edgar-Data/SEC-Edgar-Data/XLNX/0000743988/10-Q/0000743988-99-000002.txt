@@ -1,0 +1,1249 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CTjwi/+HU7vbxtxP5fG9Twx/5Hp9LOyPgq/aSxo4pSprcxbgSzO33tI5q4T7pgLF
+ 7kfVIvJ8NkrGXWWFbYKIIw==
+
+<SEC-DOCUMENT>0000743988-99-000002.txt : 19990211
+<SEC-HEADER>0000743988-99-000002.hdr.sgml : 19990211
+ACCESSION NUMBER:		0000743988-99-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990102
+FILED AS OF DATE:		19990210
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XILINX INC
+		CENTRAL INDEX KEY:			0000743988
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770188631
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-18548
+		FILM NUMBER:		99527760
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2100 LOGIC DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95124
+		BUSINESS PHONE:		4085597778
+
+	MAIL ADDRESS:	
+		STREET 1:		2100 LOGIC DRIVE
+		STREET 2:		2100 LOGIC DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95124
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<TEXT>
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C.  20549
+
+
+                                    FORM 10-Q
+
+
+
+(Mark  One)
+[  X  ]  Quarterly  report  pursuant  to  Section  13 or 15(d) of the Securities
+Exchange  Act  of  1934  for  the  quarterly  period  ended January 2, 1999   or
+                                                            ---------------
+[     ]  Transition  report  pursuant  to  section 13 or 15(d) of the Securities
+Exchange  Act  of  1934  for  the  transition  period  from _______ to _______ .
+
+
+                        COMMISSION FILE NUMBER   0-18548
+
+                                  XILINX, INC.
+             (Exact name of registrant as specified in its charter)
+
+                                    DELAWARE
+          (State or other jurisdiction of incorporation or organization)
+
+                                   77-0188631
+                      (I.R.S. Employer Identification No.)
+
+                      2100 LOGIC DRIVE, SAN JOSE, CA 95124
+              (Address of principal executive offices)   (Zip Code)
+
+                                 (408) 559-7778
+              (Registrant's telephone number, including area code)
+
+
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding  12  months  (or  for such shorter period that the registrant was
+required  to  file  such reports), and (2) has been subject to such requirements
+for  the  past  90  days.
+                         YES  [  X  ]        NO  [    ]
+
+
+
+
+
+
+Class                                 Shares  Outstanding  at  January  2,  1999
+- -----                                 ------------------------------------------
+
+Common  Stock,  $.01  par  value                   144,569,000   (1)
+
+(1)  Restated  for  stock  split - See Note 9 of Notes to Consolidated Condensed
+     Financial  Statements.
+
+
+<PAGE>
+PART  I.     FINANCIAL  INFORMATION
+
+Item  1.     Financial  Statements
+
+<TABLE>
+<CAPTION>
+
+
+                                        XILINX, INC.
+                        CONSOLIDATED CONDENSED STATEMENTS OF INCOME
+                          (in thousands except per share amounts)
+
+
+                                                Three Months Ended      Nine Months Ended
+                                                Jan. 2,    Dec. 27,    Jan. 2,    Dec. 27,
+                                                 1999        1997       1999        1997 
+                                               ---------  ----------  ---------  ----------
+<S>                                            <C>        <C>         <C>        <C>
+Net revenues. . . . . . . . . . . . . . . . .  $167,357   $ 148,735   $475,403   $ 459,768 
+
+Costs and expenses:
+     Cost of revenues . . . . . . . . . . . .    65,962      55,668    181,599     172,622 
+     Research and development . . . . . . . .    23,036      19,536     66,399      59,424 
+     Sales, general and administrative. . . .    33,858      32,460     97,739      96,352 
+                                               ---------  ----------  ---------  ----------
+
+          Operating costs and expenses. . . .   122,856     107,664    345,737     328,398 
+                                               ---------  ----------  ---------  ----------
+
+Operating income. . . . . . . . . . . . . . .    44,501      41,071    129,666     131,370 
+
+Interest income and other . . . . . . . . . .     5,326       4,425     13,963      15,514 
+Interest expense. . . . . . . . . . . . . . .    (3,473)     (3,487)   (10,530)    (10,474)
+                                               ---------  ----------  ---------  ----------
+
+Income before provision for taxes on income
+  and equity in joint venture . . . . . . . .    46,354      42,009    133,099     136,410 
+
+Provision for taxes on income . . . . . . . .    11,708      13,023     38,599      43,030 
+                                               ---------  ----------  ---------  ----------
+
+Income before equity in joint venture . . . .    34,646      28,986     94,500      93,380 
+
+Equity in net income (loss) of joint venture.      (727)      2,614     (5,721)      2,614 
+                                               ---------  ----------  ---------  ----------
+
+Net income. . . . . . . . . . . . . . . . . .  $ 33,919   $  31,600   $ 88,779   $  95,994 
+                                               =========  ==========  =========  ==========
+
+Net income per share:
+      Basic . . . . . . . . . . . . . . . . .  $   0.24   $    0.21   $   0.61   $    0.65 
+                                               =========  ==========  =========  ==========
+      Diluted . . . . . . . . . . . . . . . .  $   0.22   $    0.20   $   0.59   $    0.60 
+                                               =========  ==========  =========  ==========
+
+Shares used in per share calculations:  (1)
+     Basic. . . . . . . . . . . . . . . . . .   143,820     148,392    144,443     147,742 
+                                               =========  ==========  =========  ==========
+     Diluted. . . . . . . . . . . . . . . . .   151,163     158,496    151,533     161,326 
+                                               =========  ==========  =========  ==========
+<FN>
+(1)  Restated  for  stock  split  - See Note 9 of Notes to Consolidated Condensed Financial
+Statements.
+</TABLE>
+
+    (See accompanying Notes to Consolidated Condensed Financial Statements.)
+
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                         XILINX, INC.
+                            CONSOLIDATED CONDENSED BALANCE SHEETS
+                           (in thousands except per share amounts)
+
+
+
+                                                                       Jan. 2,     March 28,
+                                                                        1999         1998
+                                                                     -----------  -----------
+<S>                                                                  <C>          <C>
+ASSETS
+
+Current assets:
+    Cash and cash equivalents . . . . . . . . . . . . . . . . . . .  $  111,683   $  166,861 
+    Short-term investments. . . . . . . . . . . . . . . . . . . . .     224,040      195,326 
+    Accounts receivable, net. . . . . . . . . . . . . . . . . . . .      80,735       60,912 
+    Inventories . . . . . . . . . . . . . . . . . . . . . . . . . .      48,704       55,289 
+    Advances for wafer purchases. . . . . . . . . . . . . . . . . .      46,443       72,267 
+    Deferred income taxes and other current assets. . . . . . . . .      64,215       49,569 
+                                                                     -----------  -----------
+
+Total current assets. . . . . . . . . . . . . . . . . . . . . . . .     575,820      600,224 
+
+Property, plant and equipment, at cost. . . . . . . . . . . . . . .     183,795      163,632 
+Accumulated depreciation and amortization . . . . . . . . . . . . .     (88,363)     (75,356)
+                                                                     -----------  -----------
+    Net property, plant and equipment . . . . . . . . . . . . . . .      95,432       88,276 
+
+Long-term investments . . . . . . . . . . . . . . . . . . . . . . .     128,468       42,126 
+Investment in joint venture . . . . . . . . . . . . . . . . . . . .      92,300       90,872 
+Advances for wafer purchases. . . . . . . . . . . . . . . . . . . .      64,206       77,342 
+Deposits and other assets . . . . . . . . . . . . . . . . . . . . .      44,398       42,398 
+                                                                     -----------  -----------
+
+                                                                     $1,000,624   $  941,238 
+                                                                     ===========  ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+    Accounts payable. . . . . . . . . . . . . . . . . . . . . . . .  $   19,010   $   20,332 
+    Accrued payroll, interest payable and other accrued liabilities      28,152       32,735 
+    Income taxes payable. . . . . . . . . . . . . . . . . . . . . .      23,573       16,692 
+    Deferred income on shipments to distributors. . . . . . . . . .      68,061       55,898 
+                                                                     -----------  -----------
+
+Total current liabilities . . . . . . . . . . . . . . . . . . . . .     138,796      125,657 
+
+Long-term debt. . . . . . . . . . . . . . . . . . . . . . . . . . .     250,000      250,000 
+Deferred tax liabilities. . . . . . . . . . . . . . . . . . . . . .      24,009       15,406 
+
+Stockholders' equity:
+    Preferred stock, $.01 par value . . . . . . . . . . . . . . . .           -            - 
+    Common stock, $.01 par value. . . . . . . . . . . . . . . . . .       1,446        1,458 
+    Additional paid-in capital. . . . . . . . . . . . . . . . . . .      88,843      118,443 
+    Retained earnings . . . . . . . . . . . . . . . . . . . . . . .     593,247      504,468 
+    Treasury stock, at cost . . . . . . . . . . . . . . . . . . . .     (80,222)     (56,973)
+    Cumulative translation adjustment . . . . . . . . . . . . . . .     (15,495)     (17,221)
+                                                                     -----------  -----------
+
+                Total stockholders' equity. . . . . . . . . . . . .     587,819      550,175 
+                                                                     -----------  -----------
+
+                                                                     $1,000,624   $  941,238 
+                                                                     ===========  ===========
+</TABLE>
+
+    (See accompanying Notes to Consolidated Condensed Financial Statements.)
+
+<PAGE>
+<TABLE>
+<CAPTION>
+                                                    XILINX, INC.
+                                   CONSOLIDATED CONDENSED STATEMENT OF CASH FLOWS
+                                  Increase (decrease) in cash and cash equivalents
+                                                   (in thousands)
+
+                                                                                              Nine  Months  Ended
+                                                                                              Jan. 2,     Dec. 27,
+                                                                                                1999        1997
+                                                                                             ---------   ---------
+<S>                                                                                          <C>         <C>
+Cash flows from operating activities:
+    Net income. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  $  88,779   $  95,994 
+    Adjustments to reconcile net income to net cash provided by operating
+       activities:
+               Depreciation and amortization. . . . . . . . . . . . . . . . . . . . . . . .     24,643      24,822 
+               Undistributed loss/(earnings) of joint venture . . . . . . . . . . . . . . .      5,721      (3,642)
+               Changes in assets and liabilities:
+                       Accounts receivable. . . . . . . . . . . . . . . . . . . . . . . . .    (19,823)      8,446 
+                       Inventories, excluding receipts against advances for wafer purchases     45,545       7,762 
+                       Deferred income taxes and other. . . . . . . . . . . . . . . . . . .     (7,507)      8,114 
+                       Accounts payable, accrued liabilities and income taxes payable . . .     16,671      11,222 
+                       Deferred income on shipments to distributors . . . . . . . . . . . .     12,163      12,889 
+                                                                                             ----------  ----------
+                               Total adjustments. . . . . . . . . . . . . . . . . . . . . .     77,413      69,613 
+                                                                                             ----------  ----------
+                                    Net cash provided by operating activities . . . . . . .    166,192     165,607 
+
+Cash flows from investing activities:
+    Purchases of available-for-sale investments . . . . . . . . . . . . . . . . . . . . . .   (671,399)   (281,860)
+    Proceeds from sale or maturity of available-for-sale investments. . . . . . . . . . . .    514,906     318,241 
+    Purchases of held-to-maturity investments . . . . . . . . . . . . . . . . . . . . . . .    (36,228)    (36,136)
+    Proceeds from sale or maturity of held-to-maturity investments. . . . . . . . . . . . .     72,347      35,648 
+    Advances for wafer purchases. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          -     (60,000)
+    Property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    (28,405)    (17,947)
+    Investment in joint venture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     (5,448)    (67,422)
+    Deposit on building . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          -     (28,351)
+                                                                                             ----------  ----------
+                                     Net cash used in investing activities. . . . . . . . .   (154,227)   (137,827)
+
+Cash flows from financing activities:
+    Acquisition of treasury stock . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   (108,634)    (22,682)
+    Proceeds from issuance of common stock. . . . . . . . . . . . . . . . . . . . . . . . .     41,491      23,078 
+                                                                                             ----------  ----------
+                                     Net cash (used)/provided by financing activities . . .    (67,143)        396 
+                                                                                             ----------  ----------
+Net decrease in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . .    (55,178)     28,176 
+
+Cash and cash equivalents at beginning of period. . . . . . . . . . . . . . . . . . . . . .    166,861     215,903 
+                                                                                             ----------  ----------
+
+Cash and cash equivalents at end of period. . . . . . . . . . . . . . . . . . . . . . . . .  $ 111,683   $ 244,079 
+                                                                                             ==========  ==========
+
+Schedule of non-cash transactions:
+    Tax benefit from stock options. . . . . . . . . . . . . . . . . . . . . . . . . . . . .  $  14,124   $  12,723 
+    Issuance of treasury stock under employee stock plans . . . . . . . . . . . . . . . . .     85,385      20,475 
+    Receipts against advances for wafer purchases . . . . . . . . . . . . . . . . . . . . .     38,960           - 
+
+Supplemental disclosures of cash flow information:
+    Interest paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     12,991      13,195 
+    Income taxes paid . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  $  15,568   $  26,489 
+</TABLE>
+
+    (See accompanying Notes to Consolidated Condensed Financial Statements.)
+
+<PAGE>
+
+                                  XILINX, INC.
+              NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS
+
+
+1.   The  accompanying  interim  consolidated  financial  statements  have  been
+     prepared in conformity with generally  accepted  accounting  principles and
+     should be read in conjunction with the Xilinx, Inc. (Xilinx or the Company)
+     consolidated financial statements for the fiscal year ended March 28, 1998.
+     The balance  sheet at March 28, 1998 is derived from the audited  financial
+     statements.  The interim financial statements are unaudited but reflect all
+     adjustments which are, in the opinion of management, of a normal, recurring
+     nature  necessary to present fairly the  statements of financial  position,
+     results of operations and cash flows for the interim periods presented. The
+     results  for  the  three-month   period  ended  January  2,  1999  are  not
+     necessarily  indicative  of the results that may be expected for the fiscal
+     year ending April 3, 1999, the Saturday  nearest March 31. The  three-month
+     and  nine-month  periods  ended  January 2, 1999  consisted of thirteen and
+     forty weeks,  respectively.  The three-month  and nine-month  periods ended
+     December   27,  1997   consisted  of  thirteen   and   thirty-nine   weeks,
+     respectively.
+
+2.   Inventories are stated at the lower of cost (first-in, first-out) or market
+     (estimated net realizable value).  Inventories at January 2, 1999 and March
+     28, 1998 are as follows:
+
+      <TABLE>
+      <CAPTION>
+      (in thousands)      Jan. 2,   March 28,
+                           1999       1998
+                        --------  ----------
+      <S>               <C>       <C>
+      Raw materials. .  $  3,113  $    5,976
+      Work-in-process.    24,994      24,845
+      Finished goods .    20,597      24,468
+                        --------  ----------
+                        $ 48,704  $   55,289
+                        ========  ==========
+      </TABLE>
+
+3.   The  computation  of basic net income per share for all years  presented is
+     derived from the information on the face of the income statement, and there
+     are  no  reconciling   items  in  either  the  numerator  or   denominator.
+     Additionally,  there  are no  reconciling  items in the  numerator  used to
+     compute  diluted  net  income  per  share.  The  total  shares  used in the
+     denominator  of the diluted net income per share  calculation  includes 7.3
+     million  and  7.1  million   incremental  common  shares   attributable  to
+     outstanding  options for the third  quarter and first nine months of fiscal
+     year 1999,  respectively,  as compared to 10.1  million and 13.6 million in
+     the comparable fiscal 1998 periods, respectively.
+
+     The shares  issuable  upon  conversion  of  long-term  debt to equity  (the
+     Convertible Subordinated Notes), approximately 9.8 million shares, were not
+     included  in the  calculation  of  diluted  net  income  per share as their
+     inclusion would have had an anti-dilutive effect for all periods presented.
+     In addition,  outstanding options to purchase approximately 1.5 million and
+     6.4  million  shares for the third  quarter and first nine months of fiscal
+     year 1999,  respectively,  and 6.8 million  and 3.0  million  shares in the
+     comparable  fiscal 1998 periods,  respectively,  under the Company's  Stock
+     Option Plan were not included in the treasury  stock  calculation to derive
+     diluted income per share as their inclusion would have had an anti-dilutive
+     effect.
+
+4.   The Company adopted the Statement of Financial Accounting Standards No. 130
+     (FASB 130), "Reporting Comprehensive Income" in the first quarter of fiscal
+     1999.  FASB 130  established  standards for the reporting and disclosure of
+     comprehensive  income and its  components;  however,  the disclosure has no
+     impact on the  Company's  consolidated  results  of  operations,  financial
+     position  or cash flows.  Comprehensive  income is defined as the change in
+     equity of a company during a period resulting from certain transactions and
+     other  events and  circumstances,  excluding  transactions  resulting  from
+     investments by owners and distributions to owners.  The difference  between
+     net income and  comprehensive  income for Xilinx is from  foreign  currency
+     translation  adjustments  and  unrealized  gains or losses on the Company's
+     available-for-sale securities.
+
+
+<PAGE>
+     The components of comprehensive income for the three and nine month periods
+     ended January 2, 1999 and December 27, 1997 are as follows:
+
+     <TABLE>
+     <CAPTION>
+                                                          Three months ended    Nine months ended
+     (in thousands)                                      Jan. 2,    Dec. 27,   Jan. 2,    Dec. 27,
+                                                           1999       1997       1999       1997
+                                                         --------  ----------  --------  ----------
+     <S>                                                 <C>       <C>         <C>       <C>
+     Net Income . . . . . . . . . . . . . . . . . . . .  $ 33,919  $  31,600   $ 88,779  $  95,994 
+     Cumulative translation adjustment. . . . . . . . .     6,221    (11,878)     1,726    (15,488)
+     Unrealized gain on available for sale securities,
+     net of tax . . . . . . . . . . . . . . . . . . . .       139        (24)       159        (49)
+                                                         --------  ----------  --------  ----------
+     Comprehensive Income . . . . . . . . . . . . . . .  $ 40,279  $  19,698   $ 90,664  $  80,457 
+                                                         ========  ==========  ========  ==========
+     </TABLE>
+
+5.   The Company is currently involved in various legal  proceedings,  (see Part
+     II,  Item  1,  Legal  Proceedings).   The  legal  proceedings  with  Altera
+     Corporation and Joseph Ward are of an uncertain nature and the lawsuits are
+     still in the  pre-discovery  or  pre-trial  stage,  therefore  the ultimate
+     outcome of these  matters  cannot be  determined  at this time.  Management
+     believes  that it has  meritorious  defenses to each claim and is defending
+     them vigorously.  The foregoing is a  forward-looking  statement subject to
+     risks and  uncertainties,  and the  ultimate  outcome of this matter  could
+     differ  materially  due to the  uncertain  nature  of  the  litigation.  In
+     addition, on July 31, 1998, the Lemelson Foundation  Partnership (Lemelson)
+     filed a lawsuit in the United  States  District  Court in Phoenix,  Arizona
+     against the Company and twenty-five (25) other United States  semiconductor
+     companies  for  infringement  of certain of its  patents.  During the third
+     quarter  ending  January  2,  1999,  the  Company  entered  into a  license
+     agreement with Lemelson. In response, Lemelson dismissed with prejudice all
+     claims against the Company.  The Company  believes the settlement  does not
+     have a  material  adverse  effect on the  financial  statements  taken as a
+     whole.
+
+6.   The Company,  United  Microelectronics  Corporation (UMC) and other parties
+     have entered into a joint venture to construct a wafer fabrication facility
+     in Taiwan,  known as United Silicon Inc. (USIC).  During the second quarter
+     of fiscal 1999, the Company invested  additional  equity of $5.4 million in
+     USIC.  However,  as other parties increased their equity in USIC during the
+     most recent investment,  the Company decreased its equity ownership to 20%.
+     The Company will still receive up to 31.25% of the wafers  produced in this
+     facility.
+
+7.   During the second quarter of fiscal 1999, the Company's  Board of Directors
+     authorized  another stock repurchase program whereby up to 6,000,000 shares
+     of its common  stock may be  purchased in the open market from time to time
+     as market and  business  conditions  warrant.  The  Company has used shares
+     repurchased from this program and all previous stock repurchase programs to
+     meet the stock  requirements  of the  Company's  Stock  Option and Employee
+     Qualified Stock Purchase  plans.  During the quarter ended January 2, 1999,
+     the Company  repurchased a total of 194,000 shares of common stock for $3.2
+     million,  and reissued  1,741,000 shares during the period for Stock Option
+     exercises and Stock Purchase Plan requirements.  As of January 2, 1999, the
+     Company was holding approximately 4.2 million shares of treasury stock.
+
+8.   Subsequent  to the end of the third  quarter,  the  Company  announced  its
+     intention  to redeem in full the  Company's  5 %  Convertible  Subordinated
+     Notes due 2002  (Notes).  On February 8, 1999,  one hundred  percent of the
+     $250 million  principle  amount of the Notes was converted  into a total of
+     9.8 million shares of common stock at a price of $25.50 per share.
+
+9.   On January 18, 1999 the  Company's  Board of  Directors  approved a 2 for 1
+     split of the Company's Common Stock,  which will be effected in the form of
+     a 100%  stock  dividend.  On March 11,  1999  shareholders  of record as of
+     February  18, 1999 will  receive one  additional  share of Common Stock for
+     every share currently held. Shares, per share amounts,  common stock at par
+     value,  and  additional  paid-in  capital have been restated to reflect the
+     stock split for all periods presented.
+
+
+<PAGE>
+Item  2.     Management's  Discussion  and  Analysis  of Financial Condition and
+Results  of  Operations
+
+
+The  following  discussion  contains  forward-looking  statements, which involve
+numerous  risks  and  uncertainties.  Actual  results  may  differ  materially.
+Certain  of these risks and uncertainties are discussed under "Factors Affecting
+Future  Operating  Results".
+
+RESULTS  OF  OPERATIONS:  THIRD  QUARTER  AND  FIRST  NINE MONTHS OF FISCAL 1999
+- --------------------------------------------------------------------------------
+COMPARED  TO  THE  THIRD  QUARTER  AND  FIRST  NINE  MONTHS  OF  FISCAL  1998
+- -----------------------------------------------------------------------------
+
+REVENUES
+
+Revenues  of  $167.4  million  in the third quarter of fiscal 1999 represented a
+12.5%  increase  from  the  comparable  prior  year  quarter.  The  increase was
+primarily attributable to the revenue growth of the Company's XC4000EX, XC4000XL
+and  XC9500  product  lines.  The  increase  was  partially  offset by decreased
+revenues  relating  to  the Company's mature XC4000 family as well as the XC3000
+family.  Revenues  for the first nine months of fiscal 1999 were $475.4 million,
+a  3.4%  increase  from the $459.8 million achieved in the prior year comparable
+period.  Despite  the  revenue growth in the third quarter and first nine months
+of  fiscal  1999,  revenues  continue  to  be  impacted  by  the  Asian economic
+environment.  The Company believes that this factor, as well as others described
+in  "Factors  Affecting  Future  Operating  Results,"  could  continue to impact
+revenues  in  the  near  term.
+
+The  Company  currently  classifies  its product offerings into four categories.
+The  Base  products  consist  of  the Company's mature product families that are
+currently  manufactured on technology greater than 0.5 micron; this includes the
+XC2000,  XC3000, XC3100, XC4000 and XC7000 families.  Revenues for Base products
+represented  21.8%  of  total  revenues  in the third quarter of fiscal 1999, as
+compared  to 40.6% in the third quarter of fiscal 1998.  Mainstream products are
+currently  manufactured  on  0.5  micron  technology  and  include  the XC4000E,
+XC4000EX,  XC5200  and  XC9500  product  lines.  Mainstream products represented
+41.2%  of  total revenues in the third quarter of fiscal 1999 and 39.6% of total
+revenues  in  the  prior  year  third  quarter.  Advanced  products  include the
+Company's  newest  technologies  manufactured  on 0.35 micron and smaller, which
+include  the  XC4000XL,  XC4000XV,  Virtex  and Spartan product lines.  Advanced
+products  represented  25.7%  and 7.8% of total revenues in the third quarter of
+fiscal  1999  and  1998,  respectively.  The  revenue  increase for the Advanced
+products  was  driven  primarily from the XC4000XL and Spartan product families.
+The  Company's  Support  products make up the remainder of its product offerings
+and  include  serial  proms,  HardWire,  High Reliability and software.  Support
+products  represented  11.3% and 12.0% of total revenues in the third quarter of
+fiscal  1999  and 1998, respectively.  The Company has historically been able to
+offset  much  of  the revenue declines of its mature technologies with increased
+revenues  from  newer  technologies, although no assurance can be given that the
+Company  will  continue  to  do  so  in  the  future.
+
+International  revenues  represented  approximately 29% of total revenues in the
+third  quarter  of  fiscal  year  1999 in comparison to approximately 38% in the
+prior  year  quarter.  International  revenues  are  derived  from  customers in
+Europe,  Japan  and  Asia  Pacific/Rest of World which represented approximately
+20%,  5%  and 4% of the Company's worldwide revenues, respectively, in the third
+quarter of fiscal 1999 as compared to approximately 22%, 10% and 6% of worldwide
+revenues,  respectively,  in  the third quarter of the prior fiscal year.  Japan
+and Asia Pacific/Rest of World experienced revenue declines in the third quarter
+of  fiscal 1999 as compared to the same quarter a year ago primarily as a result
+of  the  weaker  economic  environment  in  those  regions.
+
+GROSS  MARGIN
+
+Gross  margin  was  $101.4  million,  or 60.6% of revenues and $293.8 million or
+61.8%  of  revenues  for the third quarter and first nine months of fiscal 1999,
+respectively.  Gross margin for the comparable periods of fiscal 1998 were $93.1
+million,  or  62.6%  of  revenues,  and  $287.1  million,  or 62.5% of revenues,
+respectively.  The decline in the third quarter gross margin percentage from the
+prior  year  three  and  nine  month  periods  was  primarily  a  result  of  a
+non-recurring  royalty  payment  made  pursuant  to  the  license agreement with
+Lemelson.  See  Note  5 of Notes To Consolidated Condensed Financial Statements.
+During  the  third quarter of fiscal 1999, the Company continued to experience a
+favorable  impact  of  lower  wafer  prices  from wafer suppliers, manufacturing
+process  technology  improvements,  and  improved  yields  that offset continued
+selling  price reductions.  The Company recognizes that ongoing price reductions
+for  its  integrated  circuits are a significant element in expanding the market
+for  its products. Management believes that gross margin objectives in the range
+of  60%  to  62%  of  revenues  are consistent with expanding market share while
+realizing  acceptable  returns,  although  there can be no assurance that future
+gross  margins  can  remain  in  this  range.
+
+<PAGE>
+RESEARCH  AND  DEVELOPMENT
+
+Research  and  development expenditures were $23.0 million for the third quarter
+and  $66.4  million for the first nine months of fiscal 1999, or 13.8% and 14.0%
+of  revenues,  respectively.   Research  and  development  expenditures  for the
+comparable  periods  in  the prior year were $19.5 million and $59.4 million, or
+13.1%  and  12.9%  of revenues, respectively.  The increase in expenditures over
+the  prior  year  periods  was  primarily  attributable  to  the increased costs
+associated  with  designing and developing new product architectures of complex,
+high  density  devices including wafer purchases, increased labor-related costs,
+and  testing of new products.  Specifically, additional costs are being incurred
+in  connection  with  the  Company's  development  of  its  Virtex  and XC4000XV
+technologies  and the related design software.  The Company remains committed to
+a  significant  level of research and development effort in order to continue to
+maintain  its  technology  leadership  in  the  programmable  logic marketplace.
+
+SALES,  GENERAL  AND  ADMINISTRATIVE
+
+Sales,  general and administrative expenses decreased as a percent of revenue to
+20.2%  and  20.6%  for the third quarter and first nine months of fiscal 1999 as
+compared to 21.8% and 21.0% for the comparable prior year periods, respectively.
+Sales,  general  and  administrative  expenses  were  $33.9 million in the third
+quarter  of  fiscal 1999 as compared to $32.5 million incurred in the comparable
+prior  year  quarter,  an increase of 4.3%, and were $97.7 million for the first
+nine months of fiscal 1999 as compared to $96.4 million in the same periods from
+the  prior  fiscal  year, representing an increase of 1.4%.  The increase in the
+third  quarter  expenses  was  primarily  attributable  to  increased  marketing
+expenses  for  new  product introductions, increased sales commissions on higher
+revenues  from  US  distributors  along  with increased labor-related costs. The
+Company  remains committed to controlling administrative expenses.  However, the
+timing  and extent of future legal costs associated with the ongoing enforcement
+of  the  Company's  intellectual property rights are not readily predictable and
+may  significantly  increase  the  level  of  sales,  general and administrative
+expenses  in  the  future.
+
+OPERATING  INCOME
+
+Operating income of $44.5 million and $129.7 million represented 26.6% and 27.3%
+of  revenues  in  the  third  quarter  and the first nine months of fiscal 1999,
+respectively,  as  compared  to  $41.1  million and $131.4 million, or 27.6% and
+28.6%  of  revenues,  respectively,  from  the  comparable  prior  year periods.
+Operating  income  could  be  adversely  impacted in future years by the factors
+discussed throughout this report, particularly those noted in "Factors Affecting
+Future  Operating  Results".
+
+INTEREST  AND  OTHER,  NET
+
+Interest  and  other  income for the third quarter of fiscal 1999 increased $0.9
+million from the amount in the third quarter of fiscal 1998 primarily due to net
+foreign  exchange  gains.  Interest  and other income decreased $1.6 million for
+the  first  nine  months  of  the  current  fiscal  year  over  the prior years'
+comparable  period  primarily due to separate disclosure of joint venture equity
+income beginning in the third quarter of fiscal 1998.  In addition, average cash
+and  investment balances have decreased in both the third quarter and first nine
+months  of  fiscal 1999 as compared to the prior year periods resulting in lower
+interest  and  other income.  The amount of net interest and other income in the
+future  will  continue to be impacted by the level of the Company's average cash
+and  investment  balance, the remaining period of time that the Convertible debt
+remains  outstanding,  (see  Note 8 of Notes To Consolidated Condensed Financial
+Statements),  prevailing  interest  rates  and  foreign currency exchange rates.
+
+PROVISION  FOR  INCOME  TAXES
+
+The  company  recorded a tax provision of $11.7 million for the third quarter of
+fiscal  1999  as  compared  to  $13.0  million  in  the  same prior year period,
+representing  effective  tax  rates  of  25.3% and 31.0%, respectively.  For the
+first  nine  months  of  fiscal  1999, the Company recorded a provision of $38.6
+million  as  compared to $43.0 million for the first nine months of fiscal 1998,
+representing  effective  tax  rates of 29.0% and 31.5%, respectively.  The lower
+tax  rate is primarily due to legislation reinstating the R&D Tax Credit through
+June  30,  1999 as well as increased profits in foreign operations where the tax
+rate  is  lower  than  the  US  rate.
+
+<PAGE>
+JOINT  VENTURE  EQUITY  INCOME
+
+The  Company  records  its  proportional  ownership  of the net income (loss) of
+United Silicon Inc. (USIC), a wafer fabrication joint venture located in Taiwan,
+as  joint  venture  equity income (loss).  The Company recorded $0.7 million and
+$5.7  million  net  losses  for  the  third quarter and the first nine months of
+fiscal 1999, respectively, as compared to equity income of $2.6 million for both
+the  third  quarter and the first nine months of fiscal 1998.  The net income in
+fiscal  1998  was  primarily  attributable to foreign exchange gains incurred on
+USIC's  dollar denominated investments.  The fiscal 1999 net losses are a result
+of  the continued ramp in production of the wafer fabrication facility.  Many of
+the expenses associated with full foundry operations are being incurred although
+the  facility  has  not  reached  full  production, and the Company expects that
+profitability  of  the  joint  venture  will  occur,  if  at  all,  only after a
+sufficient  volume  of  wafer  production  and  shipments  are  obtained.
+
+HEDGING
+
+Through  fiscal  year  1998, the Company's purchases of processed silicon wafers
+from Japanese suppliers were denominated in yen.  Beginning in fiscal 1999, most
+wafers  purchased  from  Japanese suppliers have been denominated in US dollars.
+The  Company  continues to invoice Japanese customers in yen, resulting in a net
+yen  exposure.  The  Company is currently using hedging instruments to limit its
+net yen related exposure.  The use of hedging instruments has not had a material
+impact  on the Company's results of operations during fiscal 1999.  In addition,
+the  Company  does not expect that hedging instruments outstanding as of January
+2,  1999,  will  have  a  material  impact  on  the  Company's future results of
+operations,  although  there  can  be  no  assurance  of  this.
+
+INFLATION
+
+To  date, the effects of inflation upon the Company's financial results have not
+been  significant.
+
+
+FINANCIAL  CONDITION,  LIQUIDITY  AND  CAPITAL  RESOURCES
+- ---------------------------------------------------------
+
+The  Company's  financial  condition  at January 2, 1999 remained strong.  Total
+current  assets exceeded total current liabilities by 4.1 times, compared to 4.8
+times  at  March  28,  1998.  Since  its  inception,  the  Company  has  used  a
+combination  of  equity  and  debt  financing  and  cash flow from operations to
+support  on-going business activities, fund acquisitions and make investments in
+complementary  technologies, obtain facilities and capital equipment and finance
+inventory  and  accounts  receivable.
+
+The Company continued to generate positive cash flows from operations during the
+first  nine months of fiscal 1999.  As of January 2, 1999, the Company had cash,
+cash  equivalents  and  short-term  investments  of  $335.7  million and working
+capital  of  $437.0 million.  Cash generated by operations of $166.2 million for
+the  first  nine  months  of  fiscal 1999 was consistent with the $165.6 million
+generated  from  the  first  nine  months  of  fiscal  1998.  Increases  in cash
+generated  by  operations  resulted  primarily  from a decrease in cash spent on
+inventory  as  inventory  receipts  continue to be received against advances for
+wafer  purchases  and  were  offset  by  the  cash flow impact of an increase in
+accounts  receivable  and  an  increase in deferred income taxes and other.  The
+$19.8  million,  or 32.5% increase in accounts receivable was primarily a result
+of  the  Company's  continued  efforts  to  move domestic distributors to longer
+payment  terms  in  exchange for elimination of prompt payment discounts.  As of
+January  2,  1999, two domestic distributors had switched over to the new terms.
+
+Cash flows used for investing activities during the nine months ended January 2,
+1999,  included  net  investment  purchases of $120.4 million, $28.4 million for
+property,  plant and equipment, and an additional $5.4 million equity investment
+in  the  USIC  joint  venture.  During  the  first  nine  months of fiscal 1998,
+investing  activities included an equity investment of $67.4 million in the USIC
+joint  venture,  a $60.0 million advance to Seiko Epson for wafer purchases, and
+$17.9  million  of  property,  plant  and  equipment  acquisitions  along with a
+building  deposit  of  $28.4  million,  which  were  partially offset by the net
+maturities  of  $35.9  million  in  short-term  investments.
+
+Net cash flows used by financing activities were $67.1 million in the first nine
+months of fiscal 1999, as the acquisition of treasury stock during the period of
+$108.6  million was only partially offset by proceeds received from the issuance
+of common stock under employee stock plans of $41.5 million.  For the comparable
+fiscal 1998 period, financing activities included $23.1 million in proceeds from
+employee  stock plans, which were almost completely offset by the acquisition of
+treasury  stock  during  the  period  of  $22.7  million.
+
+<PAGE>
+Stockholders'  equity  increased by $37.6 million during the first nine month of
+fiscal  1999, principally as a result of the $88.8 million in net income for the
+nine  months ended January 2, 1999.  In addition, the proceeds from the issuance
+of  common  stock  under  employee  stock plans of $41.5 million and related tax
+benefits  from stock options of $14.1 million contributed to the increase, which
+was partially offset by the $108.6 million of activity under the Company's stock
+buyback  programs whereby approximately 5.5 million shares were purchased during
+the  nine  months  ended  January  2,  1999.
+
+The  Company  has  available  credit  line facilities for up to $46.2 million of
+which  $6.2  million is intended to meet occasional working capital requirements
+for  the  Company's  wholly  owned  Irish  subsidiary.  At  January  2, 1999, no
+borrowings  were  outstanding  under  the  lines  of  credit.
+
+The  Company  anticipates  that existing sources of liquidity and cash flow from
+operations  will  be  sufficient  to  satisfy  the  Company's cash needs for the
+foreseeable  future.  The  Company  will  continue  to evaluate opportunities to
+obtain  additional  wafer  capacity,  procure  additional  capital equipment and
+facilities,  develop  new  products,  and  acquire  businesses,  products  or
+technologies  that  would  complement  the  Company's  businesses  and  may  use
+available  cash  or  other  sources  of  funding  for  such  purposes.
+
+FACTORS  AFFECTING  FUTURE  OPERATING  RESULTS
+- ----------------------------------------------
+
+The  semiconductor  industry  is  characterized  by  rapid technological change,
+intense  competitive  pressure  and  cyclical  market  patterns characterized by
+diminished product demand, limited visibility of demand for products further out
+than  three  to  nine  months, accelerated erosion of average selling prices and
+overcapacity.  The  Company's  results  of  operations  are  affected  by a wide
+variety  of  factors, including general economic conditions, conditions relating
+to  technology  companies,  conditions  specific  to the semiconductor industry,
+decreases in average selling prices over the life of any particular product, the
+timing  of  new  product  introductions  (by  the  Company,  its competitors and
+others),  the ability to manufacture sufficient quantities of a given product in
+a  timely  manner,  the timely implementation of new manufacturing technologies,
+the ability to safeguard patents and intellectual property from competitors, and
+the  impact of new technologies resulting in rapid escalation of demand for some
+products  in  the  face  of  equally steep decline in demand for others.  Market
+demand  for  the  Company's  products,  particularly  for  those  most  recently
+introduced,  can  be  difficult  to  predict,  especially in light of customers'
+demands  to  shorten  product  lead  times  and  minimize  inventory  levels.
+Unpredictable market demand could lead to revenue volatility if the Company were
+unable  to  provide  sufficient  quantities  of  specified  products  in a given
+quarter.  In  addition,  any  difficulty  in achieving targeted wafer production
+yields  could  adversely impact the Company's financial condition and results of
+operations.  The  Company  attempts  to identify changes in market conditions as
+soon  as  possible;  however,  the dynamics of the market make prediction of and
+timely  reaction  to  such  events  difficult.  Due  to  the foregoing and other
+factors,  past  results, including those described in this report, are much less
+reliable  predictors  of  the future than is the case in many older, more stable
+and less dynamic industries.  Based on the factors noted herein, the Company may
+experience  substantial  period-to-period  fluctuations  in  future  operating
+results.
+
+The  Company's  future success depends in large part on the continued service of
+its  key technical, sales, marketing and management personnel and on its ability
+to  continue  to attract and retain qualified employees.  Particularly important
+are  those  highly skilled design, process, software and test engineers involved
+in  the manufacture of existing products and the development of new products and
+processes.  The  competition  for such personnel is intense, and the loss of key
+employees  could  have  a  material  adverse  effect  on the Company's financial
+condition  and  results  of  operations.
+
+Sales  and  operations outside of the United States subject the Company to risks
+associated  with  conducting  business  in  foreign  economic  and  regulatory
+environments.  The Company's financial condition and results of operations could
+be  adversely  impacted by unfavorable economic conditions in countries in which
+it  does  significant business and by changes in foreign currency exchange rates
+affecting  those  countries.  Specifically, the Company has sales and operations
+in Asian markets, including Southeast Asia and Japan.  The recent instability in
+these  financial  markets  has  adversely  impacted revenues and may continue to
+adversely  impact  revenues  in those markets in several ways, including reduced
+access to sources of capital needed by customers to make purchases and increased
+exchange  rate differentials that may adversely effect the customer's ability to
+purchase  or  the Company's ability to sell at competitive prices.  In addition,
+the  instability  may  increase  credit risks as the recent weakening of certain
+Asian  currencies  may  impair customers' ability to repay existing obligations.
+Depending  on  the  situation  in  Asia  in coming quarters, any or all of these
+factors  could adversely impact the Company's financial condition and results of
+operations  in  the  near  future.
+
+<PAGE>
+Also,  the  Company's financial condition and results of operations are becoming
+increasingly  dependent  on  a  global  economy.  The  increased  instability in
+worldwide economic environments could lead to a contraction of capital spending.
+Additionally,  risks include government regulation of exports, tariffs and other
+potential trade barriers, reduced protection for intellectual property rights in
+some  countries,  and  generally  longer  receivable  collection  periods.  The
+Company's  business  is also subject to the risks associated with the imposition
+of  legislation and regulations relating specifically to the import or export of
+semiconductor  products.  The  Company  cannot  predict  whether quotas, duties,
+taxes  or  other charges or restrictions will be imposed by the United States or
+other countries upon the importation or exportation of the Company's products in
+the  future  or  what,  if  any, effect such actions would have on the Company's
+financial  condition  and  results  of  operations.
+
+In  order  to  expand  international sales and service, the Company will need to
+maintain  and  expand  existing  foreign  operations  or  establish  new foreign
+operations.  This  entails  hiring  additional  personnel  and  maintaining  or
+expanding  existing  relationships  with  international  distributors  and sales
+representatives.  This  will  require  significant  management  attention  and
+financial resources and could adversely affect the Company's financial condition
+and  results  of operations.  There can be no assurance that the Company will be
+successful  in  its  maintenance or expansion of existing foreign operations, in
+its  establishment  of  new  foreign operations or in its efforts to maintain or
+expand  its  relationships  with  international  distributors  or  sales
+representatives.
+
+Many  of the Company's operations are centered in an area of California that has
+been  seismically  active.  Should there be a major earthquake in this area, the
+Company's  operations may be disrupted resulting in the inability of the Company
+to manufacture or ship products in a timely manner, thereby materially adversely
+affecting  the  Company's  financial  condition  and  results  of  operations.
+
+In  addition, the securities of many high technology companies have historically
+been  subject  to  extreme  price  and  volume fluctuations, which may adversely
+affect  the  market  price  of  the  Company's  common  stock.
+
+DEPENDENCE  UPON  INDEPENDENT  MANUFACTURERS  AND  SUBCONTRACTORS
+
+The  Company  does not manufacture the wafers used for its products.  During the
+past several years, most of the Company's wafers have been manufactured by Seiko
+Epson  Corporation (Seiko Epson) and UMC with recent wafers also manufactured by
+USIC.  The  Company  has  depended  upon  these  suppliers and others to produce
+wafers with competitive performance and cost attributes, including transitioning
+to  advanced  manufacturing process technologies, producing wafers at acceptable
+yields,  and  delivering  them  to  the  Company  in a timely manner.  While the
+timeliness,  yield  and  quality  of  wafer  deliveries  have  met the Company's
+requirements  to  date,  there  can  be  no  assurance  that the Company's wafer
+suppliers will not experience future manufacturing problems, including delays in
+the  realization  of advanced manufacturing process technologies.  Additionally,
+disruption  of  operations  at these foundries for any reason, including natural
+disasters  such  as fires or earthquakes as well as disrupted access to adequate
+supplies of electricity, natural gas or water could cause delays in shipments of
+the  Company's  products,  and  could  have  a  material  adverse  effect on the
+Company's  results  of  operations.  The  Company  is  also  dependent  on
+subcontractors  to  provide  semiconductor  assembly  services.  Any  prolonged
+inability to obtain wafers or assembly services with competitive performance and
+cost  attributes,  adequate yields or timely deliveries from these manufacturers
+and  subcontractors, or any other circumstance that would require the Company to
+seek  alternative  sources of supply, could delay shipments, and have a material
+adverse  effect  on the Company's financial condition and results of operations.
+
+The  Company's  growth  will  depend  in  large part on the Company's ability to
+obtain increased wafer fabrication capacity and assembly services from suppliers
+which  are  cost  effective.  In  order to secure additional wafer capacity, the
+Company from time to time considers alternatives, including, without limitation,
+equity  investments  in,  or loans, deposits, or other financial commitments to,
+independent  wafer  manufacturers  to  secure production capacity, or the use of
+contracts  which  commit  the Company to purchase specified quantities of wafers
+over  extended periods.  Although the Company is currently able to obtain wafers
+from  existing  suppliers  in  a  timely  manner,  the Company has at times been
+unable,  and  may  in  the  future  be  unable, to fully satisfy customer demand
+because  of  production  constraints,  including  the  ability  of suppliers and
+subcontractors  to  provide  materials  and services in satisfaction of customer
+delivery  dates,  as  well as the ability of the Company to process products for
+shipment.  In addition, a significant increase in general industry demand or any
+interruption  of  supply could reduce the Company's supply of wafers or increase
+the  Company's  cost  of such wafers.  Such events could have a material adverse
+affect  on  the  Company's  financial  condition  and  results  of  operations.
+
+<PAGE>
+DEPENDENCE  ON  NEW  PRODUCTS
+
+The Company's future success depends in large part on its ability to develop and
+introduce on a timely basis new products which address customer requirements and
+compete  effectively  on the basis of price, functionality and performance.  The
+success  of  new  product  introductions  is  dependent  upon  several  factors,
+including  timely  completion  of  new  product  designs, the ability to utilize
+advanced  manufacturing  process technologies, achievement of acceptable yields,
+availability  of  supporting  software  design  tools, utilization of predefined
+cores  of  logic  and  market  acceptance.  No  assurance  can be given that the
+Company's  product  development  efforts  will  be  successful  or  that its new
+products  will  achieve  market  acceptance.  Revenues  relating  to some of the
+Company's mature products are expected to continue to decline in the future.  As
+a  result,  the  Company will be increasingly dependent on revenues derived from
+newer  products.  In  addition,  the  average  selling  price for any particular
+product  tends  to  decrease  rapidly  over  the product's life.  To offset such
+decreases,  the  Company  relies  primarily  on obtaining yield improvements and
+corresponding  cost  reductions  in  the manufacture of existing products and on
+introducing  new  products  which  incorporate  advanced  features  and  other
+price/performance  factors  such  that  higher average selling prices and higher
+margins  are  achievable  relative  to mature product lines.  To the extent that
+such  cost  reductions  and  new  product introductions do not occur in a timely
+manner,  or  the  Company's  products do not achieve market acceptance at prices
+with higher margins, the Company's financial condition and results of operations
+could  be  materially  adversely  affected.
+
+COMPETITION
+
+The  Company's  field  programmable gate arrays (FPGAs) and complex programmable
+logic  devices  (CPLDs)  compete  in  the programmable logic marketplace, with a
+substantial  majority  of  the  Company's revenues derived from its FPGA product
+families.  The  industries  in  which  the  Company  competes  are  intensely
+competitive  and  are characterized by rapid technological change, rapid product
+obsolescence  and  continuous  price erosion.  The Company expects significantly
+increased competition both from existing competitors and from companies that may
+enter  its  market.
+
+Xilinx  believes  that  important  competitive factors in the programmable logic
+market  include  price,  product  performance  and  reliability, adaptability of
+products  to  specific  applications,  ease of use and functionality of software
+design  tools,  functionality  of  predefined  cores of logic and the ability to
+provide  timely  customer  service  and  support.  The  Company's  strategy  for
+expansion  in  the  programmable logic market includes continued introduction of
+new  product  architectures  which address high volume, low cost applications as
+well  as high performance, leading edge density applications and continued price
+reductions  proportionate  with the ability to lower the cost of manufacture for
+established  products.  However, there can be no assurance that the Company will
+be  successful  in  achieving  these  strategies.
+
+The  Company's  major sources of competition fall into four main categories: the
+manufacturers of custom CMOS gate arrays, providers of high density programmable
+logic  products  characterized  by  FPGA-type  architectures,  providers of high
+speed,  low  density  CPLDs  and other providers of new or emerging programmable
+logic  products.  The  Company  competes with custom gate array manufacturers on
+the  basis  of  lower  design  costs,  shorter development schedules and reduced
+inventory risks.  The primary attributes of custom gate arrays are high density,
+high  speed  and low production costs in high volumes.  The Company continues to
+develop  lower  cost  architectures  intended  to narrow the gap between current
+custom  gate  array production costs (in high volumes) and PLD production costs.
+The Company competes with high density programmable logic suppliers on the basis
+of performance, voltage, the ability to deliver complete solutions to customers,
+and  customer  support,  taking  advantage  of  the  primary  characteristics of
+flexible, high speed implementation and quick time-to-market capabilities of the
+Company's  PLD  product  offerings.  Competition  among  CPLD suppliers is based
+primarily  on  price,  performance,  design, software utility and the ability to
+deliver complete solutions to customers.  In addition, the Company competes with
+manufacturers  of  new  or  emerging programmable logic products on the basis of
+price,  performance,  customer  support,  software  utility  and  the ability to
+deliver  complete  solutions  to  customers.  Some  of  the Company's current or
+potential  competitors  have  substantially  greater  financial,  manufacturing,
+marketing  and technical resources than Xilinx.  To the extent that such efforts
+to  compete are not successful, the Company's financial condition and results of
+operations  could  be  materially  adversely  affected.
+
+<PAGE>
+INTELLECTUAL  PROPERTY
+
+The  Company  relies  upon  patent, trademark, trade secret and copyright law to
+protect  its  intellectual  property.  There  can  be  no  assurance  that  such
+intellectual  property rights can be successfully asserted in the future or will
+not  be  invalidated,  circumvented  or  challenged.  From  time  to time, third
+parties,  including  competitors of the Company, have asserted patent, copyright
+and other intellectual property rights to technologies that are important to the
+Company.  There  can  be  no  assurance  that  third  parties  will  not  assert
+infringement  claims against the Company in the future, that assertions by third
+parties  will  not result in costly litigation or that the Company would prevail
+in  such  litigation  or be able to license any valid and infringed patents from
+third  parties  on commercially reasonable terms.  Litigation, regardless of its
+outcome,  could  result  in  substantial  cost and diversion of resources of the
+Company.  Any  infringement  claim or other litigation against or by the Company
+could  materially adversely affect the Company's financial condition and results
+of  operations.
+
+COMPUTER  INFORMATION  SYSTEMS
+
+In  order  to  compete  effectively  in  an  industry  characterized  by  rapid
+technological change, intense competitive pressure and cyclical market patterns,
+the  Company  continually  evaluates  its  computer  information  systems.  As a
+result,  the  Company  has  recently implemented computer information systems or
+system  enhancements  relating  to  its  semiconductor  manufacturing,  software
+manufacturing  and  financial  applications.  In addition, the Company is in the
+process  of  implementing  a  computer  information system relating to its order
+entry  application.  The  Company  currently  expects  that  this system will be
+implemented  by the middle of calendar 1999.  The time period for implementation
+of  this  system  represents  a  forward-looking  statement subject to risks and
+uncertainties  and  actual  results  may  differ materially from those described
+above  due to a number of risk factors.  These risk factors include, but are not
+limited  to, the complexity of the conversion process and the new system itself,
+the  transfer  of  data  from  the  old  to new system and the need for employee
+training  in connection with adopting the new system.  Implementation of the new
+system  could potentially require the Company to be without certain capabilities
+critical  to normal business operation (including processing customer orders and
+shipping  product) for a period of time until the new system is operational.  In
+addition,  the  Company  could  encounter  problems  after implementation of the
+system.  There  can  be  no assurance that these risks would not have a material
+adverse  impact  on the Company's financial condition and results of operations.
+
+As  is  the case with most other companies using computer information systems in
+their  operations,  the  Company  is  currently working to resolve the potential
+impact  of  the Year 2000 on the processing of date-sensitive information by the
+Company's  computerized  information systems, as well as the vendor and customer
+date-sensitive  computerized  information  electronically  transferred  to  the
+Company.  The  Year  2000 issue is the result of computer programs being written
+using  two  digits, rather than four, to define the applicable Year.  Any of the
+Company's  systems that have time-sensitive software may recognize the year "00"
+as  1900  rather  than  the  year  2000,  which could result in miscalculations,
+classification  errors  or  system  failures.
+
+The  Company  has  performed  a thorough review of its internal use software and
+hardware  applications  and  software  products  in  order  to  identify  those
+applications  and  products  that  are  not  Year  2000 compliant. Currently the
+Company's  Year  2000 efforts have been focused on implementing the upgrades for
+the  software  and  hardware  applications  identified  in the review as well as
+assessing  its  outside  suppliers  and  other  critical business partners.  The
+Company believes that its internal computer system implementation or enhancement
+efforts principally conducted to improve competitive and operating efficiencies,
+as  described  above, will also address some of the Company's internal Year 2000
+compliance  issues.  Additional  internal information systems are also currently
+being  upgraded.   Electronic data interchange modifications have been completed
+that  are  intended to ensure all dates are handled properly, although there can
+be  no  assurance  of this.  With regard to all information technology hardware,
+including  desktops,  networking and telecom equipment, and servers, the Company
+has  completed  its  assessment,  has  begun  to make the necessary upgrades and
+expects  to complete the upgrades by mid calendar 1999, although there can be no
+assurance  of  this.
+
+The  Company  believes  that  its latest software release, version M1.5, is Year
+2000  compliant,  including  the  Japanese  version,  although  there  can be no
+assurance  of  this.   However,  some  of  the  Company's  customers are running
+product  versions  that  are  not  Year  2000  compliant.  The  Company has been
+encouraging  such  customers  to  migrate  to  the  current  product  version.
+
+<PAGE>
+The  Company  plans to take several steps to minimize any Year 2000 effects such
+as  miscalculations,  classification  errors  or  system  failures.  Internal
+preparedness  includes  specific steps that will be taken in anticipation of the
+Year  2000  as  well  as relying on a contingency plan currently being developed
+which  includes  manual  workarounds,  attention to inventory levels, efforts to
+ensure that the order entry application being replaced is Year 2000 compliant in
+case of a delay in implementation of the new application, the ability to utilize
+both  the  San Jose and Ireland manufacturing facilities for shipment and having
+multiple  vendors who can provide critical wafer, assembly and test products and
+services.
+
+The  time periods provided above represent forward-looking statements subject to
+risks  and  uncertainties  and  actual  results may differ materially from those
+described above due to a number of risk factors.  These factors include, but are
+not  limited  to,  the complexity of identifying potential Year 2000 issues, the
+ability  to  allocate  and/or  obtain  qualified  resources to resolve Year 2000
+issues, the ability to work effectively with vendors and other critical business
+partners  and  the  Company's  effectiveness at encouraging customers to migrate
+towards  its  current  software product version.  There can be no assurance that
+the Company will be able to successfully, in a timely manner, modify all systems
+and  products to comply with Year 2000 requirements, which could have a material
+adverse  effect  on the Company's financial condition and results of operations.
+If  the  Company was to discontinue its Year 2000 preparedness at this time, the
+Company  would  not  be  able  to ensure all internal networks and desktops were
+operational,  nor  ensure  third  party  vendors were able to meet the Company's
+inventory  demands or send information electronically.  In addition, disruptions
+to  the  economy  generally  resulting  from  the  Year  2000  issues could also
+materially  adversely  impact  the  Company.  The  Company  could  be subject to
+litigation for computer system failures such as equipment shutdown or failure to
+properly  date  business  records.  The  amount  of potential liability and lost
+revenue  cannot  be  reasonably  estimated  at  this  time.
+
+The  costs  directed  solely towards Year 2000 compliance are not incremental to
+the  Company,  but  represent a reallocation of existing resources.  To date the
+Company  has  incurred less than $1.0 million on efforts directed solely towards
+Year 2000 compliance and expects to incur a total of less than $2.0 million when
+the  process  has  been  completed, although there can be no assurance that this
+will  be  the case.  Although the costs of addressing potential problems are not
+currently  expected to have a material adverse impact on the Company's financial
+position, results of operations or cash flows in future periods, if the Company,
+its  customers  or  vendors  are  unable  to resolve such processing issues on a
+timely,  cost-effective  basis, the Company's financial condition and results of
+operations  could  be  adversely  affected.
+
+EURO  CURRENCY
+
+Effective  January 1, 1999 11 member countries of the European Union established
+fixed  conversion rates between their existing sovereign currencies and the Euro
+and  adopted  the  Euro  as  their common legal currency.  During the three year
+transition,  the  Euro  will  be  available for non-cash transactions and legacy
+currencies  will  remain legal tender.  The Company is continuing to address the
+Euro  impact  on  its business including the ability to handle the conversion in
+the accounting and other information systems, ability of foreign banks to report
+on  dual  currencies,  the  legal and contractual implications of contracts, and
+reviewing  pricing  strategies.  The  Company  expects  that  any  additional
+modifications  to its operations and systems will be completed on a timely basis
+and  does  not believe the conversion will have a material adverse impact on the
+Company's  operations.  However, there can be no assurance that the Company will
+be  able  to  successfully  modify all systems and contracts to comply with Euro
+requirements  on  a  timely  basis.
+
+LITIGATION
+
+The  Company  is currently engaged in several lawsuits.  See "Legal Proceedings"
+in  Part  II.
+
+
+<PAGE>
+PART  II.  OTHER  INFORMATION
+
+Item  1.     Legal  Proceedings
+
+On  June  7, 1993, the Company filed suit against Altera Corporation (Altera) in
+the  United  States  District  Court for the Northern District of California for
+infringement  of  certain  of the Company's patents.  Subsequently, Altera filed
+suit  against  the  Company,  alleging  that  certain  of the Company's products
+infringe  certain Altera patents.  Fact and expert discovery have been completed
+in both cases, which have been consolidated.  On April 20, 1995, Altera filed an
+additional  suit  against the Company in the Federal District Court in Delaware,
+alleging  that  the  Company's  XC5200  family  infringes an Altera patent.  The
+Company  answered the Delaware suit denying that the XC5200 family infringes the
+patent  in suit, asserting certain affirmative defenses and counterclaiming that
+the  Altera  Max  9000  family  infringes certain of the Company's patents.  The
+Delaware  suit  was  transferred  to  the  United  States District Court for the
+Northern  District  of California and is also before the same judge.  On October
+25,  1998,  both Altera and the Company filed motions with the Court for summary
+judgement  with  respect  to  certain  of  the issues pending in the litigation.
+
+On  July  22, 1998, Altera and Joseph Ward, a former Xilinx employee, filed suit
+against the Company in Superior Court in Santa Clara County, California, arising
+out  of  the  Company's  efforts  to  prevent  disclosure  of  certain  Company
+confidential  information.  Altera's suit requests declaratory relief and claims
+the  Company  engages  in  unfair  business  practices  and  interference  with
+contractual  relations.  On  September  10,  1998 the Company filed cross claims
+against  Altera  and  Ward  for unfair competition and breach of contract, among
+other  claims,  in  the California action.  On October 20, 1998, Altera and Ward
+filed  crossclaims against the Company for malicious prosecution of civil action
+and  defamation.
+
+The  ultimate  outcome  of  these  matters  cannot  be  determined at this time.
+Management  believes  that  it  has  meritorious  defenses to such claims and is
+defending them vigorously.  The foregoing is a forward-looking statement subject
+to risks and uncertainties, and the future outcome of these matters could differ
+materially  due to the uncertain nature of each legal proceeding and because the
+lawsuits  are  still  in  the  pre-discovery  or  pre-trial  stages.
+
+On July 31, 1998, the Lemelson Foundation Partnership (Lemelson) filed a lawsuit
+in  the United States District Court in Phoenix, Arizona against the Company and
+twenty-five (25) other United States semiconductor companies for infringement of
+certain  of  its  patents.  During the third quarter ending January 2, 1999, the
+Company  entered  into a license agreement with Lemelson.  In response, Lemelson
+dismissed  with  prejudice  all  claims  against  the  Company.
+
+Item  6.     Exhibits  and  Reports  on  Form  8-K.
+
+             (a)  Exhibits                   None
+
+             (b)  Reports  on  Form  8-K     None
+
+<PAGE>
+
+
+                                   SIGNATURES
+
+
+
+
+
+Pursuant  to  the  requirements  of  the  Securities  Exchange  Act of 1934, the
+Registrant  has  duly  caused  this  report  to  be  signed on its behalf by the
+undersigned  thereunto  duly  authorized.
+
+
+
+
+                                           XILINX,  INC.
+                                           -------------
+
+
+
+
+
+Date  February  10,  1999                 /s/  Kris Chellam
+      -------------------                 -------------------------------------
+                                          Kris Chellam
+                                          Senior Vice President of Finance and
+                                          Chief Financial Officer
+                                          (as principal accounting and financial
+                                          officer and on behalf of Registrant)
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary information extracted from Xilinx, Inc.'s
+CONSOLIDATED STATEMENTS OF INCOME AND CONSOIDATED BALANCE SHEETS and is
+qualified in its entirety by reference to such financial statements.
+</LEGEND>
+<MULTIPLIER> 1000
+       
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   9-MOS
+<FISCAL-YEAR-END>                          APR-03-1999             APR-03-1999
+<PERIOD-START>                             OCT-04-1998             MAR-29-1998
+<PERIOD-END>                               JAN-02-1999             JAN-02-1999
+<CASH>                                         111,683                 111,683
+<SECURITIES>                                   224,040                 224,040
+<RECEIVABLES>                                   89,066                  89,066
+<ALLOWANCES>                                     8,331                   8,331
+<INVENTORY>                                     48,704                  48,704
+<CURRENT-ASSETS>                               575,820                 575,820
+<PP&E>                                         183,795                 183,795
+<DEPRECIATION>                                  88,363                  88,363
+<TOTAL-ASSETS>                               1,000,624               1,000,624
+<CURRENT-LIABILITIES>                          138,796                 138,796
+<BONDS>                                        250,000                 250,000
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                         1,446 <F2>              1,446 <F2>
+<OTHER-SE>                                     586,373 <F2>            586,373 <F2>
+<TOTAL-LIABILITY-AND-EQUITY>                 1,000,624               1,000,624
+<SALES>                                        167,357                 475,403
+<TOTAL-REVENUES>                               167,357                 475,403
+<CGS>                                           65,962                 181,599
+<TOTAL-COSTS>                                   65,962                 181,599
+<OTHER-EXPENSES>                                56,894                 164,138
+<LOSS-PROVISION>                                     0                       0
+<INTEREST-EXPENSE>                               3,473                  10,530
+<INCOME-PRETAX>                                 46,354                 133,099
+<INCOME-TAX>                                    11,708                  38,599
+<INCOME-CONTINUING>                             33,919                  88,779
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                    33,919                  88,779
+<EPS-PRIMARY>                                     0.24 <F1> <F2>          0.61 <F1> <F2>
+<EPS-DILUTED>                                     0.22 <F2>               0.59 <F2>
+<FN> 
+
+<F1> Represents basic earnings per share.
+<F2> Restated for 2 for 1 stock split.
+
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

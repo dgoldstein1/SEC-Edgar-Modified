@@ -1,0 +1,2414 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BFzfWPVO+B+QuQObFp5zWYHM3nuvgbXHK8ZrjpIvYOnBWEWrS89lSEJgMMNHm+CX
+ lZGOCGletmPpZSC1l+6qBw==
+
+<SEC-DOCUMENT>0001047469-98-026788.txt : 19980710
+<SEC-HEADER>0001047469-98-026788.hdr.sgml : 19980710
+ACCESSION NUMBER:		0001047469-98-026788
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19980529
+FILED AS OF DATE:		19980709
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADOBE SYSTEMS INC
+		CENTRAL INDEX KEY:			0000796343
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770019522
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-15175
+		FILM NUMBER:		98663518
+
+	BUSINESS ADDRESS:	
+		STREET 1:		345 PARK AVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95110-2704
+		BUSINESS PHONE:		4159614400
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 7900
+		CITY:			MOUNTAIN VIEW
+		STATE:			CA
+		ZIP:			94039-7900
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>10-Q
+<TEXT>
+
+<PAGE>
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                                   UNITED STATES
+                         SECURITIES AND EXCHANGE COMMISSION
+                               WASHINGTON, D.C. 20549
+
+                             --------------------------
+
+                                     FORM 10-Q
+(MARK ONE)
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+     SECURITIES EXCHANGE ACT OF 1934
+
+                     FOR THE QUARTERLY PERIOD ENDED MAY 29, 1998
+
+                                         OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+     SECURITIES EXCHANGE ACT OF 1934
+
+     FOR THE TRANSITION PERIOD FROM                 TO
+                                    ---------------    ------------------------
+
+                          COMMISSION FILE NUMBER: 0-15175
+
+                             ADOBE SYSTEMS INCORPORATED
+               (Exact name of registrant as specified in its charter)
+
+               DELAWARE                              77-0019522
+     (State or other jurisdiction of              (I.R.S. Employer
+     incorporation or organization)              Identification No.)
+
+ 345 PARK AVENUE, SAN JOSE, CALIFORNIA               95110-2704
+(Address of principal executive offices)             (Zip Code)
+
+         Registrant's telephone number, including area code: (408) 536-6000
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES X NO
+                                             --   --
+
+     Indicate the number of shares outstanding of each of the issuer's classes
+of common stock, as of the latest practicable date:
+
+<TABLE>
+<CAPTION>
+                                                  Shares Outstanding
+               Class                                 June 26, 1998
+               -----                                 -------------
+     <S>                                          <C>
+     Common stock, $0.0001 par value                   67,198,400
+
+</TABLE>
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+<PAGE>
+
+                                 TABLE OF CONTENTS
+<TABLE>
+<CAPTION>
+
+                                                                      Page No.
+
+                          PART I -- FINANCIAL INFORMATION
+<S>                                                                   <C>
+Item 1.   Condensed Consolidated Financial Statements
+
+            Condensed Consolidated Statements of Income
+            Three Months Ended May 29, 1998 and May 30, 1997
+            and Six Months Ended May 29, 1998 and May 30, 1997            3
+
+            Condensed Consolidated Balance Sheets
+            May 29, 1998 and November 28, 1997                            4
+
+            Condensed Consolidated Statements of Cash Flows
+            Six Months Ended May 29, 1998 and May 30, 1997                5
+
+            Notes to Condensed Consolidated Financial Statements          7
+
+Item 2.   Management's Discussion and Analysis of Financial
+          Condition and Results of Operations                            11
+
+Item 3.   Quantitative and Qualitative Disclosures About Market
+          Risk                                                           25
+
+                             PART II -- OTHER INFORMATION
+
+Item 1.   Legal Proceedings                                              26
+
+Item 4.   Submission of Matters to a Vote of Security Holders            27
+
+Item 6.   Exhibits and Reports on Form 8-K                               28
+
+Signatures                                                               30
+
+Summary of Trademarks                                                    31
+
+</TABLE>
+
+
+                                       EXHIBITS
+
+Exhibit 27.1   Financial Data Schedule
+
+Exhibit 27.2   Financial Data Schedule
+
+
+                                          2
+<PAGE>
+
+PART I -- FINANCIAL INFORMATION
+
+ITEM 1.   CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                             ADOBE SYSTEMS INCORPORATED
+                    CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                       (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                    (UNAUDITED)
+<TABLE>
+<CAPTION>
+
+                                             THREE MONTHS ENDED            SIX MONTHS ENDED
+                                         ------------------------      ------------------------
+                                           MAY 29         MAY 30         MAY 29         MAY 30
+                                            1998           1997           1998           1997
+                                         ---------      ---------      ---------      ---------
+<S>                                      <C>            <C>            <C>            <C>
+Revenue:
+  Licensing                              $  42,456      $  53,261      $  84,307      $ 104,721
+  Application products                     184,854        175,003        340,816        350,002
+                                         ---------      ---------      ---------      ---------
+      Total revenue                        227,310        228,264        425,123        454,723
+
+Direct costs                                27,292         32,658         57,278         66,947
+                                         ---------      ---------      ---------      ---------
+Gross margin                               200,018        195,606        367,845        387,776
+                                         ---------      ---------      ---------      ---------
+Operating expenses:
+  Research and development                  53,310         41,253         99,737         79,450
+  Sales and marketing                       86,827         75,179        158,661        147,217
+  General and administrative                20,892         21,106         44,968         38,602
+  Acquired in-process
+    technology                               1,180          3,157          4,998          3,157
+  Other non-recurring items                    565             --            565         (2,359)
+                                         ---------      ---------      ---------      ---------
+Total operating expenses                   162,774        140,695        308,929        266,067
+                                         ---------      ---------      ---------      ---------
+Operating income                            37,244         54,911         58,916        121,709
+                                         ---------      ---------      ---------      ---------
+Nonoperating income, net:
+  Investment gain (loss)                      (188)            34         12,274           (590)
+  Interest and other income                  7,589          8,259         16,090         15,252
+                                         ---------      ---------      ---------      ---------
+
+Total nonoperating income, net               7,401          8,293         28,364         14,662
+                                         ---------      ---------      ---------      ---------
+
+Income before income taxes                  44,645         63,204         87,280        136,371
+Provision for income taxes                  16,665         23,098         32,556         49,781
+                                         ---------      ---------      ---------      ---------
+Net income                               $  27,980      $  40,106      $  54,724      $  86,590
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+
+Basic net income per share               $     .42      $     .56      $     .81      $    1.21
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+Shares used in computing basic
+  net income per share                      66,735         72,085         67,257         71,780
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+Diluted net income per share             $     .41      $     .54      $     .79      $    1.17
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+Shares used in computing diluted
+  net income per share                      68,990         74,416         69,453         74,199
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+
+</TABLE>
+
+
+SEE ACCOMPANYING NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+
+
+                                          3
+<PAGE>
+
+                             ADOBE SYSTEMS INCORPORATED
+                       CONDENSED CONSOLIDATED BALANCE SHEETS
+                        (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                    (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                         MAY 29    NOVEMBER 28
+                                                          1998         1997
+                                                      -----------  -----------
+                                       ASSETS
+<S>                                                   <C>          <C>
+Current assets:
+  Cash and cash equivalents                           $   115,358  $   267,576
+  Short-term investments                                  277,246      235,380
+  Receivables, net of allowances of $4,544 and
+    $3,634, respectively                                  151,886      130,974
+  Other current assets                                     44,674       45,016
+                                                      -----------  -----------
+     Total current assets                                 589,164      678,946
+Property and equipment                                     99,914       80,978
+Other assets                                              191,744      163,148
+Deferred income taxes                                      17,231       16,999
+                                                      -----------  -----------
+                                                      $   898,053  $   940,071
+                                                      -----------  -----------
+                                                      -----------  -----------
+
+                        LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Trade and other payables                            $    44,506  $    57,857
+  Accrued expenses                                        108,759      102,741
+  Income taxes payable                                     45,965       48,343
+  Deferred revenue                                         14,585       15,706
+                                                      -----------  -----------
+
+     Total current liabilities                            213,815      224,647
+                                                      -----------  -----------
+
+Stockholders' equity:
+  Preferred stock, $0.0001 par value; 2,000 shares
+    authorized; none issued or outstanding at May 29,
+    1998 and November 28, 1997                                 --           --
+  Common stock, $0.0001 par value;
+    Authorized:  200,000 shares;
+    Issued: 75,350 and 73,941 shares at May 29, 1998
+     and November 28, 1997, respectively;
+    Outstanding: 67,154 and 68,765 shares at May 29,
+     1998 and November 28, 1997, respectively                   7            7
+  Additional paid-in capital                              338,656      291,274
+  Retained earnings                                       711,983      663,861
+  Unrealized gains on investments, net                        481        3,590
+  Cumulative translation adjustment                        (5,273)      (4,620)
+  Treasury stock, at cost (8,196 and 5,176 shares at
+    May 29, 1998 and November 28, 1997, respectively)    (361,616)    (238,688)
+                                                      -----------  -----------
+
+    Total stockholders' equity                            684,238      715,424
+                                                      -----------  -----------
+
+                                                      $   898,053  $   940,071
+                                                      -----------  -----------
+                                                      -----------  -----------
+
+</TABLE>
+
+SEE ACCOMPANYING NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                                          4
+<PAGE>
+
+                             ADOBE SYSTEMS INCORPORATED
+                  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (IN THOUSANDS)
+                                    (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                            SIX MONTHS ENDED
+                                                        ----------------------
+                                                         MAY 29       MAY 30
+                                                          1998         1997
+                                                        ---------    ---------
+<S>                                                     <C>          <C>
+Cash flows from operating activities:
+  Net income                                            $  54,724    $  86,590
+  Adjustments to reconcile net income to net cash
+  provided by operating activities:
+    Stock compensation expense                              1,484        3,711
+    Depreciation and amortization                          27,969       21,649
+    Deferred income taxes                                   1,292       (2,651)
+    Provision for losses on accounts receivable             1,087          308
+    Tax benefit from employee stock plans                   8,190       17,369
+    Equity in net loss of Adobe Ventures                      703          658
+    Gain on sale and distribution of equity investments   (12,987)          --
+    Write-off of acquired in-process technology             4,998        3,157
+    Changes in operating assets and liabilities:
+      Receivables                                         (21,999)     (15,121)
+      Other current assets                                 (1,182)      (5,144)
+      Trade and other payables                            (13,351)      18,739
+      Accrued expenses                                     16,231       (2,073)
+      Income taxes payable                                 (2,378)     (26,832)
+      Deferred revenue                                     (1,121)       4,014
+                                                        ---------    ---------
+
+Net cash provided by operating activities                  63,660      104,374
+                                                        ---------    ---------
+Cash flows from investing activities:
+  Purchases of short-term investments                    (508,156)  (1,748,497)
+  Maturities and sales of short-term investments          464,822    1,761,554
+  Acquisitions of property and equipment                  (36,527)     (16,610)
+  Additions to other assets                               (40,525)     (22,487)
+  Acquisitions, net of cash acquired                           --       (2,121)
+                                                        ---------    ---------
+
+Net cash used for investing activities                   (120,386)     (28,161)
+                                                        ---------    ---------
+
+</TABLE>
+                                                                    (Continued)
+
+SEE ACCOMPANYING NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                                          5
+<PAGE>
+
+                             ADOBE SYSTEMS INCORPORATED
+                  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (IN THOUSANDS)
+                                    (CONTINUED)
+                                    (UNAUDITED)
+<TABLE>
+<CAPTION>
+                                                            SIX MONTHS ENDED
+                                                        ----------------------
+                                                         MAY 29       MAY 30
+                                                          1998         1997
+                                                        ---------    ---------
+<S>                                                     <C>          <C>
+Cash flows from financing activities:
+  Proceeds from issuance of common stock                $  37,708    $  42,816
+  Repurchase of common stock                             (122,928)     (36,957)
+  Payment of dividends                                     (9,619)      (7,249)
+                                                        ---------    ---------
+
+Net cash provided (used) by financing activities          (94,839)      (1,390)
+                                                        ---------    ---------
+
+
+Effect of foreign currency exchange rates on
+  cash and cash equivalents                                  (653)          19
+                                                        ---------    ---------
+
+Net increase (decrease) in cash and cash equivalents     (152,218)      74,842
+
+Cash and cash equivalents at beginning of period          267,576      110,745
+                                                        ---------    ---------
+Cash and cash equivalents at end of period              $ 115,358    $ 185,587
+                                                        ---------    ---------
+                                                        ---------    ---------
+
+
+Supplemental disclosures:
+  Cash paid during the period for income taxes          $  16,794    $  56,844
+                                                        ---------    ---------
+                                                        ---------    ---------
+
+  Noncash investing and financing activities:
+    Dividends declared but not paid                     $   3,376    $   3,660
+                                                        ---------    ---------
+                                                        ---------    ---------
+
+    Dividend in-kind declared but not issued            $      --    $  21,560
+                                                        ---------    ---------
+                                                        ---------    ---------
+
+</TABLE>
+
+
+SEE ACCOMPANYING NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS.
+
+                                          6
+<PAGE>
+
+                             ADOBE SYSTEMS INCORPORATED
+                NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                       (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+NOTE 1.   SIGNIFICANT ACCOUNTING POLICIES
+
+     BASIS OF PRESENTATION
+
+     The accompanying interim condensed consolidated financial statements of
+Adobe Systems Incorporated ("Adobe" or the "Company") have been prepared in
+conformity with generally accepted accounting principles, consistent in all
+material respects with those applied in the Company's Annual Report on Form 10-K
+for the year ended November 28, 1997. The interim financial information is
+unaudited but reflects all normal adjustments which are, in the opinion of
+management, necessary to provide fair condensed consolidated balance sheets and
+condensed consolidated statements of income and cash flows for the interim
+periods presented. The interim financial statements should be read in
+conjunction with the financial statements in the Company's Annual Report on Form
+10-K for the year ended November 28, 1997.
+
+     The results of operations for the interim period ended May 29, 1998, are
+not necessarily indicative of the results to be expected for the full year.
+
+     NET INCOME PER SHARE
+
+     Basic net income per share is computed using the weighted average number of
+common shares outstanding for the period. Diluted net income per share is based
+upon the weighted average common shares outstanding for the period plus dilutive
+common equivalent shares including unvested restricted common stock, stock
+options using the treasury stock method, and put warrants written by the Company
+using the reverse treasury stock method.
+
+<TABLE>
+<CAPTION>
+
+                                            THREE MONTHS ENDED              SIX MONTHS ENDED
+                                         ------------------------      ------------------------
+                                          MAY 29         MAY 30         MAY 29         MAY 30
+                                           1998           1997           1998           1997
+                                         ---------      ---------      ---------      ---------
+<S>                                      <C>            <C>            <C>            <C>
+Net income                                 $27,980        $40,106        $54,724        $86,590
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+Shares used to compute basic net
+  income per share (weighted
+  average shares outstanding
+  during the period)                        66,735         72,085         67,257         71,780
+
+Dilutive common equivalent
+  shares:
+    Unvested restricted stock                   78            173             78            173
+    Stock options                            2,177          2,158          2,118          2,246
+                                         ---------      ---------      ---------      ---------
+Shares used to compute diluted
+  net income per share                      68,990         74,416         69,453         74,199
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+
+Basic net income per share               $     .42      $     .56      $     .81      $    1.21
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+
+Diluted net income per share             $     .41      $     .54      $     .79      $    1.17
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+
+</TABLE>
+
+
+                                          7
+<PAGE>
+
+                             ADOBE SYSTEMS INCORPORATED
+               NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (IN THOUSANDS)
+                                    (CONTINUED)
+
+NOTE 1.   SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+     REVENUE RECOGNITION
+
+     In October 1997, the American Institute of Certified Public Accountants
+issued Statement of Position ("SOP") 97-2, "Software Revenue Recognition." SOP
+97-2 establishes standards relating to the recognition of all aspects of
+software revenue. Based on the Company's initial assessment of the impact SOP
+97-2 may have on its consolidated results of operations, the Company intends to
+modify certain aspects of its business model such that any impact will not be
+significant. The Company will adopt SOP 97-2 for its fiscal year 1999.
+
+     COMPREHENSIVE INCOME
+
+     In June 1997, the Financial Accounting Standards Board ("FASB") issued SFAS
+No. 130, "Reporting Comprehensive Income." SFAS No. 130 establishes standards
+for reporting and displaying comprehensive income and its components in the
+financial statements. It does not, however, require a specific format for the
+disclosure but requires the Company to display an amount representing total
+comprehensive income for the periods presented in its financial statements. The
+Company will be required to implement SFAS No. 130 for its fiscal year 1999.
+
+     SEGMENT REPORTING
+
+     In June 1997, the FASB issued SFAS No. 131, "Disclosures about Segments of
+an Enterprise and Related Information." SFAS No. 131 establishes standards for
+the manner in which public companies report information about operating segments
+in annual and interim financial statements. The Company is currently evaluating
+the operating segment information to determine whether this will have an impact
+on its financial statement reporting. The Company will be required to implement
+SFAS No. 131 for its fiscal year 1999.
+
+     RECLASSIFICATIONS
+
+     Certain amounts in the 1997 Condensed Consolidated Statement of Cash Flows
+have been reclassified to conform to the 1998 presentation.
+
+
+
+                                          8
+<PAGE>
+
+                             ADOBE SYSTEMS INCORPORATED
+               NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                       (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                    (CONTINUED)
+
+NOTE 2.   OTHER ASSETS
+
+     Other assets consisted of the following:
+
+<TABLE>
+<CAPTION>
+                                                              MAY 29      NOVEMBER 28
+                                                               1998          1997
+                                                           -----------    -----------
+          <S>                                              <C>            <C>
+          Equity investments                               $    53,220    $    35,689
+          Purchased technology and licensing
+            agreements                                           4,963          5,043
+          Restricted funds and security deposits               117,426        102,962
+          Miscellaneous other assets                            36,425         45,097
+                                                           -----------    -----------
+                                                               212,034        188,791
+
+          Less accumulated amortization                         20,290         25,643
+                                                           -----------    -----------
+
+                                                           $   191,744    $   163,148
+                                                           -----------    -----------
+                                                           -----------    -----------
+
+</TABLE>
+
+NOTE 3.   ACCRUED EXPENSES
+
+     Accrued expenses consisted of the following:
+
+<TABLE>
+<CAPTION>
+
+                                                             MAY 29       NOVEMBER 28
+                                                              1998           1997
+                                                           -----------    -----------
+          <S>                                              <C>            <C>
+          Accrued compensation and benefits                $    38,859    $    37,833
+          Sales and marketing allowances                        13,784         13,028
+          Other                                                 56,116         51,880
+                                                           -----------    -----------
+                                                           $   108,759    $   102,741
+                                                           -----------    -----------
+                                                           -----------    -----------
+
+</TABLE>
+
+NOTE 4.   STOCKHOLDERS' EQUITY
+
+     STOCK REPURCHASE PROGRAMS
+
+     In September 1997, the Company's Board of Directors authorized, subject to
+certain business and market conditions, the purchase of up to an additional 15.0
+million shares of the Company's common stock over a two-year period. During the
+fourth quarter of fiscal 1997 and the first quarter of fiscal 1998, the Company
+repurchased approximately 4.7 and 3.0 million shares of its common stock,
+respectively. No stock repurchases were made during the second quarter of fiscal
+1998.
+
+     PUT WARRANTS AND CALL OPTIONS
+
+     To facilitate the Company's stock repurchase programs, the Company sold put
+warrants to independent third parties. Each warrant entitles the holder to sell
+one share of Adobe's common stock to the Company at a specified price. On May
+29, 1998, put warrants to sell approximately 3.2 million shares of the Company's
+common stock were outstanding that expire on various dates through November 1998
+with an average exercise price of $39.26 per share. Under these put warrant
+arrangements, the Company, at its option, can settle with physical delivery or
+net
+
+                                          9
+<PAGE>
+
+                             ADOBE SYSTEMS INCORPORATED
+               NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                       (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                    (CONTINUED)
+
+NOTE 4.   STOCKHOLDERS' EQUITY (CONTINUED)
+
+shares equal to the difference between the exercise price and market value at
+the date of exercise; therefore the put warrants do not result in a liability on
+the balance sheet.
+
+     In addition, the Company purchased call options from independent third
+parties that entitle the Company to buy its common stock on certain dates at
+specified prices. On May 29, 1998, call options to purchase approximately 1.0
+million shares of the Company's common stock were outstanding that expire on
+various dates through November 1998 with an average exercise price of $40.49 per
+share.
+
+
+
+
+                                          10
+<PAGE>
+
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+     THE FOLLOWING DISCUSSION (PRESENTED IN MILLIONS, EXCEPT SHARE AND PER SHARE
+AMOUNTS) SHOULD BE READ IN CONJUNCTION WITH THE CONSOLIDATED FINANCIAL
+STATEMENTS AND NOTES THERETO.
+
+     IN ADDITION TO HISTORICAL INFORMATION, THIS QUARTERLY REPORT ON FORM 10-Q
+CONTAINS FORWARD-LOOKING STATEMENTS THAT INVOLVE RISKS AND UNCERTAINTIES THAT
+COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY. FACTORS THAT MIGHT CAUSE OR
+CONTRIBUTE TO SUCH DIFFERENCES INCLUDE, BUT ARE NOT LIMITED TO, THOSE DISCUSSED
+IN THE SECTION ENTITLED "MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS - FACTORS THAT MAY AFFECT FUTURE RESULTS OF
+OPERATIONS." READERS SHOULD CAREFULLY REVIEW THE RISKS DESCRIBED IN OTHER
+DOCUMENTS THE COMPANY FILES FROM TIME TO TIME WITH THE SECURITIES AND EXCHANGE
+COMMISSION, INCLUDING THE ADDITIONAL QUARTERLY REPORTS ON FORM 10-Q TO BE FILED
+BY THE COMPANY IN 1998. READERS ARE CAUTIONED NOT TO PLACE UNDUE RELIANCE ON THE
+FORWARD-LOOKING STATEMENTS, WHICH SPEAK ONLY AS OF THE DATE OF THIS QUARTERLY
+REPORT ON FORM 10-Q. THE COMPANY UNDERTAKES NO OBLIGATION TO PUBLICLY RELEASE
+ANY REVISIONS TO THE FORWARD-LOOKING STATEMENTS OR REFLECT EVENTS OR
+CIRCUMSTANCES AFTER THE DATE OF THIS DOCUMENT.
+
+                               RESULTS OF OPERATIONS
+
+
+OVERVIEW
+
+     Adobe Systems Incorporated ("Adobe" or the "Company") develops, markets, 
+and supports computer software products and technologies that enable users to 
+express and use information across both print and electronic media. The 
+Company offers a market-leading line of application software and type 
+products for creating and distributing visually rich communication materials; 
+licenses its industry-standard technologies to major hardware manufacturers, 
+software developers, and service providers; and offers integrated software 
+solutions to businesses of all sizes. The Company distributes its products 
+through a network of original equipment manufacturer ("OEM") customers, 
+distributors and dealers, value-added resellers ("VARs"), and system 
+integrators and has operations in North America, Europe, Japan, and Asia, 
+Pacific and Latin America.
+
+                                          11
+<PAGE>
+
+     The following table sets forth for the three and six month periods ended
+May 29, 1998 and May 30, 1997, the Company's condensed consolidated statements
+of income expressed as a percentage of total revenue:
+
+<TABLE>
+<CAPTION>
+
+
+                                            THREE MONTHS ENDED             SIX MONTHS ENDED
+                                         ------------------------      ------------------------
+                                           MAY 29         MAY 30         MAY 29         MAY 30
+                                            1998           1997           1998           1997
+                                         ---------      ---------      ---------      ---------
+<S>                                      <C>            <C>            <C>            <C>
+Revenue:
+  Licensing                                   18.7%          23.3%          19.8%          23.0%
+  Application products                        81.3           76.7           80.2           77.0
+                                         ---------      ---------      ---------      ---------
+    Total revenue                            100.0          100.0          100.0          100.0
+
+Direct costs                                  12.0           14.3           13.5           14.7
+                                         ---------      ---------      ---------      ---------
+
+Gross margin                                  88.0           85.7           86.5           85.3
+                                         ---------      ---------      ---------      ---------
+Operating expenses:
+  Research and development                    23.5           18.1           23.5           17.5
+  Sales and marketing                         38.2           32.9           37.3           32.4
+  General and administrative                   9.2            9.2           10.6            8.5
+  Acquired in-process
+    technology                                 0.5            1.4            1.2            0.7
+  Other non-recurring items                    0.2             --            0.1           (0.6)
+                                         ---------      ---------      ---------      ---------
+
+Total operating expenses                      71.6           61.6           72.7           58.5
+                                         ---------      ---------      ---------      ---------
+
+Operating income                              16.4           24.1           13.8           26.8
+
+Nonoperating income, net:
+  Investment gain (loss)                      (0.1)            --            2.9           (0.1)
+  Interest and other income                    3.3            3.6            3.8            3.3
+                                         ---------      ---------      ---------      ---------
+
+Total nonoperating income, net                 3.2            3.6            6.7            3.2
+                                         ---------      ---------      ---------      ---------
+Income before income taxes                    19.6           27.7           20.5           30.0
+Provision for income taxes                     7.3           10.1            7.6           11.0
+                                         ---------      ---------      ---------      ---------
+
+Net income                                    12.3%          17.6%          12.9%          19.0%
+                                         ---------      ---------      ---------      ---------
+                                         ---------      ---------      ---------      ---------
+
+</TABLE>
+
+
+                                          12
+<PAGE>
+
+REVENUE
+
+<TABLE>
+<CAPTION>
+                                           MAY 29         MAY 30
+                                            1998           1997      CHANGE
+                                         ---------      ---------   ---------
+     Three months ended:                    (Dollars in millions)
+<S>                                      <C>            <C>         <C>
+        Total revenue                       $227.3         $228.3      (0.4)%
+
+     Six months ended:
+
+        Total revenue                       $425.1         $454.7      (6.5)%
+
+</TABLE>
+
+     For the second quarter and first six months of 1998, revenue decreased from
+the same periods last year due primarily to weakness in the Japanese economy and
+a decline in licensing revenue. A decrease in product unit volume (as opposed to
+price) was the principal factor in the Company's revenue decline.
+
+     LICENSING REVENUE:
+<TABLE>
+<CAPTION>
+                                           MAY 29         MAY 30
+                                            1998           1997       CHANGE
+                                         ---------      ---------    ---------
+     Three months ended:                    (Dollars in millions)
+<S>                                      <C>            <C>          <C>
+        Licensing revenue                    $42.4          $53.3     (20.3)%
+        Percentage of total revenue           18.7%          23.3%
+
+     Six months ended:
+
+        Licensing revenue                    $84.3         $104.7     (19.5)%
+        Percentage of total revenue           19.8%          23.0%
+
+</TABLE>
+
+     Licensing revenue is derived from shipments by OEM customers of products
+containing Adobe PostScript and Adobe PrintGear technology. Adobe PostScript is
+a software language for describing to a printer the appearance of a page,
+including text, graphics, and images. Products that contain PostScript
+technology include: (1) black-and-white printers; (2) color printers; (3) slide
+recorders; (4) imagesetters; (5) screen displays; and (6) digital copiers. Adobe
+PostScript technology includes Adobe PostScript, Adobe PostScript Level 2, and
+Adobe PostScript 3, all of which serve the enterprise, graphic arts, and
+production printing markets, and Adobe PostScript Extreme, a solution for
+high-volume production printing. Adobe PrintGear is an architecture for printers
+targeted at the small office/home office market.
+
+     Licensing revenue decreased $10.9 million or 20.3% in the second quarter of
+1998 compared to the same period last year and $20.4 million or 19.5% in the
+first six months of 1998 compared to the same period last year primarily due to
+three factors: (1) weakness in the Japanese personal computer and printer
+markets, (2) weakness in the color copier business due to product transitions,
+and (3) a reduction in royalty revenue from Hewlett-Packard Company's ("HP")
+desktop monochrome laser printer division which is now incorporating a non-Adobe
+clone version of Adobe PostScript into its products.
+
+     The Company continues to be cautious about licensing revenue in the short
+term because of Japanese market conditions and because of uncertain timing of
+OEM customer introductions of products incorporating Adobe's latest
+technologies. Based on a strategic review of the Company's printing systems
+division, the Company is now refocusing its resources on high
+
+
+                                          13
+<PAGE>
+
+growth revenue opportunities in digital color, color inkjet, short-run on-demand
+digital printing, and digital copiers. This strategic refocusing is intended to
+increase licensing revenue growth in the long term, although the Company
+anticipates that its licensing revenue in the remainder of fiscal 1998 will be
+below fiscal 1997 levels.
+
+<TABLE>
+<CAPTION>
+     APPLICATIONS PRODUCTS REVENUE:
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                   (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          Application products revenue      $184.9         $175.0      5.6%
+          Percentage of total revenue         81.3%          76.7%
+
+     Six months ended:
+
+          Application products revenue      $340.8         $350.0     (2.6)%
+          Percentage of total revenue         80.2%          77.0%
+
+</TABLE>
+
+     Application products revenue is derived predominantly from shipments of
+application software programs marketed through distribution channels, with the
+exception of Adobe FrameMaker and Adobe Acrobat products which are more widely
+distributed through VARs and systems integrators. Adobe PhotoDeluxe is primarily
+distributed through OEM bundling agreements with digital camera, scanner, and
+personal computer manufacturers.
+
+     Application products revenue increased $9.9 million or 5.6% in the second
+quarter of 1998 compared to the same period last year primarily due to the
+release of three new products, Photoshop 5.0, which began shipping in English,
+French and German just prior to quarter end, Premiere 5.0, and PhotoDeluxe
+Business Edition. Also, revenue from Acrobat 3.0 increased compared to the same
+quarter last year due to more widespread acceptance of the portable document
+format. The increased revenue generated by these newly released products and
+Acrobat 3.0 in 1998 was partially offset by a decline in Japanese revenues due
+to poor economic conditions, a decline in Macintosh platform revenues and a
+decline in Illustrator 7.0 revenues in anticipation of the release of a new
+version later in fiscal 1998.
+
+     For the first six months of 1998, application products revenue decreased
+$9.2 million or 2.6% compared to the same period last year due mainly to the
+absence of recent major product releases or upgrades until late in the second
+quarter of 1998, weakness in the Japanese economy, and a continuing decline in
+applications product revenue for the Macintosh platform. By comparison, the
+first half of 1997 benefited from several product releases as well as
+continuing strength of a major product release in the last quarter of fiscal
+1996.
+
+
+                                          14
+<PAGE>
+
+DIRECT COSTS
+
+<TABLE>
+<CAPTION>
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                   (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          Direct costs                       $27.3          $32.7    (16.4)%
+          Percentage of total revenue         12.0%          14.3%
+
+     Six months ended:
+
+          Direct costs                       $57.3          $66.9    (14.4)%
+          Percentage of total revenue         13.5%          14.7%
+
+</TABLE>
+
+     Direct costs include product, packaging, and shipping costs, as well as
+royalties and amortization of localization costs and acquired technologies.
+Direct costs were lower in the second quarter and first six months of 1998
+compared with the same periods last year due to lower royalty payments and less
+product inventory subject to obsolescence.
+
+     Gross margin (expressed as a percentage of revenue), in general, is
+affected by the mix of licensing revenue versus application products revenue as
+well as the product mix within application products and the mix of full and
+upgrade products sold.
+
+OPERATING EXPENSES
+
+     RESEARCH AND DEVELOPMENT:
+
+<TABLE>
+<CAPTION>
+
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                   (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          Research and development           $53.3          $41.3     29.2%
+          Percentage of total revenue         23.5%          18.1%
+
+     Six months ended:
+
+          Research and development           $99.7          $79.5     25.5%
+          Percentage of total revenue         23.5%          17.5%
+
+</TABLE>
+
+     Research and development expenses consist principally of salaries and
+benefits for software developers, contracted development efforts, related
+facilities costs, and expenses associated with computer equipment used in
+software development.
+
+     Research and development expenses increased in the second quarter and 
+first six months of 1998 compared with the same periods last year due to 
+increased investment in new technologies, new product development, and the 
+infrastructure to support such activities. The increase reflects the 
+expansion of the Company's engineering staff and related costs required to 
+support its continued emphasis on developing new products and enhancing 
+existing products. The Company continues to make significant investments in 
+development of its software products, including those targeted for the 
+growing Internet market.
+
+                                          15
+<PAGE>
+
+     The Company believes that continued investments in research and development
+are necessary to remain competitive in the marketplace, and are directly related
+to continued, timely development of new and enhanced products. Accordingly, the
+Company intends to continue recruiting and hiring software developers. Research
+and development expenses are expected to increase in absolute dollars, however
+at a slower rate than revenue growth.
+
+     SALES AND MARKETING:
+
+<TABLE>
+<CAPTION>
+
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                   (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          Sales and marketing                $86.8          $75.2     15.5%
+          Percentage of total revenue         38.2%          32.9%
+
+     Six months ended:
+
+          Sales and marketing               $158.7         $147.2      7.8%
+          Percentage of total revenue         37.3%          32.4%
+
+</TABLE>
+
+     Sales and marketing expenses include salaries and benefits, sales
+commissions, travel expenses, and related facility costs for the Company's
+sales, marketing, customer support, and distribution personnel. Sales and
+marketing expenses also include the costs of programs aimed at increasing
+revenue, such as advertising, trade shows and other market development programs.
+
+     Sales and marketing expenses increased in the second quarter and first six
+months of 1998 compared with the same periods last year due to increased
+advertising and promotional expenditures in connection with the commencement of
+the Company's new product release cycle and brand advertising campaign as well
+as increased sales and marketing staff to support a growing base of customers.
+
+     Sales and marketing expenses are expected to increase in absolute dollars
+for the remainder of 1998, however at a slower rate than revenue growth.
+
+     GENERAL AND ADMINISTRATIVE:
+
+<TABLE>
+<CAPTION>
+
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                   (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          General and administrative         $20.9          $21.1      (1.0)%
+          Percentage of total revenue          9.2%           9.2%
+
+     Six months ended:
+
+          General and administrative         $45.0          $38.6       16.5%
+          Percentage of total revenue         10.6%           8.5%
+
+</TABLE>
+
+     General and administrative expenses consist principally of salaries and
+benefits, travel expenses, and related facility costs for the finance, human
+resources, legal, information services, and administrative personnel of the
+Company. General and administrative expenses also include outside legal and
+accounting fees, bad debts, and expenses associated with computer equipment and
+software used in the administration of the business.
+
+
+                                          16
+<PAGE>
+
+     General and administrative expenses decreased in absolute dollars for the
+second quarter of 1998 compared with the same period last year primarily due to
+the reversal of an incentive bonus program accrual in the second quarter of 1998
+that was based on various revenue and operating margin targets that have not
+been attained as of May 29, 1998. The decrease was partially offset by increased
+employee costs and depreciation and building expenses associated with increased
+staff and a more comprehensive administrative infrastructure. For the first six
+months of 1998, general and administrative costs increased in absolute dollars
+and as a percentage of revenue due to increased employee costs and depreciation
+and building expenses primarily associated with increased staff and a more
+comprehensive administrative infrastructure. Additionally, general and
+administrative expenses in the first six months of 1998 include the write-off of
+$2.4 million of goodwill associated with an acquisition that took place in 1997.
+
+     The Company expects general and administrative spending in 1998 to increase
+in absolute dollars, however at a slower rate than revenue growth.
+
+     ACQUIRED IN-PROCESS TECHNOLOGY:
+
+<TABLE>
+<CAPTION>
+
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                  (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+
+          Acquired in-process technology      $1.2           $3.2     (62.6)%
+          Percentage of total revenue          0.5%           1.4%
+
+     Six months ended:
+
+          Acquired in-process technology      $5.0           $3.2      58.3%
+          Percentage of total revenue          1.2%           0.7%
+
+</TABLE>
+
+     For the second quarter and first six months of 1998, acquired in-process
+technology includes several acquired technologies associated with Adobe products
+that have yet to reach technological feasibility as defined within SFAS No. 86,
+"Accounting for the Costs of Computer Software to Be Sold, Leased, or Otherwise
+Marketed," and for which no alternative uses have been established by the
+Company.
+
+     During the second quarter of 1997, the Company acquired two software
+companies and accounted for the transactions using the purchase method.  The
+aggregate purchase price was principally allocated to in-process research and
+development and, accordingly, $3.2 million was expensed at the time of the
+acquisitions.
+
+     OTHER NON-RECURRING ITEMS:
+
+<TABLE>
+<CAPTION>
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                  (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+
+          Other non-recurring items           $0.6            $--          --
+          Percentage of total revenue          0.2%            --
+
+     Six months ended:
+
+          Other non-recurring items          $ 0.6          $(2.4)        124%
+          Percentage of total revenue          0.1%          (0.6)%
+
+</TABLE>
+
+                                          17
+<PAGE>
+
+     During the second quarter of 1998, the Company recognized a restructuring
+charge associated with a reduction in force in the Company's Printing Systems
+Division as part of a strategic initiative to refocus resources on high-growth
+opportunities in the printing and digital copier markets.
+
+     The non-recurring item which occurred during the first quarter of 1997
+represents proceeds on the divestiture of a product line.
+
+NONOPERATING INCOME, NET
+
+     INVESTMENT GAIN (LOSS):
+
+<TABLE>
+<CAPTION>
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                  (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          Investment gain (loss)             $(0.2)          $--         --
+          Percentage of total revenue         (0.1)%          --
+
+     Six months ended:
+
+          Investment gain (loss)             $12.3          $(0.6)    2180.3%
+          Percentage of total revenue          2.9%          (0.1)%
+
+</TABLE>
+
+     Investment gain (loss) consists principally of realized gains or losses
+from direct investments as well as mark-to-market valuation adjustments for
+Adobe Ventures L.P. investments.
+
+     During the first quarter of 1998, McQueen International Limited
+("McQueen"), a former investee of the Company, was acquired by Sykes
+Enterprises, Incorporated ("Sykes"), a publicly traded company. In connection
+with the acquisition, the Company exchanged its shares of McQueen for
+approximately 487,000 shares of Sykes' restricted common stock and recorded a
+gain on the exchange of $6.7 million.
+
+     Also, during the first quarter of 1998, the Company liquidated its
+investment in Siebel Systems, Incorporated ("Siebel") through the distribution
+to its stockholders of approximately 165,000 shares of Siebel as a
+dividend-in-kind and the sale of its remaining Siebel shares. A gain was
+recognized on the transaction of approximately $5.7 million.
+
+     INTEREST AND OTHER INCOME:
+
+<TABLE>
+<CAPTION>
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                  (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          Interest and other income           $7.6           $8.3       (8.1)%
+          Percentage of total revenue          3.3%           3.6%
+
+     Six months ended:
+
+          Interest and other income          $16.1          $15.3        5.5%
+          Percentage of total revenue          3.8%           3.3%
+
+</TABLE>
+
+
+                                          18
+<PAGE>
+
+     Interest and other income consists principally of interest earned on cash,
+cash equivalents, and short-term investments.
+
+     The decrease in interest and other income in the second quarter of 1998
+compared with the same quarter last year is due to lower average cash balances
+in 1998. The increase in interest and other income in the first six months of
+1998 compared to the same period last year is due primarily to foreign exchange
+gains in Europe offset by a decline in interest income as a result of lower
+average cash balances.
+
+PROVISION FOR INCOME TAXES
+
+<TABLE>
+<CAPTION>
+                                          MAY 29         MAY 30
+                                           1998           1997       CHANGE
+                                        ----------     ----------  ----------
+     Three months ended:                    (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+          Provision for income taxes         $16.7          $23.1       (27.9)%
+          Percentage of total revenue          7.3%          10.1%
+          Effective tax rate                  37.3%          36.5%
+
+     Six months ended:
+
+          Provision for income taxes         $32.6          $49.8       (34.6)%
+          Percentage of total revenue          7.6%          11.0%
+          Effective tax rate                  37.3%          36.5%
+
+</TABLE>
+
+     The Company's effective tax rate increased in the second quarter and first
+six months of 1998 primarily due to the nondeductible write-off of goodwill
+relating to an acquisition which took place in 1997, a decrease in research and
+experimentation tax credits (the federal credit expired on June 30, 1998), and
+lower tax-exempt interest income.
+
+     The Company expects that the effective tax rate for the remainder of fiscal
+1998 will be between 37% and 38% due to lower tax-exempt interest income as a
+result of cash requirements for the Company's stock repurchase programs and the
+expiration of the federal research and experimentation tax credit on June 30,
+1998.
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS OF OPERATIONS
+
+     The Company believes that in the future its results of operations could be
+affected by various factors, such as delays in shipment of the Company's new
+products and major new versions of existing products, lack of market acceptance
+of new products and upgrades, weakness in demand for Macintosh application
+software and Macintosh-related printers, renegotiation of royalty arrangements,
+growth in worldwide personal computer and printer sales and sales price
+adjustments, consolidation in the OEM printer business, ongoing weakness in the
+color copier business due to product transitions, industry transitions to new
+business and information delivery models, ongoing weakness in the Japanese and
+other Asian economies, and adverse changes in general economic conditions in any
+of the countries in which the Company does business.
+
+     The Company's ability to develop and market products, including upgrades of
+current products that successfully adapt to changing customer needs, may also
+have an impact on the results of operations. The Company's ability to extend its
+core technologies into new applications and to anticipate or respond to
+technological changes could affect its ability to
+
+
+                                          19
+<PAGE>
+
+develop these products. A portion of the Company's future revenue will come from
+these new applications. Delays in product or upgrade introductions, whether by
+the Company or its OEM customers, could have an adverse effect on the Company's
+revenue, earnings, or stock price. The Company cannot determine the ultimate
+effect that these new products or upgrades will have on its revenue or results
+of operations.
+
+     The market for the Company's graphics applications, particularly the
+consumer products, is intensely and increasingly competitive and is
+significantly affected by product introductions and market activities of
+industry competitors. Additionally, Microsoft Corporation has stated its
+intention to increase its presence in the digital imaging/graphics market by
+mid-1999; the Company believes that, due to Microsoft's market dominance, any
+new Microsoft digital imaging products will be highly competitive with the
+Company's products. If competing new products achieve widespread acceptance, it
+would have a significant adverse impact on the Company's operating results.
+
+     Although the Company generally offers its application products on
+Macintosh, Windows, and UNIX platforms, a majority of the overall revenue from
+these products prior to 1997 has been for the Macintosh platform, particularly
+for the higher end Macintosh computers. In 1997, Windows-based application
+revenue exceeded that from the Macintosh platform for the first time, and for
+the past several quarters, Macintosh platform sales of application products have
+continued to decline year over year while Windows platform sales have continued
+to rise. If there is a continuing slowdown of customer purchases in the higher
+end Macintosh market, or if the Company is unable to continue to increase its
+revenue from Windows customers commensurate with such a slowdown, the Company's
+operating results could be materially adversely affected. Also, as the Company
+seeks to further broaden its customer base to achieve greater penetration in the
+corporate business and consumer markets, the Company may not successfully adapt
+its application software distribution channels, which could materially adversely
+affect the Company's operating results. The Company could experience decreases
+in average selling prices and some transitions in its distribution channels that
+could materially adversely affect its operating results. In addition, to the
+extent that there is a slowdown of customer purchases of personal computers in
+general, the Company's operating results could be materially adversely affected.
+
+     The Company's OEM customers on occasion seek to renegotiate their royalty
+arrangements. The Company evaluates these requests on a case-by-case basis. If
+an agreement is not reached, a customer may decide to pursue other options,
+which could result in lower licensing revenue for the Company. In the fall of
+1997, HP began to ship non-Adobe clone software in some printers, resulting in
+lower licensing revenue to the Company in fiscal 1998. The Company expects
+additional impact on its remaining 1998 licensing revenue, although it continues
+to work with HP printer operations to incorporate Adobe PostScript and other
+technologies in other HP products.
+
+     During late 1997 and the first half of 1998, the Company experienced a
+decline in both application and licensing revenue from the Japanese market, due
+to a weak Japanese computer market and general economic conditions in Japan. In
+addition, at the end of fiscal 1997, inventory levels for application products
+at the Company's Japanese distributors remained higher than what the Company
+considers normal. During the first half of fiscal 1998, the Company worked with
+its major distributors in Japan to reduce channel inventory to what the Company
+considers a reasonable level. The Company expects these adverse economic
+conditions to continue in the short term, and they may continue to adversely
+affect the Company's revenue and earnings. Although there are also adverse
+conditions in other Asian economies, the countries
+
+
+                                          20
+<PAGE>
+
+affected represent a much smaller portion of the Company's revenue and thus have
+less impact on the Company's operational results.
+
+     The Company has experienced, and expects to continue to experience,
+significant growth. Competition for high quality personnel, especially highly
+skilled engineers, is extremely intense. The Company's ability to effectively
+manage its growth will require it to continue to improve its operational and
+financial controls and information management systems, and to attract, retain,
+motivate, and manage employees effectively. The failure of the Company to
+effectively manage growth and transition in multiple areas of its business could
+have a material adverse effect on its results of operations.
+
+     The Internet market is rapidly evolving and is characterized by an
+increasing number of market entrants that have introduced or developed products
+addressing authoring and communications over the Internet. As is typical in the
+case of a new and evolving industry, demand and market acceptance for recently
+introduced products and services are subject to a high level of uncertainty. The
+software industry addressing authoring and communications over the Internet is
+young and has few proven products. In addition, new models for licensing
+software will be needed to accommodate new information delivery practices.
+Moreover, critical issues concerning the commercial use of the Internet
+(including security, reliability, ease of use and access, cost, and quality of
+service) remain unresolved and may affect the growth of Internet use, together
+with the software standards and electronic media employed in such markets.
+
+     The Company derives a significant portion of its revenue and operating
+income from its subsidiaries located in Europe, Japan, and Asia, Pacific, and
+Latin America. The Company generally experiences lower revenue from its European
+operations in the third quarter because many customers reduce their purchasing
+activities in the summer months. While most of the revenue of the European
+subsidiaries is denominated in U.S. dollars, the majority of revenue derived
+from Japan is denominated in yen and the majority of all subsidiaries' operating
+expenses are denominated in their local currencies. As a result, the Company's
+operating results are subject to fluctuations in foreign currency exchange
+rates. To date, the accounting impact of such fluctuations has been
+insignificant. The Company's hedging policy attempts to mitigate some of these
+risks, based on management's best judgment of the appropriate trade-offs among
+risk, opportunity, and expense. The Company has established a hedging program to
+hedge its exposure to foreign currency exchange rate fluctuations, primarily of
+the Japanese yen. The Company's hedging program is not comprehensive, and there
+can be no assurance that the program will offset more than a portion of the
+adverse financial impact resulting from unfavorable movement in foreign currency
+exchange rates.
+
+     Due to the factors noted above, the Company's future earnings and stock
+price may be subject to significant volatility, particularly on a quarterly
+basis. Any shortfall in revenue or earnings from levels expected by securities
+analysts could have an immediate and significant adverse effect on the trading
+price of the Company's common stock in any given period. Additionally, the
+Company may not learn of such shortfalls until late in the fiscal quarter, which
+could result in an even more immediate and adverse effect on the trading price
+of the Company's common stock. Finally, the Company participates in a highly
+dynamic industry. In addition to factors specific to the Company, changes in
+analysts' earnings estimates for the Company or its industry and factors
+affecting the corporate environment, the Company's industry or the securities
+markets in general will often result in significant volatility of the Company's
+common stock price.
+
+
+                                          21
+<PAGE>
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+     In October 1997, the American Institute of Certified Public Accountants
+issued Statement of Position ("SOP") 97-2, "Software Revenue Recognition." SOP
+97-2 establishes standards relating to the recognition of all aspects of
+software revenue. Based on the Company's initial assessment of the impact SOP
+97-2 may have on its consolidated results of operations, the Company intends to
+modify certain aspects of its business model such that any impact will not be
+significant. The Company intends to adopt SOP 97-2 for its fiscal year 1999.
+
+     In June 1997, the FASB issued SFAS No. 130, "Reporting Comprehensive
+Income." SFAS No. 130 establishes standards for reporting and displaying
+comprehensive income and its components in the financial statements. It does
+not, however, require a specific format for the disclosure, but requires the
+Company to display an amount representing total comprehensive income for the
+periods presented in its financial statements. The Company will be required to
+implement SFAS No. 130 for its fiscal year 1999.
+
+     Also in June 1997, the FASB issued SFAS No. 131, "Disclosures About
+Segments of an Enterprise and Related Information." SFAS No. 131 establishes
+standards for the manner in which public companies report information about
+operating segments in annual and interim financial statements. The Company is
+currently evaluating the operating segment information to determine whether this
+will have an impact on its financial statement reporting. The Company will be
+required to implement SFAS No. 131 for its fiscal year 1999.
+
+"YEAR 2000" ISSUES
+
+     The Company is aware of and addressing a broad range of issues associated
+with the programming code in existing computer systems as the year 2000
+approaches. The "Year 2000" problem is complex, as many computer systems will be
+affected in some way by the rollover of the two-digit year value to 00. Systems
+that do not properly recognize such information could generate erroneous data or
+cause a system to fail. The "Year 2000" issue creates risk for the Company from
+unforeseen problems in its own computer systems and from third parties with whom
+the Company deals on financial and other transactions worldwide. Failures of the
+Company's and/or third parties' computer systems could have a material impact on
+the Company's ability to conduct its business.
+
+     The Company's financial information systems include an SAP system recently
+implemented in the United States, Japan and Asia, Pacific and Latin America, and
+an Oracle system in Europe that will be upgraded to the most recent version
+later in fiscal 1998. These systems are believed to be "Year 2000" compliant.
+The Company is analyzing its remaining computer systems to identify any
+potential "Year 2000" issues and will take appropriate corrective action based
+on the results of such analysis. Management has not yet determined the cost
+related to achieving "Year 2000" compliance.
+
+     In addition, the "Year 2000" issue could affect the products that the
+Company sells. The Company believes that the current versions of its products
+are "Year 2000" compliant. The Company's products are subject to ongoing
+analysis and review.
+
+
+                                          22
+<PAGE>
+
+                           LIQUIDITY AND CAPITAL RESOURCES
+
+<TABLE>
+<CAPTION>
+
+                                          MAY 29      NOVEMBER 28
+                                           1998           1997       CHANGE
+                                        ----------    -----------  ----------
+                                           (Dollars in millions)
+     <S>                                <C>            <C>         <C>
+
+     Cash, cash equivalents and
+       short-term investments               $392.6         $503.0       (21.9)%
+
+     Working capital                        $375.3         $454.3       (17.4)%
+
+     Stockholders' equity                   $684.2         $715.4        (4.4)%
+
+</TABLE>
+
+     The Company's cash, cash equivalents and short-term investments, consisting
+principally of municipal bonds, auction rate certificate securities, United
+States government and government agency securities, and asset-backed securities,
+decreased $110.4 million or 21.9% during the first six months of 1998. All of
+the Company's cash equivalents and short-term investments are classified as
+available-for-sale under the provisions of Statement of Financial Accounting
+Standards No. 115, "Accounting for Certain Investments in Debt and Equity
+Securities." The securities are carried at fair value with the unrealized gains
+and losses, net of tax, reported as a separate component of stockholders'
+equity.
+
+     Major sources of cash during the first six months of 1998 included cash 
+generated from operations of $63.7 million and proceeds from the issuance of 
+common stock primarily related to the exercise of stock options of $37.7 
+million. Major uses of cash during the period included $122.9 million to 
+repurchase Adobe common stock, net purchases of short-term investments of 
+$43.3 million, additions to other assets of $40.5 million, capital 
+expenditures totaling $36.5 million for property and equipment, and the 
+payment of dividends of $9.6 million.
+
+     In September 1997, the Company's Board of Directors authorized, subject to
+certain business and market conditions, the purchase of up to an additional 15.0
+million shares of the Company's common stock over a two-year period. During the
+fourth quarter of fiscal 1997 and the first quarter of fiscal 1998, the Company
+repurchased approximately 4.7 and 3.0 million shares of its common stock,
+respectively. These stock repurchase programs are intended to enhance
+stockholder value by reducing the number of outstanding shares net of offsetting
+increases due to employee stock purchases and stock option exercises. The timing
+and size of any future stock repurchases are subject to market conditions, stock
+prices and Adobe's cash position and other cash requirements going forward.
+
+     To facilitate the Company's stock repurchase programs, the Company sold put
+warrants to independent third parties. Each warrant entitles the holder to sell
+one share of Adobe's common stock to the Company at a specified price. On May
+29, 1998, put warrants to sell approximately 3.2 million shares of the Company's
+common stock were outstanding that expire on various dates through November 1998
+with an average exercise price of $39.26 per share. Under these put warrant
+arrangements, the Company, at its option, can settle with physical delivery or
+net shares equal to the difference between the exercise price and market value
+at the date of exercise; therefore the put warrants do not result in a liability
+on the balance sheet.
+
+     In addition, the Company purchased call options from independent third
+parties that entitle the Company to buy its common stock on certain dates at
+specified prices. On May 29, 1998, call
+
+
+                                          23
+<PAGE>
+
+options to purchase approximately 1.0 million shares of the Company's common
+stock were outstanding that expire on various dates through November 1998 with
+an average exercise price of $40.49 per share.
+
+     The Board of Directors of the Company declared two cash dividends on the
+Company's common stock of $.05 per common share, one for each of the first and
+second quarters of 1998. Also, on December 1, 1997, the Company dividended one
+share of Siebel Systems, Incorporated ("Siebel") common stock for each 300
+shares of Adobe common stock held by stockholders of record on October 31, 1997.
+An equivalent cash dividend was paid for holdings of less than 7,500 Adobe
+shares and for odd-lot and fractional Siebel shares. The declaration of future
+dividends is within the discretion of the Board of Directors of the Company and
+will depend upon business conditions, results of operations, the financial
+condition of the Company and other factors.
+
+     Expenditures for property and equipment are expected to continue as staff
+increases and as the Company continues the construction of facilities both in
+the United States as well as in Europe. Furthermore, additional cash may be used
+to acquire software products or technologies complementary to the Company's
+business.
+
+     The Company's principal commitments as of May 29, 1998 consisted of
+obligations under operating leases, venture investing activities, real estate
+development agreements, and various service agreements.  These arrangements are
+discussed in more detail in the Company's Annual Report on Form 10-K for the
+year ended November 28, 1997.
+
+     The Company believes that existing cash, cash equivalents and short-term
+investments, together with cash generated from operations, will provide
+sufficient funds for the Company to meet its operating cash requirements in the
+foreseeable future, including planned capital expenditure programs, working
+capital requirements, the potential put warrant obligation and the dividend
+program.
+
+
+
+                                          24
+<PAGE>
+
+ITEM 3.   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     The Company's market risk disclosures set forth in Item 7a of its Annual
+Report on Form 10-K for the year ended November 28, 1997 have not changed
+significantly.
+
+
+
+
+
+
+                                          25
+<PAGE>
+
+PART II -- OTHER INFORMATION
+
+ITEM 1.   LEGAL PROCEEDINGS
+
+     On April 17, 1997, a derivative action was filed in the Superior Court of
+the State of California, County of Santa Clara, against the current members of
+Adobe's Board of Directors and Paul Brainerd, a former member of the Board. The
+suit was filed by a stockholder purporting to assert on behalf of the Company
+claims for alleged breach of the Directors' fiduciary duty and mismanagement
+related to the Company's acquisition of Frame in October 1995. The Court granted
+Adobe's demurrer to the suit, with leave to amend for the plaintiff. In January
+1998, the plaintiff filed an amended complaint making substantially the same
+claims but not including Mr. Brainerd. In March 1998, Adobe filed a demurrer to
+the amended complaint, which was overruled by the trial court in May 1998. In
+June 1998, Adobe filed a writ petition for review of the trial court's decision.
+
+     Quantel Limited, a U.K. corporation, filed and served on the Company in
+January 1996 a complaint alleging that the Adobe Photoshop program infringed
+five U.S. patents held by Quantel. The complaint was filed in the United States
+District Court for the District of Delaware. In September 1997, a jury in
+federal court in Delaware found in favor of Adobe, finding that Adobe Photoshop
+did not infringe the five patents held by Quantel Limited, and that the five
+patents are invalid. In June 1998, Quantel filed a notice of appeal of the trial
+court's decision. The Company intends to vigorously defend any appeal.
+
+     Management believes that the ultimate resolution of this matter and other
+matters discussed in the Company's Annual Report on Form 10-K for the year ended
+November 28, 1997 will not have a material impact on the Company's financial
+position or results of operations.
+
+
+
+
+
+                                          26
+<PAGE>
+
+ITEM 4.   SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     The Annual Meeting of Stockholders was held on April 8, 1998.
+
+     A proposal to elect three (3) Class I directors of the Company to serve for
+a two-year term expiring at the Annual Meeting of Stockholders in 2000 was
+approved by the stockholders. The nominees received the following votes:
+
+<TABLE>
+<CAPTION>
+                                               For       Withheld
+                                        ----------       --------
+          <S>                           <C>              <C>
+          Charles M. Geschke            59,208,723        785,193
+          William R. Hambrecht          59,298,821        695,095
+          Delbert W. Yocum              59,280,806        713,110
+
+</TABLE>
+
+     In June 1998, the total number of directors was increased to eight and
+Carol Mills was elected as a Class I director with a term expiring at the Annual
+Meeting of Stockholders in 2000.
+
+     Incumbent Class II directors John E. Warnock, Gene P. Carter, Robert
+Sedgewick and William J. Spencer are currently serving for a term expiring at
+the Annual Meeting of Stockholders in 1999.
+
+     Introduced was a proposal to approve the Company's Amended 1994 Performance
+and Restricted Stock Plan (the "Performance Plan"), including an increase of
+500,000 in the number of shares reserved for issuance under the Performance Plan
+and increases in the per-participant annual limits from 50,000 shares to 200,000
+shares and from $2,500,000 to $10,000,000. This proposal received the following
+votes:
+
+<TABLE>
+<CAPTION>
+          <S>                           <C>
+          For:                          31,470,000
+          Against:                      28,280,885
+          Withheld:                        243,031
+</TABLE>
+
+     In addition, stockholders ratified the appointment of KPMG Peat Marwick LLP
+as independent public accountants of the Company for the fiscal year ending
+November 27, 1998. This proposal received the following votes:
+
+<TABLE>
+<CAPTION>
+          <S>                           <C>
+          For:                          59,433,105
+          Against:                          59,064
+          Withheld:                        501,747
+</TABLE>
+
+     Abstentions and broker non-votes were each included in the determination of
+the number of shares represented at the meeting for purposes of determining the
+presence of a quorum at the Company's Annual Meeting of Stockholders. Each was
+tabulated separately. Abstentions and broker non-votes were not counted for
+purposes of determining the number of votes cast for a proposal.
+
+
+                                          27
+<PAGE>
+
+ITEM 6.   EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)  Index to Exhibits
+
+<TABLE>
+<CAPTION>
+
+                                                          INCORPORATED BY REFERENCE
+     EXHIBIT                                         -------------------------------------        FILED
+     NUMBER         EXHIBIT DESCRIPTION                 FORM           DATE       NUMBER         HEREWITH
+     ----------     ------------------------------   -------      ---------       --------     ----------
+     <C>            <S>                              <C>          <C>             <C>          <C>
+     3.1            The Registrant's (as suc-           10-Q       05/30/97       3.1
+                    cessor in-interest to Adobe
+                    Systems (Delaware)
+                    Incorporated by
+                    virtue of a reincorporation
+                    effective 5/30/97)  Certif-
+                    icate of Incorporation, as
+                    filed with the Secretary of
+                    State of the State of
+                    Delaware on 5/9/97.
+
+     3.2.10         Amended and Restated                10-K       11/28/97       3.2.10
+                    Bylaws as currently
+                    in effect.
+
+     3.3            Certificate of Designation          10-K       11/28/97       3.3
+                    of the Series A Preferred
+                    Stock
+
+     3.4            Agreement and Plan of               10-Q       05/30/97       2.1
+                    Merger effective 5/30/97
+                    (by virtue of a reincorp-
+                    oration), by and between
+                    Adobe Systems Incorpor-
+                    ated, a California corp-
+                    oration and Adobe Systems
+                    (Delaware) Incorporated,
+                    a Delaware corporation.
+
+     4.1            Second Amended and                   8-K       08/29/97       4
+                    Restated Rights
+                    Agreement between the
+                    Company and Harris
+                    Trust Company of
+                    California
+
+     10.1.6         1984 Stock Option Plan,             10-Q       07/02/93       10.1.6
+                    as amended*
+
+     10.21.3        Revised Bonus Plan*                 10-Q       02/28/97       10.21.3
+
+     10.24.1        Amended 1994 Performance                                                            X
+                    and Restricted Stock Plan*
+
+     10.25.0        Form of Indemnity                   10-K       11/30/90       10.17.2
+                    Agreement*
+
+     10.25.1        Form of Indemnity                   10-Q       05/30/97       10.25.1
+                    Agreement*
+
+</TABLE>
+
+                                                                 (Continued)
+
+
+                                          28
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+                                                          INCORPORATED BY REFERENCE
+     EXHIBIT                                          ----------------------------------           FILED
+     NUMBER         EXHIBIT DESCRIPTION                 FORM           DATE         NUMBER       HEREWITH
+     -------------  -------------------------------   ------       --------       --------       --------
+     <C>            <S>                               <C>          <C>            <C>            <C>
+     10.32          Sublease of the Land and            10-K       11/25/94       10.32
+                    Lease of the Improvements
+                    By and Between
+                    Sumitomo Bank Leasing
+                    and Finance Inc. and
+                    Adobe Systems Incorporated
+                    (Phase 1)
+
+     10.36          1996 Outside Directors              10-Q       05/31/96       10.36
+                    Stock Option Plan*
+
+     10.37          Confidential Resignation            10-Q       05/31/96       10.37
+                    Agreement*
+
+     10.38          Sublease of the Land and            10-Q       08/30/96       10.38
+                    Lease of the Improvements
+                    By and Between
+                    Sumitomo Bank Leasing
+                    and Finance Inc. and
+                    Adobe Systems Incorporated
+                    (Phase 2)
+
+     10.39          1997 Employee Stock                  S-8       05/30/97       10.39
+                    Purchase Plan, as amended*
+
+     10.40          1994 Stock Option                    S-8       05/30/97       10.40
+                    Plan, as amended*
+
+     10.42          Amended and Restated                10-K       11/28/97       10.42
+                    Limited Partnership
+                    Agreement of Adobe
+                    Incentive Partners, L.P.*
+
+     10.43          Resignation Agreement*              10-K       11/28/97       10.43
+
+     10.44          Forms of Retention                  10-K       11/28/97       10.44
+                    Agreement*
+
+     21             Subsidiaries of the                 10-K       11/28/97       21
+                    Registrant
+
+     27.1           Financial Data Schedule                                                             X
+     27.2           Financial Data Schedule                                                             X
+
+</TABLE>
+     ---------------------------------------
+     *Compensatory plan or arrangement
+
+(b)  Reports on Form 8-K
+
+     No reports on Form 8-K were filed during the quarter ended May 29, 1998.
+
+
+                                          29
+<PAGE>
+
+                                      SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+
+                                        ADOBE SYSTEMS INCORPORATED
+
+
+
+                                        By   /s/  P. Jackson Bell
+                                             ------------------------------
+                                             P. Jackson Bell,
+                                             Executive Vice President,
+                                             Chief Financial Officer,
+                                             Chief Administrative Officer,
+                                             and Assistant Secretary
+                                             (Principal Financial Officer)
+
+                                        By   /s/  Harold L. Covert
+                                             ------------------------------
+                                             Harold L. Covert
+                                             Vice President, Finance and
+                                             Operations
+                                             (Principal Accounting Officer)
+
+Date: July 9, 1998
+
+
+                                          30
+<PAGE>
+
+                               SUMMARY OF TRADEMARKS
+
+The following trademarks of Adobe Systems Incorporated, which may be registered
+in certain jurisdictions, are referenced in this Form 10-Q:
+
+     Adobe
+     Acrobat
+     FrameMaker
+     Illustrator
+     PhotoDeluxe
+     Photoshop
+     PostScript
+     Premiere
+     PrintGear
+
+     All other brand or product names are trademarks or registered trademarks of
+their respective holders.
+
+
+
+
+                                          31
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.24-1
+<SEQUENCE>2
+<DESCRIPTION>EXHIBIT 10.24.1
+<TEXT>
+
+<PAGE>
+
+                                  EXHIBIT 10.24.1
+
+                             ADOBE SYSTEMS INCORPORATED
+
+                 AMENDED 1994 PERFORMANCE AND RESTRICTED STOCK PLAN
+
+
+     1.   ESTABLISHMENT AND PURPOSE.
+
+          (a)  ESTABLISHMENT.  The Adobe Systems Incorporated 1989 Restricted
+Stock Plan was initially adopted on February 9, 1989 (the "INITIAL PLAN").  The
+Initial Plan was amended and restated in its entirety as the "1994 Performance
+and Restricted Stock Plan" (the "PLAN") effective as of August 31, 1994, the
+date it was approved by the stockholders of the Company.  This amendment is
+effective as of the date it is approved by the stockholders of the Company.
+
+          (b)  PURPOSE.  The purpose of the Plan is to attract, retain and
+reward key employees of Adobe Systems Incorporated and any successor corporation
+thereto (collectively referred to as the "COMPANY"), and any present or future
+parent and/or subsidiary corporations of the Company (all of whom along with the
+Company being individually referred to as a "PARTICIPATING COMPANY" and
+collectively referred to as the "PARTICIPATING COMPANY GROUP"), and to motivate
+such persons to contribute to the financial success and progress of the
+Participating Company Group.  For purposes of the Plan, a parent corporation and
+a subsidiary corporation shall be as defined in sections 424(e) and 424(f) of
+the Internal Revenue Code of 1986, as amended (the "CODE").
+
+     2.   ADMINISTRATION.
+
+          (a)  ADMINISTRATION BY COMMITTEE.  The Plan shall be administered by
+one or more duly appointed committees (individually, a "COMMITTEE") of the Board
+of Directors of the Company (the "BOARD"); provided, however, that with respect
+to the participation of individuals who are subject to the provisions of Section
+16 of the Securities Exchange Act of 1934, as amended (the "EXCHANGE ACT"), or
+who are divisional officers of the Participating Company Group, the Plan shall
+be administered by a Committee consisting of not less than two directors each of
+whom is both (i) a "Non-Employee Director " within the meaning of Rule 16b-3
+under the Exchange Act or any successor rule ("RULE 16b-3") and (ii) an "outside
+director" for purposes of Section 162(m) of the Code and the regulations
+promulgated thereunder.  The Committee shall have all of the powers vested in it
+by the terms of the Plan, subject to the limitations described herein, including
+the full and final authority in its sole discretion to:
+
+               (i)   select the eligible persons to whom (a "PARTICIPANT"), and
+the time at which, awards shall be granted under the Plan;
+
+               (ii)  determine type of award granted and the number of shares of
+stock, units or other consideration subject to awards (which need not be
+identical);
+
+
+                                          1
+<PAGE>
+
+               (iii)  determine the terms and conditions of each award granted,
+including, without limitation, the terms of vesting, if any, the effect of a
+Participant's termination of employment with the Participating Company Group,
+the method for satisfaction of any tax withholding obligation arising in
+connection with any award, and all other terms and conditions of the award not
+inconsistent with the terms of the Plan;
+
+               (iv)   determine the performance goals and other conditions, if
+any, for the settlement of any award and whether such goals and conditions have
+been satisfied;
+
+               (v)    determine whether an award shall be paid in cash, in
+shares of stock or in any combination thereof;
+
+               (vi)   determine whether payment of an award should be reduced or
+eliminated;
+
+               (vii)  modify or amend any award, or waive any restrictions or
+conditions applicable to any award;
+
+               (viii) accelerate, continue, extend or defer the payment or
+vesting of any award, including with respect to the period following a
+Participant's termination of employment with the Participating Company Group;
+
+               (ix)   determine the fair market value of the common stock of the
+Company;
+
+               (x)    authorize any person to execute on behalf of the Company
+any instrument required to effectuate the grant of an award;
+
+               (xi)   prescribe, amend or rescind rules, regulations and
+policies relating to the Plan;
+
+               (xii)  approve one or more forms of agreement for use under the
+Plan;
+
+               (xiii) construe and interpret the Plan and any agreement used
+under the Plan and define the terms employed herein and therein;
+
+               (xiv)  make all other determinations and take such other action
+with respect to the Plan and any award granted hereunder as the Committee may
+deem advisable, to the extent permitted by applicable law.
+
+     All decisions, determinations and interpretations of the Committee shall be
+final and binding upon all persons having an interest in the Plan or any award
+granted under the Plan.
+
+          (b)  AUTHORITY OF OFFICERS.  Any officer of a Participating Company
+shall have the authority to act on behalf of the Company with respect to any
+matter, right, obligation, or
+
+
+                                          2
+<PAGE>
+
+election which is the responsibility of or which is allocated to the Company
+herein, provided the officer has apparent authority with respect to such matter,
+right, obligation, or election.
+
+     3.   ELIGIBILITY.  Key employees of the Participating Company Group are
+eligible to participate in the Plan.  The Committee shall, in the Committee's
+sole discretion, determine which individuals shall be granted awards under the
+Plan.
+
+     4.   SHARES SUBJECT TO PLAN.  Shares issued pursuant to the Plan shall be
+authorized but unissued shares of the common stock of the Company (the "STOCK").
+Subject to adjustment as provided in Section 5, the maximum number of shares of
+Stock that may be issued under the Plan is 2,000,000.  In the event that any
+award granted under the Plan denominated in shares for any reason expires or is
+canceled, terminated or paid in cash, or shares of Stock subject to forfeiture
+are forfeited to the Company, the shares allocable to such award or such
+forfeited shares shall again be available for issuance under the Plan.
+Notwithstanding the foregoing, any such shares shall be made subject to a new
+award only if the grant of such new award and the issuance of such shares
+pursuant to such new award would not cause the Plan or any award granted under
+the Plan to contravene Rule 16b-3.
+
+     5.   ADJUSTMENTS FOR CHANGES IN CAPITAL STRUCTURE.  Appropriate adjustments
+shall be made in the number and class of shares of Stock subject to the Plan, in
+the maximum number of shares set forth in Section 7(d), and to any awards
+outstanding under the Plan, other than Performance Units (as defined below), in
+the event of a stock dividend, stock split, reverse stock split,
+recapitalization, combination, reclassification or like change in the capital
+structure of the Company.  In the event a majority of the shares which are of
+the same class as the shares that are subject to outstanding awards under the
+Plan are exchanged for, converted into, or otherwise become shares of another
+corporation (the "NEW SHARES"), the Company may unilaterally amend outstanding
+awards to provide that such awards may be settled in New Shares.  In the event
+of any such amendment, the number of shares shall be adjusted in a fair and
+equitable manner.  Any and all new, substituted or additional shares or
+Performance Shares (as defined below) received by a Participant pursuant to this
+Section 5 will be subject to the applicable restrictions set forth in the
+agreement evidencing an award as if such shares or Performance Shares were part
+of the original award.
+
+     6.   TERM OF PLAN.  The Plan shall continue in effect until terminated by
+the Board or Committee or until all of the shares of Stock available for
+issuance under the Plan have been issued and all restrictions on such shares
+under the terms of the Plan and the agreements evidencing such awards have
+lapsed.
+
+     7.   PERFORMANCE AWARDS.
+
+          (a)  TYPES OF PERFORMANCE AWARDS.  The Committee may from time to time
+grant awards under this Section 7 ("PERFORMANCE AWARDS") which are
+Performance-Based Restricted Stock, Performance Shares, or Performance Units.
+Performance Awards shall be evidenced by written agreements, in such form as the
+Committee shall from time to time establish, specifying the number of shares of
+Stock or the dollar amount covered thereby, the performance goals established by
+the Committee, the period in which such goals are to be met
+
+
+                                          3
+<PAGE>
+
+and the other terms, conditions and restrictions of the award, and which
+agreements may incorporate all or any of the terms of the Plan by reference.
+The Committee shall not require a Participant to make any monetary payment
+(other than applicable tax withholding) as a condition of receiving a
+Performance Award.
+
+               (i)    "PERFORMANCE-BASED RESTRICTED STOCK" shall mean shares of
+Stock awarded to a Participant which, in accordance with rules established by
+the Committee prior to the grant of such award, are subject to forfeiture in
+full or in part or with respect to which additional shares of Stock may be
+granted on the basis of the degree of attainment of Performance Goals (as
+defined below) within a Performance Period (as defined below).  Shares of
+Performance-Based Restricted Stock shall be evidenced in such manner as the
+Committee may deem appropriate, including by book-entry registration or issuance
+of one or more stock certificates.  Any certificate issued in respect of shares
+of Performance-Based Restricted Stock shall be registered in the name of the
+Participant and shall bear an appropriate legend referring to the terms,
+conditions, and restrictions applicable to such award.  The Committee may
+require that such certificates be held in the custody of the Company or other
+escrow agent until the restrictions thereon lapse.
+
+               (ii)   "PERFORMANCE SHARES" shall mean bookkeeping units,
+denominated in shares of Stock, awarded to a Participant which, in accordance
+with rules established by the Committee prior to the grant of such award, are
+subject to forfeiture in full or in part or with respect to which additional
+shares of Stock may be granted on the basis of the degree of attainment of
+Performance Goals (as defined below) within a Performance Period (as defined
+below).
+
+               (iii)  "PERFORMANCE UNITS" shall mean bookkeeping units,
+denominated in dollar amounts, awarded to a Participant which, in accordance
+with rules established by the Committee prior to the grant of such award, are
+subject to forfeiture in full or in part or with respect to which additional
+such units may be granted on the basis of the degree of attainment of
+Performance Goals (as defined below) within a Performance Period (as defined
+below).
+
+          (b)  PERFORMANCE GOALS AND PERFORMANCE PERIOD.  Prior to the grant of
+a Performance Award, the Committee shall establish with respect to one or more
+of the Performance Factors set forth below the target levels of attainment of
+such Performance Factors (collectively, "PERFORMANCE GOALS") which, when
+measured at the end of the Performance Period (as defined below), shall
+determine the number of shares of Stock, if any, which shall become
+nonforfeitable and/or issuable with respect to such Performance Award or the
+dollar amount, if any, payable with respect to such Performance Award.  The
+agreement evidencing a Performance Award shall set forth the applicable
+Performance Goals and the number of shares of Stock or dollar amount, as the
+case may be, which may be earned by the Participant upon the attainment of the
+Performance Goals at the end of the Performance Period.
+
+               (i)    "PERFORMANCE FACTORS" shall mean, with respect to the
+Company and each parent and subsidiary corporation consolidated therewith for
+financial reporting purposes or such division or other business unit thereof as
+may be selected by the Committee:
+
+
+                                          4
+<PAGE>
+
+                      (A)     growth in revenue,
+
+                      (B)     operating margin,
+
+                      (C)     total return on shares of Stock relative to the
+increase in the Hambrecht & Quist Technology Index or such other appropriate
+index as may be selected by the Committee,
+
+                      (D)     earnings per share,
+
+                      (E)     return on stockholder equity,
+
+                      (F)     return on assets, and
+
+                      (G)     cash flow, as indicated by book earnings before
+interest, taxes, depreciation and amortization.
+
+For purposes of the Plan, Performance Factors shall be measured before the
+effect of accounting changes, restructuring charges and similar extraordinary
+items, determined according to criteria established by the Committee.
+
+               (ii)   "PERFORMANCE PERIOD" shall mean a period of three (3)
+consecutive fiscal years of the Company, at the end of which the degree of
+attainment of the Performance Goals is measured.  Performance Periods for
+different Performance Awards, including Performance Awards made to the same
+Participant, need not be consecutive.
+
+          (c)  SETTLEMENT OF PERFORMANCE AWARDS.  As soon as practicable
+following the completion of the Performance Period, the Committee shall certify
+in writing the degree of attainment of the Performance Goals and the number of
+shares of Stock, if any, which shall be nonforfeitable and/or issued, or the
+dollar amount, if any, earned upon settlement of a Performance Award in
+accordance with the terms of such award.  The Committee, in its sole discretion,
+may elect to pay earned Performance Shares or Performance Units in shares of
+Stock, cash or any combination thereof.  Payment of Performance Shares in cash
+or payment of Performance Units in shares of Stock shall be based on the fair
+market value of a share of Stock on the date of payment.  The Company shall
+promptly notify the Participant of the determination of the Committee and
+deliver to the Participant the appropriate cash payment and/or shares of Stock,
+free of the restrictions imposed by this Section 7, subject to satisfaction of
+the Company's tax withholding obligations, if any, as provided in Section 12.
+The Committee shall have no discretion to increase the number of shares of Stock
+nonforfeitable and/or issuable or the dollar amount payable upon settlement of a
+Performance Award in excess of the amount called for by the terms of such award
+with respect to the degree of attainment of the Performance Goals certified by
+the Committee.
+
+          (d)  MAXIMUM PERFORMANCE AWARD.  Subject to adjustment as provided in
+Section 5, no Participant may be granted a Performance Award in the form of
+Performance-Based Restricted Stock or Performance Shares which could result in
+such Participant receiving
+
+
+                                          5
+<PAGE>
+
+more than 200,000 shares of Stock free of the restrictions imposed by this
+Section 7 with respect to any Performance Period or a Performance Award in the
+form of Performance Units which could result in such Participant receiving more
+than $10,000,000 with respect to any Performance Period.  No Participant may be
+granted more than one (1) Performance Award for the same Performance Period.
+
+          (e)  DISCRETION TO REDUCE PERFORMANCE AWARDS.  Notwithstanding the
+attainment of any Performance Goal, the Committee shall have the discretion to
+reduce some or all of a Performance Award that would otherwise be paid.
+
+     8.   RESTRICTED STOCK.  The Committee may from time to time grant shares of
+Stock under this Section 8 ("RESTRICTED STOCK").  Restricted Stock awards shall
+be evidenced by written agreements, in such form as the Committee shall from
+time to time establish, specifying the number of shares of Stock covered thereby
+and the terms, conditions and restrictions of the award, and which agreements
+may incorporate all or any of the terms of the Plan by reference.  The number of
+shares of Restricted Stock which a Participant may receive under the Plan shall
+be determined by the Committee in its sole discretion.  Shares of Restricted
+Stock shall be evidenced in such manner as the Committee may deem appropriate,
+including by book-entry registration or issuance of one or more stock
+certificates.  Any certificate issued in respect of shares of Restricted Stock
+shall be registered in the name of the Participant and shall bear an appropriate
+legend referring to the terms, conditions, and restrictions applicable to such
+award.  The Committee may require that such certificates be held in the custody
+of the Company or other escrow agent until the restrictions thereon lapse.  The
+Committee shall not require a Participant to make any monetary payment (other
+than applicable tax withholding) as a condition of receiving Restricted Stock.
+
+     9.   VOTING RIGHTS.  A Participant issued shares of Stock pursuant to an
+award of Performance-Based Restricted Stock or Restricted Stock shall be
+entitled to vote such shares.  A Participant awarded Performance Shares shall
+not be entitled to vote any shares of Stock represented by such Performance
+Shares until the date of issuance of shares of Stock upon settlement of such
+award.
+
+     10.  DIVIDENDS AND OTHER DISTRIBUTIONS.  Except as provided in this Section
+10 or in Section 5, no Participant shall be entitled to dividends or other
+distributions (collectively, "DIVIDENDS") with respect to shares of Stock
+subject to an award under the Plan for which the record date is prior to the
+later of the date such shares are issued to the Participant or the date on which
+such shares become nonforfeitable under the terms of the agreement evidencing
+such award.
+
+          (a)  PERFORMANCE-BASED RESTRICTED STOCK AND RESTRICTED STOCK.  With
+respect to shares of Stock issued pursuant to the award of Performance-Based
+Restricted Stock or Restricted Stock, the Committee may, in its sole discretion,
+provide either for the current payment of Dividends or the accumulation and
+payment of Dividends to the extent that such shares become nonforfeitable.
+
+
+                                          6
+<PAGE>
+
+          (b)  PERFORMANCE SHARES.  With respect to Performance Shares, the
+Committee may, in its sole discretion, provide that dividend equivalents shall
+not be paid or provide either for the current payment of dividend equivalents or
+the accumulation and payment of dividend equivalents to the extent that the
+Performance shares become nonforfeitable.
+
+          (c)  PERFORMANCE UNITS.  Dividend equivalents shall not be paid with
+respect to Performance Units.
+
+     11.  CHANGE OF CONTROL.
+
+          (a)  DEFINITION.  A "CHANGE OF CONTROL" shall be deemed to have
+occurred in the event any of the following occurs with respect to the Company:
+
+               (i)    the direct or indirect sale or exchange by the
+stockholders of the Company of all or substantially all of the stock of the
+Company where the stockholders of the Company before such sale or exchange do
+not retain, directly or indirectly, at least a majority of the beneficial
+interest in the voting stock of the Company after such sale or exchange;
+
+               (ii)   a merger or consolidation in which the Company is not the
+surviving corporation;
+
+               (iii)  a merger or consolidation in which the Company is the
+surviving corporation where the stockholders of the Company before such merger
+or consolidation do not retain, directly or indirectly, at least a majority of
+the beneficial interest in the voting stock of the Company after such merger or
+consolidation;
+
+               (iv)   the sale, exchange, or transfer of all or substantially
+all of the assets of the Company (other than a sale, exchange, or transfer to
+one (1) or more subsidiary corporations of the Company); or
+
+               (v)    A liquidation or dissolution of the Company.
+
+          (b)  EFFECT ON PERFORMANCE AWARDS.  Notwithstanding any other
+provision of the Plan to the contrary, each Participant granted a Performance
+Award for a Performance Period that will not be completed as of the date of a
+Change of Control shall be deemed to have earned and shall receive immediately
+prior to the Change of Control, free of the restrictions imposed by Section 7,
+award consideration as provided in Section 7(c) equal to the product of (i) the
+target amount that may be earned under the Performance Award in accordance with
+the terms of the agreement evidencing such award and (ii) a fraction, the
+numerator of which is the number of full and partial months that have elapsed
+since the beginning of such Performance Period to the date on which the Change
+of Control occurs, and the denominator of which is the total number of months in
+such Performance Period.
+
+          (c)  EFFECT ON RESTRICTED STOCK.  Notwithstanding any other provision
+of the Plan to the contrary, all forfeiture conditions and restrictions imposed
+under outstanding
+
+
+                                          7
+<PAGE>
+
+agreements evidencing Restricted Stock shall automatically lapse immediately
+prior to a Change of Control.
+
+     12.  TAX WITHHOLDING.  The Company shall have the right to deduct from the
+payment of any award hereunder any federal, state, local or foreign taxes
+required by law to be withheld with respect to such payment.  Alternatively, in
+its sole discretion, the Company shall have the right to require the
+Participant, through payroll withholding or otherwise, to make adequate
+provision for any such tax withholding obligations of the Company arising in
+connection with such award.  The Company shall have no obligation to deliver
+cash and/or shares of Stock in payment of an award unless the Company's tax
+withholding obligations have been satisfied.
+
+     13.  PROVISION OF INFORMATION.  Each Participant shall be given access to
+information concerning the Company equivalent to that information generally made
+available to the Company's common stockholders.
+
+     14.  NONTRANSFERABILITY OF AWARDS.  Prior to the payment of, and lapse of
+all restrictions with respect to, an award under the Plan, no award or any
+rights or interests therein may be assigned or transferred in any manner except
+by will or by the laws of descent and distribution.
+
+     15.  TERMINATION OR AMENDMENT OF PLAN AND AWARDS.  The Committee or the
+Board may terminate or amend the Plan or any award under the Plan at any time;
+provided, however, that no such termination or amendment may adversely affect
+any outstanding award without the consent of the Participant, unless such
+termination or amendment is necessary to comply with any applicable law or
+government regulation.  An award shall be considered as outstanding as of the
+effective date of the grant of such award as determined by the Committee.
+Notwithstanding the foregoing, the approval of the Company's stockholders shall
+be sought for any amendment to the Plan or an award for which the Committee
+deems stockholder approval necessary in order to comply with Rule 16b-3.
+
+     16.  CONTINUATION OF INITIAL PLAN AS TO OUTSTANDING AWARDS.
+Notwithstanding any other provision of the Plan to the contrary, the terms of
+the Initial Plan shall remain in effect and apply to awards granted pursuant to
+the Initial Plan.
+
+     IN WITNESS WHEREOF, the undersigned Secretary of the Company certifies that
+the foregoing Adobe Systems Incorporated Amended 1994 Performance and Restricted
+Stock Plan was duly adopted by the Board of Directors of the Company on the 18th
+day of February, 1998.
+
+
+                                   By   /s/ Colleen M. Pouliot
+                                        ------------------------------
+                                        Secretary
+
+
+                                          8
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>3
+<DESCRIPTION>EXHIBIT 27.1
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED BALANCE SHEET AT MAY 29, 1998, AND THE CONSOLIDATED STATEMENT OF
+INCOME FOR THE SIX MONTHS ENDED MAY 29, 1998, AND IS QUALIFIED IN ITS ENTIRETY
+BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          NOV-27-1998
+<PERIOD-START>                             NOV-29-1997
+<PERIOD-END>                               MAY-29-1998
+<CASH>                                         115,358
+<SECURITIES>                                   277,246
+<RECEIVABLES>                                  156,430
+<ALLOWANCES>                                     4,544
+<INVENTORY>                                      5,702
+<CURRENT-ASSETS>                               589,164
+<PP&E>                                         222,817
+<DEPRECIATION>                                 122,903
+<TOTAL-ASSETS>                                 898,053
+<CURRENT-LIABILITIES>                          213,815
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                             7
+<OTHER-SE>                                     684,231
+<TOTAL-LIABILITY-AND-EQUITY>                   898,053
+<SALES>                                         84,307
+<TOTAL-REVENUES>                               425,123
+<CGS>                                           57,278
+<TOTAL-COSTS>                                   57,278
+<OTHER-EXPENSES>                               307,842
+<LOSS-PROVISION>                                 1,087
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                 87,280
+<INCOME-TAX>                                    32,556
+<INCOME-CONTINUING>                             54,724
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    54,724
+<EPS-PRIMARY>                                     0.81
+<EPS-DILUTED>                                     0.79
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.2
+<SEQUENCE>4
+<DESCRIPTION>EXHIBIT 27.2
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED BALANCE SHEET AT MAY 30, 1997, AND THE CONSOLIDATED STATEMENT OF
+INCOME FOR THE SIX MONTHS ENDED MAY 30, 1997, AND IS QUALIFIED IN ITS ENTIRETY
+BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<RESTATED> 
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          NOV-28-1997
+<PERIOD-START>                             NOV-30-1996
+<PERIOD-END>                               MAY-30-1997
+<CASH>                                         185,587
+<SECURITIES>                                   461,874
+<RECEIVABLES>                                  135,809
+<ALLOWANCES>                                     4,825
+<INVENTORY>                                      9,155
+<CURRENT-ASSETS>                               827,677
+<PP&E>                                         174,096
+<DEPRECIATION>                                  91,179
+<TOTAL-ASSETS>                               1,080,379
+<CURRENT-LIABILITIES>                          233,246
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                             7
+<OTHER-SE>                                     847,126
+<TOTAL-LIABILITY-AND-EQUITY>                 1,080,379
+<SALES>                                        104,721
+<TOTAL-REVENUES>                               454,723
+<CGS>                                           66,947
+<TOTAL-COSTS>                                   66,947
+<OTHER-EXPENSES>                               265,643
+<LOSS-PROVISION>                                   424
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                136,371
+<INCOME-TAX>                                    49,781
+<INCOME-CONTINUING>                             86,590
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    86,590
+<EPS-PRIMARY>                                     1.21
+<EPS-DILUTED>                                     1.17
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

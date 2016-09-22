@@ -1,0 +1,1163 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IdronMBzytEXWGWc8iOBLUJmGZdC8Wy11dyk7E6VOPB0KzL+FdRtY/uHvugUt6GI
+ EpjLBCIcx2j+sFsrxlLovQ==
+
+<SEC-DOCUMENT>0000891618-99-003818.txt : 19990817
+<SEC-HEADER>0000891618-99-003818.hdr.sgml : 19990817
+ACCESSION NUMBER:		0000891618-99-003818
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990630
+FILED AS OF DATE:		19990816
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALTERA CORP
+		CENTRAL INDEX KEY:			0000768251
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770016691
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-16617
+		FILM NUMBER:		99691248
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 INNOVATION DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4085448000
+
+	MAIL ADDRESS:	
+		STREET 1:		101 INNOVATION DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR THE PERIOD ENDING 6/30/1999
+<TEXT>
+
+<PAGE>   1
+
+                     U.S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                    FORM 10-Q
+
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                  For the quarterly period ended June 30, 1999
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+
+             For the transition period from __________ to __________
+
+
+                         Commission file number 0-16617
+
+
+                               ALTERA CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+<TABLE>
+<S>                                                       <C>
+          DELAWARE                                              77-0016691
+(State or other jurisdiction of                              (I.R.S. Employer
+ incorporation or organization)                           Identification Number)
+</TABLE>
+
+
+                              101 INNOVATION DRIVE
+                           SAN JOSE, CALIFORNIA 95134
+                    (Address of principal executive offices)
+
+
+
+                                  408-544-7000
+              (Registrant's telephone number, including area code)
+
+
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for at least the past 90 days.
+
+
+                                Yes [X]    No [ ]
+
+
+Number of shares of common stock outstanding at August 6, 1999: 198,876,871
+<PAGE>   2
+
+<TABLE>
+<CAPTION>
+                                                                             NUMBER
+<S>               <C>                                                          <C>
+PART I   FINANCIAL INFORMATION
+
+ITEM 1:  Financial Statements
+
+         Condensed Consolidated Balance Sheets as of June 30, 1999
+            and December 31, 1998 ............................................  3
+
+         Condensed Consolidated Statements of Operations for the
+            Three and Six Months Ended June 30, 1999 and 1998.................  4
+
+         Condensed Consolidated Statements of Cash Flows for the
+            Six Months Ended June 30, 1999 and 1998 ..........................  5
+
+         Notes to Condensed Consolidated Financial Statements ................  6
+
+ITEM 2:  Management's Discussion and Analysis of Financial Conditions
+            and Results of Operations ........................................  9
+
+
+PART II  OTHER INFORMATION
+
+ITEM 1:  Legal Proceedings.................................................... 17
+
+ITEM 4:  Submission of Matters to a Vote of Security Holders.................. 18
+
+ITEM 5:  Other Information ................................................... 18
+
+ITEM 6:  Exhibits and Reports on Form 8-K..................................... 19
+
+
+Signatures.................................................................... 20
+</TABLE>
+
+
+                                       2
+
+<PAGE>   3
+
+PART I  FINANCIAL INFORMATION
+
+ITEM 1: Financial Statements
+
+
+                               ALTERA CORPORATION
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                            (Unaudited, in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                                 June 30,        December 31,
+                                                   1999              1998
+                                                ----------       ------------
+<S>                                             <C>              <C>
+ASSETS
+
+Current assets:
+  Cash and cash equivalents                     $  182,796        $  131,029
+  Short-term investments                           492,974           448,077
+                                                ----------        ----------
+       Total cash, cash equivalents,
+          and short-term investments               675,770           579,106
+  Accounts receivable, net                          77,908            56,138
+  Inventories                                       65,861            69,869
+  Deferred income taxes                             71,394            69,644
+  Other current assets                              22,552            24,776
+                                                ----------        ----------
+       Total current assets                        913,485           799,533
+
+Property and equipment, net                        150,621           152,320
+Investments and other assets                       161,869           141,478
+                                                ----------        ----------
+                                                $1,225,975        $1,093,331
+                                                ==========        ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                              $    7,549        $   14,479
+  Accrued liabilities                               14,470            16,615
+  Accrued compensation                              12,767            19,356
+  Deferred income on sales to distributors         166,308           161,160
+                                                ----------        ----------
+       Total current liabilities                   201,094           211,610
+                                                ----------        ----------
+
+Stockholders' equity:
+  Common stock                                         199                98
+  Capital in excess of par value                   359,188           314,182
+  Retained earnings                                665,494           567,441
+                                                ----------        ----------
+       Total stockholders' equity                1,024,881           881,721
+                                                ----------        ----------
+                                                $1,225,975        $1,093,331
+                                                ==========        ==========
+</TABLE>
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       3
+
+<PAGE>   4
+
+                               ALTERA CORPORATION
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (In thousands, except per share amounts)
+                                   (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                              Three Months Ended             Six Months Ended
+                                                   June 30,                      June 30,
+                                            -----------------------       -----------------------
+                                              1999          1998            1999          1998
+                                            ---------     ---------       ---------     ---------
+<S>                                         <C>           <C>             <C>           <C>
+Sales                                       $ 197,783     $ 160,476       $ 384,182     $ 317,692
+Costs & expenses:
+   Cost of sales                               72,268        61,691         141,422       121,781
+   Research and development                    19,862        14,233          36,885        28,640
+   Selling, general and administrative         33,741        28,572          66,061        56,710
+                                            ---------     ---------       ---------     ---------
+Total costs and expenses                      125,871       104,496         244,368       207,131
+                                            ---------     ---------       ---------     ---------
+Income from operations                         71,912        55,980         139,814       110,561
+Interest and other income, net                  6,005         1,665          10,623         1,817
+                                            ---------     ---------       ---------     ---------
+Income before income taxes and
+   equity investment                           77,917        57,645         150,437       112,378
+Provision for income taxes                     25,323        18,733          48,892        36,520
+                                            ---------     ---------       ---------     ---------
+Income before equity investment                52,594        38,912         101,545        75,858
+Equity in loss of WaferTech, LLC               (1,516)       (2,296)         (3,492)       (4,107)
+                                            ---------     ---------       ---------     ---------
+Net income                                  $  51,078     $  36,616       $  98,053     $  71,751
+                                            =========     =========       =========     =========
+
+EARNINGS PER SHARE:
+   Basic                                    $    0.26     $    0.20       $    0.50     $    0.40
+                                            =========     =========       =========     =========
+   Diluted                                  $    0.25     $    0.19       $    0.48     $    0.37
+                                            =========     =========       =========     =========
+WEIGHTED AVERAGE SHARES:
+   Basic                                      197,533       180,622         196,699       179,202
+                                            =========     =========       =========     =========
+   Diluted                                    206,748       203,224         206,060       203,570
+                                            =========     =========       =========     =========
+</TABLE>
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       4
+
+<PAGE>   5
+
+                               ALTERA CORPORATION
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                            (Unaudited, in thousands)
+
+<TABLE>
+<CAPTION>
+                                                              Six Months Ended
+                                                                   June 30,
+                                                          -------------------------
+                                                            1999            1998
+                                                          ---------       ---------
+<S>                                                       <C>              <C>
+Cash Flows from Operating Activities:
+   Net income                                             $  98,053       $  71,751
+   Adjustments to reconcile net income to net cash
+   provided by operating activities:
+      Equity in loss of WaferTech                             3,492           4,107
+      Depreciation and amortization                          13,948          15,213
+      Deferred income taxes                                  (1,750)         (3,000)
+      Changes in assets and liabilities:
+         Accounts receivable, net                           (21,770)         (5,540)
+         Inventories                                          3,367          21,647
+         Other assets                                        17,685             101
+         Accounts payable and accrued liabilities           (15,824)         (5,154)
+         Deferred income on sales to distributors             5,148          15,733
+         Income taxes payable                                38,763           6,533
+                                                          ---------       ---------
+Cash provided by operating activities                       141,112         121,391
+                                                          ---------       ---------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Purchases of property and equipment                      (10,953)        (11,999)
+   Net change in short-term investments                     (44,897)        (25,071)
+   Investment in WaferTech, LLC                             (37,500)             --
+   Net change in long-term investments                         (588)          1,126
+                                                          ---------       ---------
+Cash used for investing activities                          (93,938)        (35,944)
+                                                          ---------       ---------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Net proceeds from issuance of common stock                17,439           7,435
+   Repurchase of common stock                               (12,846)        (51,766)
+                                                          ---------       ---------
+Cash provided by (used for) financing activities              4,593         (44,331)
+                                                          ---------       ---------
+Net increase in cash and cash equivalents                    51,767          41,116
+Cash and cash equivalents at beginning of period            131,029          22,761
+                                                          ---------       ---------
+Cash and cash equivalents at end of period                $ 182,796       $  63,877
+                                                          =========       =========
+Supplemental disclosure of non-cash items:
+   Conversion of subordinated debt into common stock      $      --       $ 226,787
+
+Supplemental disclosure of cash flow information:
+   Cash paid during the period for income taxes           $  14,540       $  30,361
+   Cash paid during the period for interest                      --           6,568
+</TABLE>
+
+     See accompanying notes to condensed consolidated financial statements.
+
+
+                                       5
+
+<PAGE>   6
+
+                               ALTERA CORPORATION
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+
+Note 1 - Organization and Basis of Presentation:
+
+The condensed consolidated financial information as of June 30, 1999 and for the
+six month periods ended June 30, 1999 and 1998 included herein is unaudited and
+has been prepared by the Company in accordance with generally accepted
+accounting principles and reflects all adjustments, consisting only of normal
+recurring adjustments, which in the opinion of management are necessary to state
+fairly the Company's financial position, results of operations, and cash flows
+for the periods presented. The December 31, 1998 balance sheet was derived from
+audited financial statements on that date. All significant intercompany
+transactions and balances have been eliminated.
+
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and the disclosure of
+contingent assets and liabilities at the date of the financial statements as
+well as the reported amounts of revenue and expenses during the reporting
+period. Actual results will differ from those estimates, and such differences
+may be material to the financial statements. These condensed consolidated
+financial statements should be read in conjunction with the Company's audited
+consolidated financial statements for the year ended December 31, 1998 included
+in the Company's Annual Report on Form 10-K, as filed on March 30, 1999, with
+the Securities and Exchange Commission. The results of operations for the six
+months ended June 30, 1999 are not necessarily indicative of the results to be
+expected for any future periods.
+
+The Company has an interim period that ends on the Friday nearest June 30, 1999.
+For presentation purposes, the interim financial statements and accompanying
+notes refer to the Company's interim period end as June 30th.
+
+Certain prior year amounts have been reclassified to conform to the current
+year's presentation.
+
+Note 2 - Balance Sheet Details (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                  June 30,      December 31,
+                                                    1999            1998
+                                                 ---------      ------------
+<S>                                              <C>             <C>
+Inventories:
+  Purchased parts and raw materials              $      57       $      65
+  Work-in-process                                   45,990          46,207
+  Finished goods                                    19,814          23,597
+                                                 ---------       ---------
+                                                 $  65,861       $  69,869
+                                                 =========       =========
+
+Property and equipment:
+  Land                                           $  20,496       $  20,496
+  Building                                          80,583          80,338
+  Equipment and software                           121,181         115,332
+  Office furniture and fixtures                     10,674          10,287
+  Leasehold improvements                             1,293           1,183
+                                                 ---------       ---------
+                                                   234,227         227,636
+
+  Accumulated depreciation and amortization        (83,606)        (75,316)
+                                                 ---------       ---------
+                                                 $ 150,621       $ 152,320
+                                                 =========       =========
+</TABLE>
+
+
+                                       6
+
+<PAGE>   7
+
+Note 3 - Common Stock Split:
+
+On April 21, 1999, the Company declared a two-for-one stock split in the form of
+a 100 percent stock dividend to holders of record of the Company's common stock
+on May 4, 1999. The dividend shares were distributed to stockholders on May 19,
+1999. All share and per share data has been retroactively restated to reflect
+the two-for-one stock split for all periods presented.
+
+Note 4 - Earnings Per Share:
+
+Basic earnings per share is computed by dividing net income available to common
+stockholders by the weighted average number of common shares outstanding during
+the period and excludes the dilutive effect of stock options. Diluted earnings
+per share gives effect to all dilutive potential common shares outstanding
+during a period. In computing diluted earnings per share, the tax benefit
+resulting from employee stock transactions and the average stock price for the
+period are used in determining the number of shares assumed to be purchased from
+exercise of stock options.
+
+A reconciliation of basic and diluted earnings per share is presented below (in
+thousands, except per share amounts):
+
+<TABLE>
+<CAPTION>
+                                              Three Months Ended             Six Months Ended
+                                                   June 30,                      June 30,
+                                            -----------------------       -----------------------
+                                              1999          1998            1999          1998
+                                            ---------     ---------       ---------     ---------
+<S>                                         <C>           <C>             <C>           <C>
+Basic:
+Net income                                  $  51,078     $  36,616       $  98,053     $  71,751
+                                            =========     =========       =========     =========
+Weighted average common shares
+   outstanding                                197,533       180,622         196,699       179,202
+                                            =========     =========       =========     =========
+Basic earnings per share                    $    0.26     $    0.20       $    0.50     $    0.40
+                                            =========     =========       =========     =========
+
+Diluted:
+Net income                                  $  51,078     $  36,616       $  98,053     $  71,751
+Convertible notes interest, net of
+   income taxes and capitalized interest           --         1,807              --         4,039
+                                            ---------     ---------       ---------     ---------
+                                            $  51,078     $  38,423       $  98,053     $  75,790
+                                            =========     =========       =========     =========
+
+Weighted average common shares
+   outstanding                                197,533       180,622         196,699       179,202
+Dilutive stock options                          9,215         7,786           9,361         7,980
+Assumed conversion of notes                        --        14,816              --        16,388
+                                            ---------     ---------       ---------     ---------
+Weighted average common shares
+   outstanding                                206,748       203,224         206,060       203,570
+                                            =========     =========       =========     =========
+Diluted earnings per share                  $    0.25     $    0.19       $    0.48     $    0.37
+                                            =========     =========       =========     =========
+</TABLE>
+
+
+                                       7
+
+<PAGE>   8
+
+Note 5 - Common Stock Repurchase:
+
+In March, July and August of 1999, the Company repurchased 520,000, 275,000 and
+120,000 shares of common stock for an aggregate cost of $12.8 million, $10.0
+million and $4.3 million, respectively. The repurchased shares were retired upon
+acquisition. Since the inception of the repurchase program, the Company has
+repurchased a total of 5,135,000 shares.
+
+Note 6 - Convertible Subordinated Notes:
+
+In June 1995, the Company issued $230.0 million of convertible subordinated
+notes (the "Notes") due in June 2002 and bearing an interest rate of 5.75%,
+payable semiannually. The Notes were convertible into shares of the Company's
+common stock at a price of $25.59 per share. On May 15, 1998, the Company called
+for the redemption of the Notes effective June 16, 1998. As a result,
+substantially all of the Notes were converted into 8,988,649 shares of common
+stock with the remaining Notes redeemed at a price of $1,033.06 per $1,000
+principal amount of the Notes. Total semi-annual interest paid on the Notes
+during 1998 was $6.5 million. The unamortized debt issuance costs as of the
+redemption date of approximately $3.1 million was recorded as a reduction to
+additional paid-in-capital.
+
+Note 7 - New Accounting Pronouncements:
+
+In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards ("SFAS") No. 133, "Accounting for Derivative
+Instruments and Hedging Activities." SFAS No. 133 establishes standards for
+accounting and reporting on derivative instruments for periods beginning after
+June 15, 2000 and early adoption is permitted. SFAS No. 133 requires that all
+derivative instruments be recognized in the balance sheet as either assets or
+liabilities and measured at fair value. Furthermore, SFAS No. 133 requires
+current recognition in earnings of changes in the fair value of derivative
+instruments depending on the intended use of the derivative and the resulting
+designation. The Company expects that its adoption of SFAS No. 133, which will
+become effective in fiscal year 2001, will not have a material effect on the
+Company's financial statements.
+
+
+                                       8
+
+<PAGE>   9
+
+ITEM 2: Management's Discussion and Analysis of Financial Conditions and Results
+        of Operations
+
+     The following Discussion and Analysis of Financial Conditions and Results
+of Operations contains "forward looking statements" within the meaning of
+Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934. Forward looking statements are generally written in the
+future tense and/or are preceded by words such as "expects," "suggests,"
+"believes," "anticipates," or "intends." The Company's future results of
+operations and the other forward looking statements contained in this Report
+involve a number of risks and uncertainties, many of which are outside the
+Company's control. Some of these risks and uncertainties are described in
+proximity to forward looking statements. Factors that could cause actual results
+to differ materially from projected results include but are not limited to risks
+associated with the Company's ability to achieve continued cost reductions and
+maintain gross margins, the Company's ability to continue to achieve die size
+reductions, the Company's ability to achieve and maintain appropriate inventory
+mix and levels and respond successfully to changes in product demand, the
+ability of price reductions to increase demand and strengthen the Company's
+market share over the long term, successful development and subsequent
+introduction of new products through investment in research and development and
+application of new process technologies to old and new product lines, market
+acceptance of the Company's new products and continued demand for the Company's
+existing products, the Company's ability to finance its operations and
+expenditures, the ability of Third Parties to be Y2K compliant, and general
+market conditions. Additional risk factors are disclosed in the Company's 1998
+Annual Report on Form 10-K on file with the Securities and Exchange Commission.
+
+RESULTS OF OPERATIONS
+
+Sales
+
+     Sales during the second quarter of 1999 were $197.8 million, or 23.2%
+higher than the $160.5 million reported for the same period last year. Sales in
+the second quarter of 1999 increased from the same period last year primarily
+due to increases in unit sales of New and Mainstream products, which were
+partially offset by lower unit sales of Mature products. Sales of New products
+increased to $52.2 million or 216.2% in the second quarter of 1999 from $16.5
+million in the second quarter of 1998, while sales of Mainstream products
+increased to $73.9 million or 38.7% from $53.3 million. During the same periods,
+sales of Mature products decreased to $58.2 million or 22.5% from $75.0 million.
+Sales during the six months ended June 30, 1999 were $384.2 million or 20.9%
+higher than the $317.7 million reported for the same period last year. This
+increase is attributable primarily to the increase in unit sales of New and
+Mainstream products partially offset by a decrease in unit sales of Mature
+products. Sales of New and Mainstream products increased $66.8 million and $47.4
+million or 262.8% and 49.1%, respectively, in the first six months of 1999
+compared to the first six months of 1998. During the same periods, sales of
+Mature products decreased $46.9 million or 28.4%. Management expects that the
+decline in sales of the Mature products, which presently comprise approximately
+29.4% of the Company's revenue base during the second quarter of 1999 and 30.8%
+during the six months ended June 30, 1999, will continue. The Company's ability
+to maintain or increase sales in the future is dependent on sales of New and
+Mainstream product families increasing more rapidly than the decline
+
+
+                                       9
+
+<PAGE>   10
+
+in sales of Mature product families. While management is optimistic that New and
+Mainstream product sales will increase, there can be no assurances that New and
+Mainstream product sales growth will offset the decline in sales of Mature
+products.
+
+     In the third quarter of 1998, the composition of the Company's product
+categories was changed and prior data reported here have been restated to
+reflect those changes. New products now consist of the Company's 3.3-volt (or
+lower) families, are manufactured on a 0.35-micron (or finer) geometry and are
+made up of the FLEX 10KA/10KE, FLEX 6000/6000A, MAX 7000A/7000B and APEX
+families. Sales of New products represented 26.4% of total sales in the second
+quarter of 1999 as compared to 10.3% in the second quarter of 1998. Mainstream
+products now include the MAX 7000S, MAX 9000 and FLEX 10K families. Sales of
+Mainstream products represented 37.4% of total sales in the second quarter of
+1999 and 33.2% in the second quarter of 1998. Mature products now consist of the
+Classic, MAX 5000, MAX 7000 and FLEX 8000 families. Sales of Mature products
+represented 29.4% of total sales in the second quarter of 1999 and 46.8% in the
+second quarter of 1998. Other products include Tools, FLASHlogic, Configuration
+Devices, MPLDs, and FSPs. Other products represented 6.8% and 9.7% of total
+sales in the second quarters of 1999 and 1998, respectively.
+
+     Sales in North America, Japan and Asia Pacific increased, while sales in
+Europe declined as a percentage of total sales in the first six months of 1999
+compared to the first six months of 1998. Sales in North America increased 22.7%
+to $215.4 million from $175.6 million, Japan increased 28.7% to $75.1 million
+from $58.3 million and Asia Pacific increased 74.6% to $21.8 million from $12.5
+million. European sales remained flat at approximately $71.0 million for each of
+the respective periods.
+
+Gross Margin
+
+     Gross Margin for the three and six months ended June 30, 1999 were $125.5
+million or 63.5% of sales and $242.8 million or 63.2% of sales, respectively.
+Gross margin for the comparable periods in 1998 were $98.8 million or 61.6% of
+sales and $195.9 million or 61.7% of sales, respectively. The increase was
+primarily attributable to cost reductions as a result of manufacturing process
+improvements.
+
+     Yields measured as a total for all product families increased slightly in
+the six months ended June 30, 1999 over the same period a year ago primarily due
+to improved yields on FLEX 10K and FLEX 10KA products, partially offset by yield
+reduction on FLEX 10KE products. The Company achieved additional cost reductions
+on its FLEX 10KA family through new wafer process technologies (die shrinks).
+The Company continues to spend significant research and development resources to
+improve production yields on both new and established products. Difficulties in
+production yields can often occur when the Company is beginning production of
+new products or transitioning to new processes. These difficulties can
+potentially result in significantly higher costs and lower product availability.
+For example, in the second quarter of 1999, limited availability of packaging
+material (piece parts) used in certain of the Company's new and proprietary
+FineLine BGA ("Ball Grid Array") packages limited production. This in turn
+limited shipments of the Company's new
+
+
+                                       10
+
+<PAGE>   11
+
+FLEX 10KE product family. Management expects to continue to introduce new and
+established products using new process technologies and may encounter similar
+start-up difficulties during the transition to such process technologies.
+Further, production throughput times vary considerably among the Company's wafer
+suppliers, and the Company may experience delays from time to time in processing
+some of its products which also may result in higher costs and lower product
+availability.
+
+Research and Development
+
+     Research and development expenditures for the three months ended June 30,
+1999 and 1998 were $19.9 million and $14.2 million, or 10.0% and 8.9% of sales,
+respectively. For the six months ended June 30, 1999 and 1998, research and
+development expenses were $36.9 million and $28.6 million, or 9.6% and 9.0% of
+sales, respectively. Research and development expenditures include expenditures
+for labor, prototype and pre-production costs, development of process
+technology, development of software to support new products and design
+environments, and development of new packages. In absolute dollars, expenses
+increased primarily as a result of increased headcount, spending on masks,
+wafers, package development and outside development services. This increased
+spending relates to the development of new products including FLEX 10KA/10KE,
+MAX 3000A, MAX 7000A/7000B and APEX, as well as the Quartus software.
+Historically, the level of research and development expenditures as a percentage
+of sales has fluctuated in part due to the timing of the purchase of masks and
+wafers used in development and prototyping of new products. The Company expects
+that, in the long term, research and development expenses will increase in
+absolute dollars but may fluctuate as a percentage of sales.
+
+     The Company expects to continue to make significant investments in the
+development of FLEX 10KA/10KE, MAX 3000A, MAX 7000A/7000B, APEX and Quartus
+software. During the first quarter of 1999, the Company shipped its newest
+family of devices, APEX, and its new fourth generation software design tool,
+Quartus. APEX devices utilize a new architecture for programmable logic and
+address higher density designs. APEX devices are exclusively supported by the
+Company's new software design tool, Quartus. The commercial success of the APEX
+family is dependent on the acceptance of its use in high-density designs and the
+successful introduction and acceptance of the Quartus design software.
+Management expects both products to be successful in the market, however, it can
+give no assurances that this will be the case. The Company also continues to
+focus its efforts on the development of new programmable logic chips, related
+development software and hardware, and advanced semiconductor wafer fabrication
+processes. However, there can be no assurance that the Company will accomplish
+its goals in the development and subsequent introduction of new products and
+manufacturing processes. Furthermore, there is no assurance that these products
+will achieve market acceptance, that the new manufacturing processes will be
+successful, or that the suppliers will provide the Company with the quality or
+quantity of wafers and materials that the Company requires. The Company must
+continue to develop and introduce new products in a timely manner to help
+counter the industry's historical trend of declining prices as products mature.
+
+
+                                       11
+
+<PAGE>   12
+
+Selling, General and Administrative
+
+     Selling, general and administrative expenses for the three months ended
+June 30, 1999 and 1998 were $33.7 million and $28.6 million, or 17.1% and 17.8%
+of sales, respectively. For the six months ended June 30, 1999 and 1998,
+selling, general and administrative expenses were $66.1 million and $56.7
+million, or 17.2% and 17.9% of sales, respectively. Selling, general, and
+administrative expenses include commission and incentive expenses, advertising
+and promotional expenditures, legal expenses and salary expenses related to
+field sales, marketing and administrative personnel. In absolute dollars, the
+increase in selling, general and administrative expenses was mainly driven by
+increased personnel expenses for marketing and administration, higher commission
+and incentive expenses associated with higher sales.
+
+Income from Operations
+
+     Income from operations for the second quarters of 1999 and 1998 were $71.9
+million and $56.0 million, or 36.4% and 34.9% of sales, respectively. For the
+six months ended June 30, 1999 and 1998, income from operations were $139.8
+million and $110.6 million, or 36.4% and 34.8% of sales, respectively. The
+year-to-year increase in operating income, as a percentage of sales, was
+primarily due to improvements in gross margin.
+
+Interest and Other Income
+
+     Interest and other income for the three months ended June 30, 1999 and 1998
+were $6.0 million and $1.7 million, respectively. For the six months ended June
+30, 1999 and 1998, interest and other income were $10.6 million and $1.8
+million, respectively. Interest and other income consists mainly of interest
+income on cash balances available for investment. The increase in interest and
+other income was primarily due to the reduction in interest expense related to
+the conversion of the convertible subordinated notes during the second quarter
+of 1998 and the increase in interest income related to higher cash balances
+available for investment. The increase in interest and other income was
+partially offset by a $1.2 million charge attributed to the write-off of an
+equity investment during the first quarter of 1999.
+
+Provision for Income Taxes
+
+     The Company's effective tax rate was 32.5% for the three and six months
+ended June 30, 1999 and 1998.
+
+
+                                       12
+
+<PAGE>   13
+
+Equity Investment
+
+     In June 1996, the Company, TSMC and several other partners formed
+WaferTech, LLC ("WaferTech"), a joint-venture company, to build and operate a
+wafer manufacturing plant in Camas, Washington. In return for a $140.4 million
+cash investment, the Company received an 18% equity ownership in the
+joint-venture company and certain rights and obligations to procure up to 27% of
+the factory's output at market prices. In January 1999, the Company purchased
+from Analog Devices, Inc. an additional 5% equity ownership interest in
+WaferTech for approximately $37.5 million, increasing its ownership interest to
+23% and enabling the Company to procure up to 35% of the factory's output at
+market prices. The Company accounts for this investment under the equity method
+based on the Company's ability to exercise significant influence on the
+operating and financial policies of WaferTech. The Company's equity in the net
+loss of WaferTech was $1.5 million and $3.5 million for the three and six months
+ended June 30, 1999, respectively, as compared to $2.3 million and $4.1 million
+for the same periods a year ago.
+
+Future Results
+
+     Future operating results will depend on the Company's ability to develop,
+manufacture and sell complex semiconductor components and programming software
+that offer customers greater value than solutions offered by competing vendors.
+The Company's efforts in this regard may not be successful. The Company is
+developing programmable chips for applications that are presently served by
+other ASIC vendors. These vendors have well-established market positions and a
+solution that has been proven technically feasible and economically competitive
+over several decades. There can be no assurance that the Company will be
+successful in displacing ASIC vendors in the targeted applications and
+densities. Furthermore, other programmable logic vendors are targeting these
+applications and may be successful in securing market share to the exclusion of
+the Company. Moreover, standard cell technologies are increasingly used by the
+Company's customers to achieve greater integration in their systems; this may
+not only impede the Company's efforts to penetrate the ASIC market but may also
+displace the Company's products in the applications that it presently serves.
+The Company's future growth will depend on its ability to continually and, on a
+timely basis, introduce new products, and to continue to improve the performance
+of the Company's products in response to both evolving demands of the market
+place and competitive product offerings.
+
+     The Company is highly dependent upon subcontractors to manufacture silicon
+wafers and perform assembly, test and shipment to end customers. The Company is
+also dependent on its wafer foundry partners to improve process technologies in
+a timely manner to enhance the Company's product designs and cost structure.
+Their inability to do so could have a severe negative impact on the Company. The
+vast majority of the Company's products are manufactured and shipped to
+customers by subcontractors located in Asia, principally Japan, Taiwan, Korea,
+the Philippines, Hong Kong and Malaysia. Disruptions or adverse supply
+conditions arising from market conditions, political strife, labor disruptions
+and other factors could have adverse consequences on the Company's future
+results. Natural or man-made disasters, normal process fluctuations and
+variances in manufacturing yields could have a severe negative impact on
+
+
+                                       13
+
+<PAGE>   14
+
+the Company's operating capabilities. The Company has sought to diversify its
+operating risk by participating in the WaferTech joint venture to manufacture
+silicon wafers with other partners in Camas, Washington. In October 1998,
+production began at WaferTech. WaferTech is currently in the initial stages of
+production volumes and has yet to make a profit. Although the Company expects
+future WaferTech production volumes and profitability to increase, the ramp up
+of WaferTech's production has not met the targeted level to achieve such
+profitability. There can be no assurances that the worldwide supply and demand
+for semiconductor wafers will be such that WaferTech will make a profit and that
+WaferTech will not continue to have an adverse impact on the Company's operating
+results.
+
+     Also, a number of factors outside of the Company's control, including
+general economic conditions and cycles in world markets, exchange rate
+fluctuations or a lack of growth in the Company's end markets could adversely
+impact future results. An important component of the Company's growth, the
+networking equipment market, has been growing at a slower rate in recent years.
+Should this trend continue, the Company's growth in future years may be limited.
+
+     Because of the foregoing and other factors that might affect the Company's
+operating results, past financial performance should not be considered an
+indicator of future performance, and investors should not use historical trends
+to anticipate future results. In addition, the cyclical nature of the
+semiconductor industry and other factors have resulted in a highly volatile
+price of the Company's common stock.
+
+Liquidity and Capital Resources
+
+     Since its inception, the Company has used a combination of equity and debt
+financing and cash flow from operations to support its operating activities.
+
+     During the first six months of 1999, cash, cash equivalents and short-term
+investments increased by $96.7 million to $675.8 million from $579.1 million at
+December 31, 1998. During the first six months of 1999, the Company's operating
+activities generated net cash of $141.1 million. This cash flow was primarily
+attributable to net income of $98.1 million, adjusted by depreciation and
+amortization of $13.9 million, an increase in income taxes payable and a
+decrease in other assets of $38.8 million and $17.7 million, respectively,
+partially offset by an increase in accounts receivable of $21.8 million and a
+decrease in accounts payable and accrued liabilities of $15.8 million. Cash used
+in investing activities of $93.9 million for the first six months of 1999 is
+primarily the result of net purchases of short-term investments of $44.9
+million, an additional investment in WaferTech, LLC of $37.5 million and
+purchases of property, plant and equipment of $11.0 million. Financing
+activities provided cash of $4.6 million for the first six months of 1999
+primarily from proceeds from exercises of stock options of $17.4 million, offset
+partially by repurchase of common stock of $12.8 million.
+
+     As of June 30, 1999, the Company had $675.8 million of cash, cash
+equivalents and short-term investments available to finance future growth. The
+Company believes the available sources of funds and
+
+
+                                       14
+
+<PAGE>   15
+
+cash expected to be generated from operations will be adequate to finance
+current operations and capital expenditures for at least the next year.
+
+     The Company purchases the majority of its materials and services in U.S.
+dollars, and its foreign sales are transacted in U.S. dollars. Altera does have
+Japanese yen denominated purchase contracts with Sharp Corporation ("Sharp") of
+Japan for processed silicon wafers. Effective August 1, 1999, all purchase
+contracts with Sharp are denominated in U.S. dollars. In recent years, the
+Company has not entered into any foreign exchange contracts for the purchase or
+sale of Japanese yen. At the end of the second quarter of 1999, the Company had
+no open forward contracts. The Company may choose to enter into such contracts
+from time to time should conditions appear favorable. Effects of inflation on
+Altera's financial results have not been significant.
+
+Year 2000 Compliance
+
+     Most computer programs were designed to perform data computations on the
+last two digits of the numerical value of a year. When a computation referencing
+the year 2000 is performed, these systems may interpret "00" as the year 1900
+and could either stop processing date-related computations or could process them
+incorrectly. Computations referencing the year 2000 might be invoked at any
+time, but are likely to begin occurring in the year 1999.
+
+     Pursuant to its year 2000 ("Y2K") compliance program, the Company has
+undertaken various initiatives intended to ensure that its computer equipment
+and software will function properly with respect to dates in the year 2000 and
+thereafter. As used herein, the term "computer equipment and software" includes
+systems that are commonly considered information technology ("IT") systems
+(e.g., accounting, data processing and telephone systems) as well as those that
+are not commonly considered IT systems (e.g., manufacturing equipment, building
+and facility operations systems). In addition, the Company has also reviewed the
+software products it sells, and has upgraded and will upgrade such products to
+offer full Y2K compliance. As of the end of June 1999, all computer equipment
+and software that are material to the Company's internal business operations
+have been determined to be Y2K compliant. With respect to MAX+PLUS II, the
+Company's third-generation software product, the Company has determined that it
+is fully compliant with Y2K standards, specifically DISC PD-2000-1 as published
+by the British Standards Institute. While the Company believes that its newest
+software product, Quartus, is also Y2K compliant, this software product is
+currently undergoing formal Y2K compliance testing, which is scheduled to be
+completed by the first half of October 1999. The Company has not incurred and
+does not anticipate that it will incur material expenditures for the remediation
+of any Y2K issues.
+
+     The Company could be adversely impacted by Y2K issues faced by major
+distributors, suppliers, customers, vendors and financial service organizations
+("Third Parties") with which the Company interacts. The most reasonably likely
+worst case scenario for the Company with respect to the Y2K problem is the
+failure of a major distributor or supplier to be Y2K compliant such that the
+distribution of Altera products or the supply
+
+
+                                       15
+
+<PAGE>   16
+
+of components for such products is interrupted temporarily. This could result in
+the Company not being able to produce or distribute product for a period of
+time, which in turn could result in lost sales and profits. Based solely on
+responses received from these Third Parties, the Company has no reason to
+believe that there will be any material adverse impact on the Company's
+financial condition or results of operations relating to any Y2K issues of such
+Third Parties. However, if the responses received from these Third Parties are
+not accurate or circumstances change, then there could be an unforeseen material
+adverse impact on the Company's financial condition and results of operations.
+Management will continue to determine the impact, if any, that Third Parties who
+are not Y2K compliant may have on the financial condition or results of
+operations of the Company.
+
+     The Company charged its business resumption planning committee to evaluate
+Y2K business disruption scenarios, coordinate the establishment of Y2K
+contingency plans, and identify and implement preemptive strategies. These
+contingency plans were fully developed by the end of June 1999. Altera will
+maintain compliance of its essential business systems and continue to track the
+vendors and manufacturers of these system components in order to seek to resolve
+any Y2K issues that may be identified in the second half of 1999.
+
+
+                                       16
+
+<PAGE>   17
+
+PART II  OTHER INFORMATION
+
+
+ITEM 1.  Legal Proceedings
+
+     In June 1993, Xilinx, Inc. ("Xilinx") brought suit against the Company
+seeking monetary damages and injunctive relief based on the Company's alleged
+infringement of certain patents held by Xilinx. In June 1993, the Company
+brought suit against Xilinx, seeking monetary damages and injunctive relief
+based on Xilinx's alleged infringement of certain patents held by the Company.
+In April 1995, the Company filed a separate lawsuit against Xilinx in Delaware,
+Xilinx's state of incorporation, seeking monetary damages and injunctive relief
+based on Xilinx's alleged infringement of one of the Company's patents. In May
+1995, Xilinx counterclaimed against the Company in Delaware, asserting defenses
+and seeking monetary damages and injunctive relief based on the Company's
+alleged infringement of certain patents held by Xilinx. Subsequently, the
+Delaware case has been transferred to California. Due to the nature of the
+litigation with Xilinx and because the lawsuits are still in the pre-trial
+stage, the Company's management cannot estimate the total expense, the possible
+loss, if any, or the range of loss that may ultimately be incurred in connection
+with the allegations. Management cannot ensure that Xilinx will not succeed in
+obtaining significant monetary damages or an injunction against the manufacture
+and sale of the Company's MAX 5000, MAX 7000, FLEX 8000 or MAX 9000 families of
+products, or succeed in invalidating any of the Company's patents. Although no
+assurances can be given as to the results of these cases, based on the present
+status, management does not believe that any of such results will have a
+material adverse effect on the Company's financial condition or results of
+operations.
+
+     In August 1994, Advanced Micro Devices, Inc. ("AMD") brought suit against
+the Company seeking monetary damages and injunctive relief based on the
+Company's alleged infringement of certain patents held by AMD. In September
+1994, Altera answered the complaint asserting that it is licensed to use the
+patents which AMD claims are infringed and filed a counterclaim against AMD
+alleging infringement of certain patents held by the Company. In October 1997,
+upon completion of trials bifurcated from the infringement claims, the District
+Court ruled that the Company is licensed under all patents asserted by AMD in
+the suit. In December 1997, AMD filed a Notice of Appeal of the District Court's
+rulings. In April 1999, the Federal Circuit Court ruled in AMD's favor on its
+appeal, finding that Altera is not licensed to AMD's patents, and remanded the
+case back to the District Court for further proceedings. Altera filed a petition
+for rehearing before the Federal Circuit Court to seek an overturn of this
+determination, which was denied. Further proceedings will now take place in the
+District Court. Due to the nature of the litigation with AMD, the Company's
+management cannot estimate the total expense, the possible loss, if any, or the
+range of loss that may ultimately be incurred in connection with the
+allegations. Management cannot ensure that AMD will not succeed in obtaining
+significant monetary damages or an injunction against the manufacture and sale
+of the Classic, MAX 5000, MAX 7000, FLEX 8000, MAX 9000, FLEX 10K and FLASHlogic
+product families, or succeed in invalidating any of the Company's patents
+remaining in the suit. Although no assurances can be given as to the results of
+this case, based on its present status, management does not believe that any of
+such results will have a material adverse effect on the Company's financial
+condition or results of operations.
+
+
+                                       17
+
+<PAGE>   18
+
+ITEM 4.  Submission of Matters to a Vote of Security Holders
+
+     The Annual Meeting of Stockholders of the Company was held on May 26, 1999
+at 10:00 a.m. The following matters were acted upon at the meeting:
+
+<TABLE>
+<CAPTION>
+                                                                               VOTES         BROKER
+                    MATTER                         FOR           VOTES        WITHHELD/       NON-
+                  ACTED UPON                      VOTES         AGAINST      ABSTENTIONS     VOTES
+                  ----------                      -----         -------      -----------     -----
+<S>                                            <C>             <C>              <C>           <C>
+1.  Rodney Smith                               84,475,985      5,871,136             0          0
+    Charles M. Clough                          84,465,048      5,882,073             0          0
+    Michael A. Ellison                         84,609,694      5,737,427             0          0
+    Paul Newhagen                              84,609,894      5,737,227             0          0
+    Robert W. Reed                             84,589,794      5,757,327             0          0
+    Deborah D. Rieman                          84,456,370      5,890,751             0          0
+    William D. Terry                           84,598,799      5,748,322             0          0
+
+2.  Approval of amendment of the 1996          58,039,082     32,205,752        102,387       100
+    Stock Option Plan to Increase from
+    13,000,000 to 18,000,000 the number
+    of shares of Common Stock Reserved
+    for issuance thereunder.
+
+3.  Approval of amendment of the 1987          88,119,723      2,138,620         88,878       100
+    Employee Stock Purchase Plan to
+    increase from 6,200,000 to 6,600,000
+    the number of shares of Common Stock
+    reserved for issuance thereunder.
+
+4.  Ratification of the appointment            90,244,844         23,776         78,501         0
+    of PriceWaterhouseCoopers LLP as
+    independent accountants for the
+    Company for the fiscal year ending
+    December 31, 1999.
+</TABLE>
+
+
+ITEM 5.  Other Information
+
+     On April 21, 1999, the Board of Directors of the Company approved a
+two-for-one stock split in the form of a stock dividend. Holders of record of
+the Company's common stock on May 4, 1999 received one additional share of
+Company common stock for each share held. The market price for Altera common
+stock as reported by Nasdaq reflected the stock split beginning May 20, 1999. In
+connection with the stock split, the Board of Directors of the Company also
+authorized doubling from 6,000,000 to 12,000,000 the number of shares authorized
+for repurchase under the Company's share repurchase program.
+
+
+                                       18
+
+<PAGE>   19
+
+ITEM 6.  Exhibits and Reports on Form 8-K
+
+     (a)  Exhibits
+
+          27.1 Financial Data Schedule for the six months ended June 30, 1999.
+
+     (b)  Reports on Form 8-K
+
+          None.
+
+
+                                       19
+
+<PAGE>   20
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                         ALTERA CORPORATION
+
+                                         /s/ NATHAN SARKISIAN
+                                         ---------------------------------------
+                                         Nathan Sarkisian, Senior Vice President
+                                         (duly authorized officer) and Chief
+                                         Financial Officer (principal financial
+                                         officer)
+
+                                         Date: August 16, 1999
+
+
+                                       20
+
+<PAGE>   21
+
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number            Description
+- -------           -----------
+<S>               <C>
+ 27.1             Financial Data Schedule for the six months ended June 30, 1999.
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-1999
+<PERIOD-START>                             JAN-01-1999
+<PERIOD-END>                               JUN-30-1999
+<CASH>                                         182,796
+<SECURITIES>                                   492,974
+<RECEIVABLES>                                   77,908
+<ALLOWANCES>                                     5,256
+<INVENTORY>                                     65,861
+<CURRENT-ASSETS>                               913,485
+<PP&E>                                         150,621
+<DEPRECIATION>                                  83,606
+<TOTAL-ASSETS>                               1,225,975
+<CURRENT-LIABILITIES>                          201,094
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           199
+<OTHER-SE>                                   1,024,682
+<TOTAL-LIABILITY-AND-EQUITY>                 1,225,975
+<SALES>                                        384,182
+<TOTAL-REVENUES>                               384,182
+<CGS>                                          141,422
+<TOTAL-COSTS>                                  141,422
+<OTHER-EXPENSES>                               102,946
+<LOSS-PROVISION>                               102,946
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                150,437
+<INCOME-TAX>                                    48,892
+<INCOME-CONTINUING>                             98,053
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    98,053
+<EPS-BASIC>                                       0.50
+<EPS-DILUTED>                                     0.48
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

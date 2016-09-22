@@ -1,0 +1,2245 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HpUM138N/u040jpcre48i3wb3mc/ELlPGlqvIAcBcjSU5Jqt6EdY1psIeH2lV+7d
+ px8+7gpzNCf8XnG8EJgvhA==
+
+<SEC-DOCUMENT>/in/edgar/work/20000811/0001095811-00-002571/0001095811-00-002571.txt : 20000921
+<SEC-HEADER>0001095811-00-002571.hdr.sgml : 20000921
+ACCESSION NUMBER:		0001095811-00-002571
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20000630
+FILED AS OF DATE:		20000811
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYMANTEC CORP
+		CENTRAL INDEX KEY:			0000849399
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [7372
+]		IRS NUMBER:				770181864
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0402
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-17781
+			FILM NUMBER:		692162
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		20330 STEVENS CREEK BLVD
+				CITY:			CUPERTINO
+				STATE:			CA
+				ZIP:			95014
+				BUSINESS PHONE:		4082539600
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		20330 STEVENS CREEK BLVD
+					CITY:			CUPERTINO
+					STATE:			CA
+					ZIP:			95014
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>e10-q.txt
+<DESCRIPTION>FORM 10-Q QUARTERLY PERIOD ENDED JUNE 30, 2000
+<TEXT>
+
+<PAGE>   1
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D. C. 20549
+                                    FORM 10-Q
+
+
+(MARK ONE)
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2000.
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM _______ TO _______.
+
+                         COMMISSION FILE NUMBER 0-17781
+
+
+                              SYMANTEC CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<S>                                                          <C>
+           DELAWARE                                              77-0181864
+(State or other jurisdiction of                               (I.R.S. employer
+ incorporation or organization)                              identification no.)
+
+20330 STEVENS CREEK BLVD., CUPERTINO, CALIFORNIA                 95014-2132
+    (Address of principal executive offices)                     (zip code)
+
+Registrant's telephone number, including area code:            (408) 253-9600
+</TABLE>
+
+- --------------------------------------------------------------------------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                               YES [X]   NO [ ]
+
+Indicate the number of shares outstanding of each of the registrant's classes of
+common stock, including 1,356,661 shares of Delrina exchangeable stock, as of
+July 28, 2000:
+
+
+COMMON STOCK, PAR VALUE $0.01 PER SHARE                        61,003,559 SHARES
+
+================================================================================
+
+<PAGE>   2
+
+
+                              SYMANTEC CORPORATION
+                                    FORM 10-Q
+                      QUARTERLY PERIOD ENDED JUNE 30, 2000
+                                TABLE OF CONTENTS
+
+                         PART I. FINANCIAL INFORMATION
+
+<TABLE>
+<CAPTION>
+                                                                              Page
+                                                                              ----
+<S>      <C>                                                                   <C>
+Item 1.  Financial Statements
+         Condensed Consolidated Balance Sheets
+              as of June 30, 2000 and March 31, 2000.........................   3
+         Condensed Consolidated Statements of Income
+              for the three months ended June 30, 2000 and 1999..............   4
+         Condensed Consolidated Statements of Cash Flow
+              for the three months ended June 30, 2000 and 1999..............   5
+         Notes to Condensed Consolidated Financial Statements................   6
+Item 2.  Management's Discussion and Analysis of Financial
+              Condition and Results of Operations............................  11
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk..........  20
+
+                           PART II. OTHER INFORMATION
+
+Item 1.  Legal Proceedings...................................................  21
+Item 6.  Exhibits and Reports on Form 8-K....................................  21
+Signatures...................................................................  22
+</TABLE>
+
+<PAGE>   3
+
+PART I.    FINANCIAL INFORMATION
+ITEM 1.    FINANCIAL STATEMENTS
+
+SYMANTEC CORPORATION
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+<TABLE>
+<CAPTION>
+                                                                                June 30,         March 31,
+(In thousands)                                                                      2000              2000
+- ------------------------------------------------------------------------     -----------       -----------
+<S>                                                                          <C>               <C>
+ASSETS                                                                       (unaudited)
+- ------
+
+Current assets:
+     Cash, cash equivalents and short-term investments                       $   522,922       $   431,550
+     Trade accounts receivable                                                    52,285            47,266
+     Inventories                                                                   2,532             5,675
+     Deferred income taxes                                                        45,195            40,189
+     Other                                                                        24,255            20,857
+                                                                             -----------       -----------
+       Total current assets                                                      647,189           545,537
+
+Restricted investments                                                            71,070            81,956
+Equipment and leasehold improvements, net                                         52,566            51,905
+Deferred income taxes                                                             38,827            38,827
+Acquired product rights, net                                                      31,498            34,070
+Goodwill, net                                                                     77,797            82,972
+Other                                                                             10,372            10,760
+                                                                             -----------       -----------
+                                                                             $   929,319       $   846,027
+                                                                             ===========       ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+     Accounts payable                                                        $    48,271       $    43,030
+     Accrued compensation and benefits                                            22,669            25,714
+     Deferred revenue                                                            114,561            90,813
+     Other accrued expenses                                                       53,359            61,594
+     Income taxes payable                                                         28,192             5,366
+                                                                             -----------       -----------
+       Total current liabilities                                                 267,052           226,517
+
+Long-term obligations                                                              2,104             1,553
+
+Commitments and contingencies
+
+Stockholders' equity:
+     Preferred stock (authorized: 1,000; issued and outstanding: none)                --                --
+     Common stock (authorized: 100,000; issued and outstanding: 60,905
+       and 60,309 shares)                                                            609               603
+     Capital in excess of par value                                              447,249           435,663
+     Notes receivable from stockholders                                              (24)              (24)
+     Unearned compensation                                                          (514)             (677)
+     Retained earnings                                                           248,496           210,099
+     Accumulated other comprehensive loss                                        (35,653)          (27,707)
+                                                                             -----------       -----------
+       Total stockholders' equity                                                660,163           617,957
+                                                                             -----------       -----------
+
+                                                                             $   929,319       $   846,027
+                                                                             ===========       ===========
+</TABLE>
+
+
+     The accompanying Notes to Condensed Consolidated Financial Statements
+                   are an integral part of these statements.
+
+
+                                        3
+
+<PAGE>   4
+
+SYMANTEC CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+<TABLE>
+<CAPTION>
+                                                                                        Three Months Ended
+                                                                                                  June 30,
+                                                                             -----------------------------
+(In thousands, except per share data; unaudited)                                    2000              1999
+- ------------------------------------------------------------------------     -----------       -----------
+<S>                                                                          <C>               <C>
+Net revenues                                                                 $   191,358       $   175,138
+Cost of revenues                                                                  27,837            30,623
+                                                                             -----------       -----------
+     Gross margin                                                                163,521           144,515
+
+Operating expenses:
+     Research and development                                                     25,769            27,572
+     Sales and marketing                                                          76,975            73,523
+     General and administrative                                                   10,001             8,786
+     Amortization of goodwill                                                      5,175             3,935
+     Amortization of other intangibles from acquisitions                             280               180
+     Restructuring and other expenses                                                ---             2,773
+                                                                             -----------       -----------
+
+     Total operating expenses                                                    118,200           116,769
+                                                                             -----------       -----------
+Operating income                                                                  45,321            27,746
+
+     Interest income                                                               6,752             2,247
+     Income, net of expense, from sale of technologies
+        and product lines                                                          5,914             4,890
+     Other income, net                                                               319               581
+                                                                             -----------       -----------
+Income before income taxes                                                        58,306            35,464
+Provision for income taxes                                                        19,909            11,737
+                                                                             -----------       -----------
+Net income                                                                   $    38,397       $    23,727
+                                                                             ===========       ===========
+
+Net income per share - basic                                                 $      0.63       $      0.42
+                                                                             ===========       ===========
+Net income per share - diluted                                               $      0.60       $      0.41
+                                                                             ===========       ===========
+
+Shares used to compute net income per share - basic                               60,498            56,360
+                                                                             ===========       ===========
+Shares used to compute net income per share - diluted                             64,248            58,284
+                                                                             ===========       ===========
+</TABLE>
+
+
+     The accompanying Notes to Condensed Consolidated Financial Statements
+                   are an integral part of these statements.
+
+                                        4
+
+<PAGE>   5
+
+SYMANTEC CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOW
+
+<TABLE>
+<CAPTION>
+                                                                                          Three Months Ended
+                                                                                                    June 30,
+                                                                               -----------------------------
+(In thousands; unaudited)                                                             2000              1999
+- ------------------------------------------------------------------------       -----------       -----------
+<S>                                                                            <C>               <C>
+Operating Activities:
+   Net income                                                                  $    38,397       $    23,727
+   Adjustments to reconcile net income to net
+     cash provided by operating activities:
+     Depreciation and amortization of equipment and leasehold improvements           7,422             5,735
+     Amortization of goodwill and other acquisition related intangibles              8,600             6,248
+     Deferred income taxes                                                          (1,151)              227
+     Net change in assets and liabilities, excluding effects of
+       acquisitions:
+       Trade accounts receivable                                                    (4,962)           14,068
+       Inventories                                                                   3,085               (84)
+       Other current assets                                                         (3,418)            1,725
+       Other assets                                                                    317            (1,493)
+       Accounts payable                                                              5,292            (5,472)
+       Accrued compensation and benefits                                            (2,946)              562
+       Other accrued expenses                                                       (3,599)              235
+       Deferred revenue                                                             23,748            13,167
+       Income taxes payable                                                         22,618            (2,357)
+                                                                               -----------       -----------
+Net cash provided by operating activities                                           93,403            56,288
+                                                                               -----------       -----------
+
+Investing Activities:
+   Capital expenditures                                                             (8,300)           (7,149)
+   Purchased intangibles                                                              (200)             (400)
+   Cash paid to 20/20 Software shareholders                                         (4,000)               --
+   Cash paid to Quarterdeck shareholders                                                --           (16,394)
+   Purchases of marketable securities                                             (140,807)          (60,000)
+   Proceeds from sales of marketable securities                                    100,156            74,593
+   Proceeds from (purchases of) restricted investments                              10,886            (1,883)
+   Proceeds from sales of long-term investments                                         --             4,270
+                                                                               -----------       -----------
+
+Net cash used in investing activities                                              (42,265)           (6,963)
+                                                                               ------------      -----------
+
+Financing Activities:
+   Net proceeds from sales of common stock and other                                11,755             9,814
+   Principal payments on long-term obligations                                        (181)             (364)
+   Repurchase of common stock                                                           --           (18,724)
+                                                                               -----------       -----------
+
+Net cash provided by (used in) financing activities                                 11,574            (9,274)
+                                                                               -----------       -----------
+
+Effect of exchange rate fluctuations on cash and cash equivalents                   (1,652)              592
+                                                                               ------------      -----------
+Increase in cash and cash equivalents                                               61,060            40,643
+Beginning cash and cash equivalents                                                 87,973           143,863
+                                                                               -----------       -----------
+Ending cash and cash equivalents                                               $   149,033       $   184,506
+                                                                               ===========       ===========
+</TABLE>
+
+
+     The accompanying Notes to Condensed Consolidated Financial Statements
+                   are an integral part of these statements.
+
+
+                                        5
+
+<PAGE>   6
+
+SYMANTEC CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1.  BASIS OF PRESENTATION
+
+The condensed consolidated financial statements of Symantec Corporation
+("Symantec" or the "Company") as of June 30, 2000, and for the three months
+ended June 30, 2000 and 1999, are unaudited and, in the opinion of management,
+contain all adjustments, consisting of only normal recurring items necessary for
+the fair presentation of the financial position and results of operations for
+the interim periods. These condensed consolidated financial statements should be
+read in conjunction with the Consolidated Financial Statements and Notes thereto
+included in Symantec's Annual Report on Form 10-K for the year ended March 31,
+2000. The results of operations for the three months ended June 30, 2000 are not
+necessarily indicative of the results to be expected for the entire year. All
+significant intercompany accounts and transactions have been eliminated. Certain
+previously reported amounts have been reclassified to conform to the current
+presentation format.
+
+Symantec has a 52/53-week fiscal accounting year. Accordingly, all references as
+of and for the periods ended June 30, 2000, March 31, 2000 and June 30, 1999
+reflect amounts as of and for the periods ended June 30, 2000, March 31, 2000
+and July 2, 1999, respectively. The June 30, 2000 and 1999 quarters each
+comprised 13 weeks of activity.
+
+
+NOTE 2.  BALANCE SHEET INFORMATION
+
+<TABLE>
+<CAPTION>
+                                                                                June 30,         March 31,
+(In thousands)                                                                      2000              2000
+- ------------------------------------------------------------------------   -------------       -----------
+                                                                             (unaudited)
+<S>                                                                          <C>               <C>
+Cash, cash equivalents and short-term investments:
+   Cash                                                                      $    59,990       $    60,103
+   Cash equivalents                                                               89,043            27,870
+   Short-term investments                                                        373,889           343,577
+                                                                             -----------       -----------
+                                                                             $   522,922       $   431,550
+                                                                             ===========       ===========
+Trade accounts receivable:
+   Receivables                                                               $    58,729       $    53,710
+   Less: allowance for doubtful accounts                                          (6,444)           (6,444)
+                                                                             -----------       -----------
+                                                                             $    52,285       $    47,266
+                                                                             ===========       ===========
+Inventories:
+   Raw materials                                                             $       420       $     2,483
+   Finished goods                                                                  2,112             3,192
+                                                                             -----------       -----------
+                                                                             $     2,532       $     5,675
+                                                                             ===========       ===========
+Equipment and leasehold improvements:
+   Computer hardware and software                                            $   145,847       $   142,290
+   Office furniture and equipment                                                 39,684            39,330
+   Leasehold improvements                                                         21,259            19,585
+                                                                             -----------       -----------
+                                                                                 206,790           201,205
+   Less: accumulated depreciation and amortization                              (154,224)         (149,300)
+                                                                             -----------       -----------
+                                                                             $    52,566       $    51,905
+                                                                             ===========       ===========
+Acquired product rights:
+   Acquired product rights                                                   $    48,809       $    54,592
+   Less: accumulated amortization of acquired product rights                     (17,311)          (20,522)
+                                                                             -----------       -----------
+                                                                             $    31,498       $    34,070
+                                                                             ===========       ===========
+Goodwill:
+   Goodwill                                                                  $   107,032       $  107,032
+   Less:  accumulated amortization                                               (29,235)          (24,060)
+                                                                             -----------       -----------
+                                                                             $    77,797       $    82,972
+                                                                             ===========       ===========
+Accumulated other comprehensive loss:
+   Unrealized loss on available-for-sale investments                         $    (8,257)      $    (2,373)
+   Cumulative translation adjustment                                             (27,396)          (25,334)
+                                                                             -----------       -----------
+                                                                             $   (35,653)      $   (27,707)
+                                                                             ===========       ===========
+</TABLE>
+
+
+                                       6
+
+<PAGE>   7
+
+SYMANTEC CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS, CONTINUED
+
+NOTE 3. NET INCOME PER SHARE
+
+The components of net income per share are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                       Three Months Ended
+                                                                                                  June 30,
+(In thousands, except per share data;  unaudited)                                   2000              1999
+- --------------------------------------------------------------------------   -----------       -----------
+<S>                                                                          <C>               <C>
+BASIC NET INCOME PER SHARE
+Net income                                                                   $    38,397       $    23,727
+                                                                             ===========       ===========
+
+Weighted average number of common shares outstanding during the period            60,498            56,360
+                                                                             ===========       ===========
+
+Basic net income per share                                                   $      0.63       $      0.42
+                                                                             ===========       ===========
+
+DILUTED NET INCOME PER SHARE
+Net income                                                                   $    38,397       $    23,727
+                                                                             ===========       ===========
+
+Weighted average number of common shares outstanding during the period            60,498            56,360
+Shares issuable from assumed exercise of options                                   3,750             1,924
+                                                                             -----------       -----------
+Total shares for purpose of calculating diluted net income per share              64,248            58,284
+                                                                             ===========       ===========
+
+Diluted net income per share                                                 $      0.60       $      0.41
+                                                                             ===========       ===========
+</TABLE>
+
+For the three months ended June 30, 2000, shares issuable from assumed exercise
+of options exclude approximately 1,752,000 options, as their effect on diluted
+net income per share would have been anti-dilutive. There were no anti-dilutive
+shares for the three months ended June 30, 1999.
+
+
+NOTE 4. COMPREHENSIVE INCOME
+
+The components of comprehensive income, net of tax, are as follows:
+
+<TABLE>
+<CAPTION>
+                                                                                       Three Months Ended
+                                                                                                  June 30,
+(In thousands, except per share data;  unaudited)                                   2000              1999
+- --------------------------------------------------------------------------   -----------       -----------
+<S>                                                                          <C>               <C>
+Net income                                                                   $    38,397       $    23,727
+Other comprehensive (loss) income:
+     Change in unrealized (loss) gain on available-for-sale investments,
+       net of a tax (benefit) provision of ($2,769) and $72                       (5,884)              170
+     Change in cumulative translation adjustment,
+       net of a tax (benefit) of ($970) and ($56)                                 (2,062)             (118)
+                                                                             ------------      -----------
+
+Total other comprehensive (loss) income                                           (7,946)               52
+                                                                             ------------      -----------
+
+Comprehensive income                                                         $     30,451          $23,779
+                                                                             ============          =======
+</TABLE>
+
+
+NOTE 5. LITIGATION AND CONTINGENCIES
+
+Over the past few years, it has become common for software companies, including
+Symantec, to receive claims of patent infringement. Symantec is currently
+evaluating claims of patent infringement asserted by several parties, with
+respect to certain of the Company's products. While the Company believes that it
+has valid defenses to these claims, the outcome of any related litigation or
+negotiation could have a material adverse impact on the Company's future results
+of operations or cash flows.
+
+Symantec is involved in a number of other judicial and administrative
+proceedings incidental to its business. The
+
+
+                                       7
+
+<PAGE>   8
+
+Company intends to defend all of the aforementioned pending lawsuits vigorously,
+and although adverse decisions (or settlements) may occur in one or more of the
+cases, the final resolution of these lawsuits, individually or in the aggregate,
+is not expected to have a material adverse affect on the financial condition of
+the Company, although it is not possible to estimate the possible loss or losses
+from each of these cases. Depending, however, on the amount and timing of an
+unfavorable resolution of these lawsuits, it is possible that the Company's
+future results of operations or cash flows could be materially adversely
+affected in a particular period. The Company has accrued certain estimated legal
+fees and expenses related to certain of these matters; however, actual amounts
+may differ materially from those estimated amounts. For further information on
+these cases refer to the Company's previously filed Annual Report on Form 10-K
+for the year ended March 31, 2000.
+
+NOTE 6. RESTRUCTURING AND OTHER EXPENSES
+
+During the March 2000 quarter, Symantec reduced operations in its Melville and
+Toronto sites, thereby reducing its workforce by 96 employees. Each of these
+employees either received a separation package or accepted offers to move to
+other Symantec offices. As a result, the facility in Melville was vacated and
+the Company is reducing the space occupied in Toronto. The Company recorded
+approximately $3.4 million for employee severance, outplacement and abandonment
+of certain facilities and equipment during the March 2000 quarter. In addition,
+approximately $0.7 million was provided for costs of severance, related benefits
+and outplacement services for two members of senior management due to the
+realignment of Symantec's business units and their resulting departures during
+the March 2000 quarter.
+
+During the December 1999 quarter, management reduced its Internet Tools business
+unit's workforce and reduced its Sales workforce. There were 48 employees in the
+Internet Tools business unit affected, resulting in approximately $1.8 million
+of severance, related benefits and outplacement services being accrued during
+the December 1999 quarter. The Sales workforce reduction affected 10 employees,
+resulting in approximately $0.4 million of severance, related benefits and
+outplacement services being accrued in the December 1999 quarter.
+
+During the September 1999 quarter, Symantec provided approximately $0.7 million
+for costs of severance, related benefits and outplacement services for two
+members of senior management due to the realignment of its business units and
+their resulting departures. The Company also accrued approximately $2.7 million
+for certain costs related to an agreement reached with its former CEO in the
+June 1999 quarter. These costs were comprised of severance and acceleration of
+unvested stock options.
+
+Details of the fiscal 2000 restructuring charges are as follows:
+
+<TABLE>
+<CAPTION>
+                                         Cash/           Restructuring      Amount        Amount     Balance
+(In thousands)                           Non-cash               Charge        Paid      Adjusted  at 6/30/00
+- ---------------------------------------  --------        -------------    --------     ---------  ----------
+<S>                                      <C>                <C>           <C>          <C>        <C>
+Employee severance and outplacement      Cash               $     8,733   $ (7,956)    $      --  $      777
+Excess facilities and equipment          Cash & Non-cash            953       (388)           --         565
+                                                            -----------   --------     ---------  ----------
+Total restructuring and other expenses                      $     9,686   $ (8,344)    $      --  $    1,342
+                                                            ===========   ========     =========  ==========
+</TABLE>
+
+
+During the September 1998 quarter, Symantec made a decision to restructure its
+operations and outsource domestic manufacturing operations. As a result,
+management originally recorded a $3.8 million charge for personnel severance to
+reduce the workforce by approximately 5% in both domestic and international
+operations and a $1.3 million charge for the planned abandonment of a
+manufacturing facility lease. These estimates were subsequently revised in the
+September 1999 quarter, resulting in a reduction in the personnel severance and
+outplacement accruals by approximately $0.7 million.
+
+
+                                       8
+
+<PAGE>   9
+
+Details of the fiscal 1999 restructuring charges are as follows:
+
+<TABLE>
+<CAPTION>
+                                         Cash/          Restructuring        Amount       Amount      Balance
+(In thousands)                           Non-cash              Charge          Paid     Adjusted   at 6/30/00
+- ---------------------------------------  --------       -------------     ---------    ---------   ----------
+<S>                                      <C>               <C>            <C>          <C>         <C>
+Employee severance and outplacement      Cash              $    3,800     $  (3,800)   $      --   $       --
+Excess facilities and equipment          Cash & Non-cash        1,305          (507)        (668)         130
+                                                           ----------     ---------    ---------   ----------
+Total restructuring and other expenses                     $    5,105     $  (4,307)   $    (668)  $      130
+                                                           ==========     =========    =========   ==========
+</TABLE>
+
+
+NOTE 7. STOCK REPURCHASE
+
+On March 22, 1999, the Board of Directors (the "Board") of Symantec authorized
+the repurchase of up to $75 million of Symantec's outstanding common stock for
+up to $20.00 per share. As of June 30, 2000, the Company has repurchased
+1,000,000 shares at prices ranging from $17.90 to $19.90, for an aggregate
+amount of $18.7 million. All of these shares were purchased in the June 1999
+quarter.
+
+
+NOTE 8.  RECENT ACCOUNTING PRONOUNCEMENTS
+
+In December 1999, the SEC issued Staff Accounting Bulletin ("SAB") No. 101,
+Revenue Recognition in Financial Statements. In June 2000, the SEC released SAB
+No. 101B, which defers reporting the effects of the adoption of SAB No. 101
+until our fourth fiscal quarter of fiscal 2001. We are currently evaluating the
+potential impact of SAB No. 101 on our required disclosures and accounting
+practices.
+
+In March 2000, the Financial Accounting Standards Board issued Interpretation
+No. 44, Accounting for Certain Transactions Involving Stock Compensation, an
+interpretation of APB Opinion No. 25. This Interpretation clarifies the
+application of Opinion No. 25 for certain issues including: (a) the definition
+of an employee for purposes of applying Opinion No. 25, (b) the criteria for
+determining whether a plan qualifies as a noncompensatory plan, (c) the
+accounting consequence of various modifications to the terms of a previously
+fixed stock option or award and (d) the accounting for an exchange of stock
+compensation awards in a business combination. In general, this Interpretation
+is effective July 1, 2000. Management does not expect the adoption of
+Interpretation No. 44 to have a material effect on the Company's consolidated
+financial position or results of operations.
+
+
+NOTE 9. SEGMENT INFORMATION
+
+Symantec's operating segments are significant strategic business units that
+offer different products and services, distinguished by customer needs. The
+Company has five operating segments: Consumer and Small Business, Enterprise
+Solutions, e-Support, Professional Services and Other.
+
+The Consumer and Small Business segment focuses on delivering security and
+problem-solving products to individual users and small companies. The Enterprise
+Solutions segment focuses on delivering more complex and specialized products to
+meet the needs of organizations' networks and support for their large workforce
+throughout the organization. The e-Support segment focuses on helping IT
+departments be more effective and efficient through remote management solutions.
+The Professional Services segment is focused on providing technical support to
+our customers and assisting organizations to understand and implement Internet
+security infrastructure and policy management. The Other segment is comprised of
+sunset products, products nearing the end of their life cycle, and operations
+from our divested product lines ACT! and Visual Cafe. Also included in the Other
+segment are all
+
+
+                                       9
+
+<PAGE>   10
+
+indirect costs, general and administrative expenses and charges that are
+one-time in nature, such as acquired in-process research and development and
+restructuring and other expenses which are not charged to the other operating
+segments.
+
+The following table summarizes each segment's net revenues from external
+customers and operating income (loss):
+
+<TABLE>
+<CAPTION>
+                               Consumer
+                              and Small   Enterprise              Professional                    Total
+(In thousands)                 Business    Solutions   e-Support      Services        Other     Company
+- -------------------------------------------------------------------------------------------------------
+<S>                            <C>          <C>         <C>          <C>          <C>         <C>
+THREE MONTHS ENDED
+JUNE 30, 2000
+
+Revenue from
+   external customers          $ 75,871     $ 48,274    $ 58,555     $  7,966     $     692   $ 191,358
+
+Operating income (loss)          41,748       24,339      51,598          485       (72,849)     45,321
+
+Depreciation &
+   amortization expense           2,943        1,872       2,271          309            27       7,422
+
+THREE MONTHS ENDED
+JUNE 30, 1999
+
+Revenue from
+   external customers            75,313       35,865      48,193        3,201        12,566     175,138
+
+Operating income (loss)          36,150       17,611      39,037       (1,460)      (63,592)     27,746
+
+Depreciation &
+   amortization expense           2,466        1,174       1,578          105           412       5,735
+</TABLE>
+
+GEOGRAPHICAL INFORMATION
+
+<TABLE>
+<CAPTION>
+                                                      Three Months Ended
+                                                                June 30,
+                                                 -----------------------
+(In thousands)                                     2000          1999
+- ---------------------------------------          --------      ---------
+<S>                                              <C>           <C>
+Net revenues from external customers:
+     United States                               $ 101,421     $  99,769
+     Other foreign countries                        89,937        75,369
+                                                 ---------     ---------
+                                                 $ 191,358     $ 175,138
+                                                 =========     =========
+</TABLE>
+
+
+
+NOTE 10.  SUBSEQUENT EVENT
+
+On July 27, 2000, the Company signed an agreement to acquire 100% of the
+outstanding shares of AXENT Technologies, Inc. Upon obtaining necessary
+regulatory and stockholder approvals, the Company plans to exchange one share of
+Symantec common stock for every two shares of AXENT Technologies, Inc. common
+stock outstanding. The Company expects to issue approximately 15.3 million
+shares in the transaction.
+
+
+                                       10
+
+<PAGE>   11
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+
+BUSINESS RISK FACTORS
+
+The following discussion contains forward-looking statements that involve known
+and unknown risks, uncertainties and other factors that may cause our actual
+results, levels of activity, performance or achievements to be materially
+different from any future results, levels of activity, performance or
+achievements expressed or implied by such forward-looking statements. Such
+factors include, among others things, those risk factors set forth in this
+section and elsewhere in this report. We identify forward-looking statements by
+words such as "may," "will," "should," "could," "expects," "plans,"
+"anticipates," "believes," "estimates," "predicts," "potential," or "continue"
+or similar terms that refer to the future. We cannot guarantee future results,
+levels of activity, performance or achievements.
+
+OUR INCREASED SALES OF ENTERPRISE-WIDE SITE LICENSES MAY INCREASE FLUCTUATIONS
+IN OUR FINANCIAL RESULTS. Sales of enterprise-wide site licenses through our
+Enterprise Solutions segment are a major and expanding portion of our business.
+This enterprise market has significantly different characteristics than the
+consumer market and requires different skills and resources to penetrate.
+Licensing arrangements tend to involve a longer sales cycle than sales through
+other distribution channels, require greater investment of resources in
+establishing the enterprise relationship and can sometimes result in lower
+operating margins. The timing of the execution of volume licenses, or their
+nonrenewal or renegotiation by large customers, could cause our results of
+operations to vary significantly from quarter to quarter and could have a
+material adverse impact on our results of operations.
+
+WE RECENTLY RESTRUCTURED OUR INTERNAL FOCUS AND OPERATIONS AND WE COULD INCUR
+ADVERSE OPERATING CONSEQUENCES AS A RESULT OF THESE CHANGES. In fiscal 2000, we
+restructured our operations on the basis of a customer segment orientation
+rather than a product structure. We also divested two product lines that did not
+fit with our future focus. Changes of this nature inevitably cause disruptions
+within an organization that may adversely affect results as the changes are
+being absorbed, and these changes may not achieve their desired long-term
+benefits. Overseeing these changes requires significant attention from our
+senior management and may detract from management's ability to focus on other
+important opportunities or problems that might confront us. We have lost
+personnel, including management, and we may continue to do so as a consequence
+of these types of changes. In addition, we may not be able to introduce new
+products that are as beneficial to us as those that we divested.
+
+OUR SOFTWARE PRODUCTS AND WEB SITE MAY BE SUBJECT TO INTENTIONAL DISRUPTION.
+Although we believe we have sufficient controls in place to prevent intentional
+disruptions, such as software viruses specifically designed to impede the
+performance of our products, we expect to be an ongoing target of such
+disruptions. Similarly, experienced computer programmers, or hackers, may
+attempt to penetrate our network security or the security of our web site and
+misappropriate proprietary information or cause interruptions of our services.
+Our activities could be substantially disrupted and our reputation, and future
+sales, harmed if these efforts are successful.
+
+OUR MARKETS ARE HIGHLY COMPETITIVE AND OUR OPERATING RESULTS AND FINANCIAL
+CONDITION COULD BE ADVERSELY AFFECTED BY THIS COMPETITION. Our markets are
+intensely competitive. This competition could adversely affect our operating
+results by reducing our sales or the prices we can charge for our products. In
+the past, many of our competitors have significantly reduced the price of
+utility and anti-virus products and future price reductions could occur for
+these or other of our products, which would likely have a negative affect on our
+margins and could reduce our sales. Our ability to remain competitive depends on
+our ability to enhance our products or produce new products that are compatible
+with new products introduced by the major hardware and operating system
+providers. We have no control, and sometimes limited visibility, into the
+development efforts of these third parties and we may not be able to respond
+effectively or timely to their new products and enhancements. In addition, we
+have limited resources and we must make strategic decisions as to how to best
+allocate our resources to position ourselves for changes in our markets. We may
+from time to time allocate resources to projects or markets that do not develop
+as rapidly or fully as we expect. We may fail to allocate resources to third
+party products or to markets that are more successful than we anticipate.
+
+INTRODUCTION OF NEW OPERATING SYSTEMS MAY ADVERSELY AFFECT OUR FINANCIAL RESULTS
+AND STOCK PRICE. The inclusion of security or anti-virus tools in new operating
+systems and hardware packages could adversely affect our sales. For example, the
+inclusion of features by Microsoft in the upcoming release of Windows 2000
+Millennium Edition, which directly compete with our products,
+
+
+                                       11
+
+<PAGE>   12
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+may decrease or delay the demand for certain of our products, including those
+currently under development and products specifically intended for Windows 2000
+ME. Additionally, as hardware vendors incorporate additional server-based
+network management and security tools into network operating systems, the demand
+may decrease for some of our products, including those currently under
+development.
+
+Our financial results and our stock price declined significantly within
+approximately six months after the releases of Windows 3.1, Windows 95 and
+Windows 98, which in some cases caused hardware upgrades that resulted in shifts
+in customer spending from software to hardware. The consumer/desktop oriented
+Millennium Edition of Windows 2000 is expected to be released in the September
+2000 quarter, and, as a result, we could face adverse financial results and
+additional stock price declines.
+
+With the rise of Linux-based operating systems, we may lose market share if we
+are unable to significantly penetrate the Linux-based market timely and
+effectively.
+
+OUR EARNINGS AND STOCK PRICE ARE SUBJECT TO SIGNIFICANT FLUCTUATIONS. Due to the
+factors noted throughout this section, our earnings and stock price have been
+and may continue to be subject to significant volatility. There have been
+previous quarters in which we have experienced shortfalls in revenue and
+earnings from levels expected by securities analysts and investors, which have
+had an immediate and significant adverse effect on the trading price of our
+common stock. This may occur again in the future.
+
+OUR QUARTERLY FINANCIAL RESULTS ARE SUBJECT TO SIGNIFICANT FLUCTUATIONS. While
+our diverse product lines have tended to lessen fluctuations in quarterly net
+revenues, these fluctuations have occurred in the past, and may occur in the
+future. Fluctuations may be caused by a number of factors, including:
+
+     o    the timing of announcements and releases of new or enhanced versions
+          of our products and product upgrades;
+
+     o    the introduction of competitive products by existing or new
+          competitors;
+
+     o    reduced demand for any given product;
+
+     o    seasonality in the end-of-period buying patterns of foreign and
+          domestic software markets; and
+
+     o    the market's transition between operating systems.
+
+A significant portion of our net revenues have historically been generated
+during the last month of a fiscal quarter. Most resellers tend to make a
+majority of their purchases at the end of a fiscal quarter. In addition, many
+enterprise customers negotiate site licenses near the end of each quarter. In
+part, this is because these two groups are able, or believe that they are able,
+to negotiate lower prices and more favorable terms at that time. Our reliance on
+a large portion of revenue occurring at the end of the quarter and the increase
+in the dollar value of transactions that occur at the end of a quarter can
+result in increased uncertainty relating to quarterly revenues. Due to this
+end-of-period buying pattern, forecasts may not be achieved, either because
+expected sales do not occur or because they occur at lower prices or on terms
+that are less favorable to us. In addition, these factors increase the chances
+that our results could diverge from the expectations of investors and analysts.
+
+WE FACE RISKS ASSOCIATED WITH OUR FOREIGN OPERATIONS. A significant portion of
+our net revenues, manufacturing costs and operating expenses result from
+transactions outside of the United States, often in foreign currencies. As a
+result, our operating results may be materially and adversely affected by
+fluctuations in currency exchange rates and general uncertainty with each
+country's political and economic structure. In addition, the laws of some other
+countries do not protect intellectual property rights as effectively as is the
+case in the United States and we may be subject to a greater risk of
+unauthorized use of our products.
+
+WE MUST EFFECTIVELY ADAPT TO CHANGES IN THE DYNAMIC TECHNOLOGICAL ENVIRONMENT.
+We are increasingly focused on the Internet security market, which in turn is
+dependent on further acceptance of the Internet. The following critical issues
+concerning the use of the Internet remain unresolved and may affect the market
+for our products and the use of the Internet as a medium to distribute or
+support our software products and the functionality of some of our products:
+
+
+                                       12
+
+<PAGE>   13
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+     o    security;
+
+     o    reliability;
+
+     o    cost;
+
+     o    ease of use;
+
+     o    accessibility;
+
+     o    quality of service; or
+
+     o    potential tax or other government regulations.
+
+In addition, new technologies, such as non PC-based Internet access devices and
+handheld organizers, are gaining acceptance. We must adapt to these changing
+technological demands. If we are unable to timely assimilate changes brought
+about by the Internet and non PC-based environments, our future net revenues and
+operating results could be adversely affected.
+
+THE RESULTS OF OUR RESEARCH AND DEVELOPMENT EFFORTS ARE UNCERTAIN. We believe
+that we will need to incur significant research and development expenditures to
+remain competitive. The products we are currently developing or may develop in
+the future may not be technologically successful. In addition, the length of our
+product development cycle has generally been greater than we originally
+expected. We are likely to experience delays in future product development. If
+they are not technologically successful, our resulting products may not achieve
+market acceptance or compete effectively with products of our competitors.
+
+WE ARE DEPENDENT UPON CERTAIN DISTRIBUTION CHANNELS. A large portion of our
+sales is made through the retail distribution channel, which is subject to
+events that create unpredictability in consumer demand. This increases the risk
+that we may not plan effectively for the future, which could result in adverse
+operating results in future periods. Our retail distribution customers also
+carry our competitors' products. These retail distributors may have limited
+capital to invest in inventory. Their decisions to purchase our products are
+partly a function of pricing, terms and special promotions offered by our
+competitors and other factors that we do not control nor can we predict. Our
+agreements with retail distributors are generally nonexclusive and may be
+terminated by them or by us without cause. We would be adversely affected if
+companies in our chain of distributors chose to increase purchases from our
+competition relative to the amount they buy from us.
+
+Some distributors and resellers have experienced financial difficulties in the
+past and some are currently experiencing financial difficulties. If these
+distributors do experience financial difficulties and we are unable to move
+their inventories to other distributors, we may experience reduced sales or
+increased write-offs, which would adversely affect our operating results.
+
+WE MAY BE UNSUCCESSFUL IN UTILIZING NEW DISTRIBUTION CHANNELS. We currently
+offer a broad range of products and services over the Internet, which is a
+relatively new distribution channel for our business. We may not be able to
+effectively adapt our existing, or adopt new, methods of distributing our
+software products utilizing the rapidly evolving Internet and related
+technologies. The adoption of new channels may adversely impact existing
+channels and/or product pricing, which may reduce our future revenues and
+profitability.
+
+CHANNEL FILL AND PRODUCT RETURNS MAY NEGATIVELY AFFECT OUR NET REVENUES. Our
+pattern of net revenues and earnings may be affected by "channel fill."
+Distributors may fill their distribution channels in anticipation of price
+increases, sales promotions or incentives. Channels may also become filled
+simply because the distributors do not sell their inventories to retailers as
+anticipated. If sales to retailers or end-users do not occur at a sufficient
+rate, distributors will delay purchases or cancel orders in later periods or
+return prior purchases in order to reduce their inventories.
+
+
+                                       13
+
+<PAGE>   14
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+Product returns can occur when we introduce upgrades and new versions of
+products or when distributors or retailers have excess inventories. Our return
+policy allows distributors, subject to various limitations, to return purchased
+products in exchange for new products or for credit towards future purchases.
+End-users may return our products through dealers and distributors within a
+reasonable period from the date of purchase for a full refund. In addition,
+subject to limitations, retailers may return older versions of our products. We
+estimate and maintain reserves for product returns. Future returns could,
+however, exceed the reserves we have established, which could have a material
+adverse affect on our operating results.
+
+THE TRANSITION TO INTEGRATED SUITES OF UTILITIES MAY RESULT IN REDUCED CONSUMER
+REVENUES. We and our competitors sell integrated suites of utility products for
+prices significantly less than the aggregate price of the stand-alone products
+that are included in these suites when sold separately. As a result of the shift
+to integrated utility suites, price competition is intense in the consumer
+market and we have experienced cannibalization of our stand-alone products that
+are included within the suite. Additionally, our products may not compete
+effectively with competitors' integrated suites introduced in the future.
+
+WE DEPEND ON OUR INTERNAL COMMUNICATIONS SYSTEMS THAT MAY BE DISRUPTED. Our
+order entry and product shipping centers are geographically dispersed. A
+business disruption could occur as a result of natural disasters or the
+interruption in service by communications carriers. If our communications
+between these centers are disrupted, particularly at the end of a fiscal
+quarter, we may suffer an unexpected shortfall in net revenues and a resulting
+adverse impact on our operating results. Communications and Internet
+connectivity disruptions may also cause delays in customer access to our
+Internet-based services or product sales.
+
+WE ARE INVOLVED IN LITIGATION, AND MAY IN THE FUTURE BE INVOLVED IN LITIGATION,
+WHICH COULD ADVERSELY AFFECT OUR FINANCIAL RESULTS. From time to time, we may be
+subject to claims that we have infringed the intellectual property rights of
+others, that our products were not Year 2000 compliant or other product
+liability claims, or other claims incidental to our business. We are currently
+involved in a number of judicial and administrative proceedings. For a
+discussion of our current litigation, see Note 5 of Notes to Condensed
+Consolidated Financial Statements of this Form 10-Q and our previously filed
+Form 10-K for the year ended March 31, 2000. We intend to defend all of these
+lawsuits vigorously. We may suffer an unfavorable outcome in one or more of
+these cases. Depending on the amount and timing of any unfavorable resolutions
+of these lawsuits, our future results of operations or cash flows could be
+materially adversely affected in a particular period.
+
+Although infringement claims may ultimately prove to be without merit, they are
+expensive to defend and may consume our resources or divert our attention from
+day-to-day operations. If a third party alleges that we have infringed their
+intellectual property rights, we may choose to litigate the claim and/or seek an
+appropriate license from the third party. If we engage in litigation and the
+third party is found to have a valid claim against us and a license is not
+available on reasonable terms, our business, operating results and financial
+condition may be materially adversely affected.
+
+Defects and errors could be found in current versions of our products, future
+upgrades to current products or newly developed and released products. Software
+defects could result in delays in market acceptance or unexpected reprogramming
+costs, which could materially adversely affect our operating results. Most of
+our license agreements with customers contain provisions designed to limit our
+exposure to potential product liability claims. It is possible, however, that
+these provisions limiting our liability may not be valid as a result of federal,
+state, local or foreign laws or ordinances or unfavorable judicial decisions.
+
+THE TREND TOWARD CONSOLIDATION IN OUR INDUSTRY MAY IMPEDE OUR ABILITY TO COMPETE
+EFFECTIVELY. Consolidation is underway among companies in the software industry
+as firms seek to offer more extensive suites of software products and broader
+arrays of software solutions. Changes resulting from this consolidation may
+negatively impact our competitive condition. In addition, to the extent that we
+seek to expand our product lines, and skills and
+
+
+                                       14
+
+<PAGE>   15
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+capacity through acquisitions, the trend toward consolidation may result in our
+encountering competition, and paying higher prices, for acquired businesses.
+
+WE HAVE GROWN, AND MAY CONTINUE TO GROW THROUGH ACQUISITIONS, WHICH GIVE RISE TO
+A NUMBER OF RISKS THAT COULD HAVE ADVERSE CONSEQUENCES FOR OUR FUTURE OPERATING
+RESULTS. We have made seven acquisitions within the last two fiscal years and
+have recently announced our agreement to acquire AXENT Technologies, Inc. We
+may also complete material acquisitions in the future. Integrating acquired
+businesses into our existing business may distract our management focus from
+other opportunities and challenges. Our past acquisitions have given rise to,
+and future acquisitions may result in, substantial levels of goodwill and other
+intangible assets that will be amortized in future years and our future
+operating results will be adversely affected if we do not achieve benefits from
+these acquisitions commensurate with these charges. In addition, a number of our
+recent acquisitions have resulted in our incurring substantial write-offs of
+acquired in-process research and development costs and this also may occur as a
+result of future acquisitions. We may issue equity, or incur debt financing, for
+future acquisitions that are dilutive to our existing stockholders.
+
+In July 2000, we entered into an agreement to acquire AXENT Technologies, Inc.
+We expect this transaction to be consummated during our third quarter of fiscal
+2001. This agreement is subject to typical closing conditions. If these
+conditions are not satisfied, the acquisition may not be consummated.
+
+WE MUST ATTRACT AND RETAIN PERSONNEL WHILE COMPETITION FOR PERSONNEL IN OUR
+INDUSTRY IS INTENSE. We believe that our future success will depend in part on
+our ability to recruit and retain highly skilled management, marketing and
+technical personnel, particularly as we focus on enterprise-wide applications.
+Competition in recruiting personnel in the software industry is intense. To
+accomplish this, we believe that we must provide personnel with a competitive
+compensation package, including stock options, which requires ongoing
+stockholder approval. Such approval may not be forthcoming and, as a result, we
+may be impaired in our efforts to attract necessary personnel.
+
+OUR INTELLECTUAL PROPERTY AND PROPRIETARY RIGHTS MAY NOT BE ADEQUATELY PROTECTED
+FROM ALL UNAUTHORIZED USES. We regard our software as proprietary and underlying
+technology as proprietary. We seek to protect our proprietary rights through a
+combination of confidentiality agreements and copyright, patent, trademark and
+trade secret laws. Third parties may copy aspects of our products or otherwise
+obtain and use our proprietary information without authorization or develop
+similar technology independently. All of our products are protected by copyright
+and we have a number of patents and patent applications pending. We may not
+achieve the desired protection from, and third parties may design around, our
+patents, as new technologies are making piracy easier to achieve. In addition,
+existing copyright laws afford limited practical protection. Furthermore, the
+laws of some foreign countries do not offer the same level of protection of our
+proprietary rights as the laws of the United States. Any legal action that we
+may bring to protect proprietary information could be expensive and may distract
+management from day-to-day operations.
+
+
+                                       15
+
+<PAGE>   16
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+OVERVIEW
+
+Symantec, a world leader in Internet security technology, provides a broad range
+of content and network security solutions to individuals and enterprises. As a
+leader in Internet security, we offer a breadth of solutions including virus
+protection, risk management, Internet content and e-mail filtering, remote
+management and mobile code detection technologies to enterprises and individual
+customers. Founded in 1982, we have offices in 33 countries worldwide. The June
+30, 2000 and 1999 quarters closed on June 30, 2000 and July 2, 1999,
+respectively and each comprised 13 weeks of revenue and expense activity.
+
+RESULTS OF OPERATIONS
+
+The following table sets forth each item from our consolidated statements of
+income as a percentage of net revenues and the percentage change in the total
+amount of each item for the periods indicated:
+
+<TABLE>
+<CAPTION>
+                                                         Three Months
+                                                                Ended    Percent
+                                                             June 30,     Change
+                                                   ------------------  in Dollar
+(Unaudited)                                           2000       1999    Amounts
+- -----------------------------------------------    -------    -------  ---------
+<S>                                                    <C>        <C>        <C>
+Net revenues...................................        100%       100%         9%
+Cost of revenues...............................         15         17         (9)
+                                                   -------    -------
+       Gross margin............................         85         83         13
+
+Operating expenses:
+     Research and development..................         13         16         (7)
+     Sales and marketing.......................         40         42          5
+     General and administrative................          5          5         14
+     Amortization of goodwill .................          3          2         32
+     Amortization of other intangibles.........         --         --          *
+     Restructuring and other expenses..........         --          2          *
+                                                   -------    -------
+       Total operating expenses................         61         67          1
+                                                   -------    -------
+Operating income...............................         24         16         63
+Interest income................................          3          2        200
+Income, net of expense, from sale of
+     technologies and product lines............          3          3         21
+Other income, net..............................         --         --          *
+                                                   -------    -------
+Income before income taxes.....................         30         21         64
+Provision for income taxes.....................         10          7         70
+                                                   -------    -------
+Net income ....................................         20%        14%        62
+                                                   =======    =======
+</TABLE>
+
+* percentage change is not meaningful.
+
+NET REVENUES
+
+Net revenues increased 9% from approximately $175 million in the June 1999
+quarter to $191 million in the June 2000 quarter. Revenue growth in the June
+2000 quarter compared to the June 1999 quarter was attributable to growth in our
+Enterprise and e-Support segments, offset by a decline in our Other segment's
+revenues. The revenue increase in the Enterprise and e-Support segments was due
+to strong corporate growth. The revenue decline in our Other segment was due
+primarily to our divestiture of the ACT! and Visual Cafe product lines in the
+December 1999 quarter, which revenues had been included in the June 1999
+quarter.
+
+
+                                       16
+
+<PAGE>   17
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+SEGMENTS
+
+The Consumer and Small Business segment provides solutions to individual
+consumers, home offices and small businesses. The segment's charter is to ensure
+that consumers and their information are secure and protected in a connected
+world. The Consumer and Small Business segment comprised approximately 40% and
+43% of net revenues in the quarters ended June 30, 2000 and 1999, respectively.
+Absolute revenues did not change significantly during the quarter ended June 30,
+2000, compared to the quarter ended June 30, 1999.
+
+The Enterprise Solutions segment provides a broad range of security solutions
+for our enterprise customers. Our corporate customers need to protect their
+businesses from the threats associated with the use of the Internet. The
+Enterprise Solutions segment comprised approximately 25% and 20% of net revenues
+in the quarters ended June 30, 2000 and 1999, respectively. Revenues increased
+primarily due to strong demand for our Norton AntiVirus solutions.
+
+The e-Support segment offers products that enable companies to be more effective
+and efficient within their IT departments. Remote management solutions help
+remote professionals to remain productive while providing companies access to
+information, applications and data from any location. The e-Support segment
+comprised approximately 31% and 28% of total net revenues in the quarters ended
+June 30, 2000 and 1999, respectively. The growth in e-Support was driven by
+strong growth of its two primary products, pcANYWHERE and Ghost.
+
+The Professional Services segment provides fee-based technical support and
+consulting services to enterprise customers to assist them with the planning,
+design and implementation of enterprise security solutions in the anti-virus and
+Internet content filtering technologies. The Professional Services segment
+comprised approximately 4% and 2% of total net revenues for the quarters ended
+June 30, 2000 and 1999, respectively. The growth in Professional Services is
+attributable to our increased efforts in providing additional technical support
+to our customers.
+
+The Other segment is comprised of sunset products, products nearing the end of
+their life cycle, and operations of the ACT! and Visual Cafe product lines that
+we divested in the December 1999 quarter. The Other segment comprised
+approximately 0% and 7% of net revenues in the quarters ended June 30, 2000 and
+1999, respectively. The segment's net revenues are lower in the quarter ended
+June 30, 2000 over the quarter ended June 30, 1999, due to our divestiture of
+the ACT! and Visual Cafe product lines in the December 1999 quarter, which
+revenues had been included in the June 1999 quarter.
+
+INTERNATIONAL
+
+Net revenues from sales outside of North America were approximately $83 million
+and $68 million and represented 44% and 39% of total net revenues in the
+quarters ended June 30, 2000 and 1999, respectively. The increase in
+international net revenues was the result of sales growth in our Europe, Middle
+East and Africa and Japan regions. Foreign exchange rate fluctuations during the
+quarter ended June 30, 2000 compared to the quarter ended June 30, 1999 did not
+materially affect quarterly revenue.
+
+GROSS MARGIN
+
+Gross margin represents net revenues less cost of revenues. Cost of revenues
+consists primarily of manufacturing expenses, costs for producing manuals,
+packaging costs, royalties paid to third parties under publishing contracts and
+amortization and write-off of capitalized software, or acquired product rights.
+
+Gross margins increased to 85% of net revenues in the June 2000 quarter from 83%
+in the June 1999 quarter. Factors contributing to the increase in gross margin
+percentage include a change in product mix from consumer products to our
+corporate business. Gross margin was also improved by decreased royalty expense
+as a result of a shift in sales in the June 2000 quarter to products with lower
+royalty rates than those sold in the June 1999 quarter. In addition, technical
+support costs related to corporate sales increased as the mix of corporate sales
+increased.
+
+
+                                       17
+
+<PAGE>   18
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+These factors were partially offset by increases in obsolescence expense, as we
+prepare for the release of Windows 2000 Millennium Edition in the September 2000
+quarter. Amortization and write-off of acquired product rights totaled
+approximately $2.7 million and $2.3 million for the June 2000 and 1999 quarters,
+respectively. The increase is due to our acquisitions in fiscal 2000.
+
+RESEARCH AND DEVELOPMENT EXPENSES
+
+Research and development expenses decreased 7% from approximately $28 million in
+the June 1999 quarter to $26 million in the June 2000 quarter primarily due to a
+drop in headcount following our divestitures of ACT! and Visual Cafe.
+
+SALES AND MARKETING EXPENSES
+
+Sales and marketing expenses increased 5% from approximately $74 million in the
+June 1999 quarter to $77 million in the June 2000 quarter. The increase in sales
+and marketing expenses primarily relates to growth in headcount in our
+Professional Services segment, and related expenses. This increase was offset by
+reduced marketing costs associated with our divested ACT! product line.
+
+GENERAL AND ADMINISTRATIVE EXPENSES
+
+General and administrative expenses remained relatively flat as a percentage of
+total revenues, while absolute dollars increased approximately 14% from $9
+million in the June 1999 quarter to $10 million in the June 2000 quarter. This
+increase in absolute dollars was due to increased headcount and related
+expenses.
+
+AMORTIZATION OF GOODWILL AND OTHER INTANGIBLES
+
+Amortization of goodwill and other intangibles increased approximately $1.3
+million from $4.1 million in June 1999 to $5.4 million in the June 2000 quarter.
+The increase is due to amortization of additional goodwill and other intangibles
+from the acquisitions we made during fiscal 2000.
+
+RESTRUCTURING AND OTHER EXPENSES
+
+Restructuring and other expenses amounted to approximately $2.8 million for the
+quarter ended June 1999, for certain costs related to an agreement reached with
+our former CEO. These costs were comprised of severance and acceleration of
+unvested stock options. There were no restructuring and other expenses in the
+June 2000 quarter. See Note 6 of Notes to Condensed Consolidated Financial
+Statements in this Form 10-Q.
+
+INTEREST AND OTHER INCOME
+
+Interest income was approximately $6.8 million and $2.2 million in the quarters
+ended June 30, 2000 and 1999, respectively. Interest income increased 200% in
+the quarter ended June 30, 2000 over the quarter ended June 30, 1999, primarily
+due to higher average invested cash balances of approximately $534 million for
+the June 2000 quarter compared to $228 million for the June 1999 quarter.
+
+Other income was relatively flat at approximately $0.3 million and $0.6 million
+in the quarters ended June 30, 2000 and 1999, respectively.
+
+INCOME, NET OF EXPENSE, FROM SALE OF TECHNOLOGIES AND PRODUCT LINES
+
+Income, net of expense, from sale of technologies and product lines increased
+from approximately $4.9 million in June 1999 quarter to $5.9 million in the June
+2000 quarter. This increase is due to approximately $5.5 million in royalties
+and other transition fees received in the June 2000 quarter as a result of our
+sale of the ACT! and Visual Cafe product lines. The payment from JetForm in the
+June 2000 quarter of approximately $0.4 million was lower than the $4.9 million
+payment in the June 1999 quarter as we received the last JetForm payment in
+accordance with our agreement in the June 2000 quarter.
+
+
+                                       18
+
+<PAGE>   19
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS, CONTINUED
+
+
+INCOME TAX PROVISION
+
+Excluding the impact of amortization of goodwill and restructuring charges, the
+effective tax rate on income before income taxes for the quarters ended June
+2000 and 1999 was 32%. This rate is lower than the U.S. federal statutory tax
+rate primarily due to a lower statutory tax rate on our Irish operations.
+
+The tax provision for the quarter ended June 2000 consists of a 32% tax rate
+applied to income before amortization of goodwill of $63.5 million and a $0.4
+million tax benefit on the $5.2 million charge for amortization of goodwill.
+Similarly, the tax provision for the quarter ended June 1999 consists of two
+items: a $13.5 million (or 32% effective tax rate) provision on income before
+income taxes and restructuring charges of $42.2 million, a $1.3 million tax
+benefit from amortization of goodwill of $3.9 million and a $0.5 million tax
+benefit on the $2.8 million of restructuring charges. The benefit of the
+restructuring charges is less than the U.S. federal statutory tax rate due to
+uncertainty of the realization of a tax benefit from certain severance benefits.
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash, cash equivalents and short-term investments increased approximately $91
+million to $523 million at June 30, 2000 from $432 million at March 31, 2000.
+This increase is largely due to cash provided from operating activities and net
+proceeds from the exercise of stock options under the Stock Option Plans and the
+sales of common stock under the Employee Stock Purchase Plan, offset by cash
+paid for capital expenditures and for our acquisition of 20/20 Software.
+
+In addition to cash and short-term investments, we have $71 million of
+restricted investments related to collateral requirements under certain lease
+agreements. We are obligated under these lease agreements for two existing
+office buildings in Cupertino, California, to maintain a restricted cash balance
+invested in U.S. Treasury securities with maturities not to exceed three years.
+In accordance with the lease terms, these funds are not available to meet our
+operating cash requirements. In addition, we are obligated to comply with
+certain financial covenants. Future acquisitions may cause us to be in violation
+of these financial covenants.
+
+Net cash provided by operating activities was $93 million and was comprised of
+net income of $38 million, non-cash related expenses of $15 million and a net
+decrease in net assets and liabilities of $40 million.
+
+Net trade accounts receivable increased $5 million to $52 million at June 30,
+2000 from $47 million at March 31, 2000, primarily due to growth in our net
+revenues.
+
+On March 22, 1999, our Board of Directors authorized the repurchase of up to $75
+million of our outstanding common stock, with no expiration date for up to
+$20.00 per share. As of June 30, 2000, we purchased 1,000,000 shares at prices
+ranging from $17.90 to $19.90, for an aggregate amount of $18.7 million. All of
+these shares were purchased in the June 1999 quarter.
+
+We have a $10 million line of credit, which expires in May 2001. We were in
+compliance with the debt covenants for this line of credit as of June 30, 2000.
+As of June 30, 2000, there were no borrowings and less than $1 million of
+standby letters of credit outstanding under this line. Future acquisitions may
+cause us to be in violation of the line of credit covenants. However, we believe
+that if the line of credit is canceled or amounts are not available under the
+line, there would not be a material adverse impact on our financial results,
+liquidity or capital resources.
+
+If we were to sustain significant losses, we could be required to reduce
+operating expenses, which could result in product delays and could cause us to
+reassess acquisition opportunities, which could negatively impact our growth
+objectives and/or pursue further financing options. We believe existing cash and
+short-term investments and cash generated from operating activities will be
+sufficient to fund operations for the next year.
+
+
+                                       19
+
+<PAGE>   20
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We are exposed to equity price risk on the marketable portion of our portfolio
+of equity securities. We typically do not attempt to reduce or eliminate the
+market exposure on our securities. As of March 31, 2000, these securities
+consisted of approximately 600,000 shares of Interact Commerce Corporation, a
+publicly traded company (Nasdaq symbol "IACT"), with a market value of
+approximately $16.9 million. Since April 2000, many high-technology stocks
+experienced increased volatility and a significant decrease in value, including
+these shares. If these securities had been valued using prices as of August 1,
+2000, the value of these securities would have decreased by approximately $9.9
+million as compared to the March 31, 2000 value. The value of these securities
+may vary over time and the value as of August 1, 2000 of approximately $7.0
+million is not necessarily indicative of future performance.
+
+We believe there has been no other significant change in our market risk
+exposures as what was previously disclosed in our Form 10-K for the year ended
+March 31, 2000.
+
+
+                                       20
+
+<PAGE>   21
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+Information with respect to this item is incorporated by reference to Note 5 of
+Notes to Condensed Consolidated Financial Statements included herein on page 7
+of this Form 10-Q.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+     (a)  Exhibits. The following exhibits are filed as part of this Form 10-Q:
+
+<TABLE>
+<S>              <C>
+          3.01   The Registrant's Restated Certificate of Incorporation.
+                 (Incorporated by reference to Annex G filed with the Registrant's
+                 Joint Management Information Circular and Proxy Statement (No.
+                 000-17781) dated October 17, 1995.)
+
+          3.02   The Registrant's Bylaws, as amended and restated effective August
+                 11, 1998. (Incorporated by reference to Exhibit 3.1 filed with
+                 the Registrant's Current Report 8-K filed August 19, 1998.)
+
+          10.01  Symantec Corporation 1999 Acquisition Plan Stock Option
+                 Agreement with Acceleration by and between Symantec Corporation
+                 and Gary P. Warren.
+
+          10.02  Employment offer by and between Symantec Corporation and
+                 Ron Moritz.
+
+          10.03  Employment offer by and between Symatec Corporation and Gail
+                 Hamilton.
+
+           27.1  Financial Data Schedule for the Three Months Ended June 30, 2000.
+</TABLE>
+
+     (b)  Reports on Form 8-K
+
+          A report on Form 8-K was filed by the Company on July 28, 2000,
+          reporting that the Company entered into an Agreement and Plan of
+          Merger with Apache Acquisition Corp., a Delaware corporation and
+          wholly-owned subsidiary of Symantec and AXENT Technologies, Inc., a
+          Delaware corporation.
+
+None.
+
+
+ITEMS 2, 3, 4 AND 5 ARE NOT APPLICABLE AND HAVE BEEN OMITTED.
+
+
+                                       21
+
+<PAGE>   22
+
+SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+Date: August 10, 2000                   SYMANTEC CORPORATION
+
+
+                                        By /s/ John W. Thompson
+                                          --------------------------------------
+                                          John W. Thompson
+                                          Chairman, President and
+                                          Chief Executive Officer
+
+
+                                        By /s/ Gregory Myers
+                                          --------------------------------------
+                                          Gregory Myers
+                                          Chief Financial Officer and
+                                          Chief Accounting Officer
+
+
+                                       22
+
+<PAGE>   23
+
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+Exhibit
+Number                            Description
+- -------                           -----------
+<S>      <C>
+ 3.01    The Registrant's Restated Certificate of Incorporation. (Incorporated
+         by reference to Annex G filed with the Registrant's Joint Management
+         Information Circular and Proxy Statement (No. 000-17781) dated October
+         17, 1995.)
+
+ 3.02    The Registrant's Bylaws, as amended and restated effective August 11,
+         1998. (Incorporated by reference to Exhibit 3.1 filed with the
+         Registrant's Current Report 8-K filed August 19, 1998.)
+
+10.01    Symantec Corporation 1999 Acquisition Plan Stock Option Agreement with
+         Acceleration by and between Symantec Corporation and Gary P. Warren.
+
+10.02    Employment offer by and between Symantec Corporation and Ron Moritz.
+
+10.03    Employment offer by and between Symatec Corporation and Gail Hamilton.
+
+27.1     Financial Data Schedule for the Three Months Ended June 30, 2000.
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 10.01
+                                                            Symantec Corporation
+                                                           1999 Acquisition Plan
+                                                          Stock Option Agreement
+                                                               With Acceleration
+
+                                                                         NO.____
+
+                              SYMANTEC CORPORATION
+
+                              1999 ACQUISITION PLAN
+
+                             STOCK OPTION AGREEMENT
+
+
+     This Stock Option Agreement (this "AGREEMENT") is made and entered into by
+and between Symantec Corporation, a Delaware corporation (the "COMPANY"), and
+the participant named below ("PARTICIPANT"). This Agreement shall be effective
+upon the consummation of the transaction pursuant to the Stock Purchase
+Agreement dated as of July 20, 1999 (the "DATE OF GRANT") by and between the
+Company, Unified Research Laboratories, Inc., a Virginia corporation, and all of
+the security holders of Unified Research Laboratories, Inc. Capitalized terms
+not defined herein shall have the meaning ascribed to them in the Company's 1999
+Acquisition Plan (the "PLAN").
+
+<TABLE>
+<S>                          <C>
+PARTICIPANT:                 Gary P. Warren
+
+SOCIAL SECURITY NUMBER:
+                             ---------------------------------------------------
+PARTICIPANT'S ADDRESS:
+                             ---------------------------------------------------
+
+                             ---------------------------------------------------
+
+TOTAL OPTION SHARES:         120,000
+
+EXERCISE PRICE PER SHARE:    Fair Market Value of Symantec's Common Stock at the
+                             close of market on the Date of Grant
+
+DATE OF GRANT:               See Above
+
+FIRST VESTING DATE:          One year from the Date of Grant
+
+EXPIRATION DATE:             Ten years after Date of Grant
+</TABLE>
+
+     1.   GRANT OF OPTION. The Company hereby grants to Participant a
+nonqualified stock option (this "OPTION") to purchase up to the total number of
+shares of Common Stock of the Company set forth above (collectively, the
+"SHARES") at the Exercise Price Per Share set forth above (the "EXERCISE
+PRICE"), subject to all of the terms and conditions of this Agreement and the
+Plan.
+
+     2.   VESTING; EXERCISE PERIOD.
+
+          2.1  Vesting of Right to Exercise Option. This Option shall become
+exercisable as to portions of the Shares as follows: (a) this Option shall not
+be exercisable with respect to any of the Shares until one year after the Date
+of Grant (the "FIRST VESTING DATE"); (b) if Participant has continuously
+provided services to the Company or any Subsidiary, Parent or Affiliate of the
+Company from the Date of Grant through the First Vesting Date and has not been
+
+<PAGE>   2
+
+Terminated on or before the First Vesting Date, then on the First Vesting Date
+this Option shall become vested and exercisable as to 25% of the Shares; and (c)
+thereafter, so long as Participant continuously provides services to the Company
+or any Subsidiary, Parent or Affiliate of the Company and is not Terminated, at
+the end of each full succeeding month the Option will become vested and
+exercisable as to 2.08333% of the Shares until the Shares are vested with
+respect to 100% of the Shares.
+
+          2.2  Expiration. This Option shall expire on the Expiration Date set
+forth above and must be exercised, if at all, on or before the earlier of the
+Expiration Date or the date on which this Option is earlier terminated in
+accordance with the provisions of Section 3.
+
+     3.   TERMINATION.
+
+          3.1  Termination by the Company without Cause. If Participant is
+Terminated by the Company without Cause (as defined below) other than by
+Participant's death or Disability, this Option shall become vested and
+exercisable as to 100% of the Shares by Participant on the date of such
+Termination and may be exercised by Participant no later than three (3) months
+after the date of such Termination, but in any event no later than the
+Expiration Date.
+
+          3.2  Termination Because of Death or Disability. If Participant is
+Terminated because of death or Disability of Participant, then this Option, to
+the extent that it is exercisable by Participant on the Termination Date, may be
+exercised by Participant (or Participant's legal representative) no later than
+twelve (12) months after the Termination Date, but in any event no later than
+the Expiration Date.
+
+          3.3  Termination by the Company for Cause. If the Participant is
+Terminated for Cause, then this Option, to the extent (and only to the extent)
+that it would have been exercisable by Participant on the date of Termination,
+may be exercised by Participant no later than three (3) months after the date of
+Termination, but in any event no later than the Expiration Date. For purposes of
+this Agreement, "CAUSE" means Termination because of (i) any willful, material
+violation by the Participant of any law or regulation applicable to the business
+of the Company or a Parent or Subsidiary of the Company, the Participant's
+conviction for, or guilty plea to, a felony or a crime involving moral
+turpitude, or any willful perpetration by the Participant of a common law fraud,
+(ii) the Participant's commission of an act of personal dishonesty which
+involves personal profit in connection with the Company or any other entity
+having a business relationship with the Company, (iii) the willful and continued
+failure or refusal of the Participant to perform the material duties required of
+such Participant as an employee, officer or consultant of the Company or a
+Parent or Subsidiary of the Company, other than as a result of having a
+Disability, or a breach of any applicable invention assignment agreement or a
+material breach of a confidentiality agreement or similar agreement between the
+Company or a Parent or Subsidiary of the Company and the Participant, (iv)
+Participant's disregard of the policies of the Company or any Parent or
+Subsidiary of the Company so as to cause material loss, damage or injury to the
+property, reputation or employees of the Company or a Parent or Subsidiary of
+the Company, or (v) any other misconduct by the Participant which is materially
+
+
+                                       2
+
+<PAGE>   3
+
+injurious to the financial condition or business reputation of, or is otherwise
+materially injurious to, the Company or a Parent or Subsidiary of the Company.
+
+          3.4  No Obligation to Employ. Nothing in the Plan or this Agreement
+shall confer on Participant any right to continue in the employ of, or other
+relationship with, the Company or any Parent, Subsidiary or Affiliate of the
+Company, or limit in any way the right of the Company or any Parent, Subsidiary
+or Affiliate of the Company to terminate Participant's employment or other
+relationship at any time, with or without cause.
+
+     4.   MANNER OF EXERCISE.
+
+          4.1  Stock Option Exercise Agreement. To exercise this Option,
+Participant (or in the case of exercise after Participant's death, Participant's
+executor, administrator, heir or legatee, as the case may be) must deliver to
+the Company an executed stock option exercise agreement in the form attached
+hereto as Exhibit A, or in such other form as may be approved by the Company
+from time to time (the "EXERCISE AGREEMENT"), which shall set forth, inter alia,
+Participant's election to exercise this Option, the number of Shares being
+purchased, any restrictions imposed on the Shares and any representations,
+warranties and agreements regarding Participant's investment intent and access
+to information as may be required by the Company to comply with applicable
+securities laws. If someone other than Participant exercises this Option, then
+such person must submit documentation reasonably acceptable to the Company that
+such person has the right to exercise this Option.
+
+          4.2  Limitations on Exercise. This Option may not be exercised unless
+such exercise is in compliance with all applicable federal and state securities
+laws, as they are in effect on the date of exercise.
+
+          4.3  Payment. The Exercise Agreement shall be accompanied by full
+payment of the Exercise Price for the Shares being purchased in cash (by check),
+or where permitted by law:
+
+               (a)  by cancellation of indebtedness of the Company to the
+Participant;
+
+               (b)  by surrender of shares of the Company's Common Stock that
+either: (1) have been owned by Participant for more than six (6) months and have
+been paid for within the meaning of SEC Rule 144 (and, if such shares were
+purchased from the Company by use of a promissory note, such note has been fully
+paid with respect to such shares); or (2) were obtained by Participant in the
+open public market; and (3) are clear of all liens, claims, encumbrances or
+security interests;
+
+               (c)  by waiver of compensation due or accrued to Participant for
+services rendered;
+
+
+                                       3
+
+<PAGE>   4
+
+               (d)  provided that a public market for the Company's stock
+exists: (1) through a "same day sale" commitment from Participant and a
+broker-dealer that is a member of the National Association of Securities Dealers
+(an "NASD DEALER") whereby Participant irrevocably elects to exercise this
+Option and to sell a portion of the Shares so purchased to pay for the exercise
+price and whereby the NASD Dealer irrevocably commits upon receipt of such
+Shares to forward the exercise price directly to the Company; or (2) through a
+"margin" commitment -- from Participant and a NASD Dealer whereby Participant
+irrevocably elects to exercise this Option and to pledge the Shares so purchased
+to the NASD Dealer in a margin account as security for a loan from the NASD
+Dealer in the amount of the exercise price, and whereby the NASD Dealer
+irrevocably commits upon receipt of such Shares to forward the exercise price
+directly to the Company; or
+
+               (e)  by any combination of the foregoing where approved by the
+Committee, or its designee, in its sole discretion.
+
+          4.4  Tax Withholding. Prior to the issuance of the Shares upon
+exercise of this Option, Participant must pay or provide for any applicable
+federal or state withholding obligations of the Company.
+
+          4.5  Issuance of Shares. Provided that the Exercise Agreement and
+payment are in form and substance satisfactory to counsel for the Company, the
+Company shall issue the Shares registered in the name of Participant,
+Participant's authorized assignee, or Participant's legal representative, and
+shall deliver certificates representing the Shares with the appropriate legends
+affixed thereto.
+
+     5.   COMPLIANCE WITH LAWS AND REGULATIONS. The exercise of this Option and
+the issuance and transfer of Shares shall be subject to compliance by the
+Company and Participant with all applicable requirements of federal and state
+securities laws and with all applicable requirements of any stock exchange on
+which the Company's Common Stock may be listed at the time of such issuance or
+transfer. Participant understands that the Company is under no obligation to
+register or qualify the Shares with the Securities and Exchange Commission, any
+state securities commission or any stock exchange to effect such compliance.
+
+     6.   NONTRANSFERABILITY OF OPTION. This Option may not be transferred in
+any manner other than by will or by the laws of descent and distribution or as
+determined by the Committee, in its sole discretion, within the limits permitted
+under the Form S-8 Registration Statement relating to Shares thereto and set
+forth in the Stock Option Agreement. The terms of this Option shall be binding
+upon the executors, administrators, successors and assigns of Participant.
+
+
+                                       4
+
+<PAGE>   5
+
+     7.   TAX CONSEQUENCES. Set forth below is a brief summary as of the Date of
+Grant of some of the federal and California tax consequences of exercise of this
+Option and disposition of the Shares. THIS SUMMARY IS NECESSARILY INCOMPLETE,
+AND THE TAX LAWS AND REGULATIONS ARE SUBJECT TO CHANGE. PARTICIPANT SHOULD
+CONSULT A TAX ADVISOR BEFORE EXERCISING THE OPTION OR DISPOSING OF THE SHARES.
+
+          7.1  Exercise of Nonqualified Stock Option. There may be a regular
+federal and California income tax liability upon the exercise of this Option.
+Participant will be treated as having received compensation income (taxable at
+ordinary income tax rates) equal to the excess, if any, of the fair market value
+of the Shares on the date of exercise over the Exercise Price. The Company will
+be required to withhold from Participant's compensation or collect from
+Participant and pay to the applicable taxing authorities an amount equal to a
+percentage of this compensation income at the time of exercise.
+
+          7.2  Disposition of Shares. If the Shares are held for more than
+twelve (12) months after the date of the transfer of the Shares pursuant to the
+exercise of a nonqualified stock option, any gain realized on disposition of the
+Shares will be treated as capital gain.
+
+     8.   PRIVILEGES OF STOCK OWNERSHIP. Participant shall not have any of the
+rights of a shareholder with respect to any Shares until Participant exercises
+this Option and pays the Exercise Price.
+
+     9.   INTERPRETATION. Any dispute regarding the interpretation of this
+Agreement shall be submitted by Participant or the Company to the Committee for
+review. The resolution of such a dispute by the Committee shall be final and
+binding on the Company and Participant.
+
+     10.  ENTIRE AGREEMENT. The Plan is incorporated herein by reference. This
+Agreement and the Plan and the Exercise Agreement constitute the entire
+agreement and understanding of the parties hereto with respect to the subject
+matter hereof and supersede all prior understandings and agreements with respect
+to such subject matter.
+
+     11.  NOTICES. Any notice required to be given or delivered to the Company
+under the terms of this Agreement shall be in writing and addressed to the
+Corporate Secretary of the Company at its principal corporate offices. Any
+notice required to be given or delivered to Participant shall be in writing and
+addressed to Participant at the address indicated above or to such other address
+as such party may designate in writing from time to time to the Company. All
+notices shall be deemed to have been given or delivered upon: personal delivery;
+three (3) days after deposit in the United States mail by certified or
+registered mail (return receipt requested); one (1) business day after deposit
+with any return receipt express courier (prepaid); or one (1) business day after
+transmission by rapifax or telecopier.
+
+     12.  SUCCESSORS AND ASSIGNS. The Company may assign any of its rights under
+this Agreement. This Agreement shall be binding upon and inure to the benefit of
+the successors
+
+
+                                       5
+
+<PAGE>   6
+
+and assigns of the Company. Subject to the restrictions on transfer set forth
+herein, this Agreement shall be binding upon Participant and Participant's
+heirs, executors, administrators, legal representatives, successors and assigns.
+
+     13.  GOVERNING LAW. This Agreement shall be governed by and construed in
+accordance with the internal laws of the State of California, without regard to
+that body of law pertaining to choice of law or conflict of law. If any
+provision of this Agreement is determined by a court of law to be illegal or
+unenforceable, then such provision will be enforced to the maximum extent
+possible and the other provisions will remain fully effective and enforceable.
+
+     14.  ACCEPTANCE. Participant hereby acknowledges receipt of a copy of the
+Plan and this Agreement. Participant has read and understands the terms and
+provisions thereof, and accepts this Option subject to all the terms and
+conditions of the Plan and this Agreement. Participant acknowledges that there
+may be adverse tax consequences upon exercise of this Option or disposition of
+the Shares and that the Company has advised Participant to consult a tax advisor
+prior to such exercise or disposition.
+
+
+                                       6
+
+<PAGE>   7
+
+     IN WITNESS WHEREOF, the Company has caused this Agreement to be executed in
+duplicate by its duly authorized representative and Participant has executed
+this Agreement in duplicate as of the Date of Grant.
+
+SYMANTEC CORPORATION                    PARTICIPANT
+
+
+By:
+   -----------------------------------  ----------------------------------------
+                                        (Signature)
+
+
+- --------------------------------------  ----------------------------------------
+(Please print name)                     (Please print name)
+
+
+- --------------------------------------
+(Please print title)
+
+
+                                       7
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>ex10-2.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.02
+
+
+                                                                January 31, 2000
+
+
+Mr. Ron Moritz
+3757 Starr King Circle
+Palo Alto, CA 94306
+
+Dear Ron,
+
+On behalf of Symantec Corporation, I am pleased to offer you employment as Vice
+President and Chief Technical Officer. In this position you will report directly
+to John Thompson, CEO, President and Chairman of the Board of Directors. This
+position will be located in our Cupertino offices. Your starting base salary
+will be $240,000 annually, and you will be eligible for an annual focal review.
+At this rate of compensation, you would be eligible, at 100% of company and
+individual performance, to an additional 60% of annual base salary, which would
+bring your total target annual cash to $384,000. Symantec will also reimburse
+you or your current employer, upon production of proper documentation, up to
+$17,000 of moving expenses currently owed to your former employer.
+
+Symantec will pay you a one-time hire-on bonus in the amount of $15,000 net
+(less withholding allowances) payable within thirty (30) days after you begin
+employment with us. If you voluntarily terminate employment with Symantec prior
+to completing one year of service, you will be required to reimburse Symantec a
+prorated share of the total hire-on bonus.
+
+You also will be entitled to Tax preparation service and Non-qualified deferred
+compensation plan (NQDCP).
+
+As a member of Symantec's Executive Staff, you will be eligible to participate
+in a wide variety of Executive Staff benefit plans including the Executive Staff
+Variable Compensation Plan, 423 Stock Purchase Plan, matching 401(k) savings and
+investment plan, health insurance and many other benefits.
+
+We will recommend to the Board of Directors that you be granted an option to
+purchase 50,000 shares of Symantec's common stock under our 1996 Stock Option
+Plan. The price of the stock will be the closing price of the Company's Common
+Stock on the Nasdaq National Market on the last trading day prior to the option
+grant date, as reported in the Wall Street Journal. The option will vest over a
+four-year period starting from your date of hire, at the rate of 25% of the
+option at the end of your first year of employment and on a monthly basis
+thereafter.
+
+Attached is an Employment Agreement that must be signed and returned with your
+signed offer letter. This Agreement must be signed before you start work at
+Symantec. It requires that you hold in confidence any proprietary information
+received as an employee of Symantec and to assign to us any inventions that you
+make while employed by Symantec. We wish to impress upon you that we do not wish
+you to bring with you any confidential or proprietary material of any former
+employer or to violate any other obligation to your former employers, and that
+the Agreement that you will be asked to sign contains a representation by you
+that you have not brought nor will you use any such material at Symantec.
+
+This letter does not constitute a contract of employment for any specific period
+of time but will create an "employment at will" relationship. This means that
+the employment relationship may be terminated by either party for any reason at
+any time. Any statements or representation to the contrary (and, indeed any
+statements contradicting any provisions of this letter) should be regarded by
+you as ineffective. Participation in any of Symantec's stock option or benefit
+programs is not to be regarded as assurance of continued employment for any
+particular period of time.
+
+
+<PAGE>   2
+
+Please note that to comply with regulations adopted in the Immigration Reform
+and Control Act of 1986 (IRCA), we require that you present documentation
+demonstrating that you have the authorization to work in the United States on
+your first working day. If you have any questions about this requirement, which
+applies to U.S. citizens and non-U.S. citizens alike, please contact me.
+
+Please confirm your acceptance of this offer by signing this letter in the space
+indicated and returning it to my attention in the enclosed envelope and faxing
+your acceptance to fax no. (408) 864-2485.
+
+Ron, I believe that Symantec will continue to be a leading force in the software
+industry and I sincerely hope that you will accept this offer and join us in
+building the future. I know that you would be a great addition to the team!
+
+Sincerely,
+
+
+
+John W. Thompson
+CEO, President, and Chairman of the Board of Directors
+
+
+
+
+I accept the offer of employment stated in this letter, and expect to commence
+employment on  _______________, 2000.
+
+
+- -------------------------------- -------------
+Signature                        Date
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>ex10-3.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.03
+
+
+
+                                                                   March 8, 2000
+
+
+Ms. Gail Hamilton
+512 River Hills Road
+Austin, Texas 78733
+
+Fax: (512) 327-7985
+
+Dear Gail,
+
+As per our earlier discussion with John Thompson, here is the promised letter.
+
+On behalf of Symantec Corporation, I am pleased to offer you employment as
+Senior Vice President of Symantec's Enterprise Solutions Division. In this
+position you will report directly to John Thompson, CEO, President and Chairman
+of the Board of Directors. This position will be located in our Cupertino
+offices. Your starting base salary will be $400,000 annually, and you will be
+eligible for an annual focal review, provided that this base salary may not be
+reduced during your employment. At this rate of compensation, you would be
+eligible, at 100% of company and individual performance, to an additional 60% of
+annual base salary, which would bring your total target annual cash to $640,000.
+You will be guaranteed one half of your first year's bonus ($120,000).
+
+In addition, Symantec will pay to you a one-time hire-on bonus in the amount of
+$100,000 (less withholding allowances) payable within thirty days after you
+begin employment with us. If you voluntarily terminate employment with Symantec
+prior to completing one year of service, you will be required to reimburse
+Symantec a prorated share of the total hire-on bonus.
+
+Symantec will also rent for you a furnished apartment within driving distance of
+the Cupertino offices. This apartment will be of the same standard as was rented
+for John Thompson when he relocated to the area, and will be provided to you
+throughout the term of your employment. Symantec will also pay reasonable moving
+expenses that you incur as a result of moving to this apartment.
+
+Symantec will also lease for you a new automobile, of up to $75,000 in value, on
+a three year lease. You will continue to participate in the Symantec Executive
+Vehicle Policy to the same extent as all other Symantec Management Committee
+Members.
+
+Symantec will also provide for you $1,600,000 in life insurance coverage.
+
+In the event that your employment is terminated without cause, then, subject to
+the conditions of this letter, you will be paid severance in an amount equal to
+twelve months of your base salary at that time, net of tax withholding. For the
+purposes of this agreement, "Cause" shall mean (i) an intentional tort
+(excluding any tort relating to a motor vehicle) which causes loss, damage or
+injury to the property or reputation of Symantec or its subsidiaries; (ii) any
+crime or act of fraud or dishonesty against Symantec or its subsidiaries; (iii)
+the commission of a felony; (iv) habitual neglect of duties which is not cured
+within ten (10) days after notice thereof by the President of Symantec to you,
+(v) the disregard of the written policies of Symantec or its subsidiaries which
+causes loss, damage or injury to the property or reputation of Symantec or its
+subsidiaries which is not cured within ten (10) days after notice of such
+neglect by the President of Symantec to you; (vi) or any material breach of your
+ongoing obligation not to disclose confidential information, and not to assign
+intellectual property developed during employment. The payment of the severance
+amount specified above is conditioned upon your signing and returning a release
+of claims against Symantec, and not withdrawing said release of claims within
+the period specified therein. The offer of severance contained in this letter
+supercedes all other severance arrangements and policies otherwise applicable.
+Except as set forth herein, all other aspects
+
+
+
+<PAGE>   2
+
+of your compensation and employment, including the terms of your stock option
+agreements, remain unchanged.
+
+As a member of Symantec's Management Committee, you will be eligible to
+participate in a wide variety of executive benefit plans including the Variable
+Compensation Plan, 423 Stock Purchase Plan, matching 401(k) savings and
+investment plan, health insurance and many other benefits. You also will be
+entitled to investment and tax preparation service and a non-qualified deferred
+compensation plan (NQDCP).
+
+You will be granted an option to purchase 150,000 shares of Symantec's common
+stock under our 1996 Stock Option Plan. Of such options, the maximum number
+permitted under the Internal Revenue Code will be Incentive Stock Options (the
+exact number of which will be a function of the stock price at the time of the
+option grant) and the balance will be Non-qualified Stock Options. The price of
+the stock will be the closing price of the Company's Common Stock on the Nasdaq
+National Market on the last trading day prior to the option grant date, as
+reported in The Wall Street Journal. The option grant date will be your first
+date of employment. The option will vest over a four-year period starting from
+your date of hire, at the rate of 25% of the option at the end of your first
+year of employment and on a monthly basis thereafter.
+
+Attached is an Employment Agreement that must be signed and returned with your
+signed offer letter. This Agreement must be signed before you start work at
+Symantec. It requires that you hold in confidence any proprietary information
+received as an employee of Symantec and to assign to us any inventions that you
+make while employed by Symantec. We wish to impress upon you that we do not wish
+you to bring with you any confidential or proprietary material of any former
+employer or to violate any other obligation to your former employers, and that
+the Agreement that you will be asked to sign contains a representation by you
+that you have not brought nor will you use any such material at Symantec.
+
+This letter does not constitute a contract of employment for any specific period
+of time but will create an "employment at will" relationship. This means that
+the employment relationship may be terminated by either party for any reason at
+any time. Any statements or representations to the contrary (and, indeed any
+statements contradicting any provisions of this letter) should be regarded by
+you as ineffective. Participation in any of Symantec's stock option or benefit
+programs is not to be regarded as assurance of continued employment for any
+particular period of time.
+
+Please note that to comply with regulations adopted in the Immigration Reform
+and Control Act of 1986 (IRCA), we require that you present documentation
+demonstrating that you have the authorization to work in the United States on
+your first working day. If you have any questions about this requirement, which
+applies to U.S. citizens and non-U.S. citizens alike, please contact me.
+
+Please confirm your acceptance of this offer by signing this letter in the space
+indicated and returning it to my attention in the enclosed envelope and faxing
+your acceptance to fax no. (408) 864-2485 no later than close of business, March
+10, 2000.
+
+Gail, I sincerely hope that you will accept this offer and join us in building
+the future here at Symantec. I really look forward to working with you!
+
+Sincerely,
+
+
+Rebecca A. Ranninger
+Senior Vice President, Human Resources
+
+<PAGE>   3
+
+I accept the offer of employment stated in this letter, and expect to commence
+employment on _______________, 2000.
+
+
+- --------------------------------        -------------
+Signature                               Date
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>5
+<FILENAME>ex27-1.txt
+<DESCRIPTION>EXHIBIT 27.1
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary financial information extracted from Symantec
+Corporation's Quarterly Report on Form 10-Q for the three month period ended
+June 30, 2000 and is qualified in its entirety by reference to such financial
+statements.
+</LEGEND>
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          MAR-30-2001
+<PERIOD-START>                             APR-01-2000
+<PERIOD-END>                               JUN-30-2000
+<CASH>                                         149,033
+<SECURITIES>                                   373,889
+<RECEIVABLES>                                   58,729
+<ALLOWANCES>                                   (6,444)
+<INVENTORY>                                      2,532
+<CURRENT-ASSETS>                               647,189
+<PP&E>                                         206,790
+<DEPRECIATION>                               (154,224)
+<TOTAL-ASSETS>                                 929,319
+<CURRENT-LIABILITIES>                          267,052
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                           609
+<OTHER-SE>                                     659,554
+<TOTAL-LIABILITY-AND-EQUITY>                   929,319
+<SALES>                                        191,358
+<TOTAL-REVENUES>                               191,358
+<CGS>                                           27,837
+<TOTAL-COSTS>                                   27,837
+<OTHER-EXPENSES>                               118,200
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                 58,306
+<INCOME-TAX>                                    19,909
+<INCOME-CONTINUING>                             38,397
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    38,397
+<EPS-BASIC>                                       0.63
+<EPS-DILUTED>                                     0.60
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

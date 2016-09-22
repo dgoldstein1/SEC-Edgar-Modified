@@ -1,0 +1,2087 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HhUW/jY+n56vmXF5a9G79y2wctjKbdxyzIAKMQegxP/27ENg6hsVrF4/VzqnGY1m
+ uNjxYe+yEBSYV3h0yl/dXg==
+
+<SEC-DOCUMENT>/in/edgar/work/0000950144-00-013528/0000950144-00-013528.txt : 20001114
+<SEC-HEADER>0000950144-00-013528.hdr.sgml : 20001114
+ACCESSION NUMBER:		0000950144-00-013528
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CITRIX SYSTEMS INC
+		CENTRAL INDEX KEY:			0000877890
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [7372
+]		IRS NUMBER:				752275152
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-27084
+			FILM NUMBER:		761290
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		6400 NW 6TH WAY
+				CITY:			FORT LAUDERDALE
+				STATE:			FL
+				ZIP:			33309
+				BUSINESS PHONE:		9542673000
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		CITRIX SYSTEMS INC
+					STREET 2:		6400 NW 6TH WAY
+					CITY:			FL LAUDERDALE
+					STATE:			FL
+					ZIP:			33309
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>g65222e10-q.txt
+<DESCRIPTION>CITRIX SYSTEMS - FORM 10-Q
+<TEXT>
+
+<PAGE>   1
+================================================================================
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+       (Mark One)
+
+[X]    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+       EXCHANGE ACT OF 1934
+
+       For the quarterly period ended September 30, 2000
+
+                             OR
+
+[ ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+       EXCHANGE ACT OF 1934
+
+
+       For the transition period from ___________ to ___________.
+
+                         COMMISSION FILE NUMBER 0-27084
+
+                              CITRIX SYSTEMS, INC.
+             ------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+            DELAWARE                                     75-2275152
+- -------------------------------              ---------------------------------
+(State or other jurisdiction of              (IRS Employer Identification No.)
+ incorporation or organization)
+
+           6400 N. W. 6TH WAY
+        FORT LAUDERDALE, FLORIDA                                   33309
+- ----------------------------------------                         ----------
+(Address of principal executive offices)                         (Zip Code)
+
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (954) 267-3000
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+         Yes [X] No [ ]
+
+         As of November 3, 2000 there were 185,271,416 shares of the
+registrant's Common Stock, $.001 par value per share, outstanding.
+
+
+================================================================================
+
+
+
+
+<PAGE>   2
+
+
+
+
+                              CITRIX SYSTEMS, INC.
+
+                                    FORM 10-Q
+                FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2000
+
+                                    CONTENTS
+
+                                                                          PAGE
+                                                                         NUMBER
+                                                                         ------
+
+ PART I: FINANCIAL INFORMATION
+
+ Item 1.  Condensed Consolidated Financial Statements (Unaudited)
+
+          Condensed Consolidated Balance Sheets:
+                        September 30, 2000 and December 31, 1999           3
+           Condensed Consolidated Statements of Income:
+                        Three Months and Nine Months ended September
+                        30, 2000 and 1999                                  5
+           Condensed Consolidated Statements of Cash Flows:
+                        Nine Months ended September 30, 2000 and 1999      6
+            Notes to Condensed Consolidated Financial Statements           7
+
+ Item 2.  Management's Discussion and Analysis of Financial
+          Condition and Results of Operations                              13
+
+ Item 3.  Qualitative & Quantitative Disclosure about Market Risk          29
+
+ PART II:  OTHER INFORMATION
+
+ Item 1.  Legal Proceedings                                                30
+
+ Item 6.  Exhibits and Reports on Form 8-K                                 30
+
+ Signatures                                                                31
+
+ Exhibit Index                                                             32
+
+
+
+                                       2
+<PAGE>   3
+
+
+
+
+                          PART I: FINANCIAL INFORMATION
+
+               ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                              CITRIX SYSTEMS, INC.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                   (Unaudited)
+
+<TABLE>
+<CAPTION>
+
+
+                                                                     SEPTEMBER 30,    DECEMBER 31,
+                                                                         2000             1999
+                                                                    --------------   ----------------
+<S>                                                                    <C>           <C>
+                                                                              (IN THOUSANDS)
+ASSETS
+Current assets:
+   Cash and cash equivalents                                            $  322,408      $  216,116
+   Short-term investments                                                  286,476         221,978
+   Accounts receivable, net of allowances of $11,508 and $8,242 at
+       September 30, 2000 and December 31, 1999, respectively               53,111          55,327
+   Inventories                                                               5,107           7,731
+   Prepaid taxes                                                            67,467          30,394
+   Other prepaid expenses                                                    5,458           4,970
+   Other current assets                                                      5,233           7,184
+   Current portion of deferred tax assets                                   27,392          26,544
+                                                                        ----------      ----------
+Total current assets                                                       772,652         570,244
+
+Long-term investments                                                      193,744         325,755
+Property and equipment, net                                                 49,155          31,530
+Intangible assets, net                                                      69,300          63,396
+Long-term portion of deferred tax assets                                    17,967          30,197
+Other assets, net                                                           16,767          16,735
+                                                                        ----------      ----------
+                                                                        $1,119,585      $1,037,857
+                                                                        ==========      ==========
+</TABLE>
+
+
+CONTINUED
+
+
+
+                                       3
+<PAGE>   4
+
+
+                              CITRIX SYSTEMS, INC.
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                   (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+
+
+                                                                     SEPTEMBER 30,          DECEMBER 31,
+                                                                         2000                   1999
+                                                                    --------------         ----------------
+<S>                                                                    <C>                   <C>
+                                                                     (IN THOUSANDS, EXCEPT PAR VALUE)
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+
+    Accounts payable and other accrued expenses                              $    71,973       $    59,988
+    Current portion of deferred revenues                                          77,601            67,805
+    Income taxes payable                                                           3,460             9,202
+                                                                             -----------       -----------
+Total current liabilities                                                        153,034           136,995
+
+Long term portion of deferred revenues                                            24,091            53,912
+Convertible subordinated debentures                                              326,221           313,880
+Commitments and contingencies
+
+Stockholders' equity:
+   Preferred stock at $.01 par value--5,000,000 shares authorized, none
+        issued and outstanding at September 30, 2000 and December 31,
+        1999, respectively                                                            --                --
+   Common stock at $.001 par value: 1,000,000 shares authorized;
+        187,060 and 181,093 issued at September 30, 2000 and December
+        31, 1999, respectively                                                       187               181
+   Additional paid-in capital                                                    344,741           309,321
+   Retained earnings                                                             301,240           226,105
+   Accumulated other comprehensive loss                                           (2,355)           (2,537)
+                                                                             -----------       -----------
+                                                                                 643,813           533,070
+   Less - common stock in treasury, at cost                                      (27,574)               --
+                                                                             -----------       -----------
+Total stockholders' equity                                                       616,239           533,070
+                                                                             -----------       -----------
+                                                                             $ 1,119,585       $ 1,037,857
+                                                                             ===========       ===========
+</TABLE>
+
+
+SEE ACCOMPANYING NOTES.
+
+
+
+                                       4
+<PAGE>   5
+
+
+
+
+                              CITRIX SYSTEMS, INC.
+
+                   CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                                   (UNAUDITED)
+<TABLE>
+<CAPTION>
+
+                                                    THREE MONTHS ENDED          NINE MONTHS ENDED
+                                                      SEPTEMBER 30,               SEPTEMBER 30,
+                                                 -----------------------     -----------------------
+                                                   2000          1999          2000          1999
+                                                 ---------     ---------     ---------     ---------
+                                                    (IN THOUSANDS, EXCEPT PER SHARE INFORMATION)
+
+<S>                                              <C>           <C>           <C>           <C>
+Revenues:
+    Revenues                                     $ 103,482     $  95,771     $ 317,202     $ 255,412
+    Other revenues                                  10,009        10,009        29,890        29,821
+                                                 ---------     ---------     ---------     ---------
+         Net revenues                              113,491       105,780       347,092       285,233
+
+Cost of revenues:
+    Cost of revenues (excluding amortization
+        presented separately below)                  8,694         3,098        21,907        10,274
+    Cost of other revenues                             160           205           480           651
+                                                 ---------     ---------     ---------     ---------
+        Total cost of revenues                       8,854         3,303        22,387        10,925
+                                                 ---------     ---------     ---------     ---------
+Gross margin                                       104,637       102,477       324,705       274,308
+Operating expenses:
+   Research and development                         12,532         9,524        36,945        26,644
+   Sales, marketing and support                     43,999        31,214       130,613        85,352
+   General and administrative                       14,305        11,169        43,173        25,927
+   Amortization of intangible assets                 7,890         5,235        22,550        12,776
+   In-process research and development                  --         2,300            --         2,300
+                                                 ---------     ---------     ---------     ---------
+       Total operating expenses                     78,726        59,442       233,281       152,999
+                                                 ---------     ---------     ---------     ---------
+Income from operations                              25,911        43,035        91,424       121,309
+Interest and other income                            9,220         6,793        28,551        16,681
+Interest expense                                    (4,250)       (3,975)      (12,639)       (8,460)
+                                                 ---------     ---------     ---------     ---------
+Income before income taxes                          30,881        45,853       107,336       129,530
+Income taxes                                         9,264        16,507        32,201        46,631
+                                                 ---------     ---------     ---------     ---------
+Net income                                       $  21,617     $  29,346     $  75,135     $  82,899
+                                                 =========     =========     =========     =========
+Earnings per common share:
+   Basic earnings per share                      $    0.12     $    0.17     $    0.41     $    0.47
+                                                 =========     =========     =========     =========
+   Weighted average shares outstanding             185,627       177,084       184,749       175,065
+                                                 =========     =========     =========     =========
+Earnings per common share--assuming dilution:
+   Diluted earnings per share                    $    0.11     $    0.15     $    0.37     $    0.44
+                                                 =========     =========     =========     =========
+   Weighted average shares outstanding             192,879       193,137       201,536       189,836
+                                                 =========     =========     =========     =========
+</TABLE>
+
+
+SEE ACCOMPANYING NOTES.
+
+
+
+                                       5
+<PAGE>   6
+
+
+
+                              CITRIX SYSTEMS, INC.
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (UNAUDITED)
+<TABLE>
+<CAPTION>
+
+                                                                                 NINE MONTHS ENDED
+                                                                                   SEPTEMBER 30,
+                                                                             -----------------------
+                                                                                2000          1999
+                                                                             ---------     ---------
+                                                                                 (IN THOUSANDS)
+
+<S>                                                                          <C>           <C>
+OPERATING ACTIVITIES
+Net income                                                                   $  75,135     $  82,899
+Adjustments to reconcile net income to net cash provided by operating
+  activities:
+   Depreciation and amortization                                                36,345        18,694
+   Provision for doubtful accounts                                               1,167           172
+   Provision for product returns                                                20,377        17,583
+   Provision for inventory reserves                                              7,028         1,124
+   Tax benefit related to the exercise of non-statutory stock options and
+     disqualifying dispositions of incentive stock options                      72,026        26,945
+   Accretion of original issue discount and amortization of financing
+      cost                                                                      12,560         8,460
+   In-process research and development                                              --         2,300
+    Changes in operating assets and liabilities, net of effects of
+       acquisitions:
+       Accounts receivable                                                     (17,721)      (32,384)
+       Inventories                                                              (4,343)       (5,525)
+       Prepaid taxes                                                           (37,073)          146
+       Other prepaid expenses                                                    1,738        (2,924)
+       Other assets                                                               (251)       (5,958)
+       Deferred tax assets                                                      11,382       (17,995)
+       Deferred revenues                                                       (20,025)       13,212
+       Accounts payable and other accrued expenses                              11,437        18,528
+       Income taxes payable                                                     (5,742)         (671)
+                                                                             ---------     ---------
+Net cash provided by operating activities                                      164,040       124,606
+
+INVESTING ACTIVITIES
+Purchases of investments                                                      (153,198)     (502,511)
+Proceeds from sale of investments                                              220,892       140,983
+Cash paid for acquisitions, net of cash acquired                               (30,102)      (32,784)
+Cash paid for licensing agreement                                                   --          (750)
+Purchases of property and equipment                                            (31,106)      (13,099)
+                                                                             ---------     ---------
+Net cash provided by (used in) investing activities                              6,486      (408,161)
+
+FINANCING ACTIVITIES
+Net proceeds from issuance of common stock                                      57,727        43,563
+Cash paid under stock repurchase programs                                     (121,901)           --
+Net proceeds from issuance of convertible subordinated debentures                   --       292,458
+Other                                                                              (60)          (74)
+                                                                             ---------     ---------
+Net cash (used in) provided by financing activities                            (64,234)      335,947
+                                                                             ---------     ---------
+Increase in cash and cash equivalents                                          106,292        52,392
+Cash and cash equivalents at beginning of period                               216,116       127,546
+                                                                             ---------     ---------
+Cash and cash equivalents at end of period                                   $ 322,408     $ 179,938
+                                                                             =========     =========
+</TABLE>
+
+SEE ACCOMPANYING NOTES.
+
+
+
+                                       6
+<PAGE>   7
+
+
+
+                              CITRIX SYSTEMS, INC.
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+                               SEPTEMBER 30, 2000
+
+    1.    BASIS OF PRESENTATION
+
+    The accompanying unaudited condensed consolidated financial statements have
+    been prepared in accordance with generally accepted accounting principles
+    for interim financial information and with Article 10 of Regulation S-X.
+    Accordingly, they do not include all of the information and footnotes
+    required by generally accepted accounting principles for complete financial
+    statements. All adjustments which, in the opinion of management, are
+    considered necessary for a fair presentation of the results of operations
+    for the periods shown are of a normal recurring nature and have been
+    reflected in the unaudited condensed consolidated financial statements. The
+    results of operations for the periods presented are not necessarily
+    indicative of the results expected for the full fiscal year or for any
+    future period. The information included in these unaudited condensed
+    consolidated financial statements should be read in conjunction with
+    Management's Discussion and Analysis of Financial Condition and Results of
+    Operations contained in this report and the consolidated financial
+    statements and accompanying notes included in the Citrix Systems, Inc. (the
+    "Company") Annual Report on Form 10-K for the fiscal year ended December 31,
+    1999.
+
+    2.    USE OF ESTIMATES
+
+    The preparation of financial statements in conformity with generally
+    accepted accounting principles requires management to make estimates and
+    assumptions that affect the amounts reported in the condensed consolidated
+    financial statements and accompanying notes. While the Company believes that
+    such estimates are fair when considered in conjunction with the condensed
+    consolidated financial position and results of operations taken as a whole,
+    the actual amount of such estimates, when known, will vary from these
+    estimates.
+
+    3.    REVENUE RECOGNITION
+
+    Revenue is recognized when earned. The Company's revenue recognition
+    policies are in compliance with the American Institute of Certified Public
+    Accountants Statement of Position ("SOP") 97-2 (as amended by SOP 98-4 and
+    SOP 98-9) "Software Revenue Recognition." Product revenues are recognized
+    upon shipment of the software product only if no significant Company
+    obligations remain, the fee is fixed or determinable, and collection of the
+    resulting receivable is deemed probable. Revenue from packaged product sales
+    to distributors and resellers is recorded when related products are shipped.
+    In software arrangements that include rights to multiple software products,
+    post-contract customer support ("PCS"), and/or other services, the Company
+    allocates the total arrangement fee among each deliverable based on the
+    relative fair value of each of the deliverables based on vendor-specific
+    objective evidence ("VSOE"). The Company sells software and PCS separately
+    and VSOE is determined by the price charged when each element is sold
+    separately. Product returns and sales allowances, including stock rotations,
+    are estimated and provided for at the time of sale. Non-recurring
+    engineering fees are recognized ratably as the work is performed. Revenues
+    from training and consulting are recognized when the services are performed.
+    Service and subscription revenues from customer maintenance fees for ongoing
+    customer support and product updates and upgrades are based on the price
+    charged or derived value of the undelivered elements and are recognized
+    ratably over the term of the contract, which is typically twelve months.
+    Service revenues are included in net revenues on the face of the
+    consolidated statements of income.
+
+
+
+
+                                       7
+<PAGE>   8
+
+
+    4.   EARNINGS PER SHARE
+
+    Basic earnings per share is computed using the weighted average number of
+    common shares outstanding during the period. Diluted earnings per share is
+    computed using the weighted average number of common and dilutive common
+    share equivalents outstanding during the period. Dilutive common share
+    equivalents consist of shares issuable upon the exercise of stock options.
+    The shares related to the Company's convertible subordinated debentures were
+    excluded from the computation of diluted earnings per share due to their
+    antidilutive effect.
+
+    All share and per share data have been retroactively adjusted to reflect the
+    two-for-one stock split in the form of a stock dividend paid on March 25,
+    1999 to stockholders of record as of March 17, 1999, and the two-for-one
+    stock split in the form of a stock dividend paid on February 16, 2000 to
+    stockholders of record as of January 31, 2000.
+
+    The following table sets forth the computation of basic and diluted earnings
+    per share:
+<TABLE>
+<CAPTION>
+
+                                                       THREE MONTHS ENDED              NINE MONTHS ENDED
+                                                           SEPTEMBER 30,                   SEPTEMBER 30,
+                                                      ------------------------        ------------------------
+                                                        2000             1999           2000            1999
+                                                      --------        --------        --------        --------
+                                                            (IN THOUSANDS, EXCEPT PER SHARE INFORMATION)
+<S>                                                   <C>             <C>             <C>             <C>
+        Numerator:
+          Net income                                  $ 21,617        $ 29,346        $ 75,135        $ 82,899
+                                                      --------        --------        --------        --------
+        Denominator:
+          Denominator for basic earnings per
+               share - weighted-average shares         185,627         177,084         184,749         175,065
+          Effect of dilutive securities:
+              Employee stock options                     7,252          16,053          16,787          14,771
+                                                      --------        --------        --------        --------
+          Dilutive potential common shares               7,252          16,053          16,787          14,771
+                                                      --------        --------        --------        --------
+          Denominator for diluted earnings per
+               share - weighted-average shares         192,879         193,137         201,536         189,836
+                                                      ========        ========        ========        ========
+        Basic earnings per share                      $   0.12        $   0.17        $   0.41        $   0.47
+                                                      ========        ========        ========        ========
+        Diluted earnings per share                    $   0.11        $   0.15        $   0.37        $   0.44
+                                                      ========        ========        ========        ========
+</TABLE>
+
+
+    5.  ACQUISITION
+
+    In February 2000, the Company acquired all of the operating assets of the
+    Innovex Group, Inc. ("Innovex"), a privately owned e-business consulting
+    services organization specializing in the design, development and
+    implementation of Web-based solutions and systems integration. The purchase
+    price was approximately $47.8 million, of which $28.7 million was paid at
+    the closing date and the balance is payable, in equal installments 18 and 24
+    months after the closing date, contingent on future events, as set forth in
+    the acquisition agreement.
+
+    The acquisition was accounted for as a purchase and the allocation of the
+    purchase price was based on an independent report. The cost in excess of net
+    tangible assets acquired was approximately $26.1 million, of which $9.0
+    million was allocated to the acquired workforce and $17.1 million was
+    allocated to goodwill. The cost associated with the acquired workforce and
+    goodwill are both being amortized on a straight-line basis over four years.
+    The results of operations of Innovex are included in the Company's results
+    of operations from the date of acquisition. Contingent payments to be made
+    at future dates, if any, will be accounted for as additional purchase price
+    and amortized over the remaining life of the intangible assets acquired.
+
+
+
+                                       8
+<PAGE>   9
+
+
+    6.  SEGMENT INFORMATION
+
+    The Company operates in a single market consisting of the design,
+    development, marketing and support of client and server-based computing
+    software for enterprise applications. Design, development, marketing and
+    support operations outside of the United States are conducted through
+    subsidiaries located primarily in Europe and the Asia Pacific region.
+
+    The Company tracks revenue and gross margin by geography and product
+    category but does not track operating expenses nor identifiable assets on a
+    product category basis. The Company does not engage in intercompany
+    transfers between segments. The Company's management evaluates performance
+    based primarily on revenues and profit in the geographic locations in which
+    the Company operates. Segment profit for each segment includes sales and
+    marketing expenses directly attributable to the segment and excludes certain
+    expenses which are managed outside the reportable segments. Costs excluded
+    from segment profit primarily consist of cost of revenues, research and
+    development costs, interest, corporate expenses, including income taxes, as
+    well as non-recurring charges for purchased in-process technology, and
+    overhead costs, including rent, utilities, depreciation and amortization.
+    Corporate expenses are comprised primarily of corporate marketing costs,
+    operations and other general and administrative expenses which are
+    separately managed. Accounting policies of the segments are the same as the
+    Company's consolidated accounting policies. Net revenues and segment profit,
+    classified by the major geographic areas in which the Company operates, are
+    as follows:
+<TABLE>
+<CAPTION>
+
+                                                       THREE MONTHS ENDED              NINE MONTHS ENDED
+                                                           SEPTEMBER 30,                   SEPTEMBER 30,
+                                                   -------------------------      - ------------------------
+                                                      2000            1999           2000            1999
+                                                   ---------       ---------       ---------       ---------
+                                                                              (IN THOUSANDS)
+
+<S>                                                <C>             <C>             <C>             <C>
+        Net revenues:
+                 Americas                          $  63,195       $  55,797       $ 181,189       $ 142,227
+                 EMEA(1)                              32,328          32,108         113,641          90,904
+                 Asia Pacific                          6,677           5,052          17,908          15,393
+                 Other (2)                            11,291          12,823          34,354          36,709
+                                                   ---------       ---------       ---------       ---------
+                 Consolidated                      $ 113,491       $ 105,780       $ 347,092       $ 285,233
+                                                   =========       =========       =========       =========
+
+        Segment profit:
+                 Americas                          $  52,775       $  46,410       $ 151,085       $ 112,592
+                 EMEA(1)                              25,120          25,966          89,015          73,163
+                 Asia Pacific                          2,459           2,568           8,173           8,827
+                 Other (2)                            11,291          12,823          34,354          36,710
+                 Unallocated expenses (3):
+                     Cost of revenues                 (8,854)         (3,303)        (22,387)        (10,925)
+                     Overhead costs                  (22,271)        (13,556)        (61,513)        (35,049)
+                     Research and development        (12,532)         (9,524)        (36,945)        (26,644)
+                     Net interest                      4,970           2,818          15,912           8,221
+                     Other corporate expenses        (22,077)        (18,349)        (70,358)        (37,365)
+                                                   ---------       ---------       ---------       ---------
+        Consolidated income before income
+              taxes                                $  30,881       $  45,853       $ 107,336       $ 129,530
+                                                   =========       =========       =========       =========
+</TABLE>
+
+- --------------
+    (1)  Europe, Middle East and Africa ("EMEA").
+
+    (2) Primarily represents royalty fees earned in connection with the License,
+        Development and Marketing Agreement with Microsoft and OEM revenue.
+
+    (3) Represents expenses presented to management on a consolidated basis only
+        and not allocated to the geographic operating segments.
+
+
+
+                                       9
+<PAGE>   10
+
+
+
+    Additional information regarding revenue by product line is as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                                                THREE MONTHS                      NINE MONTHS
+                                                                             ENDED SEPTEMBER 30,              ENDED SEPTEMBER 30,
+                                                                          -------------------------       ------------------------
+                                                                            2000            1999            2000           1999
+                                                                          ---------       ---------       ---------      ---------
+                                                                                             (IN THOUSANDS)
+<S>                                                                       <C>             <C>             <C>            <C>
+                Revenue:
+                     Windows Application Servers                          $  80,168       $  78,250       $ 248,087      $ 210,676
+                     Management Services Products                            14,440          10,506          42,791         26,417
+                     Computing Appliances Products                            1,282           2,815           4,465          7,135
+                     Microsoft Royalties                                     10,009          10,009          29,889         29,821
+                     Other Revenue                                            7,592           4,200          21,860         11,184
+                                                                          ---------       ---------       ---------      ---------
+                     Net Revenues                                         $ 113,491       $ 105,780       $ 347,092      $ 285,233
+                                                                          =========       =========       =========      =========
+</TABLE>
+
+
+
+
+    7. COMPREHENSIVE INCOME
+
+    The components of comprehensive income, net of related taxes, are as
+    follows:
+
+<TABLE>
+<CAPTION>
+
+                                                                                THREE MONTHS                      NINE MONTHS
+                                                                             ENDED SEPTEMBER 30,              ENDED SEPTEMBER 30,
+                                                                          -------------------------       ------------------------
+                                                                            2000            1999            2000           1999
+                                                                          ---------       ---------       ---------      ---------
+                                                                                             (IN THOUSANDS)
+<S>                                                                       <C>             <C>             <C>            <C>
+
+        Net income                                                        $  21,617       $  29,346       $  75,135      $  82,899
+        Unrealized gain (loss) on available-for-sale securities, net         (4,730)           (100)            182         (1,597)
+                                                                          ---------       ---------       ---------      ---------
+        Comprehensive income                                              $  16,887       $  29,246       $  75,317      $  81,302
+                                                                          =========       =========       =========      =========
+</TABLE>
+
+    8. INCOME TAXES
+
+    In July 1999, the Company changed its organizational structure whereby it
+    moved certain operational and administrative processes to overseas
+    subsidiaries. The restructuring resulted in foreign earnings being taxed at
+    lower foreign tax rates. Effective January 1, 2000, these earnings will be
+    permanently reinvested overseas in order to fund the Company's growth in
+    overseas markets. As a result, the Company's effective tax rate was reduced
+    to 30% for the three and nine month periods ended September 30, 2000 from
+    36% for the same periods in the prior year.
+
+    9. CONVERTIBLE SUBORDINATED DEBENTURES
+
+    In March 1999, the Company completed a private placement of $850.0 million
+    principal amount at maturity of its zero coupon convertible subordinated
+    debentures (the "debentures") due March 22, 2019. The debentures were priced
+    with a yield to maturity of 5.25% and resulted in net proceeds to the
+    Company of approximately $291.9 million, net of original issue discount and
+    net of debt issuance costs of $9.6 million. Except under limited
+    circumstances, no interest will be paid on the debentures prior to maturity.
+    The debentures are convertible at the option of the security holder at any
+    time on or before the maturity date at a conversion rate of 14.0612 shares
+    of the Company's common stock for each $1,000 principal amount at maturity
+    of debentures, subject to adjustment in certain events. The Company may
+    redeem the debentures on or after March 22, 2004. Holders may require the
+    Company to repurchase the debentures, at set redemption prices (equal to the
+    issue price plus accrued original issue discount) beginning on March 22,
+    2004. Interest expense related to the debentures was $4.3 million and $4.0
+    million for the three month periods ended September 30, 2000 and 1999,
+    respectively. Interest expense related to the debentures was $12.6 million
+    and $8.5 million for the nine month periods ended September 30, 2000 and
+    1999, respectively. In March and April of 2000, holders of an aggregate face
+    value amount of $200,000 of debentures converted the notes into
+    approximately 2,810 shares of the Company's common stock. The Company made
+    immaterial payments in connection with these conversions.
+
+
+
+                                       10
+<PAGE>   11
+
+
+    10. OTHER REVENUES
+
+    In May 1997, the Company entered into an agreement, as amended (the
+    "Agreement"), with Microsoft Corporation ("Microsoft"), which provides for
+    the licensing of certain of the Company's multi-user software enhancements
+    and for the cooperation between the parties for the development of certain
+    future software. At the time of the agreement, Microsoft held in excess of
+    5% of the Company's outstanding common stock and also had a representative
+    on the Company's Board of Directors. Microsoft is no longer a significant
+    shareholder and no longer has Board representation. Amounts arising from the
+    Agreement are designated as other revenue. Deferred revenue at September 30,
+    2000 and December 31, 1999 includes $63.9 million and $93.8 million,
+    respectively, related to this agreement which is being recognized ratably
+    over the five year term of the Agreement, which began in May 1997.
+
+    11. STOCK REPURCHASE PROGRAM
+
+    On April 15, 1999, the Board of Directors approved a stock repurchase
+    program authorizing the repurchase of up to $200 million of the Company's
+    common stock. Purchases may be made from time to time in the open market and
+    paid out of general corporate funds. As of September 30, 2000, the Company
+    purchased 1,350,000 shares of outstanding common stock on the open market at
+    an average price of $16.22 per share. These shares have been recorded as
+    treasury stock.
+
+    On August 8, 2000, the Company entered into an agreement with a counterparty
+    in a private transaction to purchase up to 5.8 million shares of the
+    Company's common stock at various times through the third quarter of 2002.
+    Pursuant to the terms of the agreement, $100 million was paid to the
+    counterparty in the third quarter of 2000. The $100 million was recorded as
+    a reduction of additional paid-in capital and shares delivered to the
+    Company over the term of the agreement will be recorded in treasury stock.
+    The ultimate number of shares repurchased will depend on market conditions.
+    As of September 30, 2000, the Company received 336,000 shares under this
+    agreement at an average price of $16.87 per share. These shares have been
+    recorded as treasury stock.
+
+    12. LEGAL PROCEEDINGS
+
+    In June 2000, the Company and certain of its officers and directors were
+    named as defendants in several securities class action lawsuits filed in the
+    United States District Court for the Southern District of Florida. These
+    actions, which were filed on behalf of purchasers of the Company's common
+    stock during the period October 20, 1999 to June 9, 2000, generally allege
+    that, during the class period, the defendants made misstatements to the
+    investing public about the Company's financial condition and prospects. The
+    complaints seek unspecified damages. The Company believes the plaintiffs'
+    claims lack merit and intends to vigorously defend the lawsuits.
+
+    In September 2000, a shareholder filed a claim in the Court of Chancery of
+    the State of Delaware against the Company and nine of its officers and
+    directors alleging breach of fiduciary duty. The complaint seeks
+    unspecified damages. The Company believes the plaintiff's claim lacks merit
+    and intends to vigorously defend the lawsuit.
+
+
+
+
+                                       11
+<PAGE>   12
+
+
+    13. RECLASSIFICATIONS
+
+    Certain reclassifications have been made for consistent presentation.
+
+    14. RECENT ACCOUNTING PRONOUNCEMENTS
+
+    In June 1999, the Financial Accounting Standards Board ("FASB") issued SFAS
+    137, Accounting for Derivative Instruments and Hedging Activities-Deferral
+    of the Effective Date of FASB Statement 133. The Statement defers the
+    effective date of SFAS 133 (as amended by SFAS 138, issued in June 2000) to
+    fiscal 2001. Management is evaluating SFAS 133, 137, and 138 and does not
+    believe that adoption of these Statements will have a material impact on its
+    financial statements.
+
+    In December 1999, the Securities and Exchange Commission ("SEC") issued
+    Staff Accounting Bulletin No. 101 ("SAB 101"), "Revenue Recognition in
+    Financial Statements." SAB 101 summarizes the requirements that must be met
+    in order to recognize revenue and provides guidance for disclosure of
+    revenue recognition policies. In June 2000, the SEC issued SAB No. 101B
+    which delays the implementation date of SAB 101 until no later than the
+    fourth quarter of fiscal 2000. The Company has assessed the impact of SAB
+    101 and does not expect the adoption to have a material effect on its
+    financial position or results of operation.
+
+    In March 2000, the FASB issued Interpretation No. 44 ("FIN 44"), "Accounting
+    for Certain Transactions Involving Stock Compensation", an interpretation of
+    APB Opinion No. 25 ("APB 25"). FIN 44 clarifies the application of APB 25
+    with respect to: the definition of an employee for the purposes of applying
+    APB 25, the criteria for determining whether a plan qualifies as a
+    non-compensatory plan, the accounting consequences of various modifications
+    to the terms of a previously fixed stock option or awards, and the
+    accounting for an exchange of stock compensation awards in a business
+    combination. FIN 44 is effective July 1, 2000, but certain conclusions cover
+    specific events that occur after either December 15, 1998 or January 12,
+    2000. The Company has assessed the impact of FIN 44 and does not expect the
+    adoption to have a material effect on its financial position or results of
+    operation based on the Company's existing stock compensation arrangements.
+
+
+
+                                       12
+<PAGE>   13
+
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS
+
+OVERVIEW
+
+    The Company develops, markets, sells and supports innovative client and
+server-based computing software that enables effective and efficient deployment
+and management of enterprise applications that are designed for Microsoft
+Windows(R) operating systems. The Company's Windows Application Servers, which
+comprise the largest source of the Company's revenue, primarily consist of the
+MetaFrame(TM) product line and related options. The MetaFrame product line,
+which began shipping in the second quarter of 1998, permits organizations to
+deploy Windows applications without regard to location, network connection, or
+type of client hardware platforms.
+
+    On May 9, 1997, the Company and Microsoft entered into a License,
+Development and Marketing Agreement, as amended (the "Development Agreement"),
+which provides for the licensing to Microsoft of certain of the Company's
+multi-user software enhancements to Microsoft's Windows NT Server and for the
+cooperation between the parties for the development of certain future multi-user
+versions of Microsoft Windows NT Server, including Microsoft Windows NT Server,
+Terminal Server Edition and Microsoft Windows 2000 (collectively, "NT Server").
+As a result of the Development Agreement, the Company continues to support the
+Microsoft Windows NT platform, but the MetaFrame products and later releases
+will no longer directly incorporate Windows NT technology. The Company plans to
+continue developing enhancements to its MetaFrame product line and expects that
+this product and associated options will constitute a majority of its revenues
+for the foreseeable future.
+
+    The Company's revenue recognition policies are in compliance with the
+American Institute of Certified Public Accountants Statement of Position ("SOP")
+97-2 (as amended by SOP 98-4 and SOP 98-9) and related interpretations,
+"Software Revenue Recognition" as described in Note 3 of the Notes to Condensed
+Consolidated Financial Statements included in this report.
+
+    In February 2000, the Company acquired all of the operating assets of the
+Innovex Group, Inc. ("Innovex"), a privately owned e-business consulting
+services organization specializing in the design, development and implementation
+of Web-based solutions and systems integration, for approximately $47.8 million,
+of which $28.7 million was paid at the closing date and the balance is payable,
+in equal installments, 18 and 24 months after the closing date, contingent on
+future events.
+
+    The following discussion relating to the individual financial statement
+captions, the Company's overall financial performance, operations and financial
+position should be read in conjunction with the factors and events described in
+"OVERVIEW" and "CERTAIN FACTORS WHICH MAY AFFECT FUTURE RESULTS" which may
+impact the Company's future performance and financial position.
+
+
+
+                                       13
+<PAGE>   14
+
+
+RESULTS OF OPERATIONS
+
+    The following table sets forth statement of income data of the Company
+expressed as a percentage of net revenues and as a percentage of change from
+period-to-period for the periods indicated.
+
+<TABLE>
+<CAPTION>
+
+
+                                                                                                   INCREASE/(DECREASE) FOR THE
+                                                                                                   THREE MONTHS    NINE MONTHS
+                                                                                                       ENDED          ENDED
+                                                                                                   SEPTEMBER 30,   SEPTEMBER 30,
+                                               THREE MONTHS ENDED          NINE MONTHS ENDED           2000          2000
+                                                  SEPTEMBER 30,              SEPTEMBER 30,              Vs.           Vs.
+                                               ------------------          ---- -------------      SEPTEMBER 30,   SEPTEMBER 30,
+                                               2000          1999          2000          1999          1999          1999
+                                               ----          ----          ----          ----      -------------   -------------
+<S>                                           <C>           <C>           <C>           <C>             <C>          <C>
+        Net revenues                          100.0%        100.0%        100.0%        100.0%          7.3%         21.7%
+        Cost of revenues (excluding
+             amortization presented
+             separately below)                  7.8           3.1           6.5           3.8         168.0         104.9
+                                              ------        ------        ------        ------
+        Gross margin                           92.2          96.9          93.5          96.2           2.1          18.4
+        Operating expenses:
+           Research and development            11.0           9.0          10.6           9.3          31.6          38.7
+           Sales, marketing and support        38.8          29.5          37.6          29.9          41.0          53.0
+           General and administrative          12.6          10.6          12.5           9.1          28.1          66.5
+           Amortization of intangible
+            assets                              7.0           4.9           6.5           4.5          50.7          76.5
+           In-process research and
+            development                          --           2.2            --           0.8        (100.0)       (100.0)
+                                              ------        ------        ------        ------
+             Total operating expenses          69.4          56.2          67.2          53.6          32.4          52.5
+                                              ------        ------        ------        ------
+        Income from operations                 22.8          40.7          26.3          42.6         (39.8)        (24.6)
+        Interest and other income               8.1           6.4           8.2           5.8          35.7          71.2
+        Interest expense                       (3.7)         (3.8)         (3.6)         (3.0)          6.9          49.4
+                                              ------        ------        ------        ------
+        Income before income taxes             27.2          43.3          30.9          45.4         (32.7)        (17.1)
+        Income taxes                            8.2          15.6           9.3          16.3         (43.9)        (30.9)
+                                              ------        ------        ------        ------
+        Net income                             19.0%         27.7%         21.6%         29.1%        (26.3)%        (9.4)%
+                                              ======        ======        ======        ======
+</TABLE>
+
+    NET REVENUES. Net revenues are presented below in five categories: Windows
+Application Servers, Management Services Products, Computing Appliances
+Products, Microsoft Royalties and Other Revenue. Windows Application Servers
+revenue represents fees related primarily to the licensing of the Company's
+MetaFrame product, subscription for product support, updates and upgrades and
+additional user licenses. Management Services Products consist of system option
+products such as Load Balancing Services, Resource Management Services and other
+options. Computing Appliances Products revenue consists of license fees and
+royalties from OEMs who are granted a license to incorporate and/or market the
+Company's multi-user technologies in their own product offerings. The Company
+sells packaged products and electronic licenses through its distribution
+channels. As the Company has experienced an increase in electronic sales as a
+percentage of revenue, our traditional packaged product has declined as a
+percentage of product mix. Microsoft royalties represent fees recognized in
+connection with the Development Agreement. Other Revenue consists primarily of
+services and consulting revenues.
+
+
+
+                                       14
+<PAGE>   15
+
+
+    With respect to product mix, the increase in net revenues for the three
+months ended September 30, 2000 compared to the three months ended September 30,
+1999 was primarily attributable to an increase in the volume of shipments of
+Management Services Products and an increase in Windows Application Servers
+revenue which was due to an increase in the number of MetaFrame licenses sold.
+The increase in Windows Application Servers revenue was partially offset by an
+increase in the reserve for returns and a decrease in revenue from the WinFrame
+product line, the Company's Windows application server software based on Windows
+NT 3.51. The reserve for returns increased this quarter due to an increased
+level of stock balancing from the Company's distributors and resellers. The
+increase in net revenues was also due to an increase in Other Revenue due mainly
+to consulting revenue.
+
+    The increase in net revenues for the nine months ended September 30, 2000
+compared to the nine months ended September 30, 1999 was primarily attributable
+to an increase in Windows Application Servers revenue due primarily to an
+increase in the number of MetaFrame licenses sold, partially offset by a
+decrease in revenue from the WinFrame product line. The increase in net revenues
+was also due to an increase in the volume of shipments of Management Services
+Products, specifically, Load Balancing Services and Resource Management Services
+Products, and to a lesser extent, an increase in Other Revenue due mainly to
+consulting revenue.
+
+    An analysis of the Company's net revenues by product line is presented in
+the table below:
+<TABLE>
+<CAPTION>
+
+                                                                                                    INCREASE/(DECREASE) FOR THE
+                                                                                                     THREE MONTHS    NINE MONTHS
+                                                                                                        ENDED           ENDED
+                                                                                                    SEPTEMBER 30,    SEPTEMBER 30,
+                                        THREE MONTHS ENDED              NINE MONTHS ENDED              2000             2000
+                                          SEPTEMBER 30,                   SEPTEMBER 30,                  Vs.             Vs.
+                                        --------------------            --------------------        SEPTEMBER 30,    SEPTEMBER 30,
+                                        2000            1999            2000            1999            1999             1999
+                                        ----            ----            ----            ----       -------------    --------------
+
+<S>                                      <C>             <C>             <C>              <C>            <C>              <C>
+Windows Application Servers              70%             74%             72%             74%              2%              18%
+Management Services Products             13              10              12               9              37               62
+Computing Appliances Products             1               3               1               3             (54)             (37)
+Microsoft royalties                       9               9               9              10              --               --
+Other revenue                             7               4               6               4              81               95
+                                        ----            ----            ----            ----
+Net revenues                            100%            100%            100%            100%              7%              22%
+</TABLE>
+
+    SEGMENT REVENUES. The increase in net revenues by operating segment for the
+three months ended September 30, 2000 compared to the three months ended
+September 30, 1999 was primarily due to the Company's increased sales and
+marketing efforts and continued demand for Citrix products in the Americas and
+Asia Pacific regions, while Europe, Middle East and Africa ("EMEA") remained
+relatively stable this quarter due to some market weakness in Europe. The
+increase in net revenues by operating segment for the nine months ended
+September 30, 2000 compared to the same period in 1999 was primarily due to the
+Company's increase sales and marketing efforts and continued demand for Citrix
+products in the Americas and EMEA regions. Other revenue has remained relatively
+stable, from the third quarter of 1999 to the third quarter of 2000, but has
+decreased as a percentage of net revenues due to the growth of the other
+segments. Revenue by operating segment as a percentage of net revenues remained
+relatively constant for the three and nine month periods ended September 30,
+2000 compared to the same periods in 1999.
+
+
+
+                                       15
+<PAGE>   16
+
+
+    An analysis of net revenues by operating segment is presented in the table
+below:
+<TABLE>
+<CAPTION>
+
+                                                                                   INCREASE/(DECREASE) FOR THE
+                                                                                   THREE MONTHS     NINE MONTHS
+                                                                                      ENDED           ENDED
+                                                                                   SEPTEMBER 30,    SEPTEMBER 30,
+                        THREE MONTHS ENDED              NINE MONTHS ENDED              2000             2000
+                          SEPTEMBER 30,                   SEPTEMBER 30,                  Vs.             Vs.
+                        --------------------            --------------------       SEPTEMBER 30,    SEPTEMBER 30,
+                        2000            1999            2000            1999            1999             1999
+                        ----            ----            ----            ----       -------------    --------------
+<S>                      <C>             <C>             <C>             <C>             <C>              <C>
+Americas                 56%             53%             52%             50%             13%              27%
+EMEA                     28              30              33              32               1               25
+Asia Pacific              6               5               5               5              32               16
+Other (1)                10              12              10              13             (12)              (6)
+                       ----            ----            ----            ----
+Net revenues            100%            100%            100%            100%              7%              22%
+</TABLE>
+
+
+(1)  Primarily represents royalty fees earned in connection with the Development
+     Agreement and OEM revenue.
+
+    The Company expects to continue investing in international markets and
+expanding its international operations by establishing additional foreign
+operations, hiring personnel, expanding its international sales force and
+continuing to add third party channel partners.
+
+    COST OF REVENUES. Cost of revenues consists primarily of the cost of
+royalties, product media and duplication, manuals, packaging materials and
+shipping expense. All development costs incurred in connection with the
+Development Agreement are expensed as incurred as a separate component of cost
+of revenues. The Company's cost of revenues excludes amortization of core
+technology. Cost of revenues also consists of compensation and other
+personnel-related costs for consulting services.
+
+    GROSS MARGIN. Gross margin as a percentage of net revenue decreased for the
+three and nine months ended September 30, 2000 primarily due to reserves for
+obsolete inventory on-hand and the impact of the consulting services business
+which has a lower gross profit margin as a percentage of net revenue than that
+associated with the sale of software licenses. The Company anticipates gross
+margin as a percentage of net revenues will increase from current levels but
+will remain below historical levels as the Company increases its consulting
+services offering.
+
+    RESEARCH AND DEVELOPMENT EXPENSES. Research and development expenses
+consisted primarily of personnel-related costs. All development costs included
+in the research and development of software products and enhancements to
+existing products have been expensed as incurred except for certain intangible
+assets related to certain acquisitions and licensing arrangements. The increase
+in research and development expenses resulted primarily from additional
+staffing, associated salaries and related expenses required to expand and
+enhance the Company's product lines.
+
+    SALES, MARKETING AND SUPPORT EXPENSES. The increase in sales, marketing and
+support expenses for the three months ended September 30, 2000 resulted
+primarily from higher headcount levels of sales, services and marketing staff
+and associated salaries, commissions and related expenses in order to increase
+the Company's sales, consulting and marketing efforts. The increase for the nine
+months ended September 30, 2000 resulted from higher headcount levels and
+increased advertising and corporate branding and marketing activities directed
+at customer and business partner acquisition and retention.
+
+
+
+                                       16
+<PAGE>   17
+
+
+    GENERAL AND ADMINISTRATIVE EXPENSES. The increase in general and
+administrative expenses for the three and nine months ended September 30, 2000
+was primarily due to increased expenses associated with additional staff,
+associated salaries and related expenses necessary to support overall increases
+in the scope and geographical diversity of the Company's operations. The
+increase for the nine months ended September 30, 2000 was also due to an
+increase in the provision for doubtful accounts in the second quarter of 2000
+resulting from the reserve of specific customers' accounts receivable balances,
+an increase in consulting fees for information systems projects and an increase
+in legal fees relating to litigation defense. The Company is in the early stages
+of an enterprise resource planning implementation project. While a significant
+portion of the costs associated with this project will be capitalized, certain
+costs will be expensed during the course of the project, which is expected to
+continue through 2001. This project is not expected to have a material impact on
+our general and administrative expenses.
+
+    AMORTIZATION OF INTANGIBLE ASSETS. The increase in amortization of goodwill
+and identifiable intangible assets is primarily due to the acquisition of
+ViewSoft, Inc. ("ViewSoft") in July 1999 and Innovex in February 2000 which
+resulted in additional goodwill and identifiable intangible assets of $31.1
+million and $26.7 million, respectively. As of September 30, 2000, the Company
+had net goodwill and identifiable intangible assets of $69.3 million associated
+with these and other transactions which will be fully amortized over two to four
+years. The Company anticipates that amortization of goodwill and identifiable
+intangible assets will increase as the Company continues to search for suitable
+acquisition candidates.
+
+    IN-PROCESS RESEARCH AND DEVELOPMENT. In connection with the acquisition of
+certain in-process software technologies from ViewSoft, the Company allocated
+$2.3 million of the purchase price to In-Process Research and Development
+("IPR&D"). During 1998, the Company completed acquisitions of certain in-process
+software technologies in which it allocated a portion of the purchase price to
+IPR&D. The Company allocated $10.7 million and $2.4 million for IPR&D related to
+the APM Ltd ("APM") and VDOnet Corporation, Ltd ("VDOnet") acquisitions,
+respectively.
+
+    Since the respective dates of acquisition, the Company has used the acquired
+in-process technology to develop new product offerings and enhancements, which
+have or will become part of the Company's suite of products when completed.
+Functionality included in products using the acquired in-process technology have
+been introduced at various times following the respective transaction dates of
+the acquired assets. The Company currently expects to complete the development
+of the remaining projects at various dates in 2001. Upon completion, the Company
+has offered and intends to offer the related products to its customers.
+
+    The nature of the efforts required to develop and integrate the acquired
+in-process technology into commercially viable products or features and
+functionalities within the Citrix suite of existing products principally relate
+to the completion of all planning, designing and testing activities that are
+necessary to establish that the products can be produced to meet design
+requirements, including functions, features and technical performance
+requirements. The Company currently expects that products utilizing the acquired
+in-process technology will be successfully developed, but there can be no
+assurance that commercial viability of any of these products will be achieved.
+Furthermore, future developments in the software industry, particularly the
+server-based computing environment, changes in technology, changes in other
+products and offerings or other developments may cause the Company to alter or
+abandon product plans.
+
+
+
+                                       17
+<PAGE>   18
+
+
+    Failure to complete the development of these projects in their entirety, or
+in a timely manner, could have a material adverse impact on the Company's
+financial condition and results of operations. No assurance can be given that
+actual revenues and operating profit attributable to acquired in-process
+research and development will not deviate from the projections used to value
+such technology in connection with each of the respective acquisitions. Ongoing
+operations and financial results for acquired assets, and the Company as a
+whole, are subject to a variety of factors which may not have been known or
+estimable at the date of such transactions, and the estimates discussed below
+should not be considered the Company's current projections for operating results
+for the acquired assets or the Company as a whole.
+
+    A description of the in-process research and development and the estimates
+made by the Company for APM, VDOnet, and ViewSoft is summarized below. After the
+acquisition of each technology, the Company has continued the development of
+these in-process projects. The updated status of completion for each project is
+set forth in the table below.
+
+VDONET
+
+    The in-process research and development acquired in the VDOnet acquisition
+consisted primarily of one significant research and development project, ICA
+Video Services. This project allows video applications and applications
+containing video to be viewed on an ICA client, and is targeted for the
+server-based computing market. At the date of the acquisition, VDOnet was
+shipping a client server video streaming product that was not operational in a
+Windows NT or in a MetaFrame environment. VDOnet was in the process of modifying
+its software to be operational in a Windows NT environment. In addition, VDOnet
+was developing enhancements that would provide for a live camera feed and
+multicast, which is intended to direct a video stream to multiple client devices
+simultaneously. Following the acquisition, the Company continued the process of
+modifying the VDOnet software to be operational in a Windows NT environment.
+
+    The Company is currently exploring alternative uses of the technology
+acquired in the VDOnet acquisition. These uses relate primarily to delivering
+video applications in a server-based computing environment and video streaming
+within ICA devices. The Company is reviewing potential modifications to its
+future cash flow projections based on alternative uses of the acquired
+technology and the remaining efforts necessary to complete these alternative
+projects. The Company expects to complete their evaluation in the fourth quarter
+of 2000. Based on the results of the evaluation, the Company may record a
+write-down if the net realizable value of the acquired technology is less than
+its carrying amount. The carrying amount of the technology acquired from VDOnet
+was approximately $2.1 million as of September 30, 2000, and the Company has
+incurred approximately $4.2 million in expenses to date. At the date of
+valuation, the project was expected to be completed in the second quarter of
+1999 and the expected cost to complete the project was approximately $200,000.
+
+
+
+                                       18
+<PAGE>   19
+
+
+APM
+
+    The in-process research and development acquired in the APM acquisition
+consisted primarily of one significant research and development project. The
+project is a Windows NT-based application server which runs Java applications.
+At the date of the acquisition, APM was shipping a Java application server
+solution that allowed an enterprise user to access Java-applets from the
+Internet and execute these applets outside the corporate firewall in a
+server-based computing configuration in a fashion that was transparent to the
+enterprise user. APM was in the process of modifying its software product to
+incorporate changes necessary for it to interface with Java 2.0, which was a
+major new release that included significant rewrites to the Java desktop.
+Following the acquisition, the Company planned on continuing the process of
+incorporating changes necessary to interface with Java 2.0, and in addition,
+planned on further developing the software product into an application server
+for Java 2.0 that would operate in a MetaFrame server environment.
+
+    In the second quarter of 2000, management changed the Java application
+server to a Java Performance Pack product, which adds performance enhancements
+and management tools to other Citrix products. The remaining efforts to complete
+the project are primarily the continuing incorporation of changes necessary to
+interface with Java 2.0 and the utilization of acquired technology to develop a
+Java Performance Pack product that will operate in a MetaFrame server
+environment. The research and development risks associated with this project
+relate primarily to updating the acquired technology to be compatible with Sun
+Microsystems' Java 2.0 application, and integrating and porting such technology
+into a variety of server-based computing architectures.
+
+VIEWSOFT
+
+    The in-process research and development acquired in the ViewSoft acquisition
+consisted primarily of one significant research and development project,
+ViewSoft Internet 4.0. This project enables multi-tier, Web-based application
+development and deployment. At the date of the valuation, ViewSoft was in
+development with this product. The product was intended to operate in the
+multi-tier web application market and was not intended to operate in a MetaFrame
+environment. The Company is currently exploring the use of the product for the
+development of portal-ware applets.
+
+    The remaining efforts to complete the project relate primarily to applet
+development, on-going stress testing and, to a lesser extent, bug fixes and
+documentation. The research and development risks associated with this project
+relate primarily to potential product limitations revealed during testing.
+
+
+
+                                       19
+<PAGE>   20
+
+
+    The actual and estimated costs to complete and completion dates of the
+in-process and core technology acquired for the APM and ViewSoft acquisitions
+are as follows:
+<TABLE>
+<CAPTION>
+
+                                                                        APM                    VIEWSOFT
+                                                                     ---------                ----------
+                                                                             (IN THOUSANDS)
+<S>                                                              <C>                       <C>
+  Date acquired                                                       June 1998                July 1999
+  Cost incurred to date                                                  $4,275                   $3,520
+  Estimated cost to complete                                                 35                    3,500
+                                                                      ---------               ----------
+  Total estimated project cost                                           $4,310                   $7,020
+                                                                      =========               ==========
+  Estimated cost to complete at date of valuation                        $4,000                   $  660
+                                                                      =========               ==========
+
+  Estimated completion date at date of valuation                  First Quarter           Fourth Quarter
+                                                                  of 1999                 of 1999
+
+  Current estimated completion  date                .             First Quarter           First Quarter
+                                                                  of 2001                 of 2001
+</TABLE>
+
+
+    The estimated completion date of the in-process and core technology related
+to the APM acquisition has been extended from the originally anticipated
+completion date as certain personnel working on this project have been allocated
+to other projects and as development efforts of the APM technology have been
+redirected from a Java application server to a Java Performance Pack to
+accommodate changes in the development of the Java market. The estimated
+completion date of the ViewSoft project has been delayed from the originally
+anticipated completion date due to increases in project scope, a longer testing
+period, and transition of the development team. The Company is currently unable
+to determine the impact of such delays on its business, future results of
+operations and financial condition. There can be no assurance that the Company
+will not incur additional charges in subsequent periods to reflect costs
+associated with completing these projects or that the Company will be successful
+in its efforts to integrate and further develop these technologies.
+
+    INTEREST AND OTHER INCOME. The increase in interest and other income for the
+three and nine months ended September 30, 2000 was primarily due to interest
+earned on the invested net proceeds from the issuance of the zero coupon
+convertible subordinated debentures in March 1999 and from an increase in cash
+from operations. The Company may acquire or make investments in companies it
+believes are related to its strategic objectives. Such investments will reduce
+the Company's cash and/or investment balances and therefore may reduce interest
+income.
+
+    INTEREST EXPENSE. The increase in interest expense for the three and nine
+months ended September 30, 2000 was primarily due to interest related to the
+zero coupon convertible subordinated debentures issued in March 1999.
+
+    INCOME TAXES. In July 1999, the Company changed its organizational structure
+whereby it moved certain operational and administrative processes to overseas
+subsidiaries. The restructuring resulted in foreign earnings being taxed at
+lower foreign tax rates. These earnings will be permanently reinvested overseas
+in order to fund the Company's growth in overseas markets. As a result of these
+organizational changes, the Company's effective tax rate amounted to 30% for the
+three and nine month periods ended September 30, 2000 and 36% for the three and
+nine month periods ended September 30, 1999.
+
+
+
+                                       20
+<PAGE>   21
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    During the nine months ended September 30, 2000, the Company generated
+positive operating cash flows of approximately $164.0 million. Cash provided by
+operating activities was derived primarily from net income of $75.1 million,
+adjusted for, among other things, tax benefits from the exercise of
+non-statutory stock options and disqualifying dispositions of incentive stock
+options of $72.0 million, non-cash charges for depreciation and amortization of
+$36.3 million and provisions for product returns of $20.4 million, offset by a
+net decrease of $60.6 million from changes in operating assets and liabilities.
+Cash provided by investing activities of $6.5 million related to the proceeds
+from the sale of investments of $220.9 million offset by cash outflows from the
+purchase of investments of $153.2 million, purchase of property and equipment of
+$31.1 million, and net cash paid for acquisitions, primarily Innovex, of $30.1
+million. Cash used in financing activities of $64.2 million is a result of cash
+paid under the Company's stock repurchase programs of $121.9 million offset by
+the proceeds from the issuance of common stock under the Company's stock option
+plan of $57.7 million.
+
+    As of September 30, 2000, the Company had approximately $802.6 million in
+cash and investments and $619.6 million of working capital. The Company's cash
+and cash equivalents are invested in investment grade, highly liquid securities
+to minimize interest rate risk and allow for flexibility in the event of
+immediate cash needs. At September 30, 2000, the Company had approximately $53.1
+million in accounts receivable, net of allowances, and $101.7 million of
+deferred revenues, of which the Company anticipates $77.6 million will be earned
+over the next twelve months.
+
+    On April 15, 1999, the Board of Directors approved a stock repurchase
+program authorizing the repurchase of up to $200 million of the Company's common
+stock. Purchases will be made from time to time in the open market and paid out
+of general corporate funds. As of September 30, 2000, the Company purchased
+1,350,000 shares of outstanding common stock on the open market at an average
+price of $16.22 per share. These shares have been recorded as treasury stock.
+
+    On August 8, 2000, the Company entered into an agreement with a counterparty
+in a private transaction to purchase up to 5.8 million shares of the Company's
+common stock at various times through the third quarter of 2002. Pursuant to the
+terms of the agreement, $100 million was paid to the counterparty in the third
+quarter of 2000. The ultimate number of shares repurchased will depend on market
+conditions. As of September 30, 2000, the Company received 336,000 shares under
+this agreement at an average price of $16.87 per share. These shares have been
+recorded as treasury stock.
+
+    In connection with the Company's stock repurchase program, in October 2000,
+the Board of Directors approved a program authorizing the Company to sell put
+warrants that entitle the holder of each warrant to sell to the Company,
+generally by physical delivery, one share of common stock at a specified price.
+
+    In February 2000, the Company completed its acquisition of all of the
+operating assets of Innovex for approximately $47.8 million, of which $28.1
+million was paid in cash at the closing date and the balance is payable, in
+equal installments, 18 and 24 months after the closing date, contingent upon
+future events.
+
+    The Company believes existing cash and investments together with cash flow
+expected from operations will be sufficient to meet operating and capital
+expenditures requirements through 2000. The Company may from time to time seek
+to raise additional funds through public or private financing. The Company may
+also acquire or make investments in companies it believes are related to its
+strategic objectives. Such investments will reduce the Company's available
+working capital.
+
+
+
+                                       21
+<PAGE>   22
+
+
+
+CERTAIN FACTORS WHICH MAY AFFECT FUTURE RESULTS
+
+     We do not provide financial performance forecasts. Our operating results
+and financial condition have varied in the past and may in the future vary
+significantly depending on a number of factors. Except for the historical
+information in this report, the matters contained in this report include
+forward-looking statements that involve risks and uncertainties. The following
+factors, among others, could cause actual results to differ materially from
+those contained in forward-looking statements made in this report. Such factors,
+among others, may have a material adverse effect upon our business, results of
+operations and financial condition.
+
+OUR SUCCESS IS SUBSTANTIALLY DEPENDENT UPON OUR STRATEGIC RELATIONSHIP WITH
+MICROSOFT
+
+     Microsoft is the leading provider of desktop operating systems. We depend
+upon the license of key technology from Microsoft, including certain source and
+object code licenses, and technical support. We also depend upon our strategic
+alliance agreement with Microsoft pursuant to which Citrix and Microsoft have
+agreed to cooperate to develop advanced operating systems. Our relationship with
+Microsoft is subject to the following risks and uncertainties:
+
+o    COMPETITION WITH MICROSOFT. NT Server is, and future product offerings by
+     Microsoft may be, competitive with our current MetaFrame products, and any
+     future product offerings by Citrix.
+
+o    EXPIRATION OF MICROSOFT'S ENDORSEMENT OF THE ICA PROTOCOL. Microsoft's
+     obligation to endorse only our ICA protocol as the preferred method to
+     provide multi-user Windows access for devices other than Windows clients
+     expired in November 1999. Microsoft may now market or endorse other methods
+     to provide multi-tier Windows access to non-Windows client devices.
+
+o    DEPENDENCE ON MICROSOFT FOR COMMERCIALIZATION. Our ability to successfully
+     commercialize our MetaFrame product depends on Microsoft's ability to
+     market NT Server products. We do not have control over Microsoft or any of
+     its distributors or resellers. Microsoft is not obligated to continue
+     marketing specific NT Server products, and could discontinue one or more NT
+     Server products at any time. Further, to our knowledge, Microsoft's
+     distributors and resellers are not obligated to purchase products from
+     Microsoft.
+
+o    PRODUCT RELEASE DELAYS. There may be delays in the release and shipment of
+     future versions of NT Server.
+
+o    IMPACT OF MICROSOFT ANTITRUST LITIGATION ON CITRIX INTELLECTUAL PROPERTY.
+     The United States District Court for the District of Columbia, in the
+     matter of UNITED STATES V. MICROSOFT, Civ. No. 98-1232 ET SEQ., by order of
+     June 7, 2000 directed that Microsoft be required to share certain
+     intellectual property with certain other firms in the information
+     technology industry. The scope of the District Court's order, and its
+     potential impact, if any, upon any intellectual property licensed by Citrix
+     to Microsoft, have not been clarified by the District Court or otherwise,
+     because the District Court, by order of June 20, 2000, stayed its order of
+     June 7, 2000 until the currently pending appeals in the matter have been
+     concluded, or until the District Court's stay is earlier vacated by an
+     appellate court.
+
+     If our relationship with Microsoft were terminated or adversely affected
+for any reason, our business, operating results and financial condition would be
+materially adversely affected.
+
+
+
+                                       22
+<PAGE>   23
+
+
+OUR CONTINUED GROWTH DEPENDS UPON BROAD-BASED ACCEPTANCE OF OUR ICA PROTOCOL
+
+    We believe that our success in the markets in which we compete will depend
+upon our ability to make the ICA protocol a widely accepted standard for
+supporting Windows applications. Microsoft includes as a component of NT Server
+its Remote Desktop Protocol (RDP) which has certain of the capabilities of our
+ICA protocol, and may offer customers a competitive solution. In October 2000,
+Microsoft announced a new licensing program involving RDP which may make it more
+competitive in the market. We believe that our success is dependent on our
+ability to enhance and differentiate our ICA protocol, and foster broad
+acceptance of the ICA protocol based on its performance, scalability,
+reliability and enhanced features. In addition, our ability to win broad market
+acceptance of our ICA protocol will depend upon the degree of success achieved
+by our strategic partners in marketing their respective product offerings,
+product pricing and customers' assessment of our technical, managerial, service
+and support expertise. If another standard emerges or if we otherwise fail to
+achieve wide acceptance of the ICA protocol as a standard for supporting Windows
+applications, our business, operating results and financial condition could be
+materially adversely affected.
+
+THE SUCCESS OF OUR BUSINESS ALSO DEPENDS UPON OUR STRATEGIC RELATIONSHIPS WITH
+PARTIES OTHER THAN MICROSOFT
+
+    In addition to our relationship with Microsoft, we have strategic
+relationships with IBM, Compaq, Hewlett Packard and others. We depend upon our
+strategic partners to successfully market and promote the use of our products
+and incorporate our technology into their products and to market and sell such
+products. If we are unable to maintain our current strategic relationships or
+develop additional strategic relationships, or if any of our key strategic
+partners are unsuccessful in incorporating our technology into their products or
+marketing or selling such products, our business, operating results and
+financial condition could be materially adversely affected.
+
+WE FACE SIGNIFICANT COMPETITION FROM OTHER TECHNOLOGY COMPANIES
+
+    The markets in which we compete are intensely competitive. Most of our
+competitors and potential competitors, including Microsoft, have significantly
+greater financial, technical, sales, marketing and other resources. The
+announcement of the release and the actual release of products competitive with
+our existing and future product lines, such as NT Server and related
+enhancements by Microsoft or third parties, could cause our existing and
+potential customers to postpone or cancel plans to license our product lines.
+This would adversely impact our business, operating results and financial
+condition. Further, our ability to market MetaFrame and other future product
+offerings may be affected by Microsoft's licensing and pricing scheme for client
+devices implementing our product offerings which attach to NT Server.
+
+    In addition, alternative products exist for Internet commerce that directly
+or indirectly compete with our products. Existing or new products that extend
+website software to provide database access or interactive computing could
+materially impact our ability to sell our products in this market. As markets
+for our products continue to develop, additional companies, including companies
+with significant market presence in the computer hardware, software and
+networking industries, may enter the markets in which we compete and further
+intensify competition. Finally, although we believe that price has historically
+been a less significant competitive factor than product performance, reliability
+and functionality, we believe that price competition may become more significant
+in the future. We may not be able to maintain our historic prices, and any
+inability to do so could adversely affect our business, results of operations
+and financial condition.
+
+
+
+                                       23
+<PAGE>   24
+
+
+OUR RELIANCE ON A FEW PRODUCTS FOR A MAJORITY OF OUR REVENUE COULD ADVERSELY
+AFFECT OUR BUSINESS
+
+    The Company anticipates that its MetaFrame product line and related
+enhancements will constitute the majority of its revenue for the foreseeable
+future. The Company's ability to generate revenue from its MetaFrame product
+will depend upon market acceptance of NT Server products. Declines in demand for
+products based on MetaFrame technology may occur as a result of new competitive
+product releases, price competition, lack of success of its strategic partners,
+technological change or other factors.
+
+FAILURE TO PROPERLY MANAGE OUR GROWTH COULD ADVERSELY AFFECT OUR BUSINESS
+
+    We have recently experienced rapid growth in the scope of our operations,
+the number of our employees and the geographic area of our operations. In
+addition, we have recently completed certain acquisitions. Such growth and
+assimilation of operations and personnel of such acquired companies has placed
+and may continue to place a significant strain on our managerial, operational
+and financial resources. We believe we have made adequate allowances for the
+costs and risks associated with these expansions. However, our systems,
+procedures or controls may not be adequate to support our current or future
+operations. In addition, we may not be able to effectively manage this expansion
+and still achieve the rapid execution necessary to fully exploit the market
+opportunity for our products and services in a timely and cost-effective manner.
+Our future operating results will also depend on our ability to manage our
+expanding product line, expand our sales and marketing organizations and expand
+our support organization commensurate with the increasing base of our installed
+product. Our failure to properly manage our growth could adversely affect our
+business, operating results and financial condition.
+
+    We plan to continue to increase our professional staff during 2000 and 2001
+as we implement sales, marketing and support and product developments efforts,
+as well as associated administrative systems, to support planned growth. As a
+result of this planned growth in the size of our staff, we believe that we will
+require additional facilities during 2000 and 2001. Although we believe that the
+cost of such additional facilities will not significantly impact our financial
+position or results of operations, we anticipate that operating expenses will
+increase during 2000 and 2001 as a result of our planned growth in staff. Such
+an increase in operating expenses may reduce our income from operations and cash
+flows from operating activities.
+
+OUR SUCCESS DEPENDS UPON OUR ABILITY TO PROTECT OUR PROPRIETARY TECHNOLOGY
+
+    We rely primarily on a combination of copyright, trademark and trade secret
+laws, as well as confidentiality procedures and contractual provisions, to
+protect our proprietary rights. Our efforts to protect our proprietary
+technology rights may not be successful. The loss of any material trade secret,
+trademark, tradename or copyright could have a material adverse effect on us.
+Despite our precautions, it may be possible for unauthorized third parties to
+copy certain portions of our products or to obtain and use information regarded
+as proprietary. A significant portion of our sales are derived from license
+agreements for packaged products. Such license agreements are not signed by
+licensees and, therefore, may be unenforceable under the laws of certain
+jurisdictions. In addition, our ability to protect our proprietary rights may be
+affected by the following:
+
+o      Differences in International Law. The laws of some foreign countries do
+       not protect our intellectual property to the same extent as do the laws
+       of the United States and Canada.
+
+o      Third Party Infringement Claims. Third parties may assert infringement
+       claims against us in the future. This may result in costly litigation or
+       require us to obtain a license to intellectual property rights of such
+       third parties. Such licenses may not be available on reasonable terms or
+       at all.
+
+
+
+                                       24
+<PAGE>   25
+
+
+IF WE FAIL TO INTRODUCE NEW PRODUCTS AND ENHANCE OUR EXISTING PRODUCTS TO KEEP
+UP WITH RAPID TECHNOLOGICAL CHANGE, DEMAND FOR OUR PRODUCTS MAY DECLINE
+
+The markets for our products are relatively new and are characterized by:
+
+o    rapid technological change;
+
+o    evolving industry standards;
+
+o    changes in customer requirements; and
+
+o    frequent new product introductions and enhancements, including enhancements
+     to certain key technology licensed from Microsoft.
+
+    These market characteristics will require us to continuously enhance our
+current products and develop and introduce new products to keep pace with
+technological developments and respond to evolving customer requirements.
+Additionally, we and others may announce new products, new product enhancements
+or technologies that could replace or shorten the life cycle of our existing
+product offerings.
+
+    We believe we will incur additional costs and royalties associated with the
+development, licensing or acquisition of new technologies or enhancements to
+existing products. This will increase our cost of revenues and operating
+expenses. We cannot currently quantify such increase with respect to
+transactions that have not occurred. We may use a substantial portion of our
+cash and investments to fund these additional costs, resulting in a decrease in
+interest income, unless such decrease is offset by cash flows from future
+operations.
+
+    We may need to hire additional personnel to develop new products, product
+enhancements and technologies and to fulfill our responsibilities under the
+terms of the Development Agreement. If we are unable to add staff and resources,
+future enhancement and additional features to our existing or future products
+may be delayed, which may have a material adverse effect on our business,
+results of operations and financial condition.
+
+OUR FAILURE TO COMPLETE CERTAIN OF OUR ACQUIRED RESEARCH AND DEVELOPMENT
+PROJECTS COULD ADVERSELY AFFECT OUR BUSINESS
+
+    Failure to complete the development of acquired in-process research and
+development projects in their entirety, or in a timely manner, could have a
+material adverse impact on the Company's financial condition and results of
+operations. No assurance can be given that actual revenues and operating profit
+attributable to acquired in-process research and development will not deviate
+from the projections used to value such technology in connection with each of
+the respective acquisitions. Ongoing operations and financial results for
+acquired assets, and the Company as a whole, are subject to a variety of factors
+which may not have been known or estimable at the date of such transactions, and
+the estimates disclosed in this report should not be considered the Company's
+current projections for operating results for the acquired assets or the Company
+as a whole.
+
+IF OUR PRODUCTS CONTAIN ERRORS, THEY MAY BE COSTLY TO CORRECT, REVENUE MAY BE
+DELAYED, WE COULD GET SUED AND OUR REPUTATION COULD BE HARMED
+
+    Despite significant testing by us and by current and potential customers,
+new products may contain errors after commencement of commercial shipments.
+Additionally, our products depend upon certain third party products which may
+contain defects and could reduce the performance of our products or render them
+useless. Since our products are often used in mission-critical applications,
+errors in our products or the products of third parties upon which our products
+rely could give rise to warranty or other claims by our customers. The
+occurrence or discovery of these types of errors or failures could have a
+material adverse effect on our business, operating results and financial
+condition.
+
+
+
+                                       25
+<PAGE>   26
+
+
+OUR SUCCESS DEPENDS ON OUR ABILITY TO EXPAND AND MANAGE DISTRIBUTION CHANNELS
+AND MAJOR DISTRIBUTORS
+
+    We rely significantly on independent distributors and resellers for the
+marketing and distribution of our products. We do not control our distributors
+and resellers. Additionally, our distributors and resellers are not obligated to
+purchase products from us and may also represent other lines of products. We
+must expand our distribution channels and provide appropriate incentives to our
+distributors to continue our growth rate.
+
+OUR SUCCESS DEPENDS UPON OUR ABILITY TO EXPAND OUR DISTRIBUTION CHANNELS
+
+    We intend to leverage our relationships with hardware and software vendors
+and systems integrators to encourage them to recommend or distribute our
+products. In addition, an integral part of our strategy is to expand our large
+account channels and add third-party distributors both domestically and
+internationally. We are currently investing, and intend to continue to invest,
+significant resources to develop these channels, which could reduce our profits.
+
+OUR SUCCESS DEPENDS UPON OUR ABILITY TO ATTRACT LARGE ENTERPRISE CUSTOMERS
+
+    We intend to attract and service large enterprise customers by expanding our
+large account channels and offering consulting services. Our inability to
+attract large enterprise customers could have a material adverse effect on our
+business, operating results and financial condition. Additionally, large
+enterprise customers usually request special pricing and generally have longer
+sales cycles which could negatively impact our revenues. Further, as we attempt
+to attract large enterprise customers, we may need to increase corporate
+branding activities which will increase our operating expenses, but may not
+proportionally increase our operating revenues.
+
+OUR SUCCESS DEPENDS UPON BROAD-BASED ACCEPTANCE OF INTERNET-BASED BUSINESS
+SOFTWARE SOLUTIONS
+
+    We intend to leverage our relationships with application service providers
+("ASP") to encourage them to use our products in providing their solutions to
+end users. The ASP market is in its nascent stage of development but is evolving
+quickly. We cannot predict when or if the ASP market will fully evolve into a
+commercially viable market. We are currently investing, and intend to continue
+to invest, significant resources to develop these channels, which could reduce
+our profits.
+
+IF OUR GROWTH RATE DOES NOT CONTINUE OUR FINANCIAL CONDITION COULD BE AFFECTED
+
+    Our revenue growth rate in 2000 may not approach the levels attained in
+recent years. To the extent our revenue growth continues, we believe that our
+cost of revenues and certain operating expenses will also increase. A
+significant portion of our expenses, such as employee compensation and rent, are
+relatively fixed in the short term. Moreover, our expense levels are based, in
+part, on our expectations regarding future revenue levels. Our income from
+operations and cash flows from operating and investing activities may decrease
+as a percentage of revenues in 2000.
+
+
+
+                                       26
+<PAGE>   27
+
+
+OUR QUARTERLY OPERATING RESULTS MAY FLUCTUATE
+
+    Our quarterly operating results have in the past varied and may in the
+future vary significantly depending on a number of factors, including:
+
+o    the success of our MetaFrame products;
+
+o    the effects of acquisitions or licenses of additional technology;
+
+o    the size, timing and recognition of revenue from significant orders;
+
+o    increased competition;
+
+o    changes in our pricing policies or those of our competitors, including
+     Microsoft;
+
+o    new product introductions or enhancements by competitors;
+
+o    delays in the introduction of products or product enhancements by us or our
+     competitors;
+
+o    customer order deferrals in anticipation of upgrades and new products;
+
+o    market acceptance of new products and technologies offered by us;
+
+o    changes in operating expenses, including for the addition of personnel;
+
+o    foreign currency exchange rates;
+
+o    general economic conditions; and
+
+o    changes in distribution mix, including packaged product versus electronic
+     license.
+
+    We continually re-evaluate our programs, including specific license terms
+and conditions, to market our current and future products and services. We may
+implement new programs, including offering specified and unspecified
+enhancements to our current and future product lines. We may recognize revenues
+associated with such enhancements after the initial shipment or licensing of the
+software product or over the product's life cycle. We modified our licensing
+fees with certain customers to a per usage basis. We may implement a different
+licensing model, in certain circumstances, which would result in the recognition
+of licensing fees over a longer period which may result in decreasing revenue.
+The timing of the implementation of such programs, the timing of the release of
+such enhancements, the timing of the implementation of a new licensing
+arrangement and other factors will impact the timing of our recognition of
+revenues and related expenses associated with our products, related enhancements
+and services. As a result of these factors, we currently cannot quantify the
+impact of the re-evaluation of our programs on our business, results of
+operations and financial condition.
+
+    We operate with little order backlog because our software products typically
+are shipped shortly after orders are received. In addition, like many systems
+level software companies, we recognize a substantial portion of our revenues in
+the last month of a quarter, with these revenues frequently concentrated in the
+last weeks or days of the quarter. As a result, product revenues in any quarter
+are substantially dependent on orders booked and shipped in that quarter, and
+revenues for any future quarter are not predictable with any degree of
+certainty. We may also choose to reduce prices or increase spending in response
+to competition or to pursue new market opportunities. New competitors,
+technological advances or other factors could result in lower revenues and may
+require us to incur additional expenses, which, in turn, would materially
+adversely affect our operating margins in the future.
+
+INSUFFICIENT RESERVES FOR PRODUCT RETURNS AND PRICE REDUCTIONS COULD ADVERSELY
+AFFECT US
+
+    We provide certain of our distributors with product return rights for stock
+balancing or limited product evaluation. We also provide certain of our
+distributors with price protection rights. To cover these product returns and
+price protection rights, we have established reserves based on our evaluation of
+historical trends and current circumstances. These reserves may not prove to be
+sufficient in the future, in which case our business, operating results and
+financial condition could be adversely affected.
+
+
+
+
+                                       27
+<PAGE>   28
+
+
+OUR SUCCESS DEPENDS ON OUR ABILITY TO EXPAND AND MANAGE OUR INTERNATIONAL
+OPERATIONS
+
+    Our continued growth and profitability will require further expansion of our
+international operations. To successfully expand international sales, we must
+establish additional foreign operations, hire additional personnel and recruit
+additional international resellers. Such international operations are subject to
+certain risks, such as:
+
+o    difficulties in staffing and managing foreign operations;
+
+o    fluctuations in foreign currency exchange rates;
+
+o    compliance with foreign regulatory and market requirements;
+
+o    variability of foreign economic and political conditions;
+
+o    changing restrictions imposed by regulatory requirements, tariffs or other
+     trade barriers or by United States export laws;
+
+o    costs of localizing products and marketing such products in foreign
+     countries;
+
+o    longer accounts receivable payment cycles;
+
+o    potentially adverse tax consequences, including restrictions on
+     repatriation of earnings;
+
+o    difficulties in protecting intellectual property; and
+
+o    burdens of complying with a wide variety of foreign laws.
+
+ECONOMIC AND MARKET CONDITIONS MAY AFFECT DEMAND FOR OUR PRODUCTS
+
+    The demand for our products depends in part upon the general demand for
+computer hardware and software, which fluctuates based on numerous factors,
+including capital spending levels and general economic conditions. If capital
+spending levels or general economic conditions are affected, our business,
+financial condition and results of operations could be materially adversely
+affected.
+
+POSSIBLE VOLATILITY OF OUR COMMON STOCK PRICE
+
+    The market price for our common stock has been volatile and has fluctuated
+significantly to date. The trading price of our common stock is likely to
+continue to be highly volatile and subject to wide fluctuations in response to
+factors such as actual or anticipated variations in operating and financial
+results, anticipated revenue or earnings growth, analyst reports or
+recommendations and other events or factors, many of which are beyond our
+control. In addition, the stock market in general, and The Nasdaq National
+Market and the market for software companies and technology companies in
+particular, have experienced extreme price and volume fluctuations. These broad
+market and industry factors may materially and adversely affect the market price
+of the common stock, regardless of our actual operating performance. Following
+periods of volatility in the market price of a company's securities, securities
+class-action litigation has often been instituted against such companies. For
+example, in June 2000, the Company and certain of its officers and directors
+were named as defendants in several securities class action lawsuits filed in
+the United States District Court for the Southern District of Florida. These
+actions, which were filed on behalf of purchasers of the Company's common stock
+during the period October 20, 1999 to June 9, 2000, generally allege that,
+during the class period, the defendants made misstatements to the investing
+public about the Company's financial condition and prospects. The complaints
+seek unspecified damages. The Company believes the plaintiffs' claims lack merit
+and intends to vigorously defend the lawsuits.
+
+
+
+                                       28
+<PAGE>   29
+
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+    The following discussion about the Company's market risk includes
+"forward-looking statements" that involve risks and uncertainties. Actual
+results could differ materially from those projected in the forward-looking
+statements.
+
+    Prior to September 30, 2000, the Company did not use derivative financial
+instruments for speculative or trading purposes. The Company maintains a
+non-trading investment portfolio of investment grade, highly liquid, debt
+securities which limits the amount of credit exposure to any one issue, issuer,
+or type of instrument. The securities in the Company's investment portfolio are
+not leveraged and are generally classified as available-for-sale and therefore
+are subject to interest rate risk. The Company does not currently hedge interest
+rate exposure, however, the Board of Directors adopted a Foreign Exchange Risk
+Management Policy on July 27, 2000. The modeling technique used measures the
+change in fair values arising from an immediate hypothetical shift in market
+interest rates and assumes ending fair values include principal plus accrued
+interest, dividends and reinvestment income. If market interest rates were to
+increase by 100 basis points from December 31, 1999 levels, the fair value of
+the portfolio would decline by approximately $4.5 million. If market interest
+rates were to increase by 100 basis points from September 30, 2000 levels, the
+fair value of the portfolio would decline by approximately $2.6 million.
+
+    In connection with the Company's stock repurchase program, in October 2000,
+the Board of Directors approved a program authorizing the Company to sell put
+warrants that entitle the holder of each warrant to sell to the Company,
+generally by physical delivery, one share of common stock at a specified price.
+
+
+
+                                       29
+<PAGE>   30
+
+
+
+                           PART II. OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+In June 2000, the Company and certain of its officers and directors were named
+as defendants in several securities class action lawsuits filed in the United
+States District Court for the Southern District of Florida. These actions, which
+were filed on behalf of purchasers of the Company's common stock during the
+period October 20, 1999 to June 9, 2000, generally allege that, during the class
+period, the defendants made misstatements to the investing public about the
+Company's financial condition and prospects. The complaints seek unspecified
+damages. The Company believes the plaintiffs' claims lack merit and intends to
+vigorously defend the lawsuits.
+
+In September 2000, a shareholder filed a claim in the Court of Chancery of the
+State of Delaware against the Company and nine of its officers and directors
+alleging breach of fiduciary duty. The complaint seeks unspecified damages. The
+Company believes the plaintiff's claim lacks merit and intends to vigorously
+defend the lawsuit.
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)  The exhibits, which are filed with this report as set forth on the Exhibit
+     Index appearing on page 33 of this report, are incorporated herein by
+     reference.
+
+(b)  There were no reports on Form 8-K filed by the Company during the third
+     quarter of 2000.
+
+
+
+
+
+
+
+                                       30
+<PAGE>   31
+
+
+                                    SIGNATURE
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized on this 13th day of November 2000.
+
+                             CITRIX SYSTEMS, INC.
+
+                             By:      /s/ JOHN P. CUNNINGHAM
+                                    ------------------------------------------
+                                      John P. Cunningham
+                                      Chief Financial Officer and Senior
+                                      Vice-President of Finance and
+                                      Administration
+                                      (Authorized Officer and
+                                      Principal Financial Officer)
+
+
+
+
+                                       31
+<PAGE>   32
+
+
+
+
+
+
+                                  EXHIBIT INDEX
+
+27.1      Financial Data Schedule
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<FILENAME>g65222ex27-1.txt
+<DESCRIPTION>CITRIX SYSTEMS - FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>                     <C>
+<PERIOD-TYPE>                   3-MOS                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000             DEC-31-2000
+<PERIOD-START>                             JUL-01-2000             JAN-01-2000
+<PERIOD-END>                               SEP-30-2000             SEP-30-2000
+<CASH>                                         322,408                 322,408
+<SECURITIES>                                   286,476                 286,476
+<RECEIVABLES>                                   64,619                  64,619
+<ALLOWANCES>                                   (11,508)                (11,508)
+<INVENTORY>                                      5,107                   5,107
+<CURRENT-ASSETS>                               772,652                 772,652
+<PP&E>                                          78,538                  78,538
+<DEPRECIATION>                                 (29,383)                (29,383)
+<TOTAL-ASSETS>                               1,119,585               1,119,585
+<CURRENT-LIABILITIES>                          153,034                 153,034
+<BONDS>                                        326,221                 326,221
+<PREFERRED-MANDATORY>                                0                       0
+<PREFERRED>                                          0                       0
+<COMMON>                                           187                     187
+<OTHER-SE>                                     616,052                 616,052
+<TOTAL-LIABILITY-AND-EQUITY>                 1,119,585               1,119,585
+<SALES>                                        113,491                 347,092
+<TOTAL-REVENUES>                               113,491                 347,092
+<CGS>                                            8,854                  22,387
+<TOTAL-COSTS>                                    8,854                  22,387
+<OTHER-EXPENSES>                                78,726                 233,281
+<LOSS-PROVISION>                                     0                       0
+<INTEREST-EXPENSE>                               4,250                  12,639
+<INCOME-PRETAX>                                 30,881                 107,336
+<INCOME-TAX>                                     9,264                  32,201
+<INCOME-CONTINUING>                             21,617                  75,135
+<DISCONTINUED>                                       0                       0
+<EXTRAORDINARY>                                      0                       0
+<CHANGES>                                            0                       0
+<NET-INCOME>                                    21,617                  75,135
+<EPS-BASIC>                                       0.12                    0.41
+<EPS-DILUTED>                                     0.11                    0.37
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

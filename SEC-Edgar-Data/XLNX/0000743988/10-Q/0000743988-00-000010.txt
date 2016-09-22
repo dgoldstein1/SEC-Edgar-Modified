@@ -1,0 +1,1332 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GZelNoqBTOubC7xXXCCmqbYxiLhJT2otit5UdatX3jK4yfnoK4n5Akwmf7i+oHWU
+ 8vgombEX0uXsIWZjsfvJEw==
+
+<SEC-DOCUMENT>/in/edgar/work/20000811/0000743988-00-000010/0000743988-00-000010.txt : 20000921
+<SEC-HEADER>0000743988-00-000010.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000743988-00-000010
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000701
+FILED AS OF DATE:		20000811
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XILINX INC
+		CENTRAL INDEX KEY:			0000743988
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				770188631
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0403
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-18548
+			FILM NUMBER:		692194
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		2100 LOGIC DR
+				CITY:			SAN JOSE
+				STATE:			CA
+				ZIP:			95124
+				BUSINESS PHONE:		4085597778
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		2100 LOGIC DRIVE
+					STREET 2:		2100 LOGIC DRIVE
+					CITY:			SAN JOSE
+					STATE:			CA
+					ZIP:			95124
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<TEXT>
+
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C.  20549
+
+
+                                    FORM 10-Q
+
+
+
+(Mark  One)
+[  X  ]  Quarterly  report  pursuant  to  Section  13 or 15(d) of the Securities
+Exchange  Act  of  1934  for  the  quarterly  period  ended  July  1,  2000   or
+                                                             --------------
+[     ]  Transition  report  pursuant  to  section 13 or 15(d) of the Securities
+Exchange  Act  of  1934  for  the  transition  period  from ______ to ______.
+
+
+                        COMMISSION FILE NUMBER   0-18548
+
+                                  XILINX, INC.
+             (Exact name of registrant as specified in its charter)
+
+                                    DELAWARE
+          (State or other jurisdiction of incorporation or organization)
+
+                                   77-0188631
+                      (I.R.S. Employer Identification No.)
+
+                      2100 LOGIC DRIVE, SAN JOSE, CA 95124
+           (Address of principal executive offices, including Zip Code)
+
+                                 (408) 559-7778
+              (Registrant's telephone number, including area code)
+
+
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding  12  months  (or  for such shorter period that the registrant was
+required  to  file  such reports), and (2) has been subject to such requirements
+for  the  past  90  days.
+                                        YES  [   ]        NO  [ X ]
+
+
+
+
+
+
+Class                                 Shares Outstanding at July 28, 2000
+- -----                                 -----------------------------------
+Common Stock, $.01 par value                    328,600,000
+
+
+
+
+PART  I.     FINANCIAL  INFORMATION
+
+Item  1.     Financial  Statements
+
+<TABLE>
+<CAPTION>
+
+                                    XILINX, INC.
+                   CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                                     (Unaudited)
+
+                                                                 Three Months Ended
+(in thousands, except per share amounts)                          July 1,   July 3,
+                                                                    2000      1999
+                                                                  --------  --------
+<S>                                                               <C>       <C>
+Net revenues . . . . . . . . . . . . . . . . . . . . . . . . . .  $364,875  $211,403
+
+Costs and expenses:
+     Cost of revenues. . . . . . . . . . . . . . . . . . . . . .   136,929    79,758
+     Research and development. . . . . . . . . . . . . . . . . .    43,193    26,009
+     Sales, general and administrative . . . . . . . . . . . . .    63,399    39,539
+                                                                  --------  --------
+
+          Operating costs and expenses . . . . . . . . . . . . .   243,521   145,306
+                                                                  --------  --------
+
+Operating income . . . . . . . . . . . . . . . . . . . . . . . .   121,354    66,097
+
+Interest income and other, net . . . . . . . . . . . . . . . . .     8,960     5,679
+                                                                  --------  --------
+
+Income before provision for taxes on income and equity in joint
+   venture . . . . . . . . . . . . . . . . . . . . . . . . . . .   130,314    71,776
+
+Provision for taxes on income. . . . . . . . . . . . . . . . . .    36,488    20,815
+                                                                  --------  --------
+
+Income before equity in joint venture. . . . . . . . . . . . . .    93,826    50,961
+
+Equity income of joint venture . . . . . . . . . . . . . . . . .         -       654
+                                                                  --------  --------
+
+Net income . . . . . . . . . . . . . . . . . . . . . . . . . . .  $ 93,826  $ 51,615
+                                                                  ========  ========
+
+Net income  per share:
+     Basic . . . . . . . . . . . . . . . . . . . . . . . . . . .  $   0.29  $   0.16
+                                                                  ========  ========
+     Diluted . . . . . . . . . . . . . . . . . . . . . . . . . .  $   0.27  $   0.15
+                                                                  ========  ========
+
+Shares used in per share calculations:
+     Basic . . . . . . . . . . . . . . . . . . . . . . . . . . .   326,030   313,865
+                                                                  ========  ========
+     Diluted . . . . . . . . . . . . . . . . . . . . . . . . . .   353,448   336,825
+                                                                  ========  ========
+
+
+
+<FN>
+(See accompanying Notes to Condensed Consolidated Financial Statements.)
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+
+                                            XILINX, INC.
+                                CONDENSED CONSOLIDATED BALANCE SHEETS
+
+                                                                             July 1,     April 1,
+(in thousands)                                                               2000         2000
+                                                                          ------------  -----------
+                                                                          (Unaudited)    (Audited)
+<S>                                                                       <C>           <C>
+ASSETS
+CURRENT ASSETS:
+     Cash and cash equivalents . . . . . . . . . . . . . . . . . . . . .  $   149,341   $   85,548
+     Short-term investments. . . . . . . . . . . . . . . . . . . . . . .      538,560      522,202
+     Accounts receivable, net. . . . . . . . . . . . . . . . . . . . . .      218,309      135,048
+     Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . .      160,187      131,307
+     Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . .       77,900       91,282
+     Advances for wafer purchases. . . . . . . . . . . . . . . . . . . .        4,810       22,485
+     Other current assets. . . . . . . . . . . . . . . . . . . . . . . .       51,194       53,053
+                                                                          ------------  -----------
+Total current assets . . . . . . . . . . . . . . . . . . . . . . . . . .    1,200,301    1,040,925
+                                                                          ------------  -----------
+
+Property, plant and equipment, at cost:. . . . . . . . . . . . . . . . .      358,020      336,942
+     Accumulated depreciation and amortization . . . . . . . . . . . . .     (105,681)     (96,568)
+                                                                          ------------  -----------
+Net property, plant and equipment. . . . . . . . . . . . . . . . . . . .      252,339      240,374
+
+Long-term investments. . . . . . . . . . . . . . . . . . . . . . . . . .      176,070      185,073
+Investment in United Microelectronics Corp . . . . . . . . . . . . . . .      705,704      838,923
+Developed technology and other assets. . . . . . . . . . . . . . . . . .       43,847       43,344
+                                                                          ------------  -----------
+TOTAL ASSETS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   $2,378,261   $2,348,639
+                                                                          ============  ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+CURRENT LIABILITIES:
+     Accounts payable. . . . . . . . . . . . . . . . . . . . . . . . . .  $    77,192   $   56,361
+     Accrued payroll and payroll related liabilities . . . . . . . . . .       31,925       29,796
+     Income tax payable. . . . . . . . . . . . . . . . . . . . . . . . .       34,962       27,982
+     Deferred income on shipments to distributors. . . . . . . . . . . .      154,381      115,002
+     Other accrued liabilities . . . . . . . . . . . . . . . . . . . . .       17,642       15,571
+                                                                          ------------  -----------
+Total current liabilities. . . . . . . . . . . . . . . . . . . . . . . .      316,102      244,712
+                                                                          ------------  -----------
+
+Deferred tax liabilities . . . . . . . . . . . . . . . . . . . . . . . .      264,940      327,272
+Commitments and contingencies. . . . . . . . . . . . . . . . . . . . . .            -            -
+
+STOCKHOLDERS' EQUITY:
+     Preferred stock, $.01 par value (none issued) . . . . . . . . . . .            -            -
+     Common stock, $.01 par value. . . . . . . . . . . . . . . . . . . .        3,267        3,255
+     Additional paid-in capital. . . . . . . . . . . . . . . . . . . . .      492,697      487,634
+     Retained earnings . . . . . . . . . . . . . . . . . . . . . . . . .    1,353,336    1,259,510
+     Accumulated other comprehensive (loss) / income . . . . . . . . . .      (52,081)      26,256
+                                                                          ------------  -----------
+         Total stockholders' equity. . . . . . . . . . . . . . . . . . .    1,797,219    1,776,655
+                                                                          ------------  -----------
+     TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY. . . . . . . . . . . . .   $2,378,261   $2,348,639
+                                                                          ============  ===========
+
+<FN>
+(See accompanying Notes to Condensed Consolidated Financial Statements.)
+</TABLE>
+
+
+
+<TABLE>
+<CAPTION>
+
+
+                                                    XILINX, INC.
+                                   CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                                     (Unaudited)
+
+
+                                                                                               Three Months Ended
+(in thousands)                                                                                 July 1,     July 3,
+                                                                                                 2000        1999
+                                                                                              ----------  ----------
+Increase (decrease) in cash and cash equivalents<S>                                           <C>         <C>
+Cash flows from operating activities:
+    Net income . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  $  93,826   $  51,615
+    Adjustments to reconcile net income to net cash provided by operating
+       activities:
+               Depreciation and amortization . . . . . . . . . . . . . . . . . . . . . . . .     13,673       8,409
+               Undistributed earnings of joint venture . . . . . . . . . . . . . . . . . . .          -        (654)
+               Changes in assets and liabilities:
+                       Accounts receivable . . . . . . . . . . . . . . . . . . . . . . . . .    (83,261)     (9,250)
+                       Inventories . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    (10,595)      5,125
+                       Other prepaid assets. . . . . . . . . . . . . . . . . . . . . . . . .        953        (457)
+                       Deferred income taxes . . . . . . . . . . . . . . . . . . . . . . . .     (1,883)    (13,887)
+                       Other assets. . . . . . . . . . . . . . . . . . . . . . . . . . . . .     (4,344)      6,477
+                       Accounts payable. . . . . . . . . . . . . . . . . . . . . . . . . . .     20,831      10,356
+                       Other accrued liabilities . . . . . . . . . . . . . . . . . . . . . .      4,200       6,046
+                       Income tax payable. . . . . . . . . . . . . . . . . . . . . . . . . .     48,599      23,880
+                       Deferred income on shipments to distributors. . . . . . . . . . . . .     39,379      (3,950)
+                                                                                              ----------  ----------
+                               Total adjustments . . . . . . . . . . . . . . . . . . . . . .     27,552      32,095
+                                                                                              ----------  ----------
+                                    Net cash provided by operating activities. . . . . . . .    121,378      83,710
+
+Cash flows from investing activities:
+    Purchases of available-for-sale investments. . . . . . . . . . . . . . . . . . . . . . .   (908,666)   (667,778)
+    Proceeds from sale or maturity of available-for-sale investments . . . . . . . . . . . .    902,016     641,913
+    Purchases of property, plant and equipment . . . . . . . . . . . . . . . . . . . . . . .    (21,944)     (9,880)
+                                                                                              ----------  ----------
+                                     Net cash used in investing activities . . . . . . . . .    (28,594)    (35,745)
+
+Cash flows from financing activities:
+    Acquisition of treasury stock. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    (53,828)     (5,289)
+    Proceeds from issuance of common stock . . . . . . . . . . . . . . . . . . . . . . . . .     15,081      13,102
+    Proceeds from sales of put warrants. . . . . . . . . . . . . . . . . . . . . . . . . . .      9,756       1,535
+                                                                                              ----------  ----------
+                                     Net cash (used in) /provided  by  financing activities.    (28,991)      9,348
+                                                                                              ----------  ----------
+Net increase  in cash and cash equivalents . . . . . . . . . . . . . . . . . . . . . . . . .     63,793      57,313
+
+Cash and cash equivalents at beginning of period . . . . . . . . . . . . . . . . . . . . . .     85,548      53,584
+                                                                                              ----------  ----------
+
+Cash and cash equivalents at end of period . . . . . . . . . . . . . . . . . . . . . . . . .  $ 149,341   $ 110,897
+                                                                                              ==========  ==========
+
+Schedule of non-cash transactions:
+    Tax benefit from stock option exercises. . . . . . . . . . . . . . . . . . . . . . . . .  $  34,066   $  10,126
+    Issuance of treasury stock under employee stock plans. . . . . . . . . . . . . . . . . .     53,828      10,400
+
+Supplemental disclosures of cash flow information:
+    Interest paid. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  $       -   $       5
+    Income taxes paid. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         29         361
+
+<FN>
+(See accompanying Notes to Condensed Consolidated Financial Statements.)
+</TABLE>
+
+
+                                  XILINX, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+
+1.     The  accompanying  interim  consolidated  financial  statements have been
+prepared  in conformity with generally accepted accounting principles and should
+be  read  in  conjunction  with  the  Xilinx,  Inc.  (Xilinx  or  the  Company)
+consolidated financial statements for the year ended April 1, 2000.  The balance
+sheet at April 1, 2000 is derived from audited financial statements. The interim
+financial statements are unaudited but reflect all adjustments which are, in the
+opinion of management, of a normal, recurring nature necessary to present fairly
+the  statements  of financial position, results of operations and cash flows for
+the  interim  periods  presented.  The  results for the three-month period ended
+July  1, 2000 are not necessarily indicative of the results that may be expected
+for  the  year  ending  March  31,  2001  or  any  future  period.
+
+2.     Inventories  are  stated  at  the  lower of cost (first-in, first-out) or
+market  (estimated net realizable value).  Inventories at July 1, 2000 and April
+1,  2000  are  as  follows:
+
+<TABLE>
+<CAPTION>
+
+
+(in thousands)                      July 1,   April 1,
+                                      2000      2000
+                                    --------  --------
+<S>                                 <C>       <C>
+                  Raw materials. .  $  6,126  $  6,602
+                  Work-in-process.   107,697    78,697
+                  Finished goods .    46,364    46,008
+                                    --------  --------
+                                    $160,187  $131,307
+                                    ========  ========
+</TABLE>
+
+
+3.     The  computation  of basic net income per share for all periods presented
+is  derived from the information on the face of the statement of operations, and
+there  are  no  reconciling  items  to net income.  The total shares used in the
+denominator  of  the  diluted  net  income  per  share calculation includes 27.4
+million  and  23.0 million incremental common shares attributable to outstanding
+options  for  the  first  quarter  of  fiscal  year 2001 and 2000, respectively.
+
+Outstanding options to purchase approximately 2.9 million and 0.4 million shares
+for  the  first  quarter  of  fiscal year 2001 and 2000, respectively, under the
+Company's  Stock Option Plan were not included in the treasury stock calculation
+to  derive  diluted  net  income  per share as their inclusion would have had an
+anti-dilutive effect.  In addition, the put warrants disclosed in Note 5 did not
+have  any  impact  on  basic or diluted net income per share in the three months
+ended  July  1,  2000  and  July  3,  1999  as their inclusion would have had an
+anti-dilutive  effect.
+
+4.     The  changes  in  components  of  comprehensive  income  for  the periods
+presented  are  as  follows:
+
+<TABLE>
+<CAPTION>
+
+                                                         Three months ended
+(in thousands)                                            July 1,    July 3,
+                                                           2000       1999
+                                                         ---------  --------
+<S>                                                      <C>        <C>
+Net income. . . . . . . . . . . . . . . . . . . . . . .  $ 93,826   $ 51,615
+Cumulative translation adjustment . . . . . . . . . . .      (160)       891
+Unrealized losses on available for sale securities
+  arising during the period, net of tax . . . . . . . .   (77,819)      (800)
+Reclassification adjustment for losses on available
+  for sale securities, net of tax, included in earnings      (358)         -
+                                                         ---------  ---------
+
+Comprehensive income. . . . . . . . . . . . . . . . . .  $ 15,489   $ 51,706
+                                                         =========  =========
+</TABLE>
+
+
+
+The  components of accumulated other comprehensive income (loss) at July 1, 2000
+and  April  3,  2000  are  as  follows:
+
+<TABLE>
+<CAPTION>
+
+
+(in thousands)                                     July 1,    April 1,
+                                                    2000        2000
+                                                  ---------  ----------
+<S>                                               <C>        <C>
+Cumulative translation adjustment. . . . . . . .  $   (210)  $     (49)
+Unrealized (loss) / gain on available for sale
+     securities, net of tax. . . . . . . . . . .   (51,871)     26,305
+                                                  ---------  ----------
+Accumulated other comprehensive (loss) / income.  $(52,081)  $  26,256
+                                                  =========  ==========
+</TABLE>
+
+
+
+5.     Our  Board of Directors has approved stock repurchase programs that allow
+us  to  repurchase shares of our common stock.  During the first three months of
+fiscal  2001, we repurchased 839,000 shares of common stock under our authorized
+repurchase  program  at  a cost of $53.8 million.  In conjunction with the stock
+repurchase  program,  during  the  three  months ended July 1, 2000, we sold put
+warrants  that  entitle  the  holder  of each warrant to sell to us, by physical
+delivery,  one  share  of common stock at a specified price, ranging from $56 to
+$66  per  share.  The  outstanding  put  warrants  will  expire at various dates
+through  July  2001.  As  of  July  1,  2000,  1.4  million  put  warrants  are
+outstanding.
+
+6.     In  June  1998, the Financial Accounting Standards Board issued Statement
+of  Financial  Accounting  Standards  No.  133,  (FASB  133),  "Accounting  for
+Derivative  Instruments  and  Hedging  Activities",  which  requires adoption in
+fiscal  years  beginning after June 15, 2000 while earlier adoption is permitted
+at  the  beginning  of  any  fiscal quarter.  We are required to adopt by fiscal
+2002.  The  effect  of adopting the Standard is currently being evaluated but is
+not expected to have a material effect on our consolidated results of operations
+or financial position.  FASB 133 will require us to recognize all derivatives on
+the  balance  sheet  at  fair  value.  Derivatives  that  are not hedges must be
+adjusted  to fair value through income.  If the derivative is a hedge, depending
+on the nature of the hedge, changes in the fair value of derivatives will either
+be offset against the change in fair value of the hedged assets, liabilities, or
+firm  commitments  through  earnings  or  recognized  in  accumulated  other
+comprehensive  income  until  the  hedged  item  is recognized in earnings.  The
+ineffective  portion,  if  any,  of  a derivative's change in fair value will be
+immediately  recognized  in  earnings.
+
+In  December 1999, the Securities and Exchange Commission (SEC) issued SEC Staff
+Accounting  Bulletin  No.  101  (SAB  101),  "Revenue  Recognition  in Financial
+Statements."  SAB  101  summarizes  certain  of  the  SEC's  views  in  applying
+generally  accepted  accounting  principles  to revenue recognition in financial
+statements.  We  believe  that  our  current  revenue  recognition  policy  is
+consistent  with  the  guidance  of  SAB  101.
+
+7.     In  1996,  Xilinx,  United  Microelectronics  Corporation (UMC) and other
+parties  entered  into a joint venture to construct a wafer fabrication facility
+in  Taiwan,  known as United Silicon Inc. (USIC).  We had a 20% equity ownership
+in  USIC  and  had  the right to receive up to 31.25% of the wafer capacity from
+this  facility.  We  accounted  for  this  investment using the equity method of
+accounting  with  a  one-month  lag  in  recording  our share of results for the
+entity.
+
+In  January  2000,  our equity position in USIC was converted into shares of UMC
+which  are  publicly  traded  on the Taiwan Stock Exchange.  As a result of this
+merger,  we  own  approximately  222  million  shares of UMC common stock, which
+represent  approximately  2%  of  the  combined UMC Group.  We retain equivalent
+wafer  capacity rights in UMC as we previously had in USIC, as long as we retain
+a percentage of our shares of UMC common stock.  If our holdings fall below this
+level,  our  wafer capacity rights would be decreased prorated by the UMC shares
+we  hold.  (See  also, Item 2, Management's Discussion and Analysis of Financial
+Condition and Results of Operations - Factors Affecting Future Operating Results
+- - Investment  Company  Act  of  1940.)
+
+Due  to  restrictions imposed by UMC and the Taiwan Stock Exchange, the majority
+of  our  UMC  shares  may  not  be  sold  until  July  2000.  These  regulatory
+restrictions  will gradually expire between July 2000 and January 2004.  At July
+1,  2000,  the  restricted portion of our UMC investment totaled $396.5 million.
+In June 2000, UMC distributed a dividend, in the form of dividend shares, at the
+rate  of  200  shares  for  every 1,000 UMC shares held.  Xilinx's dividend will
+equal  approximately  44  million  shares.
+
+8.     On June 7, 1993, we filed suit against Altera Corporation (Altera) in the
+United  States  District  Court  for  the  Northern  District  of California for
+infringement of certain of our patents.  Subsequently, Altera filed suit against
+Xilinx,  alleging  that certain of our products infringe certain Altera patents.
+Fact  and  expert  discovery  have been completed in both cases, which have been
+consolidated.  Both  Altera  and Xilinx filed motions with the Court for summary
+judgement  with respect to certain of the issues pending in the litigation.   In
+October  1999,  the  Court  ruled  on all but one of the motions. As a result of
+those  rulings,  Altera is left with one claim against Xilinx, which remains the
+subject  of  a  Company  motion for summary judgment. A ruling on this motion is
+pending. The Court's rulings also dismissed certain claims by us, leaving intact
+claims of infringement by Altera under two Company patents. The remaining claims
+against Altera will be decided at a trial scheduled to begin on October 5, 2000.
+If  the remaining claim against Xilinx survives the motion for summary judgment,
+it  will  be  decided  at  a  trial,  which  is  unscheduled  at  this  point.
+
+On April 20, 1995, Altera filed an additional suit against Xilinx in the Federal
+District  Court in Delaware, alleging that our XC5200 family infringes an Altera
+patent.  We  answered the Delaware suit denying that the XC5200 family infringes
+the  patent  in suit, asserting certain affirmative defenses and counterclaiming
+that  the Altera Max 9000 family infringes certain of our patents.  The Delaware
+suit  was  transferred  to  the  United  States  District Court for the Northern
+District  of  California.
+
+On  July  22, 1998, Altera and Joseph Ward, a former Xilinx employee, filed suit
+against  Xilinx in Superior Court in Santa Clara County, California, arising out
+of  our  efforts  to  prevent  disclosure  of  certain  Company  confidential
+information.  Altera's  suit  requests  declaratory  relief  and  claims  Xilinx
+engages  in  unfair  business  practices  and  interference  with  contractual
+relations.  On  September 10, 1998 we filed cross claims against Altera and Ward
+for  unfair  competition  and  breach  of  contract,  among other claims, in the
+California  action.  On  October  20,  1998,  Altera  and Ward filed crossclaims
+against  Xilinx  for  malicious  prosecution  of civil action and defamation. On
+September 15, 1999, the Court dismissed all of our claims against Altera and Mr.
+Ward, finding that we were unable to show any damages we suffered as a result of
+any  actions  by  Mr.  Ward.  Claims  against  Xilinx  are  still  pending.
+
+On  May  31, 2000, Altera filed an additional suit against Xilinx in the Federal
+District  Court  for  the Northern District of California, alleging that certain
+Xilinx  products,  including  our  Virtex  FPGAs, infringe three Altera patents.
+Altera's  suit  requests  unspecified monetary damages as well as issuance of an
+injunction  to  prevent Xilinx from selling allegedly infringing parts.   Xilinx
+has answered the complaint, denied the allegations, and has filed a counterclaim
+alleging  that Altera is infringing additional Company patents.  Altera's motion
+for  expedited  discovery  was  denied  by  the  Court.
+
+The  ultimate  outcome  of  these  matters  cannot  be  determined at this time.
+Management  believes  that  it  has  meritorious  defenses to such claims and is
+defending them vigorously.  The foregoing is a forward-looking statement subject
+to risks and uncertainties, and the future outcome of these matters could differ
+materially  due to the uncertain nature of each legal proceeding and because the
+lawsuits  are  still  in  the  pre-trial  stages.
+
+There  are  no  other pending legal proceedings of a material nature to which we
+are a party or of which any of our property is the subject.  We know of no legal
+proceedings  contemplated  by  any  governmental  authority  or  agency.
+
+
+Item  2.     Management's  Discussion  and  Analysis  of Financial Condition and
+Results  of  Operations
+
+The  following  discussion  contains  forward-looking  statements, which involve
+numerous  risks  and  uncertainties.  Actual  results  may  differ  materially.
+Certain  of these risks and uncertainties are discussed under "Factors Affecting
+Future  Operating  Results".
+
+RESULTS  OF  OPERATIONS:  FIRST  QUARTER  OF  FISCAL  2001 COMPARED TO THE FIRST
+- --------------------------------------------------------------------------------
+QUARTER  OF  FISCAL  2000
+- -------------------------
+
+NET  REVENUES
+
+We  currently classify our product offerings into four categories by technology.
+Base  products  consist  of  our  mature  product  families  that  are currently
+manufactured  on technologies of 0.6-micron and older; this includes the XC2000,
+XC3000,  XC3100,  XC4000 and XC7000 families.  Mainstream products are currently
+manufactured  on  0.35  and  0.5-micron  technologies  and  include the XC4000E,
+XC4000EX, XC4000XL, XC5200, XC9500, XC9500XL, Spartan(TM) and CoolRunner(R)
+product lines.  Advanced products include our newest technologies manufactured
+on 0.25-micron and smaller, which include the  XC4000XV, XC4000XLA, Spartan XL,
+Spartan-II, Virtex(TM), and Virtex-E product lines. Our Support products make
+up the  remainder  of our product offerings and include serial proms, HardWire,
+and software.
+
+Net revenues of $364.9 million in the first quarter of fiscal 2001 represented a
+72.6%  increase  from  the  comparable  prior  year  quarter  of $211.4 million.
+Product  lines that experienced significant growth during the three-month period
+include  the  XC4000XLA, XC9500, Spartan, and Virtex families.  The increases in
+revenues  of  Advanced  products  are  due to the introduction and strong market
+acceptance  of XC4000XLA, Spartan XL and Virtex products.  Increases in revenues
+of  Mainstream  products  are  attributable  mainly  to  growth in the XC4000XL,
+Spartan, XC9500 and XC9500XL product lines.  Revenues of Base products decreased
+slightly  as customers migrated to newer product offerings.  Revenues of Support
+products  increased  due  to increased sale of serial proms, driven by growth in
+supporting  Spartan  and  Virtex  families.  We  have  historically been able to
+offset  much  of  the revenue declines of our mature technologies with increased
+revenues from newer technologies, although no assurance can be given that we can
+continue  to do so in the future.  The revenue by technology for the three month
+periods  ended  July  1,  2000  and  July  3,  1999  are  as  follows:
+
+<TABLE>
+<CAPTION>
+
+                      Three Months Ended
+(in millions)         July 1,   July 3,
+                        2000      1999
+                      --------  --------
+<S>                   <C>       <C>
+Base products. . . .  $   29.3  $   31.7
+Mainstream products.     153.1     121.8
+Advanced products. .     155.5      37.5
+Support products . .      27.0      20.4
+                      --------  --------
+Total revenue. . . .  $  364.9  $  211.4
+                      ========  ========
+</TABLE>
+
+
+International  revenues represented approximately 36.3% of total revenues in the
+first quarter of fiscal 2001 as compared to 30.8% in the prior year period.  The
+revenue  by geography for the three month periods ended July 1, 2000 and July 3,
+1999  are  as  follows:
+
+<TABLE>
+<CAPTION>
+
+                             Three Months Ended
+(in millions)                July 1,   July 3,
+                               2000      1999
+                             --------  --------
+<S>                          <C>       <C>
+North America . . . . . . .  $  232.5  $  146.4
+Europe. . . . . . . . . . .      74.2      39.6
+Japan . . . . . . . . . . .      32.6      14.6
+Asia Pacific/Rest of World.      25.6      10.8
+                             --------  --------
+Total revenue . . . . . . .  $  364.9  $  211.4
+                             ========  ========
+</TABLE>
+
+
+The  European  revenue  increases are driven by the 4000XLA and Virtex families.
+The  revenue  increases  in  Japan are mainly driven by the Virtex family.  Asia
+Pacific/Rest  of  World revenue increases are driven by the CPLD, Virtex and the
+4000X  Product  families.
+
+GROSS  MARGIN
+
+Gross  margin  was $227.9 million for the first quarter of fiscal 2001, or 62.5%
+of  revenues  as  compared  to $131.6 million, or 62.3% of revenues in the first
+quarter of fiscal 2000.  The slight increase in gross margin percentage compared
+to  last  year was driven by product mix as well as continued benefits from cost
+improvements  and  manufacturing process technology advances.  We recognize that
+ongoing  price  reductions for our integrated circuits are a significant element
+in expanding the market for our products.  Management believes that gross margin
+objectives of approximately 62% of revenues are consistent with expanding market
+share  while  realizing  acceptable  returns, although there can be no assurance
+that  future  gross  margins  will  remain  in  this  range.
+
+RESEARCH  AND  DEVELOPMENT
+
+Research  and  development expenditures were $43.2 million, or 11.8% of revenues
+for  the  first quarter of fiscal 2001 as compared to $26.0 million, or 12.3% of
+revenues  for  the first quarter of fiscal 2000.  Although total expenditures on
+research and development increased significantly, they decreased as a percent of
+revenue  because  of  strong revenue growth.  The 66.1% increase in expenditures
+over  the  prior  year  period was primarily due to designing and developing new
+product  architectures  of  complex,  high  density  devices  including  wafer
+purchases,  development  of advanced process technologies, software development,
+increased labor-related costs, and testing of new products.  We remain committed
+to  a  significant level of research and development effort in order to maintain
+our  technology  leadership  in  the  programmable  logic  industry.
+
+SALES,  GENERAL  AND  ADMINISTRATIVE
+
+Sales,  general  and  administrative  expenses  were  $63.4 million, or 17.4% of
+revenues  for  the first quarter of fiscal 2001 as compared to $39.5 million, or
+18.7%  of  revenues for the first quarter of fiscal 2000.  Although total sales,
+general  and  administrative  expenses increased, they decreased as a percent of
+revenue  because  of strong revenue growth.  The increases in sales, general and
+administrative  expenses  were  primarily  attributable  to  increased marketing
+expenses  and  increased  sales  costs  on  higher revenues along with increased
+personnel  costs.  We  remain  committed to controlling administrative expenses.
+However, the timing and extent of future legal costs associated with the ongoing
+enforcement  of our intellectual property rights are not readily predictable and
+may  increase  significantly  in  the  future.
+
+INTEREST  AND  OTHER,  NET
+
+Interest and other income, net increased to $9.0 million in the first quarter of
+fiscal  2001  from  $5.7  million in the same prior year quarter.  The increases
+were  primarily due to the increased average cash and investment balances in the
+first  three  months  of  fiscal  2001  as  compared  to  the prior year quarter
+resulting  in  increased  interest  income  of  $4.7 million over the prior year
+period.  The amount of net interest and other income in the future will continue
+to  be  impacted  by  the  level  of  our  average  cash and investment balance,
+prevailing  interest  rates,  and  foreign  currency  exchange  rates.
+
+PROVISION  FOR  INCOME  TAXES
+
+We  recorded  a  tax  provision of $36.5 million for the first quarter of fiscal
+2001  as  compared  to $20.8 million in the same prior year period, representing
+effective  tax  rates  of  28.0% and 29.0%, respectively.  The lower tax rate is
+primarily  due  to increased profits in foreign jurisdictions where the tax rate
+is  lower  than  the  U.S.  rate.
+
+JOINT  VENTURE  EQUITY  INCOME
+
+Prior  to  the  conversion  of  USIC  shares  to  UMC  shares,  we  recorded our
+proportional  ownership  of  the  net  income of USIC, a wafer fabrication joint
+venture  located  in  Taiwan, as joint venture equity income.   We recorded $0.7
+million  equity in income of joint venture for the first quarter of fiscal 2000.
+As a result of the conversion of our equity position in USIC to shares of UMC in
+January  2000,  as discussed in Note 7, we no longer record joint venture equity
+income.
+
+HEDGING
+
+We  use  forward  currency  exchange contracts to reduce financial market risks.
+Our  sales  to  Japanese customers are denominated in yen while our purchases of
+processed  silicon  wafers  from Japanese foundries are primarily denominated in
+U.S.  dollars.  Gains  and losses on foreign currency forward contracts that are
+designated and effective as hedges of anticipated transactions, for which a firm
+commitment  has  been  attained,  are  deferred and included in the basis of the
+transaction  in  the  same  period that the underlying transactions are settled.
+Gains  and  losses  on  any  instruments  not  meeting  the  above  criteria are
+recognized  in  income  in  the  current  period.  We  are  also sharing the yen
+exchange  rate  risk  with  some  of our Japanese customers through risk sharing
+agreements.  As  we will continue to have a net yen exposure in the near future,
+we  will  continue  to  mitigate the exposure through yen hedging contracts.  No
+currency  forward  contracts  were  outstanding  as  of  July  1,  2000.
+
+INFLATION
+
+To  date,  the  effects  of  inflation  upon our financial results have not been
+significant.
+
+
+FINANCIAL  CONDITION,  LIQUIDITY  AND  CAPITAL  RESOURCES
+- ---------------------------------------------------------
+
+Our  financial  condition at July 1, 2000 remained strong.  Total current assets
+exceeded  total current liabilities by 3.8 times, compared to 4.3 times at April
+1,  2000.  We have used a combination of equity and cash flow from operations to
+support on-going business activities, secure manufacturing capacity from foundry
+partners,  make  acquisitions  and  investments  in  complementary technologies,
+obtain  facilities  and  capital  equipment  and  finance inventory and accounts
+receivable.
+
+We  continued  to  generate positive cash flows from operations during the first
+three  months of fiscal 2001.  As of July 1, 2000, we had cash, cash equivalents
+and  short-term  investments  of  $687.9  million  and working capital of $884.2
+million.  Cash  generated  by  operations  of $121.4 million for the first three
+months  of fiscal 2001 was $37.7 million higher than the $83.7 million generated
+from  the  first  three  months  of fiscal 2000.  Increases in cash generated by
+operations resulted primarily from the cash flow impact of increased net income,
+and  increases in accounts payable, income taxes payable, and deferred income on
+shipments  to  distributors which were partially offset by increases in accounts
+receivable  and  inventories.
+
+Cash  flows  used for investing activities during the three months ended July 1,
+2000  included  net  investment purchases of $6.7 million, and $21.9 million for
+property,  plant  and  equipment.  During the first three months of fiscal 2000,
+investing  activities  included  net  investment purchases of $25.9 million, and
+$9.9  million  of  property,  plant  and  equipment  acquisitions.
+
+Net  cash  flows  used  by  financing activities were $29.0 million in the first
+three  months  of  fiscal  2001  and  were  attributable  to  $53.8  million  in
+acquisition  of  treasury  stock,  offset  by  $15.1  million  proceeds from the
+issuance of common stock under employee stock plans and $9.7 million in proceeds
+from  sales  of  put  warrants.  For  the  comparable  fiscal  2000 period, cash
+provided  by  financing  activities  of  $9.3  million included $13.1 million of
+proceeds  from  issuance  of  common  stock  under employee stock plans and $1.5
+million  in  proceeds  from  sales  of  put  warrants,  offset by acquisition of
+treasury  stock  of  $5.3  million.
+
+Stockholders'  equity  increased  $20.6 million during the first three months of
+fiscal  2001, principally as a result of the $93.8 million in net income for the
+three months ended July 1, 2000.  In addition, the proceeds from the issuance of
+common  stock  under employee stock plans of $15.1 million, related tax benefits
+from  stock options of $34.1 million, and $9.7 million in proceeds from sales of
+put  warrants  contributed to the increase, which were partially offset by $78.3
+million in unrealized losses on available-for-sale securities primarily from our
+investment  in  UMC  stock,  the  cumulative  translation  adjustment, and $53.8
+million  for  acquisition  of  treasury  stock.
+
+We  have  available  credit  facilities  for  up  to $46.2 million of which $6.2
+million  is  intended  to  meet  occasional working capital requirements for our
+wholly  owned  Irish  subsidiary.  As  of  July 1, 2000, we have $1.4 million in
+outstanding  borrowings  under  the  lines  of  credit.
+
+We  anticipate  that existing sources of liquidity and cash flow from operations
+will  be  sufficient  to  satisfy our cash needs for the foreseeable future.  We
+will  continue  to  evaluate  opportunities to obtain additional wafer capacity,
+procure  additional  capital equipment and facilities, develop new products, and
+acquire  businesses,  products  or  technologies  that  would  complement  our
+businesses  and  may  use  available  cash  or other sources of funding for such
+purposes.
+
+
+FACTORS  AFFECTING  FUTURE  OPERATING  RESULTS
+- ----------------------------------------------
+
+The  semiconductor  industry  is  characterized  by  rapid technological change,
+intense  competition and cyclical market patterns.  Cyclical market patterns are
+characterized  by  several  factors,  including:
+
+  -     reduced  product  demand;
+  -     limited  visibility  of  demand  for  products  beyond  three  months;
+  -     accelerated  erosion  of  average  selling  prices;  and
+  -     tight  capacity  availability.
+
+Our results of operations are affected by several factors. These factors include
+general  economic conditions, conditions specific to technology companies and to
+the  semiconductor  industry  in particular, decreases in average selling prices
+over the life of particular products and the timing of new product introductions
+(by us, our competitors and others.)  In addition, our results of operations are
+affected  by the ability to manufacture sufficient quantities of a given product
+in a timely manner, the timely implementation of new manufacturing technologies,
+the ability to safeguard patents and intellectual property from competitors, the
+impact  of  new technologies which result in rapid escalation of demand for some
+products  in  the  face  of equally steep declines in demand for others, and the
+inability  to  predict  the success of our customers' products in their markets.
+Market demand for our products, particularly for those most recently introduced,
+can  be  difficult  to  predict,  especially  in  light of customers' demands to
+shorten  product lead times and minimize inventory levels.  Unpredictable market
+demand  could lead to revenue volatility if we were unable to provide sufficient
+quantities  of  specified  products.  In  addition,  any difficulty in achieving
+targeted  wafer production yields could adversely affect our financial condition
+and  results  of operations. We attempt to identify changes in market conditions
+as  soon as possible; however, the dynamics of the market make prediction of and
+timely  reaction  to such events difficult.  Due to these and other factors, our
+past  results,  including those described in this report, are much less reliable
+predictors of the future than with companies in many older, more stable and less
+dynamic  industries.  Based  on  the  factors  noted  herein,  we may experience
+substantial  period-to-period  fluctuations  in  future  operating  results.
+
+Our  future  success depends in a large part on the continued service of our key
+technical,  sales,  marketing  and  management  personnel  and on our ability to
+continue  to attract and retain qualified employees.  Particularly important are
+those  highly  skilled  design, process, software and test engineers involved in
+the  manufacture  of  existing  products and the development of new products and
+processes.  The  competition  for such personnel is intense, and the loss of key
+employees  could  have  a material adverse effect on our financial condition and
+results  of  operations.
+
+Sales  and  operations  outside  of  the  United  States subject us to the risks
+associated  with  conducting  business  in  foreign  economic  and  regulatory
+environments.  Our  financial  condition  and  results  of  operations  could be
+adversely  affected  by unfavorable economic conditions in countries in which we
+do  significant  business  and  by  changes  in  foreign currency exchange rates
+affecting  those  countries.  For  example, we have sales and operations in Asia
+Pacific  and  Japan.  Past economic weakness in these markets adversely affected
+revenues,  and  such  conditions  may  occur  in the future.  Customers may face
+reduced  access  to  capital and exchange rate fluctuations may adversely affect
+their  ability  to  purchase  our products.  In addition, our ability to sell at
+competitive  prices may be diminished.  Currency instability may increase credit
+risks as the weak currencies may impair our customers' ability to repay existing
+obligations.  Any  or  all of these factors could adversely affect our financial
+condition  and  results  of  operations  in  the  near  future.
+
+Our  financial  condition  and  results  of operations are becoming increasingly
+dependent  on  the  global  economy.  Any  instability  in  worldwide  economic
+environments  could  lead to a contraction of capital spending by our customers.
+Additional  risks  to us include government regulation of exports, imposition of
+tariffs  and other potential trade barriers, reduced protection for intellectual
+property  rights  in  some  countries and generally longer receivable collection
+periods.  Moreover,  our  financial condition and results of operations could be
+affected  in  the  event of political conflicts in Taiwan where our main foundry
+partner,  UMC,  is  located.
+
+Our  business  is  also  subject  to the risks associated with the imposition of
+legislation  and  regulations  relating  specifically to the import or export of
+semiconductor  products.  We  cannot  predict  whether  quotas, duties, taxes or
+other  charges  or  restrictions  will  be imposed by the United States or other
+countries  upon  the  import  or  export  of  our products in the future or what
+effect,  if  any, such actions would have on our financial condition and results
+of  operations.
+
+We  do not directly manufacture our silicon wafers. Presently, all of our wafers
+are manufactured by our foundry partners in Taiwan by UMC and in Japan by Seiko.
+We  depend  on  our  foundry  partners  to deliver reliable silicon wafers, with
+acceptable  yields,  in  a  timely manner. If our foundry partners are unable to
+produce  and  deliver  silicon  wafers  that  meet our specifications, including
+acceptable  yields,  our  results  of  operation  could  be  adversely affected.
+
+Our  foundry  partners  in  Taiwan  and  Japan  and  many  of  our operations in
+California are centered in areas that have been seismically active in the recent
+past.  Should  there  be  a  major  earthquake in our operating locations in the
+future,  our  operations,  including  our  manufacturing  activities,  may  be
+disrupted.  This  type  of  disruption  could  result  in  our inability to ship
+products  in  a  timely  manner,  thereby  materially  adversely  affecting  our
+financial  condition  and  results  of  operations.
+
+The  securities of many high technology companies have historically been subject
+to  extreme price and volume fluctuations, which may adversely affect the market
+price  of  our  common  stock.
+
+DEPENDENCE  UPON  INDEPENDENT  MANUFACTURERS  AND  SUBCONTRACTORS
+
+We  do  not  manufacture the semiconductor wafers used for our products.  During
+the  past  several  years,  most of our wafers have been manufactured by UMC and
+Seiko,  with  recent wafers also manufactured by USIC until its merger into UMC.
+We  are  dependent  upon  these  suppliers  and  others  to  produce wafers with
+competitive  performance  and  cost  attributes  which  include transitioning to
+advanced  manufacturing  process  technologies,  producing  wafers at acceptable
+yields  and delivering them in a timely manner.  While the timeliness, yield and
+quality  of  wafer  deliveries  have  met  our  requirements  to date, we cannot
+guarantee  that  our  wafer  suppliers  will not experience future manufacturing
+problems,  including delays in the realization of advanced manufacturing process
+technologies.  Additionally, disruption of operations at these foundries for any
+reason,  including  natural  disasters such as fires, floods, or earthquakes, as
+well  as  disruptions in access to adequate supplies of electricity, natural gas
+or  water  could  cause  delays  in  shipments of our products, and could have a
+material  adverse effect on our results of operations.  We are also dependent on
+subcontractors  to  provide  semiconductor  assembly  services.  Any  prolonged
+inability to obtain wafers or assembly services with competitive performance and
+cost  attributes,  adequate yields or timely delivery, or any other circumstance
+that  would  require  us  to  seek  alternative  sources  of supply, could delay
+shipments  and  have  a  material  adverse effect on our financial condition and
+results  of  operations.
+
+Our growth will depend in large part upon our ability to obtain additional wafer
+fabrication  capacity  and  assembly  services  from  suppliers  that  are  cost
+competitive.  We  consider  various  alternatives  in order to secure additional
+wafer  capacity.  These  alternatives  include,  without  limitation,  equity
+investments  in,  or  loans,  deposits,  or  other  financial  commitments  to
+independent  wafer  manufacturers.  We  also consider the use of contracts which
+commit  us to purchase specified quantities of wafers over extended periods.  We
+are  currently able to obtain wafers from existing suppliers in a timely manner.
+However, at times we have been unable, and may in the future be unable, to fully
+satisfy customer demand because of production constraints, including the ability
+of  suppliers  and  subcontractors  to provide materials and services to satisfy
+customer  delivery  dates,  as  well  as  our  ability  to  process products for
+shipment.  In addition, a significant increase in general industry demand or any
+interruption of supply could reduce our supply of wafers or increase our cost of
+such wafers.  These events could have a material adverse effect on our financial
+condition  and  results  of  operations.
+
+DEPENDENCE  ON  NEW  PRODUCTS
+
+Our  success  depends  in large part on our ability to develop and introduce new
+products  which  address  customer  requirements  and compete effectively on the
+basis  of  price,  density,  functionality  and performance.  The success of new
+product  introductions  is  dependent  upon  several  factors,  including:
+
+  -     timely  completion  of  new  product  designs;
+  -     ability  to  utilize  advanced  manufacturing  process  technologies;
+  -     achieving  acceptable  yields;
+  -     availability  of  supporting  software  design  tools;
+  -     utilization  of  predefined  cores  of  logic;
+  -     market  acceptance;  and
+  -     successful  deployment  of  systems  by  our  customers.
+
+We cannot assure that our product development efforts will be successful or that
+our  new  products  will  achieve  market  acceptance.  Revenues relating to our
+mature  products are expected to decline in the future.  As a result, we will be
+increasingly  dependent  on revenues derived from newer products along with cost
+reductions  on  current  products.  We  rely  primarily  on  obtaining  yield
+improvements  and  corresponding  cost reductions in the manufacture of existing
+products and on introducing new products which incorporate advanced features and
+other  price/performance  factors  that  enable  us  to  increase revenues while
+maintaining consistent margins.  To the extent that such cost reductions and new
+product introductions do not occur in a timely manner, or to the extent that our
+products  do  not  achieve  market acceptance at prices with higher margins, our
+financial  condition  and  results  of  operations could be materially adversely
+affected.
+
+COMPETITION
+
+Our  PLDs compete in the logic industry.  The industries in which we compete are
+intensely  competitive  and  are  characterized  by  rapid technological change,
+product  obsolescence  and  continuous  price  erosion.  We  expect  increased
+competition,  both from our primary competitors, Altera Corporation, and Lattice
+Semiconductor  Corporation and from a number of new companies that may enter our
+market.  We believe that important competitive factors in the programmable logic
+industry  include:
+
+  -     product  pricing;
+  -     product  performance,  reliability  and  density;
+  -     the  adaptability  of  products  to  specific  applications;
+  -     ease  of  use  and  functionality  of  software  design  tools;
+  -     functionality  of  predefined  cores  of  logic;  and
+  -     the  ability  to  provide  timely  customer  service  and  support.
+
+Our  strategy  for expansion in the logic market includes continued introduction
+of new product architectures which address high volume, low cost applications as
+well  as  high  performance, leading-edge density applications.  In addition, we
+anticipate  continued  price  reductions proportionate with our ability to lower
+the  manufacturing  cost  for  established products.  However, we cannot provide
+assurance  that  we  will  be  successful  in  achieving  these  strategies.
+
+Our  major  sources  of  competition  are  comprised  of  several  elements:
+
+  -     providers of high  density  programmable logic products characterized by
+        FPGA-type  architectures;
+  -     providers of high  volume and low cost FPGAs as programmable replacement
+        for  ASICs  and  application  specific  standard  products  (ASSPs).;
+  -     providers  of  high  speed,  low  density  CPLD  devices;
+  -     the  manufacturers  of  custom  gate  arrays;
+  -     providers  of  competitive  software  development  tools;
+  -     other  providers  of  new  or  emerging  programmable  logic  products.
+
+We compete with high density programmable logic suppliers on the basis of device
+performance,  the  ability  to  deliver  complete solutions to customers, device
+power  consumption  and  customer  support  by  taking  advantage of the primary
+characteristics  of  our  PLD product offerings which include: flexibility, high
+speed  implementation,  quick  time-to-market  and system level capabilities. We
+compete  with  ASIC  manufacturers  on  the basis of lower design costs, shorter
+development schedules, reduced inventory risk and field upgradability.  The ASIC
+market  segment  has been declining, and ASICs are being replaced by other logic
+options.  The  primary  attributes of ASICs are high density, high speed and low
+production  costs  in  high  volumes.  We  continue  to  develop  lower  cost
+architectures  intended  to narrow the gap between current ASIC production costs
+(in  high  volumes) and PLD production costs.  As PLDs have increased in density
+and  performance  and  decreased  in  cost  due  to  the  advanced manufacturing
+processes,  they  have  become  more  directly competitive with ASICs.  With the
+introduction  of  our  Spartan  family,  which is Xilinx's low cost programmable
+replacement  for  ASICs,  we  seek  to  grow  by  directly  competing with other
+companies  in  the ASIC segment.  Many of the companies in the ASIC segment have
+substantially  greater financial, technical and marketing resources than Xilinx.
+Consequently,  there can be no assurance that we will be successful in competing
+in the ASIC segment. Competition among PLD suppliers and manufacturers of new or
+emerging  programmable  logic products is based primarily on price, performance,
+design,  customer  support, software utility and the ability to deliver complete
+solutions  to  customers.  Some  of  our  current  or potential competitors have
+substantially  greater  financial,  manufacturing,  marketing,  distribution and
+technical  resources  than we do.  To the extent that our efforts to compete are
+not  successful,  our  financial  condition  and  results of operations could be
+materially  adversely  affected.
+
+The  benefits of programmable logic have attracted a number of companies to this
+market.  We recognize that different applications require different programmable
+technologies,  and  we  are  developing architectures, processes and products to
+meet  these  varying  customer  needs.  Recognizing the increasing importance of
+standard software solutions, we have developed common software design tools that
+support  the  full  range  of  integrated  circuit  products.  We  believe  that
+automation  and  ease  of  design are significant competitive factors in the PLD
+segment.
+
+Several  companies,  both large and small, have introduced products that compete
+with  ours  or have announced their intention to enter the PLD segment.  Some of
+our competitors may possess innovative technology, which could prove superior to
+our  technology  in  certain applications.  In addition, we anticipate potential
+competition from suppliers of logic products based on new technologies.  Some of
+our  current  or  potential  competitors  have  substantially greater financial,
+manufacturing,  marketing  and  technical resources than we do.  This additional
+competition  could  adversely  affect  our  financial  condition  and results of
+operations.
+
+We  could  also  face  competition from our licensees.  Under a license from us,
+Lucent  Technologies  has  rights  to  manufacture  and  market  our XC3000 FPGA
+products and also employ that technology to provide additional high density FPGA
+products.  Seiko Epson has rights to manufacture some of our products and market
+them  in Japan and Europe, but is not currently doing so.   We granted a license
+to  use  certain  of  our patents to Advanced Micro Devices (AMD).  AMD produced
+certain  programmable  logic devices under that license through its wholly owned
+subsidiary,  Vantis.  In  June  1999,  AMD sold the Vantis subsidiary to Lattice
+Semiconductor  Corporation.
+
+INTELLECTUAL  PROPERTY
+
+We  rely  upon  patent, trademark, trade secret and copyright law to protect our
+intellectual  property.  We cannot assure that such intellectual property rights
+can  be  successfully  asserted  in  the  future  or  will  not  be invalidated,
+circumvented  or  challenged.  From  time  to time, third parties, including our
+competitors,  have  asserted  patent,  copyright and other intellectual property
+rights  to  technologies  that are important to us.  We cannot assure that third
+parties  will  not  assert  infringement  claims  against us in the future, that
+assertions  by  third  parties  will  not result in costly litigation or that we
+would  prevail  in such litigation or be able to license any valid and infringed
+patents  from  third  parties  on  commercially  reasonable  terms.  Litigation,
+regardless  of  its  outcome, could result in substantial costs and diversion of
+our  resources.  Any  infringement claim or other litigation against us or by us
+could  materially  adversely  affect  our  financial  condition  and  results of
+operations.  (See  Part II - Other Information, Item 1 - Legal Proceedings for a
+discussion  of  litigation  between  Xilinx  and  Altera  Corporation.)
+
+INVESTMENT  COMPANY  ACT  OF  1940
+
+The  Investment  Company  Act  of  1940  regulates  mutual  funds and closed-end
+investment companies that are traded on the public stock markets.  The 1940 Act,
+and  rules issued under it, contain provisions and set forth principles that are
+designed  to differentiate "true" operating companies from companies that may be
+considered to have sufficient investment company-like characteristics to require
+regulation  by  the  1940 Act's complex procedural and substantive requirements.
+These  provisions  apply  to  companies  that own or hold securities, as well as
+companies  that invest, reinvest and trade in securities, and particularly focus
+on  determining  the primary nature of a company's activities, including whether
+an investing company controls and does business through the entities in which it
+invests  or, instead, holds its securities investments passively and not as part
+of  an  operating  business.
+
+In  January 2000, as a result of USIC's merger with UMC (see Note 7 to Condensed
+Consolidated Financial Statements), we received approximately 222 million shares
+of  UMC  stock, which are publicly traded on the Taiwan Stock Exchange.  We view
+this  investment  in UMC as an operating investment primarily intended to secure
+adequate  wafer  manufacturing capacity.  However, because of the success of our
+investments  during  the  last year, including our strategic wafer manufacturing
+investments, at least from the time of the completion of the merger of USIC into
+UMC  in  January  2000,  we  believe that we could be viewed as holding a larger
+portion  of  our assets in investment securities than is presumptively permitted
+by  the  1940  Act  for  a  company  not  registered  as  an investment company.
+
+We  believe  we should not be considered an investment company under the Act and
+should  not  be subject to regulation thereunder. We are prepared, if necessary,
+to  seek  exemptive  or no-action relief from the SEC.  However, there can be no
+assurance  that  the  SEC  will agree.  If the SEC does not concur, we may, as a
+result,  be  required  to  divest  ourselves or change the mix of assets that we
+consider  strategically  necessary  for  the  conduct  of our operations.   Such
+divestitures  could have a material adverse effect upon our business and results
+of  operations.
+
+EURO  CURRENCY
+
+Beginning  in  1999, 11 member countries of the European Union established fixed
+conversion  rates  between  their  existing sovereign currencies and adopted the
+Euro as their common legal currency.  During the three-year transition, the Euro
+will  be  available  for non-cash transactions and legacy currencies will remain
+legal  tender.  We  are  continuing to assess the Euro's impact on our business.
+We are reviewing the ability of our accounting and information systems to handle
+the  conversion,  the ability of foreign banks to report on dual currencies, the
+legal  and  contractual  implications  of  agreements,  as well as reviewing our
+pricing  strategies.  We  expect  that  any  additional  modifications  to  our
+operations  and  systems  will be completed on a timely basis and do not believe
+the  conversion will have a material adverse impact on our operations.  However,
+we  cannot  assure  that  we will be able to successfully modify all systems and
+contracts  to  comply  with  Euro  requirements.
+
+LITIGATION
+
+We  are  currently engaged in several legal matters.  See "Legal Proceedings" in
+Part  II.
+
+
+Item  3.          Quantitative  and  Qualitative  Disclosures  about Market Risk
+
+INTEREST  RATE  RISK
+
+Our  exposure  to  interest  rate  risk  relates  primarily  to  our  investment
+portfolio.  Our primary aim with our investment portfolio is to invest available
+cash  while  preserving  principal  and  meeting liquidity needs.  The portfolio
+includes  tax-advantaged  municipal bonds, tax-advantaged auction rate preferred
+municipal  bonds, commercial paper, and U.S. Treasury securities.  In accordance
+with  our  investment  policy,  we  place  investments  with high credit quality
+issuers  and  limit  the  amount  of  credit  exposure to any one issuer.  These
+securities  are  subject  to  interest  rate  risk and will decrease in value if
+market  interest  rates increase.  A hypothetical 10% increase in interest rates
+would not materially affect the fair value of our available-for-sale securities.
+
+FOREIGN  CURRENCY  RISK
+
+We  use  forward  currency  exchange contracts to reduce financial market risks.
+Our  sales  to  Japanese customers are denominated in yen while our purchases of
+processed  silicon  wafers  from Japanese foundries are primarily denominated in
+U.S.  dollars.  Gains  and losses on foreign currency forward contracts that are
+designated and effective as hedges of anticipated transactions, for which a firm
+commitment  has  been  attained,  are  deferred and included in the basis of the
+transaction  in  the  same  period that the underlying transactions are settled.
+Gains  and  losses  on  any  instruments not meeting the above criteria would be
+recognized  in  income  in  the  current  period.  A  15%  adverse change in yen
+exchange  rates  based  on  historical  average rate fluctuations would have had
+approximately  a  1.0%  adverse  impact on revenue for the first three months in
+fiscal years 2001 and 2000.  We are also sharing the yen exchange rate risk with
+some  of  our  Japanese  customers  through risk sharing agreements.  As we will
+continue  to  have  a  net  yen exposure in the near future, we will continue to
+mitigate  the  exposure  through  yen  hedging  contracts.  However, no currency
+forward  contracts  were  outstanding  as  of  July  1,  2000.
+
+Our  investments  in several subsidiaries and in the UMC securities are recorded
+in currencies other than the U.S. dollar.  As these foreign currency denominated
+investments  are translated at each month end during consolidation, fluctuations
+of  exchange  rates between the foreign currency and the U.S. dollar increase or
+decrease the value of those investments.  If permanent changes occur in exchange
+rates  after  an  investment  is  made,  the investment's value will increase or
+decrease  accordingly.  These  fluctuations  are  recorded  within stockholders'
+equity  as  a component of accumulated other comprehensive income.  Also, as our
+subsidiaries  maintain  investments  denominated in other than local currencies,
+exchange  rate  fluctuations  will  occur.
+
+
+PART  II.  OTHER  INFORMATION
+
+Item  1.     Legal  Proceedings
+
+On June 7, 1993, we filed suit against Altera Corporation (Altera) in the United
+States  District  Court for the Northern District of California for infringement
+of  certain  of  our  patents.  Subsequently,  Altera filed suit against Xilinx,
+alleging that certain of our products infringe certain Altera patents.  Fact and
+expert  discovery  have  been  completed  in  both  cases,  which  have  been
+consolidated.  Both  Altera  and Xilinx filed motions with the Court for summary
+judgement  with respect to certain of the issues pending in the litigation.   In
+October  1999,  the  Court  ruled  on all but one of the motions. As a result of
+those  rulings,  Altera is left with one claim against Xilinx, which remains the
+subject  of  a  Company  motion for summary judgment. A ruling on this motion is
+pending. The Court's rulings also dismissed certain claims by us, leaving intact
+claims of infringement by Altera under two Company patents. The remaining claims
+against Altera will be decided at a trial scheduled to begin on October 5, 2000.
+If  the remaining claim against Xilinx survives the motion for summary judgment,
+it  will  be  decided  at  a  trial,  which  is  unscheduled  at  this  point.
+
+On April 20, 1995, Altera filed an additional suit against Xilinx in the Federal
+District  Court in Delaware, alleging that our XC5200 family infringes an Altera
+patent.  We  answered the Delaware suit denying that the XC5200 family infringes
+the  patent  in suit, asserting certain affirmative defenses and counterclaiming
+that  the Altera Max 9000 family infringes certain of our patents.  The Delaware
+suit  was  transferred  to  the  United  States  District Court for the Northern
+District  of  California.
+
+On  July  22, 1998, Altera and Joseph Ward, a former Xilinx employee, filed suit
+against  Xilinx in Superior Court in Santa Clara County, California, arising out
+of  our  efforts  to  prevent  disclosure  of  certain  Company  confidential
+information.  Altera's  suit  requests  declaratory  relief  and  claims  Xilinx
+engages  in  unfair  business  practices  and  interference  with  contractual
+relations.  On  September 10, 1998 we filed cross claims against Altera and Ward
+for  unfair  competition  and  breach  of  contract,  among other claims, in the
+California  action.  On  October  20,  1998,  Altera  and Ward filed crossclaims
+against  Xilinx  for  malicious  prosecution  of civil action and defamation. On
+September 15, 1999, the Court dismissed all of our claims against Altera and Mr.
+Ward, finding that we were unable to show any damages we suffered as a result of
+any  actions  by  Mr.  Ward.  Claims  against  Xilinx  are  still  pending.
+
+On  May  31, 2000, Altera filed an additional suit against Xilinx in the Federal
+District  Court  for  the Northern District of California, alleging that certain
+Xilinx  products,  including  our  Virtex  FPGAs, infringe three Altera patents.
+Altera's  suit  requests  unspecified monetary damages as well as issuance of an
+injunction  to  prevent Xilinx from selling allegedly infringing parts.   Xilinx
+has answered the complaint, denied the allegations, and has filed a counterclaim
+alleging  that Altera is infringing additional Company patents.  Altera's motion
+for  expedited  discovery  was  denied  by  the  Court.
+
+The  ultimate  outcome  of  these  matters  cannot  be  determined at this time.
+Management  believes  that  it  has  meritorious  defenses to such claims and is
+defending them vigorously.  The foregoing is a forward-looking statement subject
+to risks and uncertainties, and the future outcome of these matters could differ
+materially  due to the uncertain nature of each legal proceeding and because the
+lawsuits  are  still  in  the  pre-trial  stages.
+
+There  are  no  other pending legal proceedings of a material nature to which we
+are a party or of which any of our property is the subject.  We know of no legal
+proceedings  contemplated  by  any  governmental  authority  or  agency.
+
+
+Item  6.     Exhibits  and  Reports  on  Form  8-K
+
+ (a)    Exhibits                   None
+
+ (b)    Reports  on  Form  8-K     None
+
+
+Items  2,  3,  4  and  5  are  not  applicable  and  have  been  omitted.
+
+
+
+
+                                   SIGNATURES
+
+
+
+
+
+Pursuant  to  the  requirements  of  the  Securities  Exchange  Act of 1934, the
+Registrant  has  duly  caused  this  report  to  be  signed on its behalf by the
+undersigned  thereunto  duly  authorized.
+
+
+                                         XILINX,  INC.
+                                         -------------
+
+
+
+
+
+Date   August 10, 2000                   /s/  Kris  Chellam
+- ----------------------                   -------------------------
+                                         Kris  Chellam
+                                         Senior Vice President of Finance and
+                                         Chief  Financial  Officer
+                                         (as principal accounting and financial
+                                         officer and on behalf of Registrant)
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>0002.txt
+<TEXT>
+
+<TABLE> <S> <C>
+
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary information extracted from Xilinx, Inc.'s
+CONSOLIDATED STATEMENTS OF INCOME AND CONSOLIDATED BALANCE SHEETS and is
+qualified in its entirety by reference to such financial statements.
+</LEGEND>
+<MULTIPLIER> 1000
+
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          MAR-31-2001
+<PERIOD-START>                             APR-02-2000
+<PERIOD-END>                               JUL-01-2000
+<CASH>                                         149,341
+<SECURITIES>                                   538,560
+<RECEIVABLES>                                  218,309
+<ALLOWANCES>                                    13,047
+<INVENTORY>                                    160,187
+<CURRENT-ASSETS>                             1,200,301
+<PP&E>                                         358,020
+<DEPRECIATION>                                 105,681
+<TOTAL-ASSETS>                               2,378,261
+<CURRENT-LIABILITIES>                          316,102
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         3,267
+<OTHER-SE>                                   1,793,952
+<TOTAL-LIABILITY-AND-EQUITY>                 2,378,261
+<SALES>                                        364,875
+<TOTAL-REVENUES>                               364,875
+<CGS>                                          136,929
+<TOTAL-COSTS>                                  136,929
+<OTHER-EXPENSES>                               106,592
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                130,314
+<INCOME-TAX>                                    36,488
+<INCOME-CONTINUING>                             93,826
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    93,826
+<EPS-BASIC>                                       0.29
+<EPS-DILUTED>                                     0.27
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

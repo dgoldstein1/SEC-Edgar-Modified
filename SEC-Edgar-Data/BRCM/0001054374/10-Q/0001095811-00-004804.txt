@@ -1,0 +1,3054 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VnaMvJ3OBRPE3/g6Ixhpq+TYik7HGpaXz5Ns2R8F63iwHC0Di2+g1rSY+ha9Qnb0
+ kZbQsUdQuWqG1rCOAyGwQw==
+
+<SEC-DOCUMENT>/in/edgar/work/0001095811-00-004804/0001095811-00-004804.txt : 20001116
+<SEC-HEADER>0001095811-00-004804.hdr.sgml : 20001116
+ACCESSION NUMBER:		0001095811-00-004804
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BROADCOM CORP
+		CENTRAL INDEX KEY:			0001054374
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3674
+]		IRS NUMBER:				330480482
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-23993
+			FILM NUMBER:		769153
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		16215 ALTON PARKWAY
+				CITY:			IRVINE
+				STATE:			CA
+				ZIP:			92618
+				BUSINESS PHONE:		9494508700
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		16215 ALTON PARKWAY
+					CITY:			IRVINE
+					STATE:			CA
+					ZIP:			92618
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a67259e10-q.txt
+<DESCRIPTION>FORM 10-Q FOR QUARTERLY PERIOD ENDED SEPT.30, 2000
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                          -----------------------------
+
+                                    FORM 10-Q
+
+
+[X] QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+    For the quarterly period ended    SEPTEMBER 30, 2000
+                                    -----------------------
+
+    OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934
+
+    For the transition period from _________________  to  ____________________.
+
+
+    Commission file number:  000-23993
+
+
+                              BROADCOM CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+          CALIFORNIA                                             33-0480482
+(State or other jurisdiction of                               (I.R.S. Employer
+incorporation or organization)                               Identification No.)
+
+
+                               16215 ALTON PARKWAY
+                          IRVINE, CALIFORNIA 92618-3616
+              (Address of principal executive offices and zip code)
+
+                                 (949) 450-8700
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(D) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes  X   No
+                                       ---     ---
+
+The number of shares of the registrant's common stock, $0.0001 par value,
+outstanding as of October 31, 2000: 152,861,711 shares of Class A common stock
+and 82,341,239 shares of Class B common stock.
+
+<PAGE>   2
+
+                              BROADCOM CORPORATION
+
+                               QUARTERLY REPORT ON
+                                    FORM 10-Q
+                                NINE MONTHS ENDED
+                               SEPTEMBER 30, 2000
+
+                                      INDEX
+
+                                                                            Page
+                                                                            ----
+PART I.  FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+         Condensed Consolidated Balance Sheets at
+         September 30, 2000 (Unaudited) and December 31, 1999                 1
+
+         Unaudited Condensed Consolidated Statements of Operations for
+         the Three and Nine Months Ended September 30, 2000 and 1999          2
+
+         Unaudited Condensed Consolidated Statements of Cash Flows
+         for the Nine Months Ended September 30, 2000 and 1999                3
+
+         Notes to Unaudited Condensed Consolidated Financial Statements       4
+
+Item 2.  Management's Discussion and Analysis of Financial
+         Condition and Results of Operations                                 12
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk          38
+
+PART II. OTHER INFORMATION
+
+Item 1.  Legal Proceedings                                                   39
+
+Item 2.  Change in Securities and Use of Proceeds                            40
+
+Item 3.  Defaults Upon Senior Securities                                     42
+
+Item 4.  Submission of Matters to a Vote of Security Holders                 42
+
+Item 5.  Other Information                                                   42
+
+Item 6.  Exhibits and Reports on Form 8-K                                    42
+
+Signatures                                                                   43
+
+<PAGE>   3
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                              BROADCOM CORPORATION
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                           September 30,      December 31,
+                                                               2000              1999(1)
+                                                           (Unaudited)
+                                                          -------------       ------------
+<S>                                                        <C>                 <C>
+ASSETS
+Current assets:
+    Cash and cash equivalents                              $   377,813         $ 180,816
+    Short-term investments                                     104,570            90,059
+    Accounts receivable, net                                   152,484            92,124
+    Inventory                                                   44,471            19,177
+    Deferred taxes                                               8,980             8,380
+    Other current assets                                        25,807            12,950
+                                                           -----------         ---------
+         Total current assets                                  714,125           403,506
+Property and equipment, net                                     85,961            51,151
+Long-term investments                                               --             9,351
+Deferred taxes                                                 293,766           137,779
+Goodwill and other intangible assets, net                    1,354,419                --
+Other assets                                                    24,963             7,966
+                                                           -----------         ---------
+         Total assets                                      $ 2,473,234         $ 609,753
+                                                           ===========         =========
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+    Trade accounts payable                                 $    92,818         $  46,458
+    Wages and related benefits                                  14,279            15,430
+    Income taxes payable                                        29,068             6,179
+    Accrued liabilities                                         25,058            19,952
+    Current portion of long-term debt                            1,152             1,787
+                                                           -----------         ---------
+         Total current liabilities                             162,375            89,806
+Long-term debt, less current portion                               702             3,075
+Shareholders' equity:
+    Common stock                                             2,629,682           451,294
+    Notes receivable from employees                            (13,561)           (1,821)
+    Deferred compensation                                     (461,157)          (12,632)
+    Retained earnings                                          155,193            80,031
+                                                           -----------         ---------
+         Total shareholders' equity                          2,310,157           516,872
+                                                           -----------         ---------
+         Total liabilities and shareholders' equity        $ 2,473,234         $ 609,753
+                                                           ===========         =========
+</TABLE>
+
+- ---------------
+(1)  The consolidated balance sheet as of December 31, 1999 has been restated to
+     give retroactive effect to subsequent acquisitions accounted for using the
+     pooling-of-interests method.
+
+                             See accompanying notes.
+
+
+                                       1
+<PAGE>   4
+
+                              BROADCOM CORPORATION
+
+            UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                   Three Months Ended           Nine Months Ended
+                                                      September 30,               September 30,
+                                                ------------------------      ----------------------
+                                                   2000          1999(1)        2000         1999(1)
+                                                ---------       --------      --------      --------
+<S>                                             <C>             <C>           <C>           <C>
+Revenue                                         $ 319,155       $139,561      $755,923      $359,227
+Cost of revenue (2)                               135,908         56,308       317,430       145,316
+                                                ---------       --------      --------      --------
+Gross profit                                      183,247         83,253       438,493       213,911
+Operating expense:
+    Research and development (2)                   67,945         30,635       163,350        84,295
+    Selling, general and administrative (2)        30,148         14,869        72,097        43,211
+    Stock-based compensation                       27,615            959        30,655         2,816
+    Amortization of goodwill and
+        purchased intangible assets                24,936             --        24,936            --
+    In-process research and development            45,660             --        45,660            --
+    Merger-related costs                               --          4,088         4,745        15,210
+Litigation settlement costs                            --             --            --        17,036
+                                                ---------       --------      --------      --------
+Income (loss) from operations                     (13,057)        32,702        97,050        51,343
+Interest and other income, net                      4,934          2,156        12,984         5,869
+                                                ---------       --------      --------      --------
+Income (loss) before income taxes                  (8,123)        34,858       110,034        57,212
+Provision for income taxes                         11,241         10,264        34,872        17,730
+                                                ---------       --------      --------      --------
+Net income (loss)                               $ (19,364)      $ 24,594      $ 75,162      $ 39,482
+                                                =========       ========      ========      ========
+Basic earnings (loss) per share                 $    (.09)      $    .12      $    .35      $    .20
+                                                =========       ========      ========      ========
+Diluted earnings (loss) per share               $    (.09)      $    .10      $    .29      $    .17
+                                                =========       ========      ========      ========
+Weighted average shares (basic)                   220,510        203,756       215,444       199,660
+                                                =========       ========      ========      ========
+Weighted average shares (diluted)                 220,510        238,333       257,111       232,469
+                                                =========       ========      ========      ========
+
+(2) Excludes stock-based compensation as follows:
+
+Cost of revenue                                 $     615       $     37      $    690      $    112
+Research and development                           20,636            659        22,789         1,879
+Selling, general and administrative                 6,364            263         7,176           825
+                                                ---------       --------      --------      --------
+Total                                           $  27,615       $    959      $ 30,655      $  2,816
+                                                =========       ========      ========      ========
+</TABLE>
+
+- --------------
+(1)  The consolidated statements of operations for the three and nine months
+     ended September 30, 1999 have been restated to give retroactive effect to
+     subsequent acquisitions accounted for using the pooling-of-interests
+     method.
+
+                             See accompanying notes.
+
+                                       2
+
+<PAGE>   5
+
+                              BROADCOM CORPORATION
+
+            UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                                  Nine Months Ended
+                                                                    September 30,
+                                                              -------------------------
+                                                                 2000          1999(1)
+                                                              ---------       ---------
+<S>                                                           <C>             <C>
+OPERATING ACTIVITIES
+Net income                                                    $  75,162       $  39,482
+Adjustments to reconcile net income to net cash
+   provided by (used in) operating activities:
+      Depreciation and amortization                              15,752          11,710
+      Amortization of stock-based compensation                   31,289           3,820
+      Amortization of goodwill and purchased intangibles         24,936              --
+      Purchased in-process research and development              45,660              --
+      Tax benefit from exercise of stock options and
+         stock purchase plan                                     77,544          23,848
+      Deferred taxes                                            (69,492)        (10,160)
+      Change in operating assets and liabilities:
+         Accounts receivable                                    (59,520)        (22,087)
+         Inventory                                              (23,072)         (4,932)
+         Other assets                                           (37,243)         (8,567)
+         Accounts payable                                        40,162          33,525
+         Income taxes                                            22,149           6,265
+         Other accrued liabilities                               (1,922)         20,911
+                                                              ---------       ---------
+Net cash provided by operating activities                       141,405          93,815
+
+INVESTING ACTIVITIES
+Purchases of property and equipment                             (47,085)        (22,496)
+Net cash received from purchase acquisitions                     10,658              --
+Purchases of held-to-maturity investments                       (13,668)        (23,020)
+Proceeds from sale of held-to-maturity investments                8,508           1,770
+                                                              ---------       ---------
+Net cash used in investing activities                           (41,587)        (43,746)
+
+FINANCING ACTIVITIES
+Proceeds from long-term obligations                                 250             458
+Payments on long-term obligations                                (1,592)         (7,254)
+Payments on capital lease obligations                            (3,034)           (430)
+Net proceeds from issuance of common stock                      100,726          40,813
+Proceeds from repayment of notes receivable
+    from employees                                                  829             918
+                                                              ---------       ---------
+Net cash provided by financing activities                        97,179          34,505
+                                                              ---------       ---------
+Increase in cash and cash equivalents                           196,997          84,574
+Cash and cash equivalents at beginning of period                180,816          77,555
+                                                              ---------       ---------
+Cash and cash equivalents at end of period                    $ 377,813       $ 162,129
+                                                              =========       =========
+Supplemental disclosure of non-cash activities:
+      Notes receivable from employees in connection
+         with exercise of stock options                       $      --       $     394
+                                                              =========       =========
+      Purchase of equipment through capital leases            $     168       $   1,792
+                                                              =========       =========
+</TABLE>
+
+- ---------
+(1)  The consolidated statement of cash flows for the nine months ended
+     September 30, 1999 has been restated to give retroactive effect to
+     subsequent acquisitions accounted for using the pooling-of-interests
+     method.
+
+                             See accompanying notes.
+
+                                       3
+
+<PAGE>   6
+
+                              BROADCOM CORPORATION
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                               SEPTEMBER 30, 2000
+
+1.       Basis of Presentation
+
+         The condensed consolidated financial statements included herein are
+unaudited; however, they contain all normal recurring accruals and adjustments
+which, in the opinion of management, are necessary to present fairly the
+consolidated financial position of Broadcom Corporation and its subsidiaries
+(collectively, the "Company") at September 30, 2000 and the consolidated results
+of the Company's operations and cash flows for the three and nine months ended
+September 30, 2000 and 1999. These condensed consolidated financial statements
+have been restated to include the pooled operations of each of the Company's
+prior acquisitions. All intercompany accounts and transactions have been
+eliminated. It should be understood that accounting measurements at interim
+dates inherently involve greater reliance on estimates than at yearend. The
+results of operations for the three and nine months ended September 30, 2000 are
+not necessarily indicative of the results to be expected for the full year.
+
+         The accompanying unaudited condensed consolidated financial statements
+do not include footnotes and certain financial presentations normally required
+under generally accepted accounting principles. Therefore, these financial
+statements should be read in conjunction with the Company's audited consolidated
+financial statements and notes thereto for the year ended December 31, 1999,
+included in the Company's Current Report on Form 8-K/A filed with the Securities
+and Exchange Commission ("SEC") on July 10, 2000.
+
+Recent Accounting Pronouncements
+
+         In June 1998, the Financial Accounting Standards Board issued Statement
+of Financial Accounting Standards No. 133, "Accounting for Derivative
+Instruments and Hedging Activities" ("Statement 133"). Statement 133, as
+amended, establishes accounting and reporting standards for derivative
+instruments and hedging activities. It requires an entity to recognize all
+derivatives as either assets or liabilities on the balance sheet and measure
+those instruments at fair value. The Company is required to and will adopt
+Statement 133 in the fourth quarter of fiscal 2000. Management does not expect
+the initial adoption of Statement 133 will have a significant effect on the
+Company's consolidated results of operations or financial position.
+
+         In December 1999 the SEC issued Staff Accounting Bulletin No. 101,
+Revenue Recognition in Financial Statements ("SAB 101"). SAB 101 summarizes
+certain areas of the Staff's views in applying generally accepted accounting
+principles to revenue recognition in financial statements. The Company believes
+that its current revenue recognition policies comply with SAB 101.
+
+         In March 2000 the Financial Accounting Standards Board issued
+Interpretation No. 44, Accounting for Certain Transactions Involving Stock
+Compensation - an interpretation of APB Opinion No. 25 ("FIN 44"). FIN 44
+clarifies the definition of an employee for purposes of applying Accounting
+Principles Board Opinion No. 25, Accounting for Stock Issued to Employees ("APB
+25"), the criteria for determining whether a plan qualifies as a
+
+
+                                       4
+
+
+<PAGE>   7
+
+noncompensatory plan, the accounting consequence of various modifications to the
+terms of a previously fixed stock option or award, and the accounting for an
+exchange of stock compensation awards in a business combination. FIN 44 was
+effective July 1, 2000 but certain conclusions in this Interpretation cover
+specific events that occur after either December 15, 1998 or January 12, 2000.
+The provisions of FIN 44 change the accounting for an exchange of unvested
+employee stock options and restricted stock awards in a purchase business
+combination. The new rules require the intrinsic value of the unvested awards be
+allocated to deferred compensation and recognized as non-cash compensation
+expense over the remaining future vesting period. The Company adopted these new
+rules in its third fiscal quarter (beginning July 1, 2000) for acquisitions
+accounted for as purchase business combinations.
+
+2.       Business Combinations
+
+Purchase Transactions
+
+        In July 2000 the Company completed the acquisition of Innovent Systems,
+Inc. ("Innovent"), a developer of radio frequency integrated circuits for
+wireless data communications. In connection with the acquisition, the Company
+issued an aggregate of 2,339,149 shares of its Class A common stock in exchange
+for all outstanding shares of Innovent preferred and common stock and reserved
+605,961 additional shares of its Class A common stock for issuance upon exercise
+of outstanding employee stock options and other rights of Innovent. The share
+issuances were exempt from registration pursuant to section 3(a)(10) of the
+Securities Act of 1933, as amended. Portions of the shares issued will be held
+in escrow pursuant to the terms of the acquisition agreement as well as various
+employee share repurchase agreements.
+
+        In August 2000 the Company completed the acquisition of Puyallup
+Integrated Circuit Company, Inc., ("Puyallup"), a provider of integrated circuit
+design services including full chip designs and embedded macro blocks for
+microprocessors, system-on-a-chip and ASIC designs. In connection with the
+acquisition, the Company issued an aggregate of 148,539 shares of its Class A
+common stock in exchange for all outstanding shares of Puyallup common stock and
+reserved 139,993 additional shares of its Class A common stock for issuance upon
+exercise of outstanding employee stock options and other rights of Puyallup. The
+share issuances were exempt from registration pursuant to section 3(a)(10) of
+the Securities Act of 1933, as amended. Portions of the shares issued will be
+held in escrow pursuant to the terms of the acquisition agreement as well as
+various employee share repurchase agreements.
+
+        In September 2000 the Company completed the acquisition of Altima
+Communications, Inc. ("Altima"), a supplier of networking integrated circuits
+for the small-to-medium sized business networking market. In connection with the
+acquisition, the Company issued an aggregate of 1,661,784 shares of its Class A
+common stock in exchange for all outstanding shares of Altima preferred and
+common stock and reserved 875,111 additional shares of its Class A common stock
+for issuance upon exercise of outstanding employee stock options and other
+rights of Altima. The share issuances were exempt from registration pursuant to
+section 3(a)(10) of the Securities Act of 1933, as amended. Portions of the
+shares issued will be held in escrow pursuant to the terms of the acquisition
+agreement as well as various employee share repurchase agreements. In addition
+to the purchase consideration, the Company has reserved 2,889,667 additional
+shares of its Class A common stock for future issuance to customers upon
+exercise of outstanding performance-based warrants of Altima that become
+exercisable upon satisfaction of certain customer purchase requirements.
+
+         These acquisitions have been accounted for under the purchase method of
+accounting. The Company is in the process of obtaining an independent appraisal
+of the fair value of the tangible and intangible assets acquired in order to
+allocate the purchase price in accordance with Accounting Principles Board
+Opinion No. 16. The Company does not expect that the final allocation of
+purchase price will produce materially different results from those reflected
+herein. The preliminary purchase price was allocated as follows based upon
+management's best estimate of the tangible and intangible assets and in-process
+research and development:
+
+
+                                       5
+<PAGE>   8
+
+<TABLE>
+<CAPTION>
+                                           Innovent          Altima      Puyallup         Total
+                                           --------       ----------   ------------     ----------
+                                                                     (in thousands)
+<S>                                        <C>            <C>               <C>         <C>
+Net tangible assets (liabilities)          $  6,875       $      930        $  (621)    $    7,184
+Acquisition costs                               423            1,025            160          1,608
+In-process research & development            41,690            3,970             --         45,660
+Goodwill and other intangibles              265,647        1,075,726         37,982      1,379,355
+Deferred tax liabilities                    (71,354)         (21,267)        (8,767)      (101,388)
+Deferred compensation                       281,982          159,490         35,934        477,406
+                                           --------       ----------        -------     ----------
+Total consideration                        $525,263       $1,219,874        $64,688     $1,809,825
+                                           ========       ==========        =======     ==========
+</TABLE>
+
+         The total consideration for the three purchase transactions consists in
+aggregate of approximately 8,660,204 shares of common stock, including (a)
+approximately 3,064,471 shares of common stock valued at $575.3 million based
+upon the Company's stock price for a short period just before and after the
+companies reached agreement and the proposed transactions were announced, (b)
+approximately 2,889,667 shares for performance-based warrants issued to
+customers valued at $689.4 million based upon the Company's stock price on the
+day the acquisitions closed, and (c) approximately 2,706,066 shares of
+restricted common stock and employee stock options valued at $545.1 million in
+accordance with FIN 44.
+
+         In-process research and development ("IPR&D") totaled in aggregate
+$45.7 million. The amounts allocated to IPR&D were determined through
+established valuation techniques in the high-technology industry and were
+expensed upon acquisition as it was determined that the projects had not reached
+technological feasibility and no alternative future uses existed.
+
+         The fair value of the IPR&D for each of the acquisitions was determined
+using the income approach. Under the income approach, the expected future cash
+flows from each project under development are estimated and discounted to their
+net present value at an appropriate risk-adjusted rate of return. Significant
+factors considered in the calculation of the rate of return are the
+weighted-average cost of capital and return on assets, as well as the risks
+inherent in the development process, including the likelihood of achieving
+technological success and market acceptance. Each project was analyzed to
+determine the unique technological innovations, the existence and reliance upon
+core technology, the existence of any alternative future use or current
+technological feasibility, and the complexity, cost and time to complete the
+remaining development. Future cash flows for each project were estimated based
+upon forecasted revenues and costs, taking into account product life cycles, and
+market penetration and growth rates.
+
+         The IPR&D charge includes only the fair value of IPR&D completed. The
+fair value of developed technology is included in identifiable intangible
+assets, and the fair values of IPR&D to-be-completed and future research and
+development are included in goodwill. The Company believes the amounts recorded
+as IPR&D, as well as developed technology, represent fair value and approximate
+the amounts an independent party would pay for these projects.
+
+         As of the acquisition dates of Innovent, Puyallup and Altima,
+development projects were in process. Research and development costs to bring
+the products from the acquired companies to technological feasibility are not
+expected to have a material impact on the Company's future results of operations
+or financial condition.
+
+
+                                       6
+
+
+<PAGE>   9
+
+         Goodwill, which represents the excess of the purchase price of an
+investment in an acquired business over the fair value of the underlying net
+identifiable assets, is being amortized on a straight-line basis over its
+estimated remaining useful life of five years. Reviews are regularly performed
+to determine whether the carrying value of the asset is impaired. Impairment is
+based on the excess of the carrying amount over the fair value of those assets.
+No impairment has been indicated to date.
+
+         Deferred stock-based compensation, which is included in the purchase
+price of the acquisitions, has been valued in accordance with FIN 44. This
+amount is being amortized over the remaining vesting period (generally three to
+four years) of the underlying restricted common stock and stock options assumed.
+
+         The results of operations of the three acquired companies are included
+in the consolidated financial statements from their respective dates of
+acquisition.
+
+         The pro forma statements of operations data below gives effect to the
+three acquisitions as if they had occurred at the beginning of fiscal 1999.
+The following unaudited pro forma statements of operations data includes
+amortization of goodwill, identified intangibles and stock-based compensation
+but excludes the charge for acquired IPR&D. This pro forma data is presented for
+informational purposes only and does not purport to be indicative of the results
+of future operations nor of the results that would have occurred had the
+acquisitions taken place at the beginning of fiscal 1999.
+
+                                            Nine Months Ended
+                                              September 30,
+                                      -----------------------------
+                                          2000              1999
+                                      ------------      -----------
+                                   (In thousands, except per share data)
+
+         Net revenue                   $ 775,750         $ 362,345
+         Net loss                      $(149,593)        $(275,462)
+         Net loss per share            $    (.68)        $   (1.36)
+
+
+                                       7
+
+<PAGE>   10
+
+3.       Earnings (Loss) Per Share
+
+         The following table sets forth the computation of earnings (loss) per
+share:
+
+<TABLE>
+<CAPTION>
+                                           Three Months Ended               Nine Months Ended
+                                              September 30,                   September 30,
+                                        -------------------------       -------------------------
+                                           2000           1999            2000             1999
+                                        ---------       ---------       ---------       ---------
+                                                 (In thousands, except per share data)
+<S>                                     <C>             <C>             <C>             <C>
+
+Numerator: Net income (loss)            $ (19,364)      $  24,594       $  75,162       $  39,482
+                                        =========       =========       =========       =========
+Denominator:
+    Weighted-average shares
+      outstanding                         223,078         209,449         218,470         206,204
+    Less: nonvested common shares
+      outstanding                          (2,568)         (5,693)         (3,026)         (6,544)
+                                        ---------       ---------       ---------       ---------
+Denominator for basic earnings per
+  common share                            220,510         203,756         215,444         199,660
+Effect of dilutive securities:
+    Nonvested common shares                    --           5,000           3,007           4,905
+    Stock options                              --          29,577          38,660          27,893
+    Warrants                                   --              --              --              11
+                                        ---------       ---------       ---------       ---------
+Denominator for diluted earnings
+  per common share                        220,510         238,333         257,111         232,469
+                                        =========       =========       =========       =========
+Basic earnings (loss) per share         $    (.09)      $     .12       $     .35       $     .20
+                                        =========       =========       =========       =========
+Diluted earnings (loss) per share       $    (.09)      $     .10       $     .29       $     .17
+                                        =========       =========       =========       =========
+</TABLE>
+
+4.       Inventory
+
+         Inventory is stated at the lower of cost (first-in, first-out) or
+market, and consists of the following:
+
+                                      September 30,    December 31,
+                                          2000             1999
+                                      ------------      ----------
+                                             (In thousands)
+
+         Work in process                $24,312          $11,878
+         Finished goods                  20,159            7,299
+                                        -------          -------
+                                        $44,471          $19,177
+                                        =======          =======
+
+5.       Long-Term Debt
+
+         The following is a summary of the Company's long-term debt and other
+loans, including debt and loans assumed in connection with acquisitions:
+
+<TABLE>
+<CAPTION>
+                                                          September 30,   December 31,
+                                                               2000           1999
+                                                          --------------  ------------
+                                                                  (In thousands)
+
+<S>                                                           <C>           <C>
+    Notes payable at rates from 3.0% to 8.58% secured
+      by certain of the Company's assets                      $    --       $   531
+    Line of credit at a 12.0% rate secured by certain of
+      the Company's assets                                         --           770
+    Capitalized lease obligations payable in varying
+      monthly installments at rates from 7.8% to 14.7%          1,854         3,561
+                                                              -------       -------
+                                                                1,854         4,862
+     Less current portion of long-term debt                    (1,152)       (1,787)
+                                                              -------       -------
+                                                              $   702       $ 3,075
+                                                              =======       =======
+</TABLE>
+
+
+
+                                       8
+<PAGE>   11
+
+6.       Shareholders' Equity
+
+         On February 11, 2000 the Company effected a two-for-one stock split of
+its Class A common stock and Class B common stock in the form of a 100% stock
+dividend. All share numbers and per share amounts contained in these notes and
+in the accompanying consolidated financial statements have been retroactively
+restated to reflect this change in the Company's capital structure.
+
+7.      Litigation
+
+        In July 1997 the Company commenced an action against Sarnoff Corporation
+and Sarnoff Digital Communications, Inc., now known as NxtWave Communications,
+Inc. (collectively, "Sarnoff"), in the California Superior Court alleging breach
+of contract, fraud, misappropriation of trade secrets, false advertising, trade
+libel, intentional interference with prospective economic advantage and unfair
+competition. The claims center on Sarnoff's violation of a non-disclosure
+agreement entered into with the Company with respect to limited use of certain
+of the Company's technology and on inaccurate comparisons that the Company
+believes Sarnoff has made in its product advertising and in statements to
+potential customers and others. This action was removed to the United States
+District Court for the Central District of California, and was stayed pending
+resolution of an action Sarnoff had brought against the Company in April 1997 in
+New Jersey Superior Court. Following the decision in the New Jersey action in
+the Company's favor in early 1999, Sarnoff filed a motion for summary judgment
+in the California case on the basis that the issues therein had been or should
+have been previously litigated in the New Jersey action under the New Jersey
+"entire controversy" doctrine. Following oral argument in August 1999, the
+District Court granted Sarnoff's motion and dismissed the Company's claims on
+the grounds that they should have been brought as part of the New Jersey action.
+The Company believes that the California action involves facts, circumstances
+and claims unrelated to those at issue in the New Jersey action, and has filed
+an appeal of the District Court's ruling. Briefing of the appeal in the Ninth
+Circuit Court of Appeals is now complete and the parties await a date for oral
+argument in the case.
+
+        In March 2000 Intel Corporation ("Intel")and its subsidiary Level One
+Communications, Inc. ("Level One") filed a complaint in California Superior
+Court asserting claims against the Company for misappropriation of trade
+secrets, unfair competition, and tortious interference with existing contractual
+relations by the Company in connection with its recent hiring of three former
+Intel employees. The complaint sought injunctive relief, an accounting, damages,
+exemplary damages and attorneys' fees. Intel/Level One filed a first amended
+complaint on April 28, 2000 seeking additional relief and containing certain
+additional allegations, but asserting the same causes of action as the original
+complaint. On May 25, 2000 the Court concluded a preliminary injunction hearing
+in the matter. The Court denied Intel/Level One's request for injunctive relief
+restricting the positions in which the three employees could work for the
+Company, but issued an order granting certain other preliminary relief. The
+Company has denied any wrongdoing or liability and has instructed its attorneys
+to vigorously defend the action. On June 30, 2000 the Company filed a
+cross-complaint against Intel/Level One, and on September 18, 2000, amended that
+cross-complaint. The Company's amended cross-complaint includes causes of action
+against Intel/Level One for unfair competition, trade secret misappropriation,
+and tortious interference with contractual relations. On September 25, 2000 the
+Company filed a motion for preliminary injunction, which asks the Court to
+enjoin Intel/Level One from further unfair competition and seeks other relief,
+including enjoining the marketing, sampling, distribution, shipment or sale of
+certain products. The motion was heard on November 8, 2000, and a decision from
+the Court is pending. The litigation is currently in the discovery stage and is
+scheduled for trial in March 2001.
+
+        In August 2000 Intel filed a complaint in the United States District
+Court for the District of Delaware against the Company asserting that (i) the
+Company infringes five Intel patents relating to video compression, high-speed
+networking and semiconductor packaging, (ii) the Company induces the
+infringement of such patents, and (iii) the Company contributorily infringes
+such patents. The complaint sought a preliminary and permanent injunction
+against the Company as well as the recovery of monetary damages, including
+treble damages for willful infringement. Intel has not yet identified which
+products allegedly infringe its patents. The Company has not yet answered the
+complaint, but on October 10, 2000 the Company filed a motion to dismiss, or in
+the alternative, to transfer venue; this motion is currently pending before the
+court. The Company believes that it has strong defenses to Intel's claims. The
+parties are currently in the initial stages of discovery in the action. The
+Court has tentatively scheduled a hearing on patent claims construction to
+commence in September 2001 and a trial to begin in October 2001.
+
+        On October 6, 2000 the Company filed a complaint for declaratory
+judgment in the United States District Court for the Northern District of
+California against Intel asserting that the patents asserted by Intel in the
+Delaware action are not infringed.
+
+        Although the Company believes that it has strong defenses and is
+defending the Delaware action vigorously, a finding of infringement by the
+Company as to one or more of the patents in this action could lead to liability
+for monetary damages (which could be trebled in the event that the infringement
+were found to have been willful), the issuance of an injunction requiring that
+the Company withdraw various products from the market, and indemnification
+claims by the Company's customers or strategic partners, each of which events
+could have a material adverse effect on the Company's, business, results of
+operations and financial condition.
+
+        In September 1998 Motorola, Inc. ("Motorola") filed a complaint in the
+United States District Court for the District of Massachusetts against AltoCom,
+Inc. ("AltoCom")(and co-defendant, PC-Tel, Inc.) asserting that (i) AltoCom's
+V.34 and V.90 compliant software modem technology infringes several patents
+owned by Motorola, (ii) AltoCom induces its V.34 and V.90 licensees to infringe
+such patents, and (iii) AltoCom contributorily infringes such patents. The
+complaint sought a preliminary and permanent injunction against AltoCom as well
+as the recovery of monetary damages, including treble damages for willful
+infringement. In October 1998 Motorola affirmatively dismissed its case in the
+District of Massachusetts and filed a substantially similar complaint in the
+United States District Court for the District of Delaware. AltoCom has filed an
+answer and affirmative defenses to the District of Delaware complaint. AltoCom
+has also asserted a counterclaim requesting declaratory relief that AltoCom has
+not infringed the Motorola patents and that such patents are invalid and/or
+unenforceable as well as a counterclaim requesting declaratory and injunctive
+relief based on a breach of
+
+
+                                       9
+<PAGE>   12
+contract theory. AltoCom believes that it has strong defenses to Motorola's
+claims on invalidity, noninfringement and inequitable conduct grounds. In May
+2000 Motorola filed an amended complaint alleging that AltoCom's technology
+infringes an additional Motorola patent. The parties are currently engaged in
+discovery in the action. AltoCom became a subsidiary of the Company on August
+31, 1999. In September 1999 PC-Tel, Inc., the co-defendant in the case, reached
+a settlement with Motorola.
+
+        Although AltoCom believes that it has strong defenses and is defending
+the action vigorously, a finding of infringement by AltoCom as to at least one
+of the patents in this action could lead to liability for monetary damages
+(which could be trebled in the event that the infringement were found to have
+been willful), the issuance of an injunction requiring that AltoCom withdraw
+various products from the market, and indemnification claims by AltoCom's
+customers or strategic partners, each of which events could have a material
+adverse effect on AltoCom's, and possibly the Company's, business, results of
+operations and financial condition.
+
+        In December 1999 Level One filed a complaint in the United States
+District Court for the Eastern District of California against Altima
+Communications, Inc., asserting that Altima's AC108R repeater products infringe
+a U.S. patent owned by Level One. The complaint sought an injunction against
+Altima as well as the recovery of monetary damages, including treble damages for
+willful infringement. Altima filed an answer and affirmative defenses to the
+complaint in the Eastern District of California. In March 2000 Level One filed a
+related complaint in the U.S. International Trade Commission ("ITC"), seeking an
+exclusion order and cease and desist order based on alleged infringement of the
+same patent. Monetary damages are not available in the ITC. The ITC instituted
+an investigation in April 2000. Altima filed an answer and affirmative defenses
+to the complaint in the ITC. In July 2000 Intel and Level One filed a second
+complaint in the ITC, asserting that certain of Altima's repeater, switch, and
+transceiver products infringe three additional U.S. patents owned by Level One
+or Intel. The ITC instituted a second investigation in August 2000, and the
+Administrative Law Judge assigned to hear the cases issued an order in August
+2000 granting a motion to consolidate the two investigations. In September 2000,
+Altima filed declaratory judgment actions against Intel and Level One,
+respectively, in the United States District Court for the Northern District of
+California asserting that Altima has not infringed the three additional Intel
+and Level One patents and that such patents are invalid or unenforceable.
+Pursuant to statute, Altima is entitled to a stay of all proceedings in the
+three District Court actions while the ITC investigation is pending. The Level
+One action in the Eastern District of California has already been stayed and
+Altima has formally requested a stay of both of the Northern District of
+California actions.
+
+        Altima believes it has strong defenses to the claims of Level One and
+Intel on noninfringement, invalidity, and inequitable conduct grounds. The
+parties are currently engaged in discovery in the consolidated ITC action, and a
+hearing on the merits before the ITC Administrative Law Judge is scheduled to
+begin in April 2001. Altima became a subsidiary of the Company on September 7,
+2000.
+
+        Although Altima believes that it has strong defenses and is defending
+the action vigorously, a finding of infringement by Altima as to the patent in
+the Eastern District of California action could lead to liability for monetary
+damages (which could be trebled in the event that the infringement were found to
+have been willful) and the issuance of an injunction requiring that Altima
+withdraw various products from the market. A finding against Altima in the
+consolidated ITC action could result in the exclusion of certain Altima products
+from entering the United States. Any finding adverse to Altima in these actions
+could also result in indemnification claims by Altima's customers or strategic
+partners. Any of the foregoing events could have a material adverse effect on
+Altima's, and possibly the Company's, business, results of operations and
+financial condition.
+
+        The Company and its subsidiaries are also involved in other legal
+proceedings, claims and litigation arising in the ordinary course of business.
+
+        The pending lawsuits involve complex questions of fact and law and could
+require the expenditure of significant costs and diversion of resources to
+defend. Although management currently believes the outcome of outstanding legal
+proceedings, claims and litigation will not have a material adverse effect on
+the Company's business, results of operations or financial condition, the
+results of litigation are inherently uncertain, and an adverse outcome is at
+least reasonably possible. The Company is unable to estimate the range of
+possible loss from outstanding litigation, and no amounts have been provided for
+such matters in the accompanying consolidated financial statements.
+
+8.       Subsequent Events
+
+Completed Business Combinations
+
+         On October 3, 2000 the Company completed the acquisition of NewPort
+Communications, Inc. ("NewPort"), a supplier of mixed-signal integrated circuits
+for the high-speed communications infrastructure market. In connection with the
+acquisition, the Company issued an aggregate of 5,211,050 shares of its Class A
+common stock in exchange for all outstanding shares of NewPort preferred and
+common stock and reserved 411,088 additional shares of Class A common stock for
+issuance upon exercise of outstanding employee stock
+
+
+
+                                       10
+<PAGE>   13
+options and other rights of NewPort. The share issuances were exempt from
+registration pursuant to section 3(a)(10) of the Securities Act of 1933, as
+amended. Portions of the shares issued will be held in escrow pursuant to the
+terms of the acquisition agreement as well as various employee share repurchase
+agreements. In connection with the acquisition, the Company will record a
+one-time charge for purchased in-process research and development expenses
+related to the acquisition in its fourth fiscal quarter ending December 31,
+2000.
+
+         On October 6, 2000 the Company completed the acquisition of Silicon
+Spice Inc. ("Silicon Spice"), a developer of communications processors and other
+technology for high-density voice, fax and data packet transmission over wide
+area networks. In connection with the acquisition, the Company issued an
+aggregate of 3,864,161 shares of its Class A common stock in exchange for all
+outstanding shares of Silicon Spice preferred and common stock and reserved
+1,126,885 additional shares of Class A common stock for issuance upon exercise
+of outstanding employee stock options, warrants and other rights of Silicon
+Spice. The share issuances were exempt from registration pursuant to section
+3(a)(10) of the Securities Act of 1933, as amended. Portions of the shares
+issued will be held in escrow pursuant to the terms of the acquisition agreement
+as well as various employee share repurchase agreements. In connection with the
+acquisition, the Company will record a one-time charge for purchased in-process
+research and development expenses related to the acquisition in its fourth
+fiscal quarter ending December 31, 2000.
+
+Pending Business Combinations
+
+         On October 4, 2000 the Company announced that it had signed a
+definitive agreement to acquire Element 14, Inc. ("Element 14"), a developer of
+high-port density, low-power digital subscriber line chipsets, software and
+communications processor technology. In connection with the acquisition, the
+Company will issue in aggregate approximately 2,650,000 shares of its Class A
+common stock in exchange for all outstanding shares of Element 14 preferred and
+common stock and upon exercise of outstanding employee stock options, warrants
+and other rights of Element 14. The merger transaction is expected to close
+within 60 days and will be accounted for under the purchase method of
+accounting. The boards of directors of both companies have approved the merger,
+which awaits approval by Element 14's shareholders and the satisfaction of
+regulatory requirements and other customary closing conditions. The Company
+expects to record a one-time charge for purchased in-process research and
+development expenses related to the acquisition in its fourth fiscal quarter
+ending December 31, 2000.
+
+         On October 17, 2000 the Company announced that it had signed a
+definitive agreement to acquire Allayer Communications ("Allayer"), a developer
+of high-performance enterprise and optical networking communications chips. In
+connection with the acquisition, the Company will issue in aggregate about
+1,230,000 shares of its Class A common stock in exchange for all outstanding
+shares of Allayer's preferred and common stock and upon exercise of outstanding
+employee stock options and other rights of Allayer. If certain performance goals
+are satisfied, the Company will issue up to an additional 300,000 shares of its
+Class A common stock to the shareholders and option holders of Allayer. The
+merger transaction is expected to close within 60 days and will be accounted for
+under the purchase method of accounting. The boards of directors of both
+companies have approved the merger, which awaits approval by Allayer's
+shareholders and the satisfaction of regulatory requirements and other customary
+closing conditions. The Company expects to record a one-time charge for
+purchased in-process research and development expenses related to the
+acquisition in its fourth fiscal quarter ending December 31, 2000. In addition
+to the purchase consideration, the Company will reserve an aggregate of
+approximately 790,000 shares of its Class A common stock for future issuance to
+customers upon exercise of outstanding performance-based warrants of Allayer
+that become exercisable upon satisfaction of certain customer purchase
+requirements.
+
+
+                                       11
+<PAGE>   14
+         On November 6, 2000 the Company announced that it had signed a
+definitive agreement to acquire SiByte, Inc. ("SiByte"), a developer of
+high-performance microprocessor solutions for broadband networking. In
+connection with the acquisition, the Company will issue in aggregate up to
+9,300,000 shares of its Class A common stock in exchange for all outstanding
+shares of SiByte's preferred and common stock and upon exercise of outstanding
+employee stock options and other rights of SiByte. About 5,600,000 of the
+Company's shares will be issuable at closing of the acquisition; approximately
+3,700,000 additional shares will be reserved for future issuance to the
+shareholders and option holders of SiByte upon satisfaction of certain
+performance goals. The merger transaction is expected to close within 60 days
+and will be accounted for under the purchase method of accounting. The boards of
+directors of both companies have approved the merger, which awaits approval by
+SiByte's shareholders and the satisfaction of regulatory requirements and other
+customary closing conditions. The Company expects to record a one-time charge
+for purchased in-process research and development expenses related to the
+acquisition in its fourth fiscal quarter ending December 31, 2000. In addition
+to the purchase consideration, the Company will reserve approximately 1,800,000
+million shares of its Class A common stock for future issuance to customers upon
+the exercise of outstanding performance-based warrants of SiByte that become
+exercisable upon satisfaction of certain customer purchase requirements.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS
+
+CAUTIONARY STATEMENT
+
+         You should read the following discussion and analysis in conjunction
+with the Consolidated Financial Statements and related Notes thereto contained
+elsewhere in this Report. The information contained in this Quarterly Report on
+Form 10-Q is not a complete description of our business or the risks associated
+with an investment in our common stock. We urge you to carefully review and
+consider the various disclosures made by us in this Report and in our other
+reports filed with the SEC, including our Annual Report on Form 10-K for the
+year ended December 31, 1999 and our subsequent reports on Forms 10-Q, 8-K and
+8-K/A, that discuss our business in greater detail.
+
+         The section entitled "Risk Factors" set forth below, and similar
+discussions in our other SEC filings, discuss some of the important risk factors
+that may affect our business, results of operations and financial condition. You
+should carefully consider those risks, in addition to the other information in
+this Report and in our other filings with the SEC, before deciding to invest in
+our company or to maintain or increase your investment.
+
+         This Report contains forward-looking statements which include, but are
+not limited to, statements concerning projected revenues, expenses, gross profit
+and income, the need for additional capital, Year 2000 compliance, market
+acceptance of our products, our ability to consummate acquisitions and integrate
+their operations successfully, the competitive nature of our markets, our
+ability to achieve further product integration, the status of evolving
+
+
+
+
+                                       12
+<PAGE>   15
+
+technologies and their growth potential, our production capacity, our ability to
+migrate to smaller process geometries, and the success of pending litigation.
+These forward-looking statements are based on our current expectations,
+estimates and projections about our industry, management's beliefs, and certain
+assumptions made by us. Words such as "anticipates," "expects," "intends,"
+"plans," "believes," "seeks," "estimates," "may," "will" and variations of these
+words or similar expressions are intended to identify forward-looking
+statements. In addition, any statements that refer to expectations, projections
+or other characterizations of future events or circumstances, including any
+underlying assumptions, are forward-looking statements. These statements are not
+guarantees of future performance and are subject to risks, uncertainties and
+assumptions that are difficult to predict. Therefore, our actual results could
+differ materially and adversely from those expressed in any forward-looking
+statements as a result of various factors. We undertake no obligation to revise
+or update publicly any forward-looking statements for any reason.
+
+         All share numbers and per share amounts in this Report have been
+retroactively adjusted to reflect our 2-for-1 stock splits, each in the form of
+a 100% stock dividend, effective February 17, 1999 and February 11, 2000,
+respectively.
+
+OVERVIEW
+
+         We are the leading provider of highly integrated silicon solutions that
+enable broadband digital transmission of voice, video and data. These integrated
+circuits permit the cost effective delivery of high-speed, high-bandwidth
+networking using existing communications infrastructures that were not
+originally designed for the transmission of broadband digital content. Using
+proprietary technologies and advanced design methodologies, we design, develop
+and supply integrated circuits for a number of the most significant broadband
+communications markets, including the markets for cable set-top boxes, cable
+modems, high-speed local, metropolitan and wide area networks, home networking,
+Voice over Internet Protocol ("VoIP"), carrier access, residential broadband
+gateways, direct broadcast satellite and terrestrial digital broadcast, optical
+networking, digital subscriber lines ("xDSL") and wireless communications. From
+our inception in 1991 through 1994, we were primarily engaged in product
+development and the establishment of strategic customer and foundry
+relationships. During that period, we generated the majority of our revenue from
+development work performed for key customers. We began shipping our products in
+1994, and subsequently our revenue has grown predominately through sales of our
+semiconductor products. We intend to continue to enter into development
+contracts with key customers, but expect that development revenue will
+constitute a decreasing percentage of our total revenue. We also generate a
+small percentage of our product revenue from sales of software and software
+support and sales of system-level reference designs.
+
+         We recognize product revenue at the time of shipment. Provision is
+concurrently made for estimated product returns, which historically have been
+immaterial. Our products typically carry a one-year warranty. We recognize
+development revenue when earned. Revenue from licensed software is recognized at
+the time of shipment, provided that we have vendor-specific objective evidence
+of the fair value of each element of the software offering. Revenue from
+post-contract customer support and any other future deliverables is deferred and
+earned over the support period or as contract elements are delivered.
+
+
+
+                                       13
+<PAGE>   16
+
+         From time to time, our key customers have placed large orders causing
+our quarterly revenue to fluctuate significantly. We expect these fluctuations
+will continue in the future. Sales to our five largest customers, including
+sales to their respective manufacturing subcontractors, decreased to
+approximately 63.9% of our revenue in the nine months ended September 30, 2000
+as compared to 71.8% in the nine months ended September 30, 1999. We expect that
+our key customers will continue to account for a significant portion of our
+revenue for 2000 and in the future.
+
+         Our gross margin has been affected in the past, and may continue to be
+affected in the future, by various factors, including, but not limited to, the
+following:
+
+         o  our product mix;
+
+         o  the position of our products in their respective life cycles;
+
+         o  competitive pricing strategies;
+
+         o  the mix of product revenue and development revenue; and
+
+         o  manufacturing cost efficiencies and inefficiencies.
+
+         For example, newly-introduced products generally have higher average
+selling prices and gross margins, both of which typically decline over product
+life cycles due to competitive pressures and volume pricing agreements. Our
+gross margin and operating results in the future may continue to fluctuate as a
+result of these and other factors.
+
+         The sales cycle for the test and evaluation of our products can range
+from three to six months or more, with an additional three to six months or more
+before a customer commences volume production of equipment incorporating our
+products. Due to these lengthy sales cycles, we may experience a significant
+delay between increasing expenses for research and development and selling,
+general and administrative efforts, and the generation of corresponding revenue,
+if any. Furthermore, during 2000 and thereafter, we intend to continue to
+increase our investment in research and development, selling, general and
+administrative functions and inventory as we expand our operations through
+indigenous growth and acquisitions. We anticipate that the rate of new orders
+may vary significantly from month to month. Consequently, if anticipated sales
+and shipments in any quarter do not occur when expected, expenses and inventory
+levels could be disproportionately high, and our operating results for that
+quarter, and potentially future quarters, would be materially and adversely
+affected.
+
+
+                                       14
+<PAGE>   17
+
+RESULTS OF OPERATIONS FOR THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 2000
+COMPARED TO THE THREE AND NINE MONTHS ENDED SEPTEMBER 30, 1999
+
+         The following table sets forth certain statement of operations data
+expressed as a percentage of revenue:
+
+<TABLE>
+<CAPTION>
+                                                   Three Months Ended       Nine Months Ended
+                                                     September 30,            September 30,
+                                                   -------------------      ------------------
+                                                   2000        1999(1)      2000       1999(1)
+                                                   -----       -------      -----      -------
+<S>                                                <C>          <C>         <C>         <C>
+
+    Revenue                                        100.0%       100.0%      100.0%      100.0%
+    Cost of revenue                                 42.6         40.3        42.0        40.5
+                                                   -----        -----       -----       -----
+    Gross profit                                    57.4         59.7        58.0        59.5
+    Operating expense:
+        Research and development                    21.3         22.0        21.7        23.5
+        Selling, general and administrative          9.4         10.7         9.5        12.0
+        Stock-based compensation                     8.7          0.7         4.1         0.8
+        Amortization of goodwill and
+        purchased intangible assets                  7.8           --         3.3          --
+        In-process research and development         14.3           --         6.0          --
+        Merger-related costs                          --          2.9         0.6         4.2
+        Litigation settlement costs                   --           --          --         4.7
+                                                   -----        -----       -----       -----
+    Income (loss) from operations                   (4.1)        23.4        12.8        14.3
+    Interest and other income, net                   1.5          1.6         1.8         1.6
+                                                   -----        -----       -----       -----
+    Income (loss) before income taxes               (2.6)        25.0        14.6        15.9
+    Provision for income taxes                       3.5          7.4         4.7         4.9
+                                                   -----        -----       -----       -----
+    Net income (loss)                               (6.1)%       17.6%        9.9%       11.0%
+                                                   =====        =====       =====       =====
+</TABLE>
+
+- -------------
+(1) Restated to give retroactive effect to acquisitions accounted for using the
+    pooling-of-interests method.
+
+         Business Combinations. During the three months ended September 30, 2000
+we completed the acquisitions of Innovent, Puyallup and Altima. These
+acquisitions were accounted for as purchase transactions. Accordingly, the
+accompanying financial statements include the results of operations of the
+acquired companies as of their respective acquisition dates. See Note 2 of Notes
+to Unaudited Condensed Consolidated Financial Statements. The restated condensed
+consolidated financial statements also include the pooled operations of each of
+our prior acquisitions, which were accounted for using the pooling-of-interests
+method.
+
+         Revenue. Revenue consists of product revenue generated principally by
+sales of our semiconductor products, and to a lesser extent, from sales of
+software and software support and development revenue generated under
+development contracts with our customers. Revenue for the three months ended
+September 30, 2000 was $319.2 million, an increase of $179.6 million or 128.7%
+from revenue of $139.6 million in the three months ended September 30, 1999.
+Revenue for the nine months ended September 30, 2000 was $755.9 million, an
+increase of $396.7 million or 110.4% from revenue of $359.2 million in the nine
+months ended September 30, 1999. This growth in revenue resulted mainly from
+increases in volume shipments of our semiconductor products for the high-speed
+networking market, cable set-top boxes and cable modems.
+
+
+
+                                       15
+
+<PAGE>   18
+
+         Gross Profit. Gross profit represents revenue less the cost of revenue.
+Cost of revenue includes the cost of purchasing the finished silicon wafers
+processed by independent foundries, and costs associated with assembly, test and
+quality assurance for those products, as well as costs of personnel and
+equipment associated with manufacturing support and contracted development work.
+Gross profit for the three months ended September 30, 2000 was $183.2 million or
+57.4% of revenue, an increase of $100.0 million as compared with gross profit of
+$83.3 million or 59.7% of revenue in the three months ended September 30, 1999.
+Gross profit for the nine months ended September 30, 2000 was $438.5 million or
+58.0% of revenue, an increase of $224.6 million as compared with gross profit of
+$213.9 million or 59.5% of revenue in the nine months ended September 30, 1999.
+The increase in gross profit was mainly attributable to the significant increase
+in the volume of semiconductor product shipments. The decrease in gross profit
+as a percentage of revenue was largely driven by volume-pricing agreements and
+competitive pricing strategies on certain high volume products. We expect that
+gross profit as a percentage of revenue will continue to decline in future
+periods due to higher anticipated silicon wafer costs and as volume-pricing
+agreements and competitive pricing strategies continue to take effect. In
+addition, our gross profit may be affected by the future introduction of certain
+lower margin products.
+
+         Research and Development Expense. Research and development expense
+consists primarily of salaries and related costs of employees engaged in
+research, design and development activities, costs related to engineering design
+tools, and subcontracting costs. Research and development expense for the three
+months ended September 30, 2000 was $67.9 million or 21.3% of revenue, an
+increase of $37.3 million as compared with research and development expense of
+$30.6 million or 22.0% of revenue for the three months ended September 30, 1999.
+Research and development expense for the nine months ended September 30, 2000
+was $163.3 million or 21.7% of revenue, an increase of $79.1 million as compared
+with research and development expense of $84.3 million or 23.5% of revenue for
+the nine months ended September 30, 1999. The increase in research and
+development expense in absolute dollars was primarily due to the addition of
+personnel and the investment in design tools for the development of new products
+and the enhancement of existing products. The decrease in research and
+development expense as a percentage of revenue reflected the significant
+increase in revenue in the three and nine months ended September 30, 2000 as
+compared to the respective prior year period. We expect that research and
+development expense in absolute dollars will continue to increase for the
+foreseeable future as a result of indigenous growth and acquisitions.
+
+         Selling, General and Administrative Expense. Selling, general and
+administrative expense consists primarily of personnel-related expenses,
+professional fees and facilities expenses. Selling, general
+and administrative expense for the three months ended September 30, 2000 was
+$30.1 million or 9.4% of revenue, an increase of $15.3 million as compared with
+selling, general and administrative expense of $14.9 million or 10.7% of revenue
+for the three months ended September 30, 1999. Selling, general and
+administrative expense for the nine months ended September 30, 2000 was $72.1
+million or 9.5% of revenue, an increase of $28.9 million as compared with
+selling, general and administrative expense of $43.2 million or 12.0% of revenue
+for the nine months ended September 30, 1999. The increase in absolute dollars
+reflected higher personnel related costs resulting from the hiring of additional
+sales and marketing personnel, senior management and administrative
+
+
+
+
+
+                                       16
+<PAGE>   19
+\
+personnel, increased facilities expenses and legal and other professional fees.
+The decrease in selling, general and administrative expense as a percentage of
+revenue reflected the significant increase in revenue during the three and nine
+months ended September 30, 2000 as compared with the respective prior year
+period. We expect that selling, general and administrative expense in absolute
+dollars will continue to increase for the foreseeable future to support the
+planned continued expansion of our operations through indigenous growth and
+acquisitions and as a result of periodic changes and additions to our
+infrastructure to support increased headcount, acquisition and integration
+activities, and international operations.
+
+         Stock-Based Compensation. Stock-based compensation represents the
+difference between the fair value of the common stock for accounting purposes
+and the exercise price of such options at the date of underlying employee stock
+options grant in accordance with FIN 44. Stock-based compensation for the three
+months ended September 30, 2000 was $27.6 million or 8.7% of revenue, an
+increase of $26.7 million as compared with stock-based compensation of $1.0
+million or 0.7% of revenue for the three months ended September 30, 1999.
+Stock-based compensation for the nine months ended September 30, 2000 was $30.7
+million or 4.1% of revenue, an increase of $27.8 million as compared with
+stock-based compensation of $2.8 million or 0.8% of revenue for the nine months
+ended September 30, 1999. The increase in stock-based compensation in the three
+and nine months ended September 30, 2000 relates primarily to stock options
+granted to certain employees of acquired companies that we assumed in the
+various purchase transactions completed during the third quarter of fiscal 2000.
+We have presented these amounts as a reduction of shareholders' equity and are
+amortizing these amounts ratably over the respective vesting periods of the
+applicable options. See Note 2 of Notes to Unaudited Condensed Consolidated
+Financial Statements. We expect to incur additional stock-based compensation
+expenses in future periods as a result of these purchase transactions and the
+additional purchase transactions expected to close during the fourth quarter of
+fiscal 2000.
+
+         Amortization of Goodwill and Purchased Intangible Assets. Amortization
+of goodwill and purchased intangible assets includes the amortization of
+goodwill and other purchased intangible assets relating to various purchase
+transactions completed during the third quarter of fiscal 2000. The amortization
+of goodwill and purchased intangible assets for the three and nine months ended
+September 30, 2000 was $24.9 million or 7.8% and 3.3% of revenue, respectively.
+No amortization of goodwill and purchased intangible assets were incurred in the
+three and nine months ended September 30, 1999. See Note 2 of Notes to Unaudited
+Condensed Consolidated Financial Statements. We expect to incur additional
+amortization of goodwill and purchased intangible assets in future periods as a
+result of these purchase transactions and the additional purchase transactions
+expected to close during the fourth quarter of fiscal 2000.
+
+         In-Process Research and Development. In-process research and
+development relates to various purchase transactions completed during the third
+quarter of fiscal 2000. The in-process research and development cost for the
+three and nine months ended September 30, 2000 was $45.7 million or 14.3% and
+6.0% of revenue, respectively. No in-process research and development costs were
+incurred in the three and nine months ended September 30, 1999. See Note 2 of
+Notes to Unaudited Condensed Consolidated Financial Statements. We expect to
+incur additional in-process research and development costs in future periods as
+a result of these purchase transactions and the additional purchase transactions
+expected to close during the fourth quarter of fiscal 2000.
+
+
+
+                                       17
+<PAGE>   20
+
+         Merger-Related Costs. Merger-related costs are costs incurred in
+connection with acquisitions accounted for using the pooling-of-interests method
+and consist primarily of transaction costs, such as fees for investment bankers,
+attorneys, accountants, and other related fees and expenses, certain
+restructuring costs related to the disposal of assets and the write-down of
+unutilized assets, and adjustments to conform the accounting policies of the
+acquired companies to those of our Company. No merger-related costs were
+incurred for the three months ended September 30, 2000 as compared with
+merger-related costs of $4.1 million for the three months ended September 30,
+1999. The decrease in merger-related costs resulted primarily from the fact that
+we did not enter into any pooling-of-interests acquisitions during the three
+months ended September 30, 2000. Merger-related costs for the nine months ended
+September 30, 2000 were $4.7 million as compared with merger-related costs of
+$15.2 million for the nine months ended September 30, 1999. This decrease in
+merger-related costs resulted primarily from the fact that an investment banking
+fee was incurred in connection with a fiscal 1999 transaction while no such
+investment banking fees were incurred during the nine months ended September 30,
+2000.
+
+         Litigation Settlement Costs. Litigation settlement costs consist
+primarily of settlement fees and associated attorneys' fees, expenses and court
+costs. No litigation settlement costs were incurred in the three and nine months
+ended September 30, 2000 and the three months ended September 30, 1999.
+Litigation settlement costs of approximately $17.0 million were incurred in the
+nine months ended September 30, 1999.
+
+         Interest and Other Income, Net. Interest and other income, net reflects
+interest earned on average cash, cash equivalents and investment balances, less
+interest on our long-term debt and capital lease obligations. Interest and other
+income, net for the three months ended September 30, 2000 was $4.9 million, an
+increase of $2.7 million as compared with $2.2 million in the three months ended
+September 30, 1999. Interest and other income, net for the nine months ended
+September 30, 2000 was $13.0 million, an increase of $7.1 million as compared
+with $5.9 million in the nine months ended September 30, 1999. The increase was
+principally due to higher cash balances available to invest resulting from cash
+generated by operations and the exercise of employee stock options.
+
+         Provision for Income Taxes. We utilize the liability method of
+accounting for income taxes as set forth in Financial Accounting Standards Board
+Statement 109 ("Statement 109"), Accounting for Income Taxes. Our effective tax
+rates for the three and nine months ended September 30, 2000 were (138%) and
+32%, respectively. Our effective tax rates for the three and nine months ended
+September 30, 1999 were 29% and 30%, respectively. The federal statutory income
+tax rate was 35% for each period.
+
+         Our effective tax rates for the three and nine months ended September
+30, 2000 were affected by intangible expenses resulting from acquisitions
+accounted for under the purchase method of accounting, and benefits from
+research and development credits. For the three and nine months ended September
+30, 1999, our effective tax rate was reduced by research and development
+credits.
+
+
+                                       18
+<PAGE>   21
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         Since our inception, we have financed our operations through a
+combination of sales of equity securities and cash generated by operations. At
+September 30, 2000 we had $551.8 million in working capital, and $482.4 million
+in cash, cash equivalents and short-term investments. At December 31, 1999 we
+had $313.7 million in working capital, $270.9 million in cash, cash equivalents
+and short-term investments, and $9.4 million in long-term investments.
+
+         Operating activities provided cash in the amount of $141.4 million for
+the nine months ended September 30, 2000. This was primarily the result of net
+income, the non-cash impact of depreciation and amortization including the
+amortization of stock-based compensation, goodwill and purchased intangibles,
+purchased in-process research and development, tax benefit from the exercise of
+stock options, increases in accounts payable and an increase in income taxes
+partially offset by increases in accounts receivable, inventory, deferred tax
+assets and prepaid expenses and other assets. Operating activities provided cash
+in the amount of $93.8 million for the nine months ended September 30, 1999.
+This was primarily the result of net income, the non-cash impact of depreciation
+and amortization including amortization of stock-based compensation, tax benefit
+from the exercise of stock options, increases in accounts payable, income taxes
+and other accrued liabilities, partially offset by increases in accounts
+receivable, deferred tax assets, inventory and prepaid expenses and other
+assets.
+
+         In the nine months ended September 30, 2000 our investing activities
+used $47.1 million in cash for the purchase of capital equipment to support our
+expanding operations, provided $10.7 million in cash as a result of cash
+received from purchase acquisitions, and used a net $5.2 million in cash for the
+purchase of held-to-maturity securities. In the nine months ended September 30,
+1999 our investing activities used $22.5 million in cash for the purchase of
+capital equipment and a net $21.3 million in cash for the purchase of
+held-to-maturity investments.
+
+         Cash provided by financing activities was $97.2 million in the nine
+months ended September 30, 2000, primarily from $100.7 million in proceeds from
+the issuance of common stock, partially offset by $4.6 million in payments on
+long-term obligations and capital leases of acquired companies. Financing
+activities provided cash of $34.5 million in the nine months ended September 30,
+1999, primarily from $40.8 million in proceeds from the issuance of common
+stock, partially offset by $7.7 million in payments on long-term obligations and
+capital leases of acquired companies.
+
+         We believe that our existing cash, cash equivalents and investments on
+hand, together with cash that we expect to generate from our operations, will be
+sufficient to meet our capital needs for at least the next twelve months.
+However, it is possible that we may need or choose to raise additional funds to
+fund our activities beyond the next year or to consummate acquisitions of other
+businesses, products or technologies. We could raise such funds by selling more
+stock to the public or to selected investors, or by borrowing money. In
+addition, even though we may not need additional funds, we may still elect to
+sell additional equity securities or obtain credit facilities for other reasons.
+We may not be able to obtain additional funds on favorable terms, or at all. If
+we raise additional funds by issuing additional equity or convertible debt
+securities, the ownership percentages of existing shareholders would be reduced.
+In addition, the equity or debt securities that we issue may have rights,
+preferences or privileges senior to those of the holders of our common stock.
+
+
+
+                                       19
+<PAGE>   22
+
+         We had commitments totaling approximately $17.2 million as of September
+30, 2000 primarily for the purchase of engineering design tools, computer
+hardware and information systems infrastructure. During 1999 we spent
+approximately $48.4 million on capital equipment to support our expanding
+operations. We expect that we will spend more than that amount during 2000 to
+purchase additional engineering design tools, computer hardware, test equipment,
+information systems and leasehold improvements, as our operations continue to
+expand and as we integrate and upgrade the capital equipment and facilities of
+acquired companies. We may finance these purchases from our cash and cash
+equivalents and investments on hand, cash generated from our operations,
+borrowings, equity offerings, or a combination thereof.
+
+         Although we believe we have sufficient capital to fund our activities
+for at least the next twelve months, our future capital requirements may vary
+materially from those now planned. The amount of capital that we will need in
+the future will depend on many factors, including:
+
+         o  the market acceptance of our products;
+
+         o  the levels of promotion and advertising that will be required to
+            launch our new products and achieve and maintain a competitive
+            position in the marketplace;
+
+         o  volume price discounts;
+
+         o  our business, product, capital expenditure and research and
+            development plans and product and technology roadmaps;
+
+         o  the levels of inventory and accounts receivable that we maintain;
+
+         o  capital improvements to new and existing facilities;
+
+         o  technological advances;
+
+         o  our competitors' response to our products; and
+
+         o  our relationships with suppliers and customers.
+
+         In addition, we may require additional capital to accommodate planned
+growth, hiring, infrastructure and facility needs or to consummate acquisitions
+of other businesses, products or technologies.
+
+YEAR 2000 COMPLIANCE
+
+         To date we have not experienced any known material Year 2000 problems
+in our products, our internal systems or facilities, or the products, systems
+and services of third parties. We will continue to monitor our mission critical
+computer applications and those of our suppliers and vendors throughout the year
+2000 to ensure that any latent Year 2000 matters that may arise are addressed
+promptly. We did not incur material costs to identify and address specific Year
+2000 compliance issues. We could, however, incur additional costs in addressing
+any residual Year 2000 issues, which could have a material and adverse effect on
+our business.
+
+
+
+                                       20
+<PAGE>   23
+
+RISK FACTORS
+
+         BEFORE DECIDING TO INVEST IN OUR COMPANY OR TO MAINTAIN OR INCREASE
+YOUR INVESTMENT, YOU SHOULD CAREFULLY CONSIDER THE RISKS DESCRIBED BELOW, IN
+ADDITION TO THE OTHER INFORMATION CONTAINED IN THIS REPORT AND IN OUR OTHER
+FILINGS WITH THE SEC, INCLUDING OUR ANNUAL REPORT ON FORM 10-K FOR THE YEAR
+ENDED DECEMBER 31, 1999 AS WELL AS OUR SUBSEQUENT REPORTS ON FORMS 10-Q, 8-K AND
+8-K/A. THE RISKS AND UNCERTAINTIES DESCRIBED BELOW ARE NOT THE ONLY ONES FACING
+OUR COMPANY. ADDITIONAL RISKS AND UNCERTAINTIES NOT PRESENTLY KNOWN TO US OR
+THAT WE CURRENTLY DEEM IMMATERIAL MAY ALSO AFFECT OUR BUSINESS OPERATIONS. IF
+ANY OF THESE RISKS ACTUALLY OCCUR, OUR BUSINESS, FINANCIAL CONDITION OR RESULTS
+OF OPERATIONS COULD BE SERIOUSLY HARMED. IN THAT EVENT, THE MARKET PRICE FOR OUR
+CLASS A COMMON STOCK COULD DECLINE AND YOU MAY LOSE ALL OR PART OF YOUR
+INVESTMENT.
+
+OUR QUARTERLY OPERATING RESULTS MAY FLUCTUATE SIGNIFICANTLY. AS A RESULT, WE MAY
+FAIL TO MEET OR EXCEED THE EXPECTATIONS OF SECURITIES ANALYSTS AND INVESTORS,
+WHICH COULD CAUSE OUR STOCK PRICE TO DECLINE.
+
+         Our quarterly revenues and operating results have fluctuated
+significantly in the past and may continue to vary from quarter to quarter due
+to a number of factors, many of which are not within our control. If our
+operating results do not meet the expectations of securities analysts or
+investors, our stock price may decline. Fluctuations in our operating results
+may be due to a number of factors, including the following:
+
+         o  the volume of our product sales and pricing concessions on volume
+            sales;
+
+         o  the timing, rescheduling or cancellation of significant customer
+            orders;
+
+         o  the gain or loss of a key customer;
+
+         o  the qualification, availability and pricing of competing products
+            and technologies and the resulting effect on sales and pricing of
+            our products;
+
+         o  silicon wafer pricing and the availability of foundry and assembly
+            capacity and raw materials;
+
+         o  the risks inherent in our acquisitions of technologies and
+            businesses, including the timing and successful completion of
+            technology and product development through volume production,
+            integration issues, costs and unanticipated expenditures, changing
+            relationships with customers, suppliers and strategic partners,
+            potential contractual, intellectual property or employment issues,
+            accounting treatment and charges, and the risks that the acquisition
+            cannot be completed successfully or that anticipated benefits are
+            not realized;
+
+         o  our ability to specify, develop or acquire, complete, introduce,
+            market and transition to volume production new products and
+            technologies in a timely manner;
+
+         o  the timing of customer-industry qualification and certification of
+            our products and the risks of non-qualification or
+            non-certification;
+
+         o  the rate at which our present and future customers and end users
+            adopt Broadcom technologies in our target markets;
+
+         o  the rate of adoption and acceptance of new industry standards in our
+            target markets;
+
+         o  the effects of new and emerging technologies;
+
+
+
+                                       21
+<PAGE>   24
+
+         o  intellectual property disputes and customer indemnification claims;
+
+         o  the effectiveness of our product cost reduction efforts;
+
+         o  fluctuations in the manufacturing yields of our third party
+            semiconductor foundries and other problems or delays in the
+            fabrication, assembly, testing or delivery of our products;
+
+         o  the risks of producing products with new suppliers and at new
+            fabrication and assembly facilities;
+
+         o  the risks and uncertainties associated with our international
+            operations;
+
+         o  problems or delays that we may face in shifting our products to
+            smaller geometry process technologies and in achieving higher levels
+            of design integration;
+
+         o  our ability to retain and hire key executives, technical personnel
+            and other employees in the numbers, with the capabilities, and at
+            the compensation levels that we need to implement our business and
+            product plans;
+
+         o  changes in our product or customer mix;
+
+         o  the quality of our products and any remediation costs;
+
+         o  the effects of natural disasters and other events beyond our
+            control;
+
+         o  the level of orders received that we can ship in a fiscal quarter;
+
+         o  potential business disruptions, claims, expenses and other
+            difficulties resulting from residual "Year 2000" problems in
+            computer-based systems used by us, our suppliers or our customers;
+
+         o  economic and market conditions in the semiconductor industry and the
+            broadband communications markets; and
+
+         o  general economic and market conditions.
+
+         We intend to continue to increase our operating expenses in 2000 and in
+the future. A large portion of our operating expenses, including rent, salaries
+and capital lease expenditures, is fixed and difficult to reduce or change.
+Accordingly, if our total revenue does not meet our expectations, we probably
+would not be able to adjust our expenses quickly enough to compensate for the
+shortfall in revenue. In that event, our business, financial condition and
+results of operations would be materially and adversely affected.
+
+         Due to all of the foregoing factors, and the other risks discussed in
+this report, you should not rely on quarter-to-quarter comparisons of our
+operating results as an indication of future performance.
+
+BECAUSE WE DEPEND ON A FEW SIGNIFICANT CUSTOMERS FOR A SUBSTANTIAL PORTION OF
+OUR REVENUES, THE LOSS OF A KEY CUSTOMER COULD SERIOUSLY HARM OUR BUSINESS. IN
+ADDITION, IF WE ARE UNABLE TO CONTINUE TO SELL EXISTING AND NEW PRODUCTS TO OUR
+KEY CUSTOMERS IN SIGNIFICANT QUANTITIES OR TO ATTRACT NEW SIGNIFICANT CUSTOMERS,
+OUR FUTURE OPERATING RESULTS COULD BE ADVERSELY AFFECTED.
+
+         We have derived a substantial portion of our revenues in the past from
+sales to a relatively small number of customers. As a result, the loss of any
+significant customer could materially and adversely affect our financial
+condition and results of operations. Sales to Motorola, Cisco and 3Com,
+including
+
+
+
+
+                                       22
+<PAGE>   25
+
+sales to their respective manufacturing subcontractors, accounted for
+approximately 23.9%, 14.8% and 14.6%, respectively, of our revenue in the nine
+months ended September 30, 2000. In the nine months ended September 30, 2000
+sales to our five largest customers, including sales to their respective
+manufacturing subcontractors, decreased to 63.9% of our total revenues compared
+to 66.6% in the year ended December 31, 1999. We expect that our key customers
+will continue to account for a substantial portion of our revenues for 2000 and
+in the future. Accordingly, our future operating results will continue to depend
+on the success of our largest customers and on our ability to sell existing and
+new products to these customers in significant quantities.
+
+         We may not be able to maintain or increase sales to certain of our key
+customers for a variety of reasons, including the following:
+
+         o  Most of our customers can stop incorporating our products into their
+            own products with limited notice to us and suffer little or no
+            penalty.
+
+         o  Our agreements with our customers typically do not require them to
+            purchase a minimum amount of our products.
+
+         o  Many of our customers have pre-existing relationships with our
+            current or potential competitors that may affect their decision to
+            purchase our products.
+
+         o  Our customers face intense competition from other manufacturers that
+            do not use our products.
+
+         o  Some of our customers offer or may offer products that compete with
+            our products.
+
+         o  Our longstanding relationships with some of our larger customers may
+            also deter other potential customers who compete with these
+            customers from buying our products.
+
+         In addition, in order to attract new customers or retain existing
+customers, we may offer certain customers favorable prices on our products. If
+these prices are lower than the prices paid by our existing customers, we would
+have to offer the same lower prices to certain of our customers who have
+contractual "most favored nation" pricing arrangements. In that event, our
+average selling prices and gross margins would decline. The loss of a key
+customer, a reduction in our sales to any key customer or our inability to
+attract new significant customers could materially and adversely affect our
+business, financial condition or results of operations.
+
+WE FACE INTENSE COMPETITION IN THE BROADBAND COMMUNICATIONS MARKETS AND
+SEMICONDUCTOR INDUSTRY, WHICH COULD REDUCE OUR MARKET SHARE IN EXISTING MARKETS
+AND AFFECT OUR ENTRY INTO NEW MARKETS.
+
+         The broadband communications markets and semiconductor industry are
+intensely competitive. We expect competition to continue to increase in the
+future as industry standards become well known and as other competitors enter
+our target markets. We currently compete with a number of major domestic and
+international suppliers of integrated circuits in the markets for cable set-top
+boxes, cable modems, high-speed local, metropolitan and wide area networks, home
+networking, Voice over Internet Protocol ("VoIP"), carrier
+
+
+
+
+                                       23
+<PAGE>   26
+
+access, residential broadband gateways, direct broadcast satellite and
+terrestrial digital satellite, optical networking, digital subscriber lines
+("xDSL") and wireless communications, including without limitation the markets
+for products such as network interface cards and LAN-on-motherboard solutions.
+We also compete with suppliers of system- and motherboard-level solutions
+incorporating integrated circuits that are proprietary or sourced from
+manufacturers other than Broadcom. This competition has resulted and may
+continue to result in declining average selling prices for our products. In all
+of our target markets, we also may face competition from newly established
+competitors and suppliers of products based on new or emerging technologies. We
+also expect to encounter further consolidation in the markets in which we
+compete.
+
+         Many of our competitors operate their own fabrication facilities and
+have longer operating histories and presence in key markets, greater name
+recognition, larger customer bases and significantly greater financial, sales
+and marketing, manufacturing, distribution, technical and other resources than
+we do. As a result, these competitors may be able to adapt more quickly to new
+or emerging technologies and changes in customer requirements. They may also be
+able to devote greater resources to the promotion and sale of their products. In
+addition, current and potential competitors have established or may establish
+financial or strategic relationships among themselves or with existing or
+potential customers, resellers or other third parties. Accordingly, it is
+possible that new competitors or alliances among competitors could emerge and
+rapidly acquire significant market share. Existing or new competitors may also
+develop technologies in the future that more effectively address the
+transmission of digital information through existing analog infrastructures or
+through new digital infrastructures at lower costs than our technologies.
+Increased competition has in the past and is likely to continue to result in
+price reductions, reduced gross margins and loss of market share. We cannot
+assure you that we will be able to continue to compete successfully or that
+competitive pressures will not materially and adversely affect our business,
+financial condition and results of operations.
+
+OUR ACQUISITION STRATEGY MAY REQUIRE US TO UNDERTAKE SIGNIFICANT CAPITAL
+INFUSIONS, BE DILUTIVE TO OUR EXISTING SHAREHOLDERS, RESULT IN UNANTICIPATED
+CHANGES OR OTHERWISE ADVERSELY AFFECT OUR RESULTS OF OPERATIONS, AND RESULT IN
+DIFFICULTIES IN ASSIMILATING AND INTEGRATING THE OPERATIONS, PERSONNEL,
+TECHNOLOGIES, PRODUCTS AND INFORMATION SYSTEMS OF ACQUIRED COMPANIES.
+
+         A key element of our business strategy involves expansion through the
+acquisition of businesses, products or technologies that allow us to complement
+our existing product offerings, expand our market coverage, increase our
+engineering workforce or enhance our technological capabilities. Between January
+1, 1999 and September 30, 2000, we acquired Maverick Networks, Epigram, Inc.,
+Armedia, Inc., HotHaus Technologies Inc., AltoCom, Inc., Digital Furnace
+Corporation, BlueSteel Networks, Inc., Stellar Semiconductor, Inc., Pivotal
+Technologies Corp., Innovent Systems, Inc., Puyallup Integrated Circuit Company,
+Inc. and Altima Communications, Inc. In October 2000 we completed the
+acquisitions of Silicon Spice Inc. and NewPort Communications, Inc. We have also
+entered into definitive agreements to acquire Element 14, Inc. Allayer
+Communications and SiByte, Inc. We plan to continue to pursue acquisition
+opportunities in 2000 and in the future.
+
+         Acquisitions may require significant capital infusions, typically
+entail many risks and could result in difficulties in assimilating and
+integrating the operations, personnel,
+
+
+
+
+                                       24
+<PAGE>   27
+
+technologies, products and information systems of the acquired company. We may
+also encounter delays in the timing and successful completion of the acquired
+company's technology and product development through volume production, costs
+and unanticipated expenditures, changing relationships with customers, suppliers
+and strategic partners, or contractual, intellectual property or employment
+issues. In addition, the key personnel of the acquired company may decide not to
+work for us. The acquisition of another company or its products and technologies
+may also require us to enter into a geographic or business market in which we
+have little or no prior experience. These challenges could disrupt our ongoing
+business, distract our management and employees and increase our expenses. In
+addition, acquisitions may materially and adversely affect our results of
+operations because they may require large one-time charges, increased debt or
+contingent liabilities, adverse tax consequences, substantial depreciation or
+deferred compensation charges, or the amortization of amounts related to
+deferred compensation, goodwill and other intangible assets. We may seek to
+account for acquisitions under the pooling-of-interests accounting method, but
+that method may not be available. Any of these events could cause the price of
+our Class A common stock to decline. Acquisitions made entirely or partially for
+cash may reduce our cash reserves. Furthermore, if we issue equity or
+convertible debt securities in connection with an acquisition, as in the case of
+our recent acquisitions, the issuance may be dilutive to our existing
+shareholders. In addition, the equity or debt securities that we may issue could
+have rights, preferences or privileges senior to those of the holders of our
+common stock. Thus, for example, as a consequence of the pooling-of-interest
+rules, the securities issued in nine of the fourteen completed acquisitions
+described above were Class B common stock, which has voting rights superior to
+our publicly-traded Class A common stock.
+
+         We cannot assure you that we will be able to consummate any pending or
+future acquisitions or that we will realize the benefits anticipated from these
+acquisitions. In the future, we may not be able to find other suitable
+acquisition opportunities that are available at attractive valuations, if at
+all. Even if we do find suitable acquisition opportunities, we may not be able
+to consummate the acquisitions on commercially acceptable terms. Moreover, it
+may be difficult for us to successfully integrate any acquired businesses,
+products, technologies or personnel, which could materially and adversely affect
+our business, financial condition and results of operations.
+
+WE MUST KEEP PACE WITH RAPID TECHNOLOGICAL CHANGES IN THE SEMICONDUCTOR INDUSTRY
+AND BROADBAND COMMUNICATIONS MARKETS IN ORDER TO REMAIN COMPETITIVE.
+
+         Our future success will depend on our ability to anticipate and adapt
+to changes in technology and industry standards. We will also need to continue
+to develop and introduce new and enhanced products to meet our customers'
+changing demands. Substantially all of our product revenue in recent fiscal
+quarters has been derived from sales of products for the high-speed office
+network, cable set-top box and cable modem markets. These markets are
+characterized by rapidly changing technology, evolving industry standards,
+frequent new product introductions and short product life cycles. In addition,
+these markets continue to undergo rapid growth and consolidation. A significant
+slowdown in any of these markets or other broadband communications markets could
+materially and adversely affect our business, financial condition and results of
+operations. Our success will also depend on the ability of our customers to
+develop new products and enhance existing products for the broadband
+communications markets and to introduce and promote those products successfully.
+The
+
+
+
+
+                                       25
+<PAGE>   28
+
+broadband communications markets may not continue to develop to the extent or in
+the timeframes that we anticipate. If new markets do not develop as we
+anticipate, or if our products do not gain widespread acceptance in these
+markets, our business, financial condition and results of operations could be
+materially and adversely affected.
+
+IF WE DO NOT ANTICIPATE AND ADAPT TO EVOLVING INDUSTRY STANDARDS IN THE
+SEMICONDUCTOR INDUSTRY AND BROADBAND COMMUNICATIONS MARKETS, OUR PRODUCTS COULD
+BECOME OBSOLETE AND WE COULD LOSE MARKET SHARE.
+
+         Products for broadband communications applications generally are based
+on industry standards that are continually evolving. If new industry standards
+emerge, our products or our customers' products could become unmarketable or
+obsolete. We may also have to incur substantial unanticipated costs to comply
+with these new standards. Our past sales and profitability have resulted, to a
+large extent, from our ability to anticipate changes in technology and industry
+standards and to develop and introduce new and enhanced products incorporating
+the new standards. Our ability to adapt to these changes and to anticipate
+future standards, and the rate of adoption and acceptance of those standards,
+will be a significant factor in maintaining or improving our competitive
+position and prospects for growth. We have in the past invested substantial
+resources in emerging technologies that did not achieve the market acceptance
+that we had expected. Our inability to anticipate the evolving standards in the
+semiconductor industry and, in particular the broadband communications markets,
+or to develop and introduce new products successfully into these markets could
+materially and adversely affect our business, financial condition and results of
+operations.
+
+IF WE ARE UNABLE TO DEVELOP AND INTRODUCE NEW PRODUCTS SUCCESSFULLY AND IN A
+COST-EFFECTIVE AND TIMELY MANNER OR TO ACHIEVE MARKET ACCEPTANCE OF OUR NEW
+PRODUCTS, OUR OPERATING RESULTS WOULD BE ADVERSELY AFFECTED.
+
+         Our future success will depend on our ability to develop new silicon
+solutions for existing and new markets, introduce these products in a
+cost-effective and timely manner and convince leading equipment manufacturers to
+select these products for design into their own new products. Our quarterly
+results in the past have been, and are expected in the future to continue to be,
+dependent on the introduction of a relatively small number of new products and
+the timely completion and delivery of those products to customers. The
+development of new silicon devices is highly complex, and from time to time we
+have experienced delays in completing the development and introduction of new
+products. Our ability to develop and deliver new products successfully will
+depend on various factors, including our ability to:
+
+         o  accurately predict market requirements and evolving industry
+            standards;
+
+         o  accurately define new products;
+
+         o  timely complete and introduce new product designs;
+
+         o  timely qualify and obtain industry interoperability certification of
+            our products and our customers' products into which our products
+            will be incorporated;
+
+         o  obtain sufficient foundry capacity;
+
+         o  achieve high manufacturing yields; and
+
+         o  gain market acceptance of our products and our customers' products.
+
+
+
+                                       26
+<PAGE>   29
+
+         If we are not able to develop and introduce new products successfully
+and in a cost-effective and timely manner, our business, financial condition and
+results of operations would be materially and adversely affected.
+
+         Our new products generally are incorporated into our customers'
+products at the design stage. We have often incurred significant expenditures on
+the development of a new product without any assurance that an equipment
+manufacturer will select our product for design into its own product. The value
+of our products largely depends on the commercial success of our customers'
+products and on the extent to which those products accommodate components
+manufactured by our competitors. We cannot assure you that we will continue to
+achieve design wins. In addition, the equipment that incorporates our products
+may never become commercially successful.
+
+WE DEPEND ON TWO INDEPENDENT FOUNDRIES TO MANUFACTURE SUBSTANTIALLY ALL OF OUR
+CURRENT PRODUCTS, AND ANY FAILURE TO OBTAIN SUFFICIENT FOUNDRY CAPACITY COULD
+MATERIALLY AND ADVERSELY AFFECT OUR BUSINESS.
+
+         We do not own or operate a fabrication facility. Two outside foundries,
+Taiwan Semiconductor Manufacturing Corporation, or TSMC, in Taiwan and Chartered
+Semiconductor Manufacturing, or Chartered, in Singapore, currently manufacture
+substantially all of our semiconductor devices in current production. In
+September 1999 TSMC's principal facility was affected by a significant
+earthquake in Taiwan. As a consequence of this earthquake, TSMC suffered power
+outages and equipment damage that impaired TSMC's wafer deliveries and, together
+with strong demand, could result in wafer shortages and higher wafer pricing
+industrywide. In addition, if either TSMC or Chartered experiences financial
+difficulties, if either foundry suffers any damage to its facilities or in the
+event of any other disruption of foundry capacity, we may not be able to qualify
+an alternative foundry in a timely manner. Even our current foundries would need
+to have new manufacturing processes qualified if there is a disruption in an
+existing process. If we choose to use a new foundry or process, it would
+typically take us several months to qualify the new foundry or process before we
+can begin shipping products from it. If we cannot accomplish this qualification
+in a timely manner, we may still experience a significant interruption in supply
+of the affected products.
+
+         Because we rely on outside foundries with limited capacity, we face
+several significant risks, including:
+
+         o  a lack of ensured wafer supply and potential wafer shortages and
+            higher wafer prices;
+
+         o  limited control over delivery schedules, quality assurance and
+            control, manufacturing yields and production costs; and
+
+         o  the unavailability of or potential delays in obtaining access to key
+            process technologies.
+
+         In addition, the manufacture of integrated circuits is a highly complex
+and technologically demanding process. Although we work closely with our
+foundries to minimize the likelihood of reduced manufacturing yields, our
+foundries have from time to time experienced lower than anticipated
+manufacturing yields. This often occurs during the production of new products or
+the installation and start-up of new process technologies.
+
+         The ability of each foundry to provide us with semiconductor devices is
+limited by its available capacity. Although we have entered into contractual
+commitments to supply specified levels of products to certain of our customers,
+we do not have a long-term volume purchase agreement or a guaranteed level of
+production capacity with either TSMC or Chartered. Foundry capacity may not be
+available when we need it or at reasonable prices. Availability of foundry
+capacity has recently been reduced due to strong demand. We place
+
+
+
+                                       27
+<PAGE>   30
+
+our orders on the basis of our customers' purchase orders, and TSMC and
+Chartered can allocate capacity to the production of other companies' products
+and reduce deliveries to us on short notice. It is possible that foundry
+customers that are larger and better financed than we are, or that have
+long-term agreements with TSMC or Chartered, may induce our foundries to
+reallocate capacity to them. Such a reallocation could impair our ability to
+secure the supply of components that we need. Although we primarily use two
+independent foundries, most of our components are not manufactured at both
+foundries at any given time and some of our products may be designed to be
+manufactured at only one. Accordingly, if one of our foundries is unable to
+provide us with components as needed, we could experience significant delays in
+securing sufficient supplies of those components. Any of these delays would
+likely materially and adversely affect our business, financial condition and
+results of operations. We cannot assure you that any of our existing or new
+foundries would be able to produce integrated circuits with acceptable
+manufacturing yields. Furthermore, our foundries may not be able to deliver
+enough semiconductor devices to us on a timely basis, or at reasonable prices.
+
+         Certain of our acquired companies have established relationships with
+foundries other than TSMC and Chartered, and we are using these other foundries
+to produce the initial products of these acquired companies. We may utilize such
+foundries for other products in the future. In using these new foundries, we
+will be subject to all of the same risks described in the foregoing paragraphs
+with respect to TSMC and Chartered.
+
+WE MAY BE UNABLE TO RETAIN KEY TECHNICAL AND SENIOR MANAGEMENT PERSONNEL AND
+ATTRACT ADDITIONAL KEY EMPLOYEES, WHICH COULD SERIOUSLY HARM OUR BUSINESS.
+
+         Our future success depends to a significant extent upon the continued
+service of our key technical and senior management personnel, in particular, our
+co-founder, President and Chief Executive Officer, Dr. Henry T. Nicholas III,
+and our co-founder, Vice President of Research & Development and Chief Technical
+Officer, Dr. Henry Samueli. We do not have employment agreements with these
+executives or any other key employees that govern the length of their service.
+The loss of the services of Dr. Nicholas or Dr. Samueli, or certain other key
+employees, would likely materially and adversely affect our business, financial
+condition and results of operations. Our future success also depends on our
+ability to continue to attract, retain and motivate qualified personnel,
+particularly digital circuit designers, mixed-signal circuit designers and
+systems applications engineers. Competition for these employees is intense. Our
+inability to attract and retain additional key employees could have an adverse
+effect on our business, financial condition and results of operations.
+
+
+                                       28
+<PAGE>   31
+
+OUR INABILITY TO MANAGE OUR SIGNIFICANT RECENT AND ANTICIPATED FUTURE GROWTH
+COULD STRAIN OUR MANAGERIAL, OPERATIONAL AND FINANCIAL RESOURCES, AND COULD
+MATERIALLY AND ADVERSELY AFFECT OUR BUSINESS.
+
+         During the past year, we have continued to significantly increase the
+scope of our operations and expand our workforce, growing from 436 employees as
+of December 31, 1998 to 1,785 employees as of September 30, 2000, including
+contract and temporary employees and employees who joined us as the result of
+acquisitions. This growth has placed, and our anticipated future growth of
+operations is expected to continue to place, a significant strain on our
+management personnel, systems and resources. We anticipate that we will need to
+implement a variety of new and upgraded operational and financial systems,
+procedures and controls, including the ongoing improvement of our accounting and
+other internal management systems. We also will need to continue to expand,
+train, manage and motivate our workforce. All of these endeavors will require
+substantial management effort. In the future, we will likely need to expand our
+facilities or relocate some or all of our employees or operations from time to
+time to support our growth. These relocations could result in temporary
+disruptions of our operations or a diversion of management's attention and
+resources. If we are unable to effectively manage expanding operations, our
+business, financial condition and results of operations could be materially and
+adversely affected.
+
+THE LOSS OF ANY OF THE THREE THIRD-PARTY SUBCONTRACTORS THAT ASSEMBLE AND TEST
+SUBSTANTIALLY ALL OF OUR CURRENT PRODUCTS COULD DISRUPT OUR SHIPMENTS, HARM OUR
+CUSTOMER RELATIONSHIPS AND ADVERSELY AFFECT OUR NET SALES.
+
+         Three third-party subcontractors, ASAT Ltd. in Hong Kong, ST Assembly
+Test Services, STATS, in Singapore, and Amkor Technology in the Philippines and
+South Korea, assemble and test almost all of our current products. Because we
+rely on third-party subcontractors to assemble and test our products, we cannot
+directly control our product delivery schedules and quality assurance and
+control. This lack of control has in the past, and could in the future, result
+in product shortages or quality assurance problems that could increase our
+manufacturing, assembly or testing costs. We do not have long-term agreements
+with ASAT, STATS or Amkor. We typically procure services from these suppliers on
+a per order basis. If either ASAT, STATS or Amkor experiences capacity
+constraints or financial difficulties, if any subcontractor suffers any damage
+to its facilities or in the event of any other disruption of assembly and
+testing capacity, we may not be able to obtain alternative assembly and testing
+services in a timely manner. Due to the amount of time that it usually takes us
+to qualify assemblers and testers, we could experience significant delays in
+product shipments if we are required to find alternative assemblers or testers
+for our components. Any problems that we may encounter with the delivery,
+quality or cost of our products could materially and adversely affect our
+business, financial condition or results of operations.
+
+         We are continuing to develop relationships with additional third-party
+subcontractors to assemble and test our products. In using these new
+subcontractors, we will be subject to all of the same risks described in the
+foregoing paragraph with respect to ASAT, STATS and Amkor.
+
+
+
+                                       29
+<PAGE>   32
+
+AS OUR INTERNATIONAL BUSINESS EXPANDS, OUR BUSINESS, FINANCIAL CONDITION AND
+OPERATING RESULTS COULD BE ADVERSELY AFFECTED AS A RESULT OF LEGAL, BUSINESS AND
+ECONOMIC RISKS SPECIFIC TO INTERNATIONAL OPERATIONS.
+
+         We currently obtain substantially all of our manufacturing, assembly
+and testing services from suppliers located outside of the United States. In
+addition, approximately 13.7% of our revenue in the nine months ended September
+30, 2000 was derived from sales to independent customers outside the United
+States. We also frequently ship products to our domestic customers'
+international manufacturing divisions and subcontractors. In 1999 we established
+an international distribution center in Singapore and a design center in The
+Netherlands. As a result of our acquisition of HotHaus in August 1999, we now
+undertake software design, development and marketing activities in Canada.
+Furthermore, as a result of our acquisition of Armedia in May 1999 and Altima in
+September 2000, we also undertake design and development activities in India and
+Taiwan. In the future, we intend to continue to expand these international
+business activities and also to open other design and operational centers
+abroad. International operations are subject to many inherent risks, including:
+
+         o  political, social and economic instability;
+
+         o  trade restrictions;
+
+         o  the imposition of governmental controls;
+
+         o  exposure to different legal standards, particularly with respect to
+            intellectual property;
+
+         o  burdens of complying with a variety of foreign laws;
+
+         o  import and export license requirements and restrictions of the
+            United States and each other country in which we operate;
+
+         o  unexpected changes in regulatory requirements;
+
+         o  foreign technical standards;
+
+         o  changes in tariffs;
+
+         o  difficulties in staffing and managing international operations;
+
+         o  fluctuations in currency exchange rates;
+
+         o  difficulties in collecting receivables from foreign entities; and
+
+         o  potentially adverse tax consequences.
+
+    VARIOUS EXPORT LICENSING REQUIREMENTS, THE SEASONALITY OF INTERNATIONAL
+    SALES OR AN INCREASE IN THE VALUE OF THE U.S. DOLLAR RELATIVE TO FOREIGN
+    CURRENCIES COULD MATERIALLY AND ADVERSELY AFFECT OUR BUSINESS OR REQUIRE US
+    TO MODIFY OUR CURRENT BUSINESS PRACTICES SIGNIFICANTLY.
+
+         Various government export regulations apply to the encryption or other
+features contained in some of our products. We have applied for and received
+several export licenses under these regulations, but we cannot assure you that
+we will obtain any licenses for which we have currently applied or any licenses
+that we may apply for in the future. If we do not receive the required licenses,
+we may be unable to manufacture the affected products at our foreign foundries
+or to ship these products to certain customers located outside the United
+States. Moreover, the seasonality of international sales and economic conditions
+in our primary overseas markets may negatively impact the demand for our
+products abroad. All of
+
+
+
+
+                                       30
+<PAGE>   33
+
+our international sales to date have been denominated in U.S. dollars.
+Accordingly, an increase in the value of the U.S. dollar relative to foreign
+currencies could make our products less competitive in international markets.
+Any one or more of the foregoing factors could materially and adversely affect
+our business, financial condition or results of operations or require us to
+modify our current business practices significantly. We anticipate that these
+factors will impact our business to a greater degree as we further expand our
+international business activities.
+
+OUR FUTURE SUCCESS DEPENDS IN SIGNIFICANT PART ON STRATEGIC RELATIONSHIPS WITH
+CERTAIN OF OUR CUSTOMERS. IF WE CANNOT MAINTAIN THESE RELATIONSHIPS OR IF THESE
+CUSTOMERS DEVELOP THEIR OWN SOLUTIONS OR ADOPT A COMPETITOR'S SOLUTIONS INSTEAD
+OF BUYING OUR PRODUCTS, OUR OPERATING RESULTS WOULD BE ADVERSELY AFFECTED.
+
+         In the past, we have relied on our strategic relationships with certain
+customers who are technology leaders in our target markets. We intend to pursue
+and continue to form these strategic relationships in the future but we cannot
+assure you that we will be able to do so. These relationships often require us
+to develop new products that typically involve significant technological
+challenges. Our partners frequently place considerable pressure on us to meet
+their tight development schedules. Accordingly, we may have to devote a
+substantial amount of our limited resources to our strategic relationships,
+which could detract from or delay our completion of other important development
+projects. Delays in development could impair our relationships with our
+strategic partners and negatively impact sales of the products under
+development. Moreover, it is possible that our customers may develop their own
+solutions or adopt a competitor's solution for products that they currently buy
+from us. If that happens, our business, financial condition and results of
+operations could be materially and adversely affected.
+
+WE MAY EXPERIENCE DIFFICULTIES IN TRANSITIONING TO SMALLER GEOMETRY PROCESS
+TECHNOLOGIES OR IN ACHIEVING HIGHER LEVELS OF DESIGN INTEGRATION AND THAT MAY
+RESULT IN REDUCED MANUFACTURING YIELDS, DELAYS IN PRODUCT DELIVERIES AND
+INCREASED EXPENSES.
+
+         In order to remain competitive, we expect to continue to transition our
+products to increasingly smaller geometries. This transition will require us to
+redesign certain products and modify the manufacturing processes for our
+products. We periodically evaluate the benefits, on a product-by-product basis,
+of migrating to smaller geometry process technologies in order to reduce our
+costs, and we have begun shifting certain products from .50 micron to .35
+micron, .22 micron and smaller geometry processes. In the past, we have
+experienced some difficulties in shifting to smaller geometry process
+technologies or new manufacturing processes. These difficulties resulted in
+reduced manufacturing yields, delays in product deliveries and increased
+expenses. We may face similar difficulties, delays and expenses as we continue
+to transition our products to smaller geometry processes. We are dependent on
+our relationships with our foundries to transition to smaller geometry processes
+successfully. We cannot assure you that our foundries will be able to
+effectively manage the transition or that we will be able to maintain our
+relationships with our foundries. If our foundries or we experience significant
+delays in this transition or fail to efficiently implement this transition, our
+business, financial condition and results of operations could be materially and
+adversely affected. As smaller geometry processes become more prevalent, we
+expect to integrate greater levels of functionality, as well as customer and
+third party intellectual property, into our products. However, we may not be
+able to achieve higher levels of design integration or deliver new integrated
+products on a timely basis, or at all.
+
+
+                                       31
+
+<PAGE>   34
+
+WE MAY NOT BE ABLE TO ADEQUATELY PROTECT OR ENFORCE OUR INTELLECTUAL PROPERTY
+RIGHTS, WHICH COULD HARM OUR COMPETITIVE POSITION.
+
+         Our success and future revenue growth will depend, in part, on our
+ability to protect our intellectual property. We primarily rely on patent,
+copyright, trademark and trade secret laws, as well as nondisclosure agreements
+and other methods, to protect our proprietary technologies and processes.
+Despite our efforts to protect our proprietary technologies and processes, it is
+possible that certain of our competitors or other parties may obtain, use or
+disclose our technologies and processes. We currently hold 17 issued United
+States patents and have filed over 400 United States patent applications. We
+cannot assure you that any additional patents will be issued. Even if a new
+patent is issued, the claims allowed may not be sufficiently broad to protect
+our technology. In addition, any of our existing or future patents may be
+challenged, invalidated or circumvented. Moreover, any rights granted under
+these patents may not provide us with meaningful protection. If our patents do
+not adequately protect our technology, then our competitors may be able to offer
+products similar to ours. Our competitors may also be able to develop similar
+technology independently or design around our patents. Moreover, because we have
+participated in developing various industry standards, we may be required to
+license some of our technology and patents to others, including competitors, who
+develop products based on the adopted standards.
+
+         We generally enter into confidentiality agreements with our employees
+and strategic partners. We also try to control access to and distribution of our
+technologies, documentation and other proprietary information. Despite these
+efforts, parties may attempt to copy, disclose, obtain or use our products,
+services or technology without our authorization. As a result, our technologies
+and processes may be misappropriated, particularly in foreign countries where
+laws may not protect our proprietary rights as fully as in the United States.
+
+         In addition, some of our customers have entered into agreements with us
+that grant them the right to use our proprietary technology if we ever fail to
+fulfill our obligations under those agreements, including product supply
+obligations, and do not correct this failure within a specified time period.
+Moreover, we often incorporate the intellectual property of our strategic
+customers into our own designs, and have certain obligations not to use or
+disclose their intellectual property without their authorization. We cannot
+assure you that our efforts to prevent the misappropriation or infringement of
+our intellectual property or the intellectual property of our customers will
+succeed. In the future, we may have to engage in litigation to enforce our
+intellectual property rights, protect our trade secrets or determine the
+validity and scope of the proprietary rights of others, including our customers.
+This litigation may be very expensive and time consuming, divert management's
+attention and materially and adversely affect our business, financial condition
+and results of operations.
+
+INFRINGEMENT OR OTHER CLAIMS AGAINST US COULD ADVERSELY AFFECT OUR ABILITY TO
+MARKET OUR PRODUCTS, REQUIRE US TO REDESIGN OUR PRODUCTS OR SEEK LICENSES FROM
+THIRD PARTIES AND SERIOUSLY HARM OUR OPERATING RESULTS.
+
+
+
+                                       32
+<PAGE>   35
+
+         Companies in the semiconductor industry often aggressively protect and
+pursue their intellectual property rights. From time to time, we have received,
+and may continue to receive in the future, notices that claim we have infringed
+upon, misappropriated or misused other parties' proprietary rights. In March
+2000 Intel Corporation and its subsidiary Level One Communications, Inc. filed a
+lawsuit against us alleging misappropriation of trade secrets, unfair
+competition and tortious interference with existing contractual relations
+related to our recent hiring of three former Intel employees. In August 2000
+Intel filed a lawsuit against us alleging infringement of five Intel patents. In
+1999 we settled litigation with Stanford Telecommunications, Inc. that related
+to the alleged infringement of one of Stanford's patents by several of our cable
+modem products. In 1999 we prevailed in litigation with Sarnoff Corporation and
+NxtWave Communications, Inc., formerly Sarnoff Digital Communications, Inc.,
+which alleged that we misappropriated and misused certain of their trade secrets
+in connection with our hiring of five former Sarnoff employees. Our subsidiary,
+AltoCom, is the defendant in patent litigation brought by Motorola, Inc.
+relating to software modem technology. Our new subsidiary, Altima, is the
+defendant in patent litigation and International Trade Commission proceedings
+brought by Intel and Level One. Although we are defending the pending litigation
+vigorously, it is possible that we will not prevail in pending or future
+lawsuits. In addition, we may be sued in the future by other parties who claim
+that we have infringed their patents or misappropriated or misused their trade
+secrets, or who may seek to invalidate one of our patents. Any of these claims
+may materially and adversely affect our business, financial condition and
+results of operations. For example, in a patent or trade secret action, a court
+could issue an injunction against us that would require us to withdraw or recall
+certain products from the market or redesign certain products offered for sale
+or under development. In addition, we may be liable for damages for past
+infringement and royalties for future use of the technology. We may also have to
+indemnify certain customers and strategic partners under our agreements with
+such parties if a third party alleges or if a court finds that we have infringed
+upon, misappropriated or misused another party's proprietary rights. Even if
+claims against us are not valid or successfully asserted, these claims could
+result in significant costs and a diversion of management and personnel
+resources to defend. In that event, our business, financial condition and
+results of operations would likely be materially and adversely affected. If any
+claims or actions are asserted against us, we may seek to obtain a license under
+a third party's intellectual property rights. However, we may not be able to
+obtain a license on commercially reasonable terms, if at all.
+
+OUR PRODUCTS TYPICALLY HAVE LENGTHY SALES CYCLES. A CUSTOMER MAY DECIDE TO
+CANCEL OR CHANGE ITS PRODUCT PLANS, WHICH COULD CAUSE US TO LOSE ANTICIPATED
+SALES. IN ADDITION, OUR AVERAGE PRODUCT CYCLES TEND TO BE SHORT AND, AS A
+RESULT, WE MAY HOLD EXCESS OR OBSOLETE INVENTORY WHICH COULD ADVERSELY AFFECT
+OUR OPERATING RESULTS.
+
+         After we have developed and delivered a product to a customer, our
+customer will often test and evaluate our product prior to designing its own
+equipment to incorporate our product. Our customer may need three to six months
+or longer to test and evaluate our product and an additional three to six months
+or more to begin volume production of equipment that incorporates our product.
+Due to this lengthy sales cycle, we may experience delays from the time we
+increase our operating expenses and our investments in inventory until the time
+that we generate revenues for these products. It is possible that we may never
+generate any revenues from these products after incurring such expenditures.
+Even if a customer selects our product to incorporate into its equipment, we
+have no assurances that such customer will ultimately market and sell their
+equipment or that such efforts by our customer will be successful. The delays
+inherent in our lengthy sales cycle increase the risk
+
+
+
+
+
+                                       33
+<PAGE>   36
+
+that a customer will decide to cancel or change its product plans. Such a
+cancellation or change in plans by a customer could cause us to lose sales that
+we had anticipated. In addition, our business, financial condition and results
+of operations could be materially and adversely affected if a significant
+customer curtails, reduces or delays orders during our sales cycle or chooses
+not to release equipment that contains our products.
+
+         While our sales cycles are typically long, our average product life
+cycles tend to be short as a result of the rapidly changing technology
+environment in which we operate. As a result, the resources devoted to product
+sales and marketing may not generate material revenues for us, and from time to
+time, we may need to write off excess and obsolete inventory. If we incur
+significant marketing and inventory expenses in the future that we are not able
+to recover, and we are not able to compensate for those expenses, our operating
+results could be adversely affected. In addition, if we sell our products at
+reduced prices in anticipation of cost reductions, and we still have higher cost
+products in inventory, our operating results would be harmed.
+
+BECAUSE WE ARE SUBJECT TO ORDER AND SHIPMENT UNCERTAINTIES, ANY SIGNIFICANT
+CANCELLATIONS OR DEFERRALS COULD ADVERSELY AFFECT OUR OPERATING RESULTS.
+
+         We typically sell products pursuant to purchase orders that customers
+can generally cancel or defer on short notice without incurring a significant
+penalty. Any significant cancellations or deferrals could materially and
+adversely affect our business, financial condition and results of operations. In
+addition, cancellations or deferrals could cause us to hold excess inventory,
+which could reduce our profit margins and restrict our ability to fund our
+operations. We recognize revenue upon shipment of products to a customer. If a
+customer refuses to accept shipped products or does not timely pay for these
+products, we could incur significant charges against our income. These charges
+could materially and adversely affect our operating results.
+
+THE COMPLEXITY OF OUR PRODUCTS COULD RESULT IN UNFORESEEN DELAYS OR EXPENSES AND
+IN UNDETECTED DEFECTS OR BUGS, WHICH COULD ADVERSELY AFFECT THE MARKET
+ACCEPTANCE OF NEW PRODUCTS AND DAMAGE OUR REPUTATION WITH CURRENT OR PROSPECTIVE
+CUSTOMERS.
+
+         Highly complex products such as the products that we offer frequently
+contain defects and bugs when they are first introduced or as new versions are
+released. We have in the past experienced, and may in the future experience,
+these defects and bugs. If any of our products contain defects or bugs, or have
+reliability, quality or compatibility problems, our reputation may be damaged
+and customers may be reluctant to buy our products, which could materially and
+adversely affect our ability to retain existing customers or attract new
+customers. In addition, these defects or bugs could interrupt or delay sales to
+our customers. In order to alleviate these problems, we may have to invest
+significant capital and other resources. Although our products are tested by our
+suppliers, our customers and ourselves, it is possible that our new products
+will contain defects or bugs. If any of these problems are not found until after
+we have commenced commercial production of a new product, we may be required to
+incur additional development costs and product recall, repair or replacement
+costs. These problems may also result in claims against us by our customers or
+others. In addition, these problems may divert our technical and other resources
+from other development efforts. Moreover, we would likely lose, or experience a
+delay in, market acceptance of the affected product or products, and we could
+lose credibility with our current and prospective customers.
+
+
+
+                                       34
+<PAGE>   37
+
+OUR OPERATING RESULTS MAY VARY SIGNIFICANTLY DUE TO THE CYCLICALITY OF THE
+SEMICONDUCTOR INDUSTRY. ANY SUCH VARIATIONS COULD ADVERSELY AFFECT THE MARKET
+PRICE OF OUR COMMON STOCK.
+
+         We operate in the semiconductor industry, which is cyclical and subject
+to rapid technological change. From time to time, the semiconductor industry has
+experienced significant economic downturns, characterized by diminished product
+demand, accelerated erosion of prices and excess production capacity. This
+industry also periodically experiences increased demand and production capacity
+constraints. Accordingly, our quarterly results may vary significantly as a
+result of the general conditions in the semiconductor industry.
+
+OUR CALIFORNIA FACILITIES AND THE FACILITIES OF ONE OF THE TWO INDEPENDENT
+FOUNDRIES UPON WHICH WE RELY TO MANUFACTURE SUBSTANTIALLY ALL OF OUR CURRENT
+PRODUCTS ARE LOCATED IN REGIONS THAT ARE SUBJECT TO EARTHQUAKES AND OTHER
+NATURAL DISASTERS.
+
+         Our California facilities, including our principal executive offices,
+are located near major earthquake fault lines. If there is a major earthquake or
+any other natural disaster in a region where one of our facilities is located,
+our business could be materially and adversely affected. In addition, TSMC, one
+of the two outside foundries upon which we rely to manufacture substantially all
+of our semiconductor devices, is located in Taiwan, a country that is also
+subject to earthquakes. Any earthquake or other natural disaster in Taiwan could
+materially disrupt TSMC's production capabilities and could result in our
+experiencing a significant delay in delivery, or substantial shortage, of wafers
+and possibly in higher wafer prices.
+
+CHANGES IN CURRENT OR FUTURE LAWS OR REGULATIONS OR THE IMPOSITION OF NEW LAWS
+OR REGULATIONS BY THE FCC, OTHER FEDERAL OR STATE AGENCIES OR FOREIGN
+GOVERNMENTS COULD IMPEDE THE SALE OF OUR PRODUCTS OR OTHERWISE HARM OUR
+BUSINESS.
+
+         The Federal Communications Commission has broad jurisdiction over each
+of our target markets. Although current FCC regulations and the laws and
+regulations of other federal or state agencies are not directly applicable to
+our products, they do apply to much of the equipment into which our products are
+incorporated. As a result, the effects of regulation on our customers or the
+industries in which they operate may, in turn, materially and adversely impact
+our business, financial condition and results of operations. FCC regulatory
+policies that affect the ability of cable operators or telephone companies to
+offer certain services or other aspects of their business may impede the sale of
+our products. For example, in the past we have experienced delays when products
+incorporating our chips failed to comply with FCC emissions specifications. We
+and our customers may also be subject to regulation by countries other than the
+United States. Foreign governments may impose tariffs, duties and other import
+restrictions on components that we obtain from non-domestic suppliers and may
+impose export restrictions on products that we sell internationally. These
+tariffs, duties or restrictions could materially and adversely affect our
+business, financial condition and results of operations. Changes in current laws
+or regulations or the imposition of new laws and regulations in the United
+States or elsewhere could also materially and adversely affect our business.
+
+
+
+                                       35
+<PAGE>   38
+
+CERTAIN OF OUR DIRECTORS, EXECUTIVE OFFICERS AND THEIR AFFILIATES CAN CONTROL
+THE OUTCOME OF MATTERS THAT REQUIRE THE APPROVAL OF OUR SHAREHOLDERS, AND
+ACCORDINGLY WE WILL NOT BE ABLE TO ENGAGE IN CERTAIN TRANSACTIONS WITHOUT THEIR
+APPROVAL.
+
+         As of September 30, 2000 our directors and executive officers
+beneficially owned approximately 31.4% of our outstanding common stock and 70.3%
+of the total voting control held by our shareholders. In particular, as of
+September 30, 2000 our two founders, Dr. Henry T. Nicholas III and Dr. Henry
+Samueli, beneficially owned a total of approximately 30.2% of our outstanding
+common stock and 67.9% of the total voting control held by our shareholders.
+Accordingly, these shareholders currently have enough voting power to control
+the outcome of matters that require the approval of our shareholders. These
+matters include the election of a majority of our Board of Directors, the
+issuance of additional shares of Class B common stock, and the approval of most
+significant corporate transactions, including a merger, consolidation or sale of
+substantially all of our assets. In addition, these insiders currently also
+control the management of our business. Because of their significant stock
+ownership, we will not be able to engage in certain transactions without the
+approval of these shareholders. These transactions include proxy contests,
+mergers, tender offers, open market purchase programs or other purchases of our
+Class A common stock that could give our shareholders the opportunity to receive
+a higher price for their shares than the prevailing market price at the time of
+such purchases.
+
+OUR STOCK PRICE IS HIGHLY VOLATILE. ACCORDINGLY, YOU MAY NOT BE ABLE TO RESELL
+YOUR SHARES OF COMMON STOCK AT OR ABOVE THE PRICE YOU PAID FOR THEM.
+
+         The market price of our Class A common stock has fluctuated
+substantially in the past and is likely to continue to be highly volatile and
+subject to wide fluctuations. Since our initial public offering in April 1998,
+our Class A common stock has traded at prices as low as $11.75 and as high as
+$274.75 per share. These fluctuations have occurred and may continue to occur in
+response to various factors, many of which we cannot control, including:
+
+         o  quarter-to-quarter variations in our operating results;
+
+         o  announcements of technological innovations or new products by our
+            competitors, customers or us;
+
+         o  general conditions in the semiconductor industry and
+            telecommunications and data communications equipment markets;
+
+         o  changes in earnings estimates or investment recommendations by
+            analysts;
+
+         o  changes in investor perceptions; or
+
+         o  changes in expectations relating to our products, plans and
+            strategic position or those of our competitors or customers.
+
+         In addition, the market prices of securities of Internet-related and
+other high technology companies have been especially volatile. This volatility
+has significantly affected the market prices of securities of many technology
+companies for reasons frequently unrelated to the operating performance of the
+specific companies. Accordingly, you may not be able to resell your shares of
+common stock at or above the price you paid. In the past, companies that have
+experienced volatility in the market price of their securities have been the
+subject of
+
+
+
+                                       36
+<PAGE>   39
+
+securities class action litigation. If we were the object of a securities class
+action litigation, it could result in substantial losses and divert management's
+attention and resources from other matters.
+
+OUR PRODUCTS AND INTERNAL INFORMATION SYSTEMS AND THE PRODUCTS AND SYSTEMS OF
+OUR CUSTOMERS AND THE THIRD PARTY SUPPLIERS WHO FABRICATE, TEST AND ASSEMBLE OUR
+PRODUCTS MAY BE NEGATIVELY IMPACTED BY YEAR 2000 COMPLIANCE PROBLEMS.
+
+         Many existing computer systems, software applications and embedded
+computer chips, software and firmware in control devices use only two digits to
+identify a year in the date field. These systems, applications and control
+devices need to accept four digit entries to distinguish 21st Century dates from
+20th Century dates. In addition, they may not correctly process "leap year"
+dates or may fail to recognize February 29, 2000 as a leap year date as a result
+of an exception to the calculation of leap years that will occur in the Year
+2000 and otherwise occurs only once every 400 years. As a result, these systems
+and applications had to be upgraded to comply with the Year 2000 requirements or
+risk system failure, miscalculations or other disruptions to normal business
+activities.
+
+         To date we have not experienced any known material Year 2000 problems
+in our products, our internal systems or facilities, or the products, systems
+and services of third parties. We will continue to monitor our mission critical
+computer applications and those of our suppliers and vendors throughout the year
+2000 to ensure that any latent Year 2000 matters that may arise are addressed
+promptly. We did not incur material costs to identify and address specific Year
+2000 compliance issues. We could however incur additional costs in addressing
+any residual Year 2000 issues, which could have a material and adverse effect on
+our business.
+
+WE MAY NEED TO RAISE ADDITIONAL CAPITAL IN THE FUTURE THROUGH THE ISSUANCE OF
+ADDITIONAL EQUITY OR CONVERTIBLE DEBT SECURITIES OR BY BORROWING MONEY, AND
+ADDITIONAL FUNDS MAY NOT BE AVAILABLE ON TERMS ACCEPTABLE TO US.
+
+         We believe that our existing cash, cash equivalents and investments on
+hand, together with the cash that we expect to generate from our operations,
+will be sufficient to meet our capital needs for at least the next twelve
+months. However, it is possible that we may need to raise additional funds to
+fund our activities beyond the next year or to consummate acquisitions of other
+businesses, products, or technologies. We could raise these funds by selling
+more stock to the public or to selected investors, or by borrowing money. In
+addition, even though we may not need additional funds, we may still elect to
+sell additional equity securities or obtain credit facilities for other reasons.
+We may not be able to obtain additional funds on favorable terms, or at all. If
+adequate funds are not available, we may be required to curtail our operations
+significantly or to obtain funds through arrangements with strategic partners or
+others that may require us to relinquish rights to certain technologies or
+potential markets. If we raise additional funds by issuing additional equity or
+convertible debt securities, the ownership percentages of existing shareholders
+would be reduced. In addition, the equity or debt securities that we issue may
+have rights, preferences or privileges senior to those of the holders of our
+common stock.
+
+
+                                       37
+<PAGE>   40
+
+         It is possible that our future capital requirements may vary materially
+from those now planned. The amount of capital that we will need in the future
+will depend on many factors, including:
+
+         o  the market acceptance of our products;
+
+         o  the levels of promotion and advertising that will be required to
+            launch our new products and achieve and maintain a competitive
+            position in the marketplace;
+
+         o  volume price discounts;
+
+         o  our business, product, capital expenditure and research and
+            development plans and product and technology roadmaps;
+
+         o  the levels of inventory and accounts receivable that we maintain;
+
+         o  capital improvements to new and existing facilities;
+
+         o  technological advances;
+
+         o  our competitors' response to our products; and
+
+         o  our relationships with suppliers and customers.
+
+         In addition, we may require additional capital to accommodate planned
+growth, hiring, infrastructure and facility needs or to consummate acquisitions
+of other businesses, products or technologies.
+
+OUR ARTICLES OF INCORPORATION AND BYLAWS CONTAIN ANTI-TAKEOVER PROVISIONS THAT
+COULD ADVERSELY AFFECT THE PRICE OF OUR COMMON STOCK.
+
+         Our articles of incorporation and bylaws contain provisions that may
+prevent or discourage a third party from acquiring us, even if the acquisition
+would be beneficial to our shareholders. In addition, we have in the past issued
+and will in the future issue shares of Class B common stock in connection with
+certain acquisitions, upon exercise of certain stock options, and for other
+purposes. Class B shares have superior voting rights entitling the holder to ten
+votes for each share held on matters that we submit to a shareholder vote (as
+compared with one vote per share in the case of our publicly-held Class A common
+stock). Our Board of Directors also has the authority to fix the rights and
+preferences of shares of our preferred stock and to issue such shares without a
+shareholder vote. It is possible that the provisions in our charter documents,
+the existence of supervoting rights by holders of our Class B common stock, our
+officers' ownership of a majority of the Class B common stock and the ability of
+our Board of Directors to issue preferred stock may prevent parties from
+acquiring us. In addition, these factors may discourage third parties from
+bidding for our Class A common stock at a premium over the market price for this
+stock. Finally, these factors may also materially and adversely affect the
+market price of our Class A common stock, and the voting and other rights of the
+holders of our common stock.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         Reference is made to the section titled Quantitative and Qualitative
+Disclosures about Market Risk, in the Company's Current Report on Form 8-K/A
+filed with the SEC on July 10, 2000.
+
+
+
+                                       38
+<PAGE>   41
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+        In July 1997 the Company commenced an action against Sarnoff Corporation
+and Sarnoff Digital Communications, Inc., now known as NxtWave Communications,
+Inc. (collectively, "Sarnoff"), in the California Superior Court alleging breach
+of contract, fraud, misappropriation of trade secrets, false advertising, trade
+libel, intentional interference with prospective economic advantage and unfair
+competition. The claims center on Sarnoff's violation of a non-disclosure
+agreement entered into with the Company with respect to limited use of certain
+of the Company's technology and on inaccurate comparisons that the Company
+believes Sarnoff has made in its product advertising and in statements to
+potential customers and others. This action was removed to the United States
+District Court for the Central District of California, and was stayed pending
+resolution of an action Sarnoff had brought against the Company in April 1997 in
+New Jersey Superior Court. Following the decision in the New Jersey action in
+the Company's favor in early 1999, Sarnoff filed a motion for summary judgment
+in the California case on the basis that the issues therein had been or should
+have been previously litigated in the New Jersey action under the New Jersey
+"entire controversy" doctrine. Following oral argument in August 1999, the
+District Court granted Sarnoff's motion and dismissed the Company's claims on
+the grounds that they should have been brought as part of the New Jersey action.
+The Company believes that the California action involves facts, circumstances
+and claims unrelated to those at issue in the New Jersey action, and has filed
+an appeal of the District Court's ruling. Briefing of the appeal in the Ninth
+Circuit Court of Appeals is now complete and the parties await a date for oral
+argument in the case.
+
+        In March 2000 Intel Corporation ("Intel") and its subsidiary Level One
+Communications, Inc. ("Level One") filed a complaint in California Superior
+Court asserting claims against the Company for misappropriation of trade
+secrets, unfair competition, and tortious interference with existing contractual
+relations by the Company in connection with its recent hiring of three former
+Intel employees. The complaint sought injunctive relief, an accounting, damages,
+exemplary damages and attorneys' fees. Intel/Level One filed a first amended
+complaint on April 28, 2000 seeking additional relief and containing certain
+additional allegations, but asserting the same causes of action as the original
+complaint. On May 25, 2000 the Court concluded a preliminary injunction hearing
+in the matter. The Court denied Intel/Level One's request for injunctive relief
+restricting the positions in which the three employees could work for the
+Company, but issued an order granting certain other preliminary relief. The
+Company has denied any wrongdoing or liability and has instructed its attorneys
+to vigorously defend the action. On June 30, 2000 the Company filed a
+cross-complaint against Intel/Level One, and on September 18, 2000, amended that
+cross-complaint. The Company's amended cross-complaint includes causes of action
+against Intel/Level One for unfair competition, trade secret misappropriation,
+and tortious interference with contractual relations. On September 25, 2000 the
+Company filed a motion for preliminary injunction, which asks the Court to
+enjoin Intel/Level One from further unfair competition and seeks other relief,
+including enjoining the marketing, sampling, distribution, shipment or sale of
+certain products. The motion was heard on November 8, 2000, and a decision from
+the Court is pending. The litigation is currently in the discovery stage and is
+scheduled for trial in March 2001.
+
+        In August 2000 Intel filed a complaint in the United States District
+Court for the District of Delaware against the Company asserting that (i) the
+Company infringes five Intel patents relating to video compression, high-speed
+networking and semiconductor packaging, (ii) the Company induces the
+infringement of such patents, and (iii) the Company contributorily infringes
+such patents. The complaint sought a preliminary and permanent injunction
+against the Company as well as the recovery of monetary damages, including
+treble damages for willful infringement. Intel has not yet identified which
+products allegedly infringe its patents. The Company has not yet answered the
+complaint, but on October 10, 2000 the Company filed a motion to dismiss, or in
+the alternative, to transfer venue; this motion is currently pending before the
+court. The Company believes that it has strong defenses to Intel's claims. The
+parties are currently in the initial stages of discovery in the action. The
+Court has tentatively scheduled a hearing on patent claims construction to
+commence in September 2001 and a trial to begin in October 2001.
+
+        On October 6, 2000 the Company filed a complaint for declaratory
+judgment in the United States District Court for the Northern District of
+California against Intel asserting that the patents asserted by Intel in the
+Delaware action are not infringed.
+
+        Although the Company believes that it has strong defenses and is
+defending the Delaware action vigorously, a finding of infringement by the
+Company as to one or more of the patents in this action could lead to liability
+for monetary damages (which could be trebled in the event that the infringement
+were found to have been willful), the issuance of an injunction requiring that
+the Company withdraw various products from the market, and indemnification
+claims by the Company's customers or strategic partners, each of which events
+could have a material adverse effect on the Company's, business, results of
+operations and financial condition.
+
+        In September 1998 Motorola, Inc. ("Motorola") filed a complaint in the
+United States District Court for the District of Massachusetts against AltoCom,
+Inc. ("AltoCom")(and co-defendant, PC-Tel, Inc.) asserting that (i) AltoCom's
+V.34 and V.90 compliant software modem technology infringes several patents
+owned by Motorola, (ii) AltoCom induces its V.34 and V.90 licensees to infringe
+such patents, and (iii) AltoCom contributorily infringes such patents. The
+complaint sought a preliminary and permanent injunction against AltoCom as well
+as the recovery of monetary damages, including treble damages for willful
+infringement. In October 1998 Motorola affirmatively dismissed its case in the
+District of Massachusetts and filed a substantially similar complaint in the
+United States District Court for the District of Delaware. AltoCom has filed an
+answer and affirmative defenses to the District of Delaware complaint. AltoCom
+has also asserted a counterclaim requesting declaratory relief that AltoCom has
+not infringed the Motorola patents and that such patents are invalid and/or
+unenforceable as well as a counterclaim requesting declaratory and injunctive
+relief based on a breach of
+
+
+
+                                       39
+<PAGE>   42
+contract theory. AltoCom believes that it has strong defenses to Motorola's
+claims on invalidity, noninfringement and inequitable conduct grounds. In May
+2000 Motorola filed an amended complaint alleging that AltoCom's technology
+infringes an additional Motorola patent. The parties are currently engaged in
+discovery in the action. AltoCom became a subsidiary of the Company on August
+31, 1999. In September 1999 PC-Tel, Inc., the co-defendant in the case, reached
+a settlement with Motorola.
+
+        Although AltoCom believes that it has strong defenses and is defending
+the action vigorously, a finding of infringement by AltoCom as to at least one
+of the patents in this action could lead to liability for monetary damages
+(which could be trebled in the event that the infringement were found to have
+been willful), the issuance of an injunction requiring that AltoCom withdraw
+various products from the market, and indemnification claims by AltoCom's
+customers or strategic partners, each of which events could have a material
+adverse effect on AltoCom's, and possibly the Company's, business, results of
+operations and financial condition.
+
+        In December 1999 Level One filed a complaint in the United States
+District Court for the Eastern District of California against Altima
+Communications, Inc., asserting that Altima's AC108R repeater products infringe
+a U.S. patent owned by Level One. The complaint sought an injunction against
+Altima as well as the recovery of monetary damages, including treble damages for
+willful infringement. Altima filed an answer and affirmative defenses to the
+complaint in the Eastern District of California. In March 2000 Level One filed
+a related complaint in the U.S. International Trade Commission ("ITC"), seeking
+an exclusion order and cease and desist order based on alleged infringement of
+the same patent. Monetary damages are not available in the ITC. The ITC
+instituted an investigation in April 2000. Altima filed an answer and
+affirmative defenses to the complaint in the ITC. In July 2000 Intel and Level
+One filed a second complaint in the ITC, asserting that certain of Altima's
+repeater, switch, and transceiver products infringe three additional U.S.
+patents owned by Level One or Intel. The ITC instituted a second investigation
+in August 2000, and the Administrative Law Judge assigned to hear the cases
+issued an order in August 2000 granting a motion to consolidate the two
+investigations. In September 2000, Altima filed declaratory judgment actions
+against Intel and Level One, respectively, in the United States District Court
+for the Northern District of California asserting that Altima has not infringed
+the three additional Intel and Level One patents and that such patents are
+invalid or unenforceable. Pursuant to statute, Altima is entitled to a stay of
+all proceedings in the three District Court actions while the ITC investigation
+is pending. The Level One action in the Eastern District of California has
+already been stayed and Altima has formally requested a stay of both of the
+Northern District of California actions.
+
+        Altima believes it has strong defenses to the claims of Level One and
+Intel on noninfringement, invalidity, and inequitable conduct grounds. The
+parties are currently engaged in discovery in the consolidated ITC action, and a
+hearing on the merits before the ITC Administrative Law Judge is scheduled to
+begin in April 2001. Altima became a subsidiary of the Company on September 7,
+2000.
+
+        Although Altima believes that it has strong defenses and is defending
+the action vigorously, a finding of infringement by Altima as to the patent in
+the Eastern District of California action could lead to liability for monetary
+damages (which could be trebled in the event that the infringement were found to
+have been willful) and the issuance of an injunction requiring that Altima
+withdraw various products from the market. A finding against Altima in the
+consolidated ITC action could result in the exclusion of certain Altima products
+from entering the United States. Any finding adverse to Altima in these actions
+could also result in indemnification claims by Altima's customers or strategic
+partners. Any of the foregoing events could have a material adverse effect on
+Altima's, and possibly the Company's, business, results of operations and
+financial condition.
+
+        The Company and its subsidiaries are also involved in other legal
+proceedings, claims and litigation arising in the ordinary course of business.
+
+        The pending lawsuits involve complex questions of fact and law and could
+require the expenditure of significant costs and diversion of resources to
+defend. Although management currently believes the outcome of outstanding legal
+proceedings, claims and litigation will not have a material adverse effect on
+the Company's business, results of operations or financial condition, the
+results of litigation are inherently uncertain, and an adverse outcome is at
+least reasonably possible. The Company is unable to estimate the range of
+possible loss from outstanding litigation, and no amounts have been provided for
+such matters in the accompanying consolidated financial statements.
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+        On February 29, 2000 in connection with our acquisition of Digital
+Furnace Corporation, we issued an aggregate of 664,734 shares of our Class B
+common stock in exchange for all shares of Digital Furnace's preferred and
+common stock and reserved 85,266 additional shares of our Class B common stock
+for issuance upon exercise of outstanding Digital Furnace employee stock options
+and other rights of Digital Furnace.
+
+        On March 1, 2000 in connection with our acquisition of BlueSteel
+Networks, Inc., we issued an aggregate of 678,227 shares of our Class B common
+stock in exchange for all shares of BlueSteel's preferred and common stock and
+reserved 132,151 additional shares of our Class B common stock for issuance upon
+exercise of outstanding BlueSteel employee stock options and other rights of
+BlueSteel.
+
+        On March 1, 2000 in connection with our acquisition of Stellar
+Semiconductor Inc., we issued an aggregate of 672,346 shares of our Class B
+common stock in exchange for all shares of Stellar's preferred and common stock
+and reserved 112,877 additional shares of our Class B common stock for issuance
+upon exercise of outstanding Stellar employee stock options and other rights of
+Stellar.
+
+        On May 31, 2000 in connection with our acquisition of Pivotal
+Technologies Corp., we issued an aggregate of 1,895,823 shares of our Class B
+common stock in exchange for all shares of Pivotal's preferred and common stock
+and reserved 43,419 additional shares of our Class B common stock for issuance
+upon exercise of outstanding employee stock options and other rights of Pivotal.
+
+
+
+                                       40
+<PAGE>   43
+        On July 19, 2000 in connection with our acquisition of Innovent
+Systems, Inc., we issued an aggregate of 2,339,149 shares of our Class A common
+stock in exchange for all shares of Innovent's preferred and common stock and
+reserved 605,961 additional shares of our Class A common stock for issuance upon
+exercise of outstanding employee stock options and other rights of Innovent.
+
+        On August 31, 2000 in connection with our acquisition Puyallup
+Integrated Circuit Company, Inc., we issued an aggregate of 148,539 shares of
+our Class A common stock in exchange for all outstanding shares of Puyallup
+common stock and reserved 139,993 additional shares of our Class A common stock
+for issuance upon exercise of outstanding employee stock options and other
+rights of Puyallup.
+
+        On September 7, 2000 in connection with our acquisition of Altima
+Communications, Inc., we issued an aggregate of 1,661,784 shares of our Class A
+common in exchange for all outstanding shares of Altima preferred and common
+stock and reserved 875,111 additional shares of our Class A common stock for
+issuance upon exercise of outstanding employee stock options and other rights of
+Altima. In addition to the purchase consideration, we reserved 2,889,667 shares
+of our Class A common stock for future issuance to customers upon exercise of
+outstanding performance-based warrants of Altima that become exercisable upon
+satisfaction of certain customer purchase requirements.
+
+        The offer and sale of the securities described above were effected
+without registration in reliance on the exemption afforded by section 3(a)(10)
+of the Securities Act of 1933, as amended. The foregoing issuances were
+approved, after a hearing upon the fairness of the terms and conditions of the
+transaction, by the California Department of Corporations under authority to
+grant such approval as expressly authorized by the laws of the State of
+California.
+
+
+
+                                       41
+<PAGE>   44
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+        None.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        None.
+
+ITEM 5. OTHER INFORMATION
+
+        None.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+        (a) Exhibits
+
+            27.1 -- Financial Data Schedule
+
+        (b) Reports on Form 8-K
+
+         On July 10, 2000 the Company filed a report on Form 8-K/A to provide
+restated historical consolidated financial statements as of December 31, 1999
+and 1998 and for each of the three years in the period ended December 31, 1999
+to reflect the pooled operations of Digital Furnace Corporation, BlueSteel
+Networks, Inc., Stellar Semiconductor, Inc. and Pivotal Technologies Corp.
+
+         On July 21, 2000 the Company filed a report on Form 8-K relating to its
+second quarter earnings press release and to disclose the completion of the
+Company's acquisition of Innovent Systems, Inc. on July 19, 2000.
+
+         On August 2, 2000 the Company filed a report on Form 8-K to disclose
+the completion of the Company's acquisition of Innovent Systems, Inc on July 19,
+2000.
+
+         On August 4, 2000 the Company filed a report on Form 8-K relating to
+its agreement to acquire Altima Communications, Inc.
+
+         On August 9, 2000 the Company filed a report on Form 8-K relating to
+its agreement to acquire Silicon Spice Inc.
+
+         On August 16, 2000 the Company filed a report on Form 8-K relating to
+its agreement to acquire NewPort Communications, Inc.
+
+         On September 22, 2000 the Company filed a report on Form 8-K to
+disclose the completion of the Company's acquisition of Altima Communications,
+Inc.
+
+
+
+
+                                       42
+<PAGE>   45
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                                           BROADCOM CORPORATION,
+                                           A CALIFORNIA CORPORATION
+                                           (Registrant)
+
+
+
+November 14, 2000                          /s/ WILLIAM J. RUEHLE
+                                           -------------------------------------
+                                           William J. Ruehle
+                                           Vice President and Chief Financial
+                                           Officer (Principal Financial Officer)
+
+
+                                           /s/ SCOTT J. POTERACKI
+                                           -------------------------------------
+                                           Scott J. Poteracki
+                                           Corporate Controller and Senior
+                                           Director of Finance (Principal
+                                           Accounting Officer)
+
+
+
+                                       43
+<PAGE>   46
+                                 EXHIBIT INDEX
+
+         EXHIBIT
+         NUMBER                   DESCRIPTION
+         -------                  -----------
+          27.1              Financial Data Schedule
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<FILENAME>a67259ex27-1.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JAN-01-2000
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                         377,813
+<SECURITIES>                                   104,570
+<RECEIVABLES>                                  167,624
+<ALLOWANCES>                                    15,140
+<INVENTORY>                                     44,471
+<CURRENT-ASSETS>                               714,125
+<PP&E>                                         127,880
+<DEPRECIATION>                                  41,919
+<TOTAL-ASSETS>                               2,473,234
+<CURRENT-LIABILITIES>                          162,375
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            21
+<OTHER-SE>                                   2,310,136
+<TOTAL-LIABILITY-AND-EQUITY>                 2,473,234
+<SALES>                                        755,923
+<TOTAL-REVENUES>                               755,923
+<CGS>                                          317,430
+<TOTAL-COSTS>                                  317,430
+<OTHER-EXPENSES>                               341,443
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                            (12,984)
+<INCOME-PRETAX>                                110,034
+<INCOME-TAX>                                    34,872
+<INCOME-CONTINUING>                             75,162
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    75,162
+<EPS-BASIC>                                        .35
+<EPS-DILUTED>                                      .29
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

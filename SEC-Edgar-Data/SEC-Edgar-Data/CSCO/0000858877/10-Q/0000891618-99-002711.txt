@@ -1,0 +1,1787 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A88Vi93bZ8vy0y3FG7Qn3fEhyIgsh1031fkzI7OMSoGPHzJzDCf+991qnDCbqS0F
+ sKCKPrkfPMJ0gLpehj+nxA==
+
+<SEC-DOCUMENT>0000891618-99-002711.txt : 19990616
+<SEC-HEADER>0000891618-99-002711.hdr.sgml : 19990616
+ACCESSION NUMBER:		0000891618-99-002711
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19990501
+FILED AS OF DATE:		19990615
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CISCO SYSTEMS INC
+		CENTRAL INDEX KEY:			0000858877
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				770059951
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-18225
+		FILM NUMBER:		99646944
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134-1706
+		BUSINESS PHONE:		4085264000
+
+	MAIL ADDRESS:	
+		STREET 1:		225 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134-1706
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR PERIOD ENDED 5/1/99
+<TEXT>
+
+<PAGE>   1
+
+
+                                    FORM 10-Q
+
+(Mark one)
+
+[X]     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+        EXCHANGE ACT OF 1934
+
+                   For the quarterly period ended MAY 1, 1999
+
+                                       OR
+
+[ ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+        EXCHANGE ACT OF 1934
+
+         For the transition period from ______________ to ____________
+
+
+                         Commission file number 0-18225
+
+                               CISCO SYSTEMS, INC.
+             (Exact name of registrant as specified in its charter)
+
+               California                              77-0059951
+     (State or other jurisdiction of                (I.R.S. Employer
+     Incorporation or organization)              Identification Number)
+
+                              170 West Tasman Drive
+                           San Jose, California 95134
+              (Address of principal executive office and zip code)
+
+                                 (408) 526-4000
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to filing requirements
+for the past 90 days.
+
+                              YES [X]       NO [ ]
+
+As of June 9, 1999, 1,611,543,199 shares of the Registrant's common stock were
+outstanding.
+
+
+
+                                       1
+<PAGE>   2
+
+                               CISCO SYSTEMS, INC.
+
+                   FORM 10-Q FOR THE QUARTER ENDED MAY 1, 1999
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                Page
+                                                                                ----
+<S>        <C>                                                                  <C>
+           Facing sheet                                                          1
+
+           Index                                                                 2
+
+Part I.    Financial information
+
+Item 1.    Financial Statements and Supplementary Data
+
+           a)    Consolidated statements of operations for the three
+                 and nine months ended May 1, 1999 and April 25, 1998            3
+
+           b)    Consolidated balance sheets at May 1, 1999
+                 and July 25, 1998                                               4
+
+           c)    Consolidated statements of cash flows for the nine
+                 months ended May 1, 1999 and April 25, 1998                     5
+
+           d)    Notes to consolidated financial statements                      6
+
+Item 2.    Management's discussion and analysis of financial
+           condition and results of operations                                  12
+
+Part II.   Other information                                                    34
+
+           Signature                                                            35
+
+Exhibit    Exhibit 27, Financial data schedule                                  36
+</TABLE>
+
+
+
+                                       2
+<PAGE>   3
+
+                                     PART I.
+
+               ITEM 1. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+                               CISCO SYSTEMS, INC.
+
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                     (In millions, except per-share amounts)
+
+<TABLE>
+<CAPTION>
+                                                  Three Months Ended          Nine Months Ended
+                                                ----------------------      ----------------------
+                                                May 1,       April 25,      May 1,       April 25,
+                                                 1999          1998          1999          1998
+                                                ------       ---------      ------       ---------
+                                                                  (Unaudited)
+<S>                                             <C>           <C>           <C>           <C>
+Net sales                                       $3,147        $2,184        $8,562        $6,069
+Cost of sales                                    1,102           750         2,981         2,099
+                                                ------        ------        ------        ------
+   Gross margin                                  2,045         1,434         5,581         3,970
+
+Operating expenses:
+  Research and development                         418           263         1,102           726
+  Sales and marketing                              647           412         1,731         1,109
+  General and administrative                       105            67           279           181
+  Purchased research and development                --           419           390           546
+                                                ------        ------        ------        ------
+    Total operating expenses                     1,170         1,161         3,502         2,562
+                                                ------        ------        ------        ------
+
+Operating income                                   875           273         2,079         1,408
+
+Realized gain on sale of investment                 --            --            --             5
+Interest and other income, net                      90            52           235           133
+                                                ------        ------        ------        ------
+
+Income before provision for income taxes           965           325         2,314         1,546
+Provision for income taxes                         319           260           862           687
+                                                ------        ------        ------        ------
+
+Net income                                      $  646        $   65        $1,452        $  859
+                                                ======        ======        ======        ======
+
+Net income per share--basic                     $  .40        $  .04        $  .92        $  .56
+                                                ======        ======        ======        ======
+Net income per share--diluted                   $  .38        $  .04        $  .86        $  .54
+                                                ======        ======        ======        ======
+
+Shares used in per-share
+  calculation--basic                             1,601         1,541         1,585         1,526
+                                                ======        ======        ======        ======
+Shares used in per-share
+  calculation--diluted                           1,696         1,614         1,679         1,598
+                                                ======        ======        ======        ======
+</TABLE>
+
+
+
+See notes to consolidated financial statements.
+
+
+
+                                       3
+<PAGE>   4
+
+                               CISCO SYSTEMS, INC.
+
+                           CONSOLIDATED BALANCE SHEETS
+                         (In millions, except par value)
+
+<TABLE>
+<CAPTION>
+                                                                     May 1,        July 25,
+                                                                      1999           1998
+                                                                     ------        --------
+                                                                   (Unaudited)
+<S>                                                                <C>             <C>
+                                          ASSETS
+Current assets:
+
+   Cash and equivalents                                              $   690        $  535
+   Short-term investments                                              1,161         1,157
+   Accounts receivable, net of allowance for doubtful
+     accounts of $30 at May 1, 1999 and
+     $40 at July 25, 1998                                              1,275         1,298
+   Inventories, net                                                      621           362
+   Deferred income taxes                                                 490           345
+   Prepaid expenses and other current assets                              89            65
+                                                                     -------        ------
+          Total current assets                                         4,326         3,762
+
+Investments                                                            5,840         3,463
+Restricted investments                                                   804           554
+Property and equipment, net                                              701           595
+Other assets, net                                                      1,037           543
+                                                                     -------        ------
+          Total assets                                               $12,708        $8,917
+                                                                     =======        ======
+
+                           LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+
+   Accounts payable                                                  $   348        $  249
+   Income taxes payable                                                  522           410
+   Accrued payroll and related expenses                                  466           391
+   Other accrued liabilities                                           1,076           717
+                                                                     -------        ------
+          Total current liabilities                                    2,412         1,767
+
+Minority interest                                                         44            43
+
+Shareholders' equity:
+
+   Preferred stock, no par value, 5 shares authorized:
+     none issued or outstanding at May 1, 1999
+     and July 25, 1998
+
+   Common stock and additional paid-in capital,
+     $0.001 par value, 2,700 shares authorized:
+     1,607 shares issued and outstanding at
+     May 1, 1999 and 1,563 at July 25, 1998                            4,847         3,220
+   Retained earnings                                                   5,280         3,828
+   Accumulated comprehensive income                                      125            59
+                                                                     -------        ------
+          Total shareholders' equity                                  10,252         7,107
+                                                                     -------        ------
+          Total liabilities and shareholders' equity                 $12,708        $8,917
+                                                                     =======        ======
+</TABLE>
+
+
+
+See notes to consolidated financial statements.
+
+
+
+                                       4
+<PAGE>   5
+
+                               CISCO SYSTEMS, INC.
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (In millions)
+
+<TABLE>
+<CAPTION>
+                                                                           Nine Months Ended
+                                                                       ------------------------
+                                                                       May 1,         April 25,
+                                                                        1999            1998
+                                                                       -------        ---------
+                                                                             (Unaudited)
+<S>                                                                    <C>             <C>
+Cash flows from operating activities:
+
+Net income                                                             $ 1,452         $   859
+Adjustments to reconcile net income to net cash
+   provided by operating activities:
+   Depreciation and amortization                                           334             229
+   Deferred income taxes                                                  (164)            (89)
+   Tax benefits from employee stock plans                                  679             282
+   Purchased research and development from acquisitions                    298             426
+   Change in operating assets and liabilities:
+
+      Accounts receivable                                                   29             (94)
+      Inventories                                                         (259)            (52)
+      Prepaid expenses and other current assets                            (22)             31
+      Income taxes payable                                                 110             107
+      Accounts payable                                                      96              47
+      Accrued payroll and related expenses                                  75              79
+      Other accrued liabilities                                            328             159
+                                                                       -------         -------
+            Net cash provided by operating activities                    2,956           1,984
+                                                                       -------         -------
+
+Cash flows from investing activities:
+
+   Purchases of short-term investments                                    (833)         (1,099)
+   Proceeds from sales and maturities of short-term investments          1,179           1,373
+   Purchases of investments                                             (3,977)         (2,015)
+   Proceeds from sales of investments                                    1,338             821
+   Purchases of restricted investments                                    (661)           (325)
+   Proceeds from sales and maturities of restricted investments            408             202
+   Acquisition of property and equipment                                  (377)           (282)
+   Acquisition of Selsius Systems, net of
+     purchased research and development                                    (19)
+   Increase in lease receivables                                          (175)           (106)
+   Other                                                                  (208)              9
+                                                                       -------         -------
+      Net cash used in investing activities                             (3,325)         (1,422)
+                                                                       -------         -------
+
+Cash flows from financing activities:
+
+   Issuance of common stock                                                519             343
+   Other                                                                     5              (4)
+                                                                       -------         -------
+      Net cash provided by financing activities                            524             339
+                                                                       -------         -------
+
+Net increase in cash and equivalents                                       155             901
+Cash and equivalents, beginning of period                                  535             270
+                                                                       -------         -------
+Cash and equivalents, end of period                                    $   690         $ 1,171
+                                                                       =======         =======
+</TABLE>
+
+
+
+See notes to consolidated financial statements.
+
+
+
+                                       5
+<PAGE>   6
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.      DESCRIPTION OF BUSINESS
+
+Cisco Systems, Inc. (the "Company") provides networking solutions that connect
+computing devices and computer networks, allowing people to access or transfer
+information without regard to differences in time, place or type of computer
+system. The Company sells its products in approximately 105 countries through a
+combination of direct sales and reseller and distribution channels.
+
+2.      SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Fiscal Year
+
+The Company's fiscal year is the 52- or 53-week period ending on the last
+Saturday in July. Fiscal year 1999 is a 53-week year while 1998 was a 52-week
+year.
+
+Basis of Presentation
+
+The accompanying financial data as of May 1, 1999 and July 25, 1998, and for the
+three and nine month periods ended May 1, 1999 and April 25, 1998, have been
+prepared by the Company, without audit, pursuant to the rules and regulations of
+the Securities and Exchange Commission. Certain information and footnote
+disclosures normally included in financial statements prepared in accordance
+with generally accepted accounting principles have been condensed or omitted
+pursuant to such rules and regulations. The July 25, 1998 balance sheet was
+derived from audited financial statements, but does not include all disclosures
+required by generally accepted accounting principles. However, the Company
+believes that the disclosures are adequate to make the information presented not
+misleading. These consolidated financial statements should be read in
+conjunction with the financial statements and the notes thereto included in the
+Company's Annual Report on Form 10-K for the year ended July 25, 1998.
+
+In the opinion of management, all adjustments (which include only normal
+recurring adjustments) necessary to present fairly the financial position,
+results of operations, and cash flows as of May 1, 1999 and for the three and
+nine month periods ended May 1, 1999 and April 25, 1998, have been made. The
+results of operations for the period ended May 1, 1999 are not necessarily
+indicative of the operating results for the full year.
+
+
+
+                                       6
+<PAGE>   7
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Advertising Costs
+
+The Company expenses all advertising costs as they are incurred.
+
+Software Development Costs
+
+Software development costs which are required to be capitalized pursuant to
+Statement of Financial Accounting Standards (SFAS) No. 86, "Accounting for the
+Costs of Computer Software to Be Sold, Leased, or Otherwise Marketed," have not
+been material to the Company to date.
+
+Computation of Net Income Per Share
+
+Basic net income per common share is computed using the weighted average number
+of common shares outstanding during the period. Diluted net income per share is
+computed using the weighted average number of common and dilutive common
+equivalent shares outstanding during the period. Dilutive common equivalent
+shares consist of stock options.
+
+Share and per share data presented reflect the three-for-two stock splits
+effective September 1998 and December 1997. The data does not give effect to the
+two-for-one stock split that will be effective June 21, 1999.
+
+Recent Accounting Pronouncements
+
+In June 1997, the Financial Accounting Standards Board issued SFAS No. 131
+"Disclosures about Segments of an Enterprise and Related Information" and in
+June 1998, issued SFAS No. 133, "Accounting for Derivative Instruments and
+Hedging Activities", implementation of which has recently been delayed. Readers
+are referred to the "Recent Accounting Pronouncements" section of the Company's
+1998 Annual Report to Shareholders for further discussion.
+
+The Company adopted Statement of Position (SOP) No. 97-2, "Software Revenue
+Recognition," in the first quarter of fiscal year 1999 and its adoption had no
+material impact on the Company's results from operations or financial position.
+
+
+
+                                       7
+<PAGE>   8
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+3.      BUSINESS COMBINATIONS
+
+Purchase Combinations
+
+The Company has made a number of purchase acquisitions. The consolidated
+financial statements include the operating results of each business from the
+date of acquisition. Pro forma results of operations have not been presented
+because the effects of these acquisitions were not material on either an
+individual or an aggregated basis.
+
+The amounts allocated to purchased research and development were determined
+based on appraisals completed by an independent third party using established
+valuation techniques in the high-technology communications industry and were
+expensed upon acquisition, because technological feasibility had not been
+established and no future alternative uses existed. Research and development
+costs to bring the products from the acquired companies to technological
+feasibility are not expected to have a material impact on the Company's future
+results of operations or cash flows. Amounts allocated to goodwill and other
+intangibles are amortized on a straight-line basis over periods not exceeding
+five years.
+
+In November, the Company completed its purchase of Summa Four, Inc. ("Summa
+Four"), a provider of programmable switch products. The Company's acquired
+technology consists of two existing programmable switch products and one
+programmable switch currently under development. Also in November, the Company
+completed its purchase of Clarity Wireless, Inc.("Clarity"), a developer of
+high-bandwidth wireless access technology for the computer networking and
+Internet access markets. The Company's acquired technology consists of two
+high-bandwidth access projects currently under development, patents and patents
+pending. Also in November, the Company completed its purchase of Selsius
+Systems, Inc.("Selsius"), a developer of voice over data network products. The
+Company's acquired technology consists of the core technology in Selsius'
+existing public broadcast exchange (PBX) system and technology currently under
+development for an enterprise-wide PBX system. Selsius' technology is focused on
+developing products that will deliver voice over data network solutions. In
+December, the Company acquired PipeLinks, Inc.("PipeLinks"), a developer of
+SONET/SDH routers. The Company's acquired technology consists of
+
+
+
+                                       8
+<PAGE>   9
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+two research and development projects in process which are expected to result in
+the ability to transport both voice and IP(Internet Protocol) traffic over the
+same network.
+
+Total purchased research and development expense was $390 million for the nine
+months ending May 1, 1999. The purchased research and development expense that
+was attributable to stock purchase acquisitions for the nine month period was
+$298 million and the purchased research and development expense attributable to
+the cash purchase transaction, consisting of Selsius only, was $92 million for
+the nine month period ended May 1, 1999.
+
+Each of the completed purchase acquisition transactions is further outlined
+below:
+
+Summary of purchase transactions (in millions):
+
+
+<TABLE>
+<CAPTION>
+                                                             Purchased
+                                                             Research &         Form of Consideration and Other Notes to
+        Entity Name                   Consideration      Development Charge                   Acquisition
+        -----------                   -------------      ------------------     ----------------------------------------
+<S>                                   <C>                <C>                   <C>
+Quarter Ended -
+October 24, 1998
+- -----------------------
+American Internet Corp.                    $ 56                 $41            Common stock and options assumed; goodwill and
+                                                                               other intangibles recorded of $18
+
+Quarter Ended -
+January 23, 1999
+- ----------------------
+Summa Four, Inc.                           $129                 $64            Common stock and options assumed, $16 in
+                                                                               liabilities assumed; goodwill and other
+                                                                               intangibles recorded of $29
+
+Clarity Wireless, Inc.                     $153                 $94            Common stock and options assumed; goodwill and
+                                                                               other intangibles recorded of $73
+
+Selsius Systems, Inc.                      $134                 $92            $111 in cash; options assumed; goodwill and
+                                                                               other intangibles recorded of $41
+
+PipeLinks, Inc.                            $118                 $99            Common stock and options assumed; goodwill and
+                                                                               other intangibles recorded of $11
+</TABLE>
+
+
+
+                                       9
+<PAGE>   10
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+In April 1999, the Company announced a definitive agreement to acquire Amteva
+Technologies, Inc., a leading developer of middleware, which provides a unified
+means for enabling voicemail, fax and e-mail messages over an IP-based network.
+Under the terms of the agreement, shares of the Company's common stock and cash
+with an aggregate value of approximately $170 million will be exchanged for all
+outstanding shares and options of Amteva. This acquisition is expected to be
+completed in the fourth quarter.
+
+Pooling of Interests Combinations
+
+In April 1999, the Company announced a definitive agreement to acquire Fibex
+Systems("Fibex"), a developer in Integrated Access Digital Loop Carrier (IADLC)
+products, devices that combine traditional voice services with data services
+using Asynchronous Transfer Mode ("ATM") as the underlying architecture. Also in
+April, the Company announced a definitive agreement to acquire Sentient
+Networks, Inc.("Sentient"), a developer of high density ATM Circuit Emulation
+Service (CES) Gateway, which is capable of transporting circuit-based private
+line services across packet-based ATM networks. Under terms of the agreement,
+shares of the Company's common stock with an aggregate value of approximately
+$320 million and $125 million will be exchanged for all outstanding shares and
+options of Fibex and Sentient, respectively.
+
+Also in April, the Company announced a definitive agreement to acquire GeoTel
+Communications Corp.("GeoTel"), a provider of software solutions for distributed
+voice call centers for enterprise and service provider customers. Under terms of
+the agreement, shares of the Company's common stock with an aggregate value of
+approximately $2 billion will be exchanged for all outstanding shares and
+options of GeoTel. These acquisitions are expected to be completed in the fourth
+quarter, subject to regulatory clearance and shareholder approval of the
+acquired companies.
+
+
+
+                                       10
+
+<PAGE>   11
+
+                               CISCO SYSTEMS, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+4.      BALANCE SHEET DETAIL
+          (In millions)
+
+<TABLE>
+<CAPTION>
+        Inventories:                          May 1,       July 25,
+                                               1999         1998
+                                              -----        --------
+                                            (Unaudited)
+<S>                                            <C>           <C>
+        Raw materials                          $ 118         $  76
+        Work in process                          232           143
+        Finished goods                           230           111
+        Demonstration systems                     41            32
+                                               -----         -----
+                                               $ 621         $ 362
+                                               =====         =====
+</TABLE>
+
+<TABLE>
+<CAPTION>
+        Intangible Assets:                    May 1,       July 25,
+                                               1999         1998
+                                              -----        --------
+                                           (Unaudited)
+<S>                                            <C>           <C>
+        Gross intangible assets                $ 415         $ 200
+        Less:  accumulated amortization          (71)          (30)
+                                               =====         =====
+                                               $ 344         $ 170
+                                               =====         =====
+</TABLE>
+
+Amortization expense for the three- and nine-month periods ended May 1, 1999 and
+April 25, 1998 was $19 million, $41 million, $4 million and $12 million,
+respectively.
+
+5.      COMPREHENSIVE INCOME
+
+The Company has adopted Statement of Financial Accounting Standards ("SFAS") No.
+130, "Reporting Comprehensive Income", as of the first quarter of fiscal 1999.
+SFAS No. 130 establishes new rules for the reporting and display of
+comprehensive income and its components, however, it has no impact on the
+Company's net income or total shareholders' equity.
+
+
+
+                                       11
+<PAGE>   12
+                              CISCO SYSTEMS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+The components of comprehensive income, net of tax, are as follows (in
+millions):
+
+<TABLE>
+<CAPTION>
+                                               Three Months Ended        Nine Months Ended
+                                               -------------------      --------------------
+                                               May 1,     Apr. 25,      May 1,      Apr. 25,
+                                                1999        1998         1999         1998
+                                               ------     --------      ------      --------
+<S>                                            <C>        <C>           <C>         <C>
+Net income                                     $ 646         $65        $1,452        $ 859
+Other comprehensive income (loss):
+  Change in unrealized gain(loss) on
+   investments, net                              (30)         20            62           13
+  Change in accumulated translation
+   adjustments                                    (6)          0             5           (5)
+                                               -----         ---        ------        -----
+
+Total comprehensive income                     $ 610         $85        $1,519        $ 867
+                                               =====         ===        ======        =====
+</TABLE>
+
+6.      INCOME TAXES
+
+The Company paid income taxes of $221 million in the nine months ended May 1,
+1999 and $389 million in the nine months ended April 25, 1998. The Company's
+income taxes currently payable for federal, state and foreign purposes have been
+reduced by the tax benefits of disqualifying dispositions of stock options. This
+benefit totaled $679 million in the first nine months of fiscal 1999, and was
+credited directly to shareholders' equity.
+
+7.      SHAREHOLDERS' EQUITY AND STOCK SPLIT
+
+All references to share and per-share data for all periods presented have been
+adjusted to give effect to the three-for-two stock splits effective September
+1998 and December 1997. In May 1999, the Company's Board of Directors approved a
+two-for-one split of the Company's common stock that was applicable to
+shareholders of record on May 24, 1999 and is expected to be effective on June
+21, 1999. Share and per-share data have not been adjusted to give effect to this
+latest stock split.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+Certain statements contained in this Quarterly Report on Form 10-Q, including,
+without limitation, statements containing the words "believes", "anticipates",
+"estimates", "expects", and words of similar import, constitute "forward-looking
+statements" within the meaning of the Private Securities Litigation Reform Act
+of 1995.
+
+
+
+                                       12
+<PAGE>   13
+
+You should not place undue reliance on these forward-looking statements. Our
+actual results could differ materially from those anticipated in these
+forward-looking statements for many reasons, including the risks faced by us
+described below and elsewhere in this Quarterly Report, and in other documents
+we file with the SEC.
+
+Net sales grew to $3.15 billion in the third quarter of 1999 from $2.18 billion
+in the third quarter of 1998. Net sales for the first nine months of 1999 were
+$8.56 billion, compared to $6.07 billion in the first nine months of 1998. The
+44.1% increase in net sales between the two three-month periods and the 41.1%
+increase in net sales between the two nine-month periods was primarily a result
+of increasing unit sales of LAN switching products such as the Catalyst(R) 5000
+family and the Catalyst(R) 2900 series of switches for smaller enterprise
+networks, access servers such as the Cisco 2600 and 3600 families, growth in the
+sales of add-on boards that provide increased functionality, and increased
+maintenance service contract sales. The sales growth rate for lower-priced
+access and switching products targeted toward small and medium-sized businesses
+has increased faster than that of the Company's high-end core router products.
+However, these products typically carry lower average selling prices.
+Additionally, sales of some of the Company's more established product lines,
+such as the Cisco 2500 and Cisco 4000 product families, have decreased as a
+percentage of total revenue. Sales to international customers increased to 42.5%
+in the third quarter of 1999 versus 41.8% for the third quarter of 1998. The
+increase reflects sales growth in certain international markets, particularly
+Germany and the United Kingdom. Sales growth in other markets, including Japan
+and certain countries in Latin America and Eastern Europe, have been negatively
+impacted by certain factors including weaker economic conditions, delayed
+government spending, a stronger dollar versus the local currencies, and slower
+adoption of networking technologies.
+
+Gross margins decreased slightly to 65.0% in the third quarter of 1999 from
+65.6% in the third quarter of 1998. Gross margins for the first nine months of
+1999 were 65.2%, which also decreased slightly compared to the same period in
+1998. The decrease in the quarterly period is due principally to the Company's
+continued shift in revenue mix towards its lower-margin products and the
+
+
+
+                                       13
+<PAGE>   14
+
+continued pricing pressure seen from competitors in certain product areas. The
+prices of component parts have fluctuated in the recent past, and the Company
+expects that this trend may continue. An increase in the price of component
+parts may have a material adverse impact on gross margins. The Company expects
+that gross margins will continue to decrease in the future, because it believes
+that the market for lower-margin remote access and switching products for small
+to medium-sized businesses will continue to increase at a faster rate than the
+market for the Company's higher-margin router and high-performance switching
+products. Additionally, as the Company focuses on new market opportunities, it
+faces increasing competitive pressure from large telecommunications equipment
+suppliers and well funded start-up companies, which may materially adversely
+affect gross margins. The Company is attempting to mitigate this trend through
+various means, such as increasing the functionality of its products, continued
+value engineering, controlling royalty costs, and improving manufacturing
+efficiencies. There can be no assurance that any efforts made by the Company in
+these and other areas will successfully offset decreasing margins.
+
+Research and development expenses increased by $155 million in the third quarter
+of 1999 over the third quarter of 1998, an increase to 13.3% from 12.0% of net
+sales. Research and development expenses increased by $376 million in the first
+nine months of 1999 over the first nine months of 1998, an increase to 12.9%
+from 12.0% of net sales. The increase reflects the Company's ongoing research
+and development efforts in a wide variety of areas such as voice, video, and
+data integration, Digital Subscriber Line (DSL) technologies, cable modem
+technology, wireless access, dial access, enterprise switching, security,
+network management, and high-end routing technologies, among others. A
+significant portion of the increase was due to the addition of new personnel,
+partly through acquisitions, as well as higher expenditures on prototypes and
+depreciation on additional lab equipment. For the near future, research and
+development expenses are expected to increase at a rate similar to or slightly
+greater than the sales growth rate, as the Company invests in technology to
+address potential market opportunities. The Company also continues to purchase
+technology in order to bring a broad range of products to the market in a timely
+fashion. If the Company believes that it is unable to enter a particular market
+in a timely manner, with internally developed products, it may license
+technology from other businesses or acquire other businesses as an alternative
+to internal research and development. All of the Company's research and
+development costs are expensed as incurred.
+
+
+
+                                       14
+<PAGE>   15
+
+Sales and marketing expenses increased by $235 million in the third quarter of
+1999 over the third quarter of 1998, and increased $622 million in the first
+nine months of 1999 over the first nine months of 1998. This represents an
+increase from 18.9% to 20.6% of net sales for the quarter to quarter period and
+from 18.3% to 20.2% for the first nine months of each fiscal year. The increase
+is due principally to an increase in the size of the Company's direct sales
+force and its commissions, additional marketing and advertising costs associated
+with the introduction of new products and the expansion of distribution
+channels. The increase also reflects the Company's efforts to invest in certain
+key areas such as expansion of its end-to-end strategy and service provider
+coverage in order to position itself to take advantage of future market
+opportunities.
+
+General and administrative expenses rose $38 million between the third quarters
+of 1999 and 1998, an increase to 3.3% from 3.1% of net sales. These expenses
+increased $98 million in the first nine months of 1999 over the first nine
+months of 1998, representing an increase from 3.0% to 3.3% of net sales. The
+increase primarily reflects increased levels of amortization for acquisition-
+related intangible assets. It is management's intent to keep general and
+administrative costs relatively constant as a percentage of net sales; however,
+this is dependent upon the level of acquisition activity and amortization of the
+resulting intangible assets, among other factors.
+
+The amount expensed to purchased research and development in the first nine
+months of fiscal 1999 arose from the completed acquisitions of American
+Internet, Summa Four, Clarity, Selsius and PipeLinks (See also Note 3).
+
+The fair value of the existing products and patents as well as the technology
+currently under development was determined by using the income approach, which
+discounts expected future cash flows to present value. The discount rates used
+in the present value calculations were typically derived from a weighted average
+cost of capital analysis, adjusted upward to reflect additional risks inherent
+in the development life cycle. These risk factors have increased the overall
+discount rate between 4% and 7.5% for acquisitions in the current year. The
+Company expects that the pricing model for products related to these
+acquisitions will be considered standard within the high-technology
+communications industry. However, the Company does not expect to achieve a
+material amount of expense reductions or synergies as a result of integrating
+the acquired in-process technology. Therefore, the valuation assumptions do not
+include significant anticipated cost
+
+
+
+                                       15
+<PAGE>   16
+
+savings. The Company expects that products incorporating the acquired technology
+from these acquisitions will be completed and begin to generate cash flows over
+the 6 to 9 months after integration. However, development of these technologies
+remains a significant risk to the Company due to the remaining effort to achieve
+technical viability, rapidly changing customer markets, uncertain standards for
+new products and significant competitive threats from numerous companies. The
+nature of the efforts to develop the acquired technology into commercially
+viable products consists principally of planning, designing and testing
+activities necessary to determine that the product can meet market expectations,
+including functionality and technical requirements. Failure to bring these
+products to market in a timely manner could result in a loss of market share, or
+a lost opportunity to capitalize on emerging markets, and could have a material
+adverse impact on the Company's business and operating results.
+
+Regarding the Company's purchase acquisitions completed in fiscal 1998, actual
+results to date have been consistent, in all material respects, with the
+assumptions of the Company at the time of the acquisitions as they relate to the
+value of purchased in-process research and development. The assumptions
+primarily consist of an expected completion date for the in-process projects,
+estimated costs to complete the projects and revenue and expense projections
+once the products have entered the market. Products from these 1998 acquisitions
+have been introduced to the market in the last 6 - 9 months. Shipment volumes of
+products from acquired technologies are not material to the Company's overall
+position at the present time, therefore, it is difficult to determine the
+accuracy of overall revenue projections early in the technology or product
+lifecycle. Failure to achieve the expected levels of revenues and net income
+from these products will negatively impact the return on investment expected at
+the time that the acquisition was completed and potentially result in impairment
+of any other assets related to the development activities.
+
+
+
+                                       16
+<PAGE>   17
+
+
+The following table summarizes the significant assumptions underlying the
+valuations in 1998 and 1999 and the development costs incurred by the Company in
+the periods after the respective acquisition date (in millions, except
+percentages):
+
+
+
+<TABLE>
+<CAPTION>
+                                                                                             Approximate
+                                                                                             Development
+                                                    Acquisition Assumptions                     Costs
+                                         ---------------------------------------------       Incurred to
+                                         Estimated Cost                                      Date After
+                                          to Complete                                        Acquisition
+                                         Technology at            Risk Adjusted              on Acquired
+                                            Time of               Discount Rate              In-Process
+         Entity Name                      Acquisition             In-Process R&D             Technology
+         -----------                     --------------         --------------------        ------------
+<S>                                      <C>                    <C>                         <C>
+1998 Purchase Acquisitions
+- --------------------------
+
+DAGAZ Technologies                            $10                       35%                     $10
+
+Lightspeed International, Inc.                $13                       26%                     $15
+
+WheelGroup Corp.                              $ 8                       24%                     $ 6
+
+NetSpeed International, Inc.                  $12                       32%                     $16
+
+CLASS Data Systems                            $ 3                       24%                     $ 2
+
+1999 Purchase Acquisitions
+- --------------------------
+
+American Internet Corp.                       $ 1                     24.9%                     $ 1
+
+Summa Four, Inc.                              $ 5                     25.5%                     $ 4
+
+Clarity Wireless, Inc.                        $42                       32%                     $ 6
+
+Selsius Systems, Inc.                         $15                       31%                     $ 3
+
+PipeLinks, Inc.                               $ 5                       31%                     $ 6
+</TABLE>
+
+Recent Accounting Pronouncements
+
+In June 1997, the Financial Accounting Standards Board issued SFAS No. 131
+"Disclosures about Segments of an Enterprise and Related Information" and in
+June 1998, issued SFAS No. 133, "Accounting for Derivative Instruments and
+Hedging Activities", implementation of which has recently been delayed. Readers
+are referred to the
+
+
+                                       17
+<PAGE>   18
+
+"Recent Accounting Pronouncements" section of the Company's 1998 Annual Report
+to Shareholders for further discussion.
+
+The Company adopted Statement of Position (SOP) No. 97-2, "Software Revenue
+Recognition," in the first quarter of fiscal year 1999 and its adoption had no
+material impact on the Company's results from operations or financial position.
+
+Liquidity and Capital Resources
+
+Cash and equivalents, short-term investments, and investments were $7.7 billion
+at May 1, 1999 an increase of $2.5 billion from July 25, 1998. The increase is
+primarily a result of cash generated by operations and financing activities,
+primarily the exercise of employee stock options. These cash flows were
+partially offset by cash outflows from operating activities including tax
+payments of approximately $221 million, and cash outflows from investing
+activities including capital expenditures of approximately $377 million.
+
+Accounts receivable decreased 1.8% from July 25, 1998 to May 1, 1999. Days sales
+outstanding in receivables improved to 40 days at May 1, 1999 from 49 days at
+July 25, 1998. Inventories increased 71.5% between July 25, 1998 and May 1,
+1999, which reflects the Company's new product introductions and continued
+growth in the Company's two-tiered distribution system. Inventory management
+remains an area of focus as the Company balances the need to maintain strategic
+inventory levels to ensure competitive lead times versus the risk of inventory
+obsolescence because of rapidly changing technology and customer requirements.
+
+Accounts payable increased by 39.8% at May 1, 1999 over July 25, 1998 primarily
+due to increasing levels of raw material purchases. Other accrued liabilities
+increased by 50.1% primarily due to higher deferred revenue on service
+contracts.
+
+At May 1, 1999, the Company had a line of credit totaling $500 million, which
+expires July 2002. There have been no borrowings under this facility.
+
+The Company has entered into certain lease arrangements in San Jose, California,
+and Research Triangle Park, North Carolina, where it has established its
+headquarters operations and certain research and development and customer
+support activities. In connection with these transactions, the Company pledged
+$804 million of its investments as collateral for certain obligations of the
+leases. The Company anticipates that it will occupy more leased property in the
+future that will require similar pledged securities; however, the Company does
+not expect the impact of this activity to be material to liquidity.
+
+The Company's management believes that its current cash and equivalents,
+short-term investments, line of credit, and cash generated from operations will
+satisfy its expected working capital and capital expenditure requirements
+through fiscal 1999.
+
+
+                                  RISK FACTORS
+
+CISCO IS EXPOSED TO FLUCTUATIONS IN THE EXCHANGE RATES OF FOREIGN CURRENCY
+
+As a global concern, Cisco faces exposure to adverse movements in foreign
+currency exchange rates. These exposures may change over time as business
+practices evolve and could have a material adverse impact on Cisco's financial
+results. Historically, Cisco's primary exposures related to nondollar-
+denominated sales in Japan, Canada, and Australia and nondollar-denominated
+operating expenses in Europe, Latin America, and Asia where it sells primarily
+in U.S. dollars. Additionally, Cisco has recently seen its exposures to emerging
+market currencies, such as the Brazilian Real and Russian Ruble, among others,
+increase because of Cisco's expanding presence in these markets and the extreme
+currency volatility. Cisco currently does not hedge against these or any other
+emerging market currencies and could suffer unanticipated gains or losses as a
+result.
+
+The increasing use of the Euro as a common currency for members of the European
+Union could impact Cisco's foreign exchange exposure. Cisco is prepared to hedge
+against fluctuations in the Euro if this exposure becomes material. Cisco will
+continue to evaluate the impact of the Euro on its foreign exchange exposure as
+well as on its internal systems.
+
+At the present time, Cisco hedges only those currency exposures associated with
+certain assets and liabilities denominated in nonfunctional currencies and does
+not generally hedge anticipated foreign currency cash flows. The hedging
+activity undertaken by Cisco is intended to offset the impact of currency
+fluctuations on certain nonfunctional currency assets and liabilities. The
+success of this activity depends upon estimations of intercompany balances
+denominated in various currencies, primarily the Japanese yen, Canadian dollar,
+Australian dollar and certain European currencies. To the extent that these
+forecasts are over- or understated during periods of currency volatility, Cisco
+could experience unanticipated currency gains or losses.
+
+
+                                       18
+<PAGE>   19
+
+CISCO IS EXPOSED TO THE CREDIT RISK OF SOME OF ITS CUSTOMERS AND TO CREDIT
+EXPOSURES IN WEAKENED MARKETS
+
+Cisco is experiencing a greater proportion of its sales activity through its
+partners in two-tier distribution channels. These customers are generally given
+privileges to return inventory, receive credits for changes in Cisco's selling
+prices and participate in cooperative marketing programs. Cisco maintains
+appropriate accruals and allowances for such exposures. However, such partners
+tend to have access to more limited financial resources than other resellers and
+end user customers and therefore represent potential sources of increased credit
+risk. Cisco is experiencing increased demands for customer financing and leasing
+solutions, particularly to competitive local exchange carriers ("CLEC's").
+CLEC's typically finance significant networking infrastructure deployments
+through alternative forms of financing, including leasing, through Cisco.
+Although Cisco has programs in place to monitor and mitigate the associated
+risk, there can no assurance that such programs will alleviate all credit risk
+to the Company. Cisco also continues to monitor increased credit exposures
+because of the weakened financial conditions in Asia, and other emerging market
+regions, and the impact that such conditions may have on the worldwide economy.
+Although Cisco has not experienced significant losses due to customers failing
+to meet their obligations to date, such losses, if incurred, could harm our
+business and financial position.
+
+CISCO IS EXPOSED TO FLUCTUATIONS IN THE MARKET VALUES OF ITS PORTFOLIO
+INVESTMENTS AND IN INTEREST RATES
+
+Cisco maintains investment portfolio holdings of various issuers, types and
+maturities. These securities are generally classified as available for sale, and
+consequently, are recorded on the balance sheet at fair value with unrealized
+gains or losses reported as a separate component of accumulated comprehensive
+income, net of tax. Part of this portfolio includes minority equity investments
+in several publicly-traded companies, the values of which are subject to market
+price volatility. Cisco has also invested in numerous privately-held companies,
+many of which can still be considered in the start-up or development stage.
+These investments are inherently risky as the market for the technologies or
+products they have under development are typically in the early stages and may
+never materialize. This could result in Cisco losing up to its entire initial
+investment. Cisco also has certain real estate lease commitments with payments
+tied to short-term interest rates. At any time, a sharp rise in interest rates
+could have a material adverse impact on the fair value of Cisco's investment
+portfolio
+
+
+
+                                       19
+<PAGE>   20
+
+while increasing the costs associated with its lease commitments. Conversely,
+declines in interest rates could have a material impact on interest earnings for
+Cisco's investment portfolio. Cisco does not currently hedge these interest rate
+exposures.
+
+CISCO EXPECTS TO MAKE FUTURE ACQUISITIONS WHERE ADVISABLE AND ACQUISITIONS
+INVOLVE NUMEROUS RISKS.
+
+The networking business is highly competitive, and as such, Cisco's growth is
+dependent upon market growth and its ability to enhance its existing products
+and introduce new products on a timely basis. One of the ways Cisco has
+addressed and will continue to address the need to develop new products is
+through acquisitions of other companies. Acquisitions involve numerous risks,
+including the following:
+
+o       difficulties in integration of the operations, technologies, and
+        products of the acquired companies;
+
+o       the risk of diverting management's attention from normal daily
+        operations of the business;
+
+o       potential difficulties in completing projects associated with purchased
+        in process research and development;
+
+o       risks of entering markets in which Cisco has no or limited direct prior
+        experience and where competitors in such markets have stronger market
+        positions; and
+
+o       the potential loss of key employees of the acquired company.
+
+Mergers and acquisitions of high-technology companies are inherently risky, and
+no assurance can be given that Cisco's previous or future acquisitions will be
+successful and will not adversely affect Cisco's financial condition or results
+of operations.
+
+Cisco must also maintain its ability to manage any such growth effectively.
+Failure to manage growth effectively and successfully integrate acquisitions
+made by Cisco could harm Cisco's business and operating results.
+
+
+
+                                       20
+<PAGE>   21
+
+SINCE CISCO'S GROWTH RATE MAY SLOW, OPERATING RESULTS FOR A PARTICULAR QUARTER
+ARE DIFFICULT TO PREDICT
+
+Cisco expects that in the future, its net sales may grow at a slower rate than
+was experienced in previous periods, and that on a quarter-to-quarter basis,
+Cisco's growth in net sales may be significantly lower than its historical
+quarterly growth rate. As a consequence, operating results for a particular
+quarter are extremely difficult to predict. Cisco's ability to meet financial
+expectations could be hampered if the nonlinear sales pattern seen in past
+quarters reoccurs in future periods. Cisco generally has had one quarter of the
+fiscal year when backlog has been reduced. Although such reductions have not
+occurred consistently in recent years, they are difficult to predict and may
+occur in the future. In addition, in response to customer demand, Cisco
+continues to attempt to reduce its product manufacturing lead times, which may
+result in corresponding reductions in order backlog. A decline in backlog levels
+could result in more variability and less predictability in Cisco's
+quarter-to-quarter net sales and operating results going forward. On the other
+hand, for certain products, lead times are longer than Cisco's goal. If Cisco
+cannot reduce manufacturing lead times for such products, Cisco's customers may
+cancel orders or not place further orders if shorter lead times are available
+from other manufacturers, thus creating additional variability.
+
+As a result of recent unfavorable economic conditions, sales to certain
+countries in the Pacific Rim, Eastern Europe, and Latin America, have declined
+as a percentage of Cisco's total revenue. If the economic conditions in these
+markets, or other markets which recently experienced unfavorable conditions
+worsen, or if these unfavorable conditions result in a wider regional or global
+economic slowdown, this decline may have a material adverse impact on Cisco's
+business, operations and financial condition.
+
+Recent actions and comments from the Securities and Exchange Commission have
+indicated they are reviewing the current valuation methodology of purchased
+in-process research and development
+
+
+
+                                       21
+<PAGE>   22
+
+related to business combinations. The Commission is concerned that some
+companies are writing off more of the value of an acquisition than is
+appropriate. Cisco believes it is in compliance with all of the rules and
+related guidance as they currently exist. However, there can be no assurance
+that the Commission will not seek to reduce the amount of purchased in-process
+research and development previously expensed by Cisco. This would result in the
+restatement of previously filed financial statements of Cisco and could have a
+material negative impact on financial results for the periods subsequent to
+acquisitions. Additionally, the Financial Accounting Standards Board ("FASB")
+has announced that it plans to rescind the pooling of interests method of
+acquisition accounting. If this occurs, it could alter Cisco's acquisition
+strategy and potentially impair its ability to acquire companies. The FASB has
+also announced that it is reviewing the current accounting rules associated with
+stock options. The FASB is concerned that current practice, as outlined in
+Accounting Principles Board No. 25 (APB25), does not accurately reflect
+appropriate compensation expense under a variety of scenarios, including the
+assumption of option plans from acquired companies. The changes proposed could
+alter Cisco's practices of annual stock option grants and the assumption of
+stock option plans of acquired companies. Any change in these business practices
+could make it more difficult to attract and retain qualified personnel.
+
+Cisco also expects that gross margins may be adversely affected by increases in
+material or labor costs, heightened price competition, and changes in channels
+of distribution or in the mix of products sold. For example, Cisco believes that
+gross margins may decline over time, because the markets for lower-margin access
+products targeted toward small to medium-sized customers have continued to grow
+at a faster rate than the markets for Cisco's higher-margin router and
+high-performance switching products targeted toward enterprise and service
+provider customers. Cisco has recently introduced several new products with
+additional new products scheduled to be released in the near future. If warranty
+costs associated with these new products are greater than Cisco has experienced
+historically, gross margins may be adversely affected. Cisco's gross margins may
+also be impacted by geographic mix, as well as the mix of configurations within
+each product group. Cisco continues to expand into third-party or indirect
+distribution channels, which generally results in lower gross margins. In
+addition, increasing third-party and indirect distribution channels generally
+results in greater difficulty in forecasting the mix of Cisco's products, and to
+a certain degree, the timing of its orders.
+
+
+
+                                       22
+<PAGE>   23
+
+Cisco also expects that its operating margins may decrease as it continues to
+hire additional personnel and increases other operating expenses to support its
+business. Cisco plans its operating expense levels based primarily on forecasted
+revenue levels. Because these expenses are relatively fixed in the short term, a
+shortfall in revenue could lead to operating results being below expectations.
+
+YOU SHOULD EXPECT THAT CISCO'S OPERATING RESULTS MAY FLUCTUATE IN FUTURE PERIODS
+
+The results of operations for any quarter are not necessarily indicative of
+results to be expected in future periods. Cisco's operating results have in the
+past been, and will continue to be, subject to quarterly fluctuations as a
+result of a number of factors. These factors include:
+
+o       the integration of people, operations, and products from acquired
+        businesses and technologies;
+
+o       increased competition in the networking industry;
+
+o       the overall trend toward industry consolidation;
+
+o       the introduction and market acceptance of new technologies and
+        standards, including switch routers, Gigabit Ethernet switching, Tag
+        Switching (currently also known as multiprotocol label switching (MPLS))
+        and voice, video and data capabilities;
+
+o       variations in sales channels, product costs, or mix of products sold;
+
+o       the timing of orders and manufacturing lead times; and
+
+o       changes in general economic conditions and specific economic conditions
+        in the computer and networking industries.
+
+Any of the factors could have a material adverse impact on Cisco's operations
+and financial results. For example, Cisco from time to time has made
+acquisitions that result in purchased research and development expenses being
+charged in an individual quarter. These charges may occur in any particular
+quarter resulting in variability in Cisco's quarterly earnings. Additionally,
+the dollar amounts of large orders for Cisco's products have been increasing,
+and therefore the operating results for a quarter could be materially adversely
+affected if a number of large orders are either not received or are delayed, due
+for example, to cancellations, delays or deferrals by customers.
+
+THE YEAR 2000 PROBLEM MAY HAVE AN ADVERSE EFFECT ON CISCO'S OPERATIONS AND
+ABILITY TO OFFER PRODUCTS AND SERVICES WITHOUT INTERRUPTION
+
+
+
+                                       23
+<PAGE>   24
+
+Cisco is continuing to assess the impact of the Year 2000 issue on its current
+and future products, internal information systems and non-information technology
+systems (equipment and systems) and has begun, and in many cases completed,
+corrective efforts in these areas.
+
+Cisco is using a four phase approach to address the issue.
+
+o       The first phase consists of the inventorying of all potential business
+        disruption problems, including those with products and systems, as well
+        as potential disruption from suppliers and other third parties.
+
+o       The second phase consists of the prioritization of all the potential
+        problems to allocate the appropriate level of resources to the most
+        critical areas.
+
+o       The third phase addresses the remediation programs to solve or mitigate
+        any identified Year 2000 problems.
+
+o       The fourth phase, if necessary, will be to develop contingency plans if
+        it appears Cisco or its key suppliers will not be Year 2000 compliant,
+        and such noncompliance is expected to have a material adverse impact on
+        Cisco's operations.
+
+Cisco has largely completed the implementation of Year 2000 compliant internal
+computer applications for its main financial, manufacturing and order processing
+systems. The systems are being tested for compliance and Cisco does not
+currently expect any significant issues to be identified during this review.
+However, the failure of any internal system to achieve Year 2000 readiness could
+result in material disruption to Cisco's operations.
+
+Cisco has also conducted extensive work regarding the status of its currently
+available, developing and installed base of products. Cisco believes that its
+current products are largely Year 2000 compliant. There can be no assurance that
+certain previous releases of Cisco's products which are no longer under support
+will prove to be Year 2000 compliant with customers' systems or within an
+existing network. Further information about Cisco's products is available on its
+Year 2000 Internet web site. Cisco has developed programs for customers who have
+indicated a need to upgrade components of their systems. However, the inability
+of any of Cisco's products to properly manage and manipulate data in the year
+2000 could result in increased warranty costs, customer satisfaction issues,
+potential lawsuits and other material costs and liabilities.
+
+
+
+                                       24
+<PAGE>   25
+
+Cisco has completed phases I and II of its review of its supplier bases and, in
+the third phase of the compliance approach, is in the process of reviewing the
+state of readiness of its supplier base. This exercise includes compliance
+inquiries and reviews that will continue throughout 1999. Where issues are
+identified with a particular supplier, contingency plans will be developed as
+discussed below. Even where assurances are received from third parties there
+remains a risk that failure of systems and products of other companies on which
+Cisco relies could have a material adverse effect on Cisco. Further, if these
+suppliers fail to adequately address the Year 2000 issue for the products they
+provide to Cisco, critical materials, products and services may not be delivered
+timely and Cisco may not be able to manufacture sufficient product to meet sales
+demand.
+
+Based on the work done to date, Cisco has not incurred material costs and does
+not expect to incur future material costs in the work to address the Year 2000
+problem for its systems (as a result of relatively new legacy information
+systems) and products.
+
+Cisco has taken and will continue to take corrective action to mitigate any
+significant Year 2000 problems with its systems and products and believes that
+the Year 2000 issue for information systems will not have a material impact on
+its operations or financial results. However, there can be no assurance that
+Cisco will not experience significant business disruptions or loss of business
+due to an inability to adequately address the Year 2000 issue. Cisco is
+concerned that many enterprises will be devoting a substantial portion of their
+information systems spending to addressing the Year 2000 issue. This expense may
+result in spending being diverted from networking solutions in the near future.
+This diversion of information technology spending could have a material adverse
+impact on Cisco's future sales volume.
+
+Contingency plans are being developed in certain key areas, in particular
+surrounding third party manufacturers and other suppliers, to ensure that any
+potential business interruptions caused by the Year 2000 issue are mitigated.
+Such contingency plans include identification of alternative sources of supply
+and test exercises to ensure that such alternatives are able to provide Cisco
+with an adequate level of support. These plans are expected to be developed by
+the end of June 1999 and will be tested in the six months beginning in July
+1999, prior to the year 2000.
+
+The foregoing statements are based upon management's best estimates at the
+present time, which were derived utilizing numerous assumptions of future
+events, including the continued availability
+
+
+
+                                       25
+<PAGE>   26
+
+of certain resources, third party modification plans and other factors. There
+can be no guarantee that these estimates will be achieved and actual results
+could differ materially from those anticipated. Specific factors that might
+cause such material differences include, but are not limited to:
+
+o       the availability and cost of personnel trained in this area;
+
+o       the ability to locate and correct all relevant computer codes;
+
+o       the nature and amount of programming required to upgrade or replace each
+        of the affected programs; and
+
+o       the rate and magnitude of related labor and consulting costs and the
+        success of Cisco's external customers and suppliers in addressing the
+        Year 2000 issue.
+
+Cisco's evaluation is on-going and it expects that new and different information
+will become available to it as that evaluation continues. Consequently, there is
+no guarantee that all material elements will be Year 2000 ready in time.
+
+CISCO COMPETES IN THE HIGHLY COMPETITIVE TELECOMMUNICATIONS EQUIPMENT MARKET
+
+Cisco competes in the telecommunications equipment market, providing solutions
+for transporting data, voice and video traffic across intranets, extranets, and
+the Internet. The market is characterized by rapid growth, converging
+technologies, and a conversion to new solutions that offer superior advantages.
+These market factors represent both an opportunity and a competitive threat to
+Cisco. Cisco competes with numerous vendors in each product category. Cisco
+expects that the overall number of competitors providing niche product solutions
+will increase due to the market's attractive growth. On the other hand, Cisco
+expects the number of vendors supplying end-to-end telecommunications solutions
+will decrease, due to the rapid pace of acquisitions in the industry. Ultimately
+Cisco believes only a few larger suppliers of end-to-end telecommunication
+equipment solutions will become its primary competitors.
+
+Cisco's competitors include Lucent, Nortel, Ericsson, 3Com, Cabletron, Fore and
+IBM. Some of Cisco's competitors compete across many of Cisco's product lines,
+while others do not offer as wide a breadth of solutions. Several of Cisco's
+current and potential competitors have greater financial, marketing and
+technical resources than Cisco.
+
+The principal competitive factors in the markets in which Cisco presently
+competes and may compete in the future are:
+
+o       price;
+
+
+
+                                       26
+<PAGE>   27
+
+o       performance;
+
+o       the ability to provide end-to-end solutions and support;
+
+o       conformance to standards;
+
+o       the ability to provide added value features such as security,
+        reliability, and investment protection; and
+
+o       market presence.
+
+Cisco also faces competition from customers it licenses technology to and
+suppliers from whom it transfers technology. Networking's inherent nature
+requires interoperability. As such, Cisco must cooperate, and at the same time
+compete, with these companies. Cisco's inability to effectively manage these
+complicated relationships with customers and suppliers could have a material
+adverse effect on Cisco's business, operating results, and financial condition.
+
+CISCO'S BUSINESS DEPENDS UPON ITS PROPRIETARY RIGHTS, AND THERE IS A RISK OF
+INFRINGEMENT
+
+Cisco's success is dependent upon its proprietary technology. Cisco generally
+relies upon patents, copyrights, trademarks and trade secret laws to establish
+and maintain its proprietary rights in its technology and products. Cisco has a
+program to file applications for and obtain patents in the United States and in
+selected foreign countries where a potential market for Cisco's products exists.
+Cisco has been issued a number of patents; other patent applications are
+currently pending. There can be no assurance that any of these patents will not
+be challenged, invalidated or circumvented, or that any rights granted
+thereunder will provide competitive advantages to Cisco. In addition, there can
+be no assurance that patents will be issued from pending applications, or that
+claims allowed on any future patents will be sufficiently broad to protect
+Cisco's technology. In addition, the laws of some foreign countries may not
+permit the protection of Cisco's proprietary rights to the same extent as do the
+laws of the United States. Although Cisco believes the protection afforded by
+its patents, patent applications, copyrights and trademarks has value, the
+rapidly changing technology in the networking industry makes Cisco's future
+success dependent primarily on the innovative skills, technological expertise
+and management abilities of its employees rather than on patent, copyright and
+trademark protection.
+
+
+
+                                       27
+<PAGE>   28
+
+Many of Cisco's products are designed to include software or other intellectual
+property licensed from third parties. While it may be necessary in the future to
+seek or renew licenses relating to various aspects of its products, Cisco
+believes that based upon past experience and standard industry practice, such
+licenses generally could be obtained on commercially reasonable terms. Because
+of the existence of a large number of patents in the networking field and the
+rapid rate of issuance of new patents, it is not economically practical to
+determine in advance whether a product or any of its components infringe patent
+rights of others. From time to time, Cisco receives notices from or is sued by
+third parties regarding patent claims. If infringement is alleged, Cisco
+believes that, based upon industry practice, any necessary license or rights
+under such patents may be obtained on terms that would not have a material
+adverse effect on Cisco's business, operating results and financial condition.
+Nevertheless, there can be no assurance that the necessary licenses would be
+available on acceptable terms, if at all, or that Cisco would prevail in any
+such challenge. The inability to obtain certain licenses or other rights or to
+obtain such licenses or rights on favorable terms, or the need to engage in
+litigation could have a material adverse effect on Cisco's business, operating
+results and financial condition.
+
+CISCO FACES RISKS FROM THE UNCERTAINTIES OF REGULATION OF THE INTERNET
+
+There are currently few laws or regulations that apply directly to access or
+commerce on the Internet. Cisco could be materially adversely affected by
+regulation in any country where Cisco operates, on such technology as voice over
+the Internet, encryption technology and access charges for Internet service
+providers, as well as the continuing deregulation of the telecommunication
+industry. The adoption of such measures could decrease demand for Cisco's
+products, and at the same time increase Cisco's cost of selling its products.
+Changes in laws or regulations governing the Internet and Internet commerce
+could have a material adverse effect on Cisco's business, operating results and
+financial condition.
+
+THE ENTRANCE INTO NEW OR DEVELOPING MARKETS EXPOSES OUR BUSINESS AND OPERATIONS
+TO RISKS.
+
+As Cisco focuses on new market opportunities, such as transporting voice, video,
+and data traffic across the same network, it will increasingly compete with
+large telecommunications equipment suppliers such as Lucent, Ericsson and
+Nortel, among others, and several well funded start-up companies. Several of
+Cisco's current and potential competitors have greater financial, marketing and
+technical resources than Cisco. Additionally, as customers in these markets
+complete infrastructure deployments, they may require greater levels of service,
+support and financing than Cisco has experienced in the past. Cisco has not
+entered into a material amount of labor intensive service contracts which
+require significant production or customization. However, Cisco expects that
+demand for these types of service contracts will increase in the future. There
+can be no assurance that Cisco can provide products, service, support and
+financing to effectively compete for these market opportunities. Further,
+provision of greater levels of services by Cisco may result in less favorable
+name recognition treatment than has historically been experienced.
+
+CISCO IS DEPENDENT UPON THE ABILITY OF SUPPLIERS TO DELIVER PARTS ON TIME
+
+Cisco's growth and ability to meet customer demands also depend in part on its
+ability to obtain timely deliveries of parts from its suppliers. Cisco has
+experienced component shortages in the past that have adversely affected its
+operations. Although Cisco works
+
+
+
+                                       28
+<PAGE>   29
+
+closely with its suppliers to avoid these types of shortages, there can be no
+assurances that Cisco will not encounter these problems in the future.
+
+THE LOCATION OF OUR FACILITIES SUBJECTS CISCO TO THE RISK OF EARTHQUAKES AND
+FLOODS
+
+Cisco's corporate headquarters, including most of its research and development
+operations and its manufacturing facilities, are located in the Silicon Valley
+area of Northern California, a region known for seismic activity. Additionally,
+one of Cisco's manufacturing facilities is located near a river that has
+experienced flooding in the past. A significant natural disaster, such as an
+earthquake or a flood, could have a material adverse impact on Cisco's business,
+financial condition and operating results.
+
+CISCO DEPENDS UPON THE DEVELOPMENT OF NEW PRODUCTS AND IS SUBJECT TO RAPID
+CHANGES IN TECHNOLOGY AND THE MARKET
+
+Cisco's operating results will depend to a significant extent on its ability to
+reduce the costs to produce existing products. In particular, Cisco broadened
+its product line by introducing network access products. Sales of these
+products, which are generally lower priced and carry lower margins than Cisco's
+core products, have increased more rapidly than sales of Cisco's core products.
+The success of these and other new products is dependent on several factors,
+including proper new product definition, product cost, timely completion and
+introduction of new products, differentiation of new products from those of
+Cisco's competitors and market acceptance of these products. The markets for
+Cisco's products are characterized by rapidly changing technology, evolving
+industry standards, frequent new product introductions, and evolving methods of
+building and operating networks. There can be no assurance that Cisco will
+successfully identify new product opportunities, develop and bring new products
+to market in a timely manner, and achieve market acceptance of its products or
+that products and technologies developed by others will not render Cisco's
+products or technologies obsolete or noncompetitive.
+
+CISCO IS SUBJECT TO RISKS ASSOCIATED WITH STRATEGIC ALLIANCES
+
+Cisco has a number of strategic alliances with companies including Microsoft,
+Hewlett-Packard, EDS, Sprint and Motorola, among others. These arrangements are
+generally limited to specific projects, the goal of which is generally to
+facilitate product compatibility and adoption of industry standards. If
+successful, these relationships
+
+
+
+                                       29
+<PAGE>   30
+
+will be mutually beneficial and result in industry growth. However, these
+alliances carry an element of risk because, in most cases, Cisco must compete in
+some business areas with a company with which it has strategic alliances and, at
+the same time, cooperate with such company in other business areas. Also, if
+these companies fail to perform, or if these relationships fail to materialize
+as expected, Cisco could suffer delays in product development or other
+operational difficulties.
+
+THE INDUSTRY IN WHICH CISCO COMPETES IS SUBJECT TO CONSOLIDATION
+
+There has been a trend toward industry consolidation for several years, which
+has continued during fiscal 1999. Cisco expects this trend toward industry
+consolidation to continue as companies attempt to strengthen or hold their
+market positions in an evolving industry. Cisco believes that industry
+consolidation may provide stronger competitors that are better able to compete
+as sole-source vendors for customers. This could lead to more variability in
+operating results as Cisco competes to be a single vendor solution and could
+have a material adverse effect on Cisco's business, operating results and
+financial condition.
+
+SALES IN THE SERVICE PROVIDER MARKET ARE SUBJECT TO VARIATION
+
+Although sales to the service provider market have continued to grow, this
+market is characterized by large, and often sporadic purchases. Sales activity
+in this industry depends upon the stage of completion of expanding network
+infrastructures, the availability of funding, and the extent that service
+providers are affected by regulatory and business conditions in the country of
+operations. A decline or delay in sales orders from this industry could have a
+material adverse effect on Cisco's business, operating results and financial
+condition.
+
+CISCO IS SUBJECT TO RISKS ASSOCIATED WITH THE MANUFACTURE OF PARTS AND
+COMPONENTS OF ITS PRODUCTS
+
+Although Cisco generally uses standard parts and components for its products,
+certain components are presently available only from a single source or limited
+sources. A reduction or interruption in supply or a significant increase in the
+price of one or more components would adversely affect Cisco's business,
+operating results and financial condition and could damage customer
+relationships.
+
+CISCO FACES RISKS ASSOCIATED WITH CHANGES IN TELECOMMUNICATION REGULATION AND
+TARIFFS
+
+
+
+                                       30
+<PAGE>   31
+
+Changes in domestic and international telecommunication requirements could
+affect Cisco's sales of its products. In particular, Cisco believes it is
+possible that there may be significant changes in domestic telecommunications
+regulations in the near future that could slow the expansion of the service
+providers' network infrastructures and adversely affect Cisco's business,
+operating results and financial condition. Future changes in tariffs by
+regulatory agencies or application of tariff requirements to currently
+untariffed services could affect the sales of Cisco's products for certain
+classes of customers. Additionally, in the U.S. Cisco's products must comply
+with various Federal Communication Commission requirements and regulations. In
+countries outside of the U.S., Cisco's products must meet various requirements
+of local telecommunications authorities. Changes in tariffs, or failure by Cisco
+to obtain timely approval of products could have a material adverse effect on
+Cisco's business, operating results and financial condition.
+
+CISCO'S BUSINESS IS SUBJECT TO RISKS FROM INTERNATIONAL OPERATIONS
+
+Cisco conducts business globally. Accordingly, Cisco's future results could be
+adversely affected by a variety of uncontrollable and changing factors including
+foreign currency exchange rates; regulatory, political or economic conditions in
+a specific country or region; trade protection measures and other regulatory
+requirements; government spending patterns; and natural disasters, among other
+factors. In fiscal 1998, Cisco experienced slower sales growth in Japan, as well
+as in certain other parts of Asia. Any or all of these factors could have a
+material adverse impact on Cisco's future international business in these or
+other countries.
+
+CISCO'S BUSINESS SUBSTANTIALLY DEPENDS UPON THE CONTINUED GROWTH OF THE INTERNET
+AND INTERNET-BASED SYSTEMS
+
+Cisco's management believes that there will be performance problems with
+Internet communications in the future which could receive a high degree of
+publicity and visibility. As Cisco is a large supplier of equipment for the
+Internet infrastructure, customers' perceptions of Cisco's products and the
+marketplace's perception of Cisco as a supplier of networking products, may be
+materially adversely affected, regardless of whether or not these problems are
+due to the performance of Cisco's products. Such an event could also result in a
+material adverse effect on the market price of Cisco's Common Stock and could
+materially adversely affect Cisco's business, operating results and financial
+condition.
+
+
+
+                                       31
+<PAGE>   32
+
+CISCO'S STOCK PRICE MAY BE VOLATILE
+
+Cisco's Common Stock has experienced substantial price volatility, particularly
+as a result of variations between Cisco's actual or anticipated financial
+results and the published expectations of analysts and as a result of
+announcements by Cisco and its competitors. In addition, the stock market has
+experienced extreme price and volume fluctuations that have affected the market
+price of many technology companies in particular and that have often been
+unrelated to the operating performance of these companies. These factors, as
+well as general economic and political conditions, may adversely affect the
+market price of Cisco's Common Stock in the future.
+
+
+                                       32
+<PAGE>   33
+
+                           PART II. OTHER INFORMATION
+
+ITEM 6. EXHIBIT AND REPORTS ON FORM 8-K
+
+        (a)     Exhibit
+
+                27      Financial data schedule
+
+        (b)     Reports on Form 8-K
+
+                None
+
+
+
+                                       34
+<PAGE>   34
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+                                        Cisco Systems, Inc.
+
+Date:  June 11, 1999                    By /s/ Larry R. Carter
+                                           -------------------------------------
+                                           Larry R. Carter,
+                                           Senior Vice President Finance, and
+                                           Chief Financial Officer
+                                           (Principal Financial and
+                                           Accounting Officer)
+
+
+
+                                       35
+<PAGE>   35
+
+
+                               INDEX TO EXHIBITS
+
+<TABLE>
+<CAPTION>
+Exhibit
+- -------
+<S>       <C>
+  27      Financial data schedule
+</TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONSOLIDATED BALANCE SHEET AND CONSOLIDATED STATEMENT OF OPERATIONS INCLUDED IN
+THE COMPANY'S FORM 10-Q FOR THE PERIOD ENDED MAY 1, 1999, AND IS QUALIFIED
+IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   12-MOS
+<FISCAL-YEAR-END>                          JUL-31-1999
+<PERIOD-START>                             JUL-26-1998
+<PERIOD-END>                               MAY-01-1999
+<CASH>                                             690
+<SECURITIES>                                     7,805
+<RECEIVABLES>                                    1,305
+<ALLOWANCES>                                        30
+<INVENTORY>                                        621
+<CURRENT-ASSETS>                                 4,326
+<PP&E>                                           1,618
+<DEPRECIATION>                                     917
+<TOTAL-ASSETS>                                  12,708
+<CURRENT-LIABILITIES>                            2,412
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         4,847
+<OTHER-SE>                                       5,405
+<TOTAL-LIABILITY-AND-EQUITY>                    12,708
+<SALES>                                          8,562
+<TOTAL-REVENUES>                                 8,562
+<CGS>                                            2,981
+<TOTAL-COSTS>                                    6,483
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  2,314
+<INCOME-TAX>                                       862
+<INCOME-CONTINUING>                              1,452
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,452
+<EPS-BASIC>                                     0.92<F1>
+<EPS-DILUTED>                                     0.86
+<FN>
+<F1>For purpose of this statement, primary means basic.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

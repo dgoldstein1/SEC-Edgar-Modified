@@ -1,0 +1,3467 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: keymaster@town.hall.org
+Originator-Key-Asymmetric:
+ MFkwCgYEVQgBAQICAgADSwAwSAJBALeWW4xDV4i7+b6+UyPn5RtObb1cJ7VkACDq
+ pKb9/DClgTKIm08lCfoilvi9Wl4SODbR1+1waHhiGmeZO8OdgLUCAwEAAQ==
+MIC-Info: RSA-MD5,RSA,
+ UI2O91KA3pGbJDMzUccpGSZ2fcMWN0/gpjl0u56RfensFbbLTgRWqZnvSz+q4/va
+ 97Nyf6WU2l0AmrMGZdy0dA==
+
+<IMS-DOCUMENT>0000790070-94-000005.txt : 19940325
+<IMS-HEADER>0000790070-94-000005.hdr.sgml : 19940325
+ACCESSION NUMBER:		0000790070-94-000005
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19940101
+FILED AS OF DATE:		19940324
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMC CORP
+		CENTRAL INDEX KEY:			0000790070
+		STANDARD INDUSTRIAL CLASSIFICATION:	3577
+		IRS NUMBER:				042680009
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		34
+		SEC FILE NUMBER:	001-09853
+		FILM NUMBER:		94517568
+
+	BUSINESS ADDRESS:	
+		STREET 1:		35 PARKWOOD DR
+		CITY:			HOPKINTON
+		STATE:			MA
+		ZIP:			01748-9103
+		BUSINESS PHONE:		5084351000
+
+	MAIL ADDRESS:	
+		STREET 1:		171 SOUTH STREET
+		CITY:			HOPKINTON
+		STATE:			MA
+		ZIP:			01748-9103
+</IMS-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>10K 1/1/94 EMC CORPORATION
+<TEXT>
+
+                            
+_____________________________________________________________
+
+
+             SECURITIES AND EXCHANGE COMMISSION
+                              
+                   WASHINGTON, D.C.  20549
+                              
+                              
+                      _________________
+                              
+                     
+                              
+                          FORM 10-K
+                              
+                              
+           ANNUAL REPORT UNDER SECTION 13 OR 15(d)
+           OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For the Fiscal Year Ended January 1, 1994  
+Commission File No 1-9853                              
+                              
+
+                       EMC CORPORATION
+                              
+                              
+                              
+Massachusetts                   No. 04-2680009
+State of Incorporation          I.R.S. Employer
+                                Identification Number
+
+
+      171 South Street, Hopkinton, Massachusetts  01748
+                 Telephone:  (508) 435-1000
+                              
+_____________________________________________________________
+<PAGE>                              
+             SECURITIES AND EXCHANGE COMMISSION
+                              
+                   WASHINGTON, D.C.  20549
+                              
+                          FORM 10-K
+                              
+         ANNUAL REPORT UNDER SECTION 13 OR 15(d) OF
+           THE SECURITIES AND EXCHANGE ACT OF 1934
+
+For the Fiscal Year Ended:      Commission File Number 1-9853
+January 1, 1994
+                       EMC CORPORATION
+   (Exact name of registrant as specified in its charter)
+
+Massachusetts                     04-2680009 
+(State or other jurisdiction      (I.R.S. Employer Identification
+of organization or incorporation)                 Number)
+
+                      171 South Street
+               Hopkinton, Massachusetts  01748
+(Address of principal executive offices, including zip code)
+                              
+                       (508) 435-1000
+    (Registrant's telephone number, including area code)
+                              
+Securities registered pursuant to Section 12(b) of the Act:
+                              
+Title of Each Class:               Name of Each Exchange on
+                                   Which Registered:
+Common Stock, $.01 par value       New York Stock Exchange
+6 1/4% Convertible Subordinated    New York Stock Exchange
+Debentures due 2002
+4 1/4% Convertible Subordinated    New York Stock Exchange
+Notes due 2001
+
+ Securities registered pursuant to Section 12(g) of the Act:
+                              
+                            None
+
+     Indicate by check mark whether the registrant (1) has filed
+all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+          Yes              X                      No
+
+                                    1.
+<PAGE>
+
+     Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained
+herein, and will not be contained, to the best of registrant's
+knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [    ]
+
+     The aggregate market value of voting stock held by
+nonaffiliates of the registrant was $3,547,255,313 as of March
+15, 1994.
+
+     The number of shares of Common Stock, $.01 par value,
+outstanding as of March 15, 1994 was 189,183,150.
+
+             DOCUMENTS INCORPORATED BY REFERENCE
+
+     The information required in response to Part III of Form
+10-K is hereby incorporated by reference to the specified
+portions of the registrant's Proxy Statement for the Annual
+Meeting of Stockholders to be held on May 11, 1994.
+
+                                   2.
+<PAGE>
+ITEM 1.  BUSINESS
+                              
+     EMC Corporation and its subsidiaries ("EMC" or the
+"Company") design, manufacture, market and support high
+performance storage products and provide related services
+for mainframe and midrange computer systems manufactured
+primarily by International Business Machines Corporation
+("IBM"), Unisys Corporation ("Unisys") and Compagnie des
+Machines Bull S.A. ("Bull").  The Company develops its
+products by integrating technologically advanced industry
+standard components and devices with Company designed
+proprietary controller technology to produce storage
+products that enhance the performance, reliability,
+availability and functionality of computer systems.
+
+     The Company's principal products are based on
+Integrated Cached Disk Array ("ICDA")  technology which
+combines high-speed semiconductor cache memory with an array
+of industry standard disk drives. ICDA-based products
+represented approximately 91% of the Company's combined
+revenues in 1993 and 74% in 1992.  These products include
+the Symmetrix series of high speed ICDA-based storage
+systems for the IBM and IBM-compatible mainframe computer
+market.  In November 1992, the Symmetrix product line was
+expanded to include the Model 5500 which features storage
+capacities of up to 360 gigabytes ("GB's"), hardware and
+channel redundancy, full system battery backup,
+nondisruptive component upgrade and replacement, and remote
+diagnostic features.  The Company also markets the Harmonix
+series of high speed ICDA-based storage systems for the IBM
+AS/400 midrange computer market.  Additionally, the Company
+provides solid-state disk ("SSD") devices, main memory
+products and tape back-up systems.
+
+     The customers for these products are located worldwide
+and represent a cross section of industries and government
+agencies that range in size from Fortune 500 companies to
+small businesses.  The Company markets its products in North
+and South America, Europe and the Asia Pacific region
+through its direct sales force, distributors and original
+equipment manufacturers ("OEMs").  All products sold
+directly to end-users are maintained and serviced by the
+Company or third party providers.  Products sold through
+distributors or OEMs are normally maintained by the
+reseller.
+
+     EMC, a Massachusetts corporation incorporated in 1979,
+has its corporate headquarters located at 171 South Street,
+Hopkinton, Massachusetts.
+
+                                   3.
+<PAGE>
+Company Strategy
+
+     The Company's objective is to be the leading provider
+of high performance, high reliability storage systems to
+selected mainframe and midrange computer markets.  The
+Company has recently announced its intention to expand its
+storage products into the client/server market as well.
+Over the past decade the technological advances made in
+central processing units ("CPUs")  have far exceeded
+advances made in the area of data storage systems.  These
+CPU advances have created an input/output bottleneck which
+limits the performance of computer systems running
+applications requiring frequent access to data.  The
+Company's products have been designed to significantly
+reduce this performance bottleneck.  The major elements of
+the Company's strategy are set forth below.
+
+ Innovative Architectural Design
+
+     The Company has developed a common architecture, called
+MOSAIC:2000, on which its principal products are based.
+This architectural framework is based upon a modular design
+and industry standard interfaces that allow for new
+technologies to be incorporated more rapidly than with
+traditional architectures and enhances portability to non-
+IBM environments.  This facilitates upgrades and
+enhancements that can not only extend the useful life of the
+Company's storage systems, but also extend the useful life
+of the customer's CPU.
+
+ Proprietary Software Technology
+
+     The Company's products achieve high performance levels
+due in part to proprietary software and microcode controller
+technology.  This proprietary controller technology,
+combined with large amounts of high speed cache memory and
+arrays of industry standard disk drives, creates storage
+devices that provide computer systems with enhanced
+performance, reliability and functionality.  The Company
+believes that by dedicating significant resources to the
+further development of this proprietary controller
+technology, it should be able to maintain the performance
+leadership it has established.
+
+ Multi-Channel Distribution Focus
+
+     The Company's strategy is to continue to expand in
+four distinct product markets:  the IBM and IBM-
+compatible mainframe market, the IBM AS/400 midrange
+market, the client/server market and the OEM market.  To
+access these markets the Company has adopted a multi-
+channel distribution approach.  The Company utilizes a
+direct salesforce in the U.S., Canada and Europe, and
+plans to develop a direct salesforce in Japan.  The
+Company also utilizes third party distributors and OEMs.
+
+                                   4.
+<PAGE>
+Mainframe Market
+
+     The mainframe storage market is a multibillion dollar
+market which the Company has penetrated with its ICDA-based
+products.  The Company believes that it is currently the
+leading manufacturer of storage systems that allow users to
+bridge the gap between the speed at which the CPU can
+process data and the traditional storage device's ability to
+provide the data to the CPU.
+
+     Product sales to the mainframe storage market
+represented approximately 85% of EMC's 1993 product revenue
+and 70% of 1992 product revenue.  In September 1990, EMC
+introduced the Symmetrix series of ICDA-based products for
+IBM and IBM compatible mainframe computers.  Symmetrix was
+the first commercially available disk storage system for the
+IBM mainframe marketplace that utilized arrays of smaller,
+industry standard 51/4"  disk drives as an alternative to
+the larger more expensive disk drives that traditionally had
+been used with mainframe computers.  By combining these
+smaller disk drives with an integrated control unit, large
+amounts of cache memory and battery backup, Symmetrix
+provides the user with what the Company believes to be the
+highest performing disk storage product available in the
+marketplace today.  As a result of this integrated design,
+Symmetrix also occupies a smaller footprint and has lower
+operating costs than data storage systems based on
+conventional technology.
+
+     Since the introduction of the first Symmetrix model,
+the Model 4400 with a maximum capacity of 24 GB's, EMC has
+added additional models that are both smaller (the Model
+4200 with a capacity of up to 8 GB's) and larger (the Model
+4800 with a capacity of up to 90 GB's) than the original.
+In November 1992, EMC introduced a new series of Symmetrix
+products called the Model 5500 (with a capacity of up to 360
+GB's).  The Model 5500 has many built-in redundancy features
+allowing for continuous operation of the disk storage
+system.  This is particularly attractive to users whose data
+storage requirements are dependent upon high performance and
+continuously available data for mission critical
+applications.  Each Model 5500 contains EMC's Auto Call
+feature, which automatically generates a diagnostic phone
+call from the unit to EMC's 24 hour Remote Support Facility
+if the unit detects a possible problem.  The Company has
+continually enhanced the Symmetrix family of products with
+additional features and improved performance through a
+combination of hardware and microcode enhancements.  The
+announcements in September 1993 included the Model 4208-2S
+which increased the capacity of the Symmetrix Model 4200
+from 8 GB's to 15 GB's by using 31/2" disk technology.  The
+wide range of Symmetrix models allows EMC to broaden its
+marketing efforts to address the storage needs of virtually
+all sizes of IBM mainframe computer users.
+
+     EMC also designs and manufactures plug compatible main
+memory products for IBM air cooled model 9121 mainframe
+computers and  provides plug-in storage modules for IBM 3990-
+3 cache control units.
+                                   5.
+<PAGE>        
+Midrange Market
+
+     The Company believes that there is a large portion of
+the IBM AS/400 midrange storage market that has not been
+penetrated by the Company's ICDA-based products.
+
+     Midrange revenues grew modestly during 1993, with
+product sales to the midrange storage market representing
+approximately 15% of EMC's product revenue in 1993, as
+compared to 28% in 1992.   In 1992, the Company introduced
+the first ICDA-based storage systems for the IBM AS/400
+midrange computer market.  This series of products, called
+Harmonix, uses both 51/4" and 31/2" disk drives integrated
+with cache memory to provide high performance, high capacity
+storage solutions for the AS/400 user.  During 1993, the
+Company expanded the Harmonix product line to allow the
+Company to reach new users by including models featuring
+high capacity at a lower cost as well as other models
+emphasizing high availability.
+
+     EMC also offers the Champion line of 8 millimeter
+("mm") based Intelligent Cached Tape Subsystems, which
+provides AS/400 users with high capacity, high performance
+and unattended backup.  These products feature an advanced
+controller design and cache buffer combined with the ability
+to interleave data to up to four 8mm tape transports
+simultaneously, greatly improving the speed of the backup
+operations.  In August 1993, EMC acquired Magna Computer
+Corporation ("Magna"), a manufacturer of tape backup systems
+for the AS/400 marketplace.  This acquisition augmented the
+Champion line of tape products by adding 4 mm and additional
+8 mm and reel to reel tape products to the Company's product
+portfolio.
+
+     The Company also provides main memory upgrades for
+selected AS/400 CPU models.
+
+OEM Market
+
+     The MOSAIC:2000 framework and the inherent flexibility
+of its open system make EMC's products well suited to be
+sold by strategic OEMs in partnership with the Company.
+
+     Since January 15, 1992, EMC has had an OEM agreement
+with Unisys for the sale of Unisys compatible Symmetrix
+products.  This agreement, which currently extends to
+December 31, 1996, requires Unisys to meet certain minimum
+purchase requirements and provides Unisys with exclusive
+worldwide marketing rights to these products.  During 1993,
+Unisys purchased over $39 million of such products under
+this agreement, which accounted for 5% of the Company's 1993
+combined revenues.
+
+     On February 11, 1993, the Company entered into a three-
+year OEM agreement with Bull.  Pursuant to the agreement,
+EMC granted Bull exclusive worldwide marketing rights, with
+the exception of Japan, to EMC's Symmetrix 4800 series of
+ICDA-based storage products for Bull mainframe computers,
+provided that Bull purchases all of its requirements for
+high speed cached disk array storage devices from EMC and
+meets certain minimum purchase requirements.  During 1993,
+Bull purchased approximately $22 million of such products,
+which accounted for 3% of the Company's 1993 combined
+revenues.
+                                   6. 
+<PAGE>
+Client/Server Market
+
+     In May 1993, the Company formed a Client/Server
+Division to develop storage products for the growing
+client/server market.  The Company believes that this market
+requires sophisticated data management technology to allow
+for sharing of information  while maintaining data integrity
+and reliability.  The Company's efforts are currently
+focused on hiring engineering and marketing personnel and
+developing a marketing strategy and business plan for this
+marketplace.  Meaningful contributions to the Company's
+revenue from this business unit are not expected until at
+least 1995.
+
+Epoch Systems
+
+     In August 1993, the Company completed the acquisition
+of Epoch Systems, Inc. ("Epoch").  Epoch is a leading
+supplier of client/server data management software for
+certain Unix-based systems.  It is the Company's intent to
+expand Epoch's software product line to be compatible with
+multiple hardware and software platforms.  The Company
+currently plans to incorporate various Epoch software
+products into its development of products for the
+client/server market.  Epoch utilizes a variety of
+distribution channels to sell its software products,
+including telemarketing, value added resellers, OEMs and
+system integrators.
+
+Copernique, S.A.
+
+     In January 1994, the Company acquired the majority
+interest in Copernique S.A. ("Copernique") formerly held by
+Cap Gemini Sogeti S.A.  Copernique, located near Paris,
+France, specializes in high-performance data management
+hardware and software systems.  The Company believes that
+this acquisition will enable the Company to extend its
+offerings in the field of distributed Information Technology
+systems and to strengthen its European presence.
+
+Marketing and Customers
+
+     EMC markets its products through multiple distribution
+channels, including its direct sales force, selected
+distributors and OEMs.  The Company has a direct sales
+presence throughout North America and Europe, and uses
+distributors as its primary distribution channel in the Asia
+Pacific region, the Middle East, Africa and South America.
+Over the past two years, the Company has expanded its North
+American and European sales and marketing organizations
+significantly and currently is expanding its sales and
+marketing organizations in the Asia Pacific region.  In this
+regard, in January 1994, the Company and its existing
+Japanese distributor jointly formed a company in Japan, in
+which the Company holds a majority interest.  Through this
+entity, the Company will acquire a direct salesforce in
+Japan, which it then plans to further expand.  During 1993,
+the Company derived 65% of its product revenue from
+shipments into North and South America, 30% from shipments
+
+                                   7.
+<PAGE>
+into Europe, the Middle East and Africa, and 5% from
+shipments into the Asia Pacific region.  EMC's marketing and
+sales personnel are organized into mainframe and midrange
+customer groups to ensure that the necessary expertise is
+available to understand the customer's requirements and
+properly apply the Company's product solutions.  In
+addition, the Company has dedicated personnel to support the
+needs of its distributors and OEM customers, both
+domestically and internationally.
+
+Operations
+
+     EMC's products utilize the Company's engineering
+designs, with industry standard and semi-custom components
+and subsystems.  The majority of EMC's products are
+manufactured and tested at the Company's facilities in
+Hopkinton, Massachusetts and Cork, Ireland.  Products
+manufactured by subcontractors in the
+U.S. and Europe are assembled in accordance with production
+standards and quality controls established by EMC.  The
+Company discontinued board assembly at its Canovanas, Puerto
+Rico facility in February 1994 and such assembly is now
+being performed by existing subcontractors.  The Company
+believes its present level of manufacturing capacity will be
+sufficient to accommodate its requirements.
+
+     The Company purchases certain components and products
+from suppliers who the Company believes are currently the
+only suppliers of those components or products that meet the
+Company's requirements.  Among the most important components
+that the Company uses are high density memory components
+("DRAMs") and 51/4" and 31/2" disk devices, which the
+Company purchases from a small number of qualified
+suppliers, and in some instances there is only a single
+source for such components.  A failure by any supplier of
+high density DRAMs or disk drives to meet the Company's
+requirements for an extended period of time could have a
+material adverse effect on the Company.  From time to time
+during 1993, because of high industry demand, the Company
+experienced delays in deliveries of high density DRAMs and
+disk drives needed to satisfy orders for ICDA products.  If
+such shortages were to intensify, the Company could lose
+some time-sensitive customer orders.
+
+     EMC considers it crucial that there be a close working
+relationship between its product development staff and its
+marketing organization.  The Company believes that its
+success is in part tied to its ability to respond quickly to
+the needs and problems of end-users in each of its markets.
+As the marketing organization identifies these end-user
+needs, the Company utilizes advanced computer-aided
+engineering and design ("CAE/CAD") technology to expedite
+the design and production of new products.
+
+     The Company has implemented a Total Quality Management
+philosophy to ensure the quality of its designs,
+manufacturing process and suppliers.
+
+     The Company's U.S. operation currently holds an ISO9001
+Certificate of Registration from National Quality Assurance,
+Ltd.  This internationally recognized endorsement of ongoing
+quality management represents the highest level of
+certification available.  The Company's Irish manufacturing
+operation also holds ISO9002 certification.  In the first
+quarter of 1993, the Company's principal manufacturing
+
+                                   8.
+<PAGE>
+operation in Hopkinton was awarded Class A MRP II status by
+an independent evaluation organization.
+
+Manufacturing Risks
+
+     The Company's products operate near the limits of
+electronic and physical performance and are designed and
+manufactured with relatively small performance margins.  If
+flaws in design or production occur, the Company could
+experience a rate of failure in its products that would
+result in substantial costs for the repair or replacement of
+defective products and potential damage to the Company's
+reputation.  Continued improvement in manufacturing
+capabilities, control of supplier quality and manufacturing
+costs will be critical factors in the future growth of the
+Company.  The Company frequently revises and updates
+manufacturing and test processes to address engineering and
+component changes to its products and evaluates the
+reallocation of manufacturing resources among its
+facilities.  The Company's failure to monitor, develop and
+implement appropriate test and manufacturing processes for
+its products, especially the Symmetrix and Harmonix series,
+could have substantial adverse effects on the Company's
+operation and ultimately on its financial results.
+
+Competition
+
+     EMC competes primarily with IBM in the sale of storage
+products in the IBM and IBM-compatible mainframe and
+midrange marketplaces. The Company believes that it has a
+number of competitive advantages over IBM, especially in the
+areas of product performance, cost of ownership, and time-to-
+market. While the Company believes that its ICDA technology
+provides a significant technological advantage, it is likely
+that competition in this area will increase significantly in
+the future which could adversely affect the Company's
+profitability.  The Company also realizes that IBM has
+certain competitive advantages including significantly
+greater financial and technological resources, a larger
+distribution capability, earlier access to customers and a
+greater level of customer loyalty. Other important elements
+of competition in the computer storage industry are product
+reliability and quality, continuing technological
+improvements, marketing and customer service, and product
+design.
+
+     There are also a number of independent competitors in
+each of EMC's markets. In the mainframe market those
+competitors include Hitachi Data Systems, Inc., Amdahl
+Corporation and Storage Technology Corporation ("STK").  In
+the midrange market, competition has historically come from
+smaller companies, as well as IBM and STK.    EMC believes
+that it has similar advantages over these midrange
+competitors, but increased competition from these or future
+entrants could adversely effect the Company's profitability.
+
+Technological Factors
+
+     The computer data storage industry is characterized by
+rapidly changing technology and user needs which require
+ongoing technological development and introduction of new
+products.  Recognizing this fact, the Company has developed
+a storage system architecture called MOSAIC:2000 to allow
+
+                                    9.
+<PAGE>
+the Company to take advantage of technological developments.
+By employing this architectural approach to product
+development, EMC is able to quickly integrate new
+technologies into its basic design.  The Company works
+closely with its suppliers to understand their technology
+direction and to plan for the integration of this technology
+into its product architecture.  Both the Symmetrix series
+and Harmonix series are products derived from the
+MOSAIC:2000 architectures.
+
+     In 1993, sales of the Symmetrix series remained a
+significant source of revenues for the Company and sales of
+such products are expected to continue to be a significant
+source of revenues.  In April 1992, EMC released a new
+series of midrange disk storage systems, the Harmonix
+series, which have also become a significant source of
+revenues for the Company.  The Company expects competition
+in the sales of ICDA-based products to increase and there
+can be no assurance that the Symmetrix series and Harmonix
+series of products will continue to achieve market
+acceptance.  Significant delays in the development of ICDA
+technology for future products or product enhancements would
+be to the advantage of the Company's competitors, many of
+whom have significantly greater resources, and could
+ultimately affect the Company's financial condition.
+Furthermore, the continued development of ICDA technology
+and its incorporation into the Company's future generations
+of products cannot be assured even with significant
+additional investments.
+
+Product Development
+
+     EMC's ability to compete successfully in present and
+future markets depends upon the timely development and
+introduction of products offering price/performance or
+capacity advantages and compatibility with the computer
+systems for which they are designed.  Achieving these goals
+requires that the Company remain abreast of changing
+technology and design products that operate within the
+architecture of various computer systems and deliver
+performance or capacity advantages not offered by the
+original systems developer or by other storage competitors.
+Moreover, the computer industry is subject to rapid
+technological developments.  Consequently, achieving such
+goals may become more difficult, costly and time consuming
+as a result of technological developments that cannot now be
+foreseen.  Research and development costs were $58,977,000,
+$33,591,000 and $22,496,000 for the fiscal years ended
+January 1, 1994, January 2, 1993 and December 28, 1991, 
+respectively.
+
+Seasonality
+
+     The Company has from time to time experienced seasonal
+revenue fluctuations in the third quarter of its fiscal year
+which it believes are due primarily to business slowdowns
+associated with European vacation periods.
+
+Working Capital
+
+     It is typical for companies in the computer industry to
+require significant amounts of working capital to finance
+inventory and receivables.  The Company believes that its
+working capital requirements are in accordance with industry
+practices.  In 1993, the Company financed its working
+capital requirements from internally generated funds and
+existing cash and investments.  This also includes the net
+proceeds of $100,141,000 received from the sale in March
+1993 of the Company's common stock and the net proceeds
+received from the sale in December 1993 and January 1994 of
+$229,600,000 of 41/4% Convertible Subordinated Notes due
+2001 ($29,600,000 of which was sold upon exercise of the
+underwriters' over-allotment option in January 1994).  
+
+                                   10.
+<PAGE>
+In 1993, the Company invested an additional $29,100,000 in 
+long term investments.  As of February 1, 1994, the Company 
+had available for use its entire $15,000,000 credit line.
+However, the Company may elect to borrow capital at any time
+to fund new growth opportunities.  As the Company's product
+mix shifts to higher cost products with longer sales cycles,
+the Company's need for working capital is expected to
+increase.
+
+Backlog
+
+     The Company manufactures its products on the basis of
+its forecast of near-term demand and maintains inventory in
+advance of receipt of firm orders from customers.  Orders
+are generally shipped by the Company shortly after receipt
+of the order.  Customers may reschedule orders with little
+or no penalty.  For these reasons, the Company's backlog at
+any particular time is not indicative of future sales
+levels.
+
+Employees
+
+     As of February 28, 1994, EMC had approximately 2452
+employees, including temporary employees.  Continued growth
+in the Company's business will require the hiring of
+additional qualified personnel.  Under current market
+conditions, the Company does not expect to encounter any
+difficulty in hiring such personnel.  None of the Company's
+employees is represented by a labor union, and the Company
+has never suffered an interruption of business as a result
+of a labor dispute.  The Company considers its relations
+with its employees to be good.
+
+Dependence Upon Key Personnel
+
+     The Company's success is highly dependent upon senior
+management and other key employees, the loss of whom could
+adversely affect the Company.  The Company also believes
+that its future success will depend in large part upon its
+ability to attract and retain additional key employees, of
+which there can be no assurance.
+
+Environment
+
+     The Company's manufacturing facilities are subject to
+numerous laws and regulations designed to protect the
+environment, particularly from wastes generated as a result
+of assembling certain EMC products.  The cost of compliance
+with such regulations has not to date involved a significant
+expense or had a material effect on the capital
+expenditures, earnings or competitive position of the
+Company.
+                                   11.
+<PAGE>
+Patents
+
+     EMC has received seven U.S. patents and has numerous
+applications pending in the U.S. and foreign patent offices
+relating to the Symmetrix and Harmonix series of products.
+The Company also has a number of other patent and patent
+applications filed in the U.S. and foreign patent offices.
+While the Company believes that the pending applications
+relate to patentable devices or concepts, there can be no
+assurance that any patents will issue or that any patent
+issued can be successfully defended.  In any case, the
+Company believes that patents are of less significance in
+its industry than such factors as innovative skills,
+technological expertise and the management ability of its
+personnel.
+
+Earnings Fluctuations
+
+     Due to (i) customers' tendencies to make purchase
+decisions late in each fiscal quarter, (ii) the desire by
+customers to evaluate new, more expensive products for
+longer periods of time, (iii) the timing of product and
+technology announcements by the Company and its competitors,
+and (iv) fluctuating currency exchange rates, the Company's
+period-to-period revenues and earnings can fluctuate
+significantly.
+
+Recent Developments
+
+     On February 11, 1994 the Board of Directors of the
+Company voted to adopt the provisions of Section 50A of
+Chapter 156B of the Massachusetts General Laws.  Pursuant to
+Section 50A, the Board of Directors is presently divided
+into three classes, having staggered terms of three years
+each after an initial transition period. Under Section 50A
+and the by-laws of the Company, the Board of Directors may
+determine the total number of directors and the number of
+directors to be elected at any Annual Meeting of
+Stockholders or Special Meeting in lieu thereof.  The Board
+of Directors has fixed at eight the total number of
+directors and has fixed at two the number of directors to be
+elected at the 1994 Annual Meeting. Of the current total of
+eight directors, two Class I Directors have terms expiring
+at the 1994 Annual Meeting, three Class II Directors have
+terms expiring at the 1995 Annual Meeting and three Class
+III Directors have terms expiring at the 1996 Annual
+Meeting.
+
+     On March 15, 1994, the Company acquired certain assets
+of Array Technology Corporation ("Array"), a wholly-owned
+subsidiary of Tandem Computers Incorporated.  Array, located
+in Boulder, Colorado, specializes in the development and
+manufacture of Redundant Arrays of Independent Disk (RAID)
+storage solutions.  The Company believes that this
+acquisition will enhance the Company's ability to develop
+additional advanced storage solutions for those customers
+and markets that have a need for them.
+
+                                   12.
+<PAGE>
+Financial Information About Foreign and Domestic Operations
+and Export Sales
+
+The Company is active in only one business segment:
+designing, manufacturing and marketing high performance
+storage products.  Information by geographic area is
+presented below with exports shown in their area of origin.
+Sales and marketing operations outside the U.S. are
+conducted through sales subsidiaries and branches located
+principally in Europe and by direct sales from the parent
+corporation or its Irish manufacturing subsidiary.  The U.S.
+market amounted to greater than 95% of the Company's sales,
+income and identifiable assets in the North/South America
+segment.
+
+Intercompany transfers between geographic areas are
+accounted for at prices which are designed to be
+representative of unaffiliated party transactions.
+(in thousands)
+                        Europe,
+             North/     Middle-                        Consol-
+             South      East,      Asia      Elimi-    idated
+             America    Africa     Pacific   nations   Total 
+1993
+Sales        $526,771   $251,363   $ 4,487   $   ---   $782,621
+Transfers 
+between      
+areas         100,237     83,726      ---    (183,963)      ---
+Total sales   627,008    335,089     4,487   (183,963)  782,621
+Income
+(loss) from
+operations    107,512     70,324      (990)     3,582   180,428
+Identifiable
+assets at
+year end      684,576    192,682     2,383    (49,995)  829,646
+
+1992
+Sales        $263,465   $111,117   $11,124    $   ---  $385,706
+Transfers
+between
+areas          83,813     36,303      ---    (120,116)     ---
+
+Total sales   347,278    147,420    11,124   (120,116)  385,706
+Income from
+operations     34,915     25,008     1,255    (12,603)   48,575
+Identifiable 
+assets at
+year end      252,308     98,232     4,309    (16,069)  338,780
+
+1991
+Sales        $200,008    $51,411    $8,918    $   ---  $260,337
+Transfers 
+between
+areas          35,946     15,036       ---    (50,982)      ---
+Total sales   235,954     66,447     8,918    (50,982)  260,337
+Income 
+(loss) from
+operations     22,798     (6,406)     (531)     4,517    20,378
+Identifiable 
+assets at
+year end      164,096     41,608     4,166     (4,367)  205,503
+
+                                   13.
+<PAGE>
+ITEM 2.  PROPERTIES
+
+     The Company's mainframe marketing, research and
+development, customer service and manufacturing functions
+are located in a 229,000 square foot complex at 171 South
+Street in Hopkinton, Massachusetts.  This building complex
+consists of a building purchased in December 1986, and an
+adjacent building constructed in 1988 and occupied in
+January 1989.  In October 1992, EMC purchased a 62,000
+square foot facility and an additional 6 acres of land at 
+42 South Street in Hopkinton, Massachusetts.  This facility 
+has been renovated by the Company and is in use as its 
+customer demonstration center and for midrange marketing, 
+research and development and manufacturing.  In November 
+1993, the Company transferred certain of its corporate and
+administrative functions to a leased 80,000 square foot
+building at 35 Parkwood Drive in Hopkinton, Massachusetts.
+
+     Production currently is carried on in the Hopkinton
+facility at 171 South Street, and a leased 87,000 square
+foot facility in Cork, Ireland (of which 40,000 square feet
+was added in 1993).  The Company discontinued production at
+its Canovanas, Puerto Rico facility in February 1994 and
+plans to close the facility completely in March 1994.
+
+     The Company also leases space for its sales and 
+service offices worldwide.
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+     On June 10, 1993, STK filed suit against EMC in the
+United States District Court for the District of Colorado
+(Case No. 93-S-1238) alleging that EMC is infringing three
+patents.  In the complaint, STK seeks injunctive relief,
+unspecified damages, including treble damages plus
+attorney's fees and costs.  On July 20, 1993, EMC answered
+the complaint and denied STK's allegations.  In addition,
+EMC counterclaimed against STK alleging that the patents in
+suit are invalid and unenforceable.  In the counterclaim,
+EMC seeks unspecified damages, attorney's fees, costs and
+interest.  Discovery in the matter is currently in process.
+A scheduling order has been entered and a trial date has
+been set for October 1994.
+
+     The Company is involved in other litigation which it
+considers routine and incidental to its business, and EMC's
+management does not expect the results of any of these
+actions to have a material adverse effect on EMC's business
+or financial condition.
+
+                                   14.
+<PAGE>
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     A Special Meeting of Stockholders was held on November
+17, 1993.  The stockholders approved amendments to the
+Company's Articles of Organization to increase the number of
+shares of authorized common stock, $.01 par value, to
+330,000,000 shares from the previous authorization of
+150,000,000 shares and to authorize a new class of capital
+stock consisting of 25,000,000 shares of series preferred
+stock, $.01 par value.  The results of the votes for each of
+these proposals were as follows:
+
+1.   To amend the Articles of Organization to increase the
+authorized common stock:
+
+     For:                   78,244,601
+     Against:                3,954,529
+     Abstain:                  186,232
+     Delivered But Not Voted       -0-
+
+2.   To amend the Articles of Organization to authorize a
+new class of capital stock consisting of series preferred
+stock:
+
+     For:                   61,759,842
+     Against:               11,012,647
+     Abstain:                  289,621
+     Delivered But Not Voted 9,323,252
+
+                                   15.
+<PAGE>
+            EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The executive officers of the Company are as follows:
+
+Name                  Age  Position
+
+Richard J. Egan       58   Chairman of the Board and Director
+Michael C. Ruettgers  51   President, Chief Executive Officer
+                           and Director
+W. Paul Fitzgerald    53   Senior Vice President, Finance and
+                           Administration, Chief Financial 
+                           Officer, Treasurer and Director
+John R. Egan          36   Executive Vice President,
+                           Sales and Marketing and Director
+Frank M. Keaney       57   Senior Vice President,
+                           North American Sales
+Richard B. Plummer    48   Senior Vice President and General
+                           Manager, Client/Server Systems Division
+Harold P. Ano         45   Senior Vice President, Marketing
+L. Daniel Butler      55   Senior Vice President, Customer Service
+Michael L. Schoonover 45   Senior Vice President, Operations
+Paul T. Dacier        36   Vice President and General Counsel
+Michael R. Grilli     54   Vice President-Sales, Europe, 
+                           Middle East and Africa
+Paul E. Noble, Jr.    38   Vice President and General Manager,
+                           OEM Operations
+Colin G. Patteson     45   Vice President and Controller
+Michael G. Salter     57   Vice President and General Manager, 
+                           Asia Pacific
+
+     Richard J. Egan is a founder of the Company and has
+served as a Director since the Company's inception in 1979.
+He was elected Chairman of the Board of the Company in
+January 1988. Prior to January 1988, he was also President
+of EMC. From 1979 to January 1992, he was Chief Executive
+Officer of the Company.  He is also a director of Cognition
+Corporation, a CAD/CAM software supplier.
+
+     Michael C. Ruettgers served as Executive Vice
+President, Operations of EMC from July 1988 to October 1989,
+when he became President. From September 1989 to January
+1992, Mr. Ruettgers served as Chief Operating Officer of
+EMC. In January 1992, he became Chief Executive Officer and
+in May 1992, he was elected a Director of the Company.
+Before joining EMC, he was Chief Operating Officer at
+Technical Financial Services, Incorporated, a high
+technology consulting company which he joined in February
+1987. Prior to that, he was a Senior Vice President of
+Keane, Inc., a software application consulting firm. He is
+also a director of Keane, Inc. and Cross Comm, Inc., a
+manufacturer of computer network products.
+
+                                   16.
+<PAGE>
+     W. Paul Fitzgerald has been a Director of the Company
+since March 1991. Since January 1988, he has been Senior
+Vice President, Finance and Administration and Chief
+Financial Officer of EMC. In October 1991, Mr. Fitzgerald
+was elected Treasurer of the Company.  From January 1985 to
+January 1988, he was Vice President, Finance of EMC.
+
+     John R. Egan became Executive Vice President, Sales and
+Marketing of EMC in January 1992 and was elected a Director
+in May 1992.  Previously he held several executive positions
+with the Company, including Executive Vice President,
+International Sales and Executive Vice President, Marketing.
+
+     Frank M. Keaney was Vice President, North American
+Sales of EMC from June 1989 to October 1989, when he became
+Senior Vice President, North American Sales. Prior to June
+1989, he was Vice President, Sales of Data General
+Corporation, a computer manufacturer.
+
+     Richard B. Plummer joined EMC in March 1990 as Senior
+Vice President of Engineering and became Senior Vice
+President and General Manager, Client/Server Systems
+Division in June 1993.  Previously, he held a number of
+executive positions with Apollo Computer Inc., a computer
+manufacturer, and its successor, the Apollo Systems Division
+of Hewlett-Packard Company.
+
+     Harold P. Ano joined EMC in April 1990 as Senior Vice
+President of Marketing. Previously, he held several
+executive positions with Wang Laboratories, Inc., a computer
+manufacturer, most recently as Senior Vice President and
+General Manager of the Wang Microsystems Division.
+
+     L. Daniel Butler joined EMC in August 1990 as Vice
+President of Customer Service and became Senior Vice
+President of Customer Service in February 1993.  Prior to
+joining EMC, Mr. Butler was the founder and President of
+DMX, Inc., an electronic board assembling company, from
+October 1989 to August 1990.  From October 1987 to September
+1989, he was Director of Logistics Planning at Data General
+Corporation, a computer manufacturer.
+
+     Michael L. Schoonover joined EMC in April 1991 as Vice
+President of Manufacturing Operations and in February 1993
+he became Senior Vice President of Operations at EMC.  From
+September 1988 through March 1991, Mr. Schoonover was Vice
+President of Operations at Westerbeke Corporation, a
+manufacturer of marine power products.
+
+     Paul T. Dacier joined EMC in March 1990 as General
+Counsel and became Vice President and General Counsel in
+February 1993.  Prior to joining EMC he was Senior Counsel,
+Corporate Operations at Apollo Computer Inc., a computer
+manufacturer, from January 1987 to January 1990.
+
+                                   17.
+<PAGE>
+     Michael R. Grilli has been Vice President-Sales,
+Europe, Middle East and Africa since October 1993.  From
+January 1993 to September 1993, he was Vice President,
+Europe and from October 1989 to December 1992, he was
+Southern Area Manager for EMC. From 1982 to September 1989,
+Mr. Grilli was a Regional Manager for Hitachi Data Systems
+Inc., a computer manufacturer.
+
+     Paul E. Noble, Jr. has been Vice President and General
+Manager of OEM Operations at the Company from June 1992 to
+present.  From June 1989 through May 1992 he was a Vice
+President of Sales and from March 1987 to May 1989, he was
+Vice President of Customer Service at EMC.
+
+     Colin G. Patteson joined EMC in January 1989 as
+European Controller.  In March 1991 he became Corporate
+Controller and in February 1993 he became Vice President and
+Controller.
+
+     Michael G. Salter joined EMC in October 1991 as Vice
+President, International Operations.  In July 1992 he became
+Vice President of International Distribution and in January
+1994 he became Vice President and General Manager, Asia
+Pacific and President, EMC Japan K.K.  Prior to joining EMC,
+Mr. Salter was President of Technical Financial Services,
+Incorporated, a high technology consulting company, from
+1982 to September 1991.
+                        ____________
+                              
+     Richard J. Egan, Chairman of the Board and a Director, is the
+husband of Maureen E. Egan, a Director of the Company. He also is
+the brother-in-law of W. Paul Fitzgerald, the Company's Senior
+Vice President, Finance and Administration, Chief Financial
+Officer, Treasurer and Director. W. Paul Fitzgerald is the brother
+of Maureen E. Egan. John R. Egan, Executive Vice President, Sales
+and Marketing and a Director of the Company is the son of Richard
+J. and Maureen E. Egan.
+                        ____________
+                              
+     The President and Treasurer are elected annually to
+serve until the first meeting of the Board of Directors
+following the next annual meeting of stockholders and until
+their successors are elected and qualified.  The other
+executive officers are appointed to serve in such positions
+and serve at the pleasure of the Board of Directors.
+
+**************************************************************
+     EMC, Symmetrix, Harmonix, ICDA, Champion and MOSAIC:
+2000 are trademarks of EMC Corporation.  IBM and AS/400 are
+registered trademarks of IBM Corporation.
+
+                                   18.
+<PAGE>
+                           PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND
+RELATED STOCKHOLDER MATTERS
+
+     EMC's common stock $.01 par value (the "Common Stock")
+began trading on the over-the-counter market on April 4,
+1986 under the NASDAQ symbol EMCS.  On March 22, 1988, the
+Company's stock began trading on the New York Stock Exchange
+under the symbol EMC.
+
+     The following stock splits were effected in the form of
+stock dividends in the following amounts and at the
+following dates:  three-for-two stock split effective
+November 24, 1992, for stockholders of record on November 9,
+1992, a two-for-one stock split effective June 8, 1993, for
+stockholders of record on May 24, 1993, and a two-for-one
+stock split effective December 10, 1993, for stockholders of
+record on November 26, 1993.
+
+     The following table sets forth the range of high and
+low prices on the New York Stock Exchange for the past two
+years during the fiscal periods shown, adjusted to reflect
+the effect of stock splits.
+
+              Fiscal 1993            High         Low
+
+              First Quarter        $ 7.19      $ 5.13
+              Second Quarter        11.31        5.81
+              Third Quarter         19.00       10.13
+              Fourth Quarter        19.50       14.75
+
+              Fiscal 1992            High         Low
+
+              First Quarter        $ 2.81      $ 1.94
+              Second Quarter         3.10        1.81
+              Third Quarter          3.50        2.53
+              Fourth Quarter         6.06        3.00
+
+     The Company has never paid cash dividends on its Common
+Stock.  While subject to periodic review, the current policy
+of its Board of Directors is to retain all earnings to
+provide funds for the continued growth of the Company.
+
+                                   19.
+<PAGE>
+ITEM 6.  SELECTED CONSOLIDATED FINANCIAL DATA
+
+<TABLE>
+FIVE YEAR SELECTED CONSOLIDATED FINANCIAL DATA
+EMC Corporation
+(amounts in thousands except per share amounts)
+
+Summary of Operations
+<CAPTION>
+                    1993       1992      1991      1990      1989
+<S>                <C>        <C>       <C>       <C>       <C>
+Revenues           $782,621   $385,706  $260,337  $189,734  $146,719
+Operating
+ income (loss)      180,428     48,575    20,378     3,888   (28,102)
+Net income
+ (loss)             127,122     29,508    11,409     3,527   (21,566)
+Net income
+ (loss)  per
+ weighted average
+ common share 
+ (fully diluted)<F1>   $0.60     $0.16     $0.07     $0.02    $(0.14)
+Weighted average 
+ common shares 
+ (fully diluted)<F1> 217,225   190,548   166,220   158,523   151,725
+
+Other Statistics
+Working capital     $516,876  $149,335  $ 77,033  $ 81,177  $ 76,885
+Total assets         829,646   338,780   205,503   167,547   145,029
+Long-term 
+ obligations <F2>    274,029    76,093    16,165    16,814    15,959
+Stockholders' 
+ equity             $419,094  $168,266  $135,009  $113,620  $101,993
+<FN>
+<F1> In addition to common stock equivalents, fully diluted earnings 
+  per share for 1993 reflect the dilutive effects of the Company's 
+  4 1/4% Convertible Subordinated Notes due 2001.
+  Fully diluted earnings per share for 1993 and 1992 reflect the
+  dilutive effects of the Company's 6 1/4% Convertible Subordinated 
+  Debentures due 2002.
+<F2> Excludes current portion of long-term debt.
+</TABLE>
+
+                                   20.
+<PAGE>
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+
+     The following table represents certain statement of 
+operations information stated as a percentage of revenues.
+
+                                  Fiscal year ended
+                           January 1,   January 2,  December 28,
+                             1994         1993         1991
+
+Revenues:
+  Net sales                  96.8%        94.7%        94.5%
+  Service and rental income   3.2          5.3          5.5
+                            100.0        100.0        100.0
+
+Cost and expenses:
+  Cost of sales and service  48.7         53.7         54.1
+  Research and development    7.5          8.7          8.6
+  Selling, general
+    and administrative       20.8         25.0         29.5
+
+Operating income             23.0         12.6          7.8
+
+Investment income and 
+  interest (expense), net     ---         (0.3)         0.3
+Other (expense), 
+  income, net                 ---         (1.1)        (1.0)
+
+Income before income taxes   23.0         11.2          7.1
+
+Provision for income taxes    6.8          3.5          2.7
+
+Net income                   16.2%         7.7%         4.4%
+
+Revenues
+
+     Revenues increased by $396,915,000, or 103% in 1993 from
+1992 compared to an increase of $125,369,000, or 48%, in 1992
+from 1991.  Revenues from net sales increased by $392,495,000,
+or 107%, in 1993 from 1992 levels, while revenues from service
+and rental income increased by $4,420,000, or 22%, in 1993 from
+1992.
+
+     In 1993, the Company continued to experience a significant
+increase in the percentage of its revenues derived from the
+sale of disk systems compared to the percentage derived from
+the sale of its other products.  This increase was due
+primarily to the market acceptance and unit sales growth from
+products featuring the Company's Integrated Cached Disk Array
+("ICDA") technology, which includes the Symmetrix and Harmonix
+series of products.  Revenues from the Symmetrix series in the
+IBM, Bull and Unisys mainframe markets increased to
+$620,178,000 in 1993 from $235,720,000 in 1992, an increase of
+$384,458,000 or 163%.  Introduced in March 1992, the Harmonix
+series generated revenues of $92,672,000 in 1993 and
+$49,147,000 in 1992.  In 1993, the Company generated
+
+                                   21.
+<PAGE>
+ITEM 7 continued...
+
+approximately 91% of its revenue from sales of ICDA-based
+products, versus approximately 74% in 1992.  It is expected
+that revenues from ICDA-based products will continue to be a
+significant component of the Company's revenues in 1994.
+
+     Revenues from memory products, including Solid State Disk
+("SSD") devices, declined significantly in 1993.  Competitive
+pricing pressures and reduced unit sales of midrange memory
+products contributed to the decline.
+
+     Sales to customers in the North and South American market
+increased by $257,798,000, or 99%, in 1993 due primarily to
+increased unit sales of the Symmetrix series in both the IBM
+and Unisys mainframe storage markets.  Revenues on shipments
+from the North and South American segment were $526,771,000 and
+$263,465,000 in 1993 and 1992, respectively.
+
+     Revenues from midrange products increased by $17,853,000
+in 1993 over 1992.   A decline in the sales of IBM AS/400
+compatible memory products was offset by increased revenues
+from the sales of Harmonix and other midrange tape and storage
+products.  Unit sales of the Harmonix series accounted for 85%
+of the revenues from midrange disk storage systems into the
+North and South American markets.
+
+     Sales to customers in the markets in Europe, the Middle
+East and Africa increased by $118,272,000, or 110%, in 1993 due
+primarily to a growth in unit sales of the Symmetrix series in
+the IBM and Bull mainframe storage markets.  Revenues on
+shipments from this segment were $251,363,000 and $111,117,000
+in 1993 and 1992, respectively.
+
+     Sales to customers in the markets in the Asia Pacific
+region increased by $20,844,000, or 125%, during 1993, due
+primarily to the growth in unit sales of the Symmetrix product
+line.  Revenues from midrange products in this market segment
+remained relatively constant during 1993 with increased
+Harmonix sales offsetting decreased unit sales of other
+midrange disk storage systems and decreased sales of IBM AS/400
+compatible memory products.  Revenues on shipments from this
+segment were $4,487,000 and $11,124,000 in 1993 and 1992,
+respectively.
+
+     On January 15, 1992, EMC entered into a two-year OEM
+agreement for the sale of the Company's mainframe products as
+Unisys compatible products to Unisys.  Revenues from product
+sales under this agreement aggregated $39,529,000 in 1993 and
+$43,486,000 in 1992.  In September 1993, the Company and Unisys
+extended the term of the original agreement for up to an
+additional three years, through December 31, 1996.
+
+     In February 1993, the Company entered into a three-year
+OEM agreement with Bull.  Pursuant to this agreement, EMC
+grants Bull the exclusive worldwide marketing rights, with the
+exception of Japan, to EMC's Symmetrix 4800 series of ICDA-
+based storage products for Bull mainframe computers, provided
+that Bull purchases all of its requirements for high speed
+cached disk array storage devices from EMC.  Failure by Bull in
+the future to purchase at least 45% of forecasted purchases at
+
+                                    22.
+<PAGE> 
+ITEM 7 continued...
+
+designated times, on a cumulative basis, may result in loss of 
+exclusivity to Bull.  Revenues from product sales under this 
+agreement were $22,298,000 in 1993.
+
+     Historically, the Company has competed with OEM
+manufacturers and other independent suppliers on the basis of
+product performance, quality and price.  The Company expects
+that there will be performance and pricing pressures with
+respect to the sale of its products throughout 1994.
+
+Cost of Sales and Service
+
+     As a percentage of revenue, cost of sales amounted to
+48.7% in 1993, 53.7% in 1992, and 54.1% in 1991.  The
+improvement in the cost of sales percentage in 1993 versus 1992
+and 1991 was due primarily to increased sales of the higher
+margin Symmetrix products through the Company's direct sales
+force, and, to a lesser extent, improved component reliability,
+establishment of key vendor alliances, aggressive production
+management and increased focus on Total Quality Management.
+These improvements were partially offset by lower product
+margins from the Company's OEM business, and pricing pressures
+in the midrange business, especially sales through distribution
+channels.  Continuing margin pressure in Mainframe and Midrange
+markets may require the Company to adapt and re-assess its cost
+structure and marketing strategy.
+
+Research and Development
+
+     Research and development ("R&D") expenses were
+$58,977,000, $33,591,000, and  $22,496,000 in 1993, 1992, and
+1991, respectively.  As a percentage of revenue, such expenses
+were 7.5%, 8.7% and 8.6% in 1993, 1992, and 1991, respectively.
+The Company is committed to utilizing state-of-the-art CAE/CAD
+design tools to sustain its design and development efforts.
+Increases in spending reflect the cost of such tools and the
+cost of additional technical staff.  The Company expects to
+continue to spend substantial amounts for R&D in 1994.
+
+Selling, General and Administrative
+
+     Selling, general and administrative ("SG&A") expenses
+increased by $66,200,000, or 69% in 1993, $19,567,000, or 26%,
+in 1992 and $19,328,000, or 34%, in 1991.  As a percentage of
+revenues, SG&A expenses were 20.8%, 25.0% and 29.5% in 1993,
+1992 and 1991, respectively.
+
+     The increases in all three years were due primarily to
+costs associated with additional sales and support personnel,
+and related overhead costs, both domestically and
+internationally, required to support the increased revenue
+levels and the expansion of the Company's OEM and international
+distribution programs. Advertising and sales promotion costs
+were approximately $9,555,000 in 1993, $4,964,000 in 1992 and
+$3,857,000 in 1991.  SG&A expenses are expected to increase in
+dollar terms in 1994, in line with expected growth in revenues.
+
+                                   23.
+<PAGE>
+ITEM 7 continued...
+
+Investment Income and Interest Expense
+
+     Investment income increased to $7,988,000 in 1993 from
+$3,830,000 in 1992 and $2,718,000 in 1991.  Income was earned
+from investments in cash equivalents and long-
+term investments and from sales-type leases of the Company's
+products.  Investment income in 1993 increased due to higher
+average cash balances caused primarily by the proceeds from the
+offering of EMC common stock, $.01 par value (the "Common
+Stock") in March 1993, the proceeds from the sale of the
+Convertible Subordinated Notes (the "Notes") in December 1993,
+and a full year's availability of funds from the issuance of
+the Convertible Subordinated Debentures due 2002 (the
+"Debentures") in March 1992.  Investment income increased in
+1992 due to higher average cash balances during the year
+resulting primarily from the proceeds received from the
+issuance of the Debentures.  Lower interest rates throughout
+1993 and 1992 partially offset the higher cash balances.
+
+     Interest expense increased to $6,043,000 in 1993 from
+$4,865,000 in 1992 and $2,011,000 in 1991.  The increase of
+$1,178,000 in 1993 from 1992 levels was due
+primarily to the provision for interest payments due on the
+Debentures and to interest accrued in December for the Notes.
+
+Other Expense, Net
+
+     Net other expense amounted to $2,717,000, $4,465,000 and
+$2,578,000 in 1993, 1992 and 1991, respectively.  Other expense
+for 1993 related primarily to foreign currency transaction
+losses of $1,838,000, losses on sales of fixed assets and
+customer service equipment of $2,324,000, amortization of
+technology license costs of $417,000 and $428,000 of other
+expense, net of $2,290,000 of other income, primarily from
+technology license fees.  Other expense for 1992 related
+primarily to a net loss from the disposal of customer service
+equipment and other fixed assets of $2,324,000, the
+amortization of technology license costs of $1,667,000, a
+provision for litigation settlement of $1,057,000, and foreign
+currency transaction costs of $1,093,000, net of other income
+of $1,676,000 consisting primarily of technology license fees.
+Other expense in 1991 consisted primarily of currency
+transaction costs of $1,542,000 and amortization of technology
+license costs of $1,566,000, net of other income of $530,000.
+
+Provision for Taxes
+
+     The provision for income taxes was $52,534,000 in 1993,
+$13,567,000 in 1992 and $7,098,000 in 1991, which resulted in
+effective tax rates of 29%, 32% and 38% in 1993, 1992 and 1991,
+respectively.  The decrease in the effective tax rate in 1993
+from 1992 is mainly attributable to an increase of tax benefits
+from the Company's Irish operations.  The decrease in the
+effective tax rate in 1992 from 1991 is mainly attributable to
+the utilization of foreign net operating loss carryforwards.
+
+                                   24.
+<PAGE>
+ITEM 7 continued...
+
+     See Note B of the Notes to Consolidated Financial
+Statements for detailed analysis of the Company's effective tax
+rates for 1993, 1992 and 1991.  Also see Note A for a
+discussion of the impact of the adoption of Statement of
+Financial Accounting Standards No. 109, Accounting for Income
+Taxes.
+
+Financial Position
+
+     At the end of the fiscal years 1993, 1992 and 1991, cash
+and cash equivalents totalled $345,300,000, $62,103,000 and
+$22,406,000, respectively.  The $283,197,000 increase in 1993
+over 1992 is primarily attributable to $100,141,000 net
+proceeds received in the March 1993 sale of 17,350,000 shares
+of Common Stock, and $195,000,000 net proceeds received in the
+December 1993 offering of $200,000,000 of the Notes.
+Additionally, the Company invested $29,100,000 in long term
+investments.  The $39,697,000 increase in 1992 over 1991 is
+primarily attributable to the net proceeds received from the
+Debentures issued in March 1992, which were used to support the
+introduction of new products based on ICDA technology,
+including the Symmetrix Model 5500 and the Harmonix product
+lines, to fund a $30,021,000 increase in property, plant and
+equipment and an increase in long-term investments of
+$12,594,000, and to support accounts receivable and inventory
+growth related to the expansion of revenues.  In 1993, working
+capital increased by $367,541,000 from $149,335,000 to
+$516,876,000.  In 1992, working capital increased by
+$72,302,000 from $77,033,000 to $149,335,000.
+
+     The Company maintains substantial inventory levels which
+are required for extensive test cycles and customer evaluations
+of high cost products.  Inventory increased by $61,095,000 or
+107% from 1992 to 1993, supporting revenue growth of 103%.
+Inventory levels increased by $27,152,000, or 91%, from 1991 to
+1992 supporting a 48% growth in revenues.
+
+     Net trade and notes receivable increased by $60,304,000,
+or 62%, from 1992 to 1993 associated with a revenue increase of
+103% during the same period.
+
+     As of February 1, 1994, the Company had available for use its
+entire $15,000,000 credit line.  Based on its current operating
+and capital expenditure forecasts, the Company believes funds
+generated from operations, its available line of credit, and the
+net proceeds to the Company from the Common Stock Offering, the
+Debentures and the Notes will be adequate to finance its
+operations.
+
+     To date, inflation has not had a material impact on
+the Company's financial results.
+
+                                   25.
+<PAGE>
+
+              REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Stockholders and the Board of Directors of EMC
+Corporation:
+
+  We have audited the accompanying consolidated balance
+sheets of EMC Corporation as of January 1, 1994 and
+January 2, 1993, and the related consolidated statements
+of operations, stockholders' equity, and cash flows for
+each of the three years in the period ended January 1,
+1994.  These financial statements are the responsibility
+of the Company's management.  Our responsibility is to
+express an opinion on  these financial statements based
+on our audits.
+
+  We conducted our audits in accordance with generally
+accepted auditing standards.  Those standards require
+that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free
+of material misstatement.  An audit includes examining,
+on a test basis, evidence supporting the amounts and
+disclosures in the financial statements.  An audit also
+includes assessing the accounting principles used and
+significant estimates made by management, as well as
+evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for
+our opinion.
+
+  In our opinion, the financial statements referred to
+above present fairly, in all material respects, the
+consolidated financial position of EMC Corporation as of
+January 1, 1994 and January 2, 1993, and the consolidated
+results of its operations and its cash flows for each of
+the three years in the period ended January 1, 1994 in
+conformity with generally accepted accounting principles.
+
+
+                              COOPERS & LYBRAND
+
+Boston, Massachusetts
+February 1, 1994
+
+
+
+
+                                   26.
+<PAGE>
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+                      EMC CORPORATION
+                 CONSOLIDATED BALANCE SHEETS
+         (amounts in thousands except share amounts)
+                              
+                                      January 1,    January 2,    
+                                        1994          1993
+ASSETS                                            
+Current assets:
+  Cash and cash equivalents           $ 345,300     $  62,103
+  Trade and notes receivable less
+   allowance for doubtful accounts
+   of $5,262 and $2,915 in 1993 
+   and 1992, respectively               157,225        96,921
+  Inventories                           118,263        57,168
+  Deferred income taxes                  24,199        10,588
+  Other assets                            5,023         6,372
+        Total current assets            650,010       233,152
+
+Long-term investments, at cost           50,392        21,292
+Notes receivable, net                    21,808         8,538
+Property, plant and equipment, net       96,480        69,039
+Deferred income taxes                     2,761           ---
+Other assets, net                         8,195         6,759
+
+Total assets                           $829,646      $338,780
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+   Current portion of long-term 
+    obligations                        $  1,262      $  2,379
+   Accounts payable                      44,179        27,648
+   Accrued expenses                      59,755        30,676
+   Income taxes payable                  20,892        17,372
+   Deferred Revenue                       7,046         5,742
+       Total current liabilities        133,134        83,817
+
+Deferred revenue                          3,389         5,804
+Deferred income taxes                       ---         4,800
+Long-term obligations:
+   4 1/4% Convertible Subordinated 
+    Notes due 2001                      200,000           ---
+   6 1/4% Convertible Subordinated 
+    Debentures due 2002                  59,260        60,000
+   Notes payable                         14,013        14,449
+   Capital lease obligations                756         1,644
+        Total liabilities               410,552       170,514
+
+Commitments and contingencies (Notes H and J)
+Stockholders' equity:
+Series Preferred Stock, par value 
+ $.01; authorized 25,000,000 shares         ---           ---
+Common stock, par value $.01; 
+ authorized 330,000,000 shares;
+ issued 189,936,120 and 166,505,268 
+ shares in 1993 and 1992, respectively    1,899         1,665
+Additional paid-in capital              226,668       105,873
+Deferred compensation                    (3,552)       (4,545)
+Retained earnings                       193,045        65,923
+Cumulative translation adjustment         1,537          (147)
+Treasury stock,at cost, 2,607,996 shares  (503)         (503)
+        Total stockholders' equity      419,094       168,266
+
+Total liabilities and 
+stockholders' equity                   $829,646      $338,780
+
+        The accompanying notes are an integral part of the 
+                consolidated financial statements.
+                               27. 
+<PAGE>  
+ITEM 8 continued...                              
+                        EMC CORPORATION
+             CONSOLIDATED STATEMENTS OF OPERATIONS
+        (amounts in thousands except per share amounts)
+                              
+                                       For the years ended
+                                 January 1,  January 2,  December 28,
+                                   1994        1993         1991
+  
+  Revenues:
+    Net sales                     $757,793    $365,298     $245,893
+    Service and rental income       24,828      20,408       14,444
+  
+                                   782,621     385,706      260,337
+  Costs and expenses:
+    Cost of sales and service      380,755     207,279      140,769
+    Research and development        58,977      33,591       22,496
+    Selling, general and 
+     administrative                162,461      96,261       76,694
+  
+                                   602,193     337,131      239,959
+  
+  Operating income                 180,428      48,575       20,378
+  Investment income                  7,988       3,830        2,718
+  Interest expense                  (6,043)     (4,865)      (2,011)
+  Other expense, net                (2,717)     (4,465)      (2,578)
+  
+  Income before income taxes       179,656      43,075       18,507
+  Provision for income taxes        52,534      13,567        7,098
+  
+    Net income                    $127,122    $ 29,508     $ 11,409
+  
+    Net income per weighted average 
+     common share (primary)          $0.65       $0.17        $0.07
+  
+    Net income per weighted average 
+     common share (fully diluted)    $0.60       $0.16        $0.07
+  
+     The accompanying notes are an integral part of the
+             consolidated financial statements.
+                                    28.
+<PAGE>
+ITEM 8 continued...
+            CONSOLIDATED STATEMENTS OF CASH FLOWS
+                       EMC Corporation
+                   (amounts in thousands)
+                                         For the years ended
+                                    January 1,  January 2, December 28,
+                                      1994        1993        1991
+Cash flows from operating activities:
+ Net income                          $127,122    $29,508    $11,409
+ Adjustments to reconcile net 
+  income to net cash provided (used) 
+  by operating activities:
+    Depreciation and amortization      21,741     18,289     10,136
+    Deferred income taxes             (21,172)   (10,492)      (290)
+    (Gain) loss on disposal of 
+     property and equipment             2,324      2,232        (47)
+  Changes in assets and liabilities:
+   Trade and notes receivable         (73,252)   (29,686)   (28,699)
+   Inventories                        (60,937)   (26,312)    (3,645)
+   Other assets                         4,381     (2,997)    (7,076)
+   Accounts payable                    16,500     13,709      1,930
+   Accrued expenses                    28,893     11,588      7,057
+   Income taxes payable                 3,520     10,356      2,721
+   Deferred revenue                    (1,100)     8,936        749
+
+     Total adjustments                (79,102)    (4,377)   (17,164)
+     Net cash provided (used) 
+      by operating activities          48,020     25,131     (5,755)
+
+Cash flows from investing activities:
+ Additions to property and equipment  (51,303)   (30,021)   (20,961)
+ Proceeds from sale of property and 
+  equipment                               574      1,280      2,578
+ Purchase of long-term investments    (29,100)   (12,594)    (3,683)
+
+     Net cash used by investing 
+      activities                      (79,829)   (41,335)   (22,066)
+
+Cash flows from financing activities:
+ Sale of common stock, net of  
+  issuance costs                      112,451      4,765     10,943
+ Disqualifying dispositions of 
+  stock options exercised               8,776          -        289
+ Purchase of treasury stock                 -          -        (17)
+ Issuance of 6 1/4% Convertible 
+  Subordinated Debentures due 2002, 
+  net of issuance costs                     -     58,208          -
+ Issuance of 4 1/4% Convertible
+  Subordinated Notes due 2001, 
+  net of issuance costs               194,987          -          -
+ Payment of long-term and short-term  
+  obligations                          (2,430)    (6,397)    (2,687)
+ Issuance of long-term and short-term
+  obligations                               -      2,004      7,511
+  Net cash provided by financing
+   activities                         313,784     58,580     16,039
+
+Effect of exchange rate changes on cash 1,222     (2,679)       (71)
+Net increase (decrease) in cash and 
+ cash equivalents                     281,975     42,376    (11,782)
+Cash and cash equivalents at 
+ beginning of year                     62,103     22,406     34,259
+Cash and cash equivalents at 
+ end of year                          345,300    $62,103    $22,406
+                              
+     The accompanying notes are an integral part of the
+             consolidated financial statements.
+                            	      29.
+<PAGE>
+ITEM 8 continued...
+<TABLE>
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+EMC Corporation
+(amounts in thousands except share amounts)
+<CAPTION>
+                                          For the three years ended January 1, 1994     	                                    
+                               Common  Stock       Additional Deferred          Cumulative                    Total
+                                           Par     Paid-in    Compen-  Retained Translation Treasury Stock    Stockholders'
+        	   		                Shares       Value	  Capital				sation	  Earnings Adjustment  Shares     Cost   Equity           
+<S>                           <C>          <C>    <C>      <C>         <C>     <C>          <C>        <C>    <C>                
+Balance, December 29, 1990    157,970,008  $1,579 $ 85,417 $   ---     $25,006 $ 2,104      2,599,248  $(486) $113,620
+ Exercise of stock options      2,616,268      26    7,076     ---         ---     ---            ---    ---     7,102     
+ Disqualifying disposition 
+  of stock options exercised          ---     ---      289     ---         ---     ---            ---    ---       289
+ Issuance of common stock re-
+  lating to license agreement   2,250,000      23    3,818     ---         ---     ---            ---    ---     3,841
+ Purchase of stock for treasury       ---     ---      ---     ---         ---     ---          8,748    (17)      (17)
+ Cumulative translation
+  adjustment                          ---     ---      ---     ---         ---  (1,235)           ---    ---    (1,235)
+ Net income                           ---     ---      ---     ---      11,409     ---            ---    ---    11,409
+
+Balance, December 28, 1991    162,836,276   1,628   96,600     ---      36,415     869      2,607,996   (503)  135,009
+ Exercise of stock options      3,668,992      37    4,304     ---         ---     ---            ---    ---     4,341    
+ Issuance of stock options            ---     ---    4,969  (4,969)        ---     ---            ---    ---       ---
+ Amortization of deferred
+  compensation                        ---     ---      ---     424         ---     ---            ---    ---       424    
+ Cumulative translation
+  adjustment                          ---     ---      ---     ---         ---  (1,016)           ---    ---    (1,016)
+ Net income                           ---     ---      ---     ---      29,508     ---            ---    ---    29,508         
+
+Balance January 2, 1993       166,505,268   1,665  105,873  (4,545)     65,923    (147)     2,607,996   (503)  168,266          
+ Exercise of stock options      5,839,240      58   11,424     ---         ---     ---            ---    ---    11,482
+ Disqualifying disposition
+  of stock options exercised          ---     ---    8,776     ---         ---     ---            ---    ---     8,776   
+ Issuance of common stock re-
+  lating to stock offering     17,350,000     174   99,857     ---         ---     ---            ---    ---   100,031
+ Issuance of common stock re-
+  lating to bond conversions      241,612       2      738     ---         ---     ---            ---    ---       740    
+ Amortization of deferred
+  compensation                        ---     ---      ---     993         ---     ---            ---    ---       993 
+ Cumulative translation 
+  adjustment                          ---     ---      ---     ---         ---   1,684            ---    ---     1,684
+ Net Income                           ---     ---      ---     ---     127,122     ---            ---    ---   127,122
+
+Balance January 1, 1994       189,936,120  $1,899 $226,668 $(3,552)   $193,045  $1,537      2,607,996  $(503) $419,094
+</TABLE>
+    The accompanying notes are an integral part of the
+             consolidated financial statements.
+                                    30.
+<PAGE>                              
+ITEM 8 continued...
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+EMC Corporation
+
+A. Summary of Significant Accounting Policies
+
+   Basis of Presentation
+
+   Certain prior year amounts in the financial statements
+    have been reclassified to conform with the 1992
+    presentation.  The Company's fiscal year ends on the
+    Saturday closest to December 31.  Fiscal 1992 was a 53
+    week year and fiscal 1993 and 1991 were 52 week years.
+
+   Principles of Consolidation
+
+   The consolidated financial statements include the
+    accounts of the Company and its subsidiaries.  All
+    significant intercompany transactions and balances have
+    been eliminated.
+
+   In August 1993, EMC exchanged 9,443,996 shares of EMC
+    common stock, $.01 par value (the "Common Stock") for
+    all of the outstanding stock and stock options of Epoch
+    Systems, Inc. ("Epoch") and Magna Computer Corp.
+    ("Magna").  These business combinations were accounted
+    for as poolings of interests.  Accordingly, all
+    financial information has been restated as if the
+    transactions occurred at the beginning of the first
+    period presented.  Epoch designs, manufactures, markets
+    and supports high performance client/server data
+    management software.  Magna manufactures and markets
+    IBM compatible AS/400 tape products.  Magna and Epoch
+    are now wholly owned subsidiaries of EMC.
+
+   The separate company results for 1993 before the
+    combinations were consummated were:
+
+                                    Eight Months Ended 8/30/93
+                                  Revenues       Net Income/(loss)
+
+               EMC               $410,369,000   $61,993,000  
+               Epoch               16,429,000      (447,000)
+               Magna                4,994,000      (472,000)
+                  Total          $431,792,000   $61,074,000
+
+                                    31.   
+<PAGE>
+ITEM 8 continued...
+
+   Revenue Recognition
+
+   The Company generally recognizes revenue from sales when
+    products are shipped.  Revenue from rentals is recorded
+    over the life of the lease.  Revenue from sales-type
+    leases is recognized at the net present value of
+    expected future payments, and the resulting discount is
+    accreted to investment income over the collection
+    period.  Revenue from service contracts is recognized
+    over the life of the contracts.
+
+   Foreign Currency Translation
+
+   The functional currency of operations in Europe is the
+    local currency.  The assets and liabilities of these
+    operations are translated into U.S. dollars at the
+    exchange rates in effect at the balance sheet date and
+    income and expense items are translated at average
+    rates for the period.  The Company's other foreign
+    operations are generally dependent on the U.S. dollar.
+    The assets and liabilities of these operations are
+    translated into U.S. dollars at exchange rates in
+    effect at the balance sheet date except for inventories
+    and property and equipment which are translated at
+    historical exchange rates.  Income and expense items
+    are translated at average rates for the period except
+    for cost of sales and depreciation which are translated
+    at historical exchange rates.
+
+   Consolidated transaction losses included in other
+    expense, net amounted to $1,838,000 in 1993, $1,093,000
+    in 1992, and $1,542,000 in 1991.  Accumulated net
+    translation adjustments of $1,537,000 and $(147,000)
+    are included in stockholders' equity at January 1, 1994
+    and January 2, 1993, respectively.
+
+                                   32.
+<PAGE>
+ITEM 8 continued...
+
+   Cash and Cash Equivalents and Long-Term Investments
+
+   Cash and cash equivalents include $310,723,000 and
+    $31,482,000 of temporary  cash investments at January
+    1, 1994 and January 2, 1993, respectively.  Temporary
+    cash investments consist primarily of money market
+    funds and repurchase agreements stated at cost plus
+    accrued interest which approximates market.  Short term
+    investments which have a maturity of ninety days or
+    less are considered cash equivalents.
+
+   Long-term investments at cost, consisting of
+    intermediate debt instruments, amounted to $50,392,000
+    in 1993 and $21,292,000 in 1992 with fair market values
+    of $50,042,000 and $21,373,000, respectively.  The
+    Company intends to hold these investments to maturity.
+
+   Investment income consists principally of interest and
+    dividend income, including interest on notes receivable
+    from sales-type leases.
+
+   Statement of Cash Flows Supplemental Information
+    
+                                  January 1,   January 2,  December 28,
+                                    1994         1993         1991
+   Cash paid during the years ended
+   For:
+     Income taxes              $59,739,000  $13,474,000   $4,025,000
+     Interest                    6,486,000    3,797,000    3,076,000
+
+   During the year ended January 1, 1994, the Company issued 241,612 
+    shares of Common Stock upon the conversion of $740,000 of Debentures.
+
+   In 1991 the Company purchased from an unrelated corporation a 
+    license for $3,000,000 cash, and 563,000 shares of Common Stock 
+    valued at approximately $3,841,000.  Amortization of the license 
+    cost of approximately $6,841,000 was completed in 1993.
+
+   Inventories
+
+   Inventories are stated at the lower of cost (first in,
+    first out) or market.
+                                   33.
+<PAGE>
+ITEM 8 continued... 
+
+   Property, Plant and Equipment
+
+   Property, plant and equipment are recorded at cost.
+    Depreciation is computed on a straight-line basis over
+    the estimated useful lives of the assets, as follows:
+
+              Furniture and fixtures  7 years
+              Equipment               3-7 years
+              Vehicles                5 years
+              Improvements            5 years
+              Buildings               25-31 1/2 years
+
+   Customer service spare parts inventory is included in
+    equipment and depreciated over three years for assets
+    placed in service in 1992, and four years for assets
+    placed in service prior to 1992.
+
+   When assets are retired or disposed of, the cost and
+    accumulated depreciation thereon are removed from the
+    accounts and the related gains or losses are included
+    in operations.
+
+   Warranty and Research and Development
+
+   The Company accounts for warranty expense on an accrual
+    basis.  Research and development costs are expensed as
+    incurred.
+
+   Income Taxes
+
+   In 1992, the Company adopted Statement of Financial
+    Accounting Standards No. 109, "Accounting for Income
+    Taxes", which requires recognition of deferred tax
+    liabilities and assets for the expected future tax
+    consequences of events that have been included in the
+    financial statements or tax returns.  Under this
+    method, deferred tax liabilities and assets are
+    determined based on the difference between the
+    financial statement and tax bases of assets and
+    liabilities using enacted tax rates in effect for the
+    year in which the differences are expected to reverse
+    (see Note B).
+
+   Prior to 1992, the provision for income taxes was based
+    on income and expenses included in the accompanying
+    consolidated statements of operations.  Differences
+    between taxes so computed and taxes payable under then
+    applicable statutes and regulations were classified as
+    deferred taxes arising from timing differences.
+                                   34.
+<PAGE>
+ITEM 8 continued. . . .
+
+   Tax credits are generally recognized as reductions of
+    income tax provisions in the year in which the credits
+    arise.  Since 1989, the Company has not provided for
+    the U.S. income tax liability on earnings of its
+    foreign subsidiaries as these earnings are considered
+    to be permanently reinvested.  At January 1, 1994,
+    undistributed earnings of foreign subsidiaries
+    approximated $71,606,000.   Taxes for the Company's
+    foreign subsidiaries are provided for at applicable
+    statutory rates.  The Company is currently undergoing
+    an examination of its 1990 and 1991 tax returns by the
+    Internal Revenue Service.
+
+   Net Income Per Share
+
+   Net income per share was computed on the basis of
+    weighted average common and dilutive common equivalent
+    shares outstanding.  Primary and fully diluted weighted
+    average shares outstanding and earnings for 1993
+    reflect the dilutive effects of the Notes.  Fully
+    diluted weighted average shares outstanding and
+    earnings for 1993 and 1992 reflect the dilutive effects
+    of the Debentures.  Net income for computation of fully
+    diluted earnings per share includes an add back of
+    $2,496,000 and $1,768,000 in 1993 and 1992,
+    respectively, representing interest expense, net of its
+    tax effect.  Primary weighted average shares for net
+    income per share computations amounted to 196,486,160,
+    171,951,696 and 164,414,816 in 1993, 1992 and 1991,
+    respectively.  Fully diluted weighted average shares
+    were 217,224,726, 190,547,980 and 166,220,132 in 1993,
+    1992 and 1991, respectively.  These calculations of
+    weighted average shares have been restated to reflect
+    all stock splits to date (see Note I).
+
+B. Income Taxes
+
+   Provision for income taxes consists of:
+                                  1993       1992       1991
+   Federal and State
+     Current                $69,176,000  $16,791,000  $7,176,000
+     Deferred               (21,830,000)  (5,863,000)   (407,000)
+                             47,346,000   10,928,000   6,769,000
+   Foreign
+     Current                  4,530,000    3,155,000     212,000
+     Deferred                   658,000     (516,000)    117,000
+                              5,188,000    2,639,000     329,000
+   Total provision for 
+   Income taxes             $52,534,000  $13,567,000  $7,098,000
+
+                                   35.
+<PAGE>
+ITEM 8 continued...
+  
+   Income (loss) before income taxes for foreign operations
+    amounted to approximately $49,392,000 in 1993, 
+    $12,353,000 in 1992 and ($5,909,000) in 1991.  
+    The components of the deferred tax provision are:
+
+                                      1993         1992        1991
+
+   Unrepatriated earnings        $ (5,772,000)   $ 926,000  $  697,000
+   Sales-type leases                 (434,000)    (129,000) (1,192,000)
+   Intercompany profit elimination  2,457,000   (1,831,000)    225,000
+   Accounts receivable related 
+    items                          (7,972,000)    (389,000)   (142,000)
+   Inventory related items         (5,973,000)  (1,369,000)     93,000
+   Depreciation                      (377,000)    (931,000)   (162,000)
+   Deferred revenue                  (374,000)  (2,317,000)        ---
+   Warranty reserve                (1,378,000)    (262,000)   (191,000)
+   Health Insurance reserve          (868,000)    (145,000)        ---
+   Other                             (481,000)      68,000     382,000
+                                 $(21,172,000) $(6,379,000) $ (290,000)
+
+   A reconciliation of the Company's income tax provision
+    to the statutory federal tax rate is as follows:
+
+                                              1993       1992      1991
+
+   Statutory federal tax rate                 35.0%      34.0%     34.0%
+   State taxes, net of federal tax benefits    3.1        3.9       3.8
+   Puerto Rico tax benefits                    (.9)      (2.2)     (6.3)
+   Ireland tax benefits                       (6.4)       (.6)     (3.4)
+   Net operating losses not benefited           .6        2.0      14.5
+   Tax credits                                (1.3)       (.6)     (3.2)
+   Utilization of foreign net operating 
+     loss carryforwards                        (.7)      (5.4)      ---
+   Other                                       (.2)        .4      (1.0)
+                                              29.2%      31.5%     38.4%
+
+   The Company's Puerto Rico operation enjoys a ten year exemption, 
+    expiring in 1995, on up to 90% of EMC Caribe's income as 
+    determined under Federal tax laws. EMC Caribe ceased manufacturing 
+    operations in February, 1994.  The Company's manufacturing facility 
+    in Ireland enjoys a 10% tax rate on income from manufacturing
+    operations until the year 2000.  The impact of these benefits on the 
+    Company's earnings per share was $0.06 for the year ended January 1,
+    1994, $.01 for the year ended January 2, 1993 and $0.01 for the year 
+    ended December 28, 1991.
+
+                                    36.
+<PAGE>
+ITEM 8 continued...
+   
+   The Company's adoption of FAS 109 in 1992 did not have a material 
+    effect on earnings.  The Company increased its domestic deferred 
+    tax asset in 1993 as a result of U.S. legislation enacted during 
+    1993 increasing the federal corporate tax rate from 34% to 35%.  
+    The components of the current and non-current deferred tax assets 
+    and liabilities as of January 1, 1994 and January 2, 1993
+    were as follows:
+
+      Current Deferred Tax Assets           1993            1992
+
+
+       Sales Reserve                     $ 9,644,000    $ 2,259,000
+       Warranty Reserve                    2,527,000      1,149,000
+       Inventory Reserve                   8,625,000      1,909,000
+       Deferred Intercompany Profit          671,000      3,128,000
+       Other Reserves                      2,805,000      1,200,000
+       Other Assets                        1,722,000        943,000
+       Puerto Rico Tollgate Tax             (854,000)           ---
+       Domestic NOL Carryforward           4,928,000            ---
+       Foreign NOL Carryforward            4,355,000      8,227,000
+       Research and Development Credit 
+         Carryforward                      1,151,000            ---
+       Valuation Reserve                 (11,375,000)    (8,227,000)
+       Total Current Deferred Tax Assets $24,199,000    $10,588,000
+
+       Non-Current Deferred Tax Assets/(Liabilities)
+
+       Deferred Revenue                    1,787,000     2,317,000
+       Other Reserves                        524,000       150,000
+       Other Liabilities                     450,000      (241,000)
+       Puerto Rico Tollgate Tax                  ---    (6,626,000)
+       Property Plant & Equipment                ---      (400,000)
+       Total Non-Current Deferred Tax 
+         Assets/(Liabilities)             $2,761,000   $(4,800,000)
+
+                                    37.
+<PAGE>
+ITEM 8 continued...
+
+The Company's valuation reserve has increased as a result of
+the inclusion of the current deferred tax assets of Epoch
+and Magna which were acquired during 1993.
+
+The Company has net operating loss carryforwards as of
+January 1, 1994 which are summarized as follows:
+
+                                           Carryforward period/
+                        Approximate value  Years during which losses
+         Country        in U.S. dollars    will expire
+
+         Belgium        $ 1,018,000        Indefinite
+         France           1,012,000        5 years/1996
+         Italy            2,775,000        5 years/1995 - 1997
+         United Kingdom   6,122,000        Indefinite
+         United States   12,438,000        15 Years/2001- 2008
+
+The U.S. losses relate to pre-acquisition losses of Epoch and Magna.
+
+                                   38.
+<PAGE>
+ITEM 8 continued...
+
+C. Inventories
+
+   Inventories consist of:
+                                January 1,     January 2,
+                                  1994           1993
+
+   Purchased parts            $17,319,000    $ 7,711,000
+   Work-in-process             46,348,000     22,726,000
+   Finished goods              54,596,000     26,731,000
+                             $118,263,000    $57,168,000
+
+D. Notes Receivable
+
+   Notes receivable primarily from sales-type leases of
+    equipment, are stated net of discounts amounting to
+    approximately $4,753,000 and $2,484,000 and net of
+    allowance for doubtful accounts of $491,000 and $249,000 
+    at January 1, 1994 and January 2, 1993, respectively.  
+    Implicit interest rates range from 8% to 15%.
+
+   The payment schedule for such notes at January 1, 1994
+    is as follows:
+
+      Fiscal year               Notes Receivable
+ 
+      1994                        $15,278,000
+      1995                         10,625,000
+      1996                          8,715,000
+      1997                          3,681,000
+      1998                          1,388,000
+      Thereafter                          ---
+      Face value                   39,687,000
+      Less amounts representing
+         interest                   4,753,000
+      Present value                34,934,000
+      Less allowance for doubtful
+         accounts                     491,000
+                                   34,443,000
+      Less current portion         12,635,000
+      Long-term portion           $21,808,000
+
+                                   39.
+<PAGE>
+ITEM 8 continued...
+
+E. Property, Plant and Equipment
+   Property, plant and equipment consist of:
+                                  January 1,    January 2,
+                                    1994          1993
+
+   Furniture and fixtures      $  4,278,000   $ 4,910,000
+   Equipment                    102,670,000    70,909,000
+   Vehicles                         923,000     1,661,000
+   Buildings and improvements    29,864,000    27,567,000
+   Land                           1,870,000     1,870,000
+   Construction in progress       4,891,000       761,000
+                                144,496,000   107,678,000
+   Accumulated depreciation
+     and amortization           (48,016,000)  (38,639,000)
+                                $96,480,000   $69,039,000
+
+F. Accrued Expenses
+   Accrued expenses consist of:
+                                 January 1,    January 2,
+                                   1994          1993
+
+   Salaries and benefits       $23,350,000   $11,555,000
+   Warranty                     16,112,000     3,693,000
+   Other                        20,293,000    15,428,000
+                               $59,755,000   $30,676,000
+
+
+G. Employee Compensation Plans
+
+   In 1983, the Company initiated a profit-sharing plan
+    (the "1983 Plan") for employees, whose eligibility to
+    participate is based on certain service requirements.
+    Contributions are made at the discretion of the Board
+    of Directors.
+
+                                   40.
+<PAGE>
+ITEM 8 continued...
+
+   No profit-sharing contributions were made in 1993 or
+    1991.  During December 1992 the Company made a profit-
+    sharing contribution to active employees who were
+    employed by the Company on or before January 1, 1992,
+    whose compensation was less than $60,000 for 1992 and
+    who did not participate in any bonus or incentive
+    program.  The amount of the contribution was $248,000.
+
+   In July 1985, the Company supplemented the 1983 Plan
+    with a deferred compensation program for certain
+    employees.  Under the program, which is qualified under
+    Section 401(k) of federal tax laws, the Company has
+    provided a matching contribution, as described below.
+
+   Effective January 1, 1993, the Company introduced a new
+    matching formula for the 1983 Plan.  The Company
+    intends, at the end of each calendar quarter, to make a
+    contribution that matches 100% of the employee's
+    contribution up to a maximum of 2% of the employee's
+    quarterly compensation.  Additionally, provided that
+    certain quarterly profit goals are attained, the
+    Company in succeeding quarters, will provide an
+    additional matching contribution of 1% of the
+    employee's quarterly compensation up to a maximum
+    quarterly matching contribution not to exceed 5% of
+    compensation.  However, the Company's matching
+    contribution per participant has a quarterly limit of
+    $500.  The Company's contribution amounted to
+    approximately $1,463,000 in 1993.
+
+   During 1992 and 1991, the Company made a contribution at
+    the end of each calendar quarter that matched 100% of
+    the employee's contribution up to a maximum of 2% of
+    the employee's quarterly compensation.  Additionally,
+    provided that certain quarterly profit goals were
+    attained, the Company, in succeeding quarters, provided
+    an additional matching contribution of 1/2% of the
+    employee's quarterly compensation up to a maximum
+    quarterly matching contribution not to exceed 3 1/2% of
+    compensation.  The Company's matching contribution per
+    participant had a quarterly limit of $500.  The
+    Company's contribution amounted to approximately
+    $889,000 in 1992 and $600,000 in 1991.
+
+   In 1988, Epoch and in 1991, Magna, which are both wholly-
+    owned subsidiaries of the Company, instituted Retirement 
+    Savings Plans under Section 401(k) of the Internal Revenue 
+    Code.  Eligible employees may elect to contribute to their 
+    respective plans a percentage of their compensation up to the 
+    maximum amount allowable by the Internal Revenue Code.
+
+   The Company does not offer a postretirement or
+    postemployment benefit plan.
+
+                                   41.
+<PAGE>
+ITEM 8 continued...
+   
+H. Lease Commitments and Long-Term Obligations
+
+   Lease Commitments
+
+   The Company had $4,153,000 and $4,629,000 of equipment
+    leased under capital leases with accumulated
+    amortization of $1,975,000 and $1,428,000 at January 1,
+    1994 and January 2, 1993, respectively.
+
+   The Company leases office and warehouse facilities under
+    various operating leases.  Facilities rent expense
+    amounted to $6,050,000, $4,404,000, $3,852,000 in 1993,
+    1992 and 1991, respectively.  The Company's commitments
+    under its capital and operating leases are as follows:
+
+                                  Capital         Operating
+   Fiscal Year                    Leases          Leases
+
+     1994                        $1,043,000       $7,409,000
+     1995                           628,000        5,546,000
+     1996                            92,000        3,603,000
+     1997                            30,000        1,717,000
+     1998                               ---          916,000
+     Thereafter                         ---          921,000
+   Total minimum lease payments   1,793,000      $20,112,000
+   Less amounts representing 
+    interest                        126,000     
+   Present value of net minimum
+     lease payments               1,667,000
+   Less current portion             911,000
+   Long-term portion             $  756,000
+
+   Long-Term Obligations
+
+   Convertible Subordinated Notes
+
+   In December 1993, the Company issued $200,000,000 of
+    4 1/4% convertible subordinated notes due 2001 (the
+    "Notes"). The Notes are generally convertible into
+    shares of Common Stock of the Company at a conversion
+    price of $19.84 per share, subject to adjustment in
+    certain events. Interest is payable semiannually and
+    the Notes are redeemable at the option of the Company
+    at set redemption prices, plus accrued interest,
+    commencing January 1, 1997.  Redemption prices range
+    from 100.61% to 102.43% of principal.  In January 1994,
+    the Company issued approximately an additional
+    $30,000,000 in Notes in accordance with overallotment
+    provisions of the offering.
+
+                                   42.
+<PAGE>
+ITEM 8 continued...
+
+   Convertible Subordinated Debentures
+
+   In March 1992, the Company issued $60,000,000 of 6 1/4%
+    convertible subordinated debentures due 2002 (the
+    "Debentures"), of which $740,000 has been converted as
+    of January 1, 1994.  The Debentures are generally
+    convertible at any time prior to maturity into shares
+    of common stock of the Company at a conversion price of
+    $3.063 per share, subject to adjustment in certain
+    events.  Interest is payable semiannually and the
+    Debentures are redeemable at the option of the Company
+    at set redemption prices from April 1, 1995, which
+    range from 100.63% to 104.38% of principal.
+
+   In 1989, the Company obtained a $14,000,000 long-term
+    mortgage with an unrelated party at an interest rate of
+    10.5%.  Borrowings under this mortgage are
+    collateralized by the Company's facility at 171 South
+    Street, Hopkinton, Massachusetts.  The mortgage is
+    payable in monthly installments, calculated on a 30
+    year amortization schedule, with a lump sum payment of
+    approximately $12,835,000 due on April 1, 1999.
+
+   Payments remaining on notes are as follows:
+
+   Fiscal Year                     Amount Payable
+
+     1994                           $1,537,000
+     1995                            1,537,000
+     1996                            1,537,000
+     1997                            1,537,000
+     1998                            1,537,000
+     Thereafter                     13,296,000
+     Total minimum payments         20,981,000
+     Less amounts representing 
+      interest                       7,188,000
+     Present value of net payments  13,793,000
+     Less current portion              320,000
+     Long-term portion             $13,473,000
+
+   The Company has one line of credit, which provides a
+    maximum of $15,000,000, at the bank's prime rate.  At
+    January 1, 1994 and January 2, 1993, there were no borrowings
+    outstanding against the line.  The Company must maintain 
+    certain minimum financial ratios including a minimum level 
+    of working capital and tangible net worth.
+
+   Another line provided a maximum of $1,000,000, payable on 
+    demand, and collateralized by Company assets, which was 
+    discontinued during 1993.  At January 2, 1993, $645,000 was
+    outstanding against this line with interest accruing at 8.5%.
+
+                                   43.
+<PAGE>
+ITEM 8 continued...
+
+   In January 1989, EMC purchased its premises in Ireland from
+    the Industrial Development Authority (IDA).  The purchase
+    price of $1,180,000 was partially financed by an IDA grant 
+    of $531,000.  EMC Ireland paid a deposit of $65,000 and signed 
+    a $584,000 note, payable over 5 years in semi-annual installments.
+    This debt was fully paid at January 1, 1994. In addition to 
+    the $531,000 discussed above, the IDA granted the Company an
+    additional $259,000 for improvements to the premises. The
+    total grants of $790,000 are included in long-term obligations 
+    and are amortized over a period of 25 years. The total 
+    remaining unamortized grants at January 1, 1994 are $571,000,
+    of which $31,000 is current and $540,000 is long-term.
+
+I. Common Stock, Preferred Stock and Stock Options
+
+    Common Stock
+    
+     At the Stockholder meetings of the Company in 1993 and
+     1992, the stockholders approved amendments to the
+     Company's Articles of Organization to increase the
+     number of shares of authorized Common Stock, to
+     330,000,000 shares.
+    
+     The following stock splits were effected in the form of
+     stock dividends in the following amounts and at the
+     following dates:  a three-for-two stock split effective
+     November 24, 1992, for stockholders of record on
+     November 9, 1992, a two-for-one stock split effective
+     June 8, 1993, for stockholders of record on May 24,
+     1993, and a two-for-one stock split effective December
+     10, 1993, for stockholders of record on November 26,
+     1993.
+     
+     All share and per share data have been restated to
+     reflect these splits.
+    
+     Preferred Stock
+     
+     At the Special Meeting of Stockholders of the Company
+     on November 17, 1993, the stockholders approved an
+     amendment to the Company's Articles of Organization to
+     authorize a new class of capital stock consisting of
+     25,000,000 shares of Series Preferred Stock, $.01 par
+     value, which may be issued from time to time in one or
+     more series, with such terms as the Board of Directors
+     may determine, without further action by the
+     stockholders of the Company, except as may be required
+     by applicable law or stock exchange rules.
+     
+     Stock Options
+
+     The Board of Directors and stockholders adopted the EMC
+     Corporation 1993 Stock Option Plan (the "1993 Plan") to
+     provide qualified incentive stock options and
+     nonqualified stock options to key employees.  A total
+     of 6,000,000 shares of Common Stock have been reserved
+     for issuance under this Plan.
+
+                                   44.
+<PAGE>
+ITEM 8 continued...
+        
+     Under the terms of the 1993 Plan the exercise price of
+     incentive stock options issued must be equal to at
+     least the fair market value of the Common Stock at the
+     date of grant.  In the event that nonqualified stock
+     options are granted, the exercise price may be less
+     than the fair market value at the time of grant but not
+     less than par value which is $.01 per share.  In
+     general, options become exercisable in equal annual
+     installments over the first five years after the date
+     of grant.  As of January 1, 1994 there were no options
+     exercisable.  During 1993, 852,000 options were granted
+     at an exercise price of $17.625, and  no options were
+     canceled or exercised under the 1993 Plan.  Shares
+     available for future options as of January 1, 1994
+     amounted to 5,148,000.
+     
+     The Board of Directors and stockholders adopted the
+     1985 Stock Option Plan (the "1985 Plan") to provide
+     qualified incentive stock options and nonqualified
+     stock options to key employees.  At the Annual Meeting
+     of the Company on May 13, 1992, the stockholders
+     approved an amendment to the 1985 Plan to increase the
+     number of shares available for grant to 36,000,000 from
+     27,000,000.
+     
+     Under the terms of the 1985 Plan the exercise price of
+     incentive stock options issued must be equal to at
+     least the fair market value of the Common Stock at the
+     date of grant.  In the event that nonqualified stock
+     options are granted, the exercise price may be less
+     than the fair market value at the time of grant but no
+     less than par value which is $.01 per share.  In
+     general, options become exercisable in equal annual
+     installments over the first five years after the date
+     of grant.  As of January 1, 1994 and January 2, 1993,
+     options exercisable approximated 3,648,000 and
+     4,436,000, respectively. There were no shares available
+     for future options as of January 1, 1994.  Activity
+     under the 1985 Plan for the three years ended January
+     1, 1994 is as follows:
+
+                                   45.
+<PAGE>
+ITEM 8 continued
+                              Number of          Exercise
+                                Shares             Price
+
+   Balance at 12/29/90        13,905,312     $.06 - 2.17
+   Granted in 1991             5,748,752      .06 - 1.98
+   Canceled in 1991           (2,387,880)     .58 - 1.98
+   Exercised in 1991          (2,033,672)     .06 - 1.56
+   Balance at 12/28/91        15,232,512      .06 - 2.17
+   Granted in 1992             8,595,600     1.42 - 3.71
+   Canceled in 1992             (948,900)     .58 - 3.71
+   Exercised in 1992          (2,838,072)     .58 - 1.98
+   Balance at 1/2/93          20,041,140      .06 - 3.71
+   Granted in 1993             3,537,200      6.47-17.63
+   Canceled in 1993             (331,000)     .58 -12.44
+   Exercised in 1993          (5,448,069)     .06 - 3.71
+   Balance at 1/1/94          17,799,271     $.06 -17.63
+     
+   On July 17, 1992, certain executive officers of the
+   Company were granted non-qualified options to purchase
+   an aggregate of 3,900,000 shares of common stock under
+   the Company's 1985 Stock Option Plan at per share prices
+   ranging from $1.43 to $2.43.  These prices represent 50%
+   to 85% of the per share fair market value at the date of
+   grant.  The discount from fair market value has been
+   recorded as deferred compensation and is being charged
+   to earnings over the five year vesting period of the
+   options.
+   
+   Generally, when shares acquired pursuant to the exercise
+   of incentive stock options are sold within one year of
+   exercise or within two years from the date of grant, the
+   Company derives a tax deduction measured by the amount
+   that the market value exceeds the option price at the
+   date the options are exercised.
+   
+   On January 31, 1989, the Board of Directors adopted the 1989
+    Employee Stock Purchase Plan (the "1989 Plan") which was
+    approved and adopted by the shareholders of the Company on
+    May 10, 1989.  Under the 1989 Plan, eligible employees of the
+    Company are given the option to purchase shares of common
+    stock at 85% of fair market value by means of payroll
+    deductions.  At the Annual Meeting of the Company on May 12,
+    1993 the stockholders approved an amendment to the 1989 Plan
+    to increase the number of shares available from 2,700,000 to
+    3,900,000.  Options are granted twice yearly, on January 1
+    and July 1, and are exercisable on the succeeding June 30 or
+    December 31.  The purchase price for shares is the lower of
+    85% of the fair market value of the stock at the time of
+    grant or 85% of said value at the time of exercise.  In 1993,
+    190,492 shares were exercised at $5.05 per share and 152,679
+    shares were exercised at $9.19 per share.  In 1992, 292,088
+    shares were exercised at $1.47 per share, 290,436 shares were
+    exercised at $1.79 per share and 248,396 shares were
+    exercised at $2.55 per share.  In 1991, 235,164 shares were
+    exercised at $.80 per share and 347,436 shares were exercised
+    at $1.13 per share.
+                                   46.
+<PAGE>
+ITEM 8 continued...
+
+   At the Annual Meeting of the Company on May 12, 1992, the
+    stockholders adopted the 1992 EMC Corporation Stock Option
+    Plan for Directors (the "Directors Plan").
+
+   A total of 1,800,000 shares of Common Stock have been
+    reserved for issuance under the Directors Plan which is
+    administered by the Executive Stock Option and Compensation
+    Committee (the "Committee") of the Board of Directors.  The
+    exercise price for each option granted under the Directors
+    Plan will be at a price per share determined by the Committee
+    at the time the option is granted, which price shall not be
+    less than 50% of the fair market value per share of Common
+    Stock on the date of grant.  Options will be exercisable in
+    increments of 20% for the shares covered thereby on each of
+    the first through fifth anniversaries of the grant.
+
+   On May 12, 1993, a director was granted options to purchase
+    160,000 shares of Common Stock at a per share price of $8.25,
+    which represents 100% of the per share fair market value at
+    the date of grant.  On May 12, 1992, a director was granted
+    options to purchase 240,000 shares of Common Stock at a per
+    share price of $1.26, which represents 50% of the per share
+    fair market value at the date of grant.  The discount from
+    fair market value has been recorded as deferred compensation
+    and is being amortized to earnings over the five year vesting
+    period of the options.  In 1993, options to purchase 48,000
+    shares were exercised at $1.26 per share.  All stock option
+    plans and the employee stock purchase plan are administered
+    by the Compensation Committee.
+
+J. Litigation
+
+   On June 10, 1993, Storage Technology Corporation,
+   ("STK") filed suit against EMC in the United States
+   District Court for the District of Colorado alleging
+   that EMC is infringing three patents.  In the complaint,
+   STK seeks injunctive relief, unspecified damages,
+   including treble damages plus attorney's fees and costs.
+   On July 20, 1993, EMC answered the complaint and denied
+   STK's allegations.  In addition, EMC counterclaimed
+   against STK alleging that the patents in suit are
+   invalid and unenforceable.  In the counterclaim, EMC
+   seeks unspecified damages, attorney's fees, costs and
+   interest.  Discovery in the matter is currently in
+   process.  A scheduling order has been entered and a
+   trial date has been set for October 1994.
+
+   The Company is a party to other litigation which it considers
+    routine and incidental to its business.  Management does not
+    expect the results of any of these actions to have a material
+    adverse effect on the Company's business or financial condition.
+
+                                   47.
+<PAGE>
+ITEM 8 continued...
+
+K. Off-Balance-Sheet Risk and Concentrations of Credit Risk
+
+   Off-Balance-Sheet Risk
+
+    The Company enters into forward exchange contracts to
+    hedge foreign currency transactions on a continuing
+    basis for periods consistent with its committed
+    exposures.  The Company does not engage in currency
+    speculation.  The Company's foreign exchange contracts
+    do not subject the Company to risk due to exchange rate
+    movements because gains and losses on these contracts
+    offset losses and gains on the assets, liabilities and
+    transactions being hedged.  The maximum amount of
+    foreign currency contracts outstanding during 1993 and
+    1992 was $53,390,000 and $31,072,000, respectively.  At
+    January 1, 1994 and January 2, 1993, the Company had
+    $50,354,000 and $19,243,000 of foreign exchange
+    contracts outstanding, respectively.
+
+   Concentrations of Credit Risk
+
+   Financial instruments which potentially subject the
+    Company to concentrations of credit risk consist
+    principally of temporary cash investments, long-term
+    investments and trade and notes receivables.  The
+    Company places its temporary cash investments and long-
+    term investments with high credit quality financial
+    institutions and limits the amount of investment with
+    any one financial institution.
+
+   The credit risk associated with trade receivables is
+    minimal due to the large number of customers and their
+    broad dispersion over many different industries and
+    geographic areas.  During 1993, no single customer
+    accounted for greater than 10% of the Company's
+    revenues.  During 1992, one customer accounted for 13%
+    of the Company's revenues.
+
+L. Segment Information
+
+   The Company is active in only one business segment:
+    designing, manufacturing and marketing high performance
+    storage products.  Information by geographic area is
+    presented below with revenue derived from exports shown
+    in their area of origin.  Sales and marketing
+    operations outside the United States are primarily
+    conducted through sales subsidiaries and branches
+    located principally in Europe and by direct sales from
+    the parent corporation or its Irish manufacturing
+    subsidiary.  The United States market amounted to
+    greater than 95% of the Company's sales, income and
+    identifiable assets in the North/South America segment.
+
+                                   48.
+<PAGE>
+ITEM 8 continued...
+
+   Intercompany transfers between geographic areas are accounted 
+    for at prices which are designed to be representative of 
+    unaffiliated party transactions.  
+    (in thousands) 
+                        Europe,
+             North/     Middle-                          Consol-
+             South      East,       Asia      Elimi-     idated
+             America    Africa      Pacific   nations    Total
+1993
+Sales        $526,771   $251,363    $4,487    $   ---    $782,621
+Transfers 
+ between
+ areas        100,237     83,726       ---    (183,963)       ---
+Total sales   627,008    335,089     4,487    (183,963)   782,621
+Income 
+ (loss) from
+ operations   107,512     70,324      (990)      3,582    180,428
+Identifiable 
+ assets at
+ year end     684,576    192,682     2,383     (49,995)   829,646
+
+1992
+Sales        $263,465   $111,117   $11,124     $   ---   $385,706
+Transfers 
+ between
+ areas         83,813     36,303       ---     (120,116)      ---
+Total sales   347,278    147,420    11,124     (120,116)  385,706
+Income from
+ operations    34,915     25,008     1,255      (12,603)   48,575
+Identifiable 
+ assets at
+ year end     252,308     98,232     4,309      (16,069)  338,780
+
+1991
+Sales        $200,008    $51,411    $8,918      $   ---  $260,337
+Transfers 
+ between
+ areas         35,946     15,036       ---      (50,982)      ---
+Total sales   235,954     66,447     8,918      (50,982)  260,337
+Income 
+ (loss) from 
+ operations    22,798     (6,406)     (531)       4,517    20,378
+Identifiable
+ assets at
+ year end     164,096     41,608     4,166       (4,367)  205,503
+
+                                   49.
+<PAGE>
+ITEM 8 continued...
+
+M. Selected Quarterly Financial Data (unaudited)
+   (amounts in thousands except share amounts)
+
+   Fiscal Year 1993     Q1 1993   Q2 1993   Q3 1993    Q4 1993
+
+   Net Sales           $138,773  $179,542  $215,747   $248,559
+   Gross Profit          66,480    88,996   113,723    132,667
+   Net Income            14,913    26,888    38,487     46,834
+   Net income per share,
+     (fully diluted)      $0.08     $0.13     $0.18      $0.21
+
+
+   Fiscal Year 1992     Q1 1992   Q2 1992   Q3 1992    Q4 1992
+
+   Net Sales            $74,556   $90,208  $103,105   $117,837
+   Gross Profit          34,741    40,432    47,251     56,003
+   Net Income             5,277     6,443     7,351     10,437
+   Net income per share,
+     (fully diluted)      $0.03     $0.04     $0.04      $0.06
+
+   Earnings per share data has been adjusted to reflect all
+    prior stock splits and pooling of interests.
+
+N. Subsequent Events
+
+   In January 1994, the Company acquired the majority
+   interest in Copernique S.A. ("Copernique") formerly held
+   by Cap Gemini Sogeti S.A.  Copernique, located near
+   Paris, France, specializes in high-performance data
+   management hardware and software systems.  The Company
+   believes that this acquisition will enable the Company
+   to extend its offerings in the field of distributed
+   Information Technology systems and to strengthen its
+   European presence.
+   
+   In January 1994, the Company jointly formed a company in
+   Japan with its existing Japanese distributor, in which
+   the Company holds a majority interest.  Through this
+   entity, the Company will acquire a direct salesforce in
+   Japan, which it then plans to further expand.
+
+                                    50.
+<PAGE>
+
+ITEM 9.  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL
+DISCLOSURES
+
+     None.
+
+
+
+
+
+
+                                   51.
+<PAGE>
+                          PART III
+
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     The Company will furnish to the Securities and Exchange
+Commission a definitive Proxy Statement (the "Proxy
+Statement") not later than 120 days after the close of the
+fiscal year ended January 1, 1994.  The information required
+by this item is incorporated herein by reference to the
+Proxy Statement.  Also see "Executive Officers of the
+Registrant" in Part I of this form.
+
+ITEM 11.  EXECUTIVE COMPENSATION
+
+     The information required by this item is incorporated
+herein by reference to the Proxy Statement.
+
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS
+AND MANAGEMENT
+
+     The information required by this item is incorporated
+herein by reference to the Proxy Statement.
+
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     The information required by this item is incorporated
+herein by reference to the Proxy Statement.
+
+                                   52.
+<PAGE>
+                           PART IV
+
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND
+REPORTS ON FORM 8-K
+
+(a)
+1.   Financial Statements
+
+     The financial statements listed in the accompanying
+     Index to Consolidated Financial Statements and Schedules
+     on page 58 are filed as part of this report.
+
+2.   Schedules
+
+     The schedules listed in the accompanying Index to
+     Consolidated Financial Statements and Schedules on page 
+     59 are filed as part of this report.
+
+3.   Exhibits
+
+     See Index to Exhibits pages 60 through 62 of this
+     report.
+
+     The exhibits are filed with or incorporated by
+     reference in this report.
+
+(b)  On November 19, 1993, the registrant filed a report
+(Date of Report: November 19, 1993) on Form 8-K reporting,
+under Item 5, the increase in authorized common stock,
+authorization of a new class of preferred stock, the intent
+to proceed with the previously announced stock split and the
+intention to file a registration statement for an offering
+of convertible subordinated notes.  In this report, the
+registrant also filed the following consolidated financial
+statements giving effect to the acquisition of Magna
+Computer Corporation and Epoch Systems, Inc. accounted for
+as poolings of interests:
+
+  i.  Consolidated Balance Sheets as of January 2, 1993 and
+      December 28, 1991;
+  
+  ii. Consolidated Statements of Income for the Three
+      Years in the period ended January 2, 1993;
+  
+  iii.Consolidated Statements of Stockholders' Equity for
+      the Three Years in the period ended January 2, 1993;
+  
+  iv. Consolidated Statements of Cash Flows for the Three
+      Years in the period ended January 2, 1993;
+
+  v.  Notes to Consolidated Financial Statements; and
+  
+  vi. Report of Independent Accountants.
+
+                                   53.
+<PAGE>
+
+On December 29, 1993, the registrant filed a report (Date of
+Report: December 29, 1993) on Form 8-K filing, under Item 7,
+the following Exhibits related to the offering in December
+1993 of the 4 1/4% Convertible Subordinated Notes due 2001:
+
+     i.  Underwriting Agreement dated December 10, 1993 by
+         and between EMC Corporation, Smith Barney Shearson Inc., 
+         Alex Brown & Sons Incorporated and Merrill Lynch, 
+         Pierce, Fenner & Smith Incorporated.
+
+     ii. Indenture dated as of December 17, 1993 between
+         EMC Corporation and State Street Bank and Trust 
+         Company, as Trustee.
+
+
+
+                                   54.
+<PAGE>         
+                          SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of
+ the Securities Exchange Act of 1934, EMC Corporation has
+ duly caused this report to be signed on its behalf by the
+ undersigned, thereunto duly authorized on March 23, 1994.
+
+
+
+
+                              EMC CORPORATION
+
+                              By:  Richard J. Egan
+                                   Richard J. Egan
+                                   Chairman of the Board
+
+
+
+
+                                   55.
+<PAGE>
+     Pursuant to the requirements of the Securities Exchange
+ Act of 1934, this report has been signed below by the
+ following persons on behalf of the registrant and in the
+ capacities on the date indicated as of March 23, 1994.
+
+Signature                          Title
+
+Richard J. Egan                    Chairman of the Board
+Richard J. Egan                    (Principal Executive Officer)
+                                   and Director
+
+Michael C. Ruettgers               President and Chief Executive
+Michael C. Ruettgers               Officer and Director
+
+W. Paul Fitzgerald                 Senior Vice President,
+W. Paul Fitzgerald                 Finance and Administration, 
+                                   Chief Financial Officer
+                                   (Principal Financial Officer),
+                                   Treasurer and Director
+
+John R. Egan                       Executive Vice President
+John R. Egan                       Sales and Marketing and Director
+
+Colin G. Patteson                  Vice President and Controller 
+Colin G. Patteson                  (Principal Accounting Officer)
+
+Michael J. Cronin                  Director
+Michael J. Cronin
+
+John F. Cunningham                 Director
+John F. Cunningham
+
+Maureen E. Egan                    Director
+Maureen E. Egan
+
+Joseph F. Oliveri                  Director
+Joseph F. Oliveri
+                                   56. 
+<PAGE>
+
+
+              REPORT OF INDEPENDENT ACCOUNTANTS
+                              
+                              
+
+To the Stockholders and the Board of Directors
+  of EMC Corporation:
+
+
+
+     In connection with our audits of the consolidated financial 
+statements of EMC Corporation as of January 1, 1994 and January 2, 
+1993 and for each of the three years in the period ended January 1, 
+1994, which financial statements and reports are included herein, 
+we have also audited the related financial statement schedules 
+listed in Item 14 herein.
+
+     In our opinion, the financial statement schedules referred 
+to above, when considered in relation to the basic financial 
+statements taken as a whole, present fairly, in all material 
+respects, the information required to be included therein.
+
+
+
+
+                              COOPERS & LYBRAND
+
+Boston, Massachusetts
+February 1, 1994
+
+
+
+                                   57.
+<PAGE>
+              EMC CORPORATION AND SUBSIDIARIES
+  INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND SCHEDULES
+     COVERED BY REPORTS OF CERTIFIED PUBLIC ACCOUNTANTS
+
+
+                                        Form 10-K
+
+
+Consolidated Balance Sheets at
+January 1, 1994 and January 2, 1993         p. 27
+
+
+Consolidated Statements of  Operations
+for the years ended January 1, 1994,
+January 2, 1993 and December 28, 1991         p. 28
+
+
+Consolidated Statements of Cash Flows for
+the years ended January 1, 1994,
+January 2, 1993 and December 28, 1991         p. 29
+
+
+Consolidated Statements of Stockholders'
+Equity for the years ended January 1, 1994,
+January 2, 1993 and December 28, 1991         p. 30
+
+
+Notes to Consolidated Financial Statements    p.p. 31 - 50
+
+
+Report of Independent Accountants             p.p. 26 and 57
+
+                                   58.
+<PAGE>
+
+                         Form 10-K
+
+Schedules:
+
+     Schedule V - Property              Page S-1
+     Plant and Equipment
+
+     Schedule VI - Accumulated          Page S-2
+     Depreciation - Property,
+     Plant and Equipment
+
+     Schedule VIII - Valuation          Page S-3
+     and Qualifying Accounts
+
+     Schedule IX - Short                Page S-4
+     Term Borrowings
+
+     Schedule X - Supplementary         Page S-5
+     Income Statement Information
+
+     Report of Independent
+     Accountants on Financial
+     Statement  Schedules
+
+
+ Note:     All other financial statement schedules are omitted
+ because they are not applicable or the required information is 
+ included in the financial statements or notes thereto.
+
+                                   59.
+<PAGE> 
+The exhibits listed below are filed with or incorporated by
+                  reference in this report.
+
+3.1  Articles of Organization of EMC Corporation <F3>
+
+3.2  Articles of Amendment filed February 26, 1986 <F3> 
+
+3.3  Articles of Amendment filed April 2, 1986 <F3>
+
+3.4  Articles of Amendment filed May 13, 1987 <F4>
+
+3.5  Articles of Amendment filed June 19, 1992 <F5>
+
+3.6  Articles of Amendment filed May 12, 1993 <F6>
+
+3.7  Articles of Amendment filed November 12, 1993 <F7>
+
+3.8  By-laws of EMC Corporation, as amended on October 16, 1992 <F5>
+
+4.1  Form of Stock Certificate <F8>
+
+4.2  Indenture, dated as of March 25, 1992 between EMC Corporation
+     and State Street Bank and Trust Company, Trustee <F9>
+
+4.3  Indenture, dated as of December 17, 1993 between EMC
+     Corporation and State Street Bank and Trust Company, Trustee <F10>
+
+4.4  Form of 6 1/4% Convertible Subordinated Debenture Due 2002 <F9>
+
+4.5  Form of 4 1/4% Convertible Subordinated Note Due 2001 <F11>
+
+10.1 EMC Corporation 1985 Stock Option Plan, as amended <F5>
+
+10.2 EMC Corporation 1989 Employee Stock Purchase Plan, as amended <F5>
+
+10.3 EMC Corporation 1992 Stock Option Plan for Directors <F12>
+
+10.4 EMC Corporation 1993 Stock Option Plan <F13>
+
+10.5 EMC Corporation Profit-Sharing Plan <F3>
+
+10.6 Mortgage Agreement with and Note Payable to John Hancock 
+     Mutual Life Insurance Company  <F3>
+
+10.7 Loan and Credit Agreement dated December 10, 1991
+     between EMC Corporation and Shawmut Bank, N.A. <F14>
+
+10.8 Agreement between EMC Corporation and Unisys
+     Corporation dated January 15, 1992 <F12>
+                                   60.
+
+<PAGE>
+
+10.9 Amendment No. 1 to Agreement between EMC Corporation
+     and Unisys Corporation dated March 10, 1992 <F5>
+
+11.1 Computation of net income (loss) per share (filed herewith)
+
+22.1 Subsidiaries of Registrant (filed herewith)
+
+23.1 Consent of Independent Accountants (filed herewith)
+
+
+
+
+                                   61.                           
+<PAGE>
+
+<F3> Incorporated herein by reference to the Company's
+     Registration Statement on Form S-1 (No. 33-3656)
+
+<F4> Incorporated herein by reference to the Company's
+     Registration Statement on Form S-1 (No. 33-17218).
+
+<F5> Incorporated herein from Annual Report on Form 10-K of
+     EMC Corporation filed February 12, 1993.
+
+<F6> Incorporated herein by reference to the Company's
+     Registration Statement on Form S-1 (No. 33-67224).
+
+<F7> Incorporated herein from Current Report on Form 8-K of
+     EMC Corporation filed November 19, 1993.
+
+<F8> Incorporated herein from Annual Report on Form 10-K of
+     EMC Corporation filed March 31, 1988.
+
+<F9> Incorporated herein by reference to the Company's
+     Registration Statement on Form S-3 (No. 33-46075).
+
+<F10>Incorporated herein from Current Report on Form 8-K of
+     EMC Corporation filed December 29, 1993.
+
+<F11>Incorporated herein by reference to the Company's
+     Registration Statement on Form S-3 (No. 33-71916).
+
+<F12>Incorporated herein from Annual Report on Form 10-K of
+     EMC Corporation filed February 28, 1992.
+
+<F13>Incorporated herein by reference to the Company's
+     Registration Statement on Form S-8 (No. 33-54860).
+
+<F14>Incorporated herein by reference to the Company's
+     Registration Statement on Form S-8 (No. 33-71598).
+
+                                   62.
+<PAGE>
+              EMC CORPORATION AND SUBSIDIARIES
+         SCHEDULE V - PROPERTY, PLANT AND EQUIPMENT
+
+                Balance at                                   Balance at
+                Beginning   Additions              Other     End of
+                of Period   at Cost   Retirements  Changes   Period
+
+Year Ended 12/28/91
+Furniture & 
+ Fixtures    $ 4,087,000  $  165,000  $  (77,000)  $  -0-  $  4,175,000
+Equipment     36,609,000  18,322,000  (2,414,000)     -0-    52,517,000
+Vehicles       1,169,000     428,000    (246,000)     -0-     1,351,000
+Buildings &
+ Improvements 23,074,000   1,405,000    (149,000)     -0-    24,330,000
+Land           1,520,000         -0-          -0-     -0-     1,520,000
+Construction 
+ in Progress     121,000         -0-          -0-  (45,000)      76,000
+             $66,580,000 $20,320,000 $(2,886,000) $(45,000) $83,969,000
+
+Year Ended 1/2/93
+Furniture & 
+ Fixtures    $ 4,175,000 $   776,000 $   (41,000) $   -0-   $ 4,910,000
+Equipment     52,517,000  24,052,000  (5,660,000)     -0-    70,909,000
+Vehicles       1,351,000     639,000    (329,000)     -0-     1,661,000
+Buildings &
+ Improvements 24,330,000   3,258,000     (21,000)     -0-    27,567,000
+Land           1,520,000     350,000          -0-     -0-     1,870,000
+Construction 
+ in Progress      76,000     685,000          -0-     -0-       761,000
+             $83,969,000 $29,760,000 $(6,051,000) $   -0-  $107,678,000
+
+Note:  The 1991 balance of equipment is restated to include
+       balance and activity of equipment leased to others, which
+       is included in equipment in 1992.
+
+Note:  Information for the year ended January 1, 1994 is omitted
+       because the net property plant and equipment of the
+       Company accounted for less than 25% of total assets at
+       January 1, 1994 and January 2, 1993.
+
+                                   S-1                              
+                              
+                                   63.
+<PAGE>                              
+
+              EMC CORPORATION AND SUBSIDIARIES
+          SCHEDULE VI - ACCUMULATED DEPRECIATION -
+                PROPERTY, PLANT AND EQUIPMENT
+
+               Balance at                                 Balance at
+               Beginning                         Other    End of
+               of Period  Additions  Retirements Changes  Period
+  
+Year Ended 12/28/91
+Furniture & 
+ Fixtures   $ 1,801,000  $  530,000  $  (163,000)  $ -0-  $ 2,168,000
+Equipment    12,626,000   5,781,000     (699,000)    -0-   17,708,000
+Vehicles        487,000     265,000     (235,000)    -0-      517,000
+Buildings &
+ Improvements 2,921,000   1,936,000      (32,000)    -0-    4,825,000
+Land                -0-         -0-          -0-     -0-          -0-
+Construction  
+ in Progress        -0-         -0-          -0-     -0-          -0-
+            $17,835,000  $8,512,000  $(1,129,000)  $ -0-  $25,218,000
+
+Year Ended 1/2/93
+Furniture & 
+Fixtures    $ 2,168,000  $  481,000  $   (23,000)  $ -0-  $ 2,626,000
+Equipment    17,708,000  13,980,000   (2,548,000)    -0-   29,140,000
+Vehicles        517,000     261,000     (143,000)    -0-      635,000
+Buildings &
+ Improvements 4,825,000   1,454,000      (41,000)    -0-    6,238,000
+Land                -0-         -0-          -0-     -0-          -0-
+Construction 
+ in Progress        -0-         -0-          -0-     -0-          -0-
+            $25,218,000 $16,176,000 $(2,755,000)   $ -0-  $38,639,000
+
+                              
+                              
+                                  S-2
+<PAGE>                              
+             EMC CORPORATION AND SUBSIDIARIES
+          SCHEDULE VI - ACCUMULATED DEPRECIATION -
+                PROPERTY, PLANT AND EQUIPMENT
+                       (continued)
+
+
+Depreciation is computed on a straight line basis over the estimated
+useful lives of the assets as follows:
+
+                            Furniture             7 years
+                            Equipment           3-7 years
+                            Vehicles              5 years
+                            Improvements          5 years
+                            Buildings   25 - 31 1/2 years
+
+Note: The 1991 balance of equipment is restated to include the
+        balance and activity of equipment leased to others, which
+        is included in equipment in 1992.
+
+Note: Information for the year ended January 1, 1994 is omitted
+        because the net property plant and equipment of the
+        Company accounted for less than 25% of total assets at
+        January 1, 1994 and January 2, 1993.
+
+
+                                   S-2
+
+                                    65. 
+<PAGE>
+              EMC CORPORATION AND SUBSIDIARIES
+      SCHEDULE VIII - VALUATION AND QUALIFYING ACCOUNTS
+                              
+
+
+                Balance at  Charged to  Charged             Balance at
+                Beginning   Costs and   to Other   Deduc-   End of
+Description     of Period   Expenses    Accounts   tions    Period
+
+Year ended 
+ January 1,1994
+ Allowance for 
+ doubtful 
+ accounts      $2,915,000  $2,699,000   $-0-    $(352,000)  $5,262,000
+
+Year ended 
+ January 2,1993
+ Allowance for 
+ doubtful
+ accounts      $2,892,000    $488,000   $-0-    $(465,000)  $2,915,000
+
+Year ended 
+ December 28,1991
+ Allowance for 
+ doubtful
+ accounts      $1,047,000  $2,152,000   $-0-    $(307,000)  $2,892,000
+                         
+                                                          
+                                   S-3
+
+                                   66.
+<PAGE>       
+              EMC CORPORATION AND SUBSIDIARIES
+             SCHEDULE IX - SHORT TERM BORROWINGS
+                              
+                              
+                                                   Average     Weighted
+                             Interest  Maximum     Amount      Average
+                   Balance   Rate      Outstanding Outstanding Interest
+                   at End    at End    During      During      Rate for
+                   of Year   of Year   Year        Year (a)    Year (a)
+
+Year ended 
+January 1, 1994
+Line of Credit
+- - Bank
+ EMC Corporation  $       0     N/A      $      0    $      0     N/A
+ Magna                    0     N/A       545,000     131,000     8.4%
+
+Year ended 
+January 2, 1993
+Line of Credit 
+- - Bank
+ EMC Corporation  $       0     N/A   $5,000,000    $ 26,954     6.5%
+ Magna              645,000     8.5%     695,000     515,000     8.0%
+
+Year ended 
+December 28, 1991
+Line of Credit 
+- - Bank
+ EMC Corporation $5,000,000     6.5%  $5,000,000    $103,763     7.1%
+ Magna              470,000     9.0%     470,000     333,000     9.6%
+
+
+(a)The average amount outstanding and weighted average interest rate
+   during the year are based on the average daily balances outstanding.
+
+                                   S-4
+
+                                   67.
+<PAGE>
+              EMC CORPORATION AND SUBSIDIARIES
+   SCHEDULE X - SUPPLEMENTARY INCOME STATEMENT INFORMATION
+                              
+                          1991          1992          1993
+
+Advertising Costs   $3,857,000    $4,964,000    $9,555,000
+                              
+                              
+                                   S-5                           
+
+                                   68.              
+<PAGE>                               
+                       EMC CORPORATION
+                              
+EXHIBIT 11.1  Computation of Primary and Fully Diluted Net Income Per Share
+                                       1993         1992         1991
+PRIMARY
+Net income (in thousands)          $127,122      $29,508      $11,409
+
+Add back interest expense
+ on convertible notes                   373          ---          ---
+Less tax effect on interest
+ expense on convertible notes          (149)         ---          ---
+
+Net income for purpose of 
+ calculating primary net 
+ income per share                  $127,346      $29,508      $11,409
+
+Weighted average shares
+ outstanding during the period  180,204,169  162,308,044  159,184,880
+
+Common equivalent shares         16,281,991    9,643,652    5,229,936
+
+Common and common equivalent
+ shares outstanding for purpose 
+ of calculating primary net 
+ income per share               196,486,160  171,951,696  164,414,816
+
+Primary net income per share          $0.65        $0.17        $0.07
+
+FULLY DILUTED
+Net income (in thousands)          $127,122      $29,508      $11,409
+
+Add back interest expense on
+ convertible debt and notes           4,097        2,853          ---
+Less tax effect on interest
+ expense on convertible debt      
+ and notes                           (1,601)      (1,085)         ---
+ 
+Net income for purpose of
+ calculating fully diluted 
+ net income per share               $129,618      $31,276      $11,409
+
+Common and common equivalent
+ shares outstanding for purpose
+ of calculating primary net 
+ income per share               196,486,160  171,951,696  164,414,816
+
+Incremental shares to reflect 
+ full dilution                   20,738,566   18,596,284    1,805,316
+
+Total shares for purpose of 
+ calculating fully diluted net 
+ income per share               217,224,726  190,547,980  166,220,132
+
+Fully diluted net income per 
+ share (Note A in footnotes)          $0.60        $0.16        $0.07
+
+Note: Prior year earnings per share and weighted average shares have been 
+ restated to reflect the December 1993 2 for 1 stock split, the June 1993 
+ 2 for 1 stock split and the November 1992 3 for 2 stock split.
+                                   69.
+<PAGE>                              
+          EXHIBIT 22.1 - SUBSIDIARIES OF REGISTRANT
+
+The following is a list of the Corporation's consolidated subsidiaries 
+as of March 15, 1994.  The Corporation owns, directly or indirectly, 
+100% of the voting securities of each subsidiary, unless noted otherwise.
+                                                 STATE OR
+                                                 JURISDICTION OF
+NAME                                             ORGANIZATION
+
+Copernique, S.A. <F15>                            France
+
+EMC Caribe, Inc.                                  Delaware
+
+EMC Computer Storage Systems (Israel) Ltd.        Israel
+
+EMC Computer Systems AG                           Switzerland
+
+EMC Computer Systems France Sarl                  France
+
+EMC Computer Systems (H.K.) Limited               Hong Kong
+
+EMC Computer Systems Italy SPA                    Italy
+
+EMC Computer Systems (Japan) K.K. <F16>           Japan
+
+EMC Computer Systems (U.K.) Limited               United Kingdom
+
+EMC (Benelux) B.V.                                Holland
+
+EMC Computer-Systems Deutschland GMBH             Germany
+
+EMC Computer-Systems Svenska AB                   Sweden
+
+EMC International Holdings, Inc.                  Delaware
+
+EMC Securities Corporation                        Massachusetts
+
+EMC System Peripherals Canada, Inc.               Canada
+
+Epoch Systems, Inc.                               Delaware
+
+Magna Computer Corporation                        Delaware
+
+<F15> Majority owned by EMC (Benelux) B.V., the remainder owned by 
+      Compagnie des Machines Bull, S.A., and not including certain 
+      directors' qualifying shares.
+<F16> Majority owned by EMC Corporation, the remainder owned by
+      CLC Corporation.
+                                   70.
+<PAGE>
+
+
+     EXHIBIT 23.1 - CONSENT OF INDEPENDENT ACCOUNTANTS
+ 
+
+     We consent to the incorporation by reference in the
+Registration Statements of EMC Corporation on Form S-8 (File
+Nos. 33-71262 and 33-71598) of our reports dated February 1,
+1994, on our audits of the consolidated financial statements
+and financial statement schedules of EMC Corporation as of
+January 1, 1994 and January 2, 1993 and for the years ended
+January 1, 1994, January 2, 1993 and December 28, 1991 which
+reports are included in this Annual Report on Form 10-K.
+
+
+
+
+                              COOPERS & LYBRAND
+
+Boston, Massachusetts
+March 21, 1994
+
+
+</TEXT>
+</DOCUMENT>
+</IMS-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

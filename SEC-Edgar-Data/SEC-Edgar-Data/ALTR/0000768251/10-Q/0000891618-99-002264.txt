@@ -1,0 +1,3163 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ USrivG/VXliNHERJ2qw9KrZ8U8skQXU0ZSVovq/jnYqYjHoqAxvT8C4ZJOHPrF43
+ djHbP9jsmaBWNgBDPHKVZA==
+
+<SEC-DOCUMENT>0000891618-99-002264.txt : 19990517
+<SEC-HEADER>0000891618-99-002264.hdr.sgml : 19990517
+ACCESSION NUMBER:		0000891618-99-002264
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19990331
+FILED AS OF DATE:		19990514
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALTERA CORP
+		CENTRAL INDEX KEY:			0000768251
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				770016691
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-16617
+		FILM NUMBER:		99623776
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 INNOVATION DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4085448000
+
+	MAIL ADDRESS:	
+		STREET 1:		101 INNOVATION DR
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[X]      Quarterly report pursuant to Section 13 or 15(d) of the Securities 
+         Exchange Act of 1934
+
+For the quarterly period ended March 31, 1999 or
+
+[ ]      Transition report pursuant to Section 13 or 15(d) of the Securities 
+         Exchange Act of 1934
+
+For the transition period from __________ to __________
+
+Commission file number 0-16617
+
+
+                               ALTERA CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+          Delaware                                               77-0016691
+(State or other jurisdiction of                              (I.R.S. Employer
+incorporation or organization)                               Identification No.)
+
+101 Innovation Drive, San Jose, California 95134
+(Address of principal executive offices)  (Zip Code)
+
+Registrant's telephone number, including area code:  (408) 544-7000
+
+        Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for at least the past 90 days.
+
+
+        Yes   [X]                                           No [ ]
+
+
+        Number of shares of common stock outstanding at May 5, 1999: 99,131,661
+
+<PAGE>   2
+
+                               ALTERA CORPORATION
+
+
+
+
+
+                                    FORM 10-Q
+
+
+                              FOR THE QUARTER ENDED
+
+
+                                 MARCH 31, 1999
+
+
+
+
+
+
+
+
+
+                                     PART I
+
+
+                            FINANCIAL INFORMATION AND
+
+           MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+
+                            AND RESULTS OF OPERATIONS
+
+
+
+                                                                               2
+<PAGE>   3
+
+                               ALTERA CORPORATION
+
+
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                            (Unaudited, in thousands)
+
+
+
+<TABLE>
+<CAPTION>
+                                                 March 31,      December 31,
+                                                   1999            1998
+                                                ----------      -----------
+<S>                                             <C>             <C>       
+ASSETS
+
+Current assets:
+  Cash and cash equivalents                     $  178,880      $  131,029
+  Short-term investments                           412,015         448,077
+                                                ----------      ----------
+       Total cash, cash equivalents,
+          and short-term investments               590,895         579,106
+  Accounts receivable, net                          52,167          56,138
+  Inventories                                       74,530          69,869
+  Deferred income taxes                             70,644          69,644
+  Other current assets                              21,539          24,776
+                                                ----------      ----------
+       Total current assets                        809,775         799,533
+
+Property and equipment, net                        151,732         152,320
+Investments and other assets                       172,251         141,478
+                                                ----------      ----------
+                                                $1,133,758      $1,093,331
+                                                ==========      ==========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                              $   16,664      $   14,479
+  Accrued liabilities                               18,318          16,615
+  Accrued compensation                              12,974          19,356
+  Deferred income on sales to distributors         145,620         161,160
+  Income taxes payable                               4,700              --
+                                                ----------      ----------
+       Total current liabilities                   198,276         211,610
+                                                ----------      ----------
+
+Stockholders' equity:
+  Common stock                                          98              98
+  Additional paid-in capital                       320,968         314,182
+  Retained earnings                                614,416         567,441
+                                                ----------      ----------
+       Total stockholders' equity                  935,482         881,721
+                                                ----------      ----------
+                                                $1,133,758      $1,093,331
+                                                ==========      ==========
+</TABLE>
+
+
+
+See accompanying notes to financial information.
+
+
+
+                                                                               3
+<PAGE>   4
+
+                               ALTERA CORPORATION
+
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (In thousands, except per share amounts)
+                                   (Unaudited)
+
+
+<TABLE>
+<CAPTION>
+                                                         Three Months Ended
+                                                              March 31,
+                                                      -------------------------
+                                                        1999            1998
+                                                      ---------       ---------
+<S>                                                   <C>             <C>      
+Net sales                                             $ 186,399       $ 157,216
+                                                      ---------       ---------
+Costs & expenses:
+   Cost of sales                                         69,154          60,090
+   Research and development                              17,023          14,407
+   Selling, general and administrative                   32,320          28,138
+                                                      ---------       ---------
+Total costs and expenses                                118,497         102,635
+                                                      ---------       ---------
+
+Income from operations                                   67,902          54,581
+Interest and other income, net                            4,618             152
+                                                      ---------       ---------
+
+Income before income taxes and equity investment         72,520          54,733
+Provision for income taxes                               23,569          17,787
+                                                      ---------       ---------
+
+Income before equity investment                          48,951          36,946
+Equity in loss of WaferTech                              (1,976)         (1,811)
+                                                      ---------       ---------
+
+Net income                                            $  46,975       $  35,135
+                                                      =========       =========
+
+EARNINGS PER SHARE:
+   Basic                                              $    0.48       $    0.40
+                                                      =========       =========
+   Diluted                                            $    0.46       $    0.37
+                                                      =========       =========
+WEIGHTED AVERAGE SHARES:
+   Basic                                                 97,933          88,885
+                                                      =========       =========
+   Diluted                                              102,687         101,961
+                                                      =========       =========
+</TABLE>
+
+
+
+See accompanying notes to financial information.
+
+
+
+                                                                               4
+<PAGE>   5
+
+                               ALTERA CORPORATION
+
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                            (Unaudited, in thousands)
+
+
+<TABLE>
+<CAPTION>
+                                                           Three Months Ended
+                                                               March 31,
+                                                       -------------------------
+                                                         1999            1998
+                                                       ---------       ---------
+<S>                                                    <C>             <C>      
+Cash flows from operating activities:
+  Net income                                           $  46,975       $  35,135
+  Adjustments to reconcile net income to net cash
+   provided by operating activities:
+     Equity in loss of WaferTech                           1,976           1,811
+     Depreciation and amortization                         7,448           7,636
+     Deferred income taxes                                (1,000)         (1,500)
+     Changes in assets and liabilities:
+       Accounts receivable, net                            3,971             214
+       Inventories                                        (5,117)          1,625
+       Other assets                                        6,587          (5,189)
+       Accounts payable and accrued liabilities           (2,494)         (1,995)
+       Deferred income on sales to distributors          (15,540)         (1,607)
+       Income taxes payable                               18,716          16,670
+                                                       ---------       ---------
+
+Cash provided by operating activities                     61,522          52,800
+                                                       ---------       ---------
+
+Cash flows from investing activities:
+  Purchases of property and equipment                     (5,663)         (5,228)
+  Net change in short-term investments                    36,062           6,078
+  Investment in WaferTech                                (37,500)             --
+  Net change in long-term investments                         --           1,126
+                                                       ---------       ---------
+
+Cash provided by (used for) investing activities          (7,101)          1,976
+                                                       ---------       ---------
+Cash flows from financing activities:
+  Net proceeds from issuance of common stock               6,276           3,792
+  Repurchase of common stock                             (12,846)        (17,026)
+                                                       ---------       ---------
+Cash used for financing activities                        (6,570)        (13,234)
+                                                       ---------       ---------
+Net increase in cash and cash equivalents                 47,851          41,542
+Cash and cash equivalents at beginning of period         131,029          22,761
+                                                       ---------       ---------
+Cash and cash equivalents at end of period             $ 178,880       $  64,303
+                                                       =========       =========
+
+Supplemental disclosure of cash flow information:
+  Cash paid during the period for income taxes         $     976       $     221
+</TABLE>
+
+
+
+See accompanying notes to financial information.
+
+
+
+                                                                               5
+
+<PAGE>   6
+
+                               ALTERA CORPORATION
+
+                         NOTES TO FINANCIAL INFORMATION
+                                   (Unaudited)
+
+
+Note 1 - Interim Statements:
+
+In the opinion of the Company, the accompanying unaudited financial data
+contains all adjustments, consisting only of normal recurring adjustments,
+necessary to present fairly the financial information included therein. This
+financial data should be read in conjunction with the audited financial
+statements and notes thereto included in the Company's Annual Report to
+Stockholders for the year ended December 31, 1998. Results for the interim
+period presented are not necessarily indicative of results for the entire year.
+
+Certain prior year amounts have been reclassified to conform to the current
+year's presentation.
+
+
+Note 2 - Balance Sheet Details (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                 March 31,      December 31,
+                                                   1999            1998
+                                                 ---------      ------------
+<S>                                              <C>            <C>      
+Inventories:
+  Purchased parts and raw materials              $      81       $      65
+  Work-in-process                                   49,454          46,207
+  Finished goods                                    24,995          23,597
+                                                 ---------       ---------
+                                                 $  74,530       $  69,869
+                                                 =========       =========
+
+Property and equipment:
+  Land                                           $  20,496       $  20,496
+  Building                                          80,572          80,338
+  Equipment and software                           120,141         115,332
+  Office furniture and fixtures                     10,486          10,287
+  Leasehold improvements                             1,218           1,183
+                                                 ---------       ---------
+                                                   232,913         227,636
+  Accumulated depreciation and amortization        (81,181)        (75,316)
+                                                 ---------       ---------
+                                                 $ 151,732       $ 152,320
+                                                 =========       =========
+</TABLE>
+
+
+Note 3 - Common Stock Split:
+
+On April 21, 1999, the Company declared a two-for-one stock split in the form of
+a 100 percent stock dividend to holders of record of the Company's common stock
+on May 4, 1999. The dividend shares will be distributed to stockholders on May
+19, 1999. The pro forma earnings per share and weighted average shares
+outstanding given the effect of the stock split are as follows (shares in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                      Three Months Ended
+                                           March 31,
+                                ------------------------------
+                                   1999               1998
+                                -----------        -----------
+<S>                             <C>                <C>        
+EARNINGS PER SHARE:
+   Basic                        $      0.24        $      0.20
+                                ===========        ===========
+   Diluted                      $      0.23        $      0.18
+                                ===========        ===========
+WEIGHTED AVERAGE SHARES:
+   Basic                            195,866            177,770
+                                ===========        ===========
+   Diluted                          205,374            203,922
+                                ===========        ===========
+</TABLE>
+
+
+
+                                                                               6
+<PAGE>   7
+
+                               ALTERA CORPORATION
+
+                   NOTES TO FINANCIAL INFORMATION (continued)
+                                   (Unaudited)
+
+
+
+Note 4 - Earnings Per Share:
+
+Basic earnings per share is computed by dividing net income available to common
+stockholders by the weighted average number of common shares outstanding during
+the period and excludes the dilutive effect of stock options. Diluted earnings
+per share gives effect to all dilutive potential common shares outstanding
+during a period. In computing diluted earnings per share, the tax benefit
+resulting from employee stock transactions and the average stock price for the
+period are used in determining the number of shares assumed to be purchased from
+exercise of stock options.
+
+A reconciliation of basic and diluted earnings per share is presented below (in
+thousands, except per share amounts):
+
+<TABLE>
+<CAPTION>
+                                                                                   Three Months Ended
+                                                                                        March 31,
+                                                                                ------------------------
+                                                                                  1999            1998
+                                                                                --------        --------
+<S>                                                                             <C>             <C>     
+Basic:
+
+Net income                                                                      $ 46,975        $ 35,135
+                                                                                ========        ========
+Weighted average common shares outstanding                                        97,933          88,885
+                                                                                ========        ========
+Basic earnings per share                                                        $   0.48        $   0.40
+                                                                                ========        ========
+
+
+Diluted:
+
+Net income                                                                      $ 46,975        $ 35,135
+Convertible notes interest, net of income taxes and capitalized interest              --           2,232
+                                                                                --------        --------
+                                                                                $ 46,975        $ 37,367
+                                                                                ========        ========
+
+Weighted average common shares outstanding                                        97,933          88,885
+Dilutive stock options                                                             4,754           4,086
+Assumed conversion of notes                                                           --           8,990
+                                                                                --------        --------
+Weighted average common shares outstanding                                       102,687         101,961
+                                                                                ========        ========
+
+Diluted earnings per share                                                      $   0.46        $   0.37
+                                                                                ========        ========
+</TABLE>
+
+
+Note 5 - Common Stock Repurchase:
+
+In March 1999, the Company repurchased 260,000 shares of common stock for an
+aggregate cost of $12.8 million. The repurchased shares were retired upon
+acquisition. Since the inception of the repurchase program through March 31,
+1999, the Company has repurchased a total of 2,370,000 shares.
+
+
+
+                                                                               7
+<PAGE>   8
+
+                               ALTERA CORPORATION
+
+                   NOTES TO FINANCIAL INFORMATION (continued)
+                                   (Unaudited)
+
+
+
+Note 6 - Convertible Subordinated Notes:
+
+In June 1995, the Company issued $230.0 million of convertible subordinated
+notes (the "Notes") due in June 2002 and bearing an interest rate of 5.75%,
+payable semiannually. The Notes were convertible into shares of the Company's
+common stock at a price of $25.59 per share. On May 15, 1998, the Company called
+for the redemption of the Notes effective June 16, 1998. As a result,
+substantially all of the Notes were converted into 8,988,649 shares of common
+stock with the remaining Notes redeemed at a price of $1,033.06 per $1,000
+principal amount of the Notes. Total semi-annual interest paid on the Notes
+during 1998 was $6.5 million. The unamortized debt issuance costs as of the
+redemption date of approximately $3.1 million was recorded as a reduction to
+additional paid-in-capital.
+
+
+Note 7 - New Accounting Pronouncements:
+
+In June 1998, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards ("SFAS") No. 133, "Accounting for Derivative
+Instruments and Hedging Activities." SFAS No. 133 establishes standards for
+accounting and reporting on derivative instruments for periods beginning after
+June 15, 1999 and early adoption is permitted. SFAS No. 133 requires that all
+derivative instruments be recognized in the balance sheet as either assets or
+liabilities and measured at fair value. Furthermore, SFAS No. 133 requires
+current recognition in earnings of changes in the fair value of derivative
+instruments depending on the intended use of the derivative and the resulting
+designation. The Company expects that its adoption of SFAS No. 133, which will
+become effective in fiscal year 2000, will not have a material effect on the
+Company's financial statements.
+
+
+
+                                                                               8
+<PAGE>   9
+
+                               ALTERA CORPORATION
+                      MANAGEMENT'S DISCUSSION AND ANALYSIS
+                OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Results of Operations
+
+         Sales. Sales during the first quarter of 1999 were $186.4 million,
+18.6% higher than the $157.2 million reported for the same period last year.
+Sales in the first quarter of 1999 increased from the same period last year
+primarily due to increases in sales of New and Mainstream products, which were
+partially offset by lower sales of Mature products. Sales of New products
+increased to $40.0 million in the first quarter of 1999 from $8.9 million in the
+first quarter of 1998 while sales of Mainstream products increased to $69.9
+million from $43.2 million. During the same periods, sales of Mature products
+decreased to $60.2 million from $90.2 million. Management expects that the
+decline in sales of the Mature products, which presently comprise approximately
+32.3% of the Company's revenue base, will continue. The Company's ability to
+maintain or increase sales in the future is dependent on sales of New and
+Mainstream product families increasing more rapidly than the decline in sales of
+Mature product families. While management is optimistic that New and Mainstream
+product sales will increase, there can be no assurances that New and Mainstream
+product sales growth will offset the decline in sales of Mature products.
+
+         Sales during the first quarter of 1999 increased over the comparable
+quarter a year ago in North America, Japan and Asia Pacific, while sales in
+Europe declined slightly. Sales during the first quarter of 1999 as compared to
+the first quarter of 1998 from North America increased to $105.2 million from
+$86.9 million, Japan increased to $35.7 million from $28.1 million, and Asia
+Pacific increased to $9.7 million from $5.6 million, while Europe decreased
+slightly to $35.8 million from $36.6 million. The poor economic environment in
+Japan and Asia Pacific may limit the Company's future sales of its products in
+these regions, particularly in the communications segment. As the economic
+environment in Japan and Asia Pacific remains unfavorable, the Company's overall
+sales may be adversely impacted as a result.
+
+         Product Categories. In the third quarter of 1998 the composition of the
+Company's product categories was changed and prior data reported here have been
+restated to reflect those changes. New products now consist of the Company's
+3.3-volt (or lower) families, are manufactured on a 0.35-micron (or finer)
+geometry and are made up of the FLEX 10KA/10KE, FLEX 6000/6000A, MAX 7000A/7000B
+and APEX families. Mainstream products now include the MAX 7000S, MAX 9000 and
+FLEX 10K families. Mature products now consist of the Classic, MAX 5000, MAX
+7000 and FLEX 8000 families. Other products include Tools, FLASHlogic,
+Configuration Devices, MPLDs, and FSPs.
+
+         Gross Margin. The gross margin as a percentage of sales of 62.9% was up
+from 61.8% in the same period a year ago. The increase was primarily
+attributable to higher margins earned on the increasing mix of the Company's New
+products.
+
+
+
+                                                                               9
+<PAGE>   10
+
+         Yields measured as a total for all product families increased in the
+first quarter of 1999 over the same period a year ago primarily due to improved
+yields on FLEX 10K and FLEX 10KA products. In addition, the Company achieved
+additional cost reductions on its FLEX 10KA family through new wafer process
+technologies (die shrinks). The Company continues to spend significant research
+and development resources to improve production yields on both new and
+established products. Difficulties in production yields can often occur when the
+Company is beginning production of new products or transitioning to new
+processes. These difficulties can potentially result in significantly higher
+costs and lower product availability. Management expects to continue to
+introduce new and established products using new process technologies and may
+encounter similar start-up difficulties during the transition to such process
+technologies. Further, production throughput times vary considerably among the
+Company's wafer suppliers, and the Company may experience delays from time to
+time in processing some of its products which also may result in higher costs
+and lower product availability.
+
+         Research and Development. Research and development expenditures were
+$17.0 million in the first quarter of 1999, which is higher than the $14.4
+million for the same period a year ago. Relative to the same period a year ago,
+expenses increased primarily as a result of increased headcount, spending on
+masks and wafers and outside development services. This increased spending
+relates to the development of new products including FLEX 10KA/10KE, MAX
+7000A/7000B and APEX, as well as the Quartus software. The research and
+development expenditures include expenditures for labor, prototype and
+pre-production costs, development of process technology, development of software
+to support new products and design environments, and development of new
+packages. As a percentage of sales, research and development expenditures were
+9.1% and 9.2% for the first quarters of 1999 and 1998, respectively.
+Historically, the level of research and development expenditures as a percentage
+of sales has fluctuated in part due to the timing of the purchase of masks and
+wafers used in development and prototyping of new products. The Company expects
+that, in the long term, research and development expenses will increase in
+absolute dollars but may fluctuate as a percentage of sales.
+
+         The Company expects to continue to make significant investments in the
+development of FLEX 10KA/10KE, MAX 7000A/7000B, APEX and Quartus software.
+During the first quarter of 1999, the Company shipped its newest family of
+devices, APEX, and its new fourth generation software design tool, Quartus. APEX
+devices utilize a new architecture for programmable logic and address higher
+density designs. APEX devices are exclusively supported by the Company's new
+software design tool, Quartus. The commercial success of the APEX family is
+dependent on the acceptance of its use in high density designs and the
+successful introduction and acceptance of the Quartus design software.
+Management expects both products to be successful in the market, however, it can
+give no assurances that this will be the case. The Company also continues to
+focus its efforts on the development of new programmable logic chips, related
+development software and hardware, and advanced semiconductor wafer fabrication
+processes. However, there can be no assurance that the Company will accomplish
+its goals in the development and subsequent introduction of new products and
+manufacturing processes. Furthermore, there is no assurance that these products
+will achieve 
+
+
+
+                                                                              10
+<PAGE>   11
+
+market acceptance, that the new manufacturing processes will be successful, or
+that the suppliers will provide the Company with the quality or quantity of
+wafers and materials that the Company requires. The Company must continue to
+develop and introduce new products in a timely manner to help counter the
+industry's historical trend of declining prices as products mature.
+
+         Selling, General and Administrative. First quarter selling, general and
+administrative expenses of $32.3 million were $4.2 million higher than the same
+quarter a year ago. The increase in selling, general and administrative expenses
+was mainly driven by increased personnel expenses for marketing and
+administration, higher commission and incentive expenses associated with higher
+sales, and increased legal expenses. Selling, general, and administrative
+expenses include commission and incentive expenses, advertising and promotional
+expenditures, legal expenses and salary expenses related to field sales,
+marketing and administrative personnel.
+
+         Income from Operations. First quarter 1999 operating income of $67.9
+million, representing 36.4% of sales, was higher than the $54.6 million for the
+same period a year ago, representing 34.7% of sales. The year-to-year increase
+in operating income, as a percentage of sales, was primarily due to improvements
+in gross margin and to a lesser degree reduced operating expenses (selling,
+general and administrative plus research and development) as a percentage of
+sales.
+
+         Interest and Other Income, Net. Interest and other income was $4.6
+million for the first quarter of 1999, which is higher than the $152,000 for the
+same period a year ago. Interest and other income in the first quarter of 1999
+increased from the same period last year primarily due to the reduction in
+interest expense related to the conversion of the convertible subordinated notes
+and the increase in interest income related to higher cash balances available
+for investment. The increase in interest and other income was partially offset
+by a $1.2 million charge attributed to the write-off of an equity investment
+during the first quarter of 1999. Interest and other income mainly consists of
+interest income on cash balances available for investment.
+
+         Provision for Income Taxes. The Company's effective tax rate was 32.5%
+for the three months ended March 31, 1999 and 1998.
+
+         Equity Investment. In June 1996, the Company, TSMC and several other
+partners formed WaferTech, LLC ("WaferTech"), a joint-venture company, to build
+and operate a wafer manufacturing plant in Camas, Washington. In return for a
+$140.4 million cash investment, the Company received an 18% equity ownership in
+the joint-venture company and certain rights and obligations to procure up to
+27% of the factory's output at market prices. In January 1999, the Company
+purchased from Analog Devices, Inc. an additional 5% equity ownership interest
+in WaferTech for approximately $37.5 million, increasing its ownership interest
+to 23% and enabling the Company to procure up to 35% of the factory's output at
+market prices. The Company accounts for this investment under the equity method
+based on the Company's ability to exercise significant influence on the
+operating and financial policies of WaferTech. The
+
+
+
+                                                                              11
+<PAGE>   12
+
+Company's equity in the net loss of WaferTech was $2.0 million for the first
+quarter of 1999 as compared to $1.8 million for the same period a year ago.
+
+         Future Results. Future operating results will depend on the Company's
+ability to develop, manufacture and sell complex semiconductor components and
+programming software that offer customers greater value than solutions offered
+by competing vendors. The Company's efforts in this regard may not be
+successful. The Company plans to sustain future growth by offering programmable
+chips for applications that are presently served by other ASIC vendors. These
+vendors have well-established market positions and a solution that has been
+proven technically feasible and economically competitive over several decades.
+There can be no assurance that the Company will be successful in displacing ASIC
+vendors in the targeted applications and densities. Furthermore, other
+programmable logic vendors are targeting these applications and may be
+successful in securing market share to the exclusion of the Company. Moreover,
+standard cell technologies are increasingly used by the Company's customers to
+achieve greater integration in their systems; this may not only impede the
+Company's efforts to penetrate the ASIC market but may also displace the
+Company's products in the applications that it presently serves. The Company's
+future growth will depend on its ability to continue to expand the programmable
+logic market.
+
+         The Company is highly dependent upon subcontractors to manufacture
+silicon wafers and perform assembly, test and shipment to end customers. The
+Company is also dependent on its wafer foundry partners to improve process
+technologies in a timely manner to enhance the Company's product designs and
+cost structure. Their inability to do so could have a severe negative impact on
+the Company. The vast majority of the Company's products are manufactured and
+shipped to customers by subcontractors located in Asia, principally Japan,
+Taiwan, Korea, the Philippines, Hong Kong and Malaysia. Several of these
+countries are experiencing significant economic disruptions including volatile
+exchange rates, rising unemployment, insolvencies and government fiscal
+austerity programs. Disruptions or adverse supply conditions arising from market
+conditions, political strife, labor disruptions and other factors could have
+adverse consequences on the Company's future results. Natural or man-made
+disasters, normal process fluctuations and variances in manufacturing yields
+could have a severe negative impact on the Company's operating capabilities. The
+Company has sought to diversify its operating risk by participating in the
+WaferTech joint venture to manufacture silicon wafers with other partners in
+Camas, Washington. In October 1998 production began at the WaferTech joint
+venture. WaferTech is currently in the initial stages of production volumes and
+has yet to make a profit. Although the Company expects future WaferTech
+production volumes and profitability to increase, there is currently an
+oversupply of semiconductor fabrication capacity. There can be no assurances
+that the worldwide supply and demand for semiconductor wafers will be such that
+WaferTech will make a profit and that WaferTech will not continue to have an
+adverse impact on the Company's operating results.
+
+         Also, a number of factors outside of the Company's control, including
+general economic conditions and cycles in world markets, exchange rate
+fluctuations or a lack of growth in the Company's end markets 
+
+
+
+                                                                              12
+<PAGE>   13
+
+could adversely impact future results. An important component of the Company's
+growth, the networking equipment market, has been growing at a slower rate in
+recent years. Should this trend continue, the Company's growth in future years
+may be limited.
+
+         Because of the foregoing and other factors that might affect the
+Company's operating results, past financial performance should not be considered
+an indicator of future performance, and investors should not use historical
+trends to anticipate future results. In addition, the cyclical nature of the
+semiconductor industry and other factors have resulted in a highly volatile
+price of the Company's common stock.
+
+Liquidity and Capital Resources
+
+         During the first quarter of 1999, the Company's cash, cash equivalents
+and short-term investments increased by $11.8 million as a result of an increase
+in cash and cash equivalents of $47.9 million, offset by a decrease in
+short-term investments of $36.1 million.
+
+         Operating Activities. During the first quarter of 1999, the Company's
+operating activities generated net cash of $61.5 million. This increase was
+primarily attributable to net income of $47.0 million adjusted by non-cash items
+including depreciation and amortization of $7.5 million and the equity in loss
+in WaferTech of $2.0 million. In addition, positive cash flow was generated from
+a decrease in accounts receivable and other assets of $10.6 million and an
+increase in income taxes payable of $18.7 million. These items were partially
+offset by an increase in inventories and deferred income taxes of $6.1 million
+and a decrease in accounts payable, accrued liabilities and deferred income on
+sales to distributors of $18.0 million.
+
+         Investing Activities. During the first quarter of 1999, the net cash
+used by the Company in its investing activities was $7.1 million. The Company
+invested $5.7 million mainly for manufacturing and data processing equipment and
+software. Also, the Company purchased from Analog Devices, Inc. an additional 5%
+equity ownership interest in WaferTech for approximately $37.5 million. Lastly,
+the Company had a $36.1 million (net) reduction in short-term investments.
+
+         Financing Activities. During the first quarter of 1999, the net cash
+used by the Company in its financing activities was $6.6 million. The Company
+repurchased 260,000 shares of its common stock for $12.8 million, partially
+offset by net proceeds of $6.3 million from the issuance of approximately
+762,000 shares of common stock to employees through various option and employee
+stock purchase plans.
+
+         Financial condition. The Company has historically financed its
+operations primarily through cash generated from operations.
+
+         As of March 31, 1999, the Company had $590.9 million of cash, cash
+equivalents and short-term investments available to finance future growth. The
+Company believes the available sources of funds and 
+
+
+
+                                                                              13
+<PAGE>   14
+
+cash expected to be generated from operations will be adequate to finance
+current operations and capital expenditures for at least the next year.
+
+         Impact of Currency and Inflation. The Company purchases the majority of
+its materials and services in U.S. dollars, and its foreign sales are transacted
+in U.S. dollars. However, Altera does have Japanese yen denominated purchase
+contracts with Sharp Corporation of Japan for processed silicon wafers. In
+recent years, the Company did not hold or purchase any foreign exchange
+contracts for the purchase or sale of Japanese yen. During the first half of
+1998, the Company entered into a forward exchange contract to purchase Malaysian
+ringgit to meet a portion of its firm contractual commitments for the
+construction of its Malaysian design and manufacturing center. At the end of the
+first quarter of 1999, the Company had no open forward contracts. The Company
+may choose to enter into similar contracts from time to time should conditions
+appear favorable. Effects of inflation on Altera's financial results have not
+been significant.
+
+Year 2000 Compliance
+
+         Most computer programs were designed to perform data computations on
+the last two digits of the numerical value of a year. When a computation
+referencing the year 2000 is performed, these systems may interpret "00" as the
+year 1900 and could either stop processing date-related computations or could
+process them incorrectly. Computations referencing the year 2000 might be
+invoked at any time, but are likely to begin occurring in the year 1999.
+
+         Pursuant to its year 2000 ("Y2K") compliance program, the Company has
+undertaken various initiatives intended to ensure that its computer equipment
+and software will function properly with respect to dates in the year 2000 and
+thereafter. As used herein, the term "computer equipment and software" includes
+systems that are commonly considered information technology ("IT") systems
+(e.g., accounting, data processing and telephone systems) as well as those that
+are not commonly considered IT systems (e.g., manufacturing equipment, building
+and facility operations systems). In addition, the Company has also reviewed the
+software products it sells, and has upgraded and will upgrade such products to
+offer full Y2K compliance. Based upon its identification and assessment efforts
+to date, the Company anticipates that by the end of June 1999, all computer
+equipment and software that are material to Altera's internal business
+operations and all software products that Altera sells will be fully compliant
+with Y2K standards, specifically DISC PD-2000-1 as published by the British
+Standards Institute. The Company has not incurred and does not anticipate that
+it will incur material expenditures for the remediation of any Y2K issues.
+
+         The Company could be adversely impacted by Y2K issues faced by major
+distributors, suppliers, customers, vendors and financial service organizations
+("Third Parties") with which the Company interacts. The most reasonably likely
+worst case scenario for the Company with respect to the Y2K problem is the
+failure of a major distributor or supplier to be Y2K compliant such that the
+distribution of Altera products or the supply of components for such products is
+interrupted temporarily. This could result in the Company not being able
+
+
+
+                                                                              14
+<PAGE>   15
+
+to produce or distribute product for a period of time, which in turn could
+result in lost sales and profits. Based solely on responses received from these
+Third Parties, the Company has no reason to believe that there will be any
+material adverse impact on the Company's financial condition or results of
+operations relating to any Y2K issues of such Third Parties. However, if the
+responses received from these Third Parties are not accurate or circumstances
+change, then there could be an unforeseen material adverse impact on the
+Company's financial condition and results of operations. Management will
+continue to determine the impact, if any, that Third Parties who are not Y2K
+compliant may have on the financial condition or results of operations of the
+Company.
+
+         The Company has charged its business resumption planning committee to
+evaluate Y2K business disruption scenarios, coordinate the establishment of Y2K
+contingency plans, and identify and implement preemptive strategies. Contingency
+plans for critical business processes will be developed by the end of June 1999.
+
+Safe Harbor Notice
+
+         This Quarterly Report on Form 10-Q contains "forward looking
+statements" within the meaning of Section 27A of the Securities Act of 1933 and
+Section 21E of the Securities Exchange Act of 1934. Forward looking statements
+are generally written in the future tense and/or are preceded by words such as
+"expects," "suggests," "believes," "anticipates," or "intends." The Company's
+future results of operations and the other forward looking statements contained
+in this Report involve a number of risks and uncertainties, many of which are
+outside the Company's control. Some of these risks and uncertainties are
+described in proximity to forward looking statements that are contained in the
+section of this Report entitled "Management's Discussion and Analysis of
+Financial Condition and Results of Operations." Factors that could cause actual
+results to differ materially from projected results include but are not limited
+to risks associated with the Company's ability to achieve continued cost
+reductions and maintain gross margins, the Company's ability to achieve and
+maintain appropriate inventory mix and levels and respond successfully to
+changes in product demand, the ability of price reductions to increase demand
+and strengthen the Company's market share over the long term, successful
+development and subsequent introduction of new products through investment in
+research and development and application of new process technologies to old and
+new product lines, market acceptance of the Company's new products and continued
+demand for the Company's existing products, litigation involving intellectual
+property rights, issuance of new patents and acquisition of other intellectual
+property rights, the Company's ability to finance its operations and
+expenditures, the ability of Third Parties to be Y2K compliant, and general
+market conditions. Additional risk factors are disclosed in the Company's 1998
+Annual Report on Form 10-K on file with the Securities and Exchange Commission.
+
+
+
+                                                                              15
+<PAGE>   16
+
+                               ALTERA CORPORATION
+
+
+
+
+
+
+
+                                    FORM 10-Q
+
+
+
+                              FOR THE QUARTER ENDED
+
+
+                                 MARCH 31, 1999
+
+
+
+
+
+
+
+
+
+                                     PART II
+
+
+
+
+
+                                OTHER INFORMATION
+
+
+
+                                                                              16
+<PAGE>   17
+
+Item 1.  Legal Proceedings
+
+         In June 1993, Xilinx, Inc. ("Xilinx") brought suit against the Company
+seeking monetary damages and injunctive relief based on the Company's alleged
+infringement of certain patents held by Xilinx. In June 1993, the Company
+brought suit against Xilinx, seeking monetary damages and injunctive relief
+based on Xilinx's alleged infringement of certain patents held by the Company.
+In April 1995, the Company filed a separate lawsuit against Xilinx in Delaware,
+Xilinx's state of incorporation, seeking monetary damages and injunctive relief
+based on Xilinx's alleged infringement of one of the Company's patents. In May
+1995, Xilinx counterclaimed against the Company in Delaware, asserting defenses
+and seeking monetary damages and injunctive relief based on the Company's
+alleged infringement of certain patents held by Xilinx. Subsequently, the
+Delaware case has been transferred to California. Due to the nature of the
+litigation with Xilinx and because the lawsuits are still in the pre-trial
+stage, the Company's management cannot estimate the total expense, the possible
+loss, if any, or the range of loss that may ultimately be incurred in connection
+with the allegations. Management cannot ensure that Xilinx will not succeed in
+obtaining significant monetary damages or an injunction against the manufacture
+and sale of the Company's MAX 5000, MAX 7000, FLEX 8000 or MAX 9000 families of
+products, or succeed in invalidating any of the Company's patents. Although no
+assurances can be given as to the results of these cases, based on the present
+status, management does not believe that any of such results will have a
+material adverse effect on the Company's financial condition or results of
+operations.
+
+         In August 1994, Advanced Micro Devices, Inc. ("AMD") brought suit
+against the Company seeking monetary damages and injunctive relief based on the
+Company's alleged infringement of certain patents held by AMD. In September
+1994, Altera answered the complaint asserting that it is licensed to use the
+patents which AMD claims are infringed and filed a counterclaim against AMD
+alleging infringement of certain patents held by the Company. In October 1997,
+upon completion of trials bifurcated from the infringement claims, the District
+Court ruled that the Company is licensed under all patents asserted by AMD in
+the suit. In December 1997, AMD filed a Notice of Appeal of the District Court's
+rulings. In April 1999, the Federal Circuit Court ruled in AMD's favor on its
+appeal, finding that Altera is not licensed to AMD's patents, and remanded the
+case back to the District Court for further proceedings. Altera has filed a
+petition for rehearing before the Federal Circuit Court to seek an overturn of
+this determination. Due to the nature of the litigation with AMD, the Company's
+management cannot estimate the total expense, the possible loss, if any, or the
+range of loss that may ultimately be incurred in connection with the
+allegations. Management cannot ensure that AMD will not succeed in obtaining
+significant monetary damages or an injunction against the manufacture and sale
+of the Classic, MAX 5000, MAX 7000, FLEX 8000, MAX 9000, FLEX 10K and FLASHlogic
+product families, or succeed in invalidating any of the Company's patents
+remaining in the suit. Although no assurances can be given as to the results of
+this case, based on its present status, management does not believe that any of
+such results will have a material adverse effect on the Company's financial
+condition or results of operations.
+
+
+Item 5.  Other Information
+
+
+
+                                                                              17
+<PAGE>   18
+
+         On April 21, 1999, the Board of Directors of the Company approved a
+two-for-one stock split in the form of a stock dividend. Holders of record of
+the Company's common stock on May 4, 1999 will receive one additional share of
+Company common stock for each share held. The market price for Altera common
+stock as reported by Nasdaq will reflect the stock split beginning May 20, 1999.
+In connection with the stock split, the Board of Directors of the Company also
+authorized doubling from 6,000,000 to 12,000,000 the number of shares authorized
+for repurchase under the Company's share repurchase program.
+
+Item 6.  Exhibits and Reports on Form 8-K
+
+         (a)      Exhibits
+
+<TABLE>
+<S>                      <C>
+                  10.53  Product Distribution Agreement with Arrow Electronics
+                         Incorporated, effective January 26, 1999.
+
+                  10.54  Product Distribution Agreement with Wyle Electronics
+                         Incorporated, effective January 26, 1999.
+
+                  27.1   Financial Data Schedule for the three months ended 
+                         March 31, 1999.
+</TABLE>
+
+         (a)      Reports on Form 8-K
+
+                  None.
+
+
+
+                                                                              18
+<PAGE>   19
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                        ALTERA CORPORATION
+
+                                        /s/ NATHAN SARKISIAN      
+                                        ----------------------------------------
+                                        Nathan Sarkisian, Senior Vice President
+                                        (duly authorized officer) and  Chief
+                                        Financial Officer (principal financial
+                                        officer)
+
+                                        Date:  May 14, 1999
+
+
+
+
+                                                                              19
+<PAGE>   20
+                                 EXHIBIT INDEX
+
+
+
+<TABLE>
+<S>                           <C>
+Exhibit 10.53                 Product Distribution Agreement
+
+Exhibit 10.54                 Product Distribution Agreement
+
+Exhibit 27.1                  Financial Data Schedule
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.53
+<SEQUENCE>2
+<DESCRIPTION>DISTRIBUTION AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.53
+
+                             DISTRIBUTION AGREEMENT
+
+
+           This Distribution Agreement (hereinafter referred to as the
+      "Agreement") is made and entered into as of this 26th day of January 1999,
+      between Altera Corporation, having its principal place of business at 101
+      Innovation Drive, San Jose, California 95134 (hereinafter referred to as
+      "Altera") and Arrow Electronics Incorporated, having its principal place
+      of business at 25 Hub Drive, Melville, New York 11747-3509, (hereinafter
+      referred to as "Distributor").
+
+           WITNESSETH:
+
+           WHEREAS, Altera is the owner, manufacturer, and developer of certain
+      Products defined below, and
+
+           WHEREAS, Distributor wishes to be appointed as a non-exclusive
+      distributor of the Products under the terms and conditions of this
+      Agreement;
+
+           NOW THEREFORE, the parties agree as follows:
+
+1.    DEFINITIONS
+
+      1.1 "Products" or "Product" means semiconductor components, programming
+      hardware, Software Products, and related materials that may be offered for
+      sale by Altera in the ordinary course of business and that have not been
+      excluded from the definition of Products by written notice from Altera to
+      Distributor.
+
+      1.2 "Sale" or "Purchase" shall also be understood to mean "License".
+
+      1.3 "Software Products" means software development tools for programmable
+      logic design, simulation, testing, and for programming as offered for
+      license by Altera in the ordinary course of business.
+
+      1.4 "Territory" means the following geographic area: The United States and
+      Canada.
+
+      1.5 "Trademarks" means (i) both the name "Altera" and the corresponding
+      stylized mark and logotype; and (ii) the trademarks, tradenames, and
+      service marks of the Products and the respective stylized marks and
+      logotypes for such trademarks, tradenames, and service marks.
+
+2.    APPOINTMENT
+
+      Altera hereby appoints Distributor and Distributor hereby accepts the
+      appointment, as a non-exclusive Distributor of the Products within the
+      Territory.
+
+
+<PAGE>   2
+
+                                                                               2
+
+3.    DISTRIBUTOR RESPONSIBILITIES
+
+      3.1  Promotion and Sales Efforts.  Distributor shall use its reasonable 
+      best efforts to:
+
+           (a) Promote the sales of and distribute Products within the
+      Territory. Distributor shall not solicit sales of Products outside the
+      Territory.
+
+           (b) Obtain directly from Altera and authorized Altera distributors
+      100% of its requirements of Altera products.
+
+           (c) Make full use of all promotional material supplied by Altera.
+
+           (d) Maintain the total dollar value of inventory of Products at
+      Distributor in an amount mutually agreed to by both parties..
+
+           (e) Maintain inventories of a broad selection of Products, especially
+      newly introduced Products, sufficient to satisfy the needs of large and
+      small customers in a timely manner.
+
+           (f) Provide and maintain adequate sales facilities and sales and
+      support personnel in accordance with reasonable standards that from time
+      to time are established by Altera and that are reasonably agreed to by
+      Distributor.
+
+           (g) Provide and maintain Product programming facilities, equipment,
+      and personnel in accordance with reasonable standards that from time to
+      time are established by Altera and that are reasonably agreed to by
+      Distributor.
+
+           (h) Make available sales, engineering, and support personnel to
+      attend Altera sponsored training.
+
+           (i) Keep Altera informed of industry trends and competitive
+      conditions that may affect the sale of Altera Products.
+
+           (j) Adhere to operational policies and procedures that Altera will
+      publish (and revise from time to time), including the Distributor Policies
+      and Procedures Manual, in order to fulfill the provisions of this
+      Agreement, to facilitate Altera's business with Distributors, and promote
+      sales to customers. In the event of any inconsistency between such
+      published operational policies and the provisions of this Agreement, the
+      provisions of this Agreement shall govern.
+
+      3.2 Monthly Reporting Responsibilities. On or before the expiration of
+      five (5) working days after the end of each month, Distributor shall
+      provide a confidential report to Altera containing the following
+      information as well as any other information reasonably requested by
+      Altera from time to time:
+
+           (a) a sales report which contains the names of purchasers,
+      locations, part numbers, quantity and Dollar value of Products sold in
+      each such month; the part numbers, quantity
+
+<PAGE>   3
+
+                                                                               3
+
+
+      and dollar value of any Products returned to Distributor by customers; and
+      any ship from stock and debit ("SSD") numbers; and
+
+           (b) an inventory report which contains a listing by part number and
+      quantity of all Products in stock as of the end of such month.
+
+      This monthly reporting is to be in the form of direct data transmission or
+      magnetic media in standard computer readable format.
+
+      3.3  Mutual Covenants.
+
+           (a) The Parties agree to conduct business in a manner that reflects
+      favorably at all times on the Products and the good name, goodwill and
+      reputation of one another. However, nothing in this paragraph shall
+      obligate Altera to grant Distributor any preferential treatment over other
+      distributors in the Territory.
+
+           (b) Neither party shall engage in deceptive, misleading, or unethical
+      practices that are or might be detrimental to the other party, the
+      Products, or the public, including, but not limited to, disparagement of
+      the other party or the Products and use of misleading advertising.
+
+           (c) Neither party shall make false or misleading representations with
+      regard to the other party and will make no representations to customers or
+      to the trade with respect to the specifications, features or capabilities
+      of the Products that are inconsistent with the literature distributed by
+      Altera.
+
+      3.4 Distributor's Financial Condition. Distributor is in satisfactory
+      financial condition, solvent and able to pay its bills when due. Altera
+      will have the right to establish credit limits and other financial
+      requirements as a condition of Distributor's right to place orders with
+      Altera and shall also have the right in its reasonable discretion to
+      change such credit limits and financial requirements at any time. In
+      connection with any decision by Altera to establish a credit limit for
+      Distributor, Distributor will furnish such financial reports and other
+      financial data as Altera may reasonably request as necessary to determine
+      Distributor's financial condition.
+
+      3.5 Compliance With Law. Each party will comply with all applicable
+      international, transnational, national, regional, and local laws and
+      regulations in performing its duties under this Agreement and in any
+      dealings with respect to Products.
+
+      3.6 Compliance With Export Administration Laws. In recognition of U.S. and
+      non-U.S. export control laws and regulations, each party agrees to obtain
+      any necessary export license or other documentation prior to exportation
+      of any Product, or technical data acquired from Altera under this
+      Agreement. Accordingly, neither party shall knowingly sell, export,
+      re-export, transfer, divert or otherwise dispose of any such Product or
+      technical data directly or indirectly to any person, firm or entity, or
+      country or countries, prohibited by the laws or regulations of the United
+      States or any other country. Further, Distributor shall use its
+
+<PAGE>   4
+
+                                                                               4
+
+
+      reasonable best efforts to notify any person, firm or entity obtaining
+      such products or technical data from Distributor of the need to comply
+      with such laws and regulations.
+
+      3.7 Auditing. No more than twice during any year, at reasonable times and
+      upon reasonable prior notice, employees of Altera may (i) conduct a
+      physical inventory of Products in any stocking location (or, in automated
+      facilities, observe cycle counts and related methodology) or (ii) audit
+      such business records, located at Distributor's corporate headquarters as
+      pertain soley to the purchase of Products hereunder during any such year.
+
+4.    ALTERA'S RESPONSIBILITY
+
+      Altera will furnish Distributor without charge a reasonable supply of
+      Altera's current list of published suggested prices, sales literature,
+      books, catalogs, etc. as Altera may prepare for distribution, and shall
+      also provide Distributor with such technical and sales assistance as may
+      be necessary to assist Distributor in effectively carrying out its
+      obligations under this Agreement. Altera reserves the right to sell
+      directly to any and all customers.
+
+5.    ORDER PROCEDURE
+
+      5.1 Orders. Distributor will place individual orders for the Products from
+      time to time during the term of this Agreement either by means of
+      electronic data transmission or in written form. This Agreement shall
+      govern to the extent that any terms in this Agreement are inconsistent
+      with the terms of any agreement between Altera and Distributor relating to
+      electronic data transmission. Each order placed by Distributor will
+      contain the following minimum information: (i) identification of each
+      Product ordered by Product number, quantity, and price; (ii) shipping
+      instructions and destination; and (iii) a requested delivery date for each
+      Product.
+
+      5.2 Acceptance by Altera. All orders for the Products by Distributor shall
+      be subject to acceptance by Altera and shall not be binding until the
+      earlier of such acceptance or shipment, and, in the case of acceptance by
+      shipment, only as to the portion of the order actually shipped. Altera has
+      the right to refuse to accept, for any reason, any order placed by
+      Distributor. Altera shall use its reasonable best efforts to accept any
+      order for non-custom Products within ten (10) days of its receipt.
+
+      5.3 Controlling Terms. The terms of this Agreement will apply to each
+      order accepted or shipped by Altera under this Agreement. In the event
+      that any terms or conditions of sale contained in any communication
+      between Distributor and Altera contradict or are inconsistent with
+      anything contained in this Agreement, the terms and conditions of this
+      Agreement shall prevail. Altera's acceptance of any order from Distributor
+      under this Agreement is conditioned on Distributor agreeing that the terms
+      of this Agreement shall prevail over any additional or inconsistent terms
+      communicated by Distributor to Altera in any form whatsoever.
+
+
+<PAGE>   5
+
+                                                                               5
+
+
+
+      5.4 Quantity. All component orders of custom Products only are subject to
+      an overrun or underrun of five percent (5%) of the quantity ordered which
+      shall constitute fulfillment of the order by Altera.
+
+      5.5  Change Orders and Cancellation by Distributor.
+
+           (a) Standard Products: All orders submitted by Distributor and
+      accepted by Altera are firm commitments by Distributor to buy Altera
+      Products. Distributor will notify Altera in a timely manner of its desire
+      to change any order. Altera shall have the right to deny any change order
+      request submitted by Distributor within ninety (90) days of the current
+      factory scheduled shipment date. However, within the period from thirty
+      (30) to ninety (90) days of the current factory scheduled shipment date,
+      Altera will accommodate reasonable requests for changes. Within the period
+      from zero (0) to thirty (30) days of current factory scheduled shipment
+      date, Altera will accept change orders only in extraordinary
+      circumstances; Altera's shall have the sole right to determine what
+      circumstances are extraordinary. Altera's acceptance of any change order
+      request within 30 days of current factory scheduled shipment shall not
+      obligate Altera to accept future change order requests submitted within 30
+      days of shipment. On an ongoing and regular basis, Distributor will use
+      its best efforts to reconcile its own records of orders on Altera with
+      Altera's records of order backlog.
+
+           (b) Custom Products: From time to time, Distributor may place orders
+      on Altera for Custom Product. (Custom Product is defined as Product that
+      is not listed in Altera's published distributor price list and/or that
+      requires special processing by Altera.) Once accepted by Altera, orders
+      for Custom Product may not be changed in any way without prior approval of
+      Altera. As a pre-condition to approving a request to change an order for
+      Custom Product, Altera may require Distributor to compensate Altera for
+      any costs incurred by Altera as a result of the change order.
+
+      5.6 Cancellation by Altera. Altera reserves the right to cancel any orders
+      placed by Distributor and accepted by Altera as set forth above, or to
+      refuse or delay shipment thereof, if:
+
+           (a) Distributor fails to make any payment as provided in this
+      Agreement or under the terms of payment set forth in any invoice or
+      otherwise agreed to by Altera and Distributor;
+
+           (b) Distributor fails to meet reasonable credit or financial
+      requirements established by Altera, including any limitations on allowable
+      credit;
+
+           (c) Distributor otherwise fails to comply with the terms and
+      conditions of this Agreement;
+
+           (d) this Agreement is terminated and the scheduled delivery would
+      take place after the Agreement's termination date; or
+
+           (e) circumstances beyond Altera's control prevent it from shipping
+      any order by the requested delivery date.
+
+
+<PAGE>   6
+
+                                                                               6
+
+
+
+      Altera also reserves the right to discontinue the manufacture or
+      distribution of any or all of the Products at any time, and to cancel any
+      orders for such discontinued Products without liability of any kind to
+      Distributor or to any other person except as expressly set forth herein.
+      No such discontinuation will be deemed a termination (unless Altera so
+      advises Distributor) or breach of this Agreement by Altera. Altera will
+      attempt, but is not required, to provide Distributor with at least sixty
+      (60) days advance written notice of Product discontinuances in the same
+      manner as is provided to customers in general.
+
+6.    PAYMENT  
+
+      6.1 Terms and Interest. Payment shall be made according to the terms
+      specified in writing by Altera. Interest shall be payable at the rate of
+      one-and-one-half percent (1.5%) per month or at the maximum rate permitted
+      by law, whichever is less, on all overdue and unpaid invoices. Altera has
+      the right to invoice Distributor for any unauthorized discounts or
+      deductions taken by Distributor, and Distributor shall make payment on
+      such invoices net thirty (30) days.
+
+      6.2 Method of Payment. Distributor shall make payment in Dollars as
+      designated by Altera or in such other method as agreed to by the parties
+      in writing.
+
+      6.3 Taxes, Tariffs, and Fees. Unless otherwise agreed in writing by
+      Altera, all prices quoted by Altera for the Products do not include any
+      national, state, or local sales, use, value added or other taxes, customs
+      duties, or similar tariffs and fees. Distributor shall be responsible and
+      liable for the payment of any taxes, customs duties, or other government
+      fees and tariffs applicable to the Products, except for taxes based on
+      Altera's net income, unless Distributor has provided Altera with an
+      exemption resale certificate in the appropriate form for the jurisdiction
+      to which the Products are to be directly shipped. Distributor agrees to
+      indemnify Altera for any claim for taxes, customs duties, or other
+      government fees and tariffs applicable to the Products that may be levied
+      on Altera.
+
+7.    SHIPMENT AND RISK OF LOSS:  
+
+      7.1 Shipment. Orders issued by the Distributor will specify requested
+      shipment dates. Distributor will select the mode of shipment and the
+      carrier. Altera will pay for packing costs. Distributor will be
+      responsible for and pay all charges for shipping, freight, and any
+      insurance requested by Distributor, which charges Altera may require
+      Distributor to pay in advance.
+
+      7.2 Delays in Shipment. Altera will use commercially reasonable efforts to
+      ship products to arrive by any requested delivery dates quoted or
+      acknowledged. However, Altera will not be liable for any delay in shipment
+      or delay in performance under this Agreement due to unforeseen
+      circumstances or due to causes beyond its control including but not
+      limited to, acts of nature, acts of government, labor disputes, delays in
+      transportation, and delays in delivery or inability to deliver by Altera's
+      suppliers.
+
+
+<PAGE>   7
+
+                                                                               7
+
+
+
+      7.3 Risk of Loss. All risk of loss of, or damage to, the Products will
+      pass to Distributor, or to such financing institution or other party or
+      parties as may have been designated to Altera by Distributor, upon
+      delivery by Altera to the carrier, freight forwarder or Distributor,
+      whichever first occurs. Distributor will bear the risk of loss or damage
+      in transit.
+
+8.    PRICES
+
+      8.1 Altera's Prices. Distributor shall purchase products at Altera's
+      prices as are in effect at the time the order is received from the
+      Distributor.
+
+      8.2 Price Changes: From time to time, Altera may decide to change the
+      prices for the Products.
+
+           (a) Price decreases: In the event of a price decrease by Altera,
+      Altera will invoice Distributor at the lower price for all orders placed
+      by Distributor that have not been delivered as of the effective date of
+      the price decrease.
+
+           (b) Price increases: In the event of a price increase, Altera will
+      announce to Distributor its intention to raise prices at least 30 days
+      before the effective date of such a price increase. All orders on Altera's
+      backlog as of the announcement of the price increase and scheduled for
+      delivery by Altera within 30 days of announcement shall be shipped at the
+      price that was effective before the price increase. All other orders shall
+      ship at the new, increased price. Distributor shall have the right to
+      cancel (within ten days of the announcement of a price increase) any
+      orders for Product for which Altera has announced a price increase.
+
+      8.3 Credit for Inventory Invoiced at Higher Price. In the event of a price
+      decrease, Altera shall issue a credit to Distributor in the amount of the
+      price decrease for all unsold Products then stocked by the Distributor
+      provided that Distributor satisfies the terms and conditions specified in
+      subparagraph 8.4 and 8.5(b) and (c).
+
+      8.4 Record Keeping for Price Decrease Credits. As a condition of Altera
+      issuing Distributor a credit pursuant to subparagraph 8.3, Altera must
+      receive an inventory report from Distributor no later than thirty (30)
+      days after the effective date of the price decrease. No credit will be due
+      Distributor if Distributor fails to furnish such inventory report within
+      the thirty-day period. Altera shall have the right to audit the
+      information provided in this report against the previous inventory reports
+      and subsequent resale reports. Altera may conduct such audit upon
+      reasonable notice during normal business hours at the Distributor's place
+      of business by, among other things, reviewing the Distributor's applicable
+      books and records. Upon verification of Distributor's claim for credit,
+      Altera shall issue a credit to Distributor's account.
+
+      8.5  Procedure for Submitting Claims for Credit.
+
+
+<PAGE>   8
+
+                                                                               8
+
+
+
+           (a) Distributor must submit its claims for the following types of
+      credits within sixty days of the following:
+
+                  (i) Price Discrepancies: the date of any invoice that contains
+                  a price discrepancy; or
+
+                  (ii) SSD (ship from stock debit): sales out date.
+
+      Altera will not honor any claims for credit submitted after the sixty-day
+      period.
+
+           (b) All claims for credit must specify the invoice number(s) to
+      which the claim applies.
+
+           (c) If Altera provided Distributor with a discount on its regular
+      prices at the time that Altera invoiced Distributor for the Products that
+      are the subject of a claim for credit, Altera shall subtract from the
+      credit the proportional amount of the prior discount.
+
+9.    STOCK ROTATION AND RETURNS
+
+      9.1 Return of Products. If Altera determines in accordance with its Stock
+      Rotation Policy that Distributor's inventory is overstocked with certain
+      Products, Distributor may return such Products to Altera pursuant to
+      subparagraph 9.2. Products that are obsolete or discontinued may be
+      returned pursuant to subparagraph 9.3 of this Agreement. Returns of
+      Products that are permitted in connection with the termination of this
+      Agreement are subject to paragraph 15. All returns require a Return
+      Material Authorization ("RMA").
+
+           Distributor shall bear all risk of loss or damage during shipment of
+      returned Products and shall ship returned Products in accordance with
+      Altera's reasonable instructions.
+
+             Altera will credit distributor's account in the amount of the net
+      price paid by Distributor for the returned Products after Altera receives
+      the Products and verifies their quantity and quality. All returned
+      Products must be unused, undamaged, and in sealed, factory-shipped boxes.
+      Distributor may not take any deductions from payments due to Altera before
+      Altera has issued a credit to Distributor; Altera will charge interest at
+      the rate of one-and-one-half percent (1.5%) per month or at the maximum
+      rate permitted by law, whichever is less, from the date that Distributor
+      makes any unauthorized deductions.
+
+      9.2 Procedure for Stock Rotations. At regular six-month intervals, Altera
+      will accept a Stock Rotation return from Distributor for the purpose of
+      clearing Distributor's inventory of Product that in Distributor's good
+      faith judgment is unlikely to be sold. Under this provision, Distributor
+      may return to Altera Product valued at up to 5% of Altera's net billings
+      to Distributor for the six months prior to the Stock Rotation. A certain
+      percentage of this amount may be allocated to scrap in accordance with the
+      guidelines established by Altera in the Distributor Policies and
+      Procedures Manual. As a precondition for accepting a Stock Rotation,
+      Altera may require that Distributor take delivery from Altera of Product
+      of value equal to or less than the value of the Product returned.
+
+<PAGE>   9
+
+
+                                                                               9
+
+
+      9.3 Obsolete and Discontinued Products. Altera may render obsolete or
+      discontinue the manufacture and/or sale of any Product ("Discontinued
+      Product") and shall notify Distributor of any Discontinued Product.
+      Distributor shall have the right to return Discontinued Product to Altera.
+      Within thirty (30) days of the last date that orders will be accepted,
+      Distributor shall notify Altera of Distributor's intention to return any
+      Discontinued Product in its inventory which were purchased by Distributor
+      from Altera.
+
+      9.4 Administrative Procedures for Returns. Product returns to Altera
+      pursuant to subparagraphs 9.2, 9.3, and 15.5(c) as well as any other
+      Product returns to Altera are subject to the following provisions:
+
+           (a) Distributor must request and receive from Altera a Return
+      Material Authorization number for each return prior to shipping Product to
+      Altera. Altera will not unreasonably withhold return Material
+      Authorizations.
+
+           (b) Altera retains the right to review all line items prior to return
+      and approve or deny any item requested for return by Distributor. Altera
+      will establish and publish reasonable requirements not inconsistent with
+      the terms hereof for the approval of return line items, and for the
+      handling and packaging of Product to be returned, in order to protect the
+      quality of Altera Products and minimize the administrative expenses to
+      both parties associated with returns.
+
+           (c) Return Material Authorization numbers are valid for 60 days from
+      the date of issuance to Distributor. If Distributor fails to return the
+      Products within that 60-day period, Altera shall not be obligated to
+      accept the Products or to credit Distributor's account for the Products.
+
+      9.5 Defective Products. Defective or non-conforming Products shall be
+      subject to the warranty provision of paragraph 10 of this Agreement.
+
+10.   WARRANTIES
+
+      10.1 Altera's Warranties to Distributor.
+
+           (a) Semiconductor Products and Other Hardware Products. Altera
+      warrants that the Products (other than Software Products) (hereinafter
+      referred to as "Semiconductor Products") covered by this Agreement shall
+      be free from defects in materials and workmanship and shall conform to
+      Altera's published specifications for a period of up to one year from the
+      date of shipment to Distributor's customer but in no event longer than two
+      years from the date of shipment by Altera to Distributor. The foregoing
+      warranty does not apply to any Semiconductor Products that (i) have not
+      been stored, handled, or maintained in accordance with Altera's published
+      quality standards and procedures, including those set out in the
+      Distributor Policies and Procedures Manual, or (ii) have not been
+      programmed in accordance with Altera's published programming standards and
+      procedures, including those set out in the Distributor Policies and
+      Procedures Manual, or (iii) have otherwise been subject to misuse,
+      including static discharge, neglect, accident or modification or (iv) have
+      been soldered or altered and are not capable of being tested by Altera
+      under its normal test conditions. Altera's sole obligation to
+
+<PAGE>   10
+
+                                                                              10
+
+
+      Distributor for Semiconductor Products failing to meet this warranty shall
+      be to replace the defective or non-conforming Semiconductor Products. This
+      obligation is conditioned on all of the following: (1) Distributor or
+      Distributor's customer providing Altera with written notice of any
+      nonconformity or defect within the applicable warranty period, and (2)
+      Distributor or Distributor's customer returning the non-conforming or
+      defective Semiconductor Product to Altera within 30 days of receiving
+      Altera's written notification to do so, and (3) Altera determining that
+      the Semiconductor Product is non-conforming or defective, and (4) Altera
+      determining that this warranty applies to the Semiconductor Product. Any
+      replacement of a Semiconductor Product by Altera shall carry only the
+      unexpired term of the original warranty.
+
+      (b) Software Products. Altera warrants that Software Products covered by
+      this Agreement, when properly installed and used, will perform
+      substantially in accordance with Altera's current Software Products
+      documentation for a period of up to ninety (90) days from the date of
+      shipment to Distributor's customer but in no event longer than one year
+      from the date of shipment to Distributor. Altera warrants the diskette(s)
+      on which Software Products are furnished to be free from defects in
+      materials and workmanship under normal use for a period of up to ninety
+      (90) days from the date of shipment to Distributor's customer but in no
+      event longer than one year from the date of shipment to Distributor. The
+      foregoing warranty does not apply to any Software Products that have been
+      damaged as a result of accident, abuse, misuse, neglect, or modification.
+
+      During the warranty period, (1) Altera will replace any Software Product
+      or diskette not meeting the foregoing warranty and which is returned to
+      Altera; or (2) if Altera is unable to deliver a replacement Software
+      Product which performs substantially in accordance with current Software
+      Product documentation or a diskette which is free of defects in materials
+      or workmanship, Distributor may return the Software Product for a credit
+      in the amount paid by Distributor. Any replacement Programs or diskettes
+      will be warranted for the remainder of the original warranty period or
+      thirty (30) days, whichever is longer.
+
+      (c) THE WARRANTIES CONTAINED IN PARAGRAPH 10 OF THIS AGREEMENT ARE THE
+      ONLY WARRANTIES MADE BY ALTERA WITH RESPECT TO THE PRODUCTS. EXCEPT AS
+      PROVIDED IN PARAGRAPH 10, ALTERA MAKES NO WARRANTIES, EXPRESS OR IMPLIED,
+      INCLUDING ANY WARRANTY OF QUALITY, MERCHANTABILITY, FITNESS FOR A
+      PARTICULAR PURPOSE OR NONINFRINGEMENT. THE WARRANTIES PROVIDED IN
+      PARAGRAPH 10 MAY BE MODIFIED OR AMENDED BY ALTERA ONLY BY WRITTEN
+      INSTRUMENT SIGNED BY A DULY AUTHORIZED AGENT OF ALTERA.
+
+      10.2 Distributor Shall Make No Inconsistent Warranties. Distributor shall
+      make no representation, guarantee or warranty on Altera's behalf to
+      Distributor's customers with respect to the Products that is inconsistent
+      with the above warranties.
+
+11.  ALTERA'S INTELLECTUAL PROPERTY RIGHTS
+
+
+<PAGE>   11
+
+                                                                              11
+
+
+
+      11.1 Trademark Use During Agreement. During the term of this Agreement,
+      Distributor is authorized by Altera to use the Trademarks in connection
+      with Distributor's advertisement, promotion, and distribution of the
+      Products. Distributor shall use the Trademarks only in signs and printed
+      material furnished or approved in writing by an authorized representative
+      of Altera. Distributor shall not use the Trademarks, or any part thereof,
+      separately or in combination, as a part of or in connection with its firm,
+      trade, or corporate name. Distributor's use of the Trademarks will be in
+      accordance with Altera's policies in effect from time to time, including
+      but not limited to trademark usage and co-operative advertising policies.
+
+      11.2 Copyright, Patent, and Trademark Notices. As both a covenant by
+      Distributor and a condition of Altera's sale or license of the Products to
+      Distributor, Distributor will include on each copy of the Products that it
+      distributes, and on all containers and storage media, all copyright,
+      patent, trademark, and other notices of proprietary rights included by
+      Altera on the Products. Distributor agrees not to alter, erase, deface, or
+      overprint any such notice on anything provided by Altera.
+
+      11.3 No Distributor Rights in Altera Intellectual Property Rights.
+      Distributor has paid no consideration for the use of Altera's copyrights,
+      patents, trademarks, or trade secrets and nothing contained in this
+      Agreement shall give Distributor any interest in any of them. Distributor
+      acknowledges that Altera owns or holds a license to all copyrights,
+      patents, trademarks, or trade secrets related to the Products and agrees
+      that it will not knowingly at any time during or after this Agreement
+      assert or claim any interest in or do anything that may adversely affect
+      the validity or enforceability of any copyrights, patents, trademarks, or
+      trade secrets owned by or licensed to Altera (including, without
+      limitation, any act, or assistance to act, which may infringe or lead to
+      the infringement of any copyrights, patents, trademarks, or trade secrets
+      related to the Products). Nothing in this paragraph shall prevent
+      Distributor from challenging the validity of any trademark, copyright, or
+      patent. Distributor agrees not to attach any additional trademarks, logos,
+      or trade names to any Product. Distributor further agrees not to affix any
+      of the Trademarks to any product not manufactured or sold by Altera.
+
+      11.4 No Continuing Rights in Trademarks. Upon expiration or termination of
+      this Agreement, Distributor will immediately cease all display,
+      advertising and use of all Trademarks and will not thereafter use,
+      advertise, or display any name, mark or logo which is, or any part of
+      which is, similar to, or confusing with, any Trademark or other name,
+      mark, logo or designation associated with any Product.
+
+      11.5 Obligation to Protect Proprietary Information. Altera and Distributor
+      have entered into or shall in the future enter into a non-disclosure
+      agreement that shall set forth the parties' obligations to protect
+      proprietary information.
+
+      11.6 Notification of Suspected Infringement. Distributor agrees to notify
+      Altera of any known or suspected infringement of Altera's trademark, trade
+      secret, copyright, and patent rights that comes to Distributor's
+      attention. Distributor also agrees not to induce, encourage, contribute
+      to, or support the infringement of Altera's trademark, trade secret,
+      copyright, and
+
+<PAGE>   12
+
+                                                                              12
+
+
+      patent rights or the breach of the Altera Program License Agreement by
+      Distributor's customers or other third parties.
+
+      11.7  Intellectual Property Indemnification.
+
+           (a) Altera shall defend any suit, proceeding, or claim of
+      infringement asserted against Distributor in the Territory insofar as such
+      suit, proceeding, or claim of infringement alleges that any Product
+      manufactured and supplied by Altera to Distributor infringes any duly
+      issued patent, registered trademark, or copyright and Altera shall pay all
+      damages and costs finally awarded therein against Distributor, provided
+      that Altera promptly is informed and furnished a copy of each
+      communication, notice or other action relating to the alleged infringement
+      and is given authority, information, and assistance (at Altera's expense)
+      necessary to defend or settle said suit or proceeding. Altera shall have
+      the absolute right to control the defense and settlement of any
+      infringement suit or proceeding for which Distributor seeks
+      indemnification under this paragraph. Altera shall not be obligated to
+      defend or be liable for costs and damages if the infringement arises out
+      of (1) Products that are manufactured by Altera in accordance with
+      Distributor's specifications, or (2) the Products being combined with or
+      added to another product, or (3) the Products being modified after
+      delivery to Distributor by Altera (including any programming done by
+      Distributor or Distributor's customer), or (4) from use of the Products,
+      or any part thereof, in the practice of a process. Altera's obligations
+      hereunder shall not apply to any infringement occurring after Distributor
+      has received notice of such suit or proceeding alleging the infringement
+      unless Altera has given written permission for such use by Distributor.
+
+           (b) If any Product manufactured and supplied by Altera to Distributor
+      shall be held by any court in the Territory to infringe any patent,
+      registered trademark, or copyright and Distributor shall be enjoined from
+      using the same, Altera will at its option and at its expense (1) procure
+      for Distributor the right to use such Product free of any liability for
+      infringement or (2) replace such Product with non-infringing substitute
+      Product or (3) refund the purchase price of such Product.
+
+           (c) If the infringement by Distributor is alleged prior to Altera's
+      completion of delivery of the Products, Altera may decline to make further
+      shipments without being in breach of this Agreement.
+
+           (d) If any suit, proceeding, or claim of infringement is asserted
+      against Altera in the Territory based on a claim that the goods
+      manufactured by Altera in compliance with Distributor's specifications and
+      supplied to Distributor directly infringe any duly issued patent,
+      registered trademark, or copyright, then Distributor shall indemnify
+      Altera to the same extent as specified in subparagraph 11.7(a) of this
+      Agreement. However, Distributor shall not be obligated to indemnify Altera
+      for specifications developed solely by Distributor's end customers.
+
+           (e) THE FOREGOING STATES THE SOLE AND EXCLUSIVE LIABILITY OF THE
+      PARTIES HERETO FOR PATENT, TRADEMARK, OR COPYRIGHT
+
+<PAGE>   13
+
+                                                                              13
+
+
+      INFRINGEMENT AND IS IN LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED OR
+      STATUTORY, IN REGARD THERETO.
+
+12.   SOFTWARE LICENSE
+
+      Altera grants and Distributor accepts a non-exclusive license to use and
+      sublicense Altera Software Products and other copyrighted materials,
+      including but not limited to printed materials, on the following terms
+      (the "License"):
+
+      12.1 The Software Products covered by this Agreement are confidential and
+      proprietary to Altera and its licensors, and Altera and its licensors
+      retain all title, copyright, patent and other proprietary rights to the
+      Software Products and all copies thereof.
+
+      12.2 Distributor may sublicense Altera Software Products to its customers
+      for use in a manner that is not inconsistent with the terms of this
+      Agreement. Any sublicense granted to Distributor's customers must be made
+      subject to the terms of the Altera Program License Agreement. Any attempt
+      by Distributor to sublicense Altera Software Products in contravention of
+      this Agreement shall be null and void.
+
+      12.3 Distributor may use Altera Software Products to perform
+      demonstrations of the use of Altera Products, or to train sales people in
+      the use of Altera Products, or to train customers in the use of Altera
+      Products.
+
+      12.4 Distributor may use Altera Software Products to program other Altera
+      Products for Distributor's customers. Distributor may not use Altera
+      Software Products to program non-Altera Products.
+
+      12.5 Distributor may use a single copy of any Software Product only on a
+      single computer or on a single network of workstations.
+
+      12.6 Distributor may make one copy of any Software Product that it has
+      installed on a single computer or single network of workstations at
+      Distributor's place of business in any computer-readable or printed form
+      for back-up or archival purposes only and subject to the terms of this
+      Paragraph 12.
+
+      12.7 Except to the extent permitted in the preceding subparagraph,
+      Distributor may not copy, modify, revise, alter, reverse engineer,
+      decompile or disassemble any Altera Software Product under any
+      circumstance without the prior written permission of Altera.
+
+      12.8 Distributor agrees that it will not open any sealed Altera Software
+      Products that are intended for sublicensing, nor will it sublicense any
+      unsealed Altera Software Products. Distributor will not transfer,
+      sublicense, or give away any copy of an Altera Software Product that was
+      previously installed on any computer or single network of workstations at
+      Distributor's place of business.
+
+
+<PAGE>   14
+
+                                                                              14
+
+
+
+      12.9 The terms of this License shall govern with respect to Distributor's
+      use of Altera Software products in the event that any such terms are
+      inconsistent with or omitted from the Altera Program License Agreement.
+
+13.   CO-OP ADVERTISING AND PROMOTION
+
+      Altera shall establish a fund for payment of advertising, promotion, and
+      Product literature localization costs ("Co-op Fund") in the Territory
+      equal to up to one-half of one percent (1/2%) of the net purchase price of
+      all Products purchased by Distributor during the preceding twelve (12)
+      months. Funds will be accrued on a 12-month rolling basis, and those funds
+      not committed to projects within that period revert to Altera. Specific
+      projects may be proposed by either Altera or Distributor, but only
+      projects that have been approved in writing by Altera will be eligible for
+      payment from the Co-op Fund. 
+
+      If advertising and promotion costs for an approved project are incurred by
+      Altera or any of its affiliate companies, Distributor shall reimburse
+      Altera for up to one-half of the cost of such project; the exact amount of
+      such reimbursement shall be mutually agreed upon by the parties prior to
+      implementation of the project. Distributor shall make such payments to
+      such entity as may be designated by Altera in writing for the benefit of
+      Altera. If advertising and promotion costs for approved projects are
+      incurred by Distributor, Altera shall reimburse Distributor for up to
+      one-half (1/2) of such costs. Altera shall finally determine the exact
+      amount of such reimbursement.
+
+14.   ASSIGNMENT
+
+      This Agreement shall not be assignable by either party without the prior
+      written approval of the other party. Except in the case of a corporate
+      reorganization, a change in the persons or entities who control fifty
+      percent (50%) or more of the equity securities or voting interest of a
+      party shall be considered an assignment of that party's rights.
+
+15.   TERM AND TERMINATION
+
+      15.1 Term. This Agreement shall be in force for a period of one (1) year
+      from the date of this Agreement, which is indicated above. Thereafter,
+      this Agreement shall renew automatically for subsequent periods of one (1)
+      year unless notice of termination is served in accordance with
+      subparagraph 15.2 or this Agreement is terminated without notice pursuant
+      to subparagraph 15.3.
+
+      15.2 Termination With Notice. At any time, either party may terminate this
+      Agreement without cause upon providing the other party with ninety (90)
+      days prior written notice.
+
+      15.3 Termination For Cause. The Agreement may be terminated without notice
+      under the following circumstances:
+
+           (a) If either party is or becomes insolvent or admits its inability
+      to pay its debts as they become due, or makes an assignment for the
+      benefit of creditors, or if there are initiated by or
+
+<PAGE>   15
+
+                                                                              15
+
+
+      against either party proceedings in bankruptcy or under insolvency laws or
+      for reorganization, receivership or dissolution, or if either party ceases
+      to conduct its operations in the normal course of business, the other
+      party shall have the right to terminate this Agreement effective
+      immediately upon giving notice.
+
+           (b) If either party is in breach hereof and does not cure such
+      breach within thirty (30) days of receipt of notice thereof.
+
+      15.4 Waiver of Damages in Event of Termination. The right of termination,
+      as provided herein, is absolute. Both Altera and Distributor have
+      considered the possibility of expenditures necessary in preparing for
+      performance of this Agreement and the possible losses and damage incident
+      to each in the event of termination, and it is understood that neither
+      party shall be liable to the other for damages in any form by reason of
+      the termination of this Agreement at any time, other than as expressively
+      provided in this Agreement.
+
+      15.5  Procedures Upon Termination.
+
+           (a) Unfilled Orders. Upon termination of this Agreement, Altera may,
+      at its option, cancel any or all unfilled orders that were previously
+      accepted by Altera pursuant to subparagraph 5.2. Except in those
+      circumstances governed by subparagraph 5.6 of the Agreement, Altera agrees
+      not to cancel orders which are for Products intended for resale pursuant
+      to firm orders (1) that have been placed by a specific customer with
+      Distributor and are scheduled for delivery within 90 days of the date that
+      notice of termination is given and (2) that Distributor, from among its
+      locations, does not have inventory stock to complete. Distributor shall
+      notify Altera in writing of such firm orders within 30 days of the date
+      that notice of termination is given.
+
+           (b) Promotion. Upon termination of this Agreement, Distributor agrees
+      to discontinue immediately all activities as an Altera Distributor
+      including, without limitation, all use of the Trademarks and all
+      advertising of or reference to Altera Products, except as permitted
+      pursuant to the disposition of inventory of Products pursuant to
+      subparagraph 15.5(c).
+
+           (c) Disposition of Inventory. In the event Altera terminates this
+      Agreement without cause pursuant to subparagraph 15.2 or Distributor
+      terminates on the ground that Altera has breached the Agreement, Altera
+      will repurchase from Distributor at Distributor's option any or all unsold
+      non-discontinued and non-obsolete Products in Distributor's inventory at
+      the net price paid by Distributor. Products returned under this provision
+      are subject to paragraph 9.1. In the event Distributor terminates this
+      Agreement without cause or Altera terminates with cause pursuant to
+      subparagraph 15.3 above, Altera may, at its option, repurchase from
+      Distributor any or all unsold Altera products in Distributor's inventory
+      at the same price as set forth in the sentence immediately preceding. The
+      party terminating this Agreement shall pay all transportation charges for
+      Products returned to Altera.
+
+16.  LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+
+<PAGE>   16
+
+                                                                              16
+
+
+
+      In no event shall either party be liable to the other party for indirect,
+      special, incidental, or consequential damages as a result of any claim or
+      liability relating to or arising out of this Agreement. Distributor shall
+      indemnify Altera for any claims asserted by any third party arising out of
+      or relating to Distributor's breach of this Agreement, negligence, or
+      wrongful conduct.
+
+17.   RELATIONSHIP OF THE PARTIES
+
+      It is expressly understood and agreed that the relationship between Altera
+      and Distributor under this Agreement is solely that of seller and buyer.
+      Distributor is an independent contractor and is in no way Altera's legal
+      representative or agent. Distributor has no authority to assume or create
+      any obligation on behalf of Altera, express or implied, with respect to
+      Products or otherwise. Nothing contained in this Agreement shall be
+      construed as a limitation or restriction upon Altera in the sale or other
+      disposition of any Product to any person, firm or corporation or in any
+      territory or country.
+
+18.   GOVERNING LAW, CHOICE OF FORUM, ATTORNEYS' FEES
+
+      It is expressly agreed that the validity and construction of this
+      Agreement, and performance hereunder, shall be governed by the laws of the
+      State of California, USA. The parties agree to submit to the jurisdiction
+      of the courts in the State of California for the resolution of any dispute
+      or claim arising out of or relating to this Agreement. The parties hereby
+      agree that the party who does not prevail with respect to any dispute,
+      claim, or controversy relating to this Agreement shall pay the costs
+      actually incurred by the prevailing party, including any attorneys' fees.
+
+19.   WAIVER
+
+      Either party's failure to enforce at any time any of the provisions of
+      this Agreement, or any right with respect thereto, or to exercise any
+      option herein provided, shall in no way be construed to be a waiver of
+      such provisions, rights or options or in any way affect the validity of
+      this Agreement. Either party's exercise of any of its rights hereunder or
+      of any options hereunder under the terms or covenants herein shall not
+      preclude or prejudice either party from thereafter exercising the same or
+      any other right it may have under this Agreement, irrespective of any
+      previous action or proceeding taken by either party.
+
+20.   NOTICE
+
+      All notices required by this Agreement shall be sufficiently given and
+      effective when sent by registered or certified mail, return receipt
+      requested, postage prepaid and addressed to the Distributor, attention of
+      the General Counsel, at its principal place of business, as listed above,
+      or to Altera Corporation, attention General Counsel, 101 Innovation Drive,
+      San Jose, California 95134-1941, or to such other place or places as the
+      parties hereto may designate in writing. If notice is given in any other
+      manner, it shall be effective when received.
+
+21.   CAPTIONS
+
+
+<PAGE>   17
+
+                                                                              17
+
+
+
+      The captions of the sections herein are intended for convenience only, and
+      the same shall not be determined to be interpretive of the content of such
+      section.
+
+22.   SEVERABLITY
+
+      If any provision, or part of a provision of this Agreement is invalidated
+      by operation of law or otherwise, the provision or part will to that
+      extent be deemed omitted and the remainder of this Agreement will remain
+      in full force and effect.
+
+23.   COMPLETE AGREEMENT
+
+      This Agreement supersedes and cancels any previous understanding or
+      agreements, whether written or oral, between the parties relating to the
+      subject matter hereof, including any existing distribution agreement
+      involving Altera semiconductor products. This Agreement supersedes but
+      does not cancel the Demand Creation Agreement between the parties dated
+      September 1, 1998. It expresses the complete and final understanding with
+      respect to the subject matter hereof and may not be changed in any way
+      except by an instrument in writing signed by authorized representatives of
+      both parties.
+
+      IN WITNESS WHEREOF, the parties have caused this Agreement to be executed
+      by their duly authorized representatives and to become effective as of the
+      day and year first written above.
+
+ARROW ELECTRONICS INCORPORATED        ALTERA CORPORATION
+- ----------------------------------    ----------------------------------------
+
+
+
+BY:                                   BY:
+- ----------------------------------    ----------------------------------------
+(Name):                               (Name):
+
+
+TITLE:                                TITLE:
+- ----------------------------------    ----------------------------------------
+
+DATE:                                 DATE:
+- ----------------------------------    ----------------------------------------
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.54
+<SEQUENCE>3
+<DESCRIPTION>DISTRIBUTION AGREEMENT
+<TEXT>
+
+<PAGE>   1
+                                                                   EXHIBIT 10.54
+
+                             DISTRIBUTION AGREEMENT
+
+
+           This Distribution Agreement (hereinafter referred to as the
+      "Agreement") is made and entered into as of this 26th day of January 1999,
+      between Altera Corporation, having its principal place of business at 101
+      Innovation Drive, San Jose, California 95134 (hereinafter referred to as
+      "Altera") and Wyle Electronics Incorporated, having its principal place of
+      business at 15370 Barrranca Parkway, Irvine, CA 92618, (hereinafter
+      referred to as "Distributor").
+
+           WITNESSETH:
+
+           WHEREAS, Altera is the owner, manufacturer, and developer of certain
+      Products defined below, and
+
+           WHEREAS, Distributor wishes to be appointed as a non-exclusive
+      distributor of the Products under the terms and conditions of this
+      Agreement;
+
+           NOW THEREFORE, the parties agree as follows:
+
+1.    DEFINITIONS
+
+      1.1 "Products" or "Product" means semiconductor components, programming
+      hardware, Software Products, and related materials that may be offered for
+      sale by Altera in the ordinary course of business and that have not been
+      excluded from the definition of Products by written notice from Altera to
+      Distributor.
+
+      1.2 "Sale" or "Purchase" shall also be understood to mean "License".
+
+      1.3 "Software Products" means software development tools for programmable
+      logic design, simulation, testing, and for programming as offered for
+      license by Altera in the ordinary course of business.
+
+      1.4 "Territory" means the following geographic area: The United States.
+
+      1.5 "Trademarks" means (i) both the name "Altera" and the corresponding
+      stylized mark and logotype; and (ii) the trademarks, tradenames, and
+      service marks of the Products and the respective stylized marks and
+      logotypes for such trademarks, tradenames, and service marks.
+
+2.    APPOINTMENT
+
+      Altera hereby appoints Distributor and Distributor hereby accepts the
+      appointment, as a non-exclusive Distributor of the Products within the
+      Territory.
+
+
+<PAGE>   2
+
+                                                                               2
+
+
+
+3.    DISTRIBUTOR RESPONSIBILITIES
+
+      3.1 Promotion and Sales Efforts. Distributor shall use its reasonable best
+      efforts to:
+
+           (a) Promote the sales of and distribute Products within the
+      Territory. Distributor shall not solicit sales of Products outside the
+      Territory.
+
+           (b) Obtain directly from Altera and authorized Altera distributors
+      100% of its requirements of Altera products.
+
+           (c) Make full use of all promotional material supplied by Altera.
+
+           (d) Maintain the total dollar value of inventory of Products at
+      Distributor equal to or greater than two months of resales.
+
+           (e) Maintain inventories of a broad selection of Products, especially
+      newly introduced Products, sufficient to satisfy the needs of large and
+      small customers in a timely manner.
+
+           (f) Provide and maintain adequate sales facilities and sales and
+      support personnel in accordance with reasonable standards that from time
+      to time are established by Altera and that are reasonably agreed to by
+      Distributor.
+
+           (g) Provide and maintain Product programming facilities, equipment,
+      and personnel in accordance with reasonable standards that from time to
+      time are established by Altera and that are reasonably agreed to by
+      Distributor.
+
+           (h) Make available sales, engineering, and support personnel to
+      attend Altera sponsored training.
+
+           (i) Keep Altera informed of industry trends and competitive
+      conditions that may affect the sale of Altera Products.
+
+           (j) Adhere to operational policies and procedures that Altera will
+      publish and provide to Distributor (and revise from time to time),
+      including the Distributor Policies and Procedures Manual, in order to
+      fulfill the provisions of this Agreement, to facilitate Altera's business
+      with Distributors, and promote sales to customers. In the event of any
+      inconsistency between such published operational policies and the
+      provisions of this Agreement, the provisions of this Agreement shall
+      govern.
+
+      3.2 Monthly Reporting Responsibilities. On or before the expiration of
+      five (5) working days after the end of each month, Distributor shall
+      provide a confidential report to Altera containing the following
+      information as well as any other information reasonably requested by
+      Altera from time to time:
+
+           (a) a sales report which contains the names of purchasers,
+      locations, part numbers, quantity and Dollar value of Products sold in
+      each such month; the part numbers, quantity
+
+<PAGE>   3
+
+                                                                               3
+
+
+      and dollar value of any Products returned to Distributor by customers; and
+      any ship from stock and debit ("SSD") numbers; and
+
+           (b) an inventory report which contains a listing by part number and
+      quantity of all Products in stock as of the end of such month.
+
+      This monthly reporting is to be in the form of direct data transmission or
+      magnetic media in standard computer readable format.
+
+      3.3  Mutual Covenants.
+
+           (a) The Parties agree to conduct business in a manner that reflects
+      favorably at all times on the Products and the good name, goodwill and
+      reputation of one another. However, nothing in this paragraph shall
+      obligate Altera to grant Distributor any preferential treatment over other
+      distributors in the Territory.
+
+           (b) Neither party shall engage in deceptive, misleading, or unethical
+      practices that are or might be detrimental to the other party, the
+      Products, or the public, including, but not limited to, disparagement of
+      the other party or the Products and use of misleading advertising.
+
+           (c) Neither party shall make false or misleading representations with
+      regard to the other party and will make no representations to customers or
+      to the trade with respect to the specifications, features or capabilities
+      of the Products that are inconsistent with the literature distributed by
+      Altera.
+
+      3.4 Distributor's Financial Condition. Distributor is in satisfactory
+      financial condition, solvent and able to pay its bills when due. Altera
+      will have the right to establish credit limits and other financial
+      requirements as a condition of Distributor's right to place orders with
+      Altera and shall also have the right in its reasonable discretion to
+      change such credit limits and financial requirements at any time. In
+      connection with any decision by Altera to establish a credit limit for
+      Distributor, Distributor will furnish such financial reports and other
+      financial data as Altera may reasonably request as necessary to determine
+      Distributor's financial condition.
+
+      3.5 Compliance With Law. Each party will comply with all applicable
+      international, transnational, national, regional, and local laws and
+      regulations in performing its duties under this Agreement and in any
+      dealings with respect to Products.
+
+      3.6 Compliance With Export Administration Laws. In recognition of U.S. and
+      non-U.S. export control laws and regulations, each party agrees to obtain
+      any necessary export license or other documentation prior to exportation
+      of any Product, or technical data acquired from Altera under this
+      Agreement. Accordingly, neither party shall knowingly sell, export,
+      re-export, transfer, divert or otherwise dispose of any such Product or
+      technical data directly or indirectly to any person, firm or entity, or
+      country or countries, prohibited by the laws or regulations of the United
+      States or any other country. Further, Distributor shall use its
+
+<PAGE>   4
+
+                                                                               4
+
+
+      reasonable best efforts to notify any person, firm or entity obtaining
+      such products or technical data from Distributor of the need to comply
+      with such laws and regulations.
+
+4.    ALTERA'S RESPONSIBILITY
+
+      Altera will furnish Distributor without charge a reasonable supply of
+      Altera's current list of published suggested prices, sales literature,
+      books, catalogs, etc. as Altera may prepare for distribution, and shall
+      also provide Distributor with such technical and sales assistance as may
+      be necessary to assist Distributor in effectively carrying out its
+      obligations under this Agreement. Altera reserves the right to sell
+      directly to any and all customers.
+
+5.    ORDER PROCEDURE
+
+      5.1 Orders. Distributor will place individual orders for the Products from
+      time to time during the term of this Agreement either by means of
+      electronic data transmission or in written form. This Agreement shall
+      govern to the extent that any terms in this Agreement are inconsistent
+      with the terms of any agreement between Altera and Distributor relating to
+      electronic data transmission. Each order placed by Distributor will
+      contain the following minimum information: (i) identification of each
+      Product ordered by Product number, quantity, and price; (ii) shipping
+      instructions and destination; and (iii) a requested delivery date for each
+      Product.
+
+      5.2 Acceptance by Altera. All orders for the Products by Distributor shall
+      be subject to acceptance by Altera and shall not be binding until the
+      earlier of such acceptance or shipment, and, in the case of acceptance by
+      shipment, only as to the portion of the order actually shipped. Altera
+      shall use its reasonable best efforts in completing any open portion of a
+      partial shipment of an order. Altera has the right to refuse to accept,
+      for any reason, any order placed by Distributor. Altera shall use its
+      reasonable best efforts to accept any order for non-custom Products within
+      ten (10) days of its receipt.
+
+      5.3 Controlling Terms. The terms of this Agreement will apply to each
+      order accepted or shipped by Altera under this Agreement. In the event
+      that any terms or conditions of sale contained in any communication
+      between Distributor and Altera contradict or are inconsistent with
+      anything contained in this Agreement, the terms and conditions of this
+      Agreement shall prevail. Altera's acceptance of any order from Distributor
+      under this Agreement is conditioned on Distributor agreeing that the terms
+      of this Agreement shall prevail over any additional or inconsistent terms
+      communicated by Distributor to Altera in any form whatsoever.
+
+      5.4 Quantity. All component orders of custom Products only are subject to
+      an overrun or underrun of five percent (5%) of the quantity ordered which
+      shall constitute fulfillment of the order by Altera.
+
+      5.5 Change Orders and Cancellation by Distributor.
+
+<PAGE>   5
+
+                                                                               5
+
+
+
+
+           (a) Standard Products: All orders submitted by Distributor and
+      accepted by Altera are firm commitments by Distributor to buy Altera
+      Products. Distributor will notify Altera in a timely manner of its desire
+      to change any order. Altera shall have the right to deny any change order
+      request submitted by Distributor within ninety (90) days of the current
+      factory scheduled shipment date. However, within the period from thirty
+      (30) to ninety (90) days of the current factory scheduled shipment date,
+      Altera will use its best efforts to accommodate reasonable requests for
+      changes. Within the period from zero (0) to thirty (30) days of current
+      factory scheduled shipment date, Altera will accept change orders only in
+      extraordinary circumstances; Altera's shall have the sole right to
+      determine what circumstances are extraordinary. Altera's acceptance of any
+      change order request within 30 days of current factory scheduled shipment
+      shall not obligate Altera to accept future change order requests submitted
+      within 30 days of shipment. On an ongoing and regular basis, Distributor
+      will use its best efforts to reconcile its own records of orders on Altera
+      with Altera's records of order backlog.
+
+           (b) Custom Products: From time to time, Distributor may place orders
+      on Altera for Custom Product. (Custom Product is defined as Product that
+      is not listed in Altera's published distributor price list and/or that
+      requires special processing by Altera.) Once accepted by Altera, orders
+      for Custom Product may not be changed in any way without prior approval of
+      Altera. As a pre-condition to approving a request to change an order for
+      Custom Product, Altera may require Distributor to compensate Altera for
+      any costs incurred by Altera as a result of the change order.
+
+      5.6 Cancellation by Altera. Altera reserves the right to cancel any orders
+      placed by Distributor and accepted by Altera as set forth above, or to
+      refuse or delay shipment thereof, if:
+
+           (a) Distributor fails to make any payment as provided in this
+      Agreement or under the terms of payment set forth in any invoice or
+      otherwise agreed to by Altera and Distributor;
+
+           (b) Distributor fails to meet reasonable credit or financial
+      requirements established by Altera, including any limitations on allowable
+      credit;
+
+           (c) Distributor otherwise fails to comply with the terms and
+      conditions of this Agreement;
+
+           (d) this Agreement is terminated and the scheduled delivery would
+      take place after the Agreement's termination date; or
+
+           (e) circumstances beyond Altera's control prevent it from shipping
+      any order by the requested delivery date.
+
+           Altera also reserves the right to discontinue the manufacture or
+      distribution of any or all of the Products at any time, and to cancel any
+      orders for such discontinued Products without liability of any kind to
+      Distributor or to any other person except as expressly set forth herein.
+      No such discontinuation will be deemed a termination (unless Altera so
+      advises Distributor)
+
+<PAGE>   6
+
+                                                                               6
+
+
+      or breach of this Agreement by Altera. Altera will provide Distributor
+      with notice of product discontinuances in accordance with ISO Standards
+      Book, 01P-01454-01, as amended or updated.
+
+6.    PAYMENT
+
+      6.1 Terms and Interest. Payment shall be made according to the terms
+      specified in writing by Altera. Interest shall be payable at the rate of
+      one-and-one-half percent (1.5%) per month or at the maximum rate permitted
+      by law, whichever is less, on all overdue and unpaid invoices. Altera has
+      the right to invoice Distributor for any unauthorized discounts or
+      deductions taken by Distributor, and Distributor shall make payment on
+      such invoices net thirty (30) days.
+
+      6.2 Method of Payment. Distributor shall make payment in Dollars as
+      designated by Altera or in such other method as agreed to by the parties
+      in writing.
+
+      6.3 Taxes, Tariffs, and Fees. Unless otherwise agreed in writing by
+      Altera, all prices quoted by Altera for the Products do not include any
+      national, state, or local sales, use, value added or other taxes, customs
+      duties, or similar tariffs and fees. Distributor shall be responsible and
+      liable for the payment of any taxes, customs duties, or other government
+      fees and tariffs applicable to the Products, except for taxes based on
+      Altera's net income, unless Distributor has provided Altera with an
+      exemption resale certificate in the appropriate form for the jurisdiction
+      to which the Products are to be directly shipped. Distributor agrees to
+      indemnify Altera for any claim for taxes, customs duties, or other
+      government fees and tariffs applicable to the Products that may be levied
+      on Altera.
+
+7.    SHIPMENT AND RISK OF LOSS
+
+      7.1 Shipment. Orders issued by the Distributor will specify requested
+      shipment dates. Distributor will select the mode of shipment and the
+      carrier. Altera will pay for packing costs. Distributor will be
+      responsible for and pay all charges for shipping, freight, and any
+      insurance requested by Distributor, which charges Altera may require
+      Distributor to pay in advance.
+
+      7.2 Delays in Shipment. Altera will use commercially reasonable efforts to
+      ship products to arrive by any requested delivery dates quoted or
+      acknowledged. However, Altera will not be liable for any delay in shipment
+      or delay in performance under this Agreement due to unforeseen
+      circumstances or due to causes beyond its control including but not
+      limited to, acts of nature, acts of government, labor disputes, delays in
+      transportation, and delays in delivery or inability to deliver by Altera's
+      suppliers.
+
+      7.3 Risk of Loss. All risk of loss of, or damage to, the Products will
+      pass to Distributor, or to such financing institution or other party or
+      parties as may have been designated to Altera by Distributor, upon
+      delivery by Altera to the carrier, freight forwarder or Distributor,
+      whichever first occurs. Distributor will bear the risk of loss or damage
+      in transit.
+
+
+<PAGE>   7
+
+                                                                               7
+
+
+8.    PRICES
+
+      8.1 Altera's Prices. Distributor shall purchase products at Altera's
+      prices as are in effect at the time the order is received from the
+      Distributor.
+
+      8.2 Price Changes: From time to time, Altera may decide to change the
+      prices for the Products.
+
+           (a) Price decreases: In the event of a price decrease by Altera,
+      Altera will invoice Distributor at the lower price for all orders placed
+      by Distributor that have not been delivered as of the effective date of
+      the price decrease.
+
+           (b) Price increases: In the event of a price increase, Altera will
+      announce to Distributor its intention to raise prices at least 30 days
+      before the effective date of such a price increase. All orders on Altera's
+      backlog as of the announcement of the price increase and scheduled for
+      delivery by Altera within 30 days of announcement shall be shipped at the
+      price that was effective before the price increase. All other orders shall
+      ship at the new, increased price. Distributor shall have the right to
+      cancel (within ten days of the announcement of a price increase) any
+      orders for Product for which Altera has announced a price increase.
+
+      8.3 Credit for Inventory Invoiced at Higher Price. In the event of a price
+      decrease, Altera shall issue a credit to Distributor in the amount of the
+      price decrease for all unsold Products then stocked by the Distributor
+      provided that Distributor satisfies the terms and conditions specified in
+      subparagraph 8.4 and 8.5(b) and (c).
+
+      8.4 Record Keeping for Price Decrease Credits. As a condition of Altera
+      issuing Distributor a credit pursuant to subparagraph 8.3, Altera must
+      receive an inventory report from Distributor no later than thirty (30)
+      days after the effective date of the price decrease. No credit will be due
+      Distributor if Distributor fails to furnish such inventory report within
+      the thirty-day period. Altera shall have the right to audit the
+      information provided in this report against the previous inventory reports
+      and subsequent resale reports. Altera may conduct such audit upon
+      reasonable notice during normal business hours at the Distributor's place
+      of business by, among other things, reviewing the Distributor's applicable
+      books and records. Upon verification of Distributor's claim for credit,
+      Altera shall issue a credit to Distributor's account.
+
+      8.5  Procedure for Submitting Claims for Credit.
+
+           (a) Distributor must submit its claims for the following types of
+      credits within sixty days of the following:
+
+                  (i) Price Discrepancies: the date of any invoice that contains
+            a price discrepancy; or
+
+
+<PAGE>   8
+
+                                                                               8
+
+                  (ii) SSD (ship from stock debit): sales out date.
+
+      Altera will not honor any claims for credit submitted after the sixty-day
+      period.
+
+           (b) All claims for credit must specify the invoice number(s) to
+      which the claim applies.
+
+           (c) If Altera provided Distributor with a discount on its regular
+      prices at the time that Altera invoiced Distributor for the Products that
+      are the subject of a claim for credit, Altera shall subtract from the
+      credit the proportional amount of the prior discount.
+
+9.    STOCK ROTATION AND RETURNS
+
+      9.1 Return of Products. If Altera determines in accordance with its Stock
+      Rotation Policy that Distributor's inventory is overstocked with certain
+      Products, Distributor may return such Products to Altera pursuant to
+      subparagraph 9.2. Products that are obsolete or discontinued may be
+      returned pursuant to subparagraph 9.3 of this Agreement. Returns of
+      Products that are permitted in connection with the termination of this
+      Agreement are subject to paragraph 15. All returns require a Return
+      Material Authorization ("RMA").
+
+           Distributor shall bear all risk of loss or damage during shipment of
+      returned Products and shall ship returned Products in accordance with
+      Altera's reasonable instructions.
+
+             Altera will credit distributor's account in the amount of the net
+      price paid by Distributor for the returned Products after Altera receives
+      the Products and verifies their quantity and quality. All returned
+      Products must be unused, undamaged, and in sealed, factory-shipped boxes.
+      Distributor may not take any deductions from payments due to Altera before
+      Altera has issued a credit to Distributor; Altera will charge interest at
+      the rate of one-and-one-half percent (1.5%) per month or at the maximum
+      rate permitted by law, whichever is less, from the date that Distributor
+      makes any unauthorized deductions.
+
+      9.2 Procedure for Stock Rotations. At regular six-month intervals, Altera
+      will accept a Stock Rotation return from Distributor for the purpose of
+      clearing Distributor's inventory of Product that in Distributor's good
+      faith judgment is unlikely to be sold. Under this provision, Distributor
+      may return to Altera Product valued at up to 5% of Altera's net billings
+      to Distributor for the six months prior to the Stock Rotation. As a
+      precondition for accepting a Stock Rotation, Altera may require that
+      Distributor take delivery from Altera of Product of value equal to or less
+      than the value of the Product returned.
+
+           9.3 Obsolete and Discontinued Products. Altera may render obsolete or
+      discontinue the manufacture and/or sale of any Product ("Discontinued
+      Product") and shall notify Distributor of any Discontinued Product.
+      Distributor shall have the right to return Discontinued Product to Altera.
+      Within thirty (30) days of the last date that orders will be accepted,
+      Distributor shall notify Altera of Distributor's intention to return any
+      Discontinued Product in its inventory which were purchased by Distributor
+      from Altera.
+
+<PAGE>   9
+
+                                                                               9
+
+
+
+      9.4 Administrative Procedures for Returns. Product returns to Altera
+      pursuant to subparagraphs 9.2, 9.3, and 15.5(c) as well as any other
+      Product returns to Altera are subject to the following provisions:
+
+           (a) Distributor must request and receive from Altera a Return
+      Material Authorization number for each return prior to shipping Product to
+      Altera. Altera will not unreasonably withhold return Material
+      Authorizations.
+
+           (b) Altera retains the right to review all line items prior to return
+      and approve or deny any item requested for return by Distributor. Altera
+      will establish and publish reasonable requirements not inconsistent with
+      the terms hereof for the approval of return line items, and for the
+      handling and packaging of Product to be returned, in order to protect the
+      quality of Altera Products and minimize the administrative expenses to
+      both parties associated with returns.
+
+           (c) Return Material Authorization numbers are valid for 60 days from
+      the date of issuance to Distributor. If Distributor fails to return the
+      Products within that 60-day period, Altera shall not be obligated to
+      accept the Products or to credit Distributor's account for the Products.
+
+      9.5 Defective Products. Defective or non-conforming Products shall be
+      subject to the warranty provision of paragraph 10 of this Agreement.
+
+10.   WARRANTIES
+
+      10.1 Altera's Warranties to Distributor.
+
+           (a) Semiconductor Products and Other Hardware Products. Altera
+      warrants that the Products (other than Software Products) (hereinafter
+      referred to as "Semiconductor Products") covered by this Agreement shall
+      be free from defects in materials and workmanship and shall conform to
+      Altera's published specifications for a period of up to one year from the
+      date of shipment to Distributor's customer but in no event longer than two
+      years from the date of shipment by Altera to Distributor. The foregoing
+      warranty does not apply to any Semiconductor Products that (i) have not
+      been stored, handled, or maintained in accordance with Altera's published
+      quality standards and procedures, including those set out in the
+      Distributor Policies and Procedures Manual, or (ii) have not been
+      programmed in accordance with Altera's published programming standards and
+      procedures, including those set out in the Distributor Policies and
+      Procedures Manual, or (iii) have otherwise been subject to misuse,
+      including static discharge, neglect, accident or modification or (iv) have
+      been soldered or altered and are not capable of being tested by Altera
+      under its normal test conditions. Altera's sole obligation to Distributor
+      for Semiconductor Products failing to meet this warranty shall be to
+      replace the defective or non-conforming Semiconductor Products. This
+      obligation is conditioned on all of the following: (1) Distributor or
+      Distributor's customer providing Altera with written notice of any
+      nonconformity or defect within the applicable warranty period, and (2)
+      Distributor or Distributor's customer returning the non-conforming or
+      defective Semiconductor Product to Altera within 30 days of receiving
+      Altera's written notification to do so, and (3) Altera determining that
+      the Semiconductor Product is non-conforming or
+
+<PAGE>   10
+
+                                                                              10
+
+
+      defective, and (4) Altera determining that this warranty applies to the
+      Semiconductor Product. Any replacement of a Semiconductor Product by
+      Altera shall carry only the unexpired term of the original warranty.
+
+           (b) Software Products. Altera warrants that Software Products covered
+      by this Agreement, when properly installed and used, will perform
+      substantially in accordance with Altera's current Software Products
+      documentation for a period of up to ninety (90) days from the date of
+      shipment to Distributor's customer but in no event longer than one year
+      from the date of shipment to Distributor. Altera warrants the diskette(s)
+      on which Software Products are furnished to be free from defects in
+      materials and workmanship under normal use for a period of up to ninety
+      (90) days from the date of shipment to Distributor's customer but in no
+      event longer than one year from the date of shipment to Distributor. The
+      foregoing warranty does not apply to any Software Products that have been
+      damaged as a result of accident, abuse, misuse, neglect, or modification.
+
+      During the warranty period, (1) Altera will replace any Software Product
+      or diskette not meeting the foregoing warranty and which is returned to
+      Altera; or (2) if Altera is unable to deliver a replacement Software
+      Product which performs substantially in accordance with current Software
+      Product documentation or a diskette which is free of defects in materials
+      or workmanship, Distributor may return the Software Product for a credit
+      in the amount paid by Distributor. Any replacement Programs or diskettes
+      will be warranted for the remainder of the original warranty period or
+      thirty (30) days, whichever is longer.
+
+           (c) THE WARRANTIES CONTAINED IN PARAGRAPH 10 OF THIS AGREEMENT ARE
+      THE ONLY WARRANTIES MADE BY ALTERA WITH RESPECT TO THE PRODUCTS. EXCEPT AS
+      PROVIDED IN PARAGRAPH 10, ALTERA MAKES NO WARRANTIES, EXPRESS OR IMPLIED,
+      INCLUDING ANY WARRANTY OF QUALITY, MERCHANTABILITY, FITNESS FOR A
+      PARTICULAR PURPOSE OR NONINFRINGEMENT. THE WARRANTIES PROVIDED IN
+      PARAGRAPH 10 MAY BE MODIFIED OR AMENDED BY ALTERA ONLY BY WRITTEN
+      INSTRUMENT SIGNED BY A DULY AUTHORIZED AGENT OF ALTERA.
+
+      10.2 Distributor Shall Make No Inconsistent Warranties. Distributor shall
+      make no representation, guarantee or warranty on Altera's behalf to
+      Distributor's customers with respect to the Products that is inconsistent
+      with the above warranties.
+
+11.   ALTERA'S INTELLECTUAL PROPERTY RIGHTS
+
+      11.1 Trademark Use During Agreement. During the term of this Agreement,
+      Distributor is authorized by Altera to use the Trademarks in connection
+      with Distributor's advertisement, promotion, and distribution of the
+      Products. Distributor shall use the Trademarks only in signs and printed
+      material furnished or approved in writing by an authorized representative
+      of Altera. Distributor shall not use the Trademarks, or any part thereof,
+      separately or in combination, as a part of or in connection with its firm,
+      trade, or corporate name. Distributor's use of the Trademarks will be in
+      accordance with Altera's policies in effect
+
+<PAGE>   11
+
+                                                                              11
+
+
+      from time to time, including but not limited to trademark usage and
+      co-operative advertising policies.
+
+      11.2 Copyright, Patent, and Trademark Notices. As both a covenant by
+      Distributor and a condition of Altera's sale or license of the Products to
+      Distributor, Distributor will include on each copy of the Products that it
+      distributes, and on all containers and storage media, all copyright,
+      patent, trademark, and other notices of proprietary rights included by
+      Altera on the Products. Distributor agrees not to alter, erase, deface, or
+      overprint any such notice on anything provided by Altera.
+
+      11.3 No Distributor Rights in Altera Intellectual Property Rights.
+      Distributor has paid no consideration for the use of Altera's copyrights,
+      patents, trademarks, or trade secrets and nothing contained in this
+      Agreement shall give Distributor any interest in any of them. Distributor
+      acknowledges that Altera owns or holds a license to all copyrights,
+      patents, trademarks, or trade secrets related to the Products and agrees
+      that it will not knowingly at any time during or after this Agreement
+      assert or claim any interest in or do anything that may adversely affect
+      the validity or enforceability of any copyrights, patents, trademarks, or
+      trade secrets owned by or licensed to Altera (including, without
+      limitation, any act, or assistance to act, which may infringe or lead to
+      the infringement of any copyrights, patents, trademarks, or trade secrets
+      related to the Products). Nothing in this paragraph shall prevent
+      Distributor from challenging the validity of any trademark, copyright, or
+      patent. Distributor agrees not to attach any additional trademarks, logos,
+      or trade names to any Product. Distributor further agrees not to affix any
+      of the Trademarks to any product not manufactured or sold by Altera.
+
+      11.4 No Continuing Rights in Trademarks. Upon expiration or termination of
+      this Agreement, Distributor will immediately cease all display,
+      advertising and use of all Trademarks and will not thereafter use,
+      advertise, or display any name, mark or logo which is, or any part of
+      which is, similar to, or confusing with, any Trademark or other name,
+      mark, logo or designation associated with any Product.
+
+      11.5 Obligation to Protect Proprietary Information. Altera and Distributor
+      have entered into or shall in the future enter into a non-disclosure
+      agreement that shall set forth the parties' obligations to protect
+      proprietary information.
+
+      11.6 Notification of Suspected Infringement. Distributor agrees to notify
+      Altera of any known or suspected infringement of Altera's trademark, trade
+      secret, copyright, and patent rights that comes to Distributor's
+      attention. Distributor also agrees not to induce, encourage, contribute
+      to, or support the infringement of Altera's trademark, trade secret,
+      copyright, and patent rights or the breach of the Altera Program License
+      Agreement by Distributor's customers or other third parties.
+
+
+<PAGE>   12
+
+                                                                              12
+
+
+
+      11.7  Intellectual Property Indemnification.
+
+           (a) Altera shall defend any suit, proceeding, or claim of
+      infringement asserted against Distributor in the Territory insofar as such
+      suit, proceeding, or claim of infringement alleges that any Product
+      manufactured and supplied by Altera to Distributor infringes any duly
+      issued patent, registered trademark, or copyright and Altera shall pay all
+      damages and costs finally awarded therein against Distributor, provided
+      that Altera promptly is informed and furnished a copy of each
+      communication, notice or other action relating to the alleged infringement
+      and is given authority, information, and assistance (at Altera's expense)
+      necessary to defend or settle said suit or proceeding. Altera shall have
+      the absolute right to control the defense and settlement of any
+      infringement suit or proceeding for which Distributor seeks
+      indemnification under this paragraph. Altera shall not be obligated to
+      defend or be liable for costs and damages if the infringement arises out
+      of (1) Products that are manufactured by Altera in accordance with
+      Distributor's specifications, or (2) the Products being combined with or
+      added to another product, or (3) the Products being modified after
+      delivery to Distributor by Altera (including any programming done by
+      Distributor or Distributor's customer), or (4) from use of the Products,
+      or any part thereof, in the practice of a process. Altera's obligations
+      hereunder shall not apply to any infringement occurring after Distributor
+      has received notice of such suit or proceeding alleging the infringement
+      unless Altera has given written permission for such use by Distributor.
+
+           (b) If any Product manufactured and supplied by Altera to Distributor
+      shall be held by any court in the Territory to infringe any patent,
+      registered trademark, or copyright and Distributor shall be enjoined from
+      using the same, Altera will at its option and at its expense (1) procure
+      for Distributor the right to use such Product free of any liability for
+      infringement or (2) replace such Product with non-infringing substitute
+      Product or (3) refund the purchase price of such Product.
+
+           (c) If the infringement by Distributor is alleged prior to Altera's
+      completion of delivery of the Products, Altera may decline to make further
+      shipments without being in breach of this Agreement.
+
+           (d) If any suit, proceeding, or claim of infringement is asserted
+      against Altera in the Territory based on a claim that the goods
+      manufactured by Altera in compliance with Distributor's specifications and
+      supplied to Distributor directly infringe any duly issued patent,
+      registered trademark, or copyright, then Distributor shall indemnify
+      Altera to the same extent as specified in subparagraph 11.7(a) of this
+      Agreement. However, Distributor shall not be obligated to indemnify Altera
+      for specifications developed solely by Distributor's end customers.
+
+           (e) THE FOREGOING STATES THE SOLE AND EXCLUSIVE LIABILITY OF THE
+      PARTIES HERETO FOR PATENT, TRADEMARK, OR COPYRIGHT INFRINGEMENT AND IS IN
+      LIEU OF ALL WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, IN REGARD THERETO.
+
+<PAGE>   13
+
+                                                                              13
+
+
+12.   SOFTWARE LICENSE
+
+      Altera grants and Distributor accepts a non-exclusive license to use and
+      sublicense Altera Software Products and other copyrighted materials,
+      including but not limited to printed materials, on the following terms
+      (the "License"):
+
+      12.1 The Software Products covered by this Agreement are confidential and
+      proprietary to Altera and its licensors, and Altera and its licensors
+      retain all title, copyright, patent and other proprietary rights to the
+      Software Products and all copies thereof.
+
+      12.2 Distributor may sublicense Altera Software Products to its customers
+      for use in a manner that is not inconsistent with the terms of this
+      Agreement. Any sublicense granted to Distributor's customers must be made
+      subject to the terms of the Altera Program License Agreement. Any attempt
+      by Distributor to sublicense Altera Software Products in contravention of
+      this Agreement shall be null and void.
+
+      12.3 Distributor may use Altera Software Products to perform
+      demonstrations of the use of Altera Products, or to train sales people in
+      the use of Altera Products, or to train customers in the use of Altera
+      Products.
+
+      12.4 Distributor may use Altera Software Products to program other Altera
+      Products for Distributor's customers. Distributor may not use Altera
+      Software Products to program non-Altera Products.
+
+      12.5 Distributor may use a single copy of any Software Product only on a
+      single computer or on a single network of workstations.
+
+      12.6 Distributor may make one copy of any Software Product that it has
+      installed on a single computer or single network of workstations at
+      Distributor's place of business in any computer-readable or printed form
+      for back-up or archival purposes only and subject to the terms of this
+      Paragraph 12.
+
+      12.7 Except to the extent permitted in the preceding subparagraph,
+      Distributor may not copy, modify, revise, alter, reverse engineer,
+      decompile or disassemble any Altera Software Product under any
+      circumstance without the prior written permission of Altera.
+
+      12.8 Distributor agrees that it will not open any sealed Altera Software
+      Products that are intended for sublicensing, nor will it sublicense any
+      unsealed Altera Software Products. Distributor will not transfer,
+      sublicense, or give away any copy of an Altera Software Product that was
+      previously installed on any computer or single network of workstations at
+      Distributor's place of business.
+
+      12.9 The terms of this License shall govern with respect to Distributor's
+      use of Altera Software products in the event that any such terms are
+      inconsistent with or omitted from the Altera Program License Agreement.
+
+
+<PAGE>   14
+
+                                                                              14
+
+
+
+13.   CO-OP ADVERTISING AND PROMOTION
+
+      Altera shall establish a fund for payment of advertising, promotion, and
+      Product literature localization costs ("Co-op Fund") in the Territory
+      equal to up to one-half of one percent (1/2%) of the net purchase price of
+      all Products purchased by Distributor during the preceding twelve (12)
+      months. Funds will be accrued on a 12-month rolling basis, and those funds
+      not committed to projects within that period revert to Altera. Specific
+      projects may be proposed by either Altera or Distributor, but only
+      projects that have been approved in writing by Altera will be eligible for
+      payment from the Co-op Fund.
+
+      If advertising and promotion costs for an approved project are incurred by
+      Altera or any of its affiliate companies, Distributor shall reimburse
+      Altera for up to one-half of the cost of such project; the exact amount of
+      such reimbursement shall be mutually agreed upon by the parties prior to
+      implementation of the project. Distributor shall make such payments to
+      such entity as may be designated by Altera in writing for the benefit of
+      Altera. If advertising and promotion costs for approved projects are
+      incurred by Distributor, Altera shall reimburse Distributor for up to
+      one-half (1/2) of such costs. Altera shall finally determine the exact
+      amount of such reimbursement.
+
+14.   ASSIGNMENT
+
+      This Agreement shall not be assignable by either party without the prior
+      written approval of the other party. Except in the case of a corporate
+      reorganization, a change in the persons or entities who control fifty
+      percent (50%) or more of the equity securities or voting interest of a
+      party shall be considered an assignment of that party's rights.
+
+15.   TERM AND TERMINATION
+
+      15.1 Term. This Agreement shall be in force for a period of one (1) year
+      from the date of this Agreement, which is indicated above. Thereafter,
+      this Agreement shall renew automatically for subsequent periods of one (1)
+      year unless notice of termination is served in accordance with
+      subparagraph 15.2 or this Agreement is terminated without notice pursuant
+      to subparagraph 15.3.
+
+      15.2 Termination With Notice. At any time, either party may terminate this
+      Agreement without cause upon providing the other party with ninety (90)
+      days prior written notice.
+
+      15.3 Termination For Cause. The Agreement may be terminated without notice
+      under the following circumstances:
+
+           (a) If either party is or becomes insolvent or admits its inability
+      to pay its debts as they become due, or makes an assignment for the
+      benefit of creditors, or if there are initiated by or against either party
+      proceedings in bankruptcy or under insolvency laws or for reorganization,
+      receivership or dissolution, or if either party ceases to conduct its
+      operations in the normal
+
+<PAGE>   15
+
+                                                                              15
+
+
+      course of business, the other party shall have the right to terminate this
+      Agreement effective immediately upon giving notice.
+
+           (b) If either party is in breach hereof and does not cure such
+      breach within thirty (30) days of receipt of notice thereof.
+
+      15.4 Waiver of Damages in Event of Termination. The right of termination,
+      as provided herein, is absolute. Both Altera and Distributor have
+      considered the possibility of expenditures necessary in preparing for
+      performance of this Agreement and the possible losses and damage incident
+      to each in the event of termination, and it is understood that neither
+      party shall be liable to the other for damages in any form by reason of
+      the termination of this Agreement at any time, other than as expressively
+      provided in this Agreement.
+
+      15.5  Procedures Upon Termination.
+
+           (a) Unfilled Orders. Upon termination of this Agreement, Altera may,
+      at its option, cancel any or all unfilled orders that were previously
+      accepted by Altera pursuant to subparagraph 5.2. Except in those
+      circumstances governed by subparagraph 5.6 of the Agreement, Altera agrees
+      not to cancel orders which are for Products intended for resale pursuant
+      to firm orders (1) that have been placed by a specific customer with
+      Distributor and are scheduled for delivery within 90 days of the date that
+      notice of termination is given and (2) that Distributor, from among its
+      locations, does not have inventory stock to complete. Distributor shall
+      notify Altera in writing of such firm orders within 30 days of the date
+      that notice of termination is given.
+
+           (b) Promotion. Upon termination of this Agreement, Distributor agrees
+      to discontinue immediately all activities as an Altera Distributor
+      including, without limitation, all use of the Trademarks and all
+      advertising of or reference to Altera Products, except as permitted
+      pursuant to the disposition of inventory of Products pursuant to
+      subparagraph 15.5(c).
+
+           (c) Disposition of Inventory. In the event Altera terminates this
+      Agreement without cause pursuant to subparagraph 15.2 or Distributor
+      terminates on the ground that Altera has breached the Agreement, Altera
+      will repurchase from Distributor at Distributor's option any or all unsold
+      non-discontinued and non-obsolete Products in Distributor's inventory at
+      the net price paid by Distributor. Products returned under this provision
+      are subject to paragraph 9.1. In the event Distributor terminates this
+      Agreement without cause or Altera terminates with cause pursuant to
+      subparagraph 15.3 above, Altera may, at its option, repurchase from
+      Distributor any or all unsold Altera products in Distributor's inventory
+      at the same price as set forth in the sentence immediately preceding less
+      a five (5%) percent handling charge to be deducted by Altera from any
+      credit to be issued to Distributor. The party terminating this Agreement
+      shall pay all transportation charges for Products returned to Altera.
+
+
+<PAGE>   16
+
+                                                                              16
+
+
+
+16.   LIMITATION OF LIABILITY AND INDEMNIFICATION
+
+      In no event shall either party be liable to the other party for indirect,
+      special, incidental, or consequential damages as a result of any claim or
+      liability relating to or arising out of this Agreement. Distributor shall
+      indemnify Altera for any claims asserted by any third party arising out of
+      or relating to Distributor's breach of this Agreement, negligence, or
+      wrongful conduct.
+
+17.   RELATIONSHIP OF THE PARTIES
+
+      It is expressly understood and agreed that the relationship between Altera
+      and Distributor under this Agreement is solely that of seller and buyer.
+      Distributor is an independent contractor and is in no way Altera's legal
+      representative or agent. Distributor has no authority to assume or create
+      any obligation on behalf of Altera, express or implied, with respect to
+      Products or otherwise. Nothing contained in this Agreement shall be
+      construed as a limitation or restriction upon Altera in the sale or other
+      disposition of any Product to any person, firm or corporation or in any
+      territory or country.
+
+18.   GOVERNING LAW, CHOICE OF FORUM, ATTORNEYS' FEES
+
+      It is expressly agreed that the validity and construction of this
+      Agreement, and performance hereunder, shall be governed by the laws of the
+      State of California, USA. The parties agree to submit to the jurisdiction
+      of the courts in the State of California for the resolution of any dispute
+      or claim arising out of or relating to this Agreement. The parties hereby
+      agree that the party who does not prevail with respect to any dispute,
+      claim, or controversy relating to this Agreement shall pay the costs
+      actually incurred by the prevailing party, including any attorneys' fees.
+
+19.   WAIVER
+
+      Either party's failure to enforce at any time any of the provisions of
+      this Agreement, or any right with respect thereto, or to exercise any
+      option herein provided, shall in no way be construed to be a waiver of
+      such provisions, rights or options or in any way affect the validity of
+      this Agreement. Either party's exercise of any of its rights hereunder or
+      of any options hereunder under the terms or covenants herein shall not
+      preclude or prejudice either party from thereafter exercising the same or
+      any other right it may have under this Agreement, irrespective of any
+      previous action or proceeding taken by either party.
+
+20.   NOTICE
+
+           All notices required by this Agreement shall be sufficiently given
+      and effective when sent by registered or certified mail, return receipt
+      requested, postage prepaid and addressed to Distributor, attention
+      President, Wyle Electronics Incorporated, Corporate Offices, 15370
+      Barranca Parkway., Irvine, California 92618, or to Altera Corporation,
+      attention General Counsel, 101 Innovation Drive, San Jose, California
+      95134-1941, or to such other place or
+
+<PAGE>   17
+
+                                                                              17
+
+
+      places as the parties hereto may designate in writing. If notice is given
+      in any other manner, it shall be effective when received.
+
+21.   CAPTIONS
+
+      The captions of the sections herein are intended for convenience only, and
+      the same shall not be determined to be interpretive of the content of such
+      section.
+
+22.   SEVERABLITY
+
+      If any provision, or part of a provision of this Agreement is invalidated
+      by operation of law or otherwise, the provision or part will to that
+      extent be deemed omitted and the remainder of this Agreement will remain
+      in full force and effect.
+
+23.   COMPLETE AGREEMENT
+
+      This Agreement supersedes and cancels any previous understanding or
+      agreements, whether written or oral, between the parties relating to the
+      subject matter hereof, including any existing distribution agreement
+      involving Altera semiconductor products. This Agreement supersedes but
+      does not cancel the Demand Creation Agreement between the parties dated
+      April 1, 1998. It expresses the complete and final understanding with
+      respect to the subject matter hereof and may not be changed in any way
+      except by an instrument in writing signed by authorized representatives of
+      both parties.
+
+      IN WITNESS WHEREOF, the parties have caused this Agreement to be executed
+      by their duly authorized representatives and to become effective as of the
+      day and year first written above.
+
+WYLE ELECTRONICS INCORPORATED           ALTERA CORPORATION
+- ------------------------------------    ---------------------------------------
+
+
+
+BY:                                     BY:
+- ------------------------------------    ---------------------------------------
+(Name):                                 (Name):
+
+
+TITLE:                                  TITLE:
+- ------------------------------------    ---------------------------------------
+
+DATE:                                   DATE:
+- ------------------------------------    ---------------------------------------
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>4
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+       
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-1999
+<PERIOD-START>                             JAN-01-1999
+<PERIOD-END>                               MAR-31-1999
+<CASH>                                         178,880
+<SECURITIES>                                   412,015
+<RECEIVABLES>                                   52,167
+<ALLOWANCES>                                     6,879
+<INVENTORY>                                     74,530
+<CURRENT-ASSETS>                               809,775
+<PP&E>                                         151,732
+<DEPRECIATION>                                  81,181
+<TOTAL-ASSETS>                               1,133,758
+<CURRENT-LIABILITIES>                          198,276
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            98
+<OTHER-SE>                                     935,384
+<TOTAL-LIABILITY-AND-EQUITY>                 1,133,758
+<SALES>                                        186,399
+<TOTAL-REVENUES>                               186,399
+<CGS>                                           69,154
+<TOTAL-COSTS>                                   69,154
+<OTHER-EXPENSES>                                49,343
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                 72,520
+<INCOME-TAX>                                    23,569
+<INCOME-CONTINUING>                             46,975
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    46,975
+<EPS-PRIMARY>                                     0.48<F1>
+<EPS-DILUTED>                                     0.46
+<FN>
+<F1>For purposes of this Exhibit, Primary means Basic.
+</FN>
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

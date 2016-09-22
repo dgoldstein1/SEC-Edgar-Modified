@@ -1,0 +1,3447 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C0zLdVyqvypIUGkvR10Y/ZIWGcVGIl8qgCq5C2qC4XUDs/UUdXNb4RSYiGQ4f9zw
+ 9Cqent7eXhaK2YgvnOC6CA==
+
+<SEC-DOCUMENT>0000927016-97-000962.txt : 19970401
+<SEC-HEADER>0000927016-97-000962.hdr.sgml : 19970401
+ACCESSION NUMBER:		0000927016-97-000962
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970331
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CITRIX SYSTEMS INC
+		CENTRAL INDEX KEY:			0000877890
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				752275152
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27084
+		FILM NUMBER:		97569954
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6400 NW 6TH WAY
+		CITY:			FORT LAUDERDALE
+		STATE:			FL
+		ZIP:			33309
+		BUSINESS PHONE:		9542673000
+
+	MAIL ADDRESS:	
+		STREET 1:		CITRIX SYSTEMS INC
+		STREET 2:		6400 NW 6TH WAY
+		CITY:			FL LAUDERDALE
+		STATE:			FL
+		ZIP:			33309
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-K
+<TEXT>
+
+<PAGE>
+ 
+- -------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------
+ 
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C. 20549
+ 
+                                   FORM 10-K
+ 
+(Mark One)
+ 
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934 [FEE REQUIRED]
+ 
+                  For the fiscal year ended December 31, 1996
+ 
+                                      OR
+ 
+[_] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+    EXCHANGE ACT OF 1934 [NO FEE REQUIRED]
+ 
+                 For the transition period from      to     .
+ 
+                        COMMISSION FILE NUMBER 0-27084
+ 
+                             CITRIX SYSTEMS, INC.
+            (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+               DELAWARE                              75-2275152
+    (STATE OR OTHER JURISDICTION OF        (IRS EMPLOYER IDENTIFICATION NO.)
+    INCORPORATION OR ORGANIZATION)
+ 
+6400 NW 6TH WAY FORT LAUDERDALE, FLORIDA                33309
+    (ADDRESS OF PRINCIPAL EXECUTIVE                  (ZIP CODE)
+               OFFICES)
+ 
+      REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (954) 267-3000
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+ 
+                                     None
+ 
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+ 
+                         Common Stock, $.001 Par Value
+                               (TITLE OF CLASS)
+ 
+  Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes  X    No
+ 
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. [_]
+ 
+  The aggregate market value of Common Stock held by non-affiliates of the
+registrant as of March 10, 1997 (based on the last report sale price on the
+NASDAQ National Market as of such date) was $345,079,267. As of March 10, 1997
+there were 27,014,619 shares of the registrant's Common Stock outstanding.
+ 
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+  The registrant intends to file a definitive proxy statement pursuant to
+Regulation 14A within 120 days of the end of the fiscal year ended December
+31, 1996. Portions of such proxy statement are incorporated by reference into
+Part III of this report.
+ 
+- -------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------
+<PAGE>
+ 
+ITEM 1. BUSINESS.
+ 
+GENERAL
+ 
+  Citrix Systems, Inc. ("Citrix" or the "Company") is a leading supplier of
+multi-user application server products and technologies that enable the
+effective and efficient enterprise-wide deployment of applications designed
+for Windows(R) operating systems. The Company's WinFrame and WinView product
+lines, developed under license and strategic alliance agreements with
+Microsoft Corporation ("Microsoft"), permit organizations to deploy Windows
+applications without regard to location, network connection, or type of client
+hardware platforms.
+ 
+INDUSTRY BACKGROUND
+ 
+  New information technologies have enabled enterprises to provide their
+employees with broad access to business-critical information, including sales,
+technical, human resources, vendor and supplier information. Because of their
+many diverse end-user requirements, enterprises have made significant
+investments in information systems infrastructure, frequently incorporating a
+variety of software operating environments, computing platforms and
+communications protocols. Business-critical enterprise applications and
+personal productivity tools have historically been supplied by a variety of
+different vendors, often resulting in incompatible systems and applications
+within and among company locations. As a result of this proliferation of
+technology, demand has increased for systems that offer users a standard
+interface, transparent communications and the ability to integrate enterprise
+and personal productivity applications to local and remote enterprise users.
+ 
+  Microsoft is the leading provider of desktop operating systems, supported by
+a broad base of independent software developers who develop applications for
+the Microsoft operating systems. With the introduction of Windows 95 and
+Windows NT 32-bit operating system, Windows is the preferred environment for
+enterprise applications.
+ 
+  Organizations seeking to broadly deploy line-of-business applications are
+faced with a diverse set of challenges, including:
+ 
+  .  Remote Users. The diversity of network connection types, protocols and
+     transmission speeds limit the ability of organizations to deploy Windows
+     applications on a cost-effective and efficient basis among remote users
+     such as mobile workers, telecommuters and branch office personnel.
+ 
+  .  Client and Platform Diversity. In addition to Windows, desktop computing
+     systems within an enterprise may include DOS systems, UNIX workstations,
+     X-Terminals, Macintosh systems and OS/2 workstations. These systems do
+     not support 32-bit Windows applications. Additionally, certain
+     organizations require simpler, relatively low-cost devices, such as
+     personal digital assistants ("PDAs"), information kiosks and fixed
+     function terminals for certain enterprise applications, but these
+     devices currently may not be effectively utilized because Windows
+     support may not be available.
+ 
+  .  Extended Enterprise. The extension of enterprise information systems to
+     suppliers, distributors, customers and prospects creates Windows
+     application deployment issues that are outside the control of
+     information systems managers, such as the quality and security of the
+     network connection, the client platform involved and the technical
+     expertise of the external user.
+ 
+  The Company believes that these challenges have impeded effective deployment
+of Windows enterprise applications to essential user communities.
+ 
+THE CITRIX SOLUTION
+ 
+  Citrix develops, markets, sells and supports innovative client and
+application server software that enable the effective and efficient
+enterprise-wide deployment of Windows line-of-business applications. The
+Company's WinFrame and WinView product lines, developed under license and
+strategic alliance agreements with Microsoft, permit organizations to deploy
+Windows applications without regard to location or type of client
+ 
+                                       2
+<PAGE>
+ 
+hardware platforms. These products operate by executing the Windows
+applications on a multi-user server and provide end-users access to the server
+from a variety of client platforms that incorporate the Company's Independent
+Computing Architecture ("ICA") protocol. This approach minimizes the
+communications, memory and processing requirements of the client system,
+resulting in a highly scaleable, bandwidth-independent solution for deployment
+of enterprise Windows applications across a range of platforms and network
+environments.
+ 
+  Leveraging its core technologies and strategic relationships, Citrix has
+developed products which enable the broad deployment of Windows applications
+in a variety of environments, including:
+ 
+  .  Low bandwidth connections, such as dial-up, wide area networks, wireless
+     and the Internet.
+ 
+  .  Existing Intel-based computer systems, such as 286, 386, 486 and Pentium
+     computers.
+ 
+  .  Non-Intel platforms, such as UNIX workstations, X-Terminals, RISC-based
+     NT Workstations and Macintosh systems.
+ 
+  .  Emerging platforms, such as hand-held wireless devices, PDAs,
+     information kiosks, Windows terminals and network computers.
+ 
+  To address deployment in these diverse environments, the Company has
+developed two proprietary technologies: (i) the ICA(R) protocol and (ii)
+multi-user Windows NT extensions developed under a source code license from
+Microsoft.
+ 
+  ICA Protocol. The Company's ICA protocol separates the application's
+graphical user interface from the application logic, allowing the user
+interface to be displayed on one computer or device while the application
+logic itself is executed on an application server. This distributed
+architecture allows 16- and 32-bit Windows applications to run remotely over a
+wide range of connection speeds including low bandwidth connections. The
+Company believes that the ICA protocol significantly reduces many of the
+difficulties associated with the manageable deployment of Windows applications
+to a broad array of local and remote users.
+ 
+  Multi-user Windows NT Extensions. The Company's multi-user Windows NT
+extensions, developed under source code license and strategic alliance
+agreements with Microsoft, are integrated into the Windows NT operating system
+in a manner that is transparent to the end-user. These extensions allow
+multiple users to share an application server, with each user receiving a
+"virtual" Windows environment through a dedicated ICA session. The systems
+management and security extensions are fully integrated with the standard
+Windows NT administrative features, allowing for consistent and integrated
+multi-user server management facilities.
+ 
+PRODUCTS
+ 
+  Citrix has two primary product lines:
+ 
+  WinView, first shipped in April 1993, is a Windows application server based
+on an OS/2 operating system that is marketed to departments and workgroups to
+implement remote applications systems.
+ 
+  WinFrame, first shipped in August 1995, is a Windows application server,
+based on Windows NT that is marketed to enterprises to deploy advanced Windows
+applications remotely, provide Windows applications to a broad array of client
+platforms and publish enterprise applications on a corporate Intranet. The
+Company, in conjunction with its strategic partners, intends to market a
+family of products based on its WinFrame technology that will ultimately
+include solutions for a number of targeted markets, including remote
+computing, Web computing and Windows terminals or special purpose devices.
+ 
+  The WinView and WinFrame product lines consist of the following two
+components:
+ 
+  Application Server Software. WinView and WinFrame application servers run on
+industry-standard server hardware containing one or more Intel processors.
+These application servers were created using source code licenses for
+Microsoft's OS/2 and Windows NT Server operating systems. The application
+server provides three areas of functionality: operating system extensions that
+allow each user to receive a "virtual" Windows
+ 
+                                       3
+<PAGE>
+ 
+environment, communications support to allow the Company's ICA protocol to
+operate on a variety of analog and digital network connections and management
+configuration software. The application server is configured at the time of
+sale to support a pre-specified number of concurrent users. This number can be
+increased easily with the purchase of additional concurrent user licenses,
+sold as add-on kits. The Company's application server software runs with off-
+the-shelf, industry standard server hardware peripherals which are purchased
+from third parties.
+ 
+  Client Software. Each client that accesses a WinView or WinFrame server
+requires software or hardware that runs the ICA protocol. The client
+establishes a communications link with the server over dial-up, local area
+network ("LAN"), wide area network ("WAN") or Internet connections, and has
+three basic functions: establishing a server connection over the specified
+network connection, sending and receiving ICA protocol data over the network
+link and providing compatibility with DOS, Windows 3.x, Windows for
+Workgroups, Windows 95 and Windows NT operating systems.
+ 
+TARGET MARKETS
+ 
+  Remote Computing. In the remote computing market, the Company's products are
+used by workgroups, departments and enterprises to deploy applications whose
+scale, performance, reliability and security requirements are more demanding
+than those associated with simple remote access. Citrix markets its
+application servers as a scaleable platform for the widespread deployment of
+enterprise applications. Without the use of WinView or WinFrame, remote
+deployment of these applications is slow and expensive because LAN
+applications typically require a lot of memory, fast processors, and
+relatively high-speed communication bandwidth.
+ 
+  The remote computing market incorporates dial-in remote access for large
+field workforces, branch office locations and deployment of applications over
+an enterprise WAN. For enterprises with any of these deployment requirements,
+scaleable implementation of legacy and client/server applications can be an
+issue.
+ 
+  Web Computing. The Company views the development of intranets as an
+important potential market for its application server products. Although the
+intranet market is rapidly gaining in popularity and companies are developing
+new types of applications, they need to integrate Web technologies and their
+Windows applications. A Citrix WinFrame application server, when used in
+conjunction with a Web server, allows an organization to provide intranet
+access to standard and custom developed Windows applications. For example,
+using this approach, an organization could add secure interactive access to a
+large Lotus Notes database directly from a Web page without developing any new
+programs or changing the existing Lotus Notes application program.
+ 
+  The Company believes that there are a number of opportunities to market its
+line of WinFrame servers as a system platform for the deployment of Windows
+applications in an Intranet environment. These capabilities are intended to
+permit organizations to publish Windows applications using their standard Web
+server infrastructure.
+ 
+  Specialized Windows Terminals. Citrix has licensed its ICA technology to
+companies such as Wyse Technology ("Wyse") and Boundless Technologies to
+enable the development of low-cost Windows terminals. In addition, the Company
+intends to continue to develop strategic relationships and work with key
+strategic partners to deploy Windows applications on point of sale terminals
+and information kiosks. The Company believes that its WinFrame application
+servers, when coupled with these new devices, will provide an effective
+alternative to character-based UNIX implementations and will capitalize on
+existing Windows applications, tools and development facilities.
+ 
+  Wireless Windows Servers and PDAs. The Company believes that there is a
+strong and growing demand for wireless, collaborative computing. Many device
+manufacturers, including Apple Computer, Inc., Motorola, Inc., Sharp
+Corporation, Sony Corporation and others have announced and are shipping
+portable wireless devices. In most cases, the acceptance of these devices
+requires low-cost, long battery life and portability. These requirements are
+inconsistent with the latest generation of Windows applications and Windows
+development tools, which need substantial RAM, processing power and
+communications bandwidth for adequate performance.
+ 
+                                       4
+<PAGE>
+ 
+The Company believes the application of its technology will enable these
+devices to access the latest generation of Windows 95 and Windows NT
+applications. Citrix has licensed technology to Telxon Corporation and Psion
+Software PLC for potential inclusion in a line of portable wireless devices.
+ 
+  UNIX, X-Terminal, DOS and Macintosh Support for Windows. The introduction of
+Windows 95 has caused a major transition in the Windows application software
+market. As independent software vendors ("ISVs") move to develop applications
+which capitalize on the new features of the Windows 95 system, they are
+expecting organizations to upgrade client systems in order to run these
+applications. In many large establishments, there is a heterogeneous mix of
+computing platforms, including DOS systems, Windows 3.x systems, UNIX
+workstations, X-Terminals and Macintosh computers. In conjunction with the
+appropriate ICA client software, Citrix application server products can
+deliver Windows 32-bit applications, running on the server, to most types of
+network-attached client systems. The Company has licensed Tektronix, Inc.
+("Tektronix"), and Insignia Solutions, Inc. ("Insignia"), to incorporate ICA
+technology into their products and to resell application servers to deliver
+Windows applications to UNIX systems, X-Terminals and Macintosh systems. In
+addition to the clients supported by these OEM relationships, the standard
+Citrix products deliver Windows applications to DOS, Windows 3.x, Windows for
+Workgroups, Windows NT and OS/2 systems.
+ 
+STRATEGIC RELATIONSHIPS
+ 
+  The Company has entered into a number of strategic relationships to develop
+its existing and future product lines, develop markets for the application of
+its technology and to broaden deployment and acceptance of the ICA protocol as
+a de facto industry standard presentation services protocol for distributed
+Windows computing. In connection with the Company's development of the
+WinFrame and WinView product lines and markets, the Company has entered into
+strategic relationships with the following key partners:
+ 
+  Microsoft Corporation. Since its inception, the Company has been a party to
+a number of license agreements with Microsoft, including licenses to Microsoft
+OS/2, Windows 3.x, Windows for Workgroups and Windows NT. Under these
+agreements, the Company has access to certain Microsoft source and object
+code, technical support and other materials. In addition, the Company is
+permitted to sublicense Microsoft Windows NT server as a part of its WinFrame
+line of products, pursuant to which the Company pays royalties to Microsoft.
+The license agreements had an initial term which expired in September 1994,
+and was extended for a period of five years. The Company may further extend
+these agreements until September 2001. The license agreements may not be
+assigned by the Company without the prior written consent of Microsoft, which
+consent shall not be unreasonably withheld, provided that Microsoft's refusal
+to permit assignment to a competitor shall not be considered "unreasonably
+withheld." For purposes of the agreements, an assignment shall be deemed to
+include, with certain exceptions, a merger of the Company with another party,
+whether or not the Company is the surviving entity, the acquisition by a third
+party of more than 25% of the Company's voting stock or the sale of more than
+50% of the Company's assets. These provisions may impede the Company's ability
+to enter into certain transactions with third parties, such as mergers with or
+acquisitions by third parties. In addition to its contractual agreements, the
+Company and Microsoft are cooperating in connection with the application of
+Citrix technology in vertical, educational and the intranet markets.
+ 
+  In July 1996, the Company entered into a license, development, and marketing
+agreement with Microsoft relating to the inclusion of ICA as an embedded
+component in future versions of Windows 95, Windows 3.X, Windows NT and the
+Internet Explorer for Windows. Pursuant to this agreement, the Company
+licenses its ICA technology to Microsoft, royalty-free, as included in the
+above Microsoft Windows family of products.
+ 
+ 
+                                       5
+<PAGE>
+ 
+  Citrix and Microsoft are currently in negotiations regarding the licensing
+of their technologies for Windows NT Version 4.0 and certain future versions
+of Windows NT technology, as well as licensing certain technology of the
+Company. In February 1997, Microsoft informed Citrix that it intends to
+provide system capability that permits concurrent use of its operating system
+by multiple end-users and additional remote access capabilities for future
+versions of Windows NT. In the event that Microsoft determines to develop the
+technology internally or to pursue alternative sources of the technology,
+Citrix believes that such determination will have a material adverse effect on
+the Company's business, results of operations and financial condition.
+Although the Company is pursuing negotiations with Microsoft regarding the
+cross-licensing of such technologies, there are no assurances that these
+negotiations will be successful. Additionally, as a result of these
+discussions with Microsoft and if the Company is able to secure the licensing,
+the Company believes that royalties payable to Microsoft associated with such
+licensing of the Windows NT Version 4.0 and future versions of NT technology
+will increase from current levels. If the companies are unable to agree upon
+the terms of such cross-licensing or, if the terms of such cross-licensing are
+less favorable to Citrix than in the past, the Company believes that its net
+revenues, cost of goods sold and corresponding gross margin may be adversely
+impacted so that they will have, in the aggregate, a material adverse effect
+on the Company's business, results of operations and financial condition. The
+Company cannot currently quantify the impact on its business, results of
+operations and financial condition.
+ 
+  Insignia Solutions, Inc. In August 1995, the Company entered into a software
+license agreement with Insignia pursuant to which the Company granted a
+license to Insignia to incorporate its ICA technology in products designed for
+X-Terminals, UNIX workstations and Macintosh platforms. Insignia is authorized
+to market products incorporating ICA technology through their software
+channels. Insignia is re-marketing the enhanced Citrix WinFrame server under
+the trademark of "NTRIGUE."
+ 
+  Network Computing Devices, Inc. In March 1996, the Company entered into a
+software license with Network Computing Devices, Inc. ("NCD") to deliver
+Windows applications to X-devices. The agreement allows NCD to implement a
+native-X driver for WinFrame and remarket the driver and the WinFrame server
+under the name of "WinCenter Pro."
+ 
+  Tektronix, Inc. In September 1994, the Company entered into a software
+license agreement with Tektronix pursuant to which the Company granted a
+license to Tektronix to incorporate its ICA technology to enable PC
+application access from X-Terminals and UNIX workstations. The Company
+believes that its collaboration with Tektronix has resulted in the first
+product line to deliver Windows 95 applications to X-Terminals and UNIX
+workstations. Tektronix implemented a native-X version of the ICA client
+program and is re-marketing the Citrix WinFrame server under the name of
+WinDD.
+ 
+  Wyse Technology. In June 1995, the Company entered into a software license
+agreement with Wyse pursuant to which the Company and Wyse began cooperative
+efforts concerning the design and development of a new class of Windows-
+capable client devices that function in conjunction with the Company's
+application server. Citrix and Wyse are also working to build sales and
+marketing channels to deliver the combined products to the UNIX marketplace.
+ 
+  Sun Microsystems, Inc. In September 1996, the Company entered into a
+software licensing agreement with Sun Microsystems, Inc. ("Sun") pursuant to
+which the Company granted a license to Sun to distribute a version of the
+Company's ICA client software designed for Java-based devices. Sun is
+authorized to market products incorporating the ICA technology through their
+sales channels.
+ 
+CUSTOMERS
+ 
+  Tech Data Corporation ("Tech Data") and Unique Co-operative Solutions, Inc.
+("UCSI"), distributors of the Company's products pursuant to distributor
+agreements, accounted for 22% and 12%, respectively, of the Company's total
+net sales in 1996 and 22% and 6%, respectively, in 1995. The Company's
+agreements with Tech Data and UCSI are not exclusive, have no stated minimum
+purchase obligations and may be terminated by
+ 
+                                       6
+<PAGE>
+ 
+either party without cause. The Company believes that in the event of a
+termination of either relationship, the Company could replace such
+relationship with an alternate distributor and that such replacement would not
+have a material adverse effect on the Company's business, results of
+operations and financial condition.
+ 
+RESEARCH AND DEVELOPMENT
+ 
+  The Company's research and development efforts are focused on developing new
+products and core technologies for its markets and further enhancing the
+functionality, reliability, performance and flexibility of existing products.
+Extensive input concerning product development is obtained from users, both
+directly and indirectly through its channel distributors.
+ 
+  The Company believes that its software development team and core
+technologies represent a significant competitive advantage for the Company.
+The software development team includes a number of key members from the
+engineering team that developed the original version of OS/2 at International
+Business Machines Corporation. Since May 1993, this team has been involved in
+the development of system software products utilizing Windows NT technology.
+The Company has made significant development investments in two key core
+technologies: its ICA protocol and multi-user Windows extensions to NT and
+OS/2.
+ 
+  In 1996, 1995 and 1994, the Company's research and development expenses were
+approximately $3.8 million, $2.3 million and $1.9 million, respectively. To
+date, all software development costs have been expensed as incurred.
+ 
+SALES, MARKETING AND SUPPORT
+ 
+  Citrix markets its products through multiple indirect channels worldwide,
+including distributors, value-added resellers, system integrators and OEM
+licensees. In January 1996, Citrix announced its Citrix Solutions Network
+("CSN"), which provides training and certification to integrators, value-added
+resellers and consultants for a full-range of WinFrame based application
+deployment solutions and services. As of December 31, 1996, the Company had
+sales/marketing relationships with four national distributors, three regional
+distributors, approximately 400 CSN Authorized Gold Solutions Providers,
+approximately 660 CSN Authorized Silver Solutions Providers in addition to
+over 600 other Citrix-authorized value-added resellers, system integrators and
+OEM licensees. Internationally, the Company had relationships with
+approximately 50 distributors. A number of the Company's strategic partners
+and OEM licensees provide additional indirect sales channels for Citrix
+products under either a Citrix brand or private brand name.
+ 
+  Citrix's sales and marketing organization actively supports its distributors
+and resellers. The Company's marketing department provides training, sales
+event support, sales collateral, advertising, direct mail and public relations
+coverage to its indirect channels to aid in market development and in
+attracting new customers. The Company's sales organization consists of field-
+based systems engineers and corporate sales professionals. These field
+personnel are supported by an inside sales group based in Fort Lauderdale,
+Florida. Inside sales personnel recruit prospective customers, provide
+technical advice with respect to Citrix products and work closely with key
+distributors and resellers of the Company's products. In addition, the Company
+plans to hire a number of direct sales personnel to increase product demand
+among large corporate accounts.
+ 
+  Citrix provides most of its distributors and resellers with product return
+rights for stock balancing or limited product evaluation. Stock balancing
+rights permit distributors to return products to Citrix for credit, within
+specified limits and subject to ordering an equal amount of additional Citrix
+products. Although the Company believes that it has adequate reserves to cover
+product returns, there can be no assurance that Citrix will not experience
+significant returns in the future or that such reserves will be adequate. The
+Company also provides most of its distributors and resellers with price
+protection rights. Price protection rights require that Citrix grant
+retroactive price adjustments for inventories of Citrix products held by
+distributors or resellers if Citrix lowers its prices for such products. In
+the event that the Company determines to reduce its prices, it will establish
+a reserve to cover exposure to distributor inventory.
+ 
+                                       7
+<PAGE>
+ 
+  The majority of Citrix's service and support activities are related to
+software and network integration issues. Due to the nature of Citrix products,
+remote access via a telephone connection can often be used to troubleshoot and
+diagnose network problems. Citrix also provides technical support and training
+to channel and strategic partners, who are utilized as the first line of
+support for their own customers. Additionally, users can choose from a
+comprehensive fee-based support program which ranges from one-time incident
+charges to an annual support agreement covering multiple sites and servers.
+Citrix also provides on-line services to distribute technical advice and
+software updates. These services include a bulletin board service, fax service
+and access via CompuServe, the Internet and electronic mail.
+ 
+  Citrix conducts its sales, marketing and support activities from its
+principal offices in Fort Lauderdale, Florida as well as through satellite
+offices in the United Kingdom, France, and Germany.
+ 
+OPERATIONS
+ 
+  The Company controls all purchasing, inventory, scheduling, order processing
+and accounting functions related to its operations. All production and
+warehousing is performed by an independent contractor. Shipping is made
+primarily from the location of the independent contractor, although limited
+shipments are made from the Company's facilities. Master software diskettes,
+development of user manuals, packaging designs, initial product quality
+control and testing are performed at the Company's facilities. Diskette and
+CD-ROM duplication, printing of documentation, packaging and assembly are
+performed by the independent contractor to the Company's specifications. To
+date, the Company has not experienced any material difficulties or delays in
+the manufacture and assembly of its products.
+ 
+  The Company has identified and evaluated alternative manufacturing vendors
+and believes that such alternative vendors are capable of producing the
+requisite quality and volumes at competitive prices. However, if difficulties
+and delays were to be encountered, and transition to an alternate manufacturer
+was not completed promptly, the Company's business, results of operations and
+financial condition could be materially adversely affected.
+ 
+  The Company generally ships products upon receipt of an order. As a result,
+the Company has relatively little backlog at any given time, and does not
+consider backlog to be a significant indicator of future performance.
+ 
+COMPETITION
+ 
+  The markets in which the Company competes are intensely competitive and
+offer a variety of solutions. Remote computing products range from simple
+remote control software for a single PC to remote node hardware products to
+branch office routers. Competitive factors in the remote computing market
+include completeness of features, product quality and functionality, marketing
+and sales resources and customer service and support. While the Company
+believes that it presently competes on a favorable basis with respect to these
+factors, there can be no assurance that the Company will be able to establish
+and maintain a market position in the face of increased competition. The
+Company faces competition from organizations that seek alternative approaches
+to remote computing from such companies as 3Com Corp., Bay Networks, Inc.,
+Cisco Systems, Inc., Microsoft, Novell, Inc., Shiva Corporation and Symantec
+Corporation, all of whom are significantly larger than the Company and have
+greater financial resources.
+ 
+  Additionally, the Company believes that companies, including Microsoft, have
+entered or will enter the market with solutions that involve a similar
+approach to Citrix's multi-user application server. Companies with products
+that compete with multi-user features of WinFrame include Exodus Technologies
+and Groupe Prologue. (See " -- Strategic Relationships" and "Management's
+Discussion and Analysis of Operations -- Certain Factors Which May Affect
+Future Results".)
+ 
+  In addition, alternative products exist for Internet commerce that directly
+or indirectly compete with the Company's products. Existing or new products
+that extend Web site software to provide database access or
+ 
+                                       8
+<PAGE>
+ 
+interactive computing can materially impact the Company's ability to sell its
+products in this market. Competitors in this market include Microsoft,
+Netscape Communications Corporation, Quarterdeck Corp. and Sun and other
+makers of Web server and browser software. In the multi-user graphical
+platform market, the key competitor is The Santa Cruz Operation, Inc., and, to
+a lesser extent, other manufacturers of UNIX application servers. The Company
+will encounter competition from The Santa Cruz Operation to the extent it is
+able to provide a low-cost graphical computing platform for Windows
+applications. As markets for the Company's products continue to develop,
+additional companies, including companies with significant market presence in
+the computer hardware, software and networking industries, may enter the
+markets in which the Company competes and further intensify competition. Most
+of these competitors and potential competitors have significantly greater
+financial, technical, sales, marketing, support and other resources than the
+Company. There can be no assurance that the Company will be able to establish
+and maintain a market position in the face of increased competition. Although
+the Company believes that price has historically been a less significant
+competitive factor than product performance, reliability and functionality,
+the Company believes that price competition, with a resultant diminution of
+profit margins, may become more significant in the future. The Company may not
+be able to maintain its historic prices, and an inability to do so could
+adversely affect the Company's business, results of operations and financial
+condition.
+ 
+PROPRIETARY TECHNOLOGY
+ 
+  The Company's success is heavily dependent upon proprietary technology.
+While the Company has recently filed 12 patent applications, to date the
+Company has no patents, and existing copyright laws afford only limited
+protection for the Company's software. In addition, the laws of some foreign
+countries do not protect the Company's proprietary rights to the same extent
+as do the laws of the United States. Accordingly, the Company relies primarily
+on trade secret protection and confidentiality and proprietary information
+agreements to protect its proprietary technology. The loss of any material
+trade secret, trademark, trade name or copyright could have a material adverse
+effect on the Company. There can be no assurance that the Company's efforts to
+protect its proprietary technology rights will be successful. Despite the
+Company's precautions, it may be possible for unauthorized third parties to
+copy certain portions of the Company's products or to obtain and use
+information that the Company regards as proprietary. Substantially all of the
+Company's sales are derived from the licensing of Company products under
+"shrink wrap" license agreements that are not signed by licensees and,
+therefore, may be unenforceable under the laws of certain jurisdictions.
+Although the Company does not believe that its products infringe on the rights
+of third parties, there can be no assurance that third parties will not assert
+infringement claims against the Company in the future or that any such
+assertion will not result in costly litigation or require the Company to
+obtain a license to proprietary technology rights of such parties. In
+addition, there can be no assurance that such licenses will be available on
+reasonable terms or at all.
+ 
+  While the Company's competitive position may be affected by its ability to
+protect its proprietary information, the Company believes that because of the
+rapid pace of technological change in the industry, factors such as the
+technical expertise, knowledge and innovative skill of the Company's
+management and technical personnel, its strategic relationships, name
+recognition, the timeliness and quality of support services provided by the
+Company and its ability to rapidly develop, enhance and market software
+products may be more significant in maintaining the Company's competitive
+position.
+ 
+EMPLOYEES
+ 
+  As of March 10, 1997, the Company had a total of 163 employees. Three of the
+Company's employees are represented by a statutory collective bargaining
+agreement in France and the Company believes that its relations with employees
+are good.
+ 
+ITEM 2. PROPERTIES.
+ 
+  The Company occupies approximately 46,000 square feet of leased and
+subleased office space in Fort Lauderdale, Florida. Additionally, the Company
+anticipates that it will occupy an additional 24,000 square feet
+ 
+                                       9
+<PAGE>
+
+in this facility within the next twelve months. The lease expires in September
+2001. The Company may renew such lease, subject to acceptable renewal terms
+and subject to any rent escalation (based on the consumer price index) as
+provided for in the lease.
+ 
+ITEM 3. LEGAL PROCEEDINGS.
+ 
+  On March 7, 1997, a purported class action lawsuit was filed in the United
+States District Court for the Southern District of Florida, Southern Division,
+against the Company, Roger W. Roberts, President, Chief Executive Officer,
+Secretary and a member of the Board of Directors (the "Board"), Edward E.
+Iacobucci, Chairman of the Board, Vice President of Strategy & Technology and
+Chief Technology Officer, and Gregory B. Maffei, a member of the Board. In its
+complaint, the plaintiff asserts, on behalf of itself and a putative class of
+purchasers of the Company's common stock during the period from January 20,
+1997 through February 26, 1997, claims: (1) under section 10(b) and 20(a) of
+the Securities Exchange Act of 1934, and Rule 10b-5 promulgated thereunder;
+and (2) for negligent misrepresentation.
+ 
+  On March 19, 1997, a purported class action lawsuit was filed in the United
+States District Court for the Southern District of Florida, Northern Division,
+against the Company, Roger W. Roberts, President, Chief Executive Officer,
+Secretary and a member of the Board, Kevin R. Compton, a member of the Board,
+James J. Felcyn, Jr., Chief Financial Officer, Treasurer, Vice President of
+Finance and Administration and Assistant Secretary, and Bruce C. Chittenden,
+Vice President--Engineering. In the complaint, the plaintiffs assert, on
+behalf of themselves and a putative class of purchasers of the Company's
+common stock during the period from January 21, 1997, through February 26,
+1997, claims under section 10(b) and 20(a) of the Securities Exchange Act of
+1934, and Rule 10b-5 promulgated thereunder.
+ 
+  The claims in each of the lawsuits relate principally to certain statements
+made by the Company, or certain of its representatives, concerning the status
+of the Company's relationship with Microsoft. The complaints seek unspecified
+damages and costs, including attorneys' and experts' fees and other
+disbursements. The outcome of litigation cannot yet be determined.
+Accordingly, no provision for any liability that may result from these matters
+has been recognized in the accompanying consolidated financial statements.
+There can be no assurances, however, that the outcome of this litigation will
+not have a material adverse effect on the Company's business, results of
+operations, and financial condition.
+ 
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+ 
+  No matters were submitted to a vote of security holders during the fourth
+quarter of 1996.
+ 
+                                      10
+<PAGE>
+ 
+                                    PART II
+ 
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS.
+ 
+                PRICE RANGE OF COMMON STOCK AND DIVIDEND POLICY
+ 
+  The Company's Common Stock is currently traded on The Nasdaq National Market
+under the symbol "CTXS." Public trading of the Common Stock commenced on
+December 8, 1995. Prior to that time, there was no public market for the
+Company's Common Stock. The following table sets forth the high and low bid
+prices for the Company's Common Stock as reported on the Nasdaq National
+Market for the periods indicated, as adjusted to the nearest 1/16 to reflect
+the two-for-one stock split in the form of a stock dividend paid on or about
+June 4, 1996 to holders of record of the Company's Common Stock on May 28,
+1996. Such information reflects inter-dealer prices, without retail mark-up,
+markdown or commission and may not represent actual transactions.
+ 
+<TABLE>
+<CAPTION>
+                                                                 HIGH     LOW
+                                                                ------- -------
+<S>                                                             <C>     <C>
+FISCAL YEAR 1995:
+  Fourth Quarter (from December 8, 1995)....................... $17 1/2 $12 3/8
+FISCAL YEAR 1996:
+  First Quarter................................................ $27 7/8 $11 3/4
+  Second Quarter............................................... $44     $21 7/8
+  Third Quarter................................................ $51 3/4 $24
+  Fourth Quarter............................................... $56 1/4 $37 3/4
+FISCAL YEAR 1997:
+  First Quarter (through March 10, 1997)....................... $50 1/2 $ 9 3/4
+</TABLE>
+ 
+  On March 10, 1997, the last reported sale price of the Common Stock on the
+Nasdaq National Market was $13 per share. As of March 10, 1997, there were
+approximately 425 holders of record of the Common Stock.
+ 
+  The Company has never declared or paid cash dividends. The Company currently
+intends to retain any earnings for use in its business and does not anticipate
+paying any cash dividends on its capital stock in the foreseeable future.
+ 
+                                      11
+<PAGE>
+ 
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+ 
+  The selected consolidated statement of operations data set forth below with
+respect to the years ended December 31, 1996, 1995 and 1994, and the
+consolidated balance sheet data as of December 31, 1996 and 1995 are derived
+from the consolidated financial statements of the Company, included herein,
+which have been audited by Ernst & Young LLP, independent certified public
+accountants. The statement of operations data for the years ended December 31,
+1993 and 1992, and the balance sheet data as of December 31, 1994, 1993 and
+1992, have been derived from financial statements not included herein. Except
+as otherwise noted, all information contained in this Form 10-K reflects a 2-
+for-1 stock split of the Common Stock and a 2-for-3 reverse stock split of the
+Common Stock, effected June 4, 1996 and December 7, 1995, respectively. The
+following selected consolidated financial data should be read in conjunction
+with "Management's Discussion and Analysis of Financial Condition and Results
+of Operations" and the Consolidated Financial Statements and Notes thereto
+included as Item 8 in this Form 10-K.
+ 
+<TABLE>
+<CAPTION>
+                                            YEAR ENDED DECEMBER 31,
+                                  ---------------------------------------------
+                                    1996    1995     1994      1993      1992
+                                  -------- ------- --------  --------  --------
+                                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+<S>                               <C>      <C>     <C>       <C>       <C>
+CONSOLIDATED STATEMENT OF
+ OPERATIONS DATA:
+Net revenues....................  $ 44,527 $14,568 $ 10,085  $  5,164  $  1,801
+Cost of goods sold..............     5,099   1,956    2,137       929       498
+                                  -------- ------- --------  --------  --------
+Gross Margin....................    39,428  12,612    7,948     4,235     1,303
+                                  -------- ------- --------  --------  --------
+Operating expenses:
+  Research and development......     3,843   2,343    1,912     1,722     1,529
+  Sales, marketing and support..    13,741   6,670    4,444     3,866     2,678
+  General and administrative....     4,126   1,784    1,395     1,370       832
+                                  -------- ------- --------  --------  --------
+    Total operating expenses....    21,710  10,797    7,751     6,958     5,039
+                                  -------- ------- --------  --------  --------
+Income (loss) from operations...    17,718   1,815      197    (2,723)   (3,736)
+Other income, net...............     4,545     173       45         1        49
+                                  -------- ------- --------  --------  --------
+Income (loss) before income tax-
+ es.............................    22,263   1,988      242    (2,722)   (3,687)
+Income taxes....................     3,562      93      --        --        --
+                                  -------- ------- --------  --------  --------
+Net income (loss)...............  $ 18,701 $ 1,895 $    242  $ (2,722) $ (3,687)
+                                  ======== ======= ========  ========  ========
+Net income per share............  $   0.68 $  0.09
+                                  ======== =======
+Pro forma net income per share
+ (1)............................                   $   0.01
+                                                   ========
+Weighted average shares out-
+ standing:
+  Historical....................    27,303  20,404
+                                  ======== =======
+  Pro forma (1).................                     20,194
+                                                   ========
+<CAPTION>
+                                                 DECEMBER 31,
+                                  ---------------------------------------------
+                                    1996    1995     1994      1993      1992
+                                  -------- ------- --------  --------  --------
+                                                (IN THOUSANDS)
+<S>                               <C>      <C>     <C>       <C>       <C>
+CONSOLIDATED BALANCE SHEET DATA:
+  Working capital (deficiency)..  $139,778 $42,688 $  1,989  $    366  $   (443)
+  Total assets..................   149,580  46,715    3,932     2,306     1,043
+  Long term portion of capital
+   lease obligations............         8      88       68       --        --
+  Redeemable convertible pre-
+   ferred stock.................       --      --    18,608    16,630    11,627
+  Common shareholders' equity
+   (deficit) (2)................   141,851  42,962  (16,473)  (16,103)  (11,932)
+</TABLE>
+- --------
+(1) Pro forma net income per share and the Pro forma weighted average shares
+    outstanding are calculated using the weighted average number of common and
+    common equivalent shares outstanding during the period after giving effect
+    to the conversion of the redeemable convertible preferred stock into an
+    aggregate of 15,359,388 shares of Common Stock.
+ 
+                                      12
+<PAGE>
+ 
+(2) At December 31, 1994, 1993 and 1992 the common shareholders' equity
+    (deficit) included certain amounts attributable to the accretion of
+    redeemable convertible preferred stock. See Note 7 of the Notes to
+    Consolidated Financial Statements.
+ 
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+        RESULTS OF OPERATIONS
+ 
+OVERVIEW
+ 
+  The Company develops, markets, sells and supports innovative client and
+application server software that enables effective and efficient deployment of
+enterprise applications that are designed for Windows operating systems. The
+Company was incorporated in April 1989, and shipped its initial products in
+1991.
+ 
+  From inception until the introduction of WinView in 1993, substantially all
+of the Company's revenue was derived from its initial products. From its
+introduction in the second quarter of 1993 through the second quarter of 1995,
+the WinView product represented the largest source of the Company's revenue.
+The Company's WinFrame products shipped in final form in the third quarter of
+1995 and represented approximately 63% of the Company's revenue in 1996. The
+Company anticipates that the WinFrame product line will constitute a majority
+of its revenue for the foreseeable future. The Company anticipates that
+revenues from the WinView product will decline over time as the Company's
+distribution channels and customer base transition to WinFrame. Revenues from
+WinFrame and WinView products result primarily from license fees for "shrink
+wrapped" product sold to distributors and resellers. The Company also derives
+revenue from initial license fees and associated quarterly royalties from
+original equipment manufacturers ("OEMs"), non-recurring engineering fees and
+training, consulting and service revenue.
+ 
+  Product revenues are recognized upon shipment only if no significant Company
+obligations remain and collection of the resulting receivable is deemed
+probable. In the case of noncancelable product licensing arrangements under
+which certain OEMs have software reproduction rights, recognition of revenue
+also requires delivery and customer acceptance of the product master or first
+copy. Product returns and sales allowances are estimated and provided for at
+the time of sale. Non-recurring engineering fees are recognized ratably as the
+work is performed. Revenues from training and consulting are recognized when
+the services are performed. Service revenues from customer maintenance fees
+for ongoing customer support and product updates are recognized ratably over
+the term of the contract, which is typically twelve months. Service revenues,
+which are immaterial when compared to net revenues, are included in net
+revenues on the face of the income statement.
+ 
+  Citrix and Microsoft are currently in negotiations regarding the licensing
+of Windows NT Version 4.0 and certain future versions of Windows NT
+technology, as well as licensing certain technology of the Company. In
+February 1997, Microsoft informed Citrix that it intends to provide system
+capability that permits concurrent use of its operating system by multiple
+end-users and additional remote access capabilities for future versions of
+Windows NT. In the event that Microsoft determines to develop the technology
+internally or to pursue alternative sources of the technology, Citrix believes
+that such determination will have a material adverse effect on the Company's
+business, results of operations and financial condition. Although the Company
+is pursuing negotiations with Microsoft regarding the cross-licensing of such
+technologies, there are no assurances that these negotiations will be
+successful. Additionally, as a result of these discussions with Microsoft and
+if the Company is able to secure the licensing of the Windows NT Version 4.0
+and future versions of NT technoglogy, the Company believes that royalties
+payable to Microsoft associated with such licensing will increase from current
+levels. If the companies are unable to agree upon the terms of such cross-
+licensing or, if the terms of such cross-licensing are less favorable to
+Citrix than in the past, the Company believes that its net revenues, cost of
+goods sold and corresponding gross margin may be adversely impacted so that
+they will have, in the aggregate, a material adverse effect on the Company's
+business, results of operations and financial condition. The Company cannot
+currently quantify the impact on its business, results of operations and
+financial condition.
+ 
+                                      13
+<PAGE>
+ 
+RESULTS OF OPERATIONS
+ 
+  The following table sets forth statement of operations data of the Company
+expressed as a percentage of net revenues and as a percentage of change from
+period-to-period for the periods indicated.
+ 
+<TABLE>
+<CAPTION>
+                              YEAR ENDED DECEMBER 31,       1996        1995
+                              -------------------------  COMPARED TO COMPARED TO
+                               1996     1995     1994       1995        1994
+                              -------  -------  -------  ----------- -----------
+<S>                           <C>      <C>      <C>      <C>         <C>
+Net revenues................    100.0%   100.0%   100.0%    205.7%       44.5%
+Cost of goods sold..........     11.5     13.4     21.2     160.7        (8.5)
+                              -------  -------  -------     -----       -----
+Gross margin................     88.5     86.6     78.8     212.6        58.7
+                              -------  -------  -------     -----       -----
+Operating expenses:
+  Research and development..      8.6     16.1     19.0      64.0        22.5
+  Sales, marketing and sup-
+   port.....................     30.9     45.8     44.1     106.0        50.1
+  General and administra-
+   tive.....................      9.2     12.2     13.8     131.2        27.9
+                              -------  -------  -------     -----       -----
+    Total operating ex-
+     penses.................     48.7     74.1     76.9     101.1        39.3
+                              -------  -------  -------     -----       -----
+Income from operations......     39.8     12.5      1.9     876.1       821.3
+Interest income, net........     10.2      1.2      0.4       *         284.4
+                              -------  -------  -------     -----       -----
+Income before income taxes..     50.0     13.6      2.3       *         721.5
+Income taxes................      8.0      0.6      --        *           *
+                              -------  -------  -------     -----       -----
+Net income..................     42.0%    13.0%     2.3%    886.9%      683.1%
+                              =======  =======  =======     =====       =====
+</TABLE>
+- --------
+* Not meaningful.
+ 
+  Net Revenues. Net revenues were $44.5 million, $14.6 million and $10.1
+million in 1996, 1995 and 1994, respectively, representing increases of 205.7%
+and 44.5% from 1995 to 1996 and from 1994 to 1995, respectively. The Company's
+net revenues during 1996, 1995, and 1994 were derived primarily from product
+license revenues and in 1994, certain developmental work (non-recurring
+engineering fees) for strategic partners of the Company.
+ 
+  The increase in net revenues for 1996 as compared to 1995 and 1995 as
+compared to 1994 primarily reflects revenues generated from the Company's
+WinFrame products, whose first production version was shipped in August 1995,
+and, to a lesser extent, increased OEM revenues. These increases in net
+revenues were partially offset by a decline in the Company's NetWare Access
+Server ("NAS"), WinView, and other product revenues in addition to an increase
+in the Company's provision for stock rotation and product returns.
+ 
+  WinFrame and OEM revenues approximated 62.9% and 26.0% of revenues,
+respectively, in 1996 and 34.3% and 17.9% of revenues, respectively, in 1995.
+WinView revenues approximated 6.8%, 40.8%, and 68.5% of revenues respectively,
+in 1996, 1995, and 1994. The Company's WinFrame and OEM revenues represent
+product license fees based upon the Company's multi-user NT-based technology.
+ 
+  The Company and Microsoft are currently in negotiations regarding the
+license and distribution of a version of WinFrame based on Microsoft Windows
+NT Version 4.0 and certain future versions of Windows NT technology. Further,
+Microsoft recently announced that it intends to provide system capability that
+permits concurrent use of its operating system by multiple end-users and
+additional remote access capabilities for future versions of Windows NT. If
+the negotiations involving such licensing arrangements result in less
+favorable terms for Citrix than in the past, if the negotiations are
+unsuccessful, or if Microsoft determines to develop the technology internally
+or to pursue alternative sources for the technology, Citrix believes that such
+events will have a material adverse effect on the Company's net revenues in
+future periods. The Company cannot currently quantify the impact on its net
+revenues.
+ 
+  Cost of Goods Sold. Cost of goods sold consisted primarily of the cost of
+royalties, product media and duplication, manuals, packaging materials and
+shipping expense. Cost of OEM revenues consisted of cost of
+ 
+                                      14
+<PAGE>
+ 
+royalties except where the OEM elected to purchase shrink wrapped products, in
+which case such costs were as described in the preceding sentence. Costs
+associated with non-recurring engineering fees were included in research and
+development expenses and are not separately identifiable. All development
+costs included in the research and development of software products and
+enhancements to existing products have been expensed as incurred.
+Consequently, there is no amortization of capitalized research and development
+costs included in cost of goods sold.
+ 
+  If negotiations with Microsoft regarding the license and distribution of a
+version of WinFrame based on Microsoft Windows NT Version 4.0 and certain
+future versions of Windows NT technology are successful, the Company believes
+it will be required to pay increased royalty rates on sales of Windows NT
+server-based products. Accordingly, the cost of goods sold as a percentage of
+net revenues will increase in future period and could have a material adverse
+effect on the Company's business, results of operations and financial
+condition. The Company cannot currently quantify the impact on its cost of
+goods sold.
+ 
+  Gross Margin. Gross margin increased from 86.6% in 1995 to 88.5% in 1996,
+and from 78.8% in 1994 to 86.6% in 1995. The increase in gross margin as a
+percent of gross revenues from 1995 to 1996 was primarily attributable to
+changes in product mix, representing changes in the mix of OEM revenues versus
+product sold to distributors and resellers, and different products within the
+WinFrame product line. The increase in gross margin in 1995 was primarily
+attributable to decreased shipments of the Company's NAS product line, which
+had higher associated royalties than WinFrame and WinView products.
+ 
+  The Company anticipates that gross margin and gross margin as a percentage
+of net revenues may decrease as a result of the factors and events described
+above in Overview, Net Revenues and Cost of Goods Sold. The Company cannot
+currently quantify the impact of such decrease.
+ 
+  Research and Development Expenses. Research and development expenses were
+$3.8 million, $2.3 million and $1.9 million in 1996, 1995 and 1994,
+representing 8.6%, 16.1%, and 19.0% of net revenues, for the years ended
+December 31, 1996, 1995 and 1994, respectively. Research and development
+expenses consisted primarily of personnel-related costs. Increases in research
+and development expenses in 1996 and 1995 resulted primarily from additional
+staffing, associated salaries and related expenses required to expand and
+enhance the Company's product lines and, in 1996, third-party expenses
+associated with the translation and localization of the WinFrame products as
+well as increased expenses associated with patent filings relating to certain
+aspects of the Company's software products and technology.
+ 
+  Sales, Marketing and Support Expenses. Sales, marketing and support expenses
+approximated $13.7 million, $6.7 million and $4.4 million, representing 30.9%,
+45.8% and 44.1% of net revenues for the years ended December 31, 1996, 1995
+and 1994, respectively. The increases in sales, marketing, and support
+expenses in 1996 and 1995 resulted primarily from increases in promotional and
+advertising activities, which include co-op advertising programs and other
+promotional activities such as those directed at resellers, training programs,
+trade shows and other direct mail and advertising activities. Sales and
+marketing staff and associated salaries, commissions and related expenses,
+also increased, resulting from efforts to expand the Company's product
+distribution. Additionally, in 1995, recruiting and relocation expenses
+contributed to the increase in these expenses.
+ 
+  General and Administrative Expenses. General and administrative expenses
+were $4.1 million, $1.8 million and $1.4 million, representing 9.2%, 12.2% and
+13.8% of net revenues, for the years ended December 31, 1996, 1995 and 1994,
+respectively. The increase in general and administrative expenses in 1996 was
+primarily due to expenditures associated with being a public company such as
+increased legal fees and associated regulatory filing expenses as well as
+expenses associated with the investor relations function. Additionally, for
+both 1996 and 1995, the increase was also due to increased staff, associated
+salaries and related expenses necessary to support overall increases in the
+scope of the Company's operations, as well as an increase in the provision for
+doubtful accounts due to an increased level of accounts receivable
+attributable to each period's respective increase in sales.
+ 
+                                      15
+<PAGE>
+ 
+  Interest Income, Net. Interest income, net, amounted to $4.5 million,
+$173,000 and $45,000 for the years ended December 31, 1996, 1995 and 1994,
+respectively. The increase in interest income, net, in 1996 and 1995 was
+primarily due to interest income generated from the net proceeds of the
+Company's public offerings which were completed in June 1996 and December
+1995.
+ 
+  Income Taxes. In 1996, the Company's effective tax rate was 16%, reflecting
+the utilization of substantially all of the Company's income tax net operating
+loss carryforwards. In 1995, the Company incurred income tax expense of
+$93,000, representing only Alternative Minimum Taxes due to limitations in
+utilizing the Company's net operating loss carryforwards. The Company had not
+incurred any significant income tax expense from its inception through the
+year ended December 31, 1994.
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+  In 1996 and 1995, the Company generated positive operating cash flows
+primarily from increased profitability. The increases in accounts receivable
+were funded by corresponding increases in deferred revenue, accounts payable
+and accrued royalties and other accounts payable to a shareholder as well as
+other accrued expenses. In June 1996 and December 1995, the Company completed
+public offerings which generated net proceeds of approximately $73.3 million
+and $38.9 million, respectively. During 1996, the Company recognized tax
+benefits from the exercise of non-statutory stock options and disqualifying
+dispositions of incentive stock options of approximately $6.3 million.
+Additionally, deferred tax assets increased during 1996 by approximately $3.2
+million. The increase in deferred tax assets was primarily due to a reduction
+in the valuation allowance of such deferred tax assets when compared to 1995.
+The Company also purchased short-term investments for approximately $38.2
+million during 1996.
+ 
+  The Company generated positive cash flow from operations in 1994 primarily
+from increases in deferred revenue, accrued royalties and other accounts
+payable to a shareholder. These increases were partially offset by an increase
+in accounts receivable.
+ 
+  The Company had lines of credit for working capital and equipment lease
+financing aggregating $2.0 million and $500,000, respectively. These credit
+lines have expired in February 1997. There were no borrowings outstanding
+under the working capital credit line as of December 31, 1996.
+ 
+  At December 31, 1996, the Company had $137.3 million in cash and cash
+equivalents and short-term investments and $139.8 million of working capital.
+The Company's cash and cash equivalents are invested in short-term securities
+to minimize interest rate risk and allow for flexibility in the event of
+immediate cash needs. The Company had $5.5 million in accounts receivable, net
+of allowances, and $2.1 million of deferred revenues, most of which the
+Company anticipates will be earned over the next 12 months.
+ 
+  The Company believes existing cash and cash equivalents and short-term
+investments will be sufficient to meet operating and capital expenditures
+requirements through 1997.
+ 
+  The Company has not paid, and does not intend to pay in the foreseeable
+future, cash dividends on its common stock.
+ 
+CERTAIN FACTORS WHICH MAY AFFECT FUTURE RESULTS
+ 
+  The Company does not provide financial performance forecasts. The Company's
+operating results and financial condition have varied and may in the future
+vary significantly depending on a number of factors. Except for the historical
+information contained herein, the matters contained in this report include
+forward-looking statements that involve risks and uncertainties. The following
+factors, among others, could cause actual results to differ materially from
+those contained in forward-looking statements made in this report and
+presented elsewhere by management from time to time. Such factors, among
+others, may have a material adverse effect upon the Company's business,
+results of operations and financial condition.
+ 
+ 
+                                      16
+<PAGE>
+ 
+  Reliance Upon Strategic Relationship with Microsoft. Microsoft is the
+leading provider of desktop operating systems. The Company is dependent upon
+the license of certain key technology from Microsoft, including certain source
+and object code licenses, technical support and other materials. The Company
+is also dependent on its strategic alliance agreement with Microsoft which
+provides for cooperation in the development of technologies for advanced
+operating systems, and the promotion of advanced Windows application program
+interfaces. Citrix and Microsoft are currently in negotiations regarding the
+licensing of Windows NT Version 4.0 and certain future versions of Windows NT
+technology, as well as licensing certain technology of the Company. In
+February 1997, Microsoft informed Citrix that it intends to provide system
+capability that permits concurrent use of its operating system by multiple
+end-users and additional remote access capabilities for future versions of
+Windows NT. In the event that Microsoft determines to develop the technology
+internally or to pursue alternative sources of the technology, Citrix believes
+that such determination will have a material adverse effect on the Company's
+business, results of operations and financial condition. Although the Company
+is pursuing negotiations with Microsoft regarding the cross-licensing of such
+technologies, there are no assurances that these negotiations will be
+successful. Additionally, as a result of these discussions with Microsoft and
+if the Company is able to secure the licensing of Windows NT Version 4.0 and
+certain future versions of NT technology, the Company believes that royalties
+payable to Microsoft associated with such licensing will increase from current
+levels. If the companies are unable to agree upon the terms of such cross-
+licensing or, if the terms of such cross-licensing are less favorable to
+Citrix than in the past, the Company believes that its net revenues, cost of
+goods sold and corresponding gross margin may be adversely impacted so that
+they will have, in the aggregate, a material adverse effect on the Company's
+business, results of operations and financial condition. The Company cannot
+currently quantify the impact on its business, results of operations and
+financial condition.
+ 
+  Dependence Upon Broad-Based Acceptance of ICA Protocol. The Company believes
+that its success in the markets in which it competes will depend upon its
+ability to make its ICA protocol a de facto standard for supporting
+distributed Windows applications, thereby creating demand for its server
+products.
+ 
+  Dependence Upon Strategic Relationships. In addition to its relationship
+with Microsoft, the Company has strategic relationships with Insignia, NCD,
+Tektronix, and Wyse. The Company is dependent on its strategic partners to
+successfully incorporate the Company's technology into their products and to
+successfully market and sell such products.
+ 
+  Competition. The markets in which the Company competes are intensely
+competitive. Most of the competitors and potential competitors, including
+Microsoft, have significantly greater financial, technical, sales and
+marketing and other resources than the Company. Microsoft recently announced
+that it intends to provide system capability that permits concurrent use of
+the operating system by multiple end-users and additional remote access
+capabilities for future versions of Windows NT. In the event that Microsoft
+determines to develop the technology internally or to pursue alternative
+sources of the technology, Citrix believes that such determination will have a
+material adverse effect on the Company's net revenues in future periods. The
+Company cannot currently quantify the impact on its net revenues in future
+periods.
+ 
+  Dependence on Proprietary Technology. The Company relies on a combination of
+copyright, trademark and trade secret laws, as well as confidentiality
+procedures and contractual provisions to protect its proprietary rights.
+Despite the Company's precautions, it may be possible for unauthorized third
+parties to copy certain portions of the Company's products or to obtain and
+use information regarded as proprietary. Additionally, the laws of some
+foreign countries do not protect the Company's intellectual property to the
+same extent as do the laws of the United States and Canada.
+ 
+  Product Concentration. The Company anticipates that one of its product
+technologies and future derivative products and product lines based upon this
+technology, if any, will constitute a majority of its revenue for the
+foreseeable future. The Company may experience declines in demand for products
+based on this technology, whether as a result of new competitive product
+releases, price competition, lack of success of its strategic partners,
+technological change or other factors. The Company anticipates that WinView
+revenues will decline as a percentage of the Company's net revenues in future
+periods.
+ 
+                                      17
+<PAGE>
+ 
+  Management of Growth and Anticipated Operating Expenses. The Company has
+recently experienced rapid growth in the scope of its operations, the number
+of its employees, and the geographic area of its operations. To manage its
+growth effectively, the Company will be required to continue to implement
+additional management and financial systems and controls, and to expand, train
+and manage its employee base. Additionally, the Company expects that its
+requirements for office facilities and equipment will grow as staffing
+requirements dictate. The Company plans to increase its professional staff
+during 1997 as sales, marketing and support and product development efforts as
+well as associated administrative systems are implemented to support planned
+growth. As a result of this planned growth in staff, the Company believes that
+additional facilities will be required during 1997. The Company anticipates
+that it will occupy an additional 24,000 square feet in the facility into
+which it recently relocated. Although the Company believes that the cost of
+expanding in such additional facilities will not significantly impact its
+financial position or results of operations, the Company anticipates that
+operating expenses will increase during 1997 as a result of its planned growth
+in staff and that such increase may reduce its income from operations and cash
+flows from operating activities in 1997.
+ 
+  Dependence on Key Personnel. The Company's success will depend, in large
+part, upon the services of a number of key employees. The effective management
+of the Company's anticipated growth will depend, in a large part, upon the
+Company's ability to retain its highly skilled technical, managerial and
+marketing personnel as well as its ability to attract and maintain
+replacements for and additions to such personnel in the future.
+ 
+  New Products and Technological Change. The markets for the Company's
+products are relatively new and are characterized by rapid technological
+change, evolving industry standards, changes in end-user requirements and
+frequent new product introductions and enhancements, including enhancements to
+certain key technology licensed from Microsoft. The Company believes it will
+incur additional costs and royalties associated with the development,
+licensing, or acquisition of new technologies or enhancements to existing
+products which will increase the Company's cost of goods sold and operating
+expenses. The Company cannot currently quantify such increase. The Company may
+use a substantial portion of its cash and cash equivalents and short-term
+investments to fund these additional costs, in which case, the Company's
+interest income will decrease. Additionally, the Company and others may
+announce new products, capabilities or technologies that could replace or
+shorten the life cycle of the Company's existing product offerings. These
+market characteristics will require the Company to continuously enhance its
+current products and develop and introduce new products to keep pace with
+technological developments and respond to evolving end-user requirements.
+Furthermore, the Company and Microsoft are currently in negotiations regarding
+the license and distribution of a version of WinFrame based on Microsoft
+Windows NT Version 4.0 and certain future versions of Windows NT technology.
+As mentioned above, if the negotiations involving such licensing arrangements
+result in less favorable terms for Citrix than in the past, or if Citrix is
+unsuccessful in securing the license and distribution of WinFrame based on
+Microsoft Windows NT Version 4.0 and certain future versions of Windows NT
+technology, the Company believes that its net revenues, cost of goods sold and
+corresponding gross margin may be adversely impacted so that they will have,
+in the aggregate, a material adverse effect on the Company's business, results
+of operations and financial condition. The Company cannot currently quantify
+the impact on its business, results of operations and financial condition.
+ 
+  Potential for Undetected Errors. Despite significant testing by the Company
+and by current and potential customers, errors may not be found in new
+products until after commencement of commercial shipments. Additionally, third
+party products, upon which the Company's products are dependent, may contain
+defects which could reduce the performance of the Company's products or render
+them useless.
+ 
+  Reliance Upon Indirect Distribution Channels and Major Distributors. The
+Company relies significantly on independent distributors and resellers for the
+marketing and distribution of its products. The Company's distributors and
+resellers are not within the control of the Company, are not obligated to
+purchase products from the Company, and may also represent other lines of
+products.
+ 
+  Need to Expand Channels of Distribution. The Company intends to leverage its
+relationships with hardware and software vendors and systems integrators to
+encourage these parties to recommend or distribute
+ 
+                                      18
+<PAGE>
+ 
+the Company's products. In addition, an integral part of the Company's
+strategy is to expand its direct sales force and add third-party distributors
+both domestically and internationally. The Company is currently investing, and
+intends to continue to invest, significant resources to develop these
+channels, which could adversely affect the Company's operating margins and
+related cash flows from operating activities.
+ 
+  Product Returns and Price Protection Rights. The Company provides most of
+its distributors and resellers with product return rights for stock balancing
+or limited product evaluation. The Company also provides most of its
+distributors and resellers with price protection rights. The Company has
+established reserves for each of these circumstances where appropriate, based
+on historical trends and evaluation of current circumstances.
+ 
+  International Operations. The Company's continued growth and profitability
+will require expansion of its international operations. To successfully expand
+international sales, the Company will need to establish additional foreign
+operations, hire additional personnel and recruit additional international
+resellers. Such international operations are subject to certain risks, such as
+difficulties in staffing and managing foreign operations, dependence on
+independent relicensors, fluctuations in foreign currency exchange rates,
+compliance with foreign regulatory and market requirements, variability of
+foreign economic conditions and changing restrictions imposed by regulatory
+requirements, tariffs or other trade barriers or by United States export laws,
+costs of localizing products and marketing such products in foreign countries,
+longer accounts receivable payment cycles, potentially adverse tax
+consequences, including restrictions on repatriation of earnings and the
+burdens of complying with a wide variety of foreign laws.
+ 
+  Fluctuations in Economic and Market Conditions. The demand for the Company's
+products depends in part upon the general demand for computer hardware and
+software, which fluctuates based on numerous factors, including capital
+spending levels and general economic conditions.
+ 
+  Effective Income Tax Rate. During 1996, the Company has used substantially
+all of its income tax net operating loss carryforwards. Accordingly, while
+certain tax credit carryforwards are available to effect future taxable
+income, the Company's effective tax rate in the future will approximate the
+federal and appropriate states' statutory income tax rates. The anticipated
+increase in effective tax rate may reduce the Company's net income and cash
+flows from operating activities in 1997.
+ 
+  Growth Rate. The Company's revenue growth rate in 1997 may not approach the
+level attained in 1996, which was high, due primarily to the introduction of
+WinFrame in late 1995. As discussed above, the Company believes that its costs
+of goods sold and certain operating expenses will increase in 1997. Due to the
+fixed nature of a significant portion of such expenses, together with the
+possibility of slower revenue growth, the Company's income from operations and
+cash flows from operating and investing activities may decrease in 1997.
+ 
+ITEM 8. FINANCIAL STATEMENTS AND SCHEDULES
+ 
+  The Company's Financial Statements and Schedules, together with the
+auditors' report thereon, appear at pages F-1 through F-21 and S-1,
+respectively, of this Form 10-K.
+ 
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+         FINANCIAL DISCLOSURE.
+ 
+  There have been no changes in or disagreements with accountants on
+accounting or financial disclosure matters during the Company's two most
+recent fiscal years.
+ 
+                                   PART III
+ 
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.
+ 
+  The information required under this item is incorporated herein by reference
+to the Company's definitive proxy statement pursuant to Regulation 14A, which
+proxy statement will be filed with the Securities and Exchange Commission not
+later than 120 days after the close of the Company's fiscal year ended
+December 31, 1996.
+ 
+                                      19
+<PAGE>
+ 
+ITEM 11. EXECUTIVE COMPENSATION.
+ 
+  The information required under this item is incorporated herein by reference
+to the Company's definitive proxy statement pursuant to Regulation 14A, which
+proxy statement will be filed with the Securities and Exchange Commission not
+later than 120 days after the close of the Company's fiscal year ended
+December 31, 1996.
+ 
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+ 
+  The information required under this item is incorporated herein by reference
+to the Company's definitive proxy statement pursuant to Regulation 14A, which
+proxy statement will be filed with the Securities and Exchange Commission not
+later than 120 days after the close of the Company's fiscal year ended
+December 31, 1996.
+ 
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+ 
+  The information required under this item is incorporated herein by reference
+to the Company's definitive proxy statement pursuant to Regulation 14A, which
+proxy statement will be filed with the Securities and Exchange Commission not
+later than 120 days after the close of the Company's fiscal year ended
+December 31, 1996.
+ 
+                                      20
+<PAGE>
+ 
+                                    PART IV
+ 
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K.
+ 
+<TABLE>
+ <C>         <S>
+      (A)    1. CONSOLIDATED FINANCIAL STATEMENTS.
+             For a list of the consolidated financial information included
+             herein, see Index on Page F-1.
+             2. FINANCIAL STATEMENT SCHEDULES.
+             The following consolidated financial statement schedule is
+             included in Item 8:
+             Valuation and Qualifying Accounts
+             3. LIST OF EXHIBITS.
+<CAPTION>
+ EXHIBIT NO. DESCRIPTION
+ ----------- -----------
+ <C>         <S>
+  3.1(1)     Amended and Restated Certificate of Incorporation of the Company
+  3.2(1)     Amended and Restated By-laws of the Company
+  3.3(2)     Certificate of Amendment of Amended and Restated Certificate of
+             Incorporation
+  4.1(1)     Specimen certificate representing the Common Stock
+ 10.1(1)*    1989 Stock Option Plan
+ 10.2(1)*    1995 Stock Plan
+ 10.3(1)*    1995 Non-Employee Director Stock Option Plan
+ 10.4(1)*    1995 Employee Stock Purchase Plan, as amended
+ 10.5(1)     OEM Software License Agreement between the Company and Digital
+             Communications Associates, Inc. ("DCA"), dated as of October 5,
+             1993
+ 10.6(1)     Memorandum of Agreement between the Company and DCA, dated October
+             5, 1993
+ 10.7(1)     First Addendum to OEM Software License Agreement between the
+             Company and DCA, dated May 25, 1994
+ 10.8(1)     Amendment No. 1 to OEM Software License Agreement between the
+             Company and DCA dated March 23, 1995
+ 10.9(1)     Client/Server Software License Agreement between the Company and
+             Insignia Solutions Inc., dated August 4, 1995
+ 10.10(1)    Microsoft Corporation Source Code Agreement between the Company
+             and Microsoft Corporation ("Microsoft") dated November 15, 1989
+ 10.11(1)    Amendment No. 1 to the Source Code Agreement between the Company
+             and Microsoft dated October 1, 1992
+ 10.12(1)    License Agreement for Microsoft OS/2 Version Releases 1.x, 2.x
+             between the Company and Microsoft dated August 15, 1990
+ 10.13(1)    Amendment No. 1 to the License Agreement between the Company and
+             Microsoft dated August 15, 1990, Contract No. 5198-0228 dated May
+             6, 1991
+ 10.14(1)    Amendment No. 2 to License Agreement between the Company and
+             Microsoft for Microsoft OS/2 Version Releases 1.x, 2.x, dated
+             October 1, 1992
+ 10.15(1)    Amendment No. 3 to the License Agreement between the Company and
+             Microsoft dated August 15, 1990, Contract No. 5198-0228 dated
+             January 1, 1994
+ 10.16(1)    Amendment No. 4 to the License Agreement between the Company and
+             Microsoft dated August 15, 1990, dated January 31, 1995
+ 10.17(1)    Strategic Alliance Agreement between the Company and Microsoft
+             dated December 12, 1991
+ 10.18(1)    Software Development and License Agreement between the Company and
+             Novell, Inc. ("Novell"), dated June 15, 1992
+ 10.19(1)    Software Development and License Agreement between the Company and
+             Novell, dated July 1, 1993
+ 10.20(1)    First Amendment to the Software Development and License Agreement
+             between the Company and Novell, dated March 7, 1995
+ 10.21(1)    NetWare Client License Agreement between the Company and Novell,
+             dated June 14, 1995
+</TABLE>
+ 
+                                       21
+<PAGE>
+ 
+<TABLE>
+<CAPTION>
+ EXHIBIT NO. DESCRIPTION
+ ----------- -----------
+ <C>         <S>
+ 10.22(1)    Software License Agreement between the Company and Tektronix,
+             Inc., dated September 23, 1994
+ 10.23(1)    Client Software License Agreement between the Company and Wyse
+             Technology dated June 15, 1995
+ 10.24(1)    Client/Server Software License Agreement between the Company and
+             Zenith Data Systems Corporation dated June 21, 1995
+ 10.25(1)    Form of Indemnification Agreement
+ 10.26(2)    Lease Agreement between Halmos Trading and Investment Company and
+             the Company dated June 6, 1996
+ 10.27(3)    License, Development and Marketing Agreement dated July 19, 1996
+             between the Company and Microsoft Corporation
+ 11.1**      Statement re computation of earnings per share
+ 21.1**      List of Subsidiaries
+ 23.1**      Consent of Ernst & Young LLP
+ 24.1**      Power of Attorney (Included in signature page)
+ 27.1**      Financial Data Schedule
+</TABLE>
+- --------
+(1) Incorporated herein by reference to the exhibits to the Company's
+    Registration Statement on Form S-1 (File No. 33-98542), as amended.
+(2) Incorporated herein by reference to Exhibit 10 of the Company's
+    Registration Statement on Form S-1 (File No. 333-4515), as amended.
+(3) Incorporated herein by reference to Exhibit 10 of the Company's Quarterly
+    Report on Form 10-Q for the quarter ended September 30, 1996.
+*  Indicates a management contract or any compensatory plan, contract or
+   arrangement.
+** Filed herewith.
+ 
+  (B) REPORTS ON FORM 8-K.
+ 
+  There were no reports on Form 8-K filed by the Company during the fourth
+quarter of 1996.
+ 
+  (C) EXHIBITS.
+ 
+  The Company hereby files as part of this Form 10-K the exhibits listed in
+Item 14(a)(3) above. Exhibits which are incorporated herein by reference can be
+inspected and copied at the public reference facilities maintained by the
+Commission, 450 Fifth Street, N.W., Room 1024, Washington, D.C., and at the
+Commission's regional offices at CitiCorp Center, 500 West Madison Street,
+Suite 1400, Chicago, IL 60661-2511 and Seven World Trade Center, Suite 1300,
+New York, NY 10048. Copies of such material can also be obtained from the
+Public Reference Section of the Commission, 450 Fifth Street, N.W., Washington,
+D.C. 29549, at prescribed rates. The Commission maintains a Web site that
+contains reports, proxy and information statements and other information that
+can be reviewed at http://www.sec.gov.
+ 
+  (D) FINANCIAL STATEMENT SCHEDULE.
+ 
+  The Company hereby files as part of this Form 10-K the consolidated financial
+statement schedule listed in Item 14(a)(2) above, which is attached hereto.
+ 
+                                       22
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+LIST OF FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULE
+ 
+The following consolidated financial statements of Citrix Systems, Inc. are
+included in Item 8:
+ 
+  Consolidated Balance Sheets--December 31, 1996 and 1995
+ 
+  Consolidated Statements of Operations--Years ended December 31, 1996, 1995
+  and 1994
+ 
+  Consolidated Statements of Redeemable Convertible Preferred Stock and
+  Common Shareholders' Equity (Deficit)--Years ended December 31, 1996, 1995
+  and 1994
+ 
+  Consolidated Statements of Cash Flows--Years ended December 31, 1996, 1995
+  and 1994
+ 
+  Notes to Consolidated Financial Statements--December 31, 1996
+ 
+  The following consolidated financial statement schedule of Citrix Systems,
+  Inc. is included in Item 14(d):
+ 
+  Schedule II Valuation and Qualifying Accounts
+ 
+  All other schedules for which provision is made in the applicable accounting
+regulation of the Securities and Exchange Commission are not required under
+the related instructions or are inapplicable and therefore have been omitted.
+ 
+                                      F-1
+<PAGE>
+ 
+              REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+ 
+Board of Directors and Shareholders
+Citrix Systems, Inc.
+ 
+  We have audited the accompanying consolidated balance sheets of Citrix
+Systems, Inc. as of December 31, 1996 and 1995, and the related consolidated
+statements of operations, redeemable convertible preferred stock and common
+shareholders (deficit) equity and cash flows for each of the three years in
+the period ended December 31, 1996. Our audits also included the financial
+statement schedule listed in the index at Item 14(a). These financial
+statements and schedule are the responsibility of the Company's management.
+Our responsibility is to express an opinion on these financial statements and
+schedule based on our audits.
+ 
+  We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.
+ 
+  In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position
+of Citrix Systems, Inc. at December 31, 1996 and 1995, and the consolidated
+results of its operations and its cash flows for each of the three years in
+the period ended December 31, 1996 in conformity with generally accepted
+accounting principles. Also, in our opinion, the related financial statement
+schedule, when considered in relation to the basic financial statements taken
+as a whole, presents fairly in all material respects the information set forth
+therein.
+ 
+                                          /s/ Ernst & Young LLP
+ 
+West Palm Beach, Florida
+January 15, 1997, except for paragraph 21 of Note 2 and Note 16,
+as to which the dates are February 26, 1997 and March 19, 1997, respectively
+ 
+                                      F-2
+<PAGE>
+ 
+                              CITRIX SYSTEMS, INC.
+ 
+                          CONSOLIDATED BALANCE SHEETS
+ 
+<TABLE>
+<CAPTION>
+                                                            DECEMBER 31
+                                                     --------------------------
+                                                         1996          1995
+                                                     ------------  ------------
+<S>                                                  <C>           <C>
+ASSETS
+Current assets:
+  Cash and cash equivalents........................  $ 99,135,049  $ 43,471,491
+  Short-term investments...........................    38,206,495           --
+  Accounts receivable, net of allowances of
+   $2,552,039 and $1,008,425 at December 31, 1996
+   and 1995, respectively..........................     5,525,315     2,328,512
+  Inventories......................................       696,336       194,023
+  Prepaid expenses.................................       765,818       230,313
+  Deferred tax assets..............................     3,168,964           --
+  Note receivable from officer, including accrued
+   interest of $28,910 at
+   December 31, 1995...............................           --        128,910
+                                                     ------------  ------------
+    Total current assets...........................   147,497,977    46,353,249
+Property and equipment:
+  Computer equipment under capital leases..........       365,725       365,725
+  Computer equipment and software..................     1,099,012       146,745
+  Office equipment and furniture...................       354,640        66,534
+  Leasehold improvements...........................       739,111        16,640
+                                                     ------------  ------------
+                                                        2,558,488       595,644
+  Less accumulated depreciation and amortization...      (476,929)     (293,648)
+                                                     ------------  ------------
+                                                        2,081,559       301,996
+Other assets.......................................           --         59,941
+                                                     ------------  ------------
+                                                     $149,579,536  $ 46,715,186
+                                                     ============  ============
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable.................................  $    755,908  $    546,266
+  Accrued royalties and other accounts payable to
+   shareholder.....................................     1,524,126       521,517
+  Other accrued expenses...........................     3,283,197     1,137,478
+  Deferred revenue.................................     2,074,670     1,221,767
+  Current portion of capital lease obligations pay-
+   able............................................        82,434       144,976
+  Income taxes payable.............................           --         93,100
+                                                     ------------  ------------
+    Total current liabilities......................     7,720,335     3,665,104
+Long-term portion of capital lease obligations pay-
+ able..............................................         8,217        88,379
+                                                     ------------  ------------
+    Total liabilities..............................     7,728,552     3,753,483
+Commitments and contingencies
+Shareholders' equity:
+  Preferred stock at $.01 par value: 5,000,000
+   shares authorized, none issued and outstanding..           --            --
+  Common stock at $.001 par value: 60,000,000 and
+   30,000,000 shares authorized; and 26,680,236 and
+   23,650,916 issued and outstanding at 1996 and
+   1995, respectively..............................        26,680        23,651
+  Additional paid-in capital.......................   135,123,455    54,938,583
+  Retained earnings (accumulated deficit)..........     6,700,849   (12,000,531)
+                                                     ------------  ------------
+    Total shareholders' equity.....................   141,850,984    42,961,703
+                                                     ------------  ------------
+                                                     $149,579,536  $ 46,715,186
+                                                     ============  ============
+</TABLE>
+ 
+                            See accompanying notes.
+ 
+                                      F-3
+<PAGE>
+ 
+                              CITRIX SYSTEMS, INC.
+ 
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+ 
+<TABLE>
+<CAPTION>
+                                                YEAR ENDED DECEMBER 31
+                                          -----------------------------------
+                                             1996        1995        1994
+                                          ----------- ----------- -----------
+<S>                                       <C>         <C>         <C>
+Net revenues............................. $44,527,082 $14,567,922 $10,085,562
+Cost of goods sold.......................   5,098,975   1,955,838   2,137,589
+                                          ----------- ----------- -----------
+Gross margin.............................  39,428,107  12,612,084   7,947,973
+Operating expenses:
+  Research and development...............   3,843,162   2,343,313   1,912,362
+  Sales, marketing and support...........  13,741,474   6,669,560   4,443,472
+  General and administrative.............   4,125,760   1,784,011   1,395,343
+                                          ----------- ----------- -----------
+Total operating expenses.................  21,710,396  10,796,884   7,751,177
+                                          ----------- ----------- -----------
+Income from operations...................  17,717,711   1,815,200     196,796
+Interest income, net.....................   4,545,176     172,915      44,935
+                                          ----------- ----------- -----------
+Income before income taxes...............  22,262,887   1,988,115     241,731
+Income taxes.............................   3,561,507      93,100         --
+                                          ----------- ----------- -----------
+Net income...............................  18,701,380   1,895,015     241,731
+Less redeemable convertible preferred
+ stock accretion.........................         --          --     (716,441)
+                                          ----------- ----------- -----------
+Net income (loss) attributable to common
+ shares.................................. $18,701,380 $ 1,895,015 $  (474,710)
+                                          =========== =========== ===========
+Historical:
+  Net income per share................... $       .68 $       .09
+                                          =========== ===========
+  Weighted average shares outstanding....  27,303,144  20,403,230
+                                          =========== ===========
+Pro forma:
+  Net income per share...................                         $       .01
+                                                                  ===========
+  Weighted average shares outstanding....                          20,193,694
+                                                                  ===========
+</TABLE>
+ 
+ 
+                            See accompanying notes.
+ 
+                                      F-4
+<PAGE>
+ 
+ 
+ 
+ 
+                      [THIS PAGE INTENTIONALLY LEFT BLANK]
+ 
+ 
+ 
+ 
+                                      F-5
+<PAGE>
+ 
+                              CITRIX SYSTEMS, INC.
+ 
+          CONSOLIDATED STATEMENTS OF REDEEMABLE CONVERTIBLE PREFERRED
+                 STOCK AND COMMON SHAREHOLDERS EQUITY (DEFICIT)
+ 
+<TABLE>
+<CAPTION>
+                                       REDEEMABLE CONVERTIBLE PREFERRED STOCK
+                         ------------------------------------------------------------------------
+                                SERIES A                SERIES B                 SERIES C
+                         -----------------------  ----------------------  -----------------------
+                           SHARES      AMOUNT       SHARES      AMOUNT      SHARES      AMOUNT
+                         ----------  -----------  ----------  ----------  ----------  -----------
+<S>                      <C>         <C>          <C>         <C>         <C>         <C>
+Balance at December 31,
+ 1993...................  3,039,000  $ 4,132,354   2,431,200  $3,560,095   3,455,173  $ 5,400,237
+ Exercise of stock
+  options...............
+ Issuance of Series D
+  redeemable convertible
+  preferred stock for
+  cash and conversion of
+  notes payable.........
+ Accretion to redemption
+  value.................                 311,806                 196,486                  208,149
+ Net income.............
+                         ----------  -----------  ----------  ----------  ----------  -----------
+Balance at December 31,
+ 1994...................  3,039,000    4,444,160   2,431,200   3,756,581   3,455,173    5,608,386
+ Exercise of stock
+  options...............
+ Repurchase and
+  cancellation of common
+  stock previously
+  issued................
+ Accretion to redemption
+  value.................              10,275,789               7,788,333               10,303,373
+ Restoration of previous
+  accretion.............             (11,680,949)             (8,505,914)             (10,901,759)
+ Exercise of warrants...                                                      66,661          450
+ Issuance of common
+  stock through public
+  offering (net of
+  offering costs of
+  $4,237,717)...........
+ Conversion of preferred
+  stock to common
+  stock................. (3,039,000)  (3,039,000) (2,431,200) (3,039,000) (3,521,834)  (5,010,450)
+ Net income.............
+                         ----------  -----------  ----------  ----------  ----------  -----------
+Balance at December 31,
+ 1995...................        --           --          --          --          --           --
+ Exercise of stock
+  options...............
+ Exercise of warrants...
+ Common stock issued
+  under employee stock
+  purchase plan.........
+ Issuance of common
+  stock through public
+  offering (net of
+  offering costs of
+  $4,148,056)...........
+ Tax benefit from
+  employer stock plans..
+ Net income.............
+                         ----------  -----------  ----------  ----------  ----------  -----------
+Balance at December 31,
+ 1996...................        --   $        --         --   $       --         --   $        --
+                         ==========  ===========  ==========  ==========  ==========  ===========
+</TABLE>
+ 
+ 
+                            See accompanying notes.
+ 
+                                      F-6
+<PAGE>
+ 
+ 
+<TABLE>
+<CAPTION>
+                                  COMMON SHAREHOLDERS' EQUITY (DEFICIT)
+- ------------------------  --------------------------------------------------------
+       SERIES D              COMMON STOCK       ADDITIONAL
+- ------------------------  -------------------    PAID-IN       RETAINED EARNINGS
+  SHARES       AMOUNT       SHARES    AMOUNT     CAPITAL     (ACCUMULATED DEFICIT)
+- -----------  -----------  ----------  -------  ------------  ---------------------
+<S>          <C>          <C>         <C>      <C>           <C>
+  1,912,040  $ 3,537,276   1,151,976  $ 1,152  $        --       $ (16,104,474)
+                           1,022,390    1,022       103,532
+    682,128    1,261,937
+                                                   (103,532)          (612,909)
+                                                                       241,731
+- -----------  -----------  ----------  -------  ------------      -------------
+  2,594,168    4,799,213   2,174,366    2,174           --         (16,475,652)
+                             313,276      313        48,636
+                             (35,000)     (35)       (4,821)
+               6,167,449                            (29,360)       (34,505,584)
+              (6,167,449)                           170,381         37,085,690
+                           5,750,000    5,750    38,881,533
+(2,594,168)   (4,799,213) 15,448,274   15,449    15,872,214
+                                                                     1,895,015
+- -----------  -----------  ----------  -------  ------------      -------------
+        --           --   23,650,916   23,651    54,938,583        (12,000,531)
+                             546,203      546       332,565
+                              96,704       97
+                              21,525       21       224,683
+                           2,364,888    2,365    73,299,661
+                                                  6,327,963
+                                                                    18,701,380
+- -----------  -----------  ----------  -------  ------------      -------------
+        --   $       --   26,680,236  $26,680  $135,123,455      $   6,700,849
+===========  ===========  ==========  =======  ============      =============
+</TABLE>
+ 
+                                      F-7
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+<TABLE>
+<CAPTION>
+                                               YEAR ENDED DECEMBER 31
+                                         -------------------------------------
+                                             1996         1995         1994
+                                         ------------  -----------  ----------
+<S>                                      <C>           <C>          <C>
+OPERATING ACTIVITIES
+Net income.............................. $ 18,701,380  $ 1,895,015  $  241,731
+Adjustments to reconcile net income to
+ net cash provided by operating
+ activities:
+  Depreciation and amortization.........      375,720      185,157      55,368
+  Tax benefit related to the exercise of
+   non-statutory stock options and
+   disqualified dispositions of
+   incentive stock options..............    6,327,963          --          --
+  Deferred tax assets...................   (3,168,964)         --          --
+  Provision for doubtful accounts.......      624,427      241,253      61,000
+  Provision for product returns.........    1,318,869      311,469      67,497
+  Changes in operating assets and
+   liabilities:
+    Accounts receivable.................   (5,140,099)  (1,425,755)   (558,829)
+    Inventories.........................     (502,313)     (65,176)    (90,161)
+    Prepaid expenses....................     (535,503)    (130,003)    (85,345)
+    Other assets........................       59,941      (59,941)       (361)
+    Interest on note receivable from
+     officer............................       28,910       (8,090)     (7,294)
+    Deferred revenue....................      852,902      813,647     308,120
+    Accounts payable....................      209,642      256,087     (49,042)
+    Accrued royalties and other accounts
+     payable to shareholder.............    1,002,609      165,077     356,440
+    Income taxes payable................      (93,100)      93,100         --
+    Other accrued expenses..............    2,145,719      526,970     178,761
+                                         ------------  -----------  ----------
+Net cash provided by operating
+ activities.............................   22,208,103    2,798,810     477,885
+INVESTING ACTIVITIES
+Purchases of short-term investments.....  (38,206,495)         --          --
+Purchases of property and equipment.....   (2,155,284)     (62,282)    (87,827)
+Proceeds from note receivable from
+ officer................................      100,000          --          --
+Proceeds from sale of property and
+ equipment..............................          --           --       21,092
+                                         ------------  -----------  ----------
+Net cash used in investing activities...  (40,261,779)     (62,282)    (66,735)
+FINANCING ACTIVITIES
+Net proceeds from issuance of common
+ stock..................................   73,859,938   38,936,681     104,554
+Repurchase of common stock previously
+ issued.................................          --        (4,856)        --
+Net proceeds from issuance of preferred
+ stock..................................          --           --      353,667
+Proceeds from line of credit............          --       600,000      25,000
+Payment on line of credit...............          --      (600,000)    (25,000)
+Payments on capital lease obligations...     (142,704)    (109,643)    (22,727)
+                                         ------------  -----------  ----------
+Net cash provided by financing
+ activities.............................   73,717,234   38,822,182     435,494
+                                         ------------  -----------  ----------
+Increase in cash and cash equivalents...   55,663,558   41,558,710     846,644
+Cash and cash equivalents at beginning
+ of year................................   43,471,491    1,912,781   1,066,137
+                                         ------------  -----------  ----------
+Cash and cash equivalents at end of
+ year................................... $ 99,135,049  $43,471,491  $1,912,781
+                                         ============  ===========  ==========
+ 
+SUPPLEMENTAL CASH FLOW INFORMATION
+ 
+  The Company paid interest of approximately $19,000, $36,000 and $13,000
+during the years ended December 31, 1996, 1995 and 1994, respectively.
+<CAPTION>
+                                               YEAR ENDED DECEMBER 31
+                                         -------------------------------------
+                                             1996         1995         1994
+                                         ------------  -----------  ----------
+<S>                                      <C>           <C>          <C>
+SUPPLEMENTAL DISCLOSURES OF NON-CASH
+ INVESTING AND FINANCING ACTIVITIES
+Property and equipment acquired under
+ capital lease.......................... $        --   $   211,338  $  154,387
+                                         ============  ===========  ==========
+Conversion of notes payable to Series D
+ redeemable convertible preferred
+ stock.................................. $        --   $       --   $  908,270
+                                         ============  ===========  ==========
+</TABLE>
+ 
+                            See accompanying notes.
+ 
+                                      F-8
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+                  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+                               DECEMBER 31, 1996
+ 
+1. ORGANIZATION
+ 
+  Citrix Systems, Inc. (the Company), a Delaware corporation, was founded on
+April 17, 1989 for the purpose of designing, developing and selling personal
+computer-based operating system software. Customers for the Company's products
+span a broad range of industries. The Company markets its products through
+multiple indirect channels such as distributors, value-added resellers and
+original equipment manufacturers, primarily in the United States and in
+Europe.
+ 
+  The Company has formed wholly-owned subsidiaries, primarily in Europe, for
+the purpose of expanding its international presence.
+ 
+2. SIGNIFICANT ACCOUNTING POLICIES
+ 
+ Consolidation Policy
+ 
+  The consolidated financial statements of the Company include the accounts of
+its five wholly-owned subsidiaries. All significant transactions between the
+Company and its subsidiaries have been eliminated in consolidation.
+ 
+ Cash and Cash Equivalents
+ 
+  For the purposes of the consolidated statements of cash flows, cash and cash
+equivalents include marketable securities which are primarily government
+securities, corporate notes, bonds and paper and money market funds consisting
+of various instruments with contractual maturities of three months or less.
+The Company minimizes its credit risk associated with cash and cash
+equivalents by using high quality credit instruments.
+ 
+ Short-Term Investments
+ 
+  Short-term investments at December 31, 1996 primarily consist of various
+government securities. The Company follows the provisions of Statement of
+Financial Accounting Standards No. 115, "Accounting for Certain Investments in
+Debt and Equity Securities" (SFAS No. 115). SFAS No. 115 requires investments
+to be classified based on management's intent in three categories: held-to-
+maturity securities, available-for-sale securities and trading securities.
+Held-to-maturity securities are recorded at amortized cost. Available-for-sale
+securities are recorded at market value with unrealized gains and losses
+reported as a separate component of shareholders' equity. Trading securities
+are recorded at market value with unrealized gains and losses reported in the
+earnings. The Company classifies its short-term investments as available-for-
+sale securities. The average contractual maturity of the Company's short-term
+investments does not exceed four months. Substantially all of the Company's
+short-term investments had a contractual maturity of less than 12 months.
+ 
+ Accounts Receivable
+ 
+  Substantially all of the Company's accounts receivable are due from
+distributors and value-added resellers of microcomputer software. Collateral
+is not required. Credit losses are provided for in the consolidated financial
+statements and have been within management's expectations. No significant
+customer or group of customers within a certain geographical region represent
+a significant concentration of credit risks.
+ 
+ Inventories
+ 
+  Inventories, consisting primarily of finished goods, are stated at the lower
+of cost (determined by the first-in, first-out method) or market.
+ 
+                                      F-9
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+ 
+ Property and Equipment
+ 
+  Property and equipment is stated at cost. Depreciation is computed using the
+straight-line method over the estimated useful lives of the assets which is
+approximately three years for computer equipment, software, office equipment
+and furniture, and approximately five years for leasehold improvements. Assets
+under capital lease are amortized over the shorter of the asset life or the
+remaining lease term which is approximately 30 months. Amortization of assets
+under capital lease is included in depreciation expense. Accumulated
+amortization of computer equipment under capital leases approximated $280,000
+and $135,000 at December 31, 1996 and 1995, respectively.
+ 
+ Revenue Recognition
+ 
+  The Company recognizes revenue in accordance with Statement of Position
+(SOP) 91-1, "Software Revenue Recognition," issued by the American Institute
+of Certified Public Accountants (AICPA).
+ 
+  Revenue from product sales is recognized upon product shipment only if no
+significant Company obligations remain and collection of the resulting
+receivable is deemed probable. Revenue from advance payments of license
+revenue and fees from products licensed to original equipment manufacturers is
+recognized when all significant obligations of performance under the terms of
+the license agreement have been completed and any amounts received are no
+longer refundable; in the event that advance payments are not received,
+revenue is recognized when collectibility is reasonably assured. Revenue from
+fees representing charges to third parties to incorporate the Company's
+products into their systems, and fees for research and development services
+integral to facilitating licensing arrangements are recognized as development
+efforts are completed or contract milestones are achieved.
+ 
+  The Company provides most of its distributors and resellers with product
+return rights for stock balancing and price protection rights. Stock balancing
+rights permit distributors and resellers to return products to the Company for
+credit within specified limits and subject to ordering an equal amount of the
+Company's products. Price protection rights require that the Company grant
+retroactive price adjustments for inventories of the Company's products held
+by distributors or resellers if the Company lowers its prices for such
+products. Allowances for product returns amounted to approximately $1,928,000
+and $609,000 at December 31, 1996 and 1995, respectively. The Company has not
+and has no plan to reduce its prices for inventory currently held by
+distributors or resellers; accordingly, there are no reserves for price
+protection at December 31, 1996 and 1995.
+ 
+  Revenue from training programs and software maintenance, service and support
+arrangements totaling $1,474,106, $591,368 and $283,365 for the years ended
+December 31, 1996, 1995 and 1994, respectively, is recognized when the
+services are provided. Such items are included in net revenue. The costs of
+providing training and services are included in sales, marketing and support
+expenses.
+ 
+ Royalty Expense
+ 
+  The Company is a party to licensing agreements with various entities which
+require no minimum payment commitment and give the Company the right to use
+certain software object code in the development of its products in exchange
+for the payment of certain amounts based upon the sales of the related
+products. The licensing agreements have terms ranging from one to five years,
+and include renewal options. Royalty expense related to these agreements is
+included in cost of goods sold.
+ 
+ 
+                                     F-10
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+ Advertising Expense
+ 
+  Effective January 1, 1995, the Company adopted SOP 93-7, "Reporting on
+Advertising Costs," issued by the AICPA. Adoption of SOP 93-7 had no effect on
+the consolidated financial statements.
+ 
+  The Company expenses advertising costs as incurred. The Company recognized
+advertising expenses of $1,733,000, $576,000 and $300,000 during the years
+ended December 31, 1996, 1995 and 1994, respectively. These amounts are
+included in sales, marketing and support expenses. The Company did not incur
+any direct response advertising cost, as defined by SOP 93-7, during 1996 and
+1995.
+ 
+ Income Taxes
+ 
+  Deferred income tax assets and liabilities are determined based upon
+differences between the financial statement and income tax basis of assets and
+liabilities using enacted tax rates in effect for the year in which the
+differences are expected to reverse.
+ 
+ Software Development Costs
+ 
+  SFAS No. 86 "Accounting for the Costs of Computer Software to be Sold,
+Leased or Otherwise Marketed" requires software development costs to be
+capitalized upon the establishment of technological feasibility. The
+establishment of technological feasibility and the ongoing assessment of the
+recoverability of these costs requires considerable judgment by management
+with respect to certain external factors such as anticipated future revenue,
+estimated economic life, and changes in software and hardware technologies.
+Capitalizable software development costs have not been significant and have
+been expensed as incurred.
+ 
+ Risks and Uncertainties
+ 
+  The Company's operating results and financial condition have varied and may
+in the future vary significantly depending on a number of factors. The
+following factors may have a material adverse effect upon the Company's
+business, results of operations and financial condition.
+ 
+ Use of Estimates
+ 
+  The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reported in the consolidated financial
+statements and accompanying notes. While the Company believes that such
+estimates are fair when considered in conjunction with the consolidated
+financial position and results of operations taken as a whole, the actual
+amount of such estimates when known may vary from these estimates.
+ 
+ Reliance Upon Strategic Relationship
+ 
+  A shareholder is the leading provider of desktop operating systems. The
+Company is dependent upon the license of certain key technology from this
+shareholder including certain source and object code licenses, technical
+support and other materials. The Company is also dependent on its strategic
+alliance agreement with this shareholder which provides for cooperation in the
+development of technologies for advanced operating systems, and the promotion
+of advanced application program interfaces.
+ 
+ Product Concentration
+ 
+  The Company anticipates that one of its product technologies and future
+derivative products and product lines based upon this technology, if any, will
+constitute a majority of its revenue for the foreseeable future. The Company
+may experience declines in demand for products based on this technology,
+whether as a result of new competitive product releases, price competition,
+lack of success of its strategic partners, technological change or other
+factors.
+ 
+                                     F-11
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+ 
+ New Product Enhancements and Technical Changes
+ 
+  The market for the Company's products is relatively new and is characterized
+by rapid technological change, evolving industry standards, changes in end-
+user requirements and frequent new product introductions and enhancements,
+including enhancements to certain key technology licensed from a shareholder.
+The Company believes it will incur additional costs and royalties associated
+with the development, licensing, or acquisition of new technologies or
+enhancements to existing products which will increase the Company's cost of
+good sold and operating expenses. The Company cannot currently quantify the
+additional costs described above.
+ 
+ Recent Developments in Risks and Uncertainties
+ 
+  The Company and the aforementioned shareholder are currently negotiating the
+cross-licensing of certain of their key technologies. On February 25, 1997,
+this shareholder informed the Company that it intends to release a product
+which the Company believes will include features contained in the Company's
+existing product offerings. In the event that the shareholder determines to
+develop the technology internally or to pursue alternative sources of the
+technology, the Company believes that such determination will have a material
+adverse effect on the Company's business, results of operations and financial
+condition. Although the Company is pursuing negotiations with the shareholder
+regarding the cross-license of such technologies, there are no assurances that
+these negotiations will be successful. Additionally, as a result of these
+discussions with the shareholder and if the Company is able to secure the
+licensing of the shareholder's key technology, the Company believes that
+royalties payable to the shareholder associated with such licensing will
+increase from current levels. If the Company and the shareholder are unable to
+agree upon the terms of such cross-licensing or, if the terms of such cross-
+licensing are less favorable to the Company, the Company believes that such
+outcome will have a material adverse effect on the Company's business and
+results of operations and financial condition. The Company cannot currently
+quantify the impact on its business results of operations and financial
+condition.
+ 
+ Accounting for Stock-Based Compensation
+ 
+  Statement of Financial Accounting Standards (SFAS) No. 123, "Accounting for
+Stock-Based Compensation," became effective January 1, 1996. The new standard
+defines a fair value method of accounting for issuance of stock options and
+other equity instruments. Under the fair value method, compensation cost is
+measured at the grant date based on the fair value of the award and is
+recognized over the service period, which is usually the vesting period.
+Pursuant to SFAS No. 123, companies are encouraged, but are not required, to
+adopt the fair value method of accounting for employee stock-based
+transactions. Companies are also permitted to continue to account for such
+transactions under Accounting Principles Board Opinion No. 25, "Accounting for
+Stock Issued to Employees," (APB Opinion 25) but would be required to disclose
+in a note to the consolidated financial statements pro forma net income and
+per share amounts as if the Company had applied the new method of accounting.
+ 
+  The Company applies APB Opinion 25 and Related Interpretations in Accounting
+for its plans and has complied with the disclosure requirements of SFAS No.
+123.
+ 
+ Net Income Per Share
+ 
+  Historical net income per share is calculated using the weighted average
+number of common and common equivalent shares outstanding during the
+respective periods. Pro forma net income per share is computed in the same
+manner as historical net income per share adjusted to give effect to the
+conversion of the Redeemable Convertible Preferred Stock (described in Note 7)
+into an aggregate of 15,359,388 shares of Common Stock as though it occurred
+at the beginning of 1994. Pursuant to the requirements of the Securities and
+Exchange
+ 
+                                     F-12
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+Commission, common shares and common equivalent shares issued at prices below
+the Company's initial public offering price during the 12 months immediately
+preceding the date of the initial filing of the Registration Statement have
+been included in the calculation of pro forma common shares and common
+equivalent shares, using the treasury stock method, as if they were
+outstanding for all periods presented.
+ 
+  Dilutive common stock equivalents consist of warrants and stock options
+(calculated using the treasury stock method in 1996 and 1995 and the modified
+treasury stock method in 1994). All common share and per share data, except
+par value per share, have been retroactively adjusted to reflect the two-for-
+one stock split of the Company's Common Stock effective June 4, 1996 and the
+two-for-three stock split of the Company's Common Stock effective December 7,
+1995, which are further discussed in Note 15.
+ 
+  For 1994, the historical net loss per common share, which does not give
+effect to the pro forma conversion of the Redeemable Convertible Preferred
+Stock described above, is as follows (in thousands, except per share data):
+ 
+<TABLE>
+   <S>                                                                 <C>
+   Net income......................................................... $  242
+   Less Redeemable Convertible Preferred Stock accretion (See Note
+    7)................................................................   (716)
+                                                                       ------
+   Net loss attributable to common shares............................. $ (474)
+                                                                       ======
+   Net loss per common and common equivalent share.................... $(0.16)
+                                                                       ======
+   Weighted average shares outstanding................................  3,041
+                                                                       ======
+</TABLE>
+ 
+ Reclassifications
+ 
+  Certain reclassifications have been made for consistent presentation.
+ 
+3. CASH AND CASH EQUIVALENTS AND SHORT-TERM INVESTMENTS
+ 
+  The summary of cash and cash equivalents and short-term investments consist
+of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                              DECEMBER 31
+                                                        -----------------------
+                                                           1996        1995
+                                                        ----------- -----------
+   <S>                                                  <C>         <C>
+   Cash and cash equivalents:
+     Cash.............................................. $ 9,065,924 $ 3,112,537
+     Treasury bills....................................         --   40,358,954
+     Commercial paper..................................   3,997,100         --
+     Money market funds................................   7,162,420         --
+     Certificates of deposit...........................     600,000         --
+     Government securities.............................  63,409,605         --
+     Corporate notes, bonds and paper..................  14,900,000         --
+                                                        ----------- -----------
+       Cash and cash equivalents....................... $99,135,049 $43,471,491
+                                                        =========== ===========
+   Short-term investments:
+     Commercial paper.................................. $ 3,461,450 $       --
+     Corporate notes, bonds and paper..................   3,655,731         --
+     Government securities.............................  31,089,314         --
+                                                        ----------- -----------
+       Short-term investments.......................... $38,206,495 $       --
+                                                        =========== ===========
+</TABLE>
+ 
+  The carrying value of each marketable security including cash and cash
+equivalents and short-term investments approximate their fair value. The fair
+values of cash and cash equivalents and short-term investments are based
+primarily on quoted market prices for such financial instruments.
+ 
+                                     F-13
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+ 
+4. OTHER ACCRUED EXPENSES
+ 
+  Other accrued expenses consist of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                               DECEMBER 31
+                                                          ---------------------
+                                                             1996       1995
+                                                          ---------- ----------
+     <S>                                                  <C>        <C>
+     Accrued employee benefits........................... $1,033,000 $  624,950
+     Accrued sales commissions...........................    161,489    120,391
+     Accrued cooperative advertising.....................  1,190,762    226,528
+     Other...............................................    897,946    165,609
+                                                          ---------- ----------
+                                                          $3,283,197 $1,137,478
+                                                          ========== ==========
+</TABLE>
+ 
+5. NOTES PAYABLE
+ 
+  On February 26, 1993, all of the previously issued short-term bridge notes
+were converted into the Company's Series D Redeemable Convertible Preferred
+Stock, at a conversion price of $1.85 per share. On November 30, 1993, the
+Company issued $908,270 of short-term bridge notes due on demand with interest
+at 7%. On February 28, 1994, these notes were converted into Series D
+Redeemable Convertible Preferred Stock at a conversion price of $1.85 per
+share.
+ 
+6. WORKING CAPITAL AND LEASE CREDIT LINES
+ 
+  The Company has a working capital credit line aggregating $2,000,000 at
+December 31, 1996. Borrowings under this line of credit are payable on demand
+and are limited to a percentage of eligible receivables. The Company is
+required to pay the bank a commitment fee equal to .5% per annum of the daily
+average unused portion of the line of credit. The interest rate on borrowings
+is computed at the greater of the bank's prime rate plus 1.5% or the overnight
+federal funds rate plus 2.0%. Borrowings under the line of credit are secured
+by substantially all of the Company's assets and are subject to the Company
+meeting certain performance and restrictive covenants, including the
+requirement that all dividend payments must be approved by the bank. During
+the years ended December 31, 1996 and 1995, the Company borrowed a total of $-
+0- and $600,000, respectively, on the line of credit. No borrowings under this
+arrangement were outstanding at December 31, 1996 and 1995. This arrangement
+expires on February 28, 1997.
+ 
+  The Company has available a $500,000 lease credit facility. During the years
+ended December 31, 1996, 1995 and 1994, the Company leased approximately $-0-,
+$211,000 and $101,000, respectively, of computer equipment and software, under
+the terms of this facility. The leases are collateralized by the related
+equipment. These leases have been accounted for as capitalized lease
+obligations and are for a term of 30 months. An average interest rate of 9.5%
+is implicit in the leases.
+ 
+  Future minimum lease payments under all of the Company's capitalized lease
+obligations are as follows:
+ 
+<TABLE>
+   <S>                                                               <C>
+     1997........................................................... $ 87,172
+     1998...........................................................    8,396
+                                                                     --------
+                                                                       95,568
+   Imputed interest.................................................   (4,917)
+                                                                     --------
+   Present value of obligations under capital leases for financial
+    reporting purposes..............................................   90,651
+   Less current maturities..........................................  (82,434)
+                                                                     --------
+   Long-term capital lease obligations.............................. $  8,217
+                                                                     ========
+</TABLE>
+ 
+  The related computer equipment is included in property and equipment.
+ 
+                                     F-14
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+ 
+7. REDEEMABLE CONVERTIBLE PREFERRED STOCK AND RELATED WARRANTS
+ 
+  The Company issued an aggregate of 682,128 shares of Series D Redeemable
+Convertible Preferred Stock during 1994. These shares were sold at $1.85 per
+share in exchange for the following:
+ 
+<TABLE>
+   <S>                                                               <C>
+   Cash............................................................. $  353,667
+   Conversion of short-term bridge notes............................    908,270
+                                                                     ----------
+                                                                     $1,261,937
+                                                                     ==========
+</TABLE>
+ 
+  No shares of preferred stock were issued during 1996 or 1995. Prior to
+October 1995, the carrying value of the Company's Redeemable Convertible
+Preferred Stock (the Preferred Stock) was equal to the original issuance
+proceeds from the various series plus periodic accretions to redemption value.
+In October 1995, the terms of the Preferred Stock were amended to provide that
+the redemption price be equal to the original purchase price of the Preferred
+Stock plus any declared Preferred Stock dividends. As a result of this
+amendment, the Company restored all previously accreted amounts.
+ 
+  On December 7, 1995, all outstanding preferred stock was converted into the
+Company's Common Stock at a ratio of three shares of preferred stock for two
+shares of Common Stock.
+ 
+  Dividends on all series of the Preferred Stock are determined solely by the
+Board of Directors and are noncumulative. No dividends have been declared as
+of December 31, 1996.
+ 
+  The Company has issued warrants to purchase 48,000 shares of Series B
+Redeemable Convertible Preferred Stock at an exercise price of $1.25 per
+share, warrants to purchase 27,586, 25,966 and 51,928 shares of Series C
+Redeemable Convertible Preferred Stock at an exercise price of $1.45 per
+share. The warrants expire on June 7, 1998, March 13, 2000, November 2, 1997
+and January 25, 1998, respectively. Upon the consummation of the Company's
+initial public offering and the automatic conversion of the Redeemable
+Convertible Preferred Stock, the warrants became exercisable on a four-for-
+three basis into the Company's Common Stock (adjusted to reflect the stock
+splits discussed in Note 15) at an exercise price of $.94 per common share for
+the Series B warrants and $1.09 per common share for the Series C warrants.
+The exercise price of the outstanding warrants is subject to adjustment in the
+event of recapitalizations, reorganizations, stock splits and combinations and
+in the event of dilutive issuances of capital stock by the Company.
+ 
+  On December 7, 1995, 77,914 warrants to purchase Series C Redeemable
+Convertible Preferred Stock were exercised, of which 77,604 warrants were
+exercised on a net basis to obtain 68,350 shares of Preferred Stock. Upon the
+automatic conversion of the Preferred Stock into Common Stock, the Company
+issued 88,886 shares of Common Stock to the former warrant holders.
+ 
+8. SHAREHOLDERS EQUITY
+ 
+ Stock Compensation Plans
+ 
+  As of December 31, 1996, the Company has four stock-based compensation
+plans, which are described below. As mentioned in Note 2, the Company applies
+APB Opinion 25 and Related Interpretations in accounting for its plans.
+Accordingly, no compensation cost has been recognized for its fixed stock
+plans and its stock purchase plan. Had compensation cost for the Company's
+four stock-based compensation plans been determined based on the fair value at
+the grant dates for grants under those plans consistent with the method of
+SFAS No.
+ 
+                                     F-15
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+123, the Company's net income and earnings per share would have been reduced
+to the pro forma amounts indicated below:
+ 
+<TABLE>
+<CAPTION>
+                                                            1996        1995
+                                                         ----------- ----------
+   <S>                                                   <C>         <C>
+   Net income
+     As reported........................................ $18,701,380 $1,895,015
+                                                         =========== ==========
+     Pro forma.......................................... $16,643,951 $1,895,015
+                                                         =========== ==========
+   Historical earnings per share
+     As reported........................................ $      0.68 $     0.09
+                                                         =========== ==========
+     Pro forma.......................................... $      0.63 $     0.09
+                                                         =========== ==========
+</TABLE>
+ 
+  The fair value of each option is estimated on the date of the grant using
+the Black-Scholes option-pricing model with the following assumptions used for
+grants in 1996: (1) no dividend yield; (2) expected volatility factor of 0.8;
+(3) risk free interest rates of approximately 5.5%; and (4) expected lives of
+five years. Substantially all of the options granted during 1995 were granted
+prior to the Company's initial public offering and as such, the fair value
+attributable to such options pursuant to SFAS No. 123 was determined to be
+minimal. Because the determination of the fair value of all options is based
+on the assumptions described in the preceding paragraph and, because
+additional option grants are expected to be made each year, the above pro-
+forma disclosures are not representative of pro-forma effects on reported net
+income or loss for future years.
+ 
+ Fixed Stock Options Plans
+ 
+  The Company's 1995 Stock Plan (the 1995 Plan) was adopted by the Board on
+September 28, 1995 and approved by the Company's stockholders in October 1995.
+The 1995 Plan provides for the issuance of a maximum of 6,000,000 shares of
+Common Stock, plus, effective January 1, 1997 and each year thereafter, a
+number of shares of Common Stock equal to 5% of the total number of shares of
+Common Stock issued and outstanding as of December 31 of the preceding year,
+up to a maximum of 10,000,000 shares. Under the terms of the 1995 Plan, the
+Company is authorized to grant incentive stock options (ISOs) and nonqualified
+stock options (NSOs), make stock awards, and provide the opportunity to
+purchase stock to employees, directors and officers and consultants of the
+Company. Under the 1995 Plan, ISOs may be granted at exercise prices no less
+than market value at the date of grant, except for ISOs' granted to employees
+who own more than 10% of the Company's combined voting power, for which the
+exercise prices will be no less than 110% of the market value at the date of
+grant. NSOs stock awards or stock purchases may be granted or authorized, as
+applicable, at prices no less than the minimum legal consideration required.
+ISOs and NSOs expire ten years from the date of grant. All options are
+exercisable upon vesting. The options vest at a rate of 25.00% of the shares
+underlying the option one year from the date of grant and at 2.08% monthly
+thereafter.
+ 
+  The 1995 Non-Employee Director Stock Option Plan (the Director Option Plan)
+was adopted by the Board of Directors on September 28, 1995 and approved by
+the Company's stockholders in October 1995. The Director Option Plan provides
+for the grant of options to purchase a maximum of 600,000 shares of Common
+Stock of the Company to nonemployee directors of the Company.
+ 
+  Under the Director Option Plan, each director who is not also an employee of
+the Company and who is first elected as a director after the date of the
+Company's initial public offering will receive, upon the date of his or her
+initial election, an option to purchase 30,000 shares of Common Stock. Options
+granted under the Director Option Plan will vest as to 33.33% one year from
+the date of grant and will vest as to an additional 2.78%
+ 
+                                     F-16
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+monthly thereafter. In addition, on each three-year anniversary of such
+director's first election to the Board of Directors, such director will
+receive an additional option to purchase 30,000 shares of Common Stock,
+vesting in accordance with the aforementioned schedule, provided that such
+director continues to serve on the Board of Directors at the time of grant.
+All options granted under the Director Option Plan will have an exercise price
+equal to the fair market value of the Common Stock on the date of grant and a
+term of ten years from the date of grant. Options are exercisable to the
+extent vested only while the optionee is serving as a director of the Company
+or within 90 days after the optionee ceases to serve as a director of the
+Company.
+ 
+  On July 11, 1989, the Company adopted its 1989 Stock Option Plan (the 1989
+Plan). The 1989 Plan, as amended, permitted the Company to grant ISOs and NSOs
+to purchase up to 4,209,424 shares of the Company's Common Stock. Under the
+1989 Plan, options may be granted at exercise prices no less than market value
+at the date of grant as determined by the Board of Directors and, therefore,
+no compensation expense is recognized. All options are fully exercisable from
+the date of grant and are subject to a repurchase option in favor of the
+Company which lapses as to 25.00% of the shares underlying the option one year
+from the date of grant and as to 2.08% monthly thereafter. If the purchaser of
+stock pursuant to the 1989 Plan is terminated from employment with the
+Company, the Company has the right and option to purchase from the employee,
+at the price paid for the shares by the employee, the number of unvested
+shares at the date of termination. The Company does not intend to grant
+options under the 1989 Plan in the foreseeable future.
+ 
+  A summary of the status and activity of the Company's three fixed stock
+option plans is as follows:
+ 
+<TABLE>
+<CAPTION>
+                                           YEAR ENDED DECEMBER 31
+                          ------------------------------------------------------------
+                                 1996                1995                1994
+                          ------------------- ------------------- --------------------
+                                     WEIGHTED            WEIGHTED             WEIGHTED
+                                     AVERAGE             AVERAGE              AVERAGE
+                                     EXERCISE            EXERCISE             EXERCISE
+                           SHARES     PRICE    SHARES     PRICE     SHARES     PRICE
+                          ---------  -------- ---------  -------- ----------  --------
+<S>                       <C>        <C>      <C>        <C>      <C>         <C>
+Outstanding at beginning
+ of year................  2,298,484   $ 0.92  2,317,316   $0.28    2,429,334   $0.11
+  Granted...............  1,511,152    35.05    504,526    3.20      975,334   $0.51
+  Exercised.............   (546,103)    0.61   (313,330)   0.16   (1,022,390)  $0.10
+  Forfeited.............    (33,495)    1.44   (210,028)   0.44      (64,962)  $0.11
+                          ---------           ---------           ----------
+Outstanding at end of
+ year...................  3,230,038           2,298,484    0.92    2,317,316   $0.28
+                          =========           =========           ==========
+Options exercisable at
+ end of year............  1,696,388           2,298,484            2,317,316
+                          =========           =========           ==========
+Weighted-average fair
+ value of options
+ granted during the
+ year...................              $35.05              $3.20                $0.51
+</TABLE>
+ 
+  Information about fixed stock options outstanding as of December 31, 1996 is
+as follows:
+ 
+<TABLE>
+<CAPTION>
+                                    OPTIONS OUTSTANDING               OPTIONS EXERCISABLE
+                          --------------------------------------- ---------------------------
+                            OPTIONS     WEIGHTED                    OPTIONS
+                          OUTSTANDING    AVERAGE                  EXERCISABLE
+                               AT       REMAINING    WEIGHTED-         AT        WEIGHTED-
+                          DECEMBER 31, CONTRACTUAL    AVERAGE     DECEMBER 31,    AVERAGE
+RANGE OF EXERCISE PRICES      1996        LIFE     EXERCISE PRICE     1996     EXERCISE PRICE
+- ------------------------  ------------ ----------- -------------- ------------ --------------
+<S>                       <C>          <C>         <C>            <C>          <C>
+$0.06 to $0.14..........     867,980      5.75         $ 0.12        867,980       $0.12
+$0.75 to $3.75..........     820,908      8.21         $ 1.72        820,908       $1.72
+$7.50 to $35.75.........     695,200      9.44         $30.12          7,500       $7.50
+$37.50 to $44.00........     845,950      9.73         $38.12            --        $ --
+                           ---------      ----         ------      ---------       -----
+                           3,230,038      8.21         $16.94      1,696,388       $0.93
+                           =========                               =========
+</TABLE>
+ 
+ 
+                                     F-17
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+ Stock Purchase Plan
+ 
+  The 1995 Employee Stock Purchase Plan (the 1995 Purchase Plan) was adopted
+by the Board of Directors on September 28, 1995 and approved by the Company's
+stockholders in October 1995. The 1995 Purchase Plan took effect upon
+completion of the Company's initial public offering. The 1995 Purchase Plan
+provides for the issuance of a maximum of 1,500,000 shares of Common Stock
+pursuant to the exercise of nontransferable options granted to participating
+employees. All employees of the Company, whose customary employment is 20
+hours or more per week and more than 5 months in any calendar year and who
+have completed at least 1 year of employment are eligible to participate in
+the 1995 Purchase Plan. Employees who would immediately after the grant own 5%
+or more of the Company's Common Stock and directors who are not employees of
+the Company may not participate in the 1995 Purchase Plan. To participate in
+the 1995 Purchase Plan, an employee must authorize the Company to deduct an
+amount (not less than 1% nor more than 5% of a participants total cash
+compensation) from his or her pay during six-month periods (each a Plan
+Period), the first such period commenced upon the date of the Company's
+initial public offering and to end on the last market trading day on or before
+June 30, 1996. The maximum number of shares of Common Stock an employee may
+purchase in any Plan Period is 1,000 shares subject to certain other
+limitations. The exercise price for the option for each Plan Period is 85% of
+the lesser of the market price of the Common Stock on the first or last
+business day of the Plan Period. If an employee is not a participant on the
+last day of the Plan Period, such employee is not entitled to exercise his or
+her option, and the amount of his or her accumulated payroll deductions will
+be refunded. An employees rights under the 1995 Purchase Plan terminate upon
+his or her voluntary withdrawal from the 1995 Purchase Plan at anytime or upon
+termination of employment. Under the 1995 Purchase Plan, the Company issued
+21,525 shares in 1996.
+ 
+ Common Stock
+ 
+  The Company has reserved for future issuance 6,531,225 shares of Common
+Stock for the exercise of stock options outstanding or available for grant.
+ 
+  In December 1995, the Company issued 5,750,000 shares in connection with the
+initial public offering of its Common Stock. In June 1996, the Company issued
+an additional 2,364,888 shares in connection with the second public offering
+of its common stock.
+ 
+ Preferred Stock
+ 
+  The Company is authorized to issue 5,000,000 shares of preferred stock,
+$0.01 par value per share. The Company has no present plans to issue such
+shares.
+ 
+9. COMMITMENTS
+ 
+  The Company leases certain office space, equipment and software under
+various noncancelable operating leases. Certain of these leases contain stated
+escalation clauses while others contain renewal options.
+ 
+  Rental expense for the years ended December 31, 1996, 1995 and 1994 totaled
+approximately $620,000, $327,000 and $416,000, respectively. Lease commitments
+under these noncancelable operating leases for the years ended December 31 are
+as follows:
+ 
+<TABLE>
+   <S>                                                               <C>
+   1997............................................................. $  610,466
+   1998.............................................................    713,306
+   1999.............................................................    758,828
+   2000.............................................................    774,002
+   2001.............................................................    607,082
+                                                                     ----------
+   Total future minimum lease payments.............................. $3,463,684
+                                                                     ==========
+</TABLE>
+ 
+ 
+                                     F-18
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+10. INCOME TAXES
+ 
+  Income tax expense consists of the following:
+ 
+<TABLE>
+<CAPTION>
+                                                            DECEMBER 31
+                                                      -------------------------
+                                                         1996       1995   1994
+                                                      -----------  ------- ----
+     <S>                                              <C>          <C>     <C>
+     Current federal................................. $ 5,867,621  $93,100 $--
+     Current state...................................     862,886      --   --
+     Deferred........................................  (3,169,000)     --   --
+                                                      -----------  ------- ----
+       Total income tax expense...................... $ 3,561,507  $93,100 $--
+                                                      ===========  ======= ====
+</TABLE>
+ 
+  At December 31, 1996, the Company had research and development tax credits
+of approximately $535,000 that expire in years 2005 through 2011. The Company
+also had alternative minimum tax credit carryforwards of approximately
+$72,000, which do not expire.
+ 
+  The significant components of the Company's deferred income taxes are
+approximately as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                             DECEMBER 31
+                                                        ----------------------
+                                                           1996       1995
+                                                        ---------- -----------
+   <S>                                                  <C>        <C>
+   Deferred tax assets:
+     Net operating loss carryforwards.................  $      --  $ 3,400,000
+     Tax credits......................................     607,000     589,000
+     Revenue deferred for book but not for tax purpos-
+      es..............................................     809,000     464,000
+     Accounts receivable allowances...................     995,000     383,000
+     Other............................................     758,000     236,000
+                                                        ---------- -----------
+                                                         3,169,000   5,072,000
+   Less valuation allowance for deferred tax assets...         --   (5,072,000)
+                                                        ---------- -----------
+                                                        $3,169,000 $       --
+                                                        ========== ===========
+</TABLE>
+ 
+  The net change in the valuation allowance for the years ended December 31,
+1996 and 1995 consisted of a decrease of $5,072,000 and $624,000,
+respectively.
+ 
+  Due to the net operating loss carryforward, there is no provision for income
+taxes for the year ended December 31, 1994. The differences between the
+provision for income taxes and the amount which results from applying the
+federal and state statutory tax rate of 39% in 1996 and 38% in 1995 and 1994,
+to income (loss) before income taxes are as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                 YEAR ENDED DECEMBER 31
+                                             --------------------------------
+                                                1996        1995       1994
+                                             -----------  ---------  --------
+     <S>                                     <C>          <C>        <C>
+     Federal and state income tax expense... $ 8,682,527  $ 755,484  $ 91,858
+     Change in valuation allowance..........  (5,072,000)  (624,000)  (36,262)
+     Other..................................     (49,020)   (38,384)  (55,596)
+                                             -----------  ---------  --------
+                                             $ 3,561,507  $  93,100  $    --
+                                             ===========  =========  ========
+</TABLE>
+ 
+11. BENEFIT PLAN
+ 
+  The Company has a 401(k) benefit plan allowing an employee to contribute up
+to a maximum of 15% of gross salary, limited to the maximum allowed by the
+Internal Revenue Service. To date, the Company has made no contributions to
+the Plan.
+ 
+                                     F-19
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONTINUED)
+ 
+                               DECEMBER 31, 1996
+ 
+ 
+12. SIGNIFICANT CUSTOMERS
+ 
+  The Company had net revenue attributed to individual customers in excess of
+10% of total net sales as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                        YEAR ENDED DECEMBER 31
+                                                        -------------------------
+                                                         1996     1995     1994
+                                                        -------  -------  -------
+   <S>                                                  <C>      <C>      <C>
+   Customer A..........................................     22%      22%      27%
+   Customer B..........................................     12%       6%      26%
+</TABLE>
+ 
+13. RELATED PARTY TRANSACTIONS
+ 
+  An entity which held a greater than 5% interest in the Company at December
+31, 1996 and 1995 is a party to one of the licensing agreements discussed in
+Note 2. The Company recognized $3,461,000, $962,000 and $531,000 of royalty
+expense in cost of sales and $-0-, $60,000 and $296,000 of offsetting royalty
+credits in net revenue in the years ended December 31, 1996, 1995 and 1994,
+respectively, and has accrued royalties and other accounts payable of
+$1,524,000, $521,000 and $356,000 at December 31, 1996, 1995 and 1994,
+respectively, in connection with this agreement.
+ 
+  During 1991 and 1992, the Company advanced an aggregate $100,000 to an
+officer who is also a shareholder. This note is evidenced by a promissory note
+and bears interest at 6.73% with principal and interest due in August 1996.
+The note is secured by 106,667 shares of Common Stock of the Company. The
+related accrued interest amounts to approximately $-0-, $29,000 and $21,000 at
+December 31, 1996, 1995 and 1994, respectively. The principal and related
+accrued interest on this note receivable were paid to the Company during 1996.
+ 
+  During 1993, the Company entered into a consulting agreement with a director
+of the Company. The Company paid the director approximately $10,000 during the
+years ended December 31, 1994, for management consulting services pursuant to
+this agreement. At December 31, 1996 and 1995, no amounts were owed to the
+director under this agreement.
+ 
+14. INFORMATION RELATING TO EXPORT REVENUE
+ 
+  Export revenue representing shipments of finished goods and services
+provided to international customers, by geographical area are as follows:
+ 
+<TABLE>
+<CAPTION>
+                                                     YEAR ENDED DECEMBER 31
+                                                --------------------------------
+                                                   1996       1995       1994
+                                                ---------- ---------- ----------
+   <S>                                          <C>        <C>        <C>
+   Europe...................................... $4,976,829 $1,678,454 $1,439,631
+   Pacific Rim.................................  1,342,155    637,912    552,909
+   Other.......................................    734,102    350,747    261,851
+                                                ---------- ---------- ----------
+                                                $7,053,086 $2,667,113 $2,254,391
+                                                ========== ========== ==========
+</TABLE>
+ 
+15. STOCK SPLITS
+ 
+  In September 1995, the Board of Directors approved an increase in authorized
+Common Stock from 16,750,000 shares, $0.001 par value per share to 30,000,000
+shares, $0.001 par value per share. In October 1995, the Company declared a
+two-for-three stock split effective December 7, 1995.
+ 
+ 
+                                     F-20
+<PAGE>
+ 
+                             CITRIX SYSTEMS, INC.
+ 
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS--(CONCLUDED)
+ 
+                               DECEMBER 31, 1996
+ 
+  On May 17, 1996, the shareholders approved an increase in authorized Common
+Stock from 30,000,000 shares, $0.001 par value per share to 60,000,000 shares,
+$0.001 par value per share. On May 17, 1996, the Board of Directors declared a
+two-for-one stock split in the form of a stock dividend to be paid on or about
+June 4, 1996 to stockholders of record of the Company's Common Stock on May
+28, 1996. The number of options issuable and previously granted and their
+respective exercise prices under the Company's stock option plans have been
+proportionately adjusted to reflect this stock split.
+ 
+  The accompanying consolidated financial statements have been retroactively
+restated to reflect these stock splits.
+ 
+16. LEGAL MATTERS
+ 
+  In March 1997, class action lawsuits were filed against the Company and
+certain of its directors and officers. In their complaints, the plaintiffs
+assert that the Company and certain of its directors and officers
+misrepresented the Company's strategic relationship with a shareholder. The
+outcome of these lawsuits cannot yet be determined. Accordingly, no provision
+for any liability that may result from these matters has been recognized in
+the accompanying consolidated financial statements. There can be no
+assurances, however, that the outcome of these lawsuits will not have a
+material adverse effect on the Company's business, results of operations and
+financial condition.
+ 
+                                     F-21
+<PAGE>
+ 
+                              CITRIX SYSTEMS, INC.
+ 
+                                  SCHEDULE II
+ 
+                       VALUATION AND QUALIFYING ACCOUNTS
+ 
+<TABLE>
+<CAPTION>
+                                    CHARGED TO CHARGED TO                  BALANCE AT
+                         BEGINNING  COSTS AND    OTHER                       END OF
+                         OF PERIOD   EXPENSES   ACCOUNTS     DEDUCTIONS      PERIOD
+                         ---------- ---------- ----------    ----------    ----------
+<S>                      <C>        <C>        <C>           <C>           <C>
+1996
+Deducted from asset
+ accounts:
+  Allowance for doubtful
+   accounts............. $  399,459  $624,427  $      --     $  399,682(2) $  624,204
+  Allowance for re-
+   turns................    608,966       --    1,318,869(1)        --      1,927,835
+  Valuation allowance
+   for deferred tax
+   assets...............  5,072,000       --          --      5,072,000(4)        --
+                         ----------  --------  ----------    ----------    ----------
+                         $6,080,425  $624,427  $1,318,869    $5,471,682    $2,552,039
+                         ==========  ========  ==========    ==========    ==========
+1995
+Deducted from asset
+ accounts:
+  Allowance for doubtful
+   accounts............. $  164,983  $241,253  $      --     $    6,777(2) $  399,459
+  Allowance for re-
+   turns................    297,497       --      311,469(1)        --        608,966
+  Valuation allowance
+   for deferred tax
+   assets...............  5,694,801       --          --        622,801(3)  5,072,000
+                         ----------  --------  ----------    ----------    ----------
+                         $6,157,281  $241,253  $  311,469    $  629,578    $6,080,425
+                         ==========  ========  ==========    ==========    ==========
+1994
+Deducted from asset
+ accounts:
+  Allowance for doubtful
+   accounts............. $  395,000  $ 61,000  $      --     $  291,017(2) $  164,983
+  Allowance for re-
+   turns................    230,000       --       67,497(1)        --        297,497
+  Valuation allowance
+   for deferred tax
+   assets...............  5,731,063       --          --         36,262(3)  5,694,801
+                         ----------  --------  ----------    ----------    ----------
+                         $6,356,063  $ 61,000  $   67,497    $  327,279    $6,157,281
+                         ==========  ========  ==========    ==========    ==========
+</TABLE>
+- --------
+(1) Netted against net revenues.
+(2) Uncollectible accounts written off, net of recoveries.
+(3) Netted against income tax expense.
+(4) Recognition of deferred tax asset.
+ 
+                                      S-1
+<PAGE>
+ 
+                                   SIGNATURES
+ 
+  PURSUANT TO THE REQUIREMENTS OF SECTION 13 OR 15(D) OF THE SECURITIES
+EXCHANGE ACT OF 1934, THE REGISTRANT HAS DULY CAUSED THIS REPORT TO BE SIGNED
+ON ITS BEHALF BY THE UNDERSIGNED, THEREUNTO DULY AUTHORIZED, IN FORT
+LAUDERDALE, FLORIDA ON THE 31ST DAY OF MARCH, 1997.
+ 
+                                          CITRIX SYSTEMS, INC.
+ 
+                                                   /s/ Roger W. Roberts
+                                          By: _________________________________
+                                              ROGER W. ROBERTS PRESIDENT AND
+                                                  CHIEF EXECUTIVE OFFICER
+ 
+                        POWER OF ATTORNEY AND SIGNATURES
+ 
+  We, the undersigned officers and directors of Citrix Systems, Inc., hereby
+severally constitute and appoint Roger W. Roberts and Edward E. Iacobucci, and
+each of them singly, our true and lawful attorneys, with full power to them and
+each of them singly, to sign for us in our names in the capacities indicated
+below, all amendments to this report, and generally to do all things in our
+names and on our behalf in such capacities to enable Citrix Systems, Inc. to
+comply with the provisions of the Securities Exchange Act of 1934, as amended,
+and all requirements of the Securities and Exchange Commission.
+ 
+  PURSUANT TO THE REQUIREMENTS OF THE SECURITIES EXCHANGE ACT OF 1934, THIS
+REPORT HAS BEEN SIGNED BELOW BY THE FOLLOWING PERSONS ON BEHALF OF THE
+REGISTRANT AND IN THE CAPACITIES INDICATED BELOW ON THE 31ST DAY OF MARCH,
+1997.
+ 
+              SIGNATURE                                 TITLE(S)
+ 
+       /s/ Edward E. Iacobucci          Chairman of the Board of Directors
+- -------------------------------------
+         EDWARD E. IACOBUCCI
+ 
+        /s/ Roger W. Roberts            President, Chief Executive Officer and
+- -------------------------------------    Director (Principal Executive Officer)
+          ROGER W. ROBERTS
+ 
+      /s/ James J. Felcyn, Jr.          Vice President of Finance and
+- -------------------------------------    Administration and Chief Financial
+        JAMES J. FELCYN, JR.             Officer (Principal Financial Officer)
+ 
+       /s/ Marc-Andre Boisseau          Controller (Principal Accounting
+- -------------------------------------    Officer)
+         MARC-ANDRE BOISSEAU
+ 
+        /s/ Kevin R. Compton            Director
+- -------------------------------------
+          KEVIN R. COMPTON
+ 
+         /s/ Stephen M. Dow             Director
+- -------------------------------------
+           STEPHEN M. DOW
+ 
+                                      II-1
+<PAGE>
+ 
+              SIGNATURE                       TITLE(S)
+ 
+        /s/ Robert N. Goldman           Director
+- -------------------------------------
+          ROBERT N. GOLDMAN
+ 
+                                        Director
+- -------------------------------------
+          GREGORY B. MAFFEI
+ 
+         /s/ Tyrone F. Pike             Director
+- -------------------------------------
+           TYRONE F. PIKE
+ 
+                                      II-2
+<PAGE>
+ 
+                                 EXHIBIT INDEX
+ 
+<TABLE>
+<CAPTION>
+ EXHIBIT NO.                         DESCRIPTION                           PAGE
+ -----------                         -----------                           ----
+ <C>         <S>                                                           <C>
+   3.1(1)    Amended and Restated Certificate of Incorporation of the
+              Company
+   3.2(1)    Amended and Restated By-laws of the Company
+   3.3(2)    Certificate of Amendment of Amended and Restated
+              Certificate of Incorporation
+   4.1(1)    Specimen certificate representing the Common Stock
+  10.1(1)*   1989 Stock Option Plan
+  10.2(1)*   1995 Stock Plan
+  10.3(1)*   1995 Non-Employee Director Stock Option Plan
+  10.4(1)*   1995 Employee Stock Purchase Plan, as amended
+  10.5(1)    OEM Software License Agreement between the Company and
+              Digital Communications Associates, Inc. ("DCA"), dated as
+              of October 5, 1993
+  10.6(1)    Memorandum of Agreement between the Company and DCA, dated
+              October 5, 1993
+  10.7(1)    First Addendum to OEM Software License Agreement between
+              the Company and DCA, dated May 25, 1994
+  10.8(1)    Amendment No. 1 to OEM Software License Agreement between
+              the Company and DCA dated March 23, 1995
+  10.9(1)    Client/Server Software License Agreement between the
+              Company and Insignia Solutions Inc., dated August 4, 1995
+  10.10(1)   Microsoft Corporation Source Code Agreement between the
+              Company and Microsoft Corporation ("Microsoft") dated
+              November 15, 1989
+  10.11(1)   Amendment No. 1 to the Source Code Agreement between the
+              Company and Microsoft dated October 1, 1992
+  10.12(1)   License Agreement for Microsoft OS/2 Version Releases 1.x,
+              2.x between the Company and Microsoft dated August 15,
+              1990
+  10.13(1)   Amendment No. 1 to the License Agreement between the
+              Company and Microsoft dated August 15, 1990, Contract No.
+              5198-0228 dated May 6, 1991
+  10.14(1)   Amendment No. 2 to License Agreement between the Company
+              and Microsoft for Microsoft OS/2 Version Releases 1.x,
+              2.x, dated October 1, 1992
+  10.15(1)   Amendment No. 3 to the License Agreement between the
+              Company and Microsoft dated August 15, 1990, Contract No.
+              5198-0228 dated January 1, 1994
+  10.16(1)   Amendment No. 4 to the License Agreement between the
+              Company and Microsoft dated August 15, 1990, dated January
+              31, 1995
+  10.17(1)   Strategic Alliance Agreement between the Company and
+              Microsoft dated December 12, 1991
+  10.18(1)   Software Development and License Agreement between the
+              Company and Novell, Inc. ("Novell"), dated June 15, 1992
+  10.19(1)   Software Development and License Agreement between the
+              Company and Novell, dated July 1, 1993
+  10.20(1)   First Amendment to the Software Development and License
+              Agreement between the Company and Novell, dated March 7,
+              1995
+  10.21(1)   NetWare Client License Agreement between the Company and
+              Novell, dated June 14, 1995
+  10.22(1)   Software License Agreement between the Company and
+              Tektronix, Inc., dated September 23, 1994
+</TABLE>
+<PAGE>
+ 
+<TABLE>
+<CAPTION>
+ EXHIBIT NO.                         DESCRIPTION                           PAGE
+ -----------                         -----------                           ----
+ <C>         <S>                                                           <C>
+  10.23(1)   Client Software License Agreement between the Company and
+              Wyse Technology dated June 15, 1995
+  10.24(1)   Client/Server Software License Agreement between the
+              Company and Zenith Data Systems Corporation dated June 21,
+              1995
+  10.25(1)   Form of Indemnification Agreement
+  10.26(2)   Lease Agreement between Halmos Trading and Investment
+              Company and the Company dated June 6, 1996
+  10.27(3)   License, Development and Marketing Agreement dated July 19,
+              1996 between the Company and Microsoft Corporation
+  11.1**     Statement re computation of earnings per share
+  21.1**     List of Subsidiaries
+  23.1**     Consent of Ernst & Young LLP
+  24.1**     Power of Attorney (Included in signature page)
+  27.1**     Financial Data Schedule
+</TABLE>
+- --------
+(1) Incorporated herein by reference to the exhibits to the Company's
+    Registration Statement on Form S-1 (File No. 33-98542), as amended.
+(2) Incorporated herein by reference to Exhibit 10 of the Company's
+    Registration Statement on Form S-1 (File No. 333-4515), as amended.
+(3) Incorporated herein by reference to Exhibit 10 of the Company's Quarterly
+    report on Form 10-Q for the quarter ended September 30, 1996.
+ * Indicates a management contract or any compensatory plan, contract or
+   arrangement.
+** Filed herewith.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-11.1
+<SEQUENCE>2
+<DESCRIPTION>STATEMENT RE: COMPUTATION OF EARNINGS PER SHARE
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 11.1
+ 
+                              CITRIX SYSTEMS, INC.
+ 
+                   COMPUTATION OF PER SHARE EARNINGS (LOSSES)
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+ 
+<TABLE>
+<CAPTION>
+                                                       YEAR ENDED DECEMBER 31
+                                                       -----------------------
+                                                        1996    1995    1994
+                                                       ------- ------- -------
+<S>                                                    <C>     <C>     <C>
+Historical:
+  Primary and fully diluted:
+    Average shares outstanding........................  25,277   3,518   2,252
+    Net effect of dilutive stock options and warrants
+     based on the treasury stock method...............   2,026   1,494     --
+    Effect of dilutive redeemable convertible pre-
+     ferred stock based on the "if-converted" method..     --   14,602     --
+    Net effect of stock options granted within one
+     year of initial public offering..................     --      790     790
+                                                       ------- ------- -------
+      Total...........................................  27,303  20,404   3,042
+                                                       ======= ======= =======
+Net income............................................ $18,701 $ 1,895 $   242
+Less Redeemable Convertible Preferred Stock accre-
+ tion.................................................     --      --     (716)
+                                                       ------- ------- -------
+Net income (loss) attributable to common shares....... $18,701 $ 1,895 $  (474)
+                                                       ======= ======= =======
+Per share amount...................................... $  0.68 $  0.09 $  (.16)
+                                                       ======= ======= =======
+Pro forma:
+  Primary and fully diluted:
+    Average shares outstanding........................  25,277   3,518   2,252
+    Effect of dilutive redeemable convertible pre-
+     ferred stock.....................................     --   14,602  15,060
+    Net effect of dilutive stock options and warrants-
+     based on the modified treasury stock method......   2,026   1,494   2,092
+    Net effect of stock options granted within one
+     year of initial public offering..................     --      790     790
+                                                       ------- ------- -------
+      Total...........................................  27,303  20,404  20,194
+                                                       ======= ======= =======
+Net income............................................ $18,701 $ 1,895 $   242
+                                                       ======= ======= =======
+Pro forma per share amount............................ $  0.68 $   .09 $   .01
+                                                       ======= ======= =======
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21.1
+<SEQUENCE>3
+<DESCRIPTION>LIST OF SUBSIDIARIES
+<TEXT>
+
+<PAGE>
+ 
+                                                                    EXHIBIT 21.1
+ 
+                                  SUBSIDIARIES
+ 
+<TABLE>
+<CAPTION>
+       Company                             Jurisdiction of Organization
+       -------                             ----------------------------
+      <S>                                 <C>
+      1.Citrix Systems Netherlands, B.V.  Rotterdam, The Netherlands
+      2.Citrix Systems - V.I., Inc.       St. Thomas, U.S. Virgin Islands
+      3. Citrix Systems Canada, Inc./     Ontario, Canada
+         Citrix Systemes Canada, Inc.
+      4.Citrix Systems GmbH*              Munich, Germany
+      5.Citrix Systemes France S.A.R.L.*  Saint-Cloud, France
+      6.Citrix Systems UK Limited*        London, England
+</TABLE>
+ 
+* Citrix Systems GmbH, Citrix Systemes France S.A.R.L., and Citrix Systems UK
+  Limited are wholly owned subsidiaries of Citrix Systems Netherlands, B.V.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-23.1
+<SEQUENCE>4
+<DESCRIPTION>CONSENT OF ERNST & YOUNG LLP
+<TEXT>
+
+<PAGE>
+ 
+                                                                   EXHIBIT 23.1
+ 
+              CONSENT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+ 
+  We consent to the reference to our firm under the caption "Selected
+Consolidated Financial Data" in the Annual Report (Form 10-K) for the year
+ended December 31, 1996 of Citrix Systems, Inc. and to the incorporation by
+reference in the Registration Statement (Form S-8 No. 33-80201) pertaining to
+the 1995 Stock Plan, 1995 Non-Employee Director Stock Option Plan and the 1995
+Employee Stock Purchase Plan and Registration Statement (Form S-8 No. 333-
+2030) pertaining to the 1989 Stock Option Plan of Citrix Systems, Inc. of our
+report dated January 15, 1997 (except for paragraph 21 of Note 2 and Note 16
+as to which the dates are February 26, 1997 and March 19, 1997, respectively),
+with respect to the consolidated financial statements and schedule of Citrix
+Systems, Inc. included in the Annual Report (Form 10-K) for the year ended
+December 31, 1996.
+ 
+                                          /s/ Ernst & Young LLP
+ 
+West Palm Beach, Florida
+March 27, 1997
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>5
+<DESCRIPTION>FINANCIAL DATA STATEMENT
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+       
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          DEC-31-1996
+<PERIOD-START>                             JAN-01-1996
+<PERIOD-END>                               DEC-31-1996
+<CASH>                                      99,135,049
+<SECURITIES>                                38,206,495
+<RECEIVABLES>                                8,077,354
+<ALLOWANCES>                                 2,552,039
+<INVENTORY>                                    696,336
+<CURRENT-ASSETS>                           147,497,977
+<PP&E>                                       2,558,488
+<DEPRECIATION>                                 476,929
+<TOTAL-ASSETS>                             149,579,536
+<CURRENT-LIABILITIES>                        7,720,335
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        26,680
+<OTHER-SE>                                 141,824,304
+<TOTAL-LIABILITY-AND-EQUITY>               149,579,536
+<SALES>                                     44,527,082
+<TOTAL-REVENUES>                            44,527,082
+<CGS>                                        5,098,975
+<TOTAL-COSTS>                                5,098,975
+<OTHER-EXPENSES>                            21,710,396
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                             22,262,887
+<INCOME-TAX>                                 3,561,507
+<INCOME-CONTINUING>                         18,701,380
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                18,701,380
+<EPS-PRIMARY>                                     0.68
+<EPS-DILUTED>                                     0.68
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

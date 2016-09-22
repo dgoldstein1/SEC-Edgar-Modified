@@ -1,0 +1,2653 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DoXCaYeoqAQjXSv5l5D6flu8uUvXFs85pCclP4rD1uvLXYQuxkdWUyoqGz/r9ySI
+ 3ZYy+XU0j5k/fisnse4Zmw==
+
+<SEC-DOCUMENT>/in/edgar/work/20000802/0000891020-00-001380/0000891020-00-001380.txt : 20000921
+<SEC-HEADER>0000891020-00-001380.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000891020-00-001380
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20000630
+FILED AS OF DATE:		20000802
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMAZON COM INC
+		CENTRAL INDEX KEY:			0001018724
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [5961
+]		IRS NUMBER:				911646860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-22513
+			FILM NUMBER:		684806
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		1200 12TH AVENUE S SUITE 1200
+				CITY:			SEATTLE
+				STATE:			WA
+				ZIP:			98144
+				BUSINESS PHONE:		2062661000
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		1200 12TH AVENUE S SUITE 1200
+					CITY:			SEATTLE
+					STATE:			WA
+					ZIP:			98144
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>e10-q.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>   1
+================================================================================
+
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                 ---------------
+
+                                    FORM 10-Q
+                                 ---------------
+
+     (MARK ONE)
+
+        [X]     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                SECURITIES EXCHANGE ACT OF 1934
+
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2000
+
+                                       OR
+
+        [ ]     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                SECURITIES EXCHANGE ACT OF 1934
+
+          FOR THE TRANSITION PERIOD FROM ____________ TO ____________ .
+
+                          COMMISSION FILE NO. 000-22513
+
+                                AMAZON.COM, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+           DELAWARE                                           91-1646860
+(STATE OR OTHER JURISDICTION OF                            (I.R.S. EMPLOYER
+ INCORPORATION OR ORGANIZATION)                           IDENTIFICATION NO.)
+
+       1200 12TH AVENUE SOUTH, SUITE 1200, SEATTLE, WASHINGTON 98144-2734
+               (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES, ZIP CODE)
+
+                                 (206) 266-1000
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                                 ---------------
+
+        Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+        355,864,012 shares of $0.01 par value common stock outstanding as of
+July 20, 2000
+
+================================================================================
+
+
+<PAGE>   2
+
+                                AMAZON.COM, INC.
+
+                                    FORM 10-Q
+                       FOR THE QUARTER ENDED JUNE 30, 2000
+
+                                      INDEX
+<TABLE>
+<CAPTION>
+                                                                                                           PAGE
+                                                                                                           ----
+<S>                                                                                                        <C>
+PART I.  FINANCIAL INFORMATION
+  Item 1.   Financial Statements (Unaudited)
+            Balance sheets--June 30, 2000 and December 31, 1999.........................................     3
+            Statements of operations--Three months and six months ended June 30, 2000 and 1999..........     4
+            Statements of cash flows--Six months ended June 30, 2000 and 1999...........................     5
+            Notes to financial statements--June 30, 2000................................................     6
+  Item 2.   Management's Discussion and Analysis of Financial Condition and
+            Results of Operations.......................................................................    11
+  Item 3.   Quantitative and Qualitative Disclosure of Market Risk......................................    26
+PART II.  OTHER INFORMATION
+  Item 1.   Legal Proceedings...........................................................................    28
+  Item 2.   Changes in Securities and Use of Proceeds...................................................    28
+  Item 3.   Defaults Upon Senior Securities.............................................................    28
+  Item 4.   Submission of Matters to a Vote of Security Holders.........................................    28
+  Item 5.   Other Information...........................................................................    29
+  Item 6.   Exhibits and Reports on Form 8-K............................................................    29
+Signature...............................................................................................    30
+Exhibit Index...........................................................................................    31
+</TABLE>
+
+
+
+                                       2
+<PAGE>   3
+
+PART I.  FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                                AMAZON.COM, INC.
+
+                                 BALANCE SHEETS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+<TABLE>
+<CAPTION>
+                                                                      JUNE 30,        DECEMBER 31,
+                                                                        2000              1999
+                                                                    ------------    --------------
+                                                                     (unaudited)
+<S>                                                                 <C>             <C>
+                                   ASSETS
+Current assets:
+  Cash and cash equivalents .....................................   $   720,377       $   133,309
+  Marketable securities .........................................       187,244           572,879
+  Inventories ...................................................       172,360           220,646
+  Prepaid expenses and other current assets .....................        86,659            85,344
+                                                                    -----------       -----------
+          Total current assets ..................................     1,166,640         1,012,178
+Fixed assets, net ...............................................       344,042           317,613
+Goodwill, net ...................................................       441,240           534,699
+Other intangibles, net ..........................................       155,538           195,445
+Investments in equity-method investees ..........................       211,715           226,727
+Other investments ...............................................        88,261           144,735
+Other assets ....................................................        53,294            40,154
+                                                                    -----------       -----------
+          Total assets ..........................................   $ 2,460,730       $ 2,471,551
+                                                                    ===========       ===========
+             LIABILITIES AND STOCKHOLDERS' EQUITY (DEFICIT)
+Current liabilities:
+  Accounts payable ..............................................   $   286,239       $   463,026
+  Accrued expenses and other current liabilities ................       146,874           181,909
+  Unearned revenue ..............................................       115,566            54,790
+  Interest payable ..............................................        41,213            24,888
+  Current portion of long-term debt and other ...................        17,731            14,322
+                                                                    -----------       -----------
+          Total current liabilities .............................       607,623           738,935
+Long-term debt ..................................................     2,131,531         1,466,338
+Commitments and contingencies
+Stockholders' equity (deficit):
+  Preferred stock, $0.01 par value:
+     Authorized shares - 500,000
+     Issued and outstanding shares -- none ......................            --                --
+  Common stock, $0.01 par value:
+     Authorized shares - 5,000,000
+     Issued and outstanding shares - 355,400 and 345,155
+      shares at June 30, 2000 and December 31, 1999,
+      respectively ..............................................         3,554             3,452
+  Additional paid-in capital ....................................     1,335,733         1,194,369
+  Stock-based compensation ......................................       (25,410)          (47,806)
+  Accumulated other comprehensive loss ..........................       (84,664)           (1,709)
+  Accumulated deficit ...........................................    (1,507,637)         (882,028)
+                                                                    -----------       -----------
+          Total stockholders' equity (deficit) ..................      (278,424)          266,278
+                                                                    -----------       -----------
+          Total liabilities and stockholders' equity (deficit) ..   $ 2,460,730       $ 2,471,551
+                                                                    ===========       ===========
+</TABLE>
+
+                 See accompanying notes to financial statements.
+
+
+
+                                       3
+<PAGE>   4
+
+
+                                AMAZON.COM, INC.
+
+                            STATEMENTS OF OPERATIONS
+                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                     THREE MONTHS ENDED                    SIX MONTHS ENDED
+                                                           JUNE 30,                             JUNE 30,
+                                                 -----------------------------       -----------------------------
+                                                     2000              1999             2000              1999
+                                                 -----------       -----------       -----------       -----------
+<S>                                              <C>               <C>               <C>               <C>
+Net sales ...................................    $   577,876       $   314,377       $ 1,151,765       $   608,019
+Cost of sales ...............................        441,812           246,846           887,567           475,696
+                                                 -----------       -----------       -----------       -----------
+Gross profit ................................        136,064            67,531           264,198           132,323
+Operating expenses:
+  Marketing, sales and fulfillment ..........        129,813            86,165           269,924           146,883
+  Technology and content ....................         67,132            34,149           128,376            57,552
+  General and administrative ................         28,468            14,469            54,513            25,712
+  Stock-based compensation ..................          8,166             4,669            21,818             4,780
+  Amortization of goodwill and other
+    intangibles .............................         80,413            37,150           163,368            58,050
+  Merger, acquisition and investment-
+    related costs ...........................          2,449             3,809             4,468             4,208
+                                                 -----------       -----------       -----------       -----------
+          Total operating expenses ..........        316,441           180,411           642,467           297,185
+                                                 -----------       -----------       -----------       -----------
+Loss from operations ........................       (180,377)         (112,880)         (378,269)         (164,862)
+Interest income .............................         10,314            12,860            20,440            23,780
+Interest expense ............................        (33,397)          (28,320)          (61,018)          (44,954)
+Other expense, net ..........................         (3,272)              (74)           (8,046)             (122)
+                                                 -----------       -----------       -----------       -----------
+     Net interest expense and other .........        (26,355)          (15,534)          (48,624)          (21,296)
+                                                 -----------       -----------       -----------       -----------
+Loss before equity in losses of equity-
+  method investees ..........................       (206,732)         (128,414)         (426,893)         (186,158)
+Equity in losses of equity-method investees .       (110,452)           (9,594)         (198,716)          (13,517)
+                                                 -----------       -----------       -----------       -----------
+Net loss ....................................    $  (317,184)      $  (138,008)      $  (625,609)      $  (199,675)
+                                                 ===========       ===========       ===========       ===========
+Basic and diluted loss per share ............    $     (0.91)      $     (0.43)      $     (1.80)      $     (0.63)
+                                                 ===========       ===========       ===========       ===========
+Shares used in computation of basic and
+  diluted loss per share ....................        349,886           322,340           346,680           318,106
+                                                 ===========       ===========       ===========       ===========
+</TABLE>
+
+                 See accompanying notes to financial statements.
+
+
+
+                                       4
+<PAGE>   5
+
+                                AMAZON.COM, INC.
+
+                            STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                         SIX MONTHS ENDED
+                                                                             JUNE 30,
+                                                                   -----------------------------
+                                                                      2000               1999
+                                                                   -----------       -----------
+<S>                                                                <C>               <C>
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD ..............    $   133,309       $    71,583
+OPERATING ACTIVITIES:
+Net loss ......................................................       (625,609)         (199,675)
+Adjustments to reconcile net loss to net cash used in
+  operating activities:
+  Depreciation and amortization of fixed assets ...............         38,862            13,325
+  Amortization of deferred stock-based compensation ...........         21,818             4,780
+  Equity in losses of equity-method investees .................        198,716            13,517
+  Amortization of goodwill and other intangibles ..............        163,368            58,050
+  Non-cash merger, acquisition, and
+    investment-related costs ..................................          4,468             4,208
+  Amortization of previously unearned revenue .................        (37,266)               --
+  (Gain) loss on sale of marketable securities ................           (952)            7,440
+  Non-cash interest expense and other .........................         (4,217)           20,526
+  Changes in operating assets and liabilities:
+     Inventories ..............................................         48,286           (29,886)
+     Prepaid expenses and other current assets ................          6,738           (31,513)
+     Accounts payable .........................................       (176,787)           51,539
+     Accrued expenses and other current liabilities ...........        (37,995)           16,931
+     Unearned revenue .........................................            203                --
+     Interest payable .........................................          9,654            23,950
+                                                                   -----------       -----------
+          Net cash used in operating activities ...............       (390,713)          (46,808)
+INVESTING ACTIVITIES:
+Sales and maturities of marketable securities .................        449,294         3,096,250
+Purchases of marketable securities ............................        (50,786)       (3,803,494)
+Purchases of fixed assets .....................................        (55,479)         (111,097)
+Investments in equity-method investees and other
+  investments .................................................        (56,082)         (107,362)
+                                                                   -----------       -----------
+          Net cash provided by (used in) investing activities .        286,947          (925,703)
+FINANCING ACTIVITIES:
+Proceeds from exercise of stock options .......................         35,153            21,626
+Proceeds from long-term debt ..................................        680,999         1,250,000
+Repayment of long-term debt ...................................         (9,220)         (182,479)
+Financing costs ...............................................        (16,122)          (34,937)
+                                                                   -----------       -----------
+          Net cash provided by financing activities ...........        690,810         1,054,210
+Effect of exchange rate changes ...............................             24               137
+                                                                   -----------       -----------
+Net increase in cash and cash equivalents .....................        587,068            81,836
+                                                                   -----------       -----------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD ....................    $   720,377       $   153,419
+                                                                   ===========       ===========
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Fixed assets acquired under capital leases ....................    $     4,346       $    22,637
+Fixed assets acquired under financing agreements ..............          4,844             5,608
+Stock issued in connection with business acquisitions .........         30,000           617,007
+Equity securities for unearned Amazon Commerce
+  Network services ............................................         97,839                --
+</TABLE>
+
+                 See accompanying notes to financial statements.
+
+
+
+                                       5
+<PAGE>   6
+
+                                AMAZON.COM, INC.
+
+                          NOTES TO FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+NOTE 1 -- ACCOUNTING POLICIES
+
+Unaudited Interim Financial Information
+
+        The accompanying financial statements have been prepared by Amazon.com,
+Inc. ("Amazon.com" or the "Company") pursuant to the rules and regulations of
+the Securities and Exchange Commission (the "SEC") for interim financial
+reporting. These financial statements are unaudited and, in the opinion of
+management, include all adjustments (consisting of normal recurring adjustments
+and accruals) necessary for a fair presentation of the balance sheets, operating
+results, and cash flows for the periods presented. Operating results for the
+three-month and six-month periods ended June 30, 2000 are not necessarily
+indicative of the results that may be expected for the year ending December 31,
+2000 due to seasonal and other factors. Certain information and footnote
+disclosures normally included in financial statements prepared in accordance
+with generally accepted accounting principles have been omitted in accordance
+with the rules and regulations of the SEC. These financial statements should be
+read in conjunction with the audited financial statements, and accompanying
+notes, included in the Company's Annual Report on Form 10-K for the year ended
+December 31, 1999. Certain prior period amounts have been reclassified to
+conform to the current period presentation.
+
+Use of Estimates
+
+        The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from those
+estimates.
+
+Cash and Cash Equivalents
+
+        Effective April 1, 2000, the Company changed its policy for determining
+which investments are treated as cash equivalents. Effective April 1, 2000, the
+Company now classifies all highly liquid instruments with an original maturity
+of three months or less as cash equivalents. Prior to April 1, 2000, such
+investments were included in marketable securities. The Company believes this
+change is preferable because it results in a presentation that is consistent
+with practice in the Company's industry and because it results in a better
+reflection of the Company's liquidity. The balance sheet as of December 31, 1999
+and the statements of cash flows for the six-month periods ended June 30, 2000
+and 1999 presented in this Form 10-Q have been restated to reflect this change.
+
+Comprehensive Loss
+
+        Comprehensive loss is comprised of net loss, unrealized gains and losses
+on marketable securities and other available-for-sale investments, and foreign
+currency translation adjustments. Comprehensive loss was $355.5 million and
+$143.0 million for the three-month periods ended June 30, 2000 and 1999,
+respectively. Comprehensive loss was $708.6 million and $210.9 million for the
+six-month periods ended June 30, 2000 and 1999, respectively.
+
+Loss per Share
+
+        The number of shares used in calculating loss per share for the
+three-month periods ended June 30, 2000 and 1999 was reduced by 3.2 million and
+5.6 million shares, and the number of shares used in calculating loss per share
+for the six-month periods ended June 30, 2000 and 1999 was reduced by 3.7
+million and 7.2 million shares, respectively. Such reductions reflect the
+weighted average number of outstanding shares subject to repurchase. Stock
+options are antidilutive and accordingly excluded from diluted loss per share.
+
+Recent Accounting Pronouncements
+
+        In March 2000, the Emerging Issues Task Force (EITF) of the Financial
+Accounting Standards Board reached a consensus on EITF Issue 00-2, "Accounting
+for Web Site Development Costs." This consensus provides guidance on what types
+of costs incurred to develop Web sites should be capitalized or expensed. The
+consensus is effective for Web site development costs incurred for fiscal
+
+
+
+                                       6
+<PAGE>   7
+
+quarters beginning after June 30, 2000. The Company does not expect the adoption
+of this consensus to have a material impact on its financial position or results
+of operations.
+
+        In March 2000, the Financial Accounting Standards Board (FASB) issued
+FASB Interpretation (FIN) No. 44, "Accounting for Certain Transactions Involving
+Stock Compensation." FIN 44 clarifies the application of Accounting Principles
+Board Opinion No. 25 for certain issues relating to stock compensation. FIN 44
+is effective July 1, 2000, but certain conclusions in it cover specific events
+that occur after either December 15, 1998, or January 12, 2000. To the extent
+that FIN 44 covers events occurring during the period after December 15, 1998,
+or January 12, 2000, but before the effective date of July 1, 2000, the effects
+of applying FIN 44 are recognized on a prospective basis from July 1, 2000. The
+Company does not expect FIN 44 to have a material effect on its financial
+position or results of operations.
+
+        In May 2000, the EITF reached a consensus on EITF Issue 00-14,
+"Accounting for Certain Sales Incentives." This consensus provides guidance on
+the recognition, measurement, and income statement classification for sales
+incentives offered voluntarily by a vendor without charge to customers that can
+be used in, or that are exercisable by a customer as a result of, a single
+exchange transaction. This consensus must be adopted no later than October 1,
+2000. The Company does not expect the adoption of this consensus to have a
+material impact on its financial position or results of operations.
+
+        In July 2000, the EITF reached a consensus on EITF Issue 00-10,
+"Accounting for Shipping and Handling Fees and Costs." This consensus requires
+that all amounts billed to a customer in a sale transaction related to shipping
+and handling, if any, represent revenue and should be classified as revenue. The
+Company already classifies shipping charges to customers as revenue. The EITF
+did not reach a consensus with respect to the classification of costs related to
+shipping and handling incurred by the seller. The Company classifies inbound and
+outbound shipping costs and the cost of tangible supplies used to package
+product for shipment to customers as cost of sales. The Company does not
+currently impose separate handling charges on customers and classifies costs
+incurred in operating and staffing distribution and customer service centers
+(including costs attributable to receiving, inspecting and warehousing
+inventories; picking, packaging and preparing customers' orders for shipment;
+and responding to inquiries from customers) and credit card fees as marketing,
+sales and fulfillment expenses.
+
+NOTE 2 -- MARKETABLE SECURITIES
+
+        Marketable securities available for sale, at fair value, consist of the
+following:
+
+
+<TABLE>
+<CAPTION>
+                                                                                  JUNE 30,     DECEMBER 31,
+                                                                                    2000          1999
+                                                                                  --------      --------
+                                                                                      (IN THOUSANDS)
+<S>                                                                               <C>          <C>
+Asset-backed and agency securities .........................................      $ 94,462      $247,667
+Commercial paper and short-term obligations ................................        16,813        57,210
+Treasury notes and bonds ...................................................        60,510       164,158
+Corporate notes and bonds ..................................................            --       103,844
+Equity securities ..........................................................        15,459            --
+                                                                                  --------      --------
+          Total marketable securities ......................................      $187,244      $572,879
+                                                                                  ========      ========
+</TABLE>
+
+        The Company's marketable securities consist primarily of high quality
+short- to intermediate-term fixed income securities and equity securities.
+
+        At June 30, 2000 and December 31, 1999, the cost (amortized cost in the
+case of debt securities) of the Company's marketable securities was $182.7
+million and $601.4 million, respectively.
+
+NOTE 3 -- BUSINESS COMBINATIONS
+
+        In May 2000, the Company made a final payment for its May 1999
+acquisition of e-Niche Incorporated (Exchange.com) in the form of common stock
+of the Company. This payment was made pursuant to the terms of the original
+agreement and resulted in an increase in goodwill of $30 million related to the
+Exchange.com acquisition. This additional goodwill was recorded during the
+three-month period ended June 30, 2000 and will be amortized over a 2-year
+period.
+
+NOTE 4 -- INVESTMENTS IN EQUITY-METHOD INVESTEES
+
+
+
+                                       7
+<PAGE>   8
+
+        The Company holds certain investments accounted for under the equity
+method. The Company accounts for an investment under the equity method if the
+investment gives the Company the ability to exercise significant influence, but
+not control, over an investee. Significant influence is generally deemed to
+exist if the Company has an ownership interest in the voting stock of the
+investee of between 20% and 50%, although other factors, such as representation
+on the investee's Board of Directors and the impact of commercial arrangements,
+are considered in determining whether the equity method of accounting is
+appropriate. The Company records its equity in the income or losses of these
+investees generally one month in arrears for private companies and one quarter
+in arrears for public companies.
+
+        In June 2000, one of the Company's equity-method investees,
+HomeGrocer.com, Inc. (HomeGrocer), agreed to an acquisition of all of its
+outstanding common stock by Webvan Group, Inc. Upon closing of this transaction,
+the Company will no longer account for its investment in HomeGrocer under the
+equity method as its investment will not give it the ability to exercise
+significant influence over the combined entity. As a result, the Company will
+record a gain or loss representing the difference between the fair value and the
+recorded book value of the investment upon closing of the transaction. As of
+June 30, 2000, the book value of the Company's investment in HomeGrocer averaged
+$1.89 per share and the Company owned 27,733,990 shares of HomeGrocer common
+stock. The Company expects to record additional equity-method losses in
+HomeGrocer prior to closing of the transaction. The Company has agreed to
+certain restrictions on sale of the Webvan Group, Inc. common stock it will
+receive upon closing of the transaction.
+
+NOTE 5 -- OTHER INVESTMENTS
+
+        At June 30, 2000, Other Investments included $26.6 million of
+investments accounted for under the cost method and $61.7 million of investments
+in equity securities with ready markets that are recorded at fair value and
+classified as available-for-sale securities pursuant to Statement of Financial
+Accounting Standards (SFAS) No. 115. The cost of such noncurrent
+available-for-sale equity securities at June 30, 2000 was $151.3 million.
+
+NOTE 6 -- UNEARNED REVENUE AND RELATED PARTY TRANSACTIONS
+
+        Unearned revenue is recorded for the fair value of services to be
+performed in future periods for Amazon Commerce Network (ACN) partners. ACN
+partners are companies with which the Company has entered into strategic
+relationships that have generally consisted of the Company making a minority
+investment in the companies and entering into commercial agreements that involve
+the sale of products and services by these companies on co-branded sections of
+the Amazon Web site. The fair value of services provided by the Company to these
+partners is measured by the consideration paid to the Company by these ACN
+partners, and has consisted of cash, equity securities of ACN partners or a
+combination of the two. The Company holds equity securities of most of its ACN
+partners, some of which are accounted for under the equity method. Fair value of
+securities is determined based upon the market value, subject to appropriate
+adjustments for significant restrictions on marketability, at the date the
+agreement is consummated for ACN partners that are public companies and by an
+estimate of fair value, based on the use of independent third-party appraisals,
+for ACN partners that are private companies.
+
+        In March 2000, the EITF reached a consensus on EITF Issue 00-8,
+"Accounting by a Grantee for an Equity Instrument to be Received in Conjunction
+with Providing Goods or Services." This consensus indicates that the grantee
+should measure the fair value of equity instruments received in conjunction with
+providing goods or services using the stock price and other measurement
+assumptions as of the earlier of either (a) the date the parties come to a
+mutual understanding of the terms of the equity-based compensation arrangement
+and commitment for performance by the grantee to earn the equity instruments is
+reached, or (b) the date at which the grantee's performance necessary to earn
+the equity instruments is complete. The consensus applies to new grants or
+modifications of existing grants that occur after March 16, 2000. The consensus
+has not affected the Company's accounting through June 30, 2000 for any of the
+past transactions in which the Company received an equity instrument in
+conjunction with providing services. To the extent that previously received
+equity securities are subsequently modified, these or new equity securities
+received are subject to vesting or forfeiture provisions and/or no performance
+commitment exists upon signing of the agreements, as defined in EITF 00-8, the
+amount of revenue recorded by the Company for ACN transactions during each
+period will fluctuate based on the then-current fair value of any equity
+securities.
+
+        Unearned revenue is recognized over the period in which the service for
+which consideration has been received is performed (generally one to three
+years). During the three months and six months ended June 30, 2000, the Company
+recorded $24.3 million and $44.2 million, respectively, of revenue from ACN
+partners. For the three months ended June 30, 2000, this revenue was comprised
+of $4.2 million of cash, $19.2 million of equity securities of public companies
+and $0.9 million of equity securities of private companies.
+
+
+
+                                       8
+<PAGE>   9
+
+For the six months ended June 30, 2000, this revenue was comprised of $7.0
+million of cash, $33.5 million of equity securities of public companies and $3.7
+million of equity securities of private companies.
+
+        The Company has recently entered into amendments and negotiations to
+restructure its agreements with certain ACN partners and has accepted or has
+been asked to accept lower future cash payments, revisions to the related term
+of the agreements, or both. The Company has adjusted the amortization of
+previously unearned revenue to reflect these modifications. As a result, during
+the three months ended June 30, 2000, revenue recognized from certain ACN
+agreements was reduced by a total of $2.9 million.
+
+        The Company accounts for several of its investments in ACN partners
+using the equity method. During the three months and six months ended June 30,
+2000, the Company recorded $109.9 million and $197.8 million of equity-method
+losses for investments in ACN partners.
+
+NOTE 7 -- LONG-TERM DEBT
+
+        On February 16, 2000, the Company completed an offering of E690,000,000
+($656,397,000 as of June 30, 2000) of 6.875% Convertible Subordinated Notes due
+2010, also known as PEACS. The PEACS are convertible into the Company's common
+stock at an initial conversion price of E104.947 per share. Interest on the
+PEACS is payable annually in arrears in February of each year, commencing in
+February 2001. The PEACS are unsecured and are subordinated to all of the
+Company's existing and future senior indebtedness. The PEACS rank equally with
+the Company's outstanding 4 3/4% Convertible Subordinated Notes due 2009 (the
+"Convertible Notes"). The conversion price for the PEACS will be reset on
+February 16, 2001 and February 16, 2002, but in no event will the conversion
+price be reset lower than E84.883 per share. Subject to certain conditions, the
+PEACS may be redeemed at the Company's option on or after February 20, 2003, in
+whole or in part, at the redemption price of E1,000 per note, plus accrued and
+unpaid interest.
+
+NOTE 8 -- STOCK-BASED COMPENSATION
+
+        The following table shows the amounts of stock-based compensation,
+arising primarily from acquisitions accounted for under the purchase method,
+that would have been recorded under the following income statement categories
+had stock-based compensation not been separately stated in the Statements of
+Operations:
+
+<TABLE>
+<CAPTION>
+                                         THREE MONTHS ENDED           SIX MONTHS ENDED
+                                              JUNE 30,                    JUNE 30,
+                                      -----------------------      -----------------------
+                                        2000           1999          2000           1999
+                                      --------       --------      --------       --------
+                                          (IN THOUSANDS)               (IN THOUSANDS)
+<S>                                   <C>            <C>           <C>            <C>
+Marketing, sales and fulfillment .    $ (1,591)      $     81      $ (1,260)      $    178
+Technology and content ...........       9,331          4,386        22,160          4,462
+General and administrative .......         426            202           918            140
+                                      --------       --------      --------       --------
+                                      $  8,166       $  4,669      $ 21,818       $  4,780
+                                      ========       ========      ========       ========
+</TABLE>
+
+NOTE 9 -- COMMITMENTS AND CONTINGENCIES
+
+Legal Proceedings
+
+        During the first quarter of 2000, Supnick v. Amazon.com and Alexa
+Internet and four similar class action complaints were filed against the Company
+and its wholly owned subsidiary, Alexa Internet. The complaints, which have been
+consolidated in the United States District Court for the Western District of
+Washington, allege that Alexa Internet's tracking and storage of Internet Web
+usage paths violates federal and state statutes prohibiting computer fraud,
+unfair competition, and unauthorized interception of private electronic
+communications, as well as common law proscriptions against trespass and
+invasion of privacy. The complaints seek actual, statutory and punitive damages,
+as well as restitution, on behalf of all users of Alexa Internet's Web
+navigation service, as well as injunctive relief prohibiting Alexa Internet from
+tracking and storing such information or disclosing it to third parties.
+Although the Company disputes the allegations of wrongdoing in these complaints,
+there can be no assurance that the Company will prevail in these lawsuits.
+
+        In addition, the Federal Trade Commission has requested information and
+documents regarding Alexa Internet's practices and has opened a formal
+investigative file in connection with its inquiry. The Commission is seeking to
+determine whether the Company has engaged in unfair or deceptive acts in
+connection with the advertisement and operation of certain services provided by
+Alexa. The Company is cooperating voluntarily with the Commission's
+investigation.
+
+
+
+                                       9
+<PAGE>   10
+
+        Depending on the amount and the timing, an unfavorable resolution of
+some or all of these matters could materially affect the Company's business,
+future results of operations or cash flows in a particular period.
+
+        From time to time, the Company is subject to other legal proceedings and
+claims in the ordinary course of business, including claims of alleged
+infringement of trademarks, copyrights, patents and other intellectual property
+rights. The Company currently is not aware of any such legal proceedings or
+claims that it believes will have, individually or in the aggregate, a material
+adverse effect on its business, prospects, financial condition or operating
+results.
+
+NOTE 10 -- SEGMENT INFORMATION
+
+        Information on reportable segments and a reconciliation to net income is
+as follows:
+
+
+<TABLE>
+<CAPTION>
+                                                    US BOOKS,                           EARLY-STAGE
+                                                    MUSIC AND                           BUSINESSES
+                                                    DVD/VIDEO       INTERNATIONAL       AND OTHER        CONSOLIDATED
+                                                   -----------       -----------       -----------       -----------
+                                                                           (IN THOUSANDS)
+<S>                                                <C>              <C>                <C>               <C>
+THREE MONTHS ENDED JUNE 30, 2000:
+  Net sales .................................      $   385,275       $    73,393       $   119,208       $   577,876
+  Gross profit ..............................           86,862            16,286            32,916           136,064
+  Segment profit (loss) .....................           10,056           (34,503)          (64,902)          (89,349)
+  Other operating expenses ..................               --                --                --           (91,028)
+  Net interest expense and other ............               --                --                --           (26,355)
+  Equity in losses of equity-method
+     Investees ..............................               --                --                --          (110,452)
+                                                                                                         -----------
+  Net loss ..................................               --                --                --       $  (317,184)
+                                                                                                         ===========
+THREE MONTHS ENDED JUNE 30, 1999:
+  Net sales .................................          279,593            31,345             3,439       $   314,377
+  Gross profit (loss) .......................           61,680             6,575              (724)           67,531
+  Segment loss ..............................          (11,147)          (16,034)          (40,071)          (67,252)
+  Other operating expenses ..................               --                --                --           (45,628)
+  Net interest expense and other ............               --                --                --           (15,534)
+  Equity in losses of equity-method
+     Investees ..............................               --                --                --            (9,594)
+                                                                                                         -----------
+  Net loss ..................................               --                --                --       $  (138,008)
+                                                                                                         ===========
+SIX MONTHS ENDED JUNE 30, 2000:
+  Net sales .................................          786,689           148,525           216,551       $ 1,151,765
+  Gross profit ..............................          169,716            32,323            62,159           264,198
+  Segment profit (loss) .....................            7,630           (61,949)         (134,296)         (188,615)
+  Other operating expenses ..................               --                --                --          (189,654)
+  Net interest expense and other ............               --                --                --           (48,624)
+  Equity in losses of equity-method
+     Investees ..............................               --                --                --          (198,716)
+                                                                                                         -----------
+  Net loss ..................................               --                --                --       $  (625,609)
+                                                                                                         ===========
+SIX MONTHS ENDED JUNE 30, 1999:
+  Net sales .................................          547,114            57,064             3,841       $   608,019
+  Gross profit (loss) .......................          120,946            11,732              (355)          132,323
+  Segment loss ..............................          (14,264)          (30,287)          (53,273)          (97,824)
+  Other operating expenses ..................               --                --                --           (67,038)
+  Net interest expense and other ............               --                --                --           (21,296)
+  Equity in losses of equity-method
+     investees ..............................               --                --                --           (13,517)
+                                                                                                         -----------
+  Net loss ..................................               --                --                --       $  (199,675)
+                                                                                                         ===========
+</TABLE>
+
+        Revenue and gross profit of $24.3 million and $23.6 million,
+respectively, was generated on ACN services for the three months ended June 30,
+2000. Revenue and gross profit of $44.2 million and $43.1 million, respectively,
+was generated on ACN services for the six months ended June 30, 2000. Such
+amounts are included within the results of the Early-Stage Businesses and Other
+segment. There was no revenue or gross profit on ACN services during the three
+months or six months ended June 30, 1999.
+
+
+
+                                       10
+<PAGE>   11
+
+        The measure of profit or loss used for each reportable segment is income
+(loss) from operations before other operating expenses, including stock-based
+compensation, amortization of goodwill and other intangibles, and merger,
+acquisition and investment-related costs.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+        The following "Management's Discussion and Analysis of Financial
+Condition and Results of Operations" includes forward-looking statements within
+the meaning of the Private Securities Litigation Reform Act of 1995, such as
+forward-looking statements regarding expectations of future sales, pro forma
+operating loss and cash balances, the decrease in fulfillment costs as a
+percentage of sales, the sufficiency of the Company's cash and marketable
+securities balances to meet our cash needs over the next twelve months, future
+profitability of the US Books, Music and DVD/video segment, positive cash flow
+from operations and improvement in operating loss and sales, all of which are
+inherently difficult to predict. All statements other than statements of
+historical fact made in this Quarterly Report on Form 10-Q are forward looking.
+We generally use words such as "anticipates," "believes," "expects," "future"
+and "intends" and similar expressions to identify forward-looking statements.
+Forward-looking statements reflect management's current expectations and are
+inherently uncertain. The Company's actual results may differ significantly from
+management's expectations for a variety of reasons, including the rate of growth
+of the Internet and online commerce, the amount that the Company invests in new
+business opportunities and the timing of those investments, customer spending
+patterns, the mix of products sold to customers, the mix of revenues derived
+from product sales as compared to services, the magnitude of losses arising from
+investments accounted for under the equity method, the degree to which the
+Company enters into ACN and other strategic transactions, fluctuations in the
+value of securities and non-cash payments Amazon.com receives in such
+transactions, risks of inventory management, and risks of distribution and
+fulfillment throughput and productivity. Other risks and uncertainties include
+Amazon.com's limited operating history, anticipated losses, potential
+fluctuations in quarterly operating results, seasonality, consumer trends,
+competition, risks associated with distribution center expansion, adverse
+consequences arising from system interruptions, risks associated with management
+of potential growth, risks related to auction and zShops services, risks related
+to fraud and Amazon.com Payments, and risks of new business areas, international
+expansion, business combinations, and strategic alliances. These risks and
+uncertainties, as well as other risks and uncertainties that could cause the
+Company's actual results to differ significantly from management's expectations,
+are described in greater detail in the section entitled "Business -- Additional
+Factors That May Affect Future Results," which, along with the following
+discussion, describes some, but not all, of the factors that could cause actual
+results to differ significantly from management's expectations.
+
+OVERVIEW
+
+        Amazon.com, Inc. is the world's leading online merchandiser. We have
+served over 22.5 million customer accounts in over 150 countries. We directly
+offer for sale millions of distinct items in categories such as books, music,
+DVDs, videos, toys, electronics, software, video games, tools and hardware, lawn
+and patio products and kitchen products. Our customers can find and discover
+over 18 million new and used items and purchase them through a variety of
+methods, including directly from our retail store, through our zShops and Amazon
+Commerce Network merchants or by participating in auctions at Amazon Auctions or
+sothebys.amazon.com. In addition to our US Web site, we currently have two
+internationally focused Web sites located at www.amazon.co.uk and www.amazon.de.
+We offer our customers a superior shopping experience by providing high value
+through selection, convenience, ease of use, low prices, product information and
+an intense focus on customer service. We are a proven technology leader, having
+developed electronic commerce innovations such as 1-Click technology,
+personalized shopping services, easy-to-use search and browse features, secure
+payment protections and wireless access to our stores. We now operate ten
+distribution centers worldwide comprising approximately five million square feet
+of warehouse and distribution space, which allows us control over the
+distribution process and facilitates our ability to deliver merchandise to
+customers on a reliable and timely basis.
+
+        Amazon.com was incorporated in 1994 in the state of Washington and
+reincorporated in 1996 in Delaware. The Company's principal corporate offices
+are located in Seattle, Washington. Amazon.com completed its initial public
+offering in May 1997, and its common stock is listed on the Nasdaq National
+Market under the symbol "AMZN."
+
+        As used herein, "Amazon.com," "Amazon," "we," "our," "us" and "the
+Company" includes Amazon.com, Inc. and its consolidated subsidiaries, unless the
+context requires otherwise.
+
+        Through our Amazon Commerce Network (ACN), we have recently entered into
+a number of strategic relationships with selected e-commerce companies. These
+relationships have generally consisted of our making a minority investment in
+the companies and the entry into commercial agreements that involve the sale of
+products and services by these companies on co-branded sections of the
+
+
+
+                                       11
+<PAGE>   12
+Amazon Web site. Under these commercial agreements, we received equity
+securities in our ACN partners with a fair value of $97.8 million, net of cash
+paid, during the six months ended June 30, 2000 in return for services to be
+provided by us in the future and recorded such amounts as unearned revenue. We
+determined fair value of the equity securities at the time these commercial
+agreements were entered into by the quoted market prices, appropriately
+considering significant restrictions on marketability, for the public companies,
+and by independent, third-party valuations for the private companies. Such
+unearned revenue and any additional proceeds to be received under the
+arrangements will be recognized in revenue as we provide the related services
+over the term of the arrangement (generally over the next one to three years).
+We have recently entered into amendments and negotiations to restructure our
+agreements with certain ACN partners. We have accepted or have been asked to
+accept lower future cash payments, revisions to the related term of the
+agreements, or both. To the extent lower future cash payments in future years
+resulted from these modifications, the amount recorded as unearned revenue is
+being recognized as revenue over a longer period of time than contemplated under
+the terms of the original agreements. See Note 6 of Notes to Financial
+Statements.
+
+RESULTS OF OPERATIONS
+
+<TABLE>
+<CAPTION>
+                                         THREE MONTHS ENDED                              SIX MONTHS ENDED
+                                              JUNE 30,                                        JUNE 30,
+                                    ---------------------------                     ---------------------------
+                                        2000           1999          % CHANGE          2000            1999          % CHANGE
+                                    -----------     -----------     -----------     -----------     -----------     -----------
+                                    (IN THOUSANDS, EXCEPT GROSS                     (IN THOUSANDS, EXCEPT GROSS
+                                               MARGIN)                                         MARGIN)
+<S>                                 <C>             <C>             <C>             <C>             <C>             <C>
+Net sales .......................   $   577,876     $   314,377              84%    $ 1,151,765     $   608,019              89%
+Gross profit ....................       136,064          67,531             101%        264,198         132,323             100%
+Gross margin ....................          23.5%           21.5%              9%           22.9%           21.8%              5%
+Marketing, sales and
+   fulfillment...................       129,813          86,165              51%        269,924         146,883              84%
+Technology and content ..........        67,132          34,149              97%        128,376          57,552             123%
+General and administrative ......        28,468          14,469              97%         54,513          25,712             112%
+Stock-based compensation ........         8,166           4,669              75%         21,818           4,780             356%
+Amortization of goodwill and
+   other intangibles ............        80,413          37,150             116%        163,368          58,050             181%
+Loss from operations ............      (180,377)       (112,880)             60%       (378,269)       (164,862)            129%
+Interest income .................        10,314          12,860             (20)%        20,440          23,780             (14)%
+Interest expense ................       (33,397)        (28,320)             18%        (61,018)        (44,954)             36%
+Other expense, net ..............        (3,272)            (74)          4,322%         (8,046)           (122)          6,495%
+Equity in losses of equity-method
+   investees ....................      (110,452)         (9,594)          1,051%       (198,716)        (13,517)          1,370%
+</TABLE>
+
+Net Sales
+
+        Net sales includes the selling price of products sold by us, less
+returns and promotional gift certificates, and also includes outbound shipping
+charges charged to our customers. Shipping revenue was $73.5 million and $49.0
+million for the three-month periods ended June 30, 2000 and 1999, and $148.1
+million and $93.1 million for the six-month periods ended June 30, 2000 and
+1999. Net sales also includes ACN revenues of $24.3 million and $44.2 million
+for the three months and six months ended June 30, 2000, as well as commissions
+from auctions and zShops transactions. For the three months ended June 30, 2000,
+ACN revenue was comprised of $4.2 million of cash, $19.2 million of equity
+securities of public companies and $0.9 million of equity securities of private
+companies. For the six months ended June 30, 2000, ACN revenue was comprised of
+$7.0 million of cash, $33.5 million of equity securities of public companies and
+$3.7 million of equity securities of private companies. Growth in net sales for
+the six-month period is primarily related to an increase in units sold due to
+the growth of the Company's customer base, repeat purchases from existing
+customers, the introduction of new product lines and ACN revenues. Subsequent to
+June 30, 1999, the Company added the new product lines of toys, electronics,
+software, video games, tools and hardware, lawn and patio, and kitchen products.
+
+        At June 30, 2000, the number of customer accounts, which includes
+customer accounts for marketplace services but excludes customer accounts of our
+ACN partners, reached 22.5 million, compared with 10.7 million at June 30, 1999.
+
+        Sales to customers outside of the US, including export sales from our US
+website and sales from our internationally focused Web sites located at
+www.amazon.co.uk and www.amazon.de, represented approximately 23% and 24% of net
+sales for the three months ended June 30, 2000 and 1999, and 23% for each of the
+six-month periods ended June 30, 2000 and 1999.
+
+        Gross Profit
+
+
+
+                                       12
+<PAGE>   13
+
+        Gross profit consists of net sales less the cost of sales, which
+consists of the cost of merchandise sold to customers, as well as inbound and
+outbound shipping costs and the cost of tangible supplies used to package
+product for shipment to customers. For the three-month and six-month periods
+ended June 30, 2000, gross profit increased in absolute dollars over the same
+periods in 1999, reflecting our increased sales volume. Gross margin increased
+for the three-month and six-month periods ended June 30, 2000 compared to the
+same periods in 1999 primarily due to the generation of revenue from the
+higher-margin service activities of ACN. Gross profit from ACN activities was
+$23.6 million and $43.1 million for the three months and six months ended June
+30, 2000. Excluding the effect of ACN, gross margin would have been 20.3% during
+the three months ended June 30, 2000 and 20.0% during the six months ended June
+30, 2000, decreases of 1.2% and 1.8% compared to the same periods in 1999. This
+1.8% decrease in gross margin (excluding ACN) for the six months ended June 30,
+2000, as compared to the same period in 1999, is a result of lower gross profit
+from shipping and the addition of new product lines that generated lower gross
+margins. Gross profit from shipping, which represents shipping revenues less
+outbound shipping costs, declined to $7.5 million (5.1% of shipping revenues)
+from $11.6 million (12.4% of shipping revenues) for the six-month periods ended
+June 30, 2000 and 1999, respectively. The change in gross profit from shipping
+for these periods is primarily a function of the addition of the toys,
+electronics, tools and hardware and lawn and patio product lines since June 30,
+1999, which have had lower shipping margins than books, music and DVD/video
+products. It is also a result of our distribution center expansion during 1999,
+which led to increased split-shipments.
+
+        For the three months ended June 30, 2000 as compared to the same period
+in 1999, gross profit from shipping remained constant at 9.6% of shipping
+revenues. The 1.2% decrease in gross margin (excluding ACN) for the three-month
+period ended June 30, 2000 as compared to the same period in 1999 is primarily a
+function of the addition of new product lines that generated lower gross
+margins.
+
+        We intend to continue to expand our operations by promoting new or
+complementary products or sales formats and by expanding the breadth and depth
+of our product and service offerings. Gross margins attributable to new business
+areas may be different from those associated with our existing business
+activities. To the extent such business areas become larger components of our
+sales, we would expect a corresponding impact on overall gross margin.
+
+Marketing, Sales and Fulfillment
+
+        Marketing, sales and fulfillment expenses consist of advertising,
+promotional and public relations expenditures, credit card fees and payroll and
+related expenses for personnel engaged in marketing, selling and fulfillment
+activities. Fulfillment costs represent costs incurred in operating and staffing
+distribution and customer service centers (including costs attributable to
+receiving, inspecting and warehousing inventories; picking, packaging and
+preparing customers' orders for shipment; and responding to inquiries from
+customers), and credit card fees. Fulfillment costs amounted to $87.6 million
+and $42.4 million for the three-month periods ended June 30, 2000 and 1999, and
+$187.1 million and $76.5 million for the six-month periods ended June 30, 2000
+and 1999. Advertising, promotional and public relations costs totaled $42.2
+million and $43.8 million for the three-month periods ended June 30, 2000 and
+1999, and $82.8 million and $70.4 million for the six-month periods ended June
+30, 2000 and 1999. Marketing, sales and fulfillment expenses increased primarily
+due to increased payroll and related costs associated with fulfilling customer
+demand and increased credit card fees resulting from higher sales. Marketing,
+sales and fulfillment expenses decreased as a percentage of net sales for the
+three months ended June 30, 2000 as compared to the same period in 1999, from
+27.4% of net sales in 1999 to 22.5% of net sales in 2000, due to decreased
+marketing expenses. Marketing, sales and fulfillment expenses also decreased as
+a percentage of net sales for the six-month period ended June 30, 2000 as
+compared to the same period in 1999, from 24.2% of net sales in 1999 to 23.4% of
+net sales in 2000, primarily due to decreased marketing expenses. The decrease
+in marketing expenses as a percentage of net sales outweighed an increase in
+fulfillment expenses as a percentage of net sales caused by the significant
+expansion of our distribution center network during 1999. We expect that
+fulfillment costs will decline as a percentage of net sales in the future as we
+improve efficiency in distribution and customer service and as additional
+capacity of our existing distribution center network is more fully utilized.
+However, due to risks related to seasonality, inventory management and other
+factors, fulfillment costs may not decline as a percentage of net sales. See
+"Additional Factors That May Affect Future Results."
+
+        In July 2000, the Emerging Issues Task Force (EITF) reached a consensus
+on EITF Issue 00-10, "Accounting for Shipping and Handling Fees and Costs." This
+consensus requires that all amounts billed to a customer in a sale transaction
+related to shipping and handling, if any, represent revenue and should be
+classified as revenue. The Company already classifies shipping charges to
+customers as revenue. The EITF did not reach a consensus with respect to the
+classification of costs related to shipping and handling incurred by the seller.
+The Company classifies inbound and outbound shipping costs and the cost of
+tangible supplies used to package product for shipment to customers as cost of
+sales. The Company does not currently impose separate handling charges on
+customers and classifies costs incurred in operating and staffing distribution
+and customer service centers (including costs attributable to receiving,
+inspecting and warehousing inventories; picking, packaging and preparing
+customers' orders for shipment; and responding to inquiries from customers) and
+credit
+
+
+
+                                       13
+<PAGE>   14
+
+card fees as marketing, sales and fulfillment expenses. It is possible that
+organizations responsible for promulgating accounting standards may address the
+classification of costs related to shipping and handling incurred by a seller in
+the future.
+
+Technology and Content
+
+        Technology and content expenses consist principally of payroll and
+related expenses for development, editorial, systems and telecommunications
+operations personnel and consultants; systems and telecommunications
+infrastructure; and costs of acquired content, including freelance reviews.
+Technology and content expenses were 10.9% and 9.5% of net sales for the
+three-month and six-month periods ended June 30, 1999, increasing to 11.6% and
+11.1% for the three-month and six-month periods ended June 30, 2000. The
+increase in technology and content expenses for the three-month and six-month
+periods ended June 30, 2000 as compared to the same periods in 1999, both in
+absolute dollars and as a percentage of sales, was primarily attributable to
+expenses associated with preparations for opening a second data center to house
+the Company's technology equipment, as well as expenses associated with
+developing content for the Company's Web sites for new product launches.
+Technology and content costs are generally expensed as incurred, except for
+costs incurred during the application and infrastructure development stage of
+internal-use software, including those related to the Company's Web sites, that
+are capitalized and depreciated over estimated useful lives (generally two
+years). We believe that continued investment in technology and content is
+critical to attaining our strategic objectives. In addition to ongoing
+investments in our Web stores and infrastructure, we intend to increase
+investments in products, services and international expansion. As a result, we
+expect technology and content expenses to continue to increase in absolute
+dollars.
+
+General and Administrative
+
+        General and administrative expenses consist of payroll and related
+expenses for executive, finance and administrative personnel, recruiting,
+professional fees and other general corporate expenses. The increase in general
+and administrative expenses for the three-month and six-month periods ended June
+30, 2000 as compared to the same periods in 1999 was primarily a result of
+increased salaries and related expenses associated with the hiring of additional
+personnel and legal and other professional fees. As a percentage of net sales,
+general and administrative expenses were 4.6% and 4.2% for the three-month and
+six-month periods ended June 30, 1999, increasing to 4.9% and 4.7% for the
+three-month and six-month periods ended June 30, 2000. These increases are
+primarily due to legal and other professional fees increasing as a percentage of
+net sales.
+
+Stock-Based Compensation
+
+        Stock-based compensation is comprised of the portion of
+acquisition-related consideration that is conditioned on the continued tenure of
+key employees of acquired businesses, which must be classified as compensation
+expense rather than as a component of purchase price under generally accepted
+accounting principles. Stock-based compensation also includes stock-based
+charges for certain other compensation and severance arrangements. The increase
+in stock-based compensation for the three-month and six-month periods as
+compared to the same periods in 1999 resulted primarily from acquisitions
+consummated in 1999.
+
+Amortization of Goodwill and Other Intangibles
+
+        Increases in amortization of goodwill and other intangibles for the
+three-month and six-month periods ended June 30, 2000 as compared to the same
+periods in 1999 primarily resulted from the 1999 acquisitions of e-Niche
+Incorporated (Exchange.com), Alexa Internet, Accept.com Financial Services
+Corporation, LiveBid.com, Inc., the catalog and online commerce assets of Acme
+Electric Motor Co. (Tool Crib of the North) and Back to Basics Toys, Inc. and
+other acquisitions. We may continue to expand our business through acquisitions,
+which would cause amortization of goodwill and other intangibles to increase.
+
+Loss from Operations
+
+        Our loss from operations increased for the three-month and six-month
+periods ended June 30, 2000 as compared to the same periods in 1999 due to
+increases in marketing, sales and fulfillment, technology and content, general
+and administrative expenses, stock-based compensation and amortization of
+goodwill and other intangibles. The increases in these expense categories were
+partially offset by an increase in gross profit.
+
+Interest Income and Expense
+
+
+                                       14
+<PAGE>   15
+
+        Interest income decreased slightly for the three-month and six-month
+periods ended June 30, 2000 as compared to the same periods in 1999 due to a
+lower average balance of cash equivalents and marketable securities in 2000.
+Interest expense increased due to the February 2000 issuance of E690,000,000
+($656,397,000 as of June 30, 2000) of PEACS.
+
+Other Expense, Net
+
+        Other expense, net primarily consists of net realized gains and losses
+on sales of marketable securities and net foreign exchange transaction gains and
+losses. The increase in other expense, net for the three-month and six-month
+periods ended June 30, 2000 as compared to the same periods in 1999 is primarily
+due to higher net foreign exchange transaction losses and higher net realized
+losses on sales of marketable securities during 2000. The increase in net
+foreign exchange transaction losses is commensurate with an increase in foreign
+exchange transactions, primarily in the first quarter related to the issuance of
+the PEACS, and the increase in net realized losses is a result of a decline in
+the value of debt instruments in an environment of rising interest rates.
+
+Equity in Losses of Equity-Method Investees
+
+        Equity in losses of equity-method investees represents our share of
+losses of companies in which we have investments that give us the ability to
+exercise significant influence, but not control, over an investee. The increase
+in the amounts recorded for equity in losses of equity-method investees for the
+three-month and six-month periods ended June 30, 2000, as compared to the
+comparable periods in 1999, is due to a substantial increase in the number of
+investments that are accounted for under the equity method, as well as increased
+net losses of the investees. As of June 30, 1999, the Company had four
+equity-method investments, three of which were made during the three-month
+period ended June 30, 1999. As of June 30, 2000, the Company had 11
+equity-method investments. We expect to make additional investments in the
+future that will be accounted for under the equity method of accounting. Most of
+the companies in which we have invested to date are in the early stage of their
+operations and are incurring net losses. Therefore, we expect to continue to
+record losses on our equity-method investments.
+
+        Two of our equity-method investees, HomeGrocer.com, Inc. (HomeGrocer)
+and Pets.com, Inc., completed the initial public offerings of their common stock
+during the six months ended June 30, 2000. Additionally, another of our
+equity-method investees, drugstore.com, inc., completed a secondary offering of
+its common stock during the six months ended June 30, 2000. In connection with
+these sales of common stock by our investees, we recorded the related unrealized
+gains as contributions to additional paid-in capital of a total of $77.8 million
+during the six months ended June 30, 2000, representing the difference between
+the fair value and the carrying value of the portion of our investments that
+have been deemed to have been sold by the investees.
+
+        In June 2000, HomeGrocer agreed to an acquisition of all of its
+outstanding common stock by Webvan Group, Inc. Upon closing of this transaction,
+the Company will no longer account for its investment in HomeGrocer under the
+equity method as its investment will not give it the ability to exercise
+significant influence over the combined entity. As a result, the Company will
+record a gain or loss representing the difference between the fair value and the
+recorded book value of the investment upon closing of the transaction. As of
+June 30, 2000, the book value of the Company's investment in HomeGrocer averaged
+$1.89 per share and the Company owned 27,733,990 shares of HomeGrocer common
+stock. The Company expects to record additional equity-method losses in
+HomeGrocer prior to closing of the transaction. The Company has agreed to
+certain restrictions on sale of the Webvan Group, Inc. common stock it will
+receive upon closing of the transaction.
+
+Pro Forma Results of Operations
+
+        Pro forma information regarding our results, which excludes amortization
+of goodwill and other intangibles, stock-based compensation, equity in losses of
+equity-method investees and merger, acquisition and investment-related costs, is
+as follows:
+
+<TABLE>
+<CAPTION>
+                                                    THREE MONTHS ENDED              SIX MONTHS ENDED
+                                                         JUNE 30,                       JUNE 30,
+                                                -------------------------       -------------------------
+                                                  2000            1999            2000            1999
+                                                ---------       ---------       ---------       ---------
+                                                  (IN THOUSANDS, EXCEPT           (IN THOUSANDS, EXCEPT
+                                                      PER SHARE DATA)                 PER SHARE DATA)
+<S>                                             <C>             <C>             <C>             <C>
+Pro forma loss from operations ...........      $ (89,349)      $ (67,252)      $(188,615)      $ (97,824)
+Pro forma net loss .......................      $(115,704)      $ (82,786)      $(237,239)      $(119,120)
+Pro forma basic and diluted loss per
+ share....................................      $   (0.33)      $   (0.26)      $   (0.68)      $   (0.37)
+Shares used in computation of pro forma
+basic and diluted loss per share .........        349,886         322,340         346,680         318,106
+</TABLE>
+
+
+
+                                       15
+<PAGE>   16
+
+        Presentation of pro forma results from operations on the face of the
+financial statements is not in conformity with generally accepted accounting
+principles. We are providing pro forma results of operations for informational
+purposes only. The pro forma results are derived from information recorded in
+our financial statements.
+
+        We expect that our pro forma loss from operations will continue to
+decline as a percentage of net sales, that our pro forma loss from operations
+will be less than 10% of net sales for the fourth quarter of 2000, and that our
+US Books, Music and DVD/video segment will generate income on a pro forma
+operating basis for the full year in 2000. However, any such projections are
+subject to substantial uncertanty. See "Additional Factors That May Affect
+Future Results."
+
+FINANCIAL CONDITION
+
+        At June 30, 2000 the Company's total balance of cash and cash
+equivalents and marketable securities was $907.6 million, compared to $706.2
+million at December 31, 1999. Cash and cash equivalents increased from $133.3
+million at December 31, 1999 to $720.4 million at June 30, 2000 as a result of
+the investment of the proceeds from the issuance of the PEACS into a money
+market fund that is a cash equivalent. Marketable securities decreased from
+$572.9 million at December 31, 1999 to $187.2 million at June 30, 2000 because
+marketable securities were liquidated during the period to fund the Company's
+operating cash outflow for the period.
+
+        Net cash used in operating activities was $390.7 million and $46.8
+million for the six-month periods ended June 30, 2000 and 1999. Our net
+operating cash flow for both periods was primarily a result of our operating
+loss, exclusive of certain non-cash expenses resulting from depreciation and
+amortization, equity in losses of equity-method investees and amortization of
+goodwill and other intangibles. For further information regarding our operating
+cash flows, see the Statements of Cash Flows included in our unaudited interim
+financial statements.
+
+        Net cash provided by (used in) investing activities was $286.9 million
+and $(925.7) million for the six-month periods ended June 30, 2000 and 1999, and
+consisted of net purchases and sales of marketable securities, purchases of
+fixed assets and cash paid for equity investments. Cash available for investment
+purposes increased substantially in both 2000 and 1999 as a result of the
+issuances of the PEACS and Convertible Notes.
+
+        Net cash provided by financing activities of $690.8 million and $1.1
+billion for the six-month periods ended June 30, 2000 and 1999, was primarily a
+result of the issuances of the PEACS and Convertible Notes in 2000 and 1999.
+
+        As of June 30, 2000, the Company's principal commitments consisted of
+obligations outstanding under the PEACS, Convertible Notes, 10% Senior Discount
+Notes due May 2008 (the "Senior Discount Notes") and leases of property and
+equipment. The Company believes that current cash and marketable securities
+balances will be sufficient to meet its anticipated cash needs for at least the
+next 12 months and that it will generate positive cash flow from operations over
+the final two quarters of fiscal 2000 combined. The Company also expects that it
+will have approximately $1 billion in cash and cash equivalents and marketable
+securities as of December 31, 2000. However, any projections of future cash
+flows are subject to substantial uncertainty. See "Additional Factors That May
+Affect Future Results." If current cash, marketable securities and cash that may
+be generated from operations are insufficient to satisfy the Company's liquidity
+requirements, the Company may seek to sell additional equity or debt securities
+or to obtain a line of credit. The sale of additional equity or convertible debt
+securities could result in additional dilution to the Company's stockholders and
+additional interest expense. In addition, the Company will, from time to time,
+consider the acquisition of or investment in complementary businesses, products,
+services and technologies, and the repurchase and retirement of debt, which
+might impact the Company's liquidity requirements or cause the Company to issue
+additional equity or debt securities. There can be no assurance that financing
+will be available in amounts or on terms acceptable to the Company, if at all.
+
+ADDITIONAL FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+        In addition to the factors discussed in the "Overview" and "Financial
+Condition" sections of this "Management's Discussion and Analysis of Financial
+Condition and Results of Operations", the following additional factors may
+affect the Company's future results:
+
+WE HAVE A LIMITED OPERATING HISTORY UPON WHICH YOU CAN EVALUATE OUR BUSINESS AND
+PROSPECTS
+
+        We have a relatively short operating history upon which you can evaluate
+our business and prospects. You should consider our prospects in light of the
+risks, expenses and difficulties frequently encountered by online commerce
+companies. As an online commerce company, we have a rapidly evolving and
+unpredictable business model, we face intense competition, we must effectively
+manage our growth, and we must respond quickly to rapid changes in customer
+demands, industry standards and technology. We may not succeed in addressing
+these challenges and risks.
+
+WE HAVE AN ACCUMULATED DEFICIT AND ANTICIPATE FURTHER LOSSES
+
+
+
+                                       16
+<PAGE>   17
+
+        We have incurred significant losses since we began doing business. As of
+June 30, 2000, we had an accumulated deficit of $1.51 billion and our
+stockholders' equity was a deficit of $278.4 million. While we expect to
+generate income on a pro forma operating basis in our US Books, Music and
+DVD/video segment for the full year in 2000, we are incurring substantial
+operating losses and will continue to incur such losses for the foreseeable
+future. These losses may be significantly higher than our current losses. To
+succeed, we must invest heavily in marketing and promotion and in developing our
+product offerings and technology and operating infrastructure. Today's tight
+labor market and the recent volatility in our stock price could force us to
+increase our cash compensation to employees or grant larger stock option awards
+than we have historically, which could hurt our operating results and/or reduce
+the percentage ownership of our existing stockholders. In addition, the expenses
+associated with our past and future acquisitions and investments and interest
+expense related to our outstanding debt securities will adversely affect our
+operating results. Our aggressive pricing programs have resulted in relatively
+low gross margins. Our historical revenue growth rates are not sustainable and
+our percentage growth rate will decrease in the future.
+
+OUR SIGNIFICANT AMOUNT OF INDEBTEDNESS COULD AFFECT OUR BUSINESS
+
+        We have significant indebtedness. As of June 30, 2000, we had
+indebtedness under senior discount notes, convertible notes, capitalized lease
+obligations and other asset financings totaling approximately $2.15 billion. We
+may incur substantial additional debt in the future. Our indebtedness could:
+
+        -    make it difficult to make principal and interest payments on our
+             debt,
+
+        -    make it difficult to obtain necessary additional financing for
+             working capital, capital expenditures, debt service requirements or
+             other purposes in the future,
+
+        -    limit our flexibility in planning for, or reacting to, changes in
+             our business and competition, and
+
+        -    make it more difficult for us to react in the event of an economic
+             downturn.
+
+We may not be able to meet our debt service obligations. If our cash flow is
+inadequate to meet our obligations, we may face substantial liquidity problems.
+If we are unable to generate sufficient cash flow or obtain funds for required
+payments, or if we fail to comply with other covenants in our indebtedness, we
+will be in default. This would permit our creditors to accelerate the maturity
+of our indebtedness. In addition, our PEACS are denominated in euros, not
+dollars, and the exchange ratio between the euro and the dollar is not fixed by
+the indenture governing the PEACS. Therefore, fluctuations in the euro/dollar
+exchange ratio may adversely affect us, including by impacting the conversion.
+
+WE CANNOT ACCURATELY FORECAST REVENUES OF OUR BUSINESS. WE MAY EXPERIENCE
+SIGNIFICANT FLUCTUATIONS IN OUR QUARTERLY OPERATING RESULTS. OUR BUSINESS IS
+SUBJECT TO SEASONAL FLUCTUATION. FUTURE FLUCTUATIONS IN OPERATING RESULTS OR
+REVENUE SHORTFALLS COULD ADVERSELY AFFECT OUR SUCCESS
+
+        Due to our limited operating history and the unpredictability of our
+industry, we cannot accurately forecast our revenues. We base our current and
+future expense levels on our investment plans and estimates of future revenues.
+Our expenses are to a large extent fixed. We may not be able to adjust our
+spending quickly if our revenues fall short of our expectations. Further, we may
+make pricing, purchasing, service, marketing, acquisition, investment or
+financing decisions that could adversely affect our business results.
+
+        Our quarterly operating results will fluctuate for many reasons,
+including:
+
+        -    our ability to retain and increase sales to existing customers,
+             attract new customers and satisfy our customers' demands,
+
+        -    our ability to acquire merchandise, manage our inventory and
+             fulfill orders,
+
+        -    changes in gross margins of our current and future products and
+             services,
+
+        -    the introduction by us or our competitors of Web sites, products or
+             services, and our ability to properly anticipate demand,
+
+        -    purchases of large quantities of products, particularly in advance
+             of the holidays, for which demand may not materialize,
+
+
+
+                                       17
+<PAGE>   18
+
+        -    termination of Web sites, service offerings or product sales that
+             we determine are not viable,
+
+        -    changes in usage of the Internet and online services and consumer
+             acceptance of the Internet and online commerce,
+
+        -    timing of upgrades and developments in our systems and
+             infrastructure,
+
+        -    the level of traffic on our Web sites,
+
+        -    the effects of acquisitions and other business combinations, and
+             our ability to successfully integrate those acquisitions and
+             business combinations,
+
+        -    technical difficulties, system downtime or Internet brownouts,
+
+        -    variations in the mix of products we sell,
+
+        -    changes in the mix of revenues derived from products as compared to
+             services,
+
+        -    our inability to prevent fraud perpetrated by third parties through
+             credit card transactions, Amazon Payments transactions, and auction
+             and zShops transactions,
+
+        -    variations in our level of merchandise and vendor returns, and
+
+        -    disruptions in service by common shipping carriers due to strikes
+             or otherwise.
+
+        Both seasonal fluctuations in Internet usage and traditional retail
+seasonality are likely to affect our business. Internet usage generally declines
+during the summer. Sales in the traditional retail book, music, DVD/video, toy,
+electronics and tools and hardware industries usually increase significantly in
+the fourth calendar quarter of each year. The fourth quarter seasonal impact may
+be even more pronounced in our toys, electronics and video games businesses.
+
+        For these reasons, you should not rely on period-to-period comparisons
+of our financial results to forecast our future performance. Our future
+operating results may fall below the expectations of securities analysts or
+investors, which would likely cause the trading price of our common stock to
+decline.
+
+WE COULD LOSE SUBSTANTIAL MARKET SHARE IF WE DO NOT KEEP UP WITH THE INTENSE
+COMPETITION IN THE ONLINE COMMERCE MARKET
+
+        The online commerce market is new, rapidly evolving and intensely
+competitive. In addition, the retail book, music, DVD/video, toy, electronics,
+software, video game, tools and hardware, lawn and patio and kitchen industries
+are intensely competitive. Our current or potential competitors include:
+
+        -    online vendors of books, music, DVDs, videos, toys, electronics,
+             software, video games, tools and hardware, lawn and patio products,
+             kitchen products and other products,
+
+        -    a number of indirect competitors, including Web portals and Web
+             search engines, that are involved in online commerce, either
+             directly or in collaboration with other retailers,
+
+        -    online auction services,
+
+        -    Web-based retailers using alternative distribution capabilities,
+             and
+
+        -    publishers, distributors, manufacturers and physical-world
+             retailers of our products, many of which possess significant brand
+             awareness, sales volume and customer bases, and some of which
+             currently sell, or may sell, products or services through the
+             Internet, mail order or direct marketing.
+
+
+
+                                       18
+<PAGE>   19
+
+        We believe that the principal competitive factors in our market include
+brand recognition, selection, personalized services, price, convenience,
+accessibility, customer service, quality of search tools, quality of editorial
+and other Web site content, reliability, speed of fulfillment, ease of use and
+our ability to adapt to changing conditions.
+
+        Many of our current and potential competitors have longer operating
+histories, larger customer bases, greater brand recognition and significantly
+greater financial, marketing and other resources than we have. They may be able
+to secure merchandise from vendors on more favorable terms and may be able to
+adopt more aggressive pricing or inventory policies. They also can devote more
+resources to technology development and marketing than we can.
+
+        As the online commerce market continues to grow, other companies may
+enter into business combinations or alliances that strengthen their competitive
+positions. Competition in the Internet and online commerce markets will
+intensify. As various Internet market segments obtain large, loyal customer
+bases, participants in those segments may use their market power to expand into
+the markets in which we operate. In addition, new and expanded Web technologies
+may increase the competitive pressures on online retailers. The nature of the
+Internet as an electronic marketplace may facilitate competitive entry and
+comparison shopping and render it inherently more competitive than conventional
+retailing formats. For example, "shopping agent" technologies permit customers
+to quickly compare our prices with those of our competitors. This increased
+competition may reduce our operating margins, diminish our market share or
+impair the value of our brand.
+
+SYSTEM INTERRUPTIONS AND THE LACK OF INTEGRATION AND REDUNDANCY IN OUR SYSTEMS
+MAY AFFECT THE VOLUME OF ORDERS WE FULFILL AND THEREFORE OUR REVENUES, AND MAY
+HAVE AN ADVERSE IMPACT ON THE VALUE OF OUR BRAND
+
+        Customer access to our Web sites directly affects the volume of goods we
+sell and thus affects our revenues. We experience occasional system
+interruptions that make our Web sites unavailable or prevent us from efficiently
+fulfilling orders, which may reduce the volume of goods we sell and the
+attractiveness of our products and services. These interruptions will continue.
+We need to add additional software and hardware and upgrade our systems and
+network infrastructure to accommodate both increased traffic on our Web sites
+and increased sales volume and to fully integrate our systems. Without these
+upgrades, we may face additional system interruptions, slower response times,
+diminished customer service, impaired quality and speed of order fulfillment and
+delays in our financial reporting. We cannot accurately project the rate or
+timing of any increases in traffic or sales volume on our Web sites and,
+therefore, the integration and timing of these upgrades are uncertain. In
+addition, our inventory management systems are not fully integrated with our
+financial reporting systems, and a significant amount of manual effort may be
+necessary to reconcile our inventory and other financial accounts.
+
+        We maintain substantially all of our computer and communications
+hardware at a single leased facility in Seattle, Washington. Our systems and
+operations could be damaged or interrupted by fire, flood, power loss,
+telecommunications failure, break-ins, earthquake and similar events. We do not
+have backup systems or a formal disaster recovery plan, and we may not have
+sufficient business interruption insurance to compensate us for losses from a
+major interruption. Computer viruses, physical or electronic break-ins and
+similar disruptions could cause system interruptions, delays and loss of
+critical data and could significantly diminish our reputation and brand name and
+prevent us from providing services and accepting and fulfilling customer orders.
+
+OUR PLANNED GROWTH WILL CONTINUE TO PLACE A SIGNIFICANT STRAIN ON OUR
+MANAGEMENT, OPERATIONAL AND FINANCIAL RESOURCES
+
+        We have rapidly and significantly expanded our operations and will
+further expand our operations to address potential growth of our product and
+service offerings and customer base. This expansion will continue to place a
+significant strain on our management, operational and financial resources. We
+need to continue to successfully execute our expansion of our distribution
+centers and customer service centers and continue to improve our
+transaction-processing and operational and financial systems, procedures and
+controls. We also need to expand, train and manage our employee base. Our
+current and planned personnel, systems, procedures and controls may not be
+adequate to support and effectively manage our future operations. We may not be
+able to hire, train, retain, motivate and manage required personnel or to
+successfully identify, manage and exploit market opportunities, which may limit
+our growth.
+
+WE FACE SIGNIFICANT INVENTORY RISK ARISING OUT OF CHANGES IN CONSUMER DEMAND AND
+PRODUCT CYCLES. WE FACE ADDITIONAL INVENTORY RISKS BECAUSE OUR INVENTORY
+MANAGEMENT SYSTEMS ARE NOT WELL INTEGRATED DUE TO THE MANUAL NATURE OF SOME OF
+OUR OPERATIONAL PROCESSES
+
+
+
+                                       19
+<PAGE>   20
+
+        We are exposed to significant inventory risks as a result of
+seasonality, new product launches, rapid changes in product cycles and changes
+in consumer tastes with respect to our products. In order to be successful, we
+must accurately predict these trends and avoid overstocking or understocking
+products. Demand for products, however, can change significantly between the
+time inventory is ordered and the date of sale. In addition, when we begin
+selling a new product, it is particularly difficult to forecast product demand
+accurately. These issues are particularly pronounced with respect to our
+inventory of products that are based on current trends. A failure to optimize
+inventory will harm our shipping margins by requiring us to make partial
+shipments from one or more locations.
+
+        We may also be exposed to inventory risk if we are unable to negotiate
+satisfactory terms and conditions with our manufacturers, distributors and other
+suppliers. The acquisition of certain types of inventory, or inventory from
+certain sources, may require a significant lead-time and pre-payment, and such
+inventory may not be returnable. We carry a broad selection and significant
+inventory levels of products, and we may be unable to sell products in
+sufficient quantities or during the relevant selling seasons.
+
+        We are also exposed to significant inventory risks because our inventory
+forecasting, purchasing, receiving, reconciliation, accounting and payment
+systems are not well developed and are not well integrated. The lack of systems
+integration makes it a difficult and manual process to receive inventory,
+reconcile inventory invoices to purchase orders, account for inventory
+efficiently, request refunds from suppliers and pay supplier invoices. In
+addition, certain manual operational processes further complicate our ability to
+manage inventory efficiently.
+
+        Any one of the factors set forth above may require us to mark-down or
+write-off inventory. Substantial inventory mark-downs or write-offs will
+decrease gross margins. In the fourth quarter of 1999, for example, we incurred
+inventory-related charges that significantly decreased our gross margins.
+
+ENTERING NEW BUSINESS AREAS WILL REQUIRE SIGNIFICANT EXPENSE AND COULD STRAIN
+MANAGEMENT, FINANCIAL AND OPERATIONAL RESOURCES
+
+        We intend to expand our operations by promoting new or complementary
+products, services or sales formats and by expanding our product or service
+offerings. This will require significant additional expense and could strain our
+management, financial and operational resources. We cannot expect to benefit in
+these new markets from the first-to-market advantage that we experienced in the
+online book market. Our gross margins in these new business areas may be lower
+than our existing business activities. In addition, we may have limited or no
+experience in these new business areas. We may not be able to expand our
+operations in a cost-effective or timely manner. Any new business that our
+customers do not receive favorably could damage our reputation and brand name.
+
+IF WE DO NOT SUCCESSFULLY EXPAND AND OPERATE OUR DISTRIBUTION CENTERS, OUR
+BUSINESS COULD BE HARMED
+
+        If we do not successfully expand and our distribution centers fail to
+operate properly, it could significantly limit our ability to meet customer
+demand. During the fiscal year ended December 31, 1999, we added distribution
+centers in Nevada, Georgia, Kentucky, Kansas, North Dakota, Germany and the UK.
+Most of these distribution centers are or will be highly automated, and we have
+had limited experience with automated distribution centers. The two distribution
+centers we operated prior to 1999, in Washington and Delaware, are manually
+operated. We are not experienced in coordinating and managing distribution
+operations in geographically distant locations. Because it is difficult to
+predict sales increases, we may over-expand our facilities, which may result in
+excess inventory, warehousing, fulfillment and distribution capacity. We need to
+retain flexibility within our distribution and logistics network, including the
+ability to manage the operational challenges of shipping non-uniform and heavy
+products as part of the fulfillment of toy, electronics, tools and hardware,
+lawn and patio, kitchen and other product orders.
+
+THE DISPROPORTIONATE AMOUNT OF OUR NET SALES THAT WE EXPECT TO REALIZE DURING
+THE FOURTH QUARTER OF OUR FISCAL YEAR PLACES SIGNIFICANT STRAIN ON OUR BUSINESS
+
+        Because we expect a disproportionate amount of our net sales to be
+realized during the holiday season in the fourth quarter of our fiscal year, we
+face significant risks in the fourth quarter. We may fail to accurately predict
+the optimal inventory levels at our distribution centers for the fourth quarter.
+If we do not stock popular products in sufficient amounts during the fourth
+quarter and fail to meet customer demand, it could significantly impact our
+revenue and our future growth. If we overstock products, we may be required to
+take significant inventory mark-downs or write-offs, which could reduce gross
+margins. In the fourth quarter of 1999, we incurred inventory-related charges,
+which significantly decreased our gross margins. A failure to optimize inventory
+at our distribution centers will harm our shipping margins by requiring us to
+make partial shipments from one or more locations. In addition, we may
+experience a decline in our shipping margins due to complimentary upgrades and
+split-shipments necessary to ensure timely delivery
+
+
+
+                                       20
+<PAGE>   21
+
+for the holiday season. If too many customers access our Web sites within a
+short period of time due to increased holiday demand, we may experience system
+interruptions that make our Web sites unavailable or prevent us from efficiently
+fulfilling orders, which may reduce the volume of goods we sell and the
+attractiveness of our products and services, and may also harm our brand. In
+addition, we may be unable to adequately staff our distribution and customer
+service centers during these peak periods. Finally, our new automated
+distribution centers may fail to operate properly, which would interfere with
+our ability to meet customer demand.
+
+        We expect that our inventory balance will increase substantially in
+advance of the Christmas holiday. Payments for purchases of much of this
+inventory will not occur until the first quarter of the following fiscal year.
+Because we are paid for sales of product upon shipment, we anticipate an
+increase in available cash in the fourth quarter of our fiscal year, followed by
+a decrease in the first quarter as we make payments for inventory purchased in
+the previous fiscal year.
+
+WE MAY NOT BE SUCCESSFUL IN OUR EFFORTS TO EXPAND INTO INTERNATIONAL MARKETS
+
+        We plan to expand rapidly our presence in international markets. We have
+relatively little experience in purchasing, marketing and distributing products
+or services for these markets and may not benefit from any first-to-market
+advantages. It will be costly to establish international facilities and
+operations, promote our brand internationally, and develop localized Web sites
+and stores and other systems. We may not succeed in our efforts in these
+countries. Our revenues from international activities may not offset the expense
+of establishing and maintaining foreign operations and therefore these
+operations may never be profitable.
+
+        Our international sales and operations are subject to a number of risks
+inherent in selling and operating abroad, including, but not limited to, risks
+with respect to:
+
+        -    currency exchange rate fluctuations,
+
+        -    local economic and political conditions,
+
+        -    restrictive governmental actions (such as trade protection
+             measures, including export duties and quotas and custom duties and
+             tariffs),
+
+        -    changes in legal or regulatory requirements,
+
+        -    import or export licensing requirements,
+
+        -    limitations on the repatriation of funds,
+
+        -    difficulty in obtaining distribution and support,
+
+        -    nationalization,
+
+        -    different accounting practices and potentially longer payment
+             cycles,
+
+        -    seasonal reductions in business activity,
+
+        -    higher costs of doing business,
+
+        -    consumer protection laws and restrictions on pricing or discounts,
+
+        -    lower level of adoption or use of the Internet and other
+             technologies vital to our business, and the lack of or the failure
+             to implement the appropriate infrastructure to support widespread
+             Internet usage,
+
+        -    lower level of credit card usage,
+
+        -    difficulty in developing staffing and simultaneously managing a
+             larger number of unique foreign operations as a result of distance,
+             language and cultural differences,
+
+        -    disruptions of capital and trading markets,
+
+
+
+                                       21
+<PAGE>   22
+
+        -    laws and policies of the US affecting trade, foreign investment and
+             loans, and
+
+        -    tax and other laws.
+
+        As the international online commerce market continues to grow,
+competition in this market will likely intensify. Local companies may have a
+substantial competitive advantage because of their greater understanding of and
+focus on the local markets, as well as their more established local brand name
+recognition. In addition, governments in foreign jurisdictions may regulate the
+Internet or other online services in such areas as content, privacy, network
+security, copyright, encryption or distribution. This may affect our ability to
+conduct business internationally. We may not be able to hire, train, retain,
+motivate and manage required personnel, which may limit our growth in
+international markets.
+
+OUR BUSINESS COULD SUFFER IF WE ARE UNSUCCESSFUL IN MAKING AND INTEGRATING
+BUSINESS COMBINATIONS AND STRATEGIC ALLIANCES
+
+        We plan to continue to expand our operations and market presence by
+entering into business combinations, investments, joint ventures or other
+strategic alliances with other companies. Business combinations, investments,
+joint ventures and other strategic alliances with other companies create risks
+such as:
+
+        -    difficulty assimilating the operations, technology and personnel of
+             combined companies,
+
+        -    disruption of our ongoing business, including loss of management
+             focus on existing businesses and other market developments,
+
+        -    problems retaining key technical and managerial personnel,
+
+        -    expenses associated with amortization of goodwill and other
+             purchased intangible assets,
+
+        -    additional operating losses and expenses of acquired businesses,
+
+        -    impairment of relationships with existing employees, customers and
+             business partners, and
+
+        -    fluctuations in value and losses that may arise from our equity
+             investments.
+
+        We may not succeed in addressing these risks.
+
+
+        We may not be able to identify suitable candidates for business
+combinations and strategic investments or to make such business combinations and
+strategic investments on terms that are acceptable to us. In addition, the
+businesses we have acquired, and in the future may acquire, may incur operating
+losses.
+
+OUR AMAZON COMMERCE NETWORK SUBJECTS US TO A NUMBER OF RISKS
+
+        In the fall of 1999, we began our Amazon Commerce Network (ACN) program.
+As part of this program, we enter into agreements with companies in which we
+agree to jointly establish co-branded sections of the Amazon Web site for the
+sale of products and services by these companies. In exchange for the services
+we provide under these agreements, we receive cash, equity securities of these
+companies, or a combination of the two. Since beginning the ACN program, we have
+entered into agreements with 15 different companies. As part of this program, we
+may in the future enter into additional agreements with both existing ACN
+partners or new companies.
+
+        We hold several investments in third parties that are accounted for
+using the equity method, including several investments in our ACN partners.
+Under the equity method, we are required to record our equity percentage of the
+income or losses of these companies as income or losses for us. We record these
+amounts generally one month in arrears for private companies and one quarter in
+arrears for public companies. At June 30, 2000, we accounted for our investments
+in nine ACN partners under the equity method, three of which are public
+companies and six of which are private companies. The public companies are
+drugstore.com, HomeGrocer.com and Pets.com. The companies in which we have
+equity method investments are engaged in the Internet and e-commerce industries,
+are likely to experience large losses for the forseeable future and may not be
+successful. While
+
+
+
+                                       22
+<PAGE>   23
+
+the future losses we will record under the equity method are limited to our
+investment balance, we expect to record additional equity method losses in the
+future. Our investments in equity securities not accounted for under the equity
+method are included in "Marketable securities" and "Other investments" on our
+balance sheet. Certain of these investments are also in ACN partners.
+
+        We regularly review all of our investments in public and private
+companies for permanent impairment. If we determine that an investment is
+permanently impaired, we would reduce the carrying value of the securities we
+hold in these companies, perhaps by the entire amount being carried on our
+balance sheet, and record a loss in the amount of that impairment. Through June
+30, 2000, we had not recorded any permanent impairment for any investment,
+although we had unrealized losses of $89.6 million on available-for-sale
+securities included in accumulated other comprehensive loss as of June 30, 2000
+and have recorded $198.7 million of equity-method losses for the six months
+ended June 30, 2000. In recent months, companies in the Internet and e-commerce
+industries have experienced difficulties, including difficulties in raising
+proceeds to fund expansion or to continue operations. Because the companies in
+which we have investments are part of the Internet and e-commerce industries, we
+may conclude in future quarters that some of these investments have been
+permanently impaired.
+
+        We have recently entered into amendments and negotiations to restructure
+our agreements with certain ACN partners. We have accepted or have been asked to
+accept lower future cash payments, revisions to the related term of the
+agreements, or both. To the extent lower future cash payments in future years
+resulted from these modifications, the amount recorded as unearned revenue is
+being recognized as revenue over a longer period of time than contemplated under
+the terms of the original agreements. See Note 6 of Notes to Financial
+Statements.
+
+WE MAY NOT BE ABLE TO ADAPT QUICKLY ENOUGH TO CHANGING CUSTOMER REQUIREMENTS AND
+INDUSTRY STANDARDS
+
+        Technology in the online commerce industry changes rapidly. We may not
+be able to adapt quickly enough to changing customer requirements and
+preferences and industry standards. Competitors often introduce new products and
+services with new technologies. These changes and the emergence of new industry
+standards and practices could render our existing Web sites and proprietary
+technology obsolete. To succeed, we must enhance our Web site responsiveness,
+functionality and features, acquire and license leading technologies, enhance
+our existing services, develop new services and technology and respond to
+technological advances and emerging industry standards and practices on a
+cost-effective and timely basis.
+
+THE LOSS OF KEY SENIOR MANAGEMENT PERSONNEL COULD NEGATIVELY AFFECT OUR BUSINESS
+
+        We depend on the continued services and performance of our senior
+management and other key personnel, particularly Jeffrey P. Bezos, our chief
+executive officer and chairman of the board. We do not have "key person" life
+insurance policies. The loss of any of our executive officers or other key
+employees could harm our business.
+
+THE LONG-TERM VIABILITY OF THE INTERNET AS A MEDIUM FOR COMMERCE IS NOT CERTAIN
+
+        Consumer use of the Internet as a medium for commerce is a recent
+phenomenon and is subject to a high level of uncertainty. While the number of
+Internet users has been rising, the Internet infrastructure may not expand fast
+enough to meet the increased levels of demand. The increased use of the Internet
+as a medium for commerce raises concerns regarding Internet security,
+reliability, pricing, accessibility and quality of service. If use of the
+Internet as a medium for commerce does not continue to grow, or grows at a
+slower rate than we anticipate, or if the necessary Internet infrastructure or
+complementary services are not developed to effectively support growth that may
+occur, our business would be harmed.
+
+WE MAY BE SUBJECT TO PRODUCT LIABILITY CLAIMS IF PEOPLE OR PROPERTY ARE HARMED
+BY THE PRODUCTS WE SELL
+
+        As we enter new lines of business, we may increasingly sell products,
+such as toys, tools and hardware products and kitchen products, that may
+increase our exposure to product liability claims relating to personal injury,
+death or property damage caused by such products, and that may require us to
+take actions such as product recalls. We maintain liability insurance, but we
+cannot be certain that our coverage will be adequate for liabilities actually
+incurred or that insurance will continue to be available to us on economically
+reasonable terms, if at all. In addition, some of our vendor agreements with our
+suppliers do not indemnify us from product liability.
+
+
+
+                                       23
+<PAGE>   24
+
+WE RELY ON A SMALL NUMBER OF SUPPLIERS; OUR BUSINESS WOULD BE HARMED IF OUR
+CURRENT SUPPLIERS STOP SELLING MERCHANDISE TO US ON ACCEPTABLE TERMS
+
+        Although we have recently continued to increase our direct purchasing
+from manufacturers, approximately 25% of all of our purchases and 35% of our
+book, music, DVD and video titles, during the three months ended June 30, 2000
+were from three major vendors, Ingram Book Group, Baker & Taylor, Inc. and
+Valley Media, Inc., from which we purchase book, music, DVD and video titles. We
+do not have long-term contracts or arrangements with most of our vendors to
+guarantee the availability of merchandise, particular payment terms or the
+extension of credit limits. Our current vendors may stop selling merchandise to
+us on acceptable terms. We may not be able to acquire merchandise from other
+suppliers in a timely and efficient manner and on acceptable terms.
+
+WE MAY NOT BE ABLE TO ACQUIRE OR MAINTAIN APPROPRIATE DOMAIN NAMES
+
+        We hold rights to various Web domain names, including "Amazon.com,"
+"Amazon.co.uk," "Amazon.de" and "zShops.com." Governmental agencies typically
+regulate domain names. These regulations are subject to change. We may not be
+able to acquire or maintain appropriate domain names in all countries in which
+we do business. Furthermore, regulations governing domain names may not protect
+our trademarks and similar proprietary rights. We may be unable to prevent third
+parties from acquiring domain names that are similar to, infringe upon or
+diminish the value of our trademarks and other proprietary rights.
+
+GOVERNMENT REGULATION OF INTERNET COMMERCE IS EVOLVING AND UNFAVORABLE CHANGES
+COULD HARM OUR BUSINESS
+
+        We are subject to general business regulations and laws or regulations
+regarding taxation and access to online commerce. These laws or regulations may
+impede the growth of the Internet or other online services. Regulatory
+authorities may adopt specific laws and regulations governing the Internet or
+online commerce. These regulations may cover taxation, user privacy, pricing,
+content, copyrights, distribution, electronic contracts, and characteristics and
+quality of products and services. Changes in consumer protection laws also may
+impose additional burdens on companies conducting business online, both in the
+US and internationally. It is not clear how existing laws governing issues such
+as property ownership, sales and other taxes, libel and personal privacy apply
+to the Internet and online commerce. Unfavorable resolution of these issues may
+harm our business.
+
+        In addition, many jurisdictions currently regulate "auctions" and
+"auctioneers" in conducting auctions and may regulate online auction services.
+Jurisdictions may also regulate consumer-to-consumer fixed price online markets,
+like zShops. This could, in turn, diminish the demand for our products and
+services and increase our cost of doing business.
+
+IF WE ARE REQUIRED TO COLLECT TAXES IN ADDITIONAL JURISDICTIONS ON THE PRODUCTS
+WE SELL, WE MAY BE SUBJECT TO LIABILITY FOR PAST SALES AND OUR FUTURE SALES MAY
+DECREASE
+
+        In accordance with current industry practice, we do not currently
+collect sales taxes or other taxes with respect to shipments of goods into
+states other than Washington. In addition, we collect Value Added Tax, or VAT,
+for products that are ordered on www.amazon.co.uk and www.amazon.de and shipped
+into European Union member countries. Our new distribution center and customer
+service center networks, and any future expansion of those networks, along with
+other aspects of our evolving business, may result in additional sales and other
+tax obligations. One or more states or foreign countries may seek to impose
+sales or other tax collection obligations on out-of-jurisdiction companies which
+engage in electronic commerce as we do. A successful assertion by one or more
+states or foreign countries that we should collect sales or other taxes on the
+sale of merchandise could result in substantial tax liabilities for past sales,
+decrease our ability to compete with traditional retailers and otherwise harm
+our business.
+
+        Recent federal legislation limits the imposition of US state and local
+taxes on Internet-related sales. In 1998, Congress passed the Internet Tax
+Freedom Act, which places a three-year moratorium on state and local taxes on
+Internet access, unless such tax was already imposed prior to October 1, 1998,
+and on discriminatory taxes on electronic commerce. There is a possibility that
+Congress may not renew this legislation in 2001. If Congress chooses not to
+renew this legislation, US state and local governments would be free to impose
+new taxes on electronically purchased goods. The imposition of taxes on goods
+sold over the Internet by US state and local governments would create
+administrative burdens for us and decrease our future sales.
+
+        The European Commission is currently evaluating its VAT position on
+electronic commerce transactions. It is possible that future VAT legislation in
+the European Union or changes to our business model may result in additional VAT
+collection obligations and administrative burdens.
+
+
+
+                                       24
+<PAGE>   25
+
+WE COULD BE LIABLE FOR UNLAWFUL OR FRAUDULENT ACTIVITIES BY USERS OF OUR
+AUCTION, ART AND COLLECTIBLES, AND zSHOPS SERVICES
+
+        We may be unable to prevent users of our auction, art and collectibles,
+and zShops services from selling unlawful goods, or from selling goods in an
+unlawful manner. We may face civil or criminal liability for unlawful and
+fraudulent activities by our users. Any costs we incur as a result of liability
+relating to the sale of unlawful goods, the unlawful sale of goods, the
+fraudulent receipt of goods or the fraudulent collection of payments could harm
+our business.
+
+        In running our auction, art and collectibles and zShops services, we
+rely on sellers of goods to make accurate representations and provide reliable
+delivery and on buyers to pay the agreed purchase price. For our auction, art
+and collectibles, and zShops services, we do not take responsibility for
+delivery of payment or goods and while we can suspend or terminate the accounts
+of users who fail to fulfill their delivery obligations to other users, we
+cannot require users to make payments or deliver goods. We do not compensate
+users who believe they have been defrauded by other users except through our
+guarantee program. Under the guarantee program, fraudulent activities by our
+users, such as the fraudulent receipt of goods and the fraudulent collection of
+payments, may create liability for us. In addition, we are aware that
+governmental agencies are currently investigating the conduct of online
+auctions.
+
+WE COULD BE LIABLE FOR BREACHES OF SECURITY ON OUR WEB SITE AND FRAUDULENT
+ACTIVITIES OF USERS OF OUR AMAZON PAYMENTS PROGRAM
+
+        A fundamental requirement for electronic commerce is the secure
+transmission of confidential information over public networks. Although we have
+developed systems and processes to prevent fraudulent credit card transactions
+and other security breaches, failure to mitigate such fraud or breaches may
+impact our financial results.
+
+        The law relating to the liability of providers of online payment
+services is currently unsettled. We guarantee payments made through Amazon
+Payments up to certain limits for both buyers and sellers, and we may be unable
+to prevent users of Amazon Payments from fraudulently receiving goods when
+payment may not be made to a seller or fraudulently collecting payments when
+goods may not be shipped to a buyer. Our liability risk will increase as a
+larger fraction of our sellers use Amazon Payments. Any costs we incur as a
+result of liability because of our guarantee of payments made through Amazon
+Payments or otherwise could harm our business. In addition, the functionality of
+Amazon Payments depends on certain third-party vendors delivering services. If
+these vendors are unable or unwilling to provide services, Amazon Payments will
+not be viable (and our businesses that use Amazon Payments may not be viable).
+
+WE COULD BE SUBJECT TO RISKS ASSOCIATED WITH INFORMATION POSTED ON OUR WEB SITE
+BY THIRD PARTIES
+
+        Our Web site features customer reviews of the products we sell and
+customer ratings of sellers on our auctions and zShops sites. Although these
+reviews and ratings are generated by customers and not by us, it is possible
+that a claim could be made against us for reviews and ratings posted on our Web
+site. If we become liable for information posted on our Web site by customers,
+we could be harmed and may be forced to discontinue certain services.
+
+WE MAY NOT BE ABLE TO ADEQUATELY PROTECT OUR INTELLECTUAL PROPERTY RIGHTS OR MAY
+BE ACCUSED OF INFRINGING INTELLECTUAL PROPERTY RIGHTS OF THIRD PARTIES
+
+        We regard our trademarks, service marks, copyrights, patents, trade
+dress, trade secrets, proprietary technology and similar intellectual property
+as critical to our success, and we rely on trademark, copyright and patent law,
+trade secret protection and confidentiality and/or license agreements with our
+employees, customers, partners and others to protect our proprietary rights. We
+have been issued a number of trademarks, service marks, patents and copyrights
+by US and foreign governmental authorities. We also have applied for the
+registration of some other trademarks, service marks, copyrights and patents in
+the US and internationally. In addition, we have filed US and international
+patent applications covering certain of our proprietary technology. Effective
+trademark, service mark, copyright, patent and trade secret protection may not
+be available in every country in which our products and services are made
+available online. The protection of our intellectual property may require the
+expenditure of significant financial and managerial resources.
+
+        Third parties that license our proprietary rights, such as trademarks,
+patented technology or copyrighted material, may take actions that diminish the
+value of our proprietary rights or reputation. In addition, the steps we take to
+protect our proprietary rights may not be adequate and third parties may
+infringe or misappropriate our copyrights, trademarks, trade dress, patents and
+similar proprietary
+
+
+
+                                       25
+<PAGE>   26
+
+rights. Other parties may claim that we infringed their proprietary rights. We
+have been subject to claims, and expect to continue to be subject to legal
+proceedings and claims, regarding alleged infringement by our licensors and us
+of the trademarks and other intellectual property rights of third parties. Such
+claims, whether or not meritorious, may result in the expenditure of significant
+financial and managerial resources, injunctions against us or the imposition of
+damages that we must pay. We may need to obtain licenses from third parties who
+allege that we have infringed their rights, but such licenses may not be
+available on terms acceptable to us, or at all.
+
+OUR STOCK PRICE IS HIGHLY VOLATILE
+
+        The trading price of our common stock fluctuates significantly. For
+example, during the 52-week period ended June 30, 2000 (as adjusted for the
+2-for-1 split of our common stock on September 1, 1999), the reported sale price
+of our common stock on the NASDAQ National Market was as high as $113.00 and as
+low as $32.47 per share. Trading prices of our common stock may fluctuate in
+response to a number of events and factors, such as:
+
+        -    quarterly variations in operating results,
+
+        -    announcements of innovations,
+
+        -    new products, services and strategic developments by us or our
+             competitors, or business combinations and investments by us or our
+             competitors,
+
+        -    changes in financial estimates and recommendations by securities
+             analysts,
+
+        -    changes in interest rates or other general economic conditions,
+
+        -    conditions or trends in the Internet and the online commerce
+             industry,
+
+        -    developments in Internet regulation,
+
+        -    sales of our common stock in the open market,
+
+        -    additions or departures of key personnel,
+
+        -    changes in the valuation of or performance by other online commerce
+             companies, and
+
+        -    news reports relating to trends in the Internet, products we
+             currently sell or in the future may sell, or services we perform or
+             in the future may perform.
+
+        Any of these events may cause our stock price to fall, which may
+adversely affect our business and financing opportunities. The valuations of
+many Internet stocks are high based on conventional valuation standards such as
+price to earnings and price to sales ratios. In addition, the stock market in
+general and the market prices for Internet-related companies in particular have
+experienced significant volatility that often has been unrelated or
+disproportionate to such companies' operating performance. These broad market
+and industry fluctuations may adversely affect the trading price of our common
+stock regardless of our operating performance. In the past, securities class
+action litigation has been more likely to be brought against various companies
+following a period of volatility in the market price of their securities. We may
+be the target of similar litigation in the future, which could result in
+substantial costs and divert management's attention and resources, which could
+seriously harm our financial condition and operating results.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE OF MARKET RISK
+
+        The Company is exposed to market risk for the impact of interest rate
+changes, foreign currency fluctuations and changes in the market values of its
+investments. The Company has not utilized derivative financial instruments in
+its investment portfolio.
+
+        Interest rate risk. The Company's exposure to market risk for changes in
+interest rates relates primarily to the Company's investment portfolio and its
+long-term debt. All of the Company's marketable securities are designated as
+available for sale and accordingly are presented at fair value on our balance
+sheets. The Company generally invests its excess cash in high quality short- to
+intermediate-term fixed income securities and money market mutual funds. Fixed
+rate securities may have their fair market value
+
+
+
+                                       26
+<PAGE>   27
+
+adversely impacted due to a rise in interest rates, and the Company may suffer
+losses in principal if forced to sell securities that have declined in market
+value due to changes in interest rates.
+
+        Foreign currency risk. Revenues from the Company's foreign subsidiaries
+accounted for 13% of total revenues for the three months and six months ended
+June 30, 2000. Sales made by the Company's foreign subsidiaries are typically
+denominated in the local currency of each country. These subsidiaries also incur
+most of their expenses in the local currency. Accordingly, all foreign
+subsidiaries use the local currency as their functional currency. The Company is
+also exposed to foreign exchange rate fluctuations as the financial results of
+foreign subsidiaries are translated into US dollars in consolidation. As
+exchange rates vary, these results, when translated, may vary from expectations
+and adversely impact overall expected profitability. The effect of foreign
+exchange rate fluctuations on the Company in the quarter ended June 30, 2000 was
+not material. At June 30, 2000, the Company was also exposed to foreign currency
+risk related to the euro-denominated PEACS, which have an outstanding principal
+balance of E690 million ($656.4 million as of June 30, 2000) and expose the
+Company to risks of fluctuations in the euro/US dollar exchange rate. At June
+30, 2000, the Company held E698.4 million ($664.4 million) in a euro-denominated
+money market fund, which provides offsetting changes in exchange rate
+fluctuations. Additionally, because the conversion option in the PEACS is
+denominated in euros, changes in the euro/US dollar exchange rate may affect the
+future conversion of the debt.
+
+        Investment risk. The Company invests in both private and public
+companies, including its ACN partners, primarily for strategic purposes. Such
+investments are accounted for under the equity method if they give the Company
+the ability to exercise significant influence, but not control, over an
+investee. This is generally defined as an ownership interest of the voting stock
+of the investee of between 20% and 50%, although other factors, such as
+representation on the investee's Board of Directors and the impact of commercial
+arrangements, are considered in determining whether the equity method is
+appropriate. Some of the Company's cost-method investments are in private
+companies and are accounted for at cost and others are in public companies and
+are accounted for as available-for-sale securities and recorded at fair value.
+The Company regularly reviews the carrying value of its investments and
+identifies and records impairment losses when events and circumstances indicate
+that such assets are permanently impaired. To date, the Company has not recorded
+any such impairment losses. As of June 30, 2000, the Company had equity-method
+investments of $211.7 million, investments in private companies recorded under
+the cost method of $26.6 million, and available-for-sale equity securities at
+fair value totaling $77.2 million ($15.5 million of which was included in
+marketable securities and $61.7 million of which was included in other
+investments). All of these investments are in companies involved in the Internet
+and e-commerce industries and their fair values are subject to significant
+fluctuations due to volatility of the stock market and changes in general
+economic conditions.
+
+
+
+                                       27
+<PAGE>   28
+
+PART II -- OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+        During the first quarter of 2000, Supnick v. Amazon.com and Alexa
+Internet and four similar class action complaints were filed against the Company
+and its wholly owned subsidiary, Alexa Internet. The complaints, which have been
+consolidated in the United States District Court for the Western District of
+Washington, allege that Alexa Internet's tracking and storage of Internet Web
+usage paths violates federal and state statutes prohibiting computer fraud,
+unfair competition, and unauthorized interception of private electronic
+communications, as well as common law proscriptions against trespass and
+invasion of privacy. The complaints seek actual, statutory and punitive damages,
+as well as restitution, on behalf of all users of Alexa Internet's Web
+navigation service, as well as injunctive relief prohibiting Alexa Internet from
+tracking and storing such information or disclosing it to third parties.
+Although the Company disputes the allegations of wrongdoing in these complaints,
+there can be no assurance that the Company will prevail in these lawsuits.
+
+        In addition, the Federal Trade Commission has requested information and
+documents regarding Alexa Internet's practices and has opened a formal
+investigative file in connection with its inquiry. The Commission is seeking to
+determine whether the Company has engaged in unfair or deceptive acts in
+connection with the advertisement and operation of certain services provided by
+Alexa. The Company is cooperating voluntarily with the Commission's
+investigation.
+
+        Depending on the amount and the timing, an unfavorable resolution of
+some or all of these matters could materially affect the Company's business,
+future results of operations or cash flows in a particular period.
+
+        From time to time, the Company is subject to other legal proceedings and
+claims in the ordinary course of business, including claims of alleged
+infringement of trademarks, copyrights, patents and other intellectual property
+rights. The Company currently is not aware of any such legal proceedings or
+claims that it believes will have, individually or in the aggregate, a material
+adverse effect on its business, prospects, financial condition or operating
+results.
+
+ITEM 2. CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+        None
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+        None
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+        The Company's annual meeting of stockholders was held on May 10, 2000.
+
+        The following nominees were elected as directors, each to hold office
+until his or her successor is elected and qualified, by the vote set forth
+below:
+
+<TABLE>
+<CAPTION>
+            NOMINEE                     FOR            WITHHELD
+- ------------------------------      -----------      -----------
+<S>                                 <C>              <C>
+Jeffrey P. Bezos .............      314,795,113          895,025
+Tom A. Alberg ................      315,210,320          479,818
+Scott D. Cook ................      307,151,459        8,538,679
+L. John Doerr ................      314,736,128          954,010
+Joseph Galli, Jr. ............      314,427,144        1,262,994
+Patricia Q. Stonesifer .......      315,126,708          563,430
+</TABLE>
+
+        The proposal to approve an amendment to the Company's Restated
+Certificate of Incorporation to increase the number of authorized shares of
+common stock from 1,500,000,000 shares to 5,000,000,000 shares and increase the
+number of authorized shares of preferred stock from 150,000,000 shares to
+500,000,000 shares was approved by the vote set forth below:
+
+          FOR                    AGAINST                ABSTAIN
+      228,632,499              16,518,120               259,892
+
+
+
+                                       28
+<PAGE>   29
+
+        The proposal to approve the amendment to the Company's 1997 Stock Option
+Plan was approved by the vote set forth below:
+
+          FOR                    AGAINST                ABSTAIN
+      295,884,941              19,303,196               502,001
+
+ITEM 5. OTHER INFORMATION
+
+        None
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+        (a) Exhibits
+
+<TABLE>
+<CAPTION>
+    EXHIBIT
+    NUMBER        TITLE
+    ------        -----
+<S>               <C>
+     3.1          Restated Certificate of Incorporation of the Company
+     3.2          Restated Bylaws of the Company
+    10.1          Executive Compensation Letter to Jeff Wilke, dated May 16, 2000
+    10.2          Executive Compensation Letter to Warren Jenson, dated May 16, 2000
+    12.1          Computation of Ratio of Earnings to Fixed Charges
+    18.1          Letter Regarding Change in Accounting Principles
+    27.1          Financial Data Schedule
+</TABLE>
+
+- ----------
+
+     (b) Reports on Form 8-K
+
+        On May 1, 2000, the Company filed a Form 8-K under Item 5 announcing the
+Company's financial results for the first quarter of 2000.
+
+
+
+                                       29
+<PAGE>   30
+
+                                   SIGNATURES
+
+        Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                                       AMAZON.COM, INC. (Registrant)
+
+DATED: August 2, 2000
+
+                                       By:  /s/ MARK S. PEEK
+                                          ------------------------------------
+                                          Mark S. Peek
+                                          Chief Accounting Officer
+                                          and Vice President, Finance
+
+
+
+                                       30
+<PAGE>   31
+
+                                  EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+  EXHIBIT
+  NUMBER       TITLE
+  ------       -----
+<S>            <C>
+   3.1         Restated Certificate of Incorporation of the Company
+               (incorporated by reference to the Company's Quarterly Report on
+               Form 10-Q for the Quarterly Period ended March 31, 2000)
+   3.2         Restated Bylaws of the Company (incorporated by reference to the
+               Company's Current Report on Form 8-K dated February 28, 2000)
+   10.1        Executive Compensation Letter to Jeff Wilke, dated May 16, 2000
+   10.2        Executive Compensation Letter to Warren Jenson, dated May 16, 2000
+   12.1        Computation of Ratio of Earnings to Fixed Charges
+   18.1        Letter Regarding Change in Accounting Principles
+   27.1        Financial Data Schedule
+</TABLE>
+
+- ----------
+
+
+
+                                       31
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10-1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+
+<PAGE>   1
+EXECUTIVE COMPENSATION LETTER TO JEFF WILKE
+EXHIBIT 10.1
+
+
+
+
+
+May 16, 2000
+
+Jeff Wilke
+1200 12th Avenue South
+Suite 1200
+Seattle, WA 98144
+
+Re: Special Bonus
+
+
+Dear Jeff:
+
+As you know, we have tremendous challenge and opportunity ahead of us for the
+year 2000 and beyond. I truly appreciate the integral role that you play in our
+efforts.
+
+In recognition and appreciation of your contributions, Amazon.com will pay you a
+special bonus in the amount of $1,000,000 (One Million Dollars). This bonus will
+be paid in equal monthly installments over a one-year period beginning with your
+paycheck for May 2000 and will be subject to standard payroll practices and
+applicable withholding taxes. If your employment with Amazon.com terminates for
+any reason prior to payment of the full bonus, you will forfeit all remaining
+payments.
+
+Congratulations!
+
+Sincerely,
+
+/s/ JEFF BEZOS
+- -----------------------
+Jeff Bezos
+Chief Executive Officer
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>ex10-2.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+
+<PAGE>   1
+
+EXECUTIVE COMPENSATION LETTER TO WARREN JENSON
+EXHIBIT 10.2
+
+
+
+May 16, 2000
+
+Warren Jenson
+1200 12th Avenue South
+Suite 1200
+Seattle, WA 98144
+
+Re: Special Bonus
+
+
+Dear Warren:
+
+As you know, we have tremendous challenge and opportunity ahead of us for the
+year 2000 and beyond. I truly appreciate the integral role that you play in our
+efforts.
+
+In recognition and appreciation of your contributions, Amazon.com will pay you a
+special bonus in the amount of $1,000,000 (One Million Dollars). This bonus will
+be paid in equal monthly installments over a one-year period beginning with your
+paycheck for May 2000 and will be subject to standard payroll practices and
+applicable withholding taxes. If your employment with Amazon.com terminates for
+any reason prior to payment of the full bonus, you will forfeit all remaining
+payments.
+
+Congratulations!
+
+Sincerely,
+
+/s/ JEFF BEZOS
+- -----------------------
+Jeff Bezos
+Chief Executive Officer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.1
+<SEQUENCE>4
+<FILENAME>ex12-1.txt
+<DESCRIPTION>EXHIBIT 12.1
+<TEXT>
+
+<PAGE>   1
+COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES
+EXHIBIT 12.1
+
+
+<TABLE>
+<CAPTION>
+                                                    SIX
+                                                MONTHS ENDED                       YEAR ENDED DECEMBER 31,
+                                                  JUNE 30,     -----------------------------------------------------------------
+                                                   2000          1999           1998         1997          1996           1995
+                                                 ---------     ---------     ---------     ---------     ---------     ---------
+                                                                                (amounts in thousands)
+<S>                                             <C>            <C>           <C>           <C>           <C>           <C>
+Net loss                                         $(625,609)    $(719,968)    $(124,546)    $ (31,020)    $  (6,246)    $    (303)
+Equity in losses of equity-method investees        198,716        76,769         2,905            --            --            --
+                                                 ---------     ---------     ---------     ---------     ---------     ---------
+Net loss before equity in losses of
+   equity-method investees                        (426,893)     (643,199)     (121,641)      (31,020)       (6,246)         (303)
+                                                 ---------     ---------     ---------     ---------     ---------     ---------
+Plus fixed charges:
+      Interest expense including amortization
+          of debt issuance costs                    61,018        84,566        26,639           326             5            --
+      Assumed interest element included in
+          rent expense(1)                            5,032         4,732         2,833           700            90             4
+                                                 ---------     ---------     ---------     ---------     ---------     ---------
+                                                    66,050        89,298        29,472         1,026            95             4
+                                                 ---------     ---------     ---------     ---------     ---------     ---------
+      Adjusted earnings (loss)                    (360,843)     (553,901)      (92,169)      (29,994)       (6,151)         (299)
+      Fixed charges                                (66,050)      (89,298)      (29,472)       (1,026)          (95)           (4)
+                                                 ---------     ---------     ---------     ---------     ---------     ---------
+                                                 $(426,893)    $(643,199)    $(121,641)    $ (31,020)    $  (6,246)    $    (303)
+                                                 =========     =========     =========     =========     =========     =========
+</TABLE>
+
+(1)     Total rent expense for the period times the Company's estimated
+        incremental borrowing rate. This is the portion of rental expense which
+        the Company believes to be representative of interest cost.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-18.1
+<SEQUENCE>5
+<FILENAME>ex18-1.txt
+<DESCRIPTION>EXHIBIT 18.1
+<TEXT>
+
+<PAGE>   1
+
+LETTER REGARDING CHANGE IN ACCOUNTING PRINCIPLES
+EXHIBIT 18.1
+
+July 28, 2000
+
+Mark S. Peek
+Chief Accounting Officer and Vice President, Finance
+Amazon.com, Inc.
+1200 12th Avenue South, Suite 1200
+Seattle, Washington 98144-2734
+
+Dear Sir:
+
+Note 1 of Notes to Financial Statements (Unaudited) Of Amazon.com, Inc.,
+included in its Form 10-Q for the quarterly period ended June 30, 2000,
+describes a change in the method of accounting for the classification of certain
+investments as cash equivalents. We conclude that such change in the method of
+accounting is to an acceptable alternative method which, based on your business
+judgment to make this change and for the stated reasons, is preferable in your
+circumstances. We have not conducted an audit in accordance with generally
+accepted auditing standards of any financial statements of the Company as of any
+date or for any period subsequent to December 31, 1999, and therefore we do not
+express any opinion on any financial statements of Amazon.com, Inc., subsequent
+to that date.
+
+                                       Very truly yours,
+
+                                       /s/ Ernst & Young LLP
+
+                                       ERNST & YOUNG LLP
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>6
+<FILENAME>ex27-1.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+AMAZON.COM INC. FORM 10-Q FOR THE SIX MONTHS ENDED JUNE 30, 2000 AND IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JAN-01-2000
+<PERIOD-END>                               JUN-30-2000
+<CASH>                                         720,377
+<SECURITIES>                                   187,244
+<RECEIVABLES>                                        0
+<ALLOWANCES>                                         0
+<INVENTORY>                                    172,360
+<CURRENT-ASSETS>                             1,166,640
+<PP&E>                                         429,484
+<DEPRECIATION>                                  85,442
+<TOTAL-ASSETS>                               2,460,730
+<CURRENT-LIABILITIES>                          607,623
+<BONDS>                                      2,131,531
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         3,554
+<OTHER-SE>                                    (281,978)
+<TOTAL-LIABILITY-AND-EQUITY>                 2,460,730
+<SALES>                                      1,151,765
+<TOTAL-REVENUES>                             1,151,765
+<CGS>                                          887,567
+<TOTAL-COSTS>                                  887,567
+<OTHER-EXPENSES>                               642,467
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              61,018
+<INCOME-PRETAX>                              (625,609)
+<INCOME-TAX>                                         0
+<INCOME-CONTINUING>                          (625,609)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 (625,609)
+<EPS-BASIC>                                     (1.80)<F1>
+<EPS-DILUTED>                                   (1.80)
+<FN>
+<F1>FOR PURPOSES OF THIS EXHIBIT, PRIMARY MEANS BASIC.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

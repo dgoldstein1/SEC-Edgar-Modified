@@ -1,0 +1,1975 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ POqJm3nB0vJ8MYsA9Bp7ygAWygSqCyF6bFtAcowDA5wTAFb1EP+0GnLste34MUWa
+ iQZwCnhMkAR+SMSZnddVHg==
+
+<SEC-DOCUMENT>0000950135-00-005091.txt : 20010124
+<SEC-HEADER>0000950135-00-005091.hdr.sgml : 20010124
+ACCESSION NUMBER:		0000950135-00-005091
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AKAMAI TECHNOLOGIES INC
+		CENTRAL INDEX KEY:			0001086222
+		STANDARD INDUSTRIAL CLASSIFICATION:	7389
+		IRS NUMBER:				043432319
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-27275
+		FILM NUMBER:		769097
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 TECHNOLOGY SQ
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+		BUSINESS PHONE:		6172503000
+
+	MAIL ADDRESS:	
+		STREET 1:		500 TECHNOLOGY SQ
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02139
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>b36897ake10-q.txt
+<DESCRIPTION>AKAMAI TECHNOLOGIES, INC.
+<TEXT>
+
+<PAGE>   1
+
+- - --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+                            ------------------------
+
+[X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934 FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2000.
+
+                                       OR
+
+[ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934.
+
+                         COMMISSION FILE NUMBER 0-27275
+
+                           AKAMAI TECHNOLOGIES, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+<TABLE>
+<S>                              <C>
+           DELAWARE                        04-3432319
+(STATE OR OTHER JURISDICTION OF         (I.R.S. EMPLOYER
+INCORPORATION OR ORGANIZATION)       IDENTIFICATION NUMBER)
+</TABLE>
+
+                             500 TECHNOLOGY SQUARE
+                              CAMBRIDGE, MA 02139
+                                 (617) 250-3000
+    (ADDRESS, INCLUDING ZIP CODE, AND TELEPHONE NUMBER, INCLUDING AREA CODE,
+                  OF REGISTRANT'S PRINCIPAL EXECUTIVE OFFICES)
+
+                            ------------------------
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]  No [ ]
+
+     The number of shares outstanding of the registrant's common stock as of
+November 10, 2000: 107,960,984 shares.
+
+- - --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
+<PAGE>   2
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                                   FORM 10-Q
+               FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2000
+
+                               TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                        PAGE
+                                                                        ----
+<S>       <C>                                                           <C>
+PART I.   FINANCIAL INFORMATION
+          Item 1.  Financial Statements...............................     2
+          Item 2.  Management's Discussion and Analysis of Financial
+          Condition and Results of Operations.........................    13
+          Item 3.  Quantitative and Qualitative Disclosures About
+          Market Risk.................................................    25
+PART II.  OTHER INFORMATION
+          Item 2.  Changes in Securities and Use of Proceeds..........    26
+          Item 6.  Exhibits and Reports on Form 8-K...................    26
+          Signatures..................................................    27
+          Exhibit Index...............................................    28
+</TABLE>
+
+                                        1
+<PAGE>   3
+
+                         PART I.  FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                          CONSOLIDATED BALANCE SHEETS
+
+                (in thousands, except share and per share data)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                              DECEMBER 31,    SEPTEMBER 30,
+                                                                  1999            2000
+                                                              ------------    -------------
+<S>                                                           <C>             <C>
+                                  ASSETS
+Current assets:
+  Cash and cash equivalents.................................    $269,554        $  371,195
+  Short-term investments....................................          --            67,548
+  Accounts receivable, net of allowance for doubtful
+     accounts of $70 and $1,398 as of December 31, 1999 and
+     September 30, 2000, respectively.......................       1,588            15,592
+  Prepaid expenses and other current assets.................       2,521            19,565
+                                                                --------        ----------
+     Total current assets...................................     273,663           473,900
+  Property and equipment, net...............................      23,875           121,812
+  Intangible assets, net....................................         434         2,425,207
+  Long-term investments.....................................          --            12,637
+  Other assets..............................................       2,843            24,770
+                                                                --------        ----------
+     Total assets...........................................    $300,815        $3,058,326
+                                                                ========        ==========
+                   LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable..........................................    $  8,987        $   28,883
+  Accrued expenses..........................................       2,083             7,995
+  Accrued payroll and benefits..............................       3,614            11,544
+  Deferred revenue..........................................         698             5,073
+  Current portion of obligations under capital lease and
+     equipment loan.........................................         504             1,067
+  Current portion of long-term debt.........................       2,751                --
+                                                                --------        ----------
+     Total current liabilities..............................      18,637            54,562
+Convertible subordinated notes..............................          --           300,000
+Obligations under capital leases and equipment loan, net of
+  current portion...........................................         733               689
+Other liabilities...........................................          --               780
+                                                                --------        ----------
+     Total liabilities......................................      19,370           356,031
+                                                                --------        ----------
+Stockholders' equity:
+  Preferred stock, $0.01 par value; 5,000,000 shares
+     authorized, no shares issued and outstanding at
+     December 31, 1999 and September 30, 2000...............          --                --
+  Common stock, $0.01 par value; 700,000,000 shares
+     authorized; 92,498,525 issued and outstanding at
+     December 31, 1999; 107,297,982 shares issued and
+     outstanding at September 30, 2000......................         925             1,073
+  Additional paid-in capital................................     374,739         3,373,474
+  Notes receivable from officers for stock..................      (5,907)           (5,836)
+  Deferred compensation.....................................     (29,731)          (25,270)
+  Accumulated other comprehensive income....................          --               143
+  Accumulated deficit.......................................     (58,581)         (641,289)
+                                                                --------        ----------
+     Total stockholders' equity.............................     281,445         2,702,295
+                                                                --------        ----------
+     Total liabilities and stockholders' equity.............    $300,815        $3,058,326
+                                                                ========        ==========
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        2
+<PAGE>   4
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                     CONSOLIDATED STATEMENTS OF OPERATIONS
+
+                     (in thousands, except per share data)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                      FOR THE THREE MONTHS   FOR THE NINE MONTHS
+                                                      ENDED SEPTEMBER 30,    ENDED SEPTEMBER 30,
+                                                      --------------------   --------------------
+                                                        1999       2000        1999       2000
+                                                      --------   ---------   --------   ---------
+<S>                                                   <C>        <C>         <C>        <C>
+Revenue.............................................  $    883   $  27,156   $  1,287   $  52,522
+                                                      --------   ---------   --------   ---------
+Operating expenses:
+  Cost of services..................................     3,125      18,182      4,533      37,465
+  Engineering and development (excludes $3,410,
+     $6,244, $3,597 and $7,941, respectively, of
+     equity-related compensation disclosed
+     separately below)..............................     3,320      18,352      5,374      38,198
+  Sales, general and administrative (excludes
+     $2,870, $3,409, $4,021 and $13,322,
+     respectively, of equity-related compensation
+     disclosed separately below)....................     6,820      49,948     12,040     111,072
+  Amortization of intangible assets.................        13     238,700         36     436,780
+  Acquired in-process research and development......        --          --         --       1,372
+  Equity-related compensation.......................     6,280       9,653      7,618      21,263
+                                                      --------   ---------   --------   ---------
+     Total operating expenses.......................    19,558     334,835     29,601     646,150
+Operating loss......................................   (18,675)   (307,679)   (28,314)   (593,628)
+Interest income (expense), net......................       133       3,624        (11)     11,052
+                                                      --------   ---------   --------   ---------
+Loss before provision for income taxes..............   (18,542)   (304,055)   (28,325)   (582,576)
+  Provision for income taxes........................        --          20         --         132
+                                                      --------   ---------   --------   ---------
+Net loss............................................   (18,542)   (304,075)   (28,325)   (582,708)
+Dividends and accretion to preferred stock
+  redemption value..................................     1,350          --      1,645          --
+                                                      --------   ---------   --------   ---------
+Net loss attributable to common stockholders........  $(19,892)  $(304,075)  $(29,970)  $(582,708)
+                                                      ========   =========   ========   =========
+Basic and diluted net loss per share................  $  (0.80)  $   (3.27)  $  (1.47)  $   (6.84)
+Weighted average common shares outstanding..........    24,849      93,099     20,445      85,244
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        3
+<PAGE>   5
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (in thousands)
+                                  (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                 FOR THE NINE MONTHS ENDED
+                                                                       SEPTEMBER 30,
+                                                              --------------------------------
+                                                                   1999              2000
+                                                              --------------    --------------
+<S>                                                           <C>               <C>
+Cash flows from operating activities:
+  Net loss..................................................     $(28,325)        $(582,708)
+  Adjustments to reconcile net loss to net cash used in
+     operating activities:
+     Depreciation and amortization..........................        1,579           458,359
+     Amortization of deferred compensation..................        7,618            21,263
+     Amortization of prepaid advertising acquired for stock
+       (Note 9).............................................           --             4,529
+     Accrued interest on notes receivable from officers for
+       stock................................................           --              (256)
+     Amortization of discount on senior subordinated notes
+       and equipment loan...................................          340                --
+     Loss on disposal of fixed assets.......................           33                --
+     Acquired in-process research and development...........           --             1,372
+     Changes in operating assets and liabilities, net of
+       effects of acquired businesses:
+       Accounts receivable, net.............................         (552)           (9,075)
+       Prepaid expenses and other current assets............       (4,119)          (14,407)
+       Accounts payable and accrued expenses................        9,036            17,065
+       Deferred revenue.....................................           --             3,712
+       Other noncurrent asset and liabilities...............           --             1,043
+                                                                 --------         ---------
+Net cash used in operating activities.......................      (14,390)          (99,103)
+                                                                 --------         ---------
+Cash flows from investing activities:
+  Purchases of property and equipment.......................      (12,768)          (96,012)
+  Cash acquired from the acquisition of businesses, net of
+     cash paid..............................................           --            17,207
+  Purchase of investments...................................         (475)         (282,170)
+  Proceeds from sales and maturities of investments.........           --           250,564
+                                                                 --------         ---------
+Net cash used in investing activities.......................      (13,243)         (110,411)
+                                                                 --------         ---------
+Cash flows from financing activities:
+  Proceeds from the issuance of convertible subordinated
+     notes, net of offering costs...........................           --           290,500
+  Proceeds from the issuance of senior subordinated notes,
+     net of offering costs..................................       14,970                --
+  Proceeds from equipment financing loan....................        1,500                --
+  Proceeds from the issuance of Series B convertible
+     preferred stock, net...................................       19,875                --
+  Payments on capital leases and equipment financing loan...         (285)             (498)
+  Payment on the senior subordinated notes..................           --            (2,751)
+  Proceeds from the issuance of common stock under stock
+     option and employee stock purchase plans...............           30            23,645
+  Proceeds from the issuance of Series D convertible
+     preferred stock, net...................................       12,475                --
+  Proceeds from the issuance of Series E convertible
+     preferred stock, net...................................       48,966                --
+  Proceeds from the issuance of Series F convertible
+     preferred stock, net...................................       14,988                --
+  Proceeds from the issuance of common stock upon the
+     exercise of warrants...................................           --                10
+  Proceeds from the issuance of restricted common stock.....          293               555
+                                                                 --------         ---------
+Net cash provided by financing activities...................      112,812           311,461
+                                                                 --------         ---------
+Effects of exchange rate translation on cash and cash
+  equivalents...............................................           --              (306)
+                                                                 --------         ---------
+Net increase in cash and cash equivalents...................       85,179           101,641
+Cash and cash equivalents, beginning of the period..........        6,580           269,554
+                                                                 --------         ---------
+Cash and cash equivalents, end of the period................     $ 91,759         $ 371,195
+                                                                 ========         =========
+</TABLE>
+
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+                                        4
+<PAGE>   6
+
+                           AKAMAI TECHNOLOGIES, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                  (unaudited)
+
+1.  NATURE OF BUSINESS:
+
+     Akamai Technologies, Inc. ("Akamai" or the "Company") provides global
+delivery services for Internet content, streaming media and applications, and
+global Internet traffic management services. Our services improve the speed,
+quality, reliability and scaleability of Web sites. Akamai's services deliver
+customers' Internet content, steaming media and applications through a
+distributed worldwide server network that locates the content geographically
+closer to users.
+
+     The Company has a single operating segment: global delivery service for
+Internet content, streaming media and applications and global Internet traffic
+management services. The Company has no organizational structure dictated by
+product lines, geography or customer type. Approximately 97% of revenue earned
+in the current fiscal year has been generated from U.S.-based customers.
+
+2.  BASIS OF PRESENTATION AND PRINCIPLES OF CONSOLIDATION:
+
+     The accompanying interim consolidated financial statements, together with
+the related notes, are unaudited and reflect all adjustments, consisting only of
+normal recurring adjustments, that in the opinion of management are necessary
+for a fair presentation of the Company's financial position, results of
+operations and cash flows as of the dates and for the periods presented. The
+interim consolidated financial statements have been prepared in accordance with
+generally accepted accounting principles for interim financial information.
+Consequently, these interim financial statements do not include all disclosures
+normally required by generally accepted accounting principles for annual
+financial statements. Accordingly, reference should be made to the Company's
+Annual Report on Form 10-K for the year ended December 31, 1999 for additional
+disclosures. Results for the interim periods are not necessarily indicative of
+results for the entire fiscal year.
+
+     The consolidated financial statements include the accounts of Akamai and
+its wholly-owned subsidiaries. All intercompany transactions and balances have
+been eliminated in consolidation.
+
+3.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+  CASH, CASH EQUIVALENTS AND INVESTMENTS
+
+     Cash and cash equivalents consist of cash held in bank deposit accounts and
+short-term, highly liquid investments with original maturities of three months
+or less at the date of purchase. Cash equivalents are carried at cost, which
+approximates fair market value. Short-term investments consist of high quality
+corporate and governmental securities, which have original maturities of more
+than three months at the date of purchase and less than one year from the date
+of the balance sheet, and equity investments in public companies. Long-term
+investments consist of high quality corporate and government securities with
+maturities of more than one year from the date of the balance sheet and equity
+investments in private companies. The Company classifies all debt securities and
+equity securities with readily determinable market values as
+"available-for-sale" in accordance with Statement of Financial Accounting
+Standards ("SFAS") No. 115, "Accounting for Certain Investments in Debt and
+Equity Securities." These investments are carried at fair market value with any
+unrealized gain or loss recorded as a separate element of stockholders' equity.
+Investments in equity securities with no readily determinable fair value are
+carried at cost.
+
+     The following is a summary of investments at September 30, 2000 (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                                                      UNREALIZED
+                                                    AMORTIZED    --------------------    ESTIMATED
+                                                      COST       GAINS       LOSSES      FAIR VALUE
+                                                    ---------    ------    ----------    ----------
+<S>                                                 <C>          <C>       <C>           <C>
+Certificates of deposit...........................   $   509     $   --      $   --       $   509
+U.S. corporate debt securities....................    63,384          3          --        63,387
+Equity securities.................................    15,850      3,149       2,710        16,289
+                                                     -------     ------      ------       -------
+                                                     $79,743     $3,152      $2,710       $80,185
+                                                     =======     ======      ======       =======
+</TABLE>
+
+                                        5
+<PAGE>   7
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+                                  (unaudited)
+
+     Available-for-sale debt securities by contractual maturity are as follows
+at September 30, 2000 (in thousands):
+
+<TABLE>
+<CAPTION>
+
+<S>                                                           <C>
+Due in one year or less.....................................     $57,384
+Due after one year through two years........................       6,003
+                                                                 -------
+                                                                 $63,387
+                                                                 =======
+</TABLE>
+
+For all periods presented, realized gains and losses on sales of
+available-for-sale securities were immaterial. The Company determines the cost
+basis of securities by specific identification.
+
+  INTANGIBLE ASSETS
+
+     Intangible assets consist primarily of goodwill arising from the
+acquisition of businesses. Intangible assets from the acquisition of businesses
+are amortized using the straight-line method over two to three years, based on
+their estimated useful lives. Intangible assets also include the cost of
+acquired license rights to content delivery technology. These license rights are
+amortized over ten years. The carrying value of the intangible assets is
+reviewed on a quarterly basis for the existence of facts or circumstances both
+internally and externally that may suggest impairment. To date, no such
+impairment has occurred. The Company determines whether an impairment has
+occurred based on gross expected future cash flows and measures the amount of
+the impairment based on the related future estimated discounted cash flows. The
+cash flow estimates used to determine the impairment, if any, contain
+management's best estimates, using appropriate and customary assumptions and
+projections at that time.
+
+  STOCK-BASED COMPENSATION
+
+     The Company accounts for stock-based awards to employees using the
+intrinsic value method as prescribed by Accounting Principles Board Opinion
+("APB") No. 25, "Accounting for Stock Issued to Employees," and related
+interpretations. Accordingly, no compensation expense is recorded for options
+issued to employees in fixed amounts and with fixed exercise prices at least
+equal to the fair market value of the Company's common stock at the date of
+grant. The Company has adopted the provisions of SFAS No. 123, "Accounting for
+Stock-Based Compensation," through disclosure only. All stock-based awards to
+nonemployees are accounted for at their fair value in accordance with SFAS No.
+123. The Company has adopted the conclusions of Financial Accounting Standards
+Board ("FASB") Interpretation No. 44 ("FIN 44") for the period ended September
+30, 2000.
+
+     Equity-related compensation is comprised of the following: (a) the
+amortization of deferred compensation resulting from the granting of stock
+options or shares of restricted stock at exercise or sale prices deemed to be
+less than the fair value of the common stock on the grant date, and (b)
+compensation expense equal to the intrinsic value of modified stock options or
+restricted stock awards, measured at the modification date, for the number of
+awards that, absent the modification, would have expired unexercisable. For the
+three and nine month periods ended September 30, 1999, equity-related
+compensation includes $6.3 million and $7.6 million, respectively, for the
+amortization of deferred compensation. For the three and nine month period ended
+September 30, 2000, equity-related compensation includes $2.8 million and $7.3
+million, respectively, for the amortization of deferred compensation and $6.9
+million and $14.0 million, respectively, for compensation related to modified
+awards.
+
+  OTHER COMPREHENSIVE INCOME
+
+     The Company has adopted SFAS No. 130, "Reporting Comprehensive Income,"
+which established standards for reporting and displaying comprehensive income
+and its components in a financial statement that is displayed with the same
+prominence as other financial statements. Comprehensive loss is equal to net
+loss, for the three and nine month period ended September 30, 1999.
+Comprehensive loss is equal to net loss,
+
+                                        6
+<PAGE>   8
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+                                  (unaudited)
+
+unrealized gain and loss on investments and foreign currency translation
+adjustments for the three and nine month period ended September 30, 2000.
+
+  RECLASSIFICATIONS
+
+     Certain prior year amounts have been reclassified to conform to the current
+year presentation.
+
+  RECENT ACCOUNTING PRONOUNCEMENTS
+
+     In June 1998, the FASB issued SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities," as amended by SFAS No. 137, "Accounting for
+Derivative Instruments and Hedging Activities -- Deferral of the Effective Date
+of FASB Statement No. 133" and SFAS No. 138, "Accounting for Certain Derivative
+Instruments and Certain Hedging Activities -- an Amendment of FASB Statement No.
+133," which establishes accounting and reporting standards for derivative
+instruments and hedging activities. It requires that an entity recognize all
+derivatives as either assets or liabilities in the statement of financial
+position and measure those instruments at fair value. The Company, to date, has
+not engaged in derivative and hedging activities, and accordingly does not
+believe that the adoption of SFAS No. 133 will have a material impact on the
+financial reporting and related disclosures of the Company. The Company will
+adopt SFAS No. 133 as required by SFAS No. 137 in fiscal year 2001.
+
+     In December 1999, the Securities and Exchange Commission ("SEC") issued
+Staff Accounting Bulletin ("SAB") No. 101, "Revenue Recognition in Financial
+Statements," as amended by SAB No. 101A and 101B, which is effective no later
+than the quarter ending December 31, 2000. SAB No. 101 clarifies the SEC's views
+regarding the recognition of revenue. The Company will adopt SAB No. 101 in the
+fourth quarter of 2000. The Company does not expect the application of SAB No.
+101 to have a significant impact on its financial position or results of
+operations.
+
+     In March 2000, the FASB issued FIN No. 44, "Accounting for Certain
+Transactions Involving Stock Compensation -- an Interpretation of APB Opinion
+No. 25." FIN No. 44 primarily clarifies (a) the definition of an employee for
+purposes of applying APB Opinion No. 25, (b) the criteria for determining
+whether a plan qualifies as a noncompensatory plan, (c) the accounting
+consequence of various modifications to the terms of previously fixed stock
+options or awards, and (d) the accounting for an exchange of stock compensation
+awards in a business combination. FIN No. 44 is effective July 1, 2000, but
+certain conclusions in FIN No. 44 cover specific events that occurred after
+either December 15, 1998 or January 12, 2000. The application of FIN No. 44 did
+not have a significant impact on the Company's financial position or results of
+operations.
+
+4.  NET LOSS PER SHARE:
+
+     Basic net loss per share is computed using the weighted average number of
+common shares outstanding during the period. Diluted net loss per share is
+computed using the weighted average number of common shares outstanding during
+the period, plus the dilutive effect of potential common stock. Potential common
+stock consists of convertible preferred stock, unvested restricted common stock,
+stock options and warrants, convertible subordinated notes and contingently
+issuable stock.
+
+                                        7
+<PAGE>   9
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+                                  (unaudited)
+
+     The following table sets forth potential common stock excluded from the
+calculation of earnings per share since their inclusion would be antidilutive:
+
+<TABLE>
+<CAPTION>
+                                                            AS OF SEPTEMBER 30,
+                                                        ----------------------------
+                                                           1999              2000
+                                                        ----------        ----------
+<S>                                                     <C>               <C>
+Stock options.........................................  11,236,650        15,938,887
+Unvested restricted common stock......................  18,049,104        12,394,250
+Convertible preferred stock...........................  37,519,041                --
+Warrants..............................................   2,075,100         2,146,494
+Convertible subordinated notes........................          --         2,598,074
+Contingently issuable stock
+  (see Note 9)........................................          --           190,420
+</TABLE>
+
+5.  GOODWILL AND OTHER INTANGIBLE ASSETS:
+
+     Goodwill and other intangible assets consist of the following (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                            DECEMBER 31,   SEPTEMBER 30,   ESTIMATED USEFUL
+                                                1999           2000         LIVES IN YEARS
+                                            ------------   -------------   ----------------
+<S>                                         <C>            <C>             <C>
+Goodwill..................................      $ --        $2,816,138             3
+Completed technology......................        --            28,130             3
+Assembled workforce.......................        --            12,384           2-3
+Trademarks and tradenames.................        --             4,901             3
+Acquired license rights...................       490               490            10
+                                                ----        ----------
+                                                 490         2,862,043
+Less accumulated amortization.............        56           436,836
+                                                ----        ----------
+                                                $434        $2,425,207
+                                                ====        ==========
+</TABLE>
+
+     Goodwill and other intangible assets will be amortized as follows (in
+millions):
+
+<TABLE>
+<S>                                                           <C>
+Three months ending December 31, 2000.......................  $  239
+2001........................................................     955
+2002........................................................     955
+2003........................................................     276
+                                                              ------
+Total.......................................................  $2,425
+                                                              ======
+</TABLE>
+
+6.  CONVERTIBLE SUBORDINATED NOTES:
+
+     In June 2000, Akamai issued $300.0 million of 5 1/2% Convertible
+Subordinated Notes due July 1, 2007 (the "Convertible Notes") for aggregate net
+proceeds of approximately $290.5 million (net of offering expenses of $9.5
+million). The Convertible Notes are due July 1, 2007, and are convertible at any
+time into the Company's common stock at a conversion price of $115.47 per share
+(equivalent to 8.6603 shares of common stock per $1,000 principal amount of
+Convertible Notes), subject to adjustment in certain events. The Company can
+redeem the Convertible Notes on or after July 3, 2003 at the Company's option.
+In the event of a change of control, Akamai may be required to repurchase all or
+a portion of the Convertible Notes at a repurchase price of 100% of the
+principal amount plus accrued interest. Interest on the Convertible Notes
+accrues as of the issue date and is payable semiannually on January 1 and July 1
+of each year, commencing on January 1, 2001. The Convertible Notes are unsecured
+obligations and are subordinated to all existing and future senior indebtedness
+and effectively rank junior to all secured debts and to all of the existing and
+future debts and other liabilities of the Company's subsidiaries.
+
+                                        8
+<PAGE>   10
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+                                  (unaudited)
+
+7.  COMPREHENSIVE LOSS:
+
+     The following table presents the calculation of comprehensive loss and its
+components for the three and nine month periods ended September 30, 1999 and
+2000 (in thousands):
+
+<TABLE>
+<CAPTION>
+                                         THREE MONTHS ENDED        NINE MONTHS ENDED
+                                            SEPTEMBER 30,            SEPTEMBER 30,
+                                        ---------------------    ---------------------
+                                          1999        2000         1999        2000
+                                        --------    ---------    --------    ---------
+<S>                                     <C>         <C>          <C>         <C>
+Net loss..............................  $(18,542)   $(304,075)   $(28,325)   $(582,708)
+Other comprehensive income (loss):
+  Foreign currency translation
+     adjustment.......................        --         (284)         --         (299)
+  Unrealized (loss) gain on
+     securities.......................        --         (301)         --          442
+                                        --------    ---------    --------    ---------
+Comprehensive loss....................  $(18,542)   $(304,660)   $(28,325)   $(582,565)
+                                        ========    =========    ========    =========
+</TABLE>
+
+8.  ACQUISITIONS:
+
+  NETWORK24 COMMUNICATIONS, INC.
+
+     In February 2000, the Company acquired all of the outstanding common and
+preferred stock of Network24 Communications, Inc. ("Network24") in exchange for
+620,872 shares of Akamai common stock and $12.5 million in cash. Akamai also
+issued options and warrants exercisable for 195,862 shares of Akamai common
+stock in exchange for all outstanding options and warrants exercisable for
+Network24 common stock. Network24 is a provider of Internet broadcasting
+application services. The value of the acquisition was $203.6 million based on
+the fair value of the consideration paid plus direct acquisition costs. The
+acquisition has been accounted for using the purchase method. Accordingly, the
+results of operations of Network24 subsequent to February 10, 2000 have been
+included in Akamai's statements of operations for the three and nine months
+ended September 30, 2000. The purchase price allocation is as follows (in
+millions):
+
+<TABLE>
+<S>                                                           <C>
+Tangible net assets.........................................     $  2.7
+Intangible assets acquired:
+  Completed technology......................................        6.8
+  Assembled workforce.......................................        1.5
+  Trademarks and tradenames.................................        1.4
+  Goodwill..................................................      191.2
+                                                                 ------
+Total purchase price allocation.............................     $203.6
+                                                                 ======
+</TABLE>
+
+     Goodwill and other intangibles are being amortized on a straight-line basis
+over estimated useful lives of three years (see Note 5).
+
+                                        9
+<PAGE>   11
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+                                  (unaudited)
+
+  INTERVU INC.
+
+     In April 2000, the Company acquired all of the outstanding common and
+preferred stock of INTERVU Inc. ("INTERVU") in exchange for 10.0 million shares
+of Akamai common stock. Akamai also issued options and warrants exercisable for
+2.2 million shares of Akamai common stock in exchange for all outstanding
+options and warrants exercisable for INTERVU common stock. INTERVU is a service
+provider for Internet audio and video delivery solutions. The acquisition was
+accounted for using the purchase method. Accordingly, the results of operations
+of INTERVU subsequent to April 20, 2000 have been included in Akamai's
+statements of operations for the three and nine months ended September 30, 2000.
+The total purchase price of $2.8 billion includes the fair market value as of
+the acquisition date of Akamai stock and options issued of $2.8 billion and
+estimated direct transaction costs of $19.0 million. The preliminary purchase
+price allocation is as follows (in millions):
+
+<TABLE>
+<S>                                                           <C>
+Tangible net assets.........................................    $  126.1
+Intangible assets acquired:
+  Completed technology......................................        21.4
+  Assembled workforce.......................................        10.7
+  Trademarks and tradenames.................................         3.5
+  In-process research and development.......................         1.4
+  Goodwill..................................................     2,621.6
+                                                                --------
+Total purchase price allocation.............................    $2,784.7
+                                                                ========
+</TABLE>
+
+     Tangible net assets acquired include cash, short-term and long-term
+investments, accounts receivable, fixed assets and prepaid advertising (see Note
+9). Liabilities assumed include accounts payable, accrued compensation and
+accrued expenses. Goodwill and other intangibles are being amortized on a
+straight-line basis over estimated useful lives of two to three years (see Note
+5).
+
+     A portion of the INTERVU purchase price was allocated to acquired
+in-process research and development ("IPR&D") and completed technology.
+Completed technology and IPR&D were identified and valued through interviews and
+analysis of data provided by management regarding products under development.
+Developmental projects that had reached technological feasibility were
+classified as completed technology and are being amortized over three years.
+Projects that had not reached technological feasibility and had no future
+alternatives uses were classified as IPR&D and charged to expense on the date of
+the acquisition. The value of IPR&D was determined considering the project's
+stage of completion, the time and resources needed for completion, the
+contribution of core technology, and the projected discounted cash flows of
+completed products. The discount rate was determined considering Akamai's
+weighted average cost of capital and the risks surrounding the successful
+completion of the projects under development.
+
+  PRO FORMA INFORMATION
+
+     The summary table below, prepared on an unaudited pro forma basis, combines
+the Company's consolidated results of operations with Network24's and INTERVU's
+results of operations as if each company had been acquired as of January 1, 1999
+(in thousands, except per share data).
+
+<TABLE>
+<S>                                                           <C>          <C>
+                                                                NINE MONTHS ENDED
+                                                                  SEPTEMBER 30,
+                                                              ----------------------
+                                                                   1999
+                                                              ---------
+                                                                                2000
+                                                                           ---------
+Revenue.....................................................  $   5,025    $  59,208
+Net loss....................................................   (515,123)    (871,898)
+Loss per share..............................................     (16.57)       (9.53)
+</TABLE>
+
+                                       10
+<PAGE>   12
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+                                  (unaudited)
+
+     The pro forma results are not necessarily indicative of what would have
+occurred if the acquisitions had been in effect for the periods presented. In
+addition, they are not intended to be a projection of future results and do not
+reflect any synergies that might be achieved from combined operations.
+
+  CALLTHESHOTS INC.
+
+     In July 2000, the Company acquired all of the outstanding common and
+preferred stock of CallTheShots Inc. ("CTS"), in exchange for 31,493 shares of
+Akamai common stock and $259,000 in cash. In addition, 20,458 shares of Akamai
+common stock and $434,000 in cash have been placed in an escrow account and will
+be released over one year to certain CTS selling shareholders as they continue
+employment with Akamai. The Company will record equity-related compensation for
+the escrowed shares in the amount of $1.7 million ratably over the contingency
+period based on the fair value of Akamai common stock on the closing date of the
+acquisition. The acquisition has been accounted for using the purchase method.
+The purchase price of $3.7 million was based on the fair value of the
+consideration paid plus direct acquisition costs. Accordingly, the Company
+allocated the purchase price to the assets and liabilities of CTS based on their
+fair values. The values assigned included $4.0 million for goodwill, $150,000
+for assembled workforce, and $466,000 for net liabilities assumed. The goodwill
+and assembled workforce are being amortized on a straight-line basis over their
+estimated useful lives of three and two years, respectively. The Company has
+included the results of operations of CTS subsequent to July 25, 2000 in its
+statement of operations for the three and nine months ended September 30, 2000.
+CTS develops services that enable Web site visitors to personalize their
+interaction with such site. Pro forma information for CTS has not been presented
+as the historical operating results of CTS are not material to those of the
+combined Company.
+
+9.  CNN NEWS GROUP STRATEGIC ALLIANCE:
+
+     On November 11, 1999, INTERVU, which the Company acquired in April 2000
+(see Note 8), entered into a strategic alliance with the CNN News Group ("CNN").
+In accordance with the agreement, INTERVU issued common stock valued at $20
+million to CNN. In return, CNN agreed to provide INTERVU with three years of
+on-air and online advertising and promotional opportunities across CNN's
+properties. As part of its purchase price allocation, Akamai estimated the fair
+value of these services to be $18.4 million. This amount has been recorded in
+Other Assets, less the current portion of $6.9 million recorded in Other Current
+Assets, and is being amortized over the remaining life of the agreement to
+advertising expense. In addition, for a fee INTERVU agreed to be CNN's exclusive
+provider of Internet video management and delivery services and to deliver audio
+streaming services.
+
+     Following the first anniversary of the agreement, if the market value of
+the Company's common stock prior to the end of any fiscal quarter falls below
+$33.57 per share, the Company will be obligated to issue a letter of credit in
+an amount not to exceed $10.0 million, with the actual amount calculated on the
+basis of the number of shares held by CNN at the time and the remaining number
+of days in the term of the agreement. In addition, the Company may become
+obligated to pay CNN up to $10 million in cash or common stock, at the Company's
+option, if CNN holds its Akamai shares until November 11, 2002 and the price per
+share of Akamai common stock is less than $144.05 at such date. At the time of
+the acquisition, the Company estimated the fair value of the guaranteed return
+to CNN using the Black-Scholes option pricing model, and determined its value to
+be approximately $7 million, which was included in the purchase price allocation
+of INTERVU. Either party may terminate the contract at any time for a material
+breach by the other party that remains uncured or the other party's bankruptcy
+or similar adverse condition. In the event the agreement is terminated by CNN,
+CNN is required to pay the Company as of the date of the termination notice the
+value of the undelivered services purchased under the agreement. In the event
+the agreement is terminated by the Company because CNN engages another party to
+provide Internet video management and delivery services, CNN is required to pay
+the Company as of the date of the termination (i) the value of the undelivered
+services purchased under the agreement and (ii) a breakup fee of $3,000,000
+initially that declines to zero over the term of the agreement.
+
+                                       11
+<PAGE>   13
+                           AKAMAI TECHNOLOGIES, INC.
+
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+
+                                  (unaudited)
+
+10.  CONTINGENCIES:
+
+     The Company is subject to legal proceedings, claims, and litigation arising
+in the ordinary course of business. While the outcome of these matters is
+currently not determinable, at this time, management does not expect that the
+ultimate costs to resolve these matters will have a material adverse effect on
+the Company's consolidated financial position, results of operations or cash
+flows.
+
+11.  RELATED PARTY TRANSACTIONS:
+
+     During the nine months ended September 30, 2000, the Company purchased
+bandwidth and colocation space from LIG Holdings, L.P. ("LIG"), an Internet
+service provider. An officer of the Company is a principal of LIG with a 35%
+ownership interest. Any transactions with LIG are approved by the Company's
+management committee. During the nine months ended September 30, 2000, the
+Company paid approximately $73,000 to LIG for colocation space and bandwidth.
+The Company has obligations to LIG for future colocation space and bandwidth and
+has paid $972,000 to LIG for a refundable security deposit. During the nine
+months ended September 30, 2000, the Company sold a perpetual license to LIG
+covering certain technology for $500,000. As of September 30, 2000, this amount
+was included in accounts receivable.
+
+                                       12
+<PAGE>   14
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+     This Form 10-Q contains forward-looking statements within the meaning of
+Section 21E of the Securities Exchange Act of 1934, as amended. For this
+purpose, statements contained herein that are not statements of historical fact
+may be deemed to be forward-looking statements. Without limiting the foregoing,
+the words "believes," "anticipates," "plans," "expects" and similar expressions
+are intended to identify forward-looking statements. These forward-looking
+statements involve risks and uncertainties and are not guarantees of future
+performance. Actual results may differ materially from those indicated in such
+forward-looking statements as a result of certain factors including, but not
+limited to, those set forth under the heading "Factors Affecting Future
+Operating Results."
+
+OVERVIEW
+
+     We provide global delivery services for Internet content, streaming media
+and applications, and global Internet traffic management services. We currently
+offer nine services that, among other things, improve the speed, quality,
+availability, reliability and scalability of Web sites. Our services deliver our
+customers' Internet content, streaming media and applications through a
+distributed worldwide server network of over 6,000 servers, which locates the
+content and applications geographically closer to users. As of September 30,
+2000, we had more than 2,800 customers, including over 1,100 customers under
+recurring contract.
+
+     We derive our revenue primarily from the sale of our services under
+contracts with terms typically ranging from 12 to 24 months. We recognize
+revenue primarily based on fees for the amount of Internet content delivered
+through our services. These contracts typically provide for minimum monthly
+fees. Customers are typically billed monthly in advance for minimums and monthly
+in arrears for usage above the minimums. We also derive revenue from
+implementation and installation fees that are recognized over the period of the
+related contracts. In addition, we recognize revenue from stand-alone
+professional services as these services are performed.
+
+     To date, substantially all of our revenue has been derived from customers
+based in the United States. We expect that revenue from customers based outside
+the United States will increase in future periods. To date, the majority of our
+revenue has been derived from direct sales; however, we anticipate that revenue
+through indirect distribution channels will increase in future periods. For the
+nine months ended September 30, 1999, Apple Computer ("Apple"), Yahoo! and
+Artisan represented 45%, 18% and 11% of total revenue, respectively. For the
+three and nine month periods ended September 30, 2000, Apple represented 15% and
+16% of total revenue, respectively. We expect Apple revenue to decline as a
+percentage of our total revenue for the next two quarters.
+
+     Cost of services consists primarily of fees paid to network providers for
+bandwidth, depreciation of network equipment used in providing our services and
+monthly fees paid to third-party network data centers for housing our servers.
+In addition, cost of services includes network storage costs, live event costs
+including costs for production, encoding and signal acquisition, and costs of
+professional services. We enter into contracts for bandwidth with third-party
+network providers with terms typically ranging from six months to three years.
+These contracts may commit us to minimum monthly fees plus additional fees for
+bandwidth usage above our contracted level or may commit us to share with the
+third-party network providers a portion of the revenue we recognize from
+customers that use these third-party networks. Under our accelerated networks
+program, Internet service providers provide us with rack space for our servers
+and access to their bandwidth at no cost. We do not recognize as revenue any
+value to the Internet service providers associated with the deployment of our
+servers and do not expense the value of the rack space and bandwidth we receive.
+We expect our cost of services to increase as we continue to deploy our network.
+
+     Engineering and development expenses consist primarily of salaries and
+related personnel costs and costs related to the design, development, testing,
+deployment and enhancement of our services and our network. We have to date
+expensed our engineering and development costs as incurred. We believe that
+research and development is critical to our strategic product development
+objectives and intend to continue to enhance our technology to meet the changing
+requirements of the market demand. As a result, we expect our engineering and
+development expenses to increase in the future.
+
+                                       13
+<PAGE>   15
+
+     Sales, general and administrative expenses consist primarily of salaries
+and related costs of sales and marketing, operations and finance personnel,
+recruiting expenses, professional fees, advertising costs and legal and
+accounting services. We expect that sales, general and administrative expenses
+will increase in the future as we hire additional personnel, expand our
+operations, initiate additional marketing programs, establish sales offices in
+new locations and incur additional costs related to the growth of our business
+and our operations as a public company.
+
+     Amortization of intangible assets consists primarily of the amortization of
+intangible assets acquired in business combinations, including goodwill.
+Acquired in-process research and development consists of a nonrecurring charge
+for the value of developmental projects acquired from INTERVU that had not
+reached technological feasibility and had no alternative future use.
+
+     Equity-related compensation consists of: (a) the amortization of deferred
+compensation resulting from the granting of stock options or shares of
+restricted stock at exercise or sale prices deemed to be less than the fair
+value of the common stock on the grant date, and (b) compensation expense equal
+to the intrinsic value of modified stock options or restricted stock awards,
+measured at the modification date, for the number of awards that, absent the
+modification, would have expired unexercisable.
+
+     Since our inception, we have incurred significant losses, and as of
+September 30, 2000. We have not achieved profitability on a quarterly or an
+annual basis, and anticipate that we will continue to incur net losses. We
+expect to incur significant engineering and development and sales, general and
+administrative expenses and, as a result, we will need to generate significant
+revenue to achieve and maintain profitability.
+
+     In the first quarter of 2000, we acquired all the outstanding common and
+preferred stock of Network24 Communications, Inc. ("Network24"). In the second
+quarter of 2000, we acquired all of the outstanding common stock and preferred
+stock of INTERVU Inc. ("INTERVU"). We acquired both of these companies to
+accelerate market leadership in streaming media. The Network24 acquisition was
+consummated on February 10, 2000 in exchange for 620,872 shares of our common
+stock and $12.5 million in cash. We also issued options and warrants exercisable
+for 195,862 shares of our common stock in exchange for all outstanding options
+and warrants exercisable for Network24 common stock. The INTERVU acquisition was
+consummated on April 20, 2000 in exchange for 10.0 million shares of our common
+stock. We also issued options and warrants exercisable for 2.2 million shares of
+our common stock in exchange for all outstanding options and warrants
+exercisable for INTERVU common stock. We have included the results of operations
+of Network24 subsequent to February 10, 2000 and INTERVU subsequent to April 20,
+2000 in our statements of operations for the three and nine months ended
+September 30, 2000. Both acquisitions have been accounted for using the purchase
+method of accounting.
+
+     In the third quarter of 2000, we issued 31,493 shares of common stock and
+made a cash payment of $259,000 to the former stockholders of CallTheShots Inc.
+("CTS") in connection with our acquisition of CTS in a merger transaction. The
+acquisition has been accounted for using the purchase method. We have included
+the results of operations of CTS subsequent to July 25, 2000 in our statements
+of operations for the three and nine months ended September 30, 2000.
+
+     In connection with the Network24, INTERVU and CTS acquisitions, we expect
+amortization expense for the next four years to be as follows (in millions):
+
+<TABLE>
+<CAPTION>
+                        YEAR ENDING
+                        DECEMBER 31,
+                        ------------
+<S>                                                           <C>
+  2000......................................................  $676
+  2001......................................................   955
+  2002......................................................   955
+  2003......................................................   276
+</TABLE>
+
+RESULTS OF OPERATIONS
+
+     Revenue.  Revenue was $883,000 and $1.3 million for the three and nine
+months ended September 30, 1999, respectively. Revenue for the three and nine
+months ended September 30, 2000 was $27.2 million and
+
+                                       14
+<PAGE>   16
+
+$52.5 million, respectively. The increase in revenue in the third quarter of
+2000 over the comparable period in the prior year was primarily due to the
+significant growth in our customer base. Revenue increased 50% in the third
+quarter of 2000 from the second quarter of 2000. The increase in revenue from
+the second quarter was due to several factors including the growth of our
+customer base, an increase in the amount of services sold to existing customers,
+the introduction of new services, and an increase in sales through our expanded
+reseller channel. We expect quarterly revenue to increase in the future as we
+add customers and sell new services to our existing customers. However, the rate
+of revenue growth could vary from quarter to quarter due to many factors. See
+"Factors Affecting Future Operating Results."
+
+     Cost of Services.  Cost of services expense was $3.1 million and $4.5
+million for the three and nine months ended September 30, 1999, respectively,
+and represented 16% and 15% of total operating expenses for the respective
+periods. Cost of services expense was $18.2 million and $37.5 million for the
+three and nine months ended September 30, 2000, respectively, and represented 5%
+and 6% of total operating expenses for the respective periods. Cost of services
+expenses were 19% and 18% of operating expenses before the amortization of
+intangible assets for the three and nine months ended September 30, 2000,
+respectively. The increase in cost of services expense for each of the three and
+nine month periods in 2000 compared to the comparable periods in the prior year
+was due to the commercial introduction of services in April 1999, increased
+depreciation expense on our servers as we expanded our network, and increased
+bandwidth costs as we delivered more content over our network. Gross margins,
+defined as revenue less cost of services, were negative for the nine months
+ended September 30, 1999 largely due to the fixed cost of building our network
+of servers. Gross margins were positive for the quarter ended September 30, 2000
+due to an increase in the number of customers and volume of revenue relative to
+the growth in network infrastructure. Gross margins grew from 30% in the three
+months ended June 30, 2000 to 33% in the three months ended September 30, 2000.
+The increase in gross margins primarily reflects consistent pricing of our
+products and the declining cost of bandwidth as a percentage of content
+delivered over our network. While gross margins are expected to increase over
+time, fluctuations are possible as fixed costs increase due to the rapid
+expansion of our global network of servers.
+
+     Engineering and Development.  Engineering and development expenses were
+$3.3 million and $5.4 million for the three and nine months ended September 30,
+1999, respectively, and represented 17% and 18% of total operating expenses for
+the respective periods. Engineering and development expenses were $18.4 million
+and $38.2 million for the three and nine months ended September 30, 2000,
+respectively, and represented 5% and 6% of total operating expenses for the
+respective periods. Engineering and development expenses were 19% and 18% of
+operating expenses before the amortization of intangible assets for the three
+and nine months ended September 30, 2000, respectively. The increase in
+engineering and development expenses in the three and nine month periods in 2000
+over the comparable periods in the prior year was attributable to personnel and
+payroll-related expenses resulting from an increase in headcount. We expect
+engineering and development expenses to increase in the future as we continue to
+increase headcount and invest in new technology.
+
+     Sales, General and Administrative.  Sales, general and administrative
+expenses were $6.8 million and $12.0 million for the three and nine months ended
+September 30, 1999, respectively, and represented 35% and 41% of total operating
+expenses for the respective periods. Sales, general and administrative expenses
+for the three and nine months ended September 30, 2000 were $49.9 million and
+$111.1 million, respectively, and represented 15% and 17% of total operating
+expenses for the respective periods. Sales, general and administrative expenses
+were 52% and 53% of operating expenses before the amortization of intangible
+assets for the three and nine months ended September 30, 2000, respectively. The
+increase in sales, general and administrative expenses in the three and nine
+month periods over the comparable periods in the prior year was due to an
+increase in sales, general and administrative personnel and payroll-related
+expenses resulting from an increase in headcount, advertising campaigns
+initiated during the period, and increased depreciation expense associated with
+our property and equipment. We expect sales, general and administrative expenses
+to continue to increase in the future.
+
+     Amortization of Intangible Assets.  Amortization of intangible assets for
+the three and nine months ended September 30, 2000 was $238.7 million and $436.8
+million, respectively, and represented 71% and 68% of total operating expenses
+for the respective periods. Amortization expense primarily relates to the
+
+                                       15
+<PAGE>   17
+
+acquisitions of Network24 and INTERVU and the associated amortization of
+intangible assets acquired as part of these acquisitions. These intangible
+assets are being amortized on a straight-line basis over two to three years. We
+expect amortization of our intangible assets as of September 30, 2000 to be
+approximately $239 million per quarter through 2003.
+
+     Equity-Related Compensation.  Equity-related compensation was $6.3 million
+and $7.6 million for the three and nine months ended September 30, 1999,
+respectively, and $9.7 million and $21.3 million for the three and nine months
+ended September 30, 2000, respectively. For the nine months ended September 30,
+2000, equity-related compensation includes $7.3 million for the amortization of
+deferred compensation and $14.0 million for the acceleration of stock option
+vesting for certain terminated employees. At September 30, 2000, deferred
+compensation, which is a component of stockholders' equity, was $25.3 million.
+This amount is being amortized ratably over the vesting periods of the
+applicable stock options and restricted shares, typically four years, with 25%
+vesting on the first anniversary of the grant date and the balance vesting 6.25%
+quarterly thereafter. Related to the amortization of deferred compensation, we
+expect to incur equity-related compensation expenses of at least $10.1 million
+in 2000, $10.2 million in 2001, $8.7 million in 2002 and $3.6 million in 2003.
+
+     Interest Income (Expense), Net.  Interest income (expense), net, was
+$133,000 and $(11,000) for the three and nine months ended September 30, 1999,
+respectively, and $3.6 million and $11.1 million for the three and nine months
+ended September 30, 2000, respectively. Interest income (expense), net, consists
+of interest earned on cash, cash equivalents and short-term and long-term
+investment balances, net of interest expense. Interest income increased in the
+first nine months of 2000 due to interest earned on proceeds from the issuance
+of senior subordinated notes, the sale of preferred stock in several private
+placements and the sale of common stock in our initial public offering during
+1999, partially offset by accrued interest expense on our 5 1/2% convertible
+subordinated notes and the amortization of deferred financing costs.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Prior to our initial public offering, we financed our operations primarily
+through private sales of our capital stock and issuance of senior subordinated
+notes totaling approximately $124.6 million in net proceeds through December 31,
+1999. In November 1999, we sold shares of common stock through our initial
+public offering. The net proceeds to us from the initial public offering were
+$217.6 million after deducting an aggregate of $16.4 million in underwriting
+discounts and commissions to the underwriters. In June 2000, we received net
+proceeds of $290.5 million from the sale of 5 1/2% convertible subordinated
+notes due 2007 ("Convertible Notes"). At September 30, 2000, cash, cash
+equivalents and short-term investments totaled $438.7 million.
+
+     Cash used in operating activities was $14.4 million for the nine months
+ended September 30, 1999 and $99.1 million for the nine months ended September
+30, 2000. Cash used in operating activities for the nine months ended September
+30, 2000 compared to the prior year reflects increasing operating losses.
+
+     Cash used in investing activities was $13.2 million for the nine months
+ended September 30, 1999 and $110.4 million for the nine months ended September
+30, 2000. Cash used for investing activities in the current period reflects net
+purchases of short-term investments of $282.2 million, sales and maturities of
+investments of $250.6 million and purchases of property and equipment of $96.0
+million, consisting primarily of servers for the deployment and expansion of our
+network, information systems used to operate the business, and facilities
+improvements. Also during the current period we made a cash payment of $11.7
+million, net of cash acquired, for the acquisition of Network24, acquired $29.2
+million of cash in our acquisition of INTERVU and made a cash payment of
+$259,000 for the acquisition of CTS. We expect to continue to expand our
+infrastructure by making approximately $40 million in additional capital
+expenditures during the remainder of the year.
+
+     Cash provided by financing activities was $112.8 million for the nine
+months ended September 30, 1999 and $311.5 million for the nine months ended
+September 30, 2000. Cash provided by financing activities for the nine months
+ended September 30, 1999 was derived primarily from the sale of convertible
+preferred stock, the issuance of demand notes, and an equipment line of credit.
+In December 1999, we exercised our right to pay off outstanding senior
+subordinated notes, of which $12.2 million was paid in December 1999 and the
+
+                                       16
+<PAGE>   18
+
+remainder was paid during the nine months ended September 30, 2000. Cash
+provided by financing activities for the nine months ended September 30, 2000
+was derived primarily from the proceeds from the sale of Convertible Notes and
+the issuance of common stock under our stock plans.
+
+     We believe that our current cash, cash equivalents and short-term
+investments will be sufficient to meet our anticipated cash needs for working
+capital and capital expenditures for at least the next 12 months. If cash
+generated from operations is insufficient to satisfy our liquidity requirements,
+we may seek to sell additional equity or debt securities. If additional funds
+are raised through the issuance of debt securities, these securities could have
+rights, preferences and privileges senior to those accruing to holders of our
+common stock, and the term of this debt could impose restrictions on our
+operations. The sale of additional equity or convertible debt securities could
+result in additional dilution to our stockholders, and we cannot be certain that
+additional financing will be available in amounts or on terms acceptable to us,
+if at all. If we are unable to obtain this additional financing, we may be
+required to reduce the scope of our planned technology, services or product
+development and sales and marketing efforts, which could harm our business,
+financial condition and operating results. It is our intention to at all times
+maintain cash on hand and borrowing capacity to meet funding needs for 18 to 24
+months in the future.
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+     In June 1998, the FASB issued SFAS No. 133, "Accounting for Derivative
+Instruments and Hedging Activities," as amended by SFAS No. 137, "Accounting for
+Derivative Instruments and Hedging Activities -- Deferral of the Effective Date
+of FASB Statement No. 133" and SFAS No. 138, "Accounting for Certain Derivative
+Instruments and Certain Hedging Activities -- an Amendment of FASB Statement No.
+133," which establishes accounting and reporting standards for derivative
+instruments and hedging activities. It requires that an entity recognize all
+derivatives as either assets or liabilities in the statement of financial
+position and measure those instruments at fair value. To date, we have not
+engaged in derivative and hedging activities, and accordingly we do not believe
+that the adoption of SFAS No. 133 will have a material impact on our financial
+reporting and related disclosures. We will adopt SFAS No. 133 as required by
+SFAS No. 137 in fiscal year 2001.
+
+     In December 1999, the Securities and Exchange Commission issued Staff
+Accounting Bulletin ("SAB") No. 101, "Revenue Recognition in Financial
+Statements," as amended by SAB No. 101A and 101B, which is effective no later
+than the quarter ending December 31, 2000. SAB No. 101 clarifies the SEC's views
+regarding the recognition of revenue. We will adopt SAB No. 101 in the fourth
+quarter of 2000. We do not expect the application of SAB No. 101 to have a
+significant impact on our financial position or results of operations.
+
+     In March 2000, the Financial Accounting Standard Board issued FASB
+Interpretation ("FIN") No. 44, "Accounting for Certain Transactions Involving
+Stock Compensation--an Interpretation of APB Opinion No. 25." FIN No. 44
+primarily clarifies (a) the definition of an employee for purposes of applying
+APB Opinion No. 25, (b) the criteria for determining whether a plan qualifies as
+a noncompensatory plan, (c) the accounting consequence of various modifications
+to the terms of previously fixed stock options or awards, and (d) the accounting
+for an exchange of stock compensation awards in a business combination. FIN No.
+44 is effective July 1, 2000, but certain conclusions in FIN No. 44 cover
+specific events that occurred after either December 15, 1998 or January 12,
+2000. The application of FIN No. 44 did not have a significant impact on our
+financial position or results of operations.
+
+FACTORS AFFECTING FUTURE OPERATING RESULTS
+
+     The following important factors, among other things, could cause our actual
+operating results to differ materially from those indicated or suggested by
+forward-looking statements made in this Quarterly Report on Form 10-Q or
+presented elsewhere by management from time to time.
+
+                                       17
+<PAGE>   19
+
+  OUR BUSINESS IS DIFFICULT TO EVALUATE AND OUR BUSINESS STRATEGY MAY NOT
+SUCCESSFULLY ADDRESS RISKS WE FACE BECAUSE WE HAVE A LIMITED OPERATING HISTORY.
+
+     We were founded in August 1998 and began offering our services commercially
+in April 1999. We have limited historical financial data upon which to base
+planned operating expenses and upon which investors may evaluate us and our
+prospects. In addition, while our operating expenses are largely based on
+anticipated but unpredictable revenue trends, a high percentage of these
+expenses are and will continue to be fixed in the short-term. Because of our
+limited operating history, our business strategy may not successfully address
+all of the risks we face.
+
+  WE ARE PRIMARILY DEPENDENT ON OUR INTERNET CONTENT, APPLICATIONS AND STREAMING
+MEDIA DELIVERY SERVICES AND OUR FUTURE REVENUE DEPENDS ON CONTINUED DEMAND FOR
+OUR SERVICES.
+
+     Currently, our future growth depends on the commercial success of our
+Internet content, applications and streaming media delivery services and other
+services and products we may develop and/or offer. While we have been selling
+our services commercially since April 1999, sales may not continue in the future
+for a variety of reasons. First, the market for our existing services is
+relatively new, and issues concerning the commercial use of the Internet,
+including security, reliability, speed, cost, ease of access, quality of
+service, regulatory initiatives and necessary increases in bandwidth
+availability, remain unresolved and are likely to affect its development.
+Furthermore, our new services and products under development may not achieve
+widespread market acceptance. Failure of our current and planned services to
+operate as expected could also hinder or prevent their adoption. If a
+broad-based, sustained market for our services does not emerge and our target
+customers do not adopt, purchase and successfully deploy our current and planned
+services, our revenue will not grow significantly and our business, results of
+operations and financial condition will be seriously harmed.
+
+  ANY FAILURE OF OUR NETWORK INFRASTRUCTURE COULD LEAD TO SIGNIFICANT COSTS AND
+DISRUPTIONS WHICH COULD REDUCE OUR REVENUE AND HARM OUR BUSINESS, FINANCIAL
+RESULTS AND REPUTATION.
+
+     Our business is dependent on providing our customers with fast, efficient
+and reliable Internet content delivery services. To meet these customer
+requirements, we must protect our network infrastructure against damage from:
+
+     - sabotage and vandalism;
+
+     - human error;
+
+     - physical or electronic intrusion and security breaches;
+
+     - fire, earthquake, flood and other natural disasters;
+
+     - power loss; and
+
+     - similar events.
+
+     We currently provide a content delivery service guarantee that our networks
+will deliver Internet content 24 hours a day, seven days a week, 365 days a
+year. If we do not provide this service, the customer does not pay for its
+services on that day. Any widespread loss or interruption of services would
+reduce our revenue and could harm our business, financial results and
+reputation.
+
+  BECAUSE OUR SERVICES ARE COMPLEX AND ARE DEPLOYED IN COMPLEX ENVIRONMENTS,
+THEY MAY HAVE ERRORS OR DEFECTS THAT COULD SERIOUSLY HARM OUR BUSINESS.
+
+     Our services are highly complex and are designed to be deployed in and
+across numerous large and complex networks. As of September 30, 2000, our
+network consisted of over 6,000 servers across 335 different networks. We and
+our customers have from time to time discovered errors and defects in our
+software. In the
+
+                                       18
+<PAGE>   20
+
+future, there may be additional errors and defects in our software that may
+adversely affect our services. If we are unable to efficiently fix errors or
+other problems that may be identified, we could experience:
+
+     - loss of or delay in revenues and loss of market share;
+
+     - diversion of development and engineering resources;
+
+     - loss of credibility or damage to business reputation;
+
+     - increased service costs; and
+
+     - legal actions by our customers.
+
+  ANY FAILURE OF OUR TELECOMMUNICATIONS AND NETWORK PROVIDERS TO PROVIDE
+REQUIRED TRANSMISSION CAPACITY TO US COULD RESULT IN INTERRUPTIONS IN OUR
+SERVICES.
+
+     Our operations are dependent in part upon transmission capacity provided by
+third-party telecommunications network providers. Any failure of these network
+providers to provide the capacity we require may result in a reduction in, or
+interruption of, service to our customers. This failure may be a result of the
+telecommunications providers or Internet service providers experiencing
+interruptions or other failures, failing to comply with or terminating their
+existing agreements with us, or otherwise denying or interrupting service or not
+entering into relationships with us at all or on terms commercially acceptable
+to us. If we do not have access to third-party transmission capacity, we could
+lose customers. If we are unable to obtain transmission capacity on terms
+commercially acceptable to us, our business and financial results could suffer.
+In addition, our telecommunications and network providers typically provide rack
+space for our servers. Damage or destruction of, or other denial of access to, a
+facility where our servers are housed could result in a reduction in, or
+interruption of, service to our customers.
+
+  THE MARKETS IN WHICH WE OPERATE ARE HIGHLY COMPETITIVE AND WE MAY BE UNABLE TO
+COMPETE SUCCESSFULLY AGAINST NEW ENTRANTS AND ESTABLISHED COMPANIES WITH GREATER
+RESOURCES.
+
+     We compete in markets that are new, intensely competitive, highly
+fragmented and rapidly changing. We have experienced and expect to continue to
+experience increased competition. Many of our current competitors, as well as a
+number of our potential competitors, have longer operating histories, greater
+name recognition, broader customer relationships and industry alliances and
+substantially greater financial, technical and marketing resources than we do.
+Our competitors may be able to respond more quickly than we can to new or
+emerging technologies and changes in customer requirements. Some of our current
+or potential competitors may bundle their services with other services, software
+or hardware in a manner that may discourage Web site owners from purchasing any
+service we offer or Internet service providers from installing our servers.
+
+     As competition in the Internet content, streaming media and applications
+delivery market continues to intensify, new solutions will come to market. We
+are aware of other companies that are focusing or may in the future focus
+significant resources on developing and marketing products and services that
+will compete with us. These companies include networking hardware and software
+manufacturers, content distribution providers, traditional hardware
+manufacturers, telecommunications providers, software database companies, and
+large diversified software and technology companies. Increased competition could
+result in:
+
+     - price and revenue reductions and lower profit margins;
+
+     - increased cost of service from telecommunications providers;
+
+     - loss of customers; and
+
+     - loss of market share.
+
+     Any one of these could materially and adversely affect our business,
+financial condition and results of operations.
+
+                                       19
+<PAGE>   21
+
+  AS PART OF OUR BUSINESS STRATEGY, WE HAVE ENTERED INTO AND MAY ENTER INTO OR
+SEEK TO ENTER INTO BUSINESS COMBINATIONS AND ACQUISITIONS THAT MAY BE DIFFICULT
+TO INTEGRATE, DISRUPT OUR BUSINESS, DILUTE STOCKHOLDER VALUE OR DIVERT
+MANAGEMENT ATTENTION.
+
+     We acquired Network24 in February 2000, INTERVU in April 2000 and
+CallTheShots Inc. ("CTS") in July 2000. As a part of our business strategy, we
+may enter into additional business combinations and acquisitions. Acquisitions
+are typically accompanied by a number of risks, including the difficulty of
+integrating the operations and personnel of the acquired companies, the
+potential disruption of our ongoing business and distraction of management,
+expenses related to the acquisition and potential unknown liabilities associated
+with acquired businesses.
+
+     If we are not successful in completing acquisitions that we may pursue in
+the future, we may be required to reevaluate our growth strategy and we may have
+incurred substantial expenses and devoted significant management time and
+resources in seeking to complete proposed acquisitions that will not generate
+benefits for us. In addition, with future acquisitions, we could use substantial
+portions of our available cash as all or a portion of the purchase price. We
+could also issue additional securities as consideration for these acquisitions,
+which could cause our stockholders to suffer significant dilution. Our
+acquisitions of Network24, INTERVU and CTS and any future acquisitions may not
+ultimately help us achieve our strategic goals and may pose other risks to us.
+
+  A SIGNIFICANT DECLINE IN SALES TO APPLE COMPUTER COULD REDUCE OUR REVENUE AND
+CAUSE OUR BUSINESS AND FINANCIAL RESULTS TO SUFFER.
+
+     We entered into a strategic alliance with Apple Computer, Inc. effective as
+of April 1, 1999. Sales of our services to Apple Computer represented
+approximately 16% of our revenue for the nine months ended September 30, 2000.
+We expect that sales to Apple Computer as a percentage of total sales will
+decrease, but that during calendar 2000 sales to Apple Computer will continue to
+represent a significant portion of our revenue. Apple Computer has the right to
+terminate the agreement on short notice if we materially breach the agreement. A
+significant decline in sales to Apple Computer could reduce our revenue and
+cause our business and financial results to suffer.
+
+  SOME OF OUR CURRENT CUSTOMERS ARE EMERGING INTERNET-BASED BUSINESSES THAT MAY
+NOT PAY US FOR OUR SERVICES ON A TIMELY BASIS AND THAT MAY NOT SUCCEED OVER THE
+LONG TERM.
+
+     Some of our revenue recognized in the nine months ended September 30, 2000
+was derived from customers that are emerging Internet-based businesses, and a
+portion of our future revenue will be derived from this customer base. The
+unproven business models of some of these customers make their continued
+financial viability uncertain. Given the short operating history and emerging
+nature of many of these businesses, there is a risk that some of these customers
+will encounter financial difficulties and fail to pay for our services or delay
+payment substantially. The failure of our emerging business customers to pay our
+fees on a timely basis or to continue to purchase our services in accordance
+with their contractual commitments could adversely affect our revenue collection
+periods, our revenue and other financial results.
+
+  IF WE ARE UNABLE TO SCALE OUR NETWORK AS DEMAND INCREASES, THE QUALITY OF OUR
+SERVICES MAY DIMINISH WHICH COULD CAUSE A LOSS OF CUSTOMERS.
+
+     Our network may not be scalable to expected customer levels while
+maintaining superior performance. We cannot be certain that our network can
+connect and manage a substantially larger number of customers at high
+transmission speeds. In addition, as customers' usage of bandwidth increases, we
+will need to make additional investments in our infrastructure to maintain
+adequate data transmission speeds. We cannot ensure that we will be able to make
+these investments successfully or at an acceptable or commercially reasonable
+cost. Our failure to achieve or maintain high capacity data transmission could
+significantly reduce demand for our services, reducing our revenue and causing
+our business and financial results to suffer.
+
+                                       20
+<PAGE>   22
+
+  IF WE DO NOT RESPOND RAPIDLY TO TECHNOLOGICAL CHANGES, THEN WE MAY LOSE
+CUSTOMERS.
+
+     The market for Internet content delivery services is likely to continue to
+be characterized by rapid technological change, frequent new product and service
+introductions and changes in customer requirements. We may be unable to respond
+quickly or effectively to these developments. If competitors introduce products,
+services or technologies that are better than ours or that gain greater market
+acceptance, or if new industry standards emerge, our services may become
+obsolete, which would materially and adversely affect our business, results of
+operations and financial condition.
+
+  IF OUR LICENSE AGREEMENT WITH MIT TERMINATES, THEN OUR BUSINESS COULD BE
+ADVERSELY AFFECTED.
+
+     We have licensed from MIT technology covered by various patent applications
+and copyrights relating to Internet content delivery technology. Some of our
+technology is based in part on the technology covered by these patent
+applications and copyrights. Although the license is effective for the life of
+the patent and patent applications, MIT may terminate the license agreement if
+we cease our business due to insolvency or if we materially breach the terms of
+the license agreement. A termination of our license agreement with MIT could
+have a material adverse effect on our business.
+
+  OUR BUSINESS WILL BE ADVERSELY AFFECTED IF WE ARE UNABLE TO PROTECT OUR
+INTELLECTUAL PROPERTY RIGHTS FROM THIRD-PARTY CHALLENGES.
+
+     We rely on a combination of patent, copyright, trademark and trade secret
+laws and restrictions on disclosure to protect our intellectual property rights.
+These legal protections afford only limited protection; competitors may gain
+access to our intellectual property which may result in the loss of our
+customers. We have filed suit in federal court in Massachusetts against Digital
+Island, Inc. for infringing one of our licensed patents and patents issued to
+INTERVU; however, we may not prevail in these proceedings. In general,
+monitoring unauthorized use of our services is difficult and we cannot be
+certain that the steps we have taken will prevent unauthorized use of our
+technology, particularly in foreign countries where the laws may not protect our
+proprietary rights as fully as in the United States.
+
+     Although we have licensed and proprietary technology covered by United
+States patents, we cannot be certain that any such patents will not be
+challenged, invalidated or circumvented. Moreover, although we have filed
+international patent applications, none of our technology is patented abroad. We
+cannot be certain that any pending or future patent applications will be
+granted, that any future patent will not be challenged, invalidated or
+circumvented, or that rights granted under any patent that may be issued will
+provide competitive advantages to us.
+
+ FAILURE TO INCREASE OUR REVENUE WOULD PREVENT US FROM ACHIEVING AND MAINTAINING
+ PROFITABILITY.
+
+     We have never been profitable. We have incurred significant losses since
+inception and expect to continue to incur losses in the future. As of September
+30, 2000, we had an accumulated deficit of $641.3 million. We cannot be certain
+that our revenue will continue to grow or that we will achieve sufficient
+revenue to achieve profitability. Our failure to significantly increase our
+revenue would seriously harm our business and operating results. We have large
+fixed expenses, and we expect to continue to incur significant and increasing
+sales and marketing, product development, administrative and other expenses,
+including fees to obtain access to bandwidth for the transport of data over our
+network. As a result, we will need to generate significantly higher revenue to
+achieve and maintain profitability. If our revenue grows more slowly than we
+anticipate or if our operating expenses increase more than we expect or cannot
+be reduced in the event of lower revenue, our business will be materially and
+adversely affected.
+
+  THE RATES WE CHARGE FOR OUR SERVICES MAY DECLINE OVER TIME WHICH WOULD REDUCE
+OUR REVENUE AND COULD CAUSE OUR BUSINESS AND FINANCIAL RESULTS TO SUFFER.
+
+     We expect that our cost to obtain bandwidth capacity for the transport of
+data over our network will decline over time as a result of, among other things,
+the large amount of capital currently being invested to build infrastructure
+providing additional bandwidth and volume discounts available to us as our
+network usage
+
+                                       21
+<PAGE>   23
+
+increases. We expect the prices we charge for our services may also decline over
+time as a result of, among other things, existing and new competition in the
+markets we address. As a result, our historical revenue rates may not be
+indicative of future revenue based on comparable traffic volumes. If we fail to
+accurately predict the decline in costs of bandwidth or, in any event, if we are
+unable to sell our services at acceptable prices relative to our bandwidth
+costs, or if we fail to offer additional services from which we can derive
+additional revenue, our revenue will decrease and our business and financial
+results will suffer.
+
+ OUR BUSINESS WILL SUFFER IF WE FAIL TO MANAGE OUR GROWTH PROPERLY.
+
+     We have expanded our operations rapidly since our inception. We continue to
+increase the scope of our operations and our headcount has grown substantially.
+Our total number of employees increased from 385 at December 31, 1999 to 1,229
+at September 30, 2000. We plan to continue to hire a significant number of
+employees this year. This growth has placed, and our anticipated growth in
+future operations will continue to place, a significant strain on our management
+systems and resources. Our ability to successfully offer our services and
+implement our business plan in a rapidly evolving market requires an effective
+planning and management process. We expect that we will need to continue to
+improve our financial and managerial controls, reporting systems and procedures,
+and will need to continue to expand, train and manage our workforce worldwide.
+In order to grow and achieve future success, we must also improve our ability to
+effectively manage multiple relationships with our customers, suppliers and
+other third parties. Failure to take any of the steps necessary to manage our
+growth properly would have a material adverse effect on our business, results of
+operations and financial condition.
+
+  WE DEPEND ON OUR KEY PERSONNEL TO MANAGE OUR BUSINESS EFFECTIVELY. IF WE ARE
+UNABLE TO RETAIN OUR KEY EMPLOYEES AND HIRE QUALIFIED SALES AND TECHNICAL
+PERSONNEL, OUR ABILITY TO COMPETE COULD BE HARMED.
+
+     Our future success depends upon the continued services of our executive
+officers and other key technology, sales, marketing and support personnel, who
+have critical industry experience and relationships that they rely on in
+implementing our business plan. None of our officers or key employees is bound
+by an employment agreement for any specific term. We have "key person" life
+insurance policies covering only the lives of F. Thomson Leighton and Daniel M.
+Lewin. The loss of the services of any of our key employees could delay the
+development and introduction of and negatively impact our ability to sell our
+services.
+
+     We face intense competition for qualified personnel, including research and
+development personnel and other persons with necessary technical skills,
+particularly in the Boston, Massachusetts and San Mateo, California areas. Our
+employees require extensive training in our Internet content delivery services.
+If we are unable to hire and promptly train service and support personnel, we
+may not be able to increase sales of our services, which would seriously harm
+our business.
+
+ WE FACE RISKS ASSOCIATED WITH INTERNATIONAL OPERATIONS THAT COULD HARM OUR
+ BUSINESS.
+
+     We have expanded our international operations to Munich, Germany, London,
+England and Paris, France. A key aspect of our business strategy is to continue
+to expand our sales and support organizations internationally. Therefore, we
+expect to commit significant resources to expand our international sales and
+marketing activities. We are increasingly subject to a number of risks
+associated with international business activities which may increase our costs,
+lengthen our sales cycle and require significant management attention. These
+risks include:
+
+     - market acceptance of our products and services by countries outside the
+       United States;
+
+     - increased expenses associated with marketing services in foreign
+       countries;
+
+     - general economic conditions in international markets;
+
+     - currency exchange rate fluctuations;
+
+     - unexpected changes in regulatory requirements resulting in unanticipated
+       costs and delays;
+
+     - tariffs, export controls and other trade barriers;
+
+                                       22
+<PAGE>   24
+
+     - longer accounts receivable payment cycles and difficulties in collecting
+       accounts receivable; and
+
+     - potentially adverse tax consequences, including restrictions on the
+       repatriation of earnings.
+
+  INSIDERS HAVE SUBSTANTIAL CONTROL OVER US WHICH COULD LIMIT OTHERS' ABILITIES
+TO INFLUENCE THE OUTCOME OF KEY TRANSACTIONS, INCLUDING CHANGES OF CONTROL.
+
+     As of October 31, 2000, the executive officers, directors and entities
+affiliated with them, in the aggregate, beneficially owned approximately 46% of
+our outstanding common stock. These stockholders, if acting together, are able
+to influence significantly all matters requiring approval by our stockholders,
+including the election of directors and the approval of mergers or other
+business combination transactions.
+
+  PROVISIONS OF OUR CHARTER DOCUMENTS MAY HAVE ANTI-TAKEOVER EFFECTS THAT COULD
+PREVENT A CHANGE IN CONTROL EVEN IF THE CHANGE IN CONTROL WOULD BE BENEFICIAL TO
+OUR STOCKHOLDERS.
+
+     Provisions of our amended and restated certificate of incorporation,
+by-laws, and Delaware law could make it more difficult for a third party to
+acquire us, even if doing so would be beneficial to our stockholders.
+
+  THE UNPREDICTABILITY OF OUR QUARTERLY RESULTS MAY ADVERSELY AFFECT THE TRADING
+PRICE OF OUR COMMON STOCK.
+
+     Our revenue and operating results will vary significantly from quarter to
+quarter due to a number of factors, many of which are outside of our control and
+any of which may cause our stock price to fluctuate. The primary factors that
+may affect us include the following:
+
+     - demand for Internet content delivery services and streaming services;
+
+     - the timing and size of sales of our services;
+
+     - the timing of recognizing revenue and deferred revenue;
+
+     - new product and service introductions and enhancements by our competitors
+       and us;
+
+     - changes in our pricing policies or the pricing policies of our
+       competitors;
+
+     - our ability to develop, introduce and deliver new products, services and
+       enhancements that meet customer requirements in a timely manner;
+
+     - the length of the sales cycle for our services;
+
+     - increases in the prices of, and availability of, the products, services,
+       components or raw materials we purchase, including bandwidth;
+
+     - our ability to attain and maintain quality levels for our services;
+
+     - expenses related to testing of our services;
+
+     - costs related to acquisitions of technology or businesses; and
+
+     - general economic conditions as well as those specific to the Internet and
+       related industries.
+
+     Due to the above factors, we believe that quarter-to-quarter comparisons of
+our operating results are not a good indication of our future performance. It is
+likely that in some future quarters, our operating results may be below the
+expectations of public market analysts and investors. In this event, the price
+of our common stock will probably fall.
+
+  WE COULD INCUR SUBSTANTIAL COSTS DEFENDING OUR INTELLECTUAL PROPERTY FROM
+INFRINGEMENT OR A CLAIM OF INFRINGEMENT.
+
+     Other companies or individuals, including our competitors, may obtain
+patents or other proprietary rights that would prevent, limit or interfere with
+our ability to make, use or sell our services. As a result, we may be found to
+infringe on the proprietary rights of others. In the event of a successful claim
+of infringement against us and our failure or inability to license the infringed
+technology, our business and operating results would be
+
+                                       23
+<PAGE>   25
+
+significantly harmed. Companies in the Internet market are increasingly bringing
+suits alleging infringement of their proprietary rights, particularly patent
+rights. Digital Island, Inc. has filed a patent infringement suit against us in
+California. We intend to aggressively defend this lawsuit and to prosecute
+vigorously the patent infringement suit that we had previously filed against
+Digital Island, Inc. We may not prevail in either of these actions. These claims
+and any other litigation or claims, whether or not valid, could result in
+substantial costs and diversion of resources. Intellectual property litigation
+or claims could force us to do one or more of the following:
+
+     - cease selling, incorporating or using products or services that
+       incorporate the challenged intellectual property;
+
+     - obtain a license from the holder of the infringed intellectual property
+       right, which license may not be available on reasonable terms; and
+
+     - redesign products or services.
+
+     If we are forced to take any of these actions, our business may be
+seriously harmed. Although we carry insurance, our insurance may not cover
+potential claims of this type or may not be adequate to indemnify us for all
+liability that may be imposed.
+
+  INTERNET-RELATED LAWS COULD ADVERSELY AFFECT OUR BUSINESS.
+
+     Laws and regulations that apply to communications and commerce over the
+Internet are becoming more prevalent. In particular, the growth and development
+of the market for online commerce has prompted calls for more stringent consumer
+protection laws, both in the United States and abroad, that may impose
+additional burdens on companies conducting business online. This could
+negatively affect the businesses of our customers and reduce their demand for
+our services. Internet-related laws, however, remain largely unsettled, even in
+areas where there has been some legislative action. The adoption or modification
+of laws or regulations relating to the Internet, or interpretations of existing
+law, could adversely affect our business.
+
+  OUR STOCK PRICE HAS BEEN AND MAY CONTINUE TO BE VOLATILE, WHICH COULD RESULT
+IN LITIGATION AGAINST US.
+
+     The market price of our common stock has been extremely volatile and has
+fluctuated significantly in the past. The following factors could cause the
+market price of common stock to continue to fluctuate significantly:
+
+     - the addition or departure of our key personnel;
+
+     - variations in our quarterly operating results;
+
+     - announcements by us or our competitors of significant contracts, new or
+       enhanced products or service offerings, acquisitions, distribution
+       partnerships, joint ventures or capital commitments;
+
+     - changes in financial estimates by securities analysts;
+
+     - our sales of common stock or other securities in the future;
+
+     - changes in market valuations of networking, Internet and
+       telecommunications companies;
+
+     - fluctuations in stock market prices and volumes; and
+
+     - changes in general economic conditions, including interest rate levels.
+
+     In the past, class action litigation has often been brought against
+companies following periods of volatility in the market price of those
+companies' common stock. We may become involved in this type of litigation in
+the future. Litigation is often expensive and diverts management's attention and
+resources which could materially adversely affect our business and results of
+operations.
+
+                                       24
+<PAGE>   26
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     Our exposure to market rate risk for changes in interest rates relates
+primarily to our investment portfolio. We do not use derivative financial
+instruments in our investment portfolio. We place our investments with high
+quality issuers and, by policy, limit the amount of risk by investing primarily
+in money market funds, United States Treasury obligations, high-quality
+corporate obligations and certificates of deposit. An increase or decrease in
+interest rates would not significantly increase or decrease interest expense due
+to the fixed nature of our debt obligations. We do not currently have
+significant foreign operations and thus are not currently materially exposed to
+foreign currency fluctuations. We do not expect a material loss from our
+marketable securities investments and believe that our potential interest rate
+exposure is not material.
+
+                                       25
+<PAGE>   27
+
+                           PART II. OTHER INFORMATION
+
+ITEM 2.  CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+     (c) Recent Sales of Unregistered Securities
+
+     On July 25, 2000, we issued 51,951 shares of our common stock to the former
+stockholders of CallTheShots, Inc., a Delaware corporation ("CTS"), in
+connection with our acquisition of CTS in a merger transaction. The shares of
+common stock were exempt from registration under Section 4(2) of the Securities
+Act of 1933, as amended, because there was no public offering of the common
+stock issued. No underwriters were involved in the sale of these securities.
+
+     (d) Use of Proceeds from Sales of Registered Securities
+
+     On November 3, 1999, we sold 9,000,000 shares of our common stock in an
+initial public offering pursuant to a Registration Statement on Form S-1
+(Registration No. 333-85679) (the "Registration Statement") that was declared
+effective by the Securities and Exchange Commission on October 28, 1999. During
+the period from the offering to September 30, 2000, we have used the proceeds as
+follows: approximately $64 million for capital expenditures, $15 million for the
+repayment of senior subordinated notes, $13 million for the acquisition of
+businesses, and approximately $110 million for operating expenses.
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+     (a) Exhibits
+
+<TABLE>
+<C>     <S>
+  27.1  Financial Data Schedule.
+</TABLE>
+
+     (b) Reports on Form 8-K
+
+     None.
+
+                                       26
+<PAGE>   28
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                          AKAMAI TECHNOLOGIES, INC.
+
+<TABLE>
+<S>                                                    <C>
+
+Date: November 14, 2000                                By: /s/ KAREN C. STUMCKE
+                                                            -----------------------------------------
+                                                            Karen C. Stumcke
+                                                            Vice President and Chief Accounting
+                                                            Officer
+</TABLE>
+
+                                       27
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<FILENAME>b36897akex27-1.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM AKAMAI
+TECHNOLOGIES, INC.'S CONSOLIDATED FINANCIAL STATEMENTS FOR THE QUARTER ENDED
+SEPTEMBER 30, 2000 AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCES TO SUCH
+CONSOLIDATED FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+<CURRENCY> U.S. DOLLARS
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JUL-01-2000
+<PERIOD-END>                               SEP-30-2000
+<EXCHANGE-RATE>                                      1
+<CASH>                                         371,195
+<SECURITIES>                                    67,548
+<RECEIVABLES>                                   16,990
+<ALLOWANCES>                                   (1,398)
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                               473,900
+<PP&E>                                         146,809
+<DEPRECIATION>                                (24,997)
+<TOTAL-ASSETS>                               3,058,326
+<CURRENT-LIABILITIES>                           54,562
+<BONDS>                                        300,000
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         1,073
+<OTHER-SE>                                   2,701,222
+<TOTAL-LIABILITY-AND-EQUITY>                 3,058,326
+<SALES>                                              0
+<TOTAL-REVENUES>                                27,156
+<CGS>                                                0
+<TOTAL-COSTS>                                   18,182
+<OTHER-EXPENSES>                               316,653
+<LOSS-PROVISION>                                   782
+<INTEREST-EXPENSE>                               4,203
+<INCOME-PRETAX>                              (304,055)
+<INCOME-TAX>                                        20
+<INCOME-CONTINUING>                          (304,075)
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 (304,075)
+<EPS-BASIC>                                     (3.27)
+<EPS-DILUTED>                                   (3.27)
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

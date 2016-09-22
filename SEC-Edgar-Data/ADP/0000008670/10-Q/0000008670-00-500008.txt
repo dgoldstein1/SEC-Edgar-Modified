@@ -1,0 +1,695 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D88HogpC34hFIiG2Lb7yryOglyC41bw0o8rxH2KaoyFgx2wwBAJU6OGQDY5BgEoE
+ 2kSq5cU0D3lscr6qxe/E5g==
+
+<SEC-DOCUMENT>/in/edgar/work/0000008670-00-500008/0000008670-00-500008.txt : 20001114
+<SEC-HEADER>0000008670-00-500008.hdr.sgml : 20001114
+ACCESSION NUMBER:		0000008670-00-500008
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AUTOMATIC DATA PROCESSING INC
+		CENTRAL INDEX KEY:			0000008670
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [7374
+]		IRS NUMBER:				221467904
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	001-05397
+			FILM NUMBER:		760522
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		ONE ADP BOULVARD
+				CITY:			ROSELAND
+				STATE:			NJ
+				ZIP:			07068
+				BUSINESS PHONE:		2019945000
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		ONE ADP BOULEVARD
+					CITY:			ROSELAND
+					STATE:			NJ
+					ZIP:			07068
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>september.txt
+<DESCRIPTION>10Q
+<TEXT>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                   QUARTERLY REPORT UNDER SECTION 13 or 15 (d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+For Quarter Ended September 30, 2000 Commission File Number 1-5397
+                  ------------------                        ------
+
+
+
+                        Automatic Data Processing, Inc
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+
+ Delaware                                                 22-1467904
+- --------------------------------------------------------------------------------
+(State or other jurisdiction of                         (I.R.S. Employer
+incorporation or organization)                          Identification Number)
+
+
+ One ADP Boulevard, Roseland, New Jersey                       07068
+- --------------------------------------------------------------------------------
+(Addresss of principal executive offices)                  (Zip Code)
+
+
+Registrant's Telephone Number, Including Area Code  (973) 974-5000
+                                                   -----------------------------
+
+
+
+                                   No change
+- --------------------------------------------------------------------------------
+Former name, former address & former fiscal year, if changed since last report.
+
+
+
+Indicate by check mark whether the Registrant (1) has filed all annual,
+quarterly and other reports required to be filed with the commission and (2) has
+been subject to the filing requirements for at least the past 90 days.
+
+                 X              Yes               |_|         No
+- -------------------------------     -----------------------------
+
+As of October 31, 2000 there were 631,156,765 common shares outstanding.
+
+
+<PAGE>
+
+
+                                                                        Form 10Q
+
+                          Part I. Financial Information
+
+                       STATEMENT OF CONSOLIDATED EARNINGS
+                       ----------------------------------
+
+                    (In thousands, except per share amounts)
+                                   (Unaudited)
+
+                                               Three Months Ended
+                                         -----------------------------
+                                         September 30,   September 30,
+                                             2000             1999
+                                           --------         --------
+
+Revenues, other than interest on funds
+ held for clients and PEO revenues         $1,415,232     $1,240,994
+
+Interest on funds held for clients            115,639         65,944
+
+PEO revenues (net of pass-through
+ costs of $592,247 and $467,111,
+ respectively)                                 55,652         44,157
+                                           ----------     ----------
+
+Total revenues                              1,586,523      1,351,095
+                                           ----------     ----------
+
+Operating expenses                            659,958        551,090
+
+General, administrative and
+  selling expenses                            435,435        405,387
+
+Systems development and
+  programming costs                           119,074        103,655
+
+Depreciation and amortization                  81,544         65,634
+
+Interest expense                                3,298          3,535
+
+Realized (gains)/losses on sale of
+ investments                                      604           (396)
+                                           ----------     ----------
+
+                                            1,299,913      1,128,905
+
+EARNINGS BEFORE INCOME TAXES                  286,610        222,190
+
+Provision for income taxes                    113,210         75,990
+                                           ----------     ----------
+
+NET EARNINGS                               $  173,400     $  146,200
+                                           ==========     ==========
+
+BASIC EARNINGS PER SHARE                   $     0.28     $     0.23
+                                           ==========     ==========
+
+DILUTED EARNINGS PER SHARE                 $     0.27     $     0.23
+                                           ==========     ==========
+
+Dividends per share                        $   .08750     $   .07625
+                                           ==========     ==========
+
+                 See notes to the consolidated financial statements.
+
+
+<PAGE>
+
+
+                                                                        Form 10Q
+                           CONSOLIDATED BALANCE SHEETS
+                           ---------------------------
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+                                                September 30,     June 30,
+                                                    2000            2000
+                                                 ----------    -----------
+
+Assets
+- ------
+Cash and cash equivalents                       $ 1,325,373    $ 1,227,637
+Short-term marketable securities                    540,641        596,792
+Accounts receivable                                 842,094        899,314
+Other current assets                                288,816        340,709
+                                                -----------    -----------
+  Total current assets                            2,996,924      3,064,452
+
+Long-term marketable securities                     819,581        628,120
+Long-term receivables                               242,201        245,249
+
+Land and buildings                                  445,217        439,022
+Data processing equipment                           634,258        612,608
+Furniture, leaseholds and other                     514,944        498,354
+                                                -----------    -----------
+                                                  1,594,419      1,549,984
+  Less accumulated depreciation                    (981,371)      (952,715)
+                                                -----------    -----------
+                                                    613,048        597,269
+
+Other assets                                        294,222        271,136
+Intangibles                                       1,580,189      1,623,701
+                                                -----------    -----------
+  Total assets before funds held for clients      6,546,165      6,429,927
+Funds held for clients                           10,135,110     10,420,889
+                                                 ----------    -----------
+Total assets                                    $16,681,275    $16,850,816
+                                                ===========    ===========
+
+Liabilities and Shareholders' Equity
+- ------------------------------------
+Notes payable                                   $    20,228     $   21,523
+Accounts payable                                    124,830        129,436
+Accrued expenses & other current
+  liabilities                                       964,393      1,044,002
+Income taxes                                        171,895        101,707
+                                                -----------    -----------
+  Total current liabilities                       1,281,346      1,296,668
+
+Long-term debt                                      133,530        132,017
+Other liabilities                                   193,896        171,843
+Deferred income taxes                               147,911        151,337
+Deferred revenue                                     90,555         95,361
+                                                -----------     ----------
+  Total liabilities before client funds
+    obligations                                   1,847,238      1,847,226
+Client funds obligations                         10,114,136     10,420,772
+                                                -----------     ----------
+  Total liabilities                              11,961,374     12,267,998
+
+Shareholders' equity:
+  Common stock                                       63,219         63,144
+  Capital in excess of par value                    418,655        402,767
+  Retained earnings                               4,595,381      4,477,141
+  Treasury stock                                    (75,486)      (130,800)
+  Accumulated other comprehensive income           (281,868)      (229,434)
+                                                -----------    -----------
+    Total shareholders' equity                    4,719,901      4,582,818
+                                                -----------    -----------
+Total liabilities and shareholders' equity      $16,681,275    $16,850,816
+                                                ===========    ===========
+
+
+               See notes to the consolidated financial statements.
+
+
+<PAGE>
+
+
+                                                                        Form 10Q
+
+                 CONDENSED STATEMENTS OF CONSOLIDATED CASH FLOWS
+                 -----------------------------------------------
+
+                                 (IN THOUSANDS)
+                                   (UNAUDITED)
+
+                                                       Three Months Ended
+                                                          September 30,
+                                                       2000         1999
+                                                      ------       ------
+
+Cash Flows From Operating Activities:
+- -------------------------------------
+
+Net earnings                                        $173,400     $146,200
+
+Expenses not requiring outlay of cash                 92,662       66,093
+
+Changes in operating net assets                       69,735       27,717
+                                                  ----------    ---------
+
+ Net cash flows provided by operating activities     335,797      240,010
+                                                  ----------    ---------
+
+Cash Flows From Investing Activities:
+- -------------------------------------
+
+Purchase of marketable securities                 (1,029,661)  (1,806,008)
+Proceeds from sale of marketable securities        1,210,109      406,701
+Net change in client funds obligations              (306,636)   1,326,183
+Capital expenditures                                 (54,608)     (23,919)
+Additions to intangibles                             (16,108)     (11,646)
+Acquisitions of businesses                           (23,627)        (886)
+Other                                                 (6,926)     (12,030)
+                                                  ----------    ---------
+
+ Net cash flows used in investing activities        (227,457)    (121,605)
+                                                  ----------    ---------
+
+Cash Flows From Financing Activities:
+- -------------------------------------
+
+Proceeds from issuance of notes                       12,785        1,478
+Repayments of debt                                   (14,106)      (7,398)
+Proceeds from issuance of common stock                45,877       27,659
+Dividends paid                                       (55,160)     (47,624)
+                                                  ----------    ---------
+
+
+ Net cash flows used in financing activities         (10,604)     (25,885)
+                                                  ----------    ---------
+
+Net change in cash and cash equivalents               97,736       92,520
+
+Cash and cash equivalents, at beginning of
+  period                                           1,227,637      861,280
+                                                  ----------    ---------
+
+Cash and cash equivalents, at end of
+  period                                          $1,325,373     $953,800
+                                                  ==========    =========
+
+                    See notes to the consolidated financial statements.
+
+
+<PAGE>
+
+
+                                                                        Form 10Q
+
+
+                 NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+                 ----------------------------------------------
+                                   (Unaudited)
+
+     The information furnished herein reflects all adjustments which are, in the
+opinion of management, necessary for a fair presentation of the results for the
+interim periods. Adjustments are of a normal recurring nature. These statements
+should be read in conjunction with the annual financial statements and related
+notes for the year ended June 30, 2000.
+
+Note A - The results of operations for the three months ended September 30, 2000
+         may not be indicative of the results to be expected for the year
+         ending June 30, 2001.
+
+Note B - The calculation of basic and diluted earnings per share ("EPS") is as
+         follows:
+
+(In thousands, except EPS)
+                              For the three months ended September 30
+                       ----------------------------------------------------
+                                   2000                       1999
+                       -------------------------  -------------------------
+                         Income   Shares     EPS     Income   Shares    EPS
+                         ------   ------     ---     ------   ------    ---
+
+Basic                  $173,400  629,991   $0.28   $146,200  624,392  $0.23
+
+Effect of zero coupon
+  subordinated notes        679    4,074                753    4,745
+
+Effect of stock
+  options                     -   15,031                  -   13,683
+                       -----------------           -----------------
+
+Diluted                $174,079  649,096   $0.27   $146,953  642,820  $0.23
+                       =========================   =========================
+
+
+Note C - Comprehensive income for the three months ended September 30, 2000 and
+         1999 follows:
+
+                                      Three months ended September 30,
+                                      --------------------------------
+                                            2000           1999
+                                            ----           ----
+            Net income                    $173,400       $146,200
+            Other comprehensive income:
+             Foreign currency translation
+            adjustment                     (67,973)       (27,851)
+           Unrealized gain(loss) on
+            securities                      15,539         (9,514)
+                                          --------       --------
+          Comprehensive income            $120,966       $108,835
+                                          ========       ========
+
+
+
+<PAGE>
+
+
+                                                                        Form 10Q
+
+Note D - Interim financial data by segment:
+
+
+         ADP evaluates performance of its business units based on recurring
+         operating results before interest on corporate funds, income taxes
+         and foreign currency gains and losses. Certain revenues and expenses
+         are charged to business units at a standard rate for management and
+         motivation reasons. Other costs are recorded based on management
+         responsibility. As a result, various income and expense items,
+         including certain non-recurring gains and losses, are recorded at
+         the corporate level and certain shared costs are not allocated.
+         Goodwill amortization is charged to business units at an accelerated
+         rate to act as a surrogate for the cost of capital for acquisitions.
+         Interest on invested funds held for clients are recorded in Employer
+         Services' revenues at a standard rate of 6%, with the adjustment to
+         actual revenues included in "other". Prior year's business unit
+         revenues and pre-tax earnings have been restated to reflect the
+         current year's budgeted foreign exchange rates.
+
+         Results of the Company's three largest business units, Employer
+         Services, Brokerage Services and Dealer Services are shown below.
+
+                         Three months ended September 30,
+                       ----------------------------------------
+(In millions)           Employer      Brokerage     Dealer
+                        Services      Services      Services
+                       ----------    -----------   ------------
+                        2000  1999    2000   1999   2000   1999
+                        ----  ----    ----   ----   ----   ----
+
+Revenues               $ 912 $ 800   $ 362  $ 257  $ 167  $ 184
+Pretax earnings        $ 176 $ 148   $  64  $  54  $  21  $  30
+
+Note E - In October 2000, the Company entered into an unsecured revolving
+         credit agreement with certain financial institutions, which provides
+         for borrowings up to $2.5 billion. Borrowings under the agreement
+         bear interest tied to LIBOR or prime rate depending on the number of
+         days the borrowings are outstanding. The agreement, which expires in
+         October 2001, had no borrowings to date.
+
+Note F - In fiscal 1999, the Company divested its Brokerage front-office
+         business to Bridge Information Systems, Inc.  As part of the proceeds
+         the Company received $90 million of convertible preferred stock.
+         Currently Bridge is operating at a loss and has required additional
+         financing. The preferred stock continues to be carried at cost based on
+         the facts available at this time, but the ultimate realization of this
+         investment cannot be determined with certainty.  As additional
+         information concerning this investment becomes known, the Company will
+         continue to reassess its position with respect to possible impairment.
+
+Note G - Restatements of prior financial statements:
+
+         Certain reclassifications and restatements, including the inclusion
+         of funds held for clients and client funds obligations on the
+         Consolidated Balance Sheets, have been made to prior period's
+         financial statements to conform to current presentation.
+
+
+
+
+<PAGE>
+
+
+                                                                        Form 10Q
+
+
+                      MANAGEMENT'S DISCUSSION AND ANALYSIS
+                      ------------------------------------
+
+OPERATING RESULTS
+
+Revenues and earnings again reached record levels during the quarter ended
+September 30, 2000.
+
+Revenues and revenue growth by ADP's major business units for the three months
+ended September 30, 2000 and 1999 are shown below:
+
+                                Revenues             Revenue Growth
+                              September 30,           September 30,
+                           ------------------      -----------------
+                             2000        1999        2000       1999
+                           ------      ------      ------     ------
+                             ($ in millions)
+
+     Employer Services     $  912      $  800          14%        12%
+     Brokerage Services       362         257          41          2
+     Dealer Services          167         184          (9)         5
+     Other                    146         110          33          4
+                           ------      ------       -----      ------
+                           $1,587      $1,351          17%         9%
+                           ======      ======       =====      =====
+
+Consolidated revenues for the quarter of approximately $1.6 billion were up 17%
+from last year. Revenue growth in Employer Services was 14%, reflecting very
+good client retention and internal revenue growth. Brokerage revenue growth was
+41%, aided by the recent Cunningham Graphics acquisition and strong trade volume
+comparisons. Dealer Services revenue decreased 9% as a result of prior year
+dispositions and stronger Year 2000 influenced results last year.
+
+The primary components of "Other" revenues are Claims Services, foreign exchange
+differences, and miscellaneous processing services. "Other" also includes
+interest on corporate investments of $42 million and $25 million for the three
+months ended September 30, 2000 and September 30, 1999, respectively. In
+addition, "Other" revenues have been adjusted for the difference between actual
+interest income earned on invested funds held for clients and interest credited
+to Employer Services at a standard rate of 6%. The prior year's business unit
+revenues and pre-tax earnings have been restated to reflect the current year's
+budgeted foreign exchange rates.
+
+Pre-tax earnings for the quarter increased 29% to approximately $287 million.
+Consolidated pre-tax margins increased primarily from the transition of a
+portion of corporate and client fund investments from tax-exempt to taxable
+investments in order to increase liquidity of the overall portfolio. Systems
+development and programming investments increased to accelerate automation,
+migrate to new computing technologies, and develop new products.
+
+Net earnings for the quarter, after a higher effective tax rate, increased 19%
+to approximately $173 million. The effective tax rate of 39.5% increased from
+34.2% in the comparable quarter last year, impacted by the previously discussed
+change in the investment mix from tax-exempt to taxable investments.
+
+Diluted earnings per share, on increased shares outstanding, increased 17% to
+$0.27 from $0.23 last year.
+
+<PAGE>
+
+                                                                        Form 10Q
+
+For the full year, we expect revenue growth of about 13% to 15% and diluted
+earnings per share growth of about 16% to 18%.
+
+FINANCIAL CONDITION
+
+The Company's financial condition and balance sheet remain exceptionally strong,
+and operations continue to generate a strong cash flow. At September 30, 2000,
+the Company had cash and marketable securities of $2.7 billion. Shareholders'
+equity was $4.7 billion and the ratio of long-term debt to equity was 3%.
+
+Capital expenditures for fiscal 2001 are expected to approximate $225 million,
+compared to $166 million in fiscal 2000.
+
+Approximately half of the Company's overall investment portfolio is invested in
+overnight interest-bearing instruments, which are therefore impacted immediately
+by changes in interest rates. The other half of the Company's investment
+portfolio is invested in fixed-income securities, with maturities up to five and
+a half years, which are also subject to interest rate risk, including
+reinvestment risk. The Company has historically had the ability to hold these
+investments until maturity, and therefore this has not had an adverse impact on
+income or cash flows.
+
+OTHER MATTERS
+
+Certain member countries of the European Union have agreed to transition to the
+Euro as a new common legal currency. The costs of this transition are not
+expected to have a material effect on ADP.
+
+In October 2000, the Company entered into an unsecured revolving credit
+agreement with certain financial institutions, which provides for borrowings up
+to $2.5 billion. Borrowings under the agreement bear interest tied to LIBOR or
+prime rate depending on the number of days the borrowings are outstanding. The
+agreement, which expires in October 2001, had no borrowings to date.
+
+In fiscal 1999, the Company divested its Brokerage front-office business to
+Bridge Information Systems, Inc. As part of the proceeds the Company received
+$90 million of convertible preferred stock. Currently Bridge is operating at a
+loss and has required additional financing. The preferred stock continues to be
+carried at cost based on the facts available at this time, but the ultimate
+realization of this investment cannot be determined with certainty. As
+additional information concerning this investment becomes known, the Company
+will continue to reassess its position with respect to possible impairment.
+
+This report contains "forward-looking statements" based on management's
+expectations and assumptions and are subject to risks and uncertainties that may
+cause actual results to differ from those expressed.
+
+
+<PAGE>
+
+
+                                                                        Form 10Q
+
+
+
+Factors that could cause differences include: ADP's success in obtaining,
+retaining and selling additional services to clients; the pricing of products
+and services; changes in laws regulating payroll taxes and employee benefits;
+overall economic trends, including interest rate and foreign currency trends;
+stock market activity; auto sales and related industry changes; employment
+levels; changes in technology; availability of skilled technical associates, the
+impact of new acquisitions, and the ultimate realization of the Company's
+investment in Bridge Information Systems, Inc. ADP disclaims any obligation to
+update any forward-looking statements, whether as a result of new information,
+future events or otherwise.
+
+PART II.  OTHER INFORMATION
+
+Except as noted below, all other items are either inapplicable or would result
+in negative responses and, therefore, have been omitted.
+
+Item 6.  Exhibits and Reports on Form 8-K.
+
+(a)    Exhibits
+
+      Exhibit
+      Number             Exhibit
+      ------             -------
+      27.1      Financial Data Schedule
+
+<PAGE>
+
+                                                                        Form 10Q
+
+
+
+                                   SIGNATURES
+                                   ----------
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+                         AUTOMATIC DATA PROCESSING, INC.
+                         -------------------------------
+                                  (Registrant)
+
+
+
+Date: November 13, 2000       /s/ Richard J. Haviland
+                              -----------------------
+                                Richard J. Haviland
+
+
+
+                              Chief Financial Officer
+                            (Principal Financial Officer)
+                            -----------------------------
+                                      (Title)
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>septfds.xfd
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE>    5
+<MULTIPLIER>    1
+
+<S>                                                      <C>
+<PERIOD-TYPE>                                          3-MOS
+<PERIOD-START>                                   Jul-01-2000
+<FISCAL-YEAR-END>                                Jun-30-2001
+<PERIOD-END>                                     Sep-30-2000
+<CASH>                                             1,325,373
+<SECURITIES>                                         540,641
+<RECEIVABLES>                                        842,094
+<ALLOWANCES>                                          44,248
+<INVENTORY>                                           34,402
+<CURRENT-ASSETS>                                   2,996,924
+<PP&E>                                             1,594,419
+<DEPRECIATION>                                       981,371
+<TOTAL-ASSETS>                                    16,681,275
+<CURRENT-LIABILITIES>                              1,281,346
+<BONDS>                                              133,530
+<PREFERRED-MANDATORY>                                      0
+<PREFERRED>                                                0
+<COMMON>                                              63,219
+<OTHER-SE>                                         4,656,682
+<TOTAL-LIABILITY-AND-EQUITY>                      16,681,275
+<SALES>                                                    0
+<TOTAL-REVENUES>                                   1,586,523
+<CGS>                                                      0
+<TOTAL-COSTS>                                      1,292,180
+<OTHER-EXPENSES>                                           0
+<LOSS-PROVISION>                                       4,435
+<INTEREST-EXPENSE>                                     3,298
+<INCOME-PRETAX>                                      286,610
+<INCOME-TAX>                                         113,210
+<INCOME-CONTINUING>                                  173,400
+<DISCONTINUED>                                             0
+<EXTRAORDINARY>                                            0
+<CHANGES>                                                  0
+<NET-INCOME>                                         173,400
+<EPS-BASIC>                                             0.28
+<EPS-DILUTED>                                           0.27
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

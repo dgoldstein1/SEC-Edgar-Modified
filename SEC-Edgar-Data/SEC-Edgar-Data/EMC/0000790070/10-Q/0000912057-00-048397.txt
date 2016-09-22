@@ -1,0 +1,1546 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FkAX9NSwJQ/yO6ogPNq5mnlE9XiRr8SVZXSVUoRTu85fzx5oelmxCP2poyvFgsa9
+ /t4TZjEbumcmAD8cyIpLKA==
+
+<SEC-DOCUMENT>/in/edgar/work/0000912057-00-048397/0000912057-00-048397.txt : 20001114
+<SEC-HEADER>0000912057-00-048397.hdr.sgml : 20001114
+ACCESSION NUMBER:		0000912057-00-048397
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EMC CORP
+		CENTRAL INDEX KEY:			0000790070
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3572
+]		IRS NUMBER:				042680009
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	033-03656
+			FILM NUMBER:		758015
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		35 PARKWOOD DR
+				CITY:			HOPKINTON
+				STATE:			MA
+				ZIP:			01748-9103
+				BUSINESS PHONE:		5084351000
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		35 PARKWOOD DRIVE
+					CITY:			HOPKINTON
+					STATE:			MA
+					ZIP:			01748-9103
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a2030068z10-q.txt
+<DESCRIPTION>10-Q
+<TEXT>
+
+<PAGE>
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+                 QUARTERLY REPORT UNDER SECTION 13 OR 15(D) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+                   FOR THE QUARTER ENDED: SEPTEMBER 30, 2000
+
+                         COMMISSION FILE NUMBER 1-9853
+
+                            ------------------------
+
+                                EMC CORPORATION
+
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                            <C>
+             MASSACHUSETTS                                  04-2680009
+    (State or other jurisdiction of                      (I.R.S. Employer
+    organization or incorporation)                    Identification Number)
+</TABLE>
+
+                               35 PARKWOOD DRIVE
+                      HOPKINTON, MASSACHUSETTS 01748-9103
+          (Address of principal executive offices, including zip code)
+
+                                 (508) 435-1000
+              (Registrant's telephone number, including area code)
+
+                            ------------------------
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  YES /X/ NO / /
+
+    Indicate the number of shares outstanding of each of the issuer's classes of
+Common Stock, as of the latest practicable date.
+
+<TABLE>
+<S>                                           <C>
+COMMON STOCK, PAR VALUE $.01 PER SHARE                   2,188,016,784
+  -----------------------------------          ---------------------------------
+                 Class                        Outstanding as of September 30, 2000
+</TABLE>
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>
+                                EMC CORPORATION
+
+<TABLE>
+<CAPTION>
+                                                                  PAGE NO
+                                                              ---------------
+<S>                                                           <C>
+Part I--Financial Information
+
+  Consolidated Balance Sheets at September 30, 2000 and
+    December 31, 1999.......................................                3
+
+  Consolidated Statements of Income for the Three and Nine
+    Months Ended September 30, 2000 and 1999................                4
+
+  Consolidated Statements of Cash Flows for the Nine Months
+    Ended September 30, 2000 and 1999.......................                5
+
+  Consolidated Statements of Comprehensive Income for the
+    Three and Nine Months Ended September 30, 2000 and
+    1999....................................................                6
+
+  Notes to Interim Consolidated Financial Statements........           7 - 14
+
+  Management's Discussion and Analysis of Financial
+    Condition and Results of Operations.....................          15 - 22
+
+Part II--Other Information..................................               23
+
+  Signatures................................................               24
+
+  Exhibit Index.............................................               25
+</TABLE>
+
+                                       2
+<PAGE>
+                                EMC CORPORATION
+
+                                    PART I.
+                             FINANCIAL INFORMATION
+
+                          CONSOLIDATED BALANCE SHEETS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+<TABLE>
+<CAPTION>
+                                                              SEPTEMBER 30,   DECEMBER 31,
+                                                                  2000            1999
+                                                              -------------   ------------
+                                                               (UNAUDITED)
+<S>                                                           <C>             <C>
+                           ASSETS
+Current assets:
+  Cash and cash equivalents.................................   $2,235,909      $1,109,409
+  Short-term investments....................................      472,174         714,730
+  Trade and notes receivable less allowance for doubtful
+    accounts of $35,413 and $34,279 in 2000 and 1999,
+    respectively............................................    1,836,673       1,625,438
+  Inventories...............................................      868,594         618,885
+  Deferred income taxes.....................................      179,265         147,471
+  Other assets..............................................      132,151         104,463
+                                                               ----------      ----------
+Total current assets........................................    5,724,766       4,320,396
+Long-term investments.......................................    1,738,634       1,349,599
+Notes receivable, net.......................................      191,174          76,756
+Property, plant and equipment, net..........................    1,344,952       1,023,179
+Deferred income taxes.......................................       92,385         108,587
+Intangible and other assets, net............................      583,632         294,771
+                                                               ----------      ----------
+      Total assets..........................................   $9,675,543      $7,173,288
+                                                               ==========      ==========
+            LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Current portion of long-term obligations..................   $   12,497      $    9,116
+  Accounts payable..........................................      477,717         370,055
+  Accrued expenses..........................................      717,434         611,052
+  Income taxes payable......................................      424,694         249,234
+  Deferred revenue..........................................      241,335         158,458
+                                                               ----------      ----------
+Total current liabilities...................................    1,873,677       1,397,915
+Deferred income taxes.......................................      147,615         125,353
+Long-term obligations:
+  3 1/4% convertible subordinated notes due 2002............           --         460,399
+  6% convertible subordinated notes due 2004................           --         212,750
+  Notes payable.............................................       14,589          13,460
+  Minority interest.........................................      111,141           2,674
+  Other liabilities.........................................       25,445           8,951
+                                                               ----------      ----------
+      Total liabilities.....................................    2,172,467       2,221,502
+                                                               ----------      ----------
+Commitments and contingencies
+Stockholders' equity:
+  Series Preferred Stock, par value $.01; authorized 25,000
+    shares, none outstanding................................           --              --
+  Common Stock, par value $.01; authorized 3,000,000 shares;
+    issued 2,188,017 and 2,078,550, in 2000 and 1999,
+    respectively............................................       21,880          20,786
+  Additional paid-in capital................................    3,044,679       1,695,994
+  Deferred compensation.....................................      (61,012)        (30,282)
+  Retained earnings.........................................    4,519,023       3,299,821
+  Accumulated other comprehensive income/(expense)..........      (21,494)        (34,533)
+                                                               ----------      ----------
+      Total stockholders' equity............................    7,503,076       4,951,786
+                                                               ----------      ----------
+        Total liabilities and stockholders' equity..........   $9,675,543      $7,173,288
+                                                               ==========      ==========
+</TABLE>
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                       3
+<PAGE>
+                                EMC CORPORATION
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                        FOR THE                           FOR THE
+                                                  THREE MONTHS ENDED                 NINE MONTHS ENDED
+                                            -------------------------------   -------------------------------
+                                            SEPTEMBER 30,    SEPTEMBER 30,    SEPTEMBER 30,    SEPTEMBER 30,
+                                                 2000             1999             2000             1999
+                                            --------------   --------------   --------------   --------------
+<S>                                         <C>              <C>              <C>              <C>
+Revenues:
+  Net sales...............................    $2,050,573       $1,525,520       $5,611,492       $4,308,343
+  Service.................................       232,432          183,390          640,038          531,514
+                                              ----------       ----------       ----------       ----------
+                                               2,283,005        1,708,910        6,251,530        4,839,857
+Costs and expenses:
+  Cost of sales...........................       813,648          696,082        2,221,136        2,035,944
+  Cost of service.........................       152,948          126,666          438,951          364,126
+  Research and development................       204,807          149,426          560,873          418,500
+  Selling, general and administrative.....       533,124          363,785        1,487,392        1,010,694
+                                              ----------       ----------       ----------       ----------
+Operating income..........................       578,478          372,951        1,543,178        1,010,593
+Investment income.........................        54,370           34,378          143,064           92,536
+Interest expense..........................        (2,196)          (7,850)         (12,023)         (24,812)
+Other income/(expense), net...............        (3,011)             227           (4,080)             440
+                                              ----------       ----------       ----------       ----------
+Income before taxes.......................       627,641          399,706        1,670,139        1,078,757
+Income tax provision......................       169,463          103,938          450,937          274,793
+                                              ----------       ----------       ----------       ----------
+Net income................................    $  458,178       $  295,768       $1,219,202       $  803,964
+                                              ==========       ==========       ==========       ==========
+Net income per weighted average share,
+  basic...................................    $     0.21       $     0.14       $     0.57       $     0.39
+                                              ==========       ==========       ==========       ==========
+Net income per weighted average share,
+  diluted.................................    $     0.20       $     0.13       $     0.54       $     0.37
+                                              ==========       ==========       ==========       ==========
+Weighted average shares, basic............     2,183,409        2,063,248        2,154,647        2,056,650
+Weighted average shares, diluted..........     2,250,121        2,219,254        2,242,228        2,215,932
+</TABLE>
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                       4
+<PAGE>
+                                EMC CORPORATION
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (IN THOUSANDS)
+
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                               FOR THE NINE MONTHS ENDED
+                                                                             -----------------------------
+                                                                             SEPTEMBER 30,   SEPTEMBER 30,
+                                                                                 2000            1999
+                                                                             -------------   -------------
+<S>                                                                          <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net income...............................................................   $ 1,219,202      $ 803,964
+  Adjustments to reconcile net income to net cash provided by operating
+    activities:
+  Depreciation and amortization............................................       396,819        302,449
+  Deferred income taxes....................................................         4,248        (34,651)
+  Net (gain)/loss on disposal of property and equipment....................        12,870          6,364
+  Tax benefit from stock options exercised.................................       174,041         42,155
+  Minority interest........................................................         2,341           (225)
+Changes in assets and liabilities net of acquired assets and liabilities:
+  Trade and notes receivable...............................................      (291,942)      (304,093)
+  Inventories..............................................................      (250,700)       (41,115)
+  Other assets.............................................................      (113,551)       (52,578)
+  Accounts payable.........................................................       109,264         70,739
+  Accrued expenses.........................................................        97,047         62,427
+  Income taxes payable.....................................................       175,460         24,904
+  Deferred revenue.........................................................        68,349         32,117
+  Other liabilities........................................................            (6)        (3,106)
+                                                                              -----------      ---------
+    Net cash provided by operating activities..............................     1,603,442        909,351
+                                                                              -----------      ---------
+CASH FLOWS FROM INVESTING ACTIVITIES:
+  Additions to property, plant and equipment...............................      (591,453)      (368,438)
+  Capitalized software development costs...................................       (76,569)       (63,412)
+  Maturity/(purchase) of short-term and long-term investments, net.........      (119,896)      (487,059)
+  Business acquisitions net of cash acquired...............................      (233,554)            --
+                                                                              -----------      ---------
+    Net cash used by investing activities..................................    (1,021,472)      (918,909)
+                                                                              -----------      ---------
+CASH FLOWS FROM FINANCING ACTIVITIES:
+  Issuance of common stock.................................................       174,538         73,456
+  Issuance of subsidiary stock.............................................       376,607             --
+  Redemption of 6% convertible subordinated notes..........................          (155)            --
+  Payment of long-term and short-term obligations..........................        (9,263)       (30,184)
+  Issuance of long-term and short-term obligations.........................        11,224          1,978
+                                                                              -----------      ---------
+    Net cash provided by financing activities..............................       552,951         45,250
+                                                                              -----------      ---------
+Effect of exchange rate changes on cash....................................        (8,421)        (5,189)
+Net increase in cash and cash equivalents..................................     1,134,921         35,692
+Cash and cash equivalents at beginning of period...........................     1,109,409        835,466
+                                                                              -----------      ---------
+Cash and cash equivalents at end of period.................................   $ 2,235,909      $ 865,969
+                                                                              ===========      =========
+Non-cash activity--conversion of 3 1/4% convertible subordinated notes.....   $   460,399      $  25,864
+              --conversion of 6% convertible subordinated notes............   $   212,595             --
+              --stock issued in business acquisitions......................   $    11,372             --
+</TABLE>
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                       5
+<PAGE>
+                                EMC CORPORATION
+
+                CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+                                 (IN THOUSANDS)
+
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                     FOR THE THREE                     FOR THE NINE
+                                                     MONTHS ENDED                      MONTHS ENDED
+                                            -------------------------------   -------------------------------
+                                            SEPTEMBER 30,    SEPTEMBER 30,    SEPTEMBER 30,    SEPTEMBER 30,
+                                                 2000             1999             2000             1999
+                                            --------------   --------------   --------------   --------------
+<S>                                         <C>              <C>              <C>              <C>
+Net income................................     $458,178         $295,768        $1,219,202        $803,964
+                                               --------         --------        ----------        --------
+Other comprehensive income/(expense), net
+  of tax:
+  Foreign currency translation
+    adjustments, net of tax of $(1,263),
+    $(444), $(3,069) and $(793),
+    respectively..........................       (3,421)            (688)           (6,908)         (4,532)
+
+  Unrealized gains/(losses) on investment
+    securities and derivatives:
+    Unrealized holding gains/(losses)
+      arising during the period, net of
+      tax of $6,435, $(1,055), $6,635 and
+      $(5,372), respectively..............       17,397            2,120            19,947         (10,335)
+                                               --------         --------        ----------        --------
+Other comprehensive income/(expense)......       13,976            1,432            13,039         (14,867)
+                                               --------         --------        ----------        --------
+Comprehensive income......................     $472,154         $297,200        $1,232,241        $789,097
+                                               ========         ========        ==========        ========
+</TABLE>
+
+   The accompanying notes are an integral part of the consolidated financial
+                                  statements.
+
+                                       6
+<PAGE>
+                                EMC CORPORATION
+
+               NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+1. BASIS OF PRESENTATION
+
+    COMPANY
+
+    EMC Corporation and its subsidiaries ("EMC" or the "Company") design,
+manufacture, market and support a wide range of hardware and software and
+provide services for the storage, management, protection and sharing of
+electronic information. These integrated solutions enable organizations to
+create an electronic information infrastructure, or what EMC calls an
+E-Infostructure. EMC is the leading supplier of these solutions, which are
+comprised of enterprise storage systems, networks, software and services. EMC's
+products are sold to customers utilizing a variety of the world's most popular
+computing platforms for key applications, including electronic commerce, data
+warehousing and transaction processing.
+
+    ACCOUNTING
+
+    The accompanying consolidated financial statements are unaudited and have
+been prepared in accordance with generally accepted accounting principles. These
+statements include the accounts of EMC and its subsidiaries. Certain information
+and footnote disclosures normally included in the Company's annual consolidated
+financial statements have been condensed or omitted. The interim consolidated
+financial statements, in the opinion of management, reflect all adjustments
+(consisting only of normal recurring accruals) necessary for a fair statement of
+the results for the interim periods ended September 30, 2000 and 1999.
+
+    The results of operations for the interim periods are not necessarily
+indicative of the results of operations to be expected for the entire fiscal
+year. It is suggested that these interim consolidated financial statements be
+read in conjunction with the audited consolidated financial statements for the
+year ended December 31, 1999, which are contained in the Company's Annual Report
+on Form 10-K filed with the Securities and Exchange Commission on March 17,
+2000.
+
+2. INVENTORIES
+
+    Inventories consist of:
+
+<TABLE>
+<CAPTION>
+                                                      SEPTEMBER 30,   DECEMBER 31,
+                                                          2000            1999
+                                                      -------------   ------------
+<S>                                                   <C>             <C>
+Purchased parts.....................................    $ 49,706        $ 38,204
+Work in process.....................................     619,598         379,679
+Finished goods......................................     199,290         201,002
+                                                        --------        --------
+                                                        $868,594        $618,885
+                                                        ========        ========
+</TABLE>
+
+                                       7
+<PAGE>
+                                EMC CORPORATION
+
+         NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+3. PROPERTY, PLANT AND EQUIPMENT
+
+    Property, plant and equipment consists of:
+
+<TABLE>
+<CAPTION>
+                                                      SEPTEMBER 30,    DECEMBER 31,
+                                                           2000            1999
+                                                      --------------   -------------
+<S>                                                   <C>              <C>
+Furniture and fixtures..............................    $   99,107      $  101,954
+Equipment...........................................     1,431,857       1,237,247
+Buildings and improvements..........................       458,886         439,924
+Land................................................        47,574          32,451
+Construction in progress............................       283,211         106,304
+                                                        ----------      ----------
+                                                         2,320,635       1,917,880
+Accumulated depreciation............................      (975,683)       (894,701)
+                                                        ----------      ----------
+                                                        $1,344,952      $1,023,179
+                                                        ==========      ==========
+</TABLE>
+
+4. NET INCOME PER SHARE
+
+    Calculation of earnings per share is as follows:
+
+<TABLE>
+<CAPTION>
+                                                                FOR THE THREE MONTHS ENDED
+                                                              ------------------------------
+                                                              SEPTEMBER 30,   SEPTEMBER 30,
+                                                                  2000             1999
+                                                              -------------   --------------
+<S>                                                           <C>             <C>
+BASIC:
+Net income..................................................   $  458,178       $  295,768
+Weighted average shares, basic..............................    2,183,409        2,063,248
+Net income per share, basic.................................   $     0.21       $     0.14
+                                                               ==========       ==========
+DILUTED:
+Net income..................................................   $  458,178       $  295,768
+Add back of interest expense on 3 1/4% convertible
+  subordinated notes due 2002...............................           --            4,037
+Less tax effect of interest expense on 3 1/4% convertible
+  subordinated notes due 2002...............................           --           (1,615)
+                                                               ----------       ----------
+Net income for calculating diluted earnings per share.......   $  458,178       $  298,190
+Weighted average shares.....................................    2,183,409        2,063,248
+Weighted common stock equivalents...........................       66,712          156,006
+                                                               ----------       ----------
+Total weighted average shares, diluted......................    2,250,121        2,219,254
+Net income per share, diluted...............................   $     0.20       $     0.13
+                                                               ==========       ==========
+</TABLE>
+
+                                       8
+<PAGE>
+                                EMC CORPORATION
+
+         NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+4. NET INCOME PER SHARE (CONTINUED)
+
+<TABLE>
+<CAPTION>
+                                                                FOR THE NINE MONTHS ENDED
+                                                              -----------------------------
+                                                              SEPTEMBER 30,   SEPTEMBER 30,
+                                                                  2000            1999
+                                                              -------------   -------------
+<S>                                                           <C>             <C>
+BASIC:
+Net income..................................................    $1,219,202      $  803,964
+Weighted average shares, basic..............................     2,154,647       2,056,650
+Net income per share, basic.................................    $     0.57      $     0.39
+                                                                ==========      ==========
+DILUTED:
+Net income..................................................    $1,219,202      $  803,964
+Add back of interest expense on 3 1/4% convertible
+  subordinated notes due 2002...............................         2,987          12,178
+Less tax effect of interest expense on 3 1/4% convertible
+  subordinated notes due 2002...............................        (1,195)         (4,871)
+                                                                ----------      ----------
+Net income for calculating diluted earnings per share.......    $1,220,994      $  811,271
+Weighted average shares.....................................     2,154,647       2,056,650
+Weighted common stock equivalents...........................        87,581         159,282
+                                                                ----------      ----------
+Total weighted average shares, diluted......................     2,242,228       2,215,932
+Net income per share, diluted...............................    $     0.54      $     0.37
+                                                                ==========      ==========
+</TABLE>
+
+    The calculation of earnings per share excludes the Company's 6% convertible
+subordinated notes due 2004 (the "6% Notes"), as the effect of the conversion
+would be antidilutive.
+
+5. EQUITY TRANSACTIONS
+
+    CONVERTIBLE NOTES
+
+    In March 1997, the Company sold $517.5 of its 3 1/4% convertible
+subordinated notes due 2002 (the "3 1/4% Notes"). In March 2000, all of the
+outstanding 3 1/4% Notes were converted into common stock, par value $.01 per
+share, of EMC ("Common Stock"). In May 1997, Data General Corporation ("Data
+General") sold $212.8 of the 6% Notes, which were assumed by the Company in
+connection with the acquisition of Data General in 1999. In May 2000, $212.6 of
+the 6% Notes were converted into Common Stock. The Company paid approximately
+one hundred fifty-five thousand dollars to redeem the remaining 6% Notes.
+
+    STOCK SPLIT
+
+    On May 3, 2000, the Company announced a two-for-one stock split in the form
+of a 100% stock dividend with a record date of May 19, 2000 and a distribution
+date of June 2, 2000. Share and per share amounts have been restated to reflect
+the stock splits for all periods presented.
+
+    ISSUANCE OF SUBSIDIARY STOCK
+
+    On August 9, 2000, the Company completed the initial public offering of
+14,375 shares of Class B common stock of its indirect majority owned subsidiary
+McDATA Corporation (including the exercise
+
+                                       9
+<PAGE>
+                                EMC CORPORATION
+
+         NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+5. EQUITY TRANSACTIONS (CONTINUED)
+of the underwriters' over-allotment option). The offering represented
+approximately 13% of the McDATA common stock outstanding. McDATA offered the
+shares at a price of $28 per share and realized net proceeds from the offering
+of $376,607. McDATA has retained the net proceeds for general corporate
+purposes. After the offering, the Company continues to own approximately 75% of
+the outstanding McDATA common stock which it currently intends to distribute to
+holders of the Common Stock on a pro rata basis, subject to certain conditions.
+The proposed distribution is anticipated to occur in 2001, no later than
+February 8. The Company will, in its sole discretion, determine whether to
+complete this distribution, and the timing, structure and all other terms of the
+distribution. The Company did not recognize any gains in its income statement as
+a result of this transaction. The net proceeds were allocated ratably between
+additional paid-in capital and minority interest in the Company's consolidated
+balance sheet based upon the Company's ownership position in McDATA on the date
+of the offering.
+
+6. LITIGATION
+
+    The Company is a party to certain litigation which it considers routine and
+incidental to its business. Management does not expect the results of any of
+these actions to have a material adverse effect on the Company's business,
+results of operations or financial condition.
+
+7. DERIVATIVES
+
+    The Company uses derivatives to hedge foreign currency cash flows on a
+continuing basis for periods consistent with its net asset and forecasted
+exposures. Since the Company is using foreign exchange derivative contracts to
+hedge foreign exchange exposures, the changes in the value of the derivatives
+are highly effective in offsetting changes in the fair value or cash flows of
+the hedged item. Any ineffective portion of the derivatives is recognized in
+current earnings, which represented immaterial amounts for all periods
+presented. The ineffective portion of the derivatives is primarily related to
+option premiums and to discounts or premiums on forward contracts. The Company's
+derivative contracts generally mature within nine months.
+
+    The Company uses foreign currency forward and option contracts to hedge a
+portion of its forecasted transactions. These derivatives are designated as cash
+flow hedges, and changes in their fair value are carried in accumulated other
+comprehensive income/(expense) until the underlying forecasted transaction
+occurs. Once the underlying forecasted transaction is realized, the appropriate
+gain or loss from the derivative designated as a hedge of the transaction is
+reclassified from accumulated other comprehensive income/(expense) to the income
+statement, in revenue and expense, as appropriate. In the event the underlying
+forecasted transaction does not occur, the amount recorded in accumulated other
+comprehensive income/(expense) will be reclassified to the other
+income/(expense) line of the income statement in the then-current period.
+
+    The Company recorded in revenue and expense approximately $15,541 and
+$23,847 in net gains from cash flow hedges related to items forecasted for the
+third quarter and first nine months of 2000, respectively. The amount that will
+be reclassified from accumulated other comprehensive income/ (expense) to
+earnings over the next twelve months is a gain of approximately $6,436, net of
+tax.
+
+                                       10
+<PAGE>
+                                EMC CORPORATION
+
+         NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+8. BUSINESS ACQUISITIONS
+
+    In January 2000, the Company acquired all of the outstanding common stock of
+Softworks, Inc. by means of a tender offer, whereby all the shares of Softworks
+were converted into the right to receive cash. Also in January 2000, the Company
+acquired all of the outstanding common stock of Terascape Software, Inc. In July
+2000, the Company acquired all of the outstanding common stock of Avalon, Inc.
+and in August 2000, the Company acquired all of the outstanding common stock of
+Digital Bitcasting, Inc. The aggregate cost of these transactions was
+approximately $245 million, net of cash acquired of approximately $28 million.
+
+    The Company accounted for each acquisition as a purchase transaction. The
+interim consolidated financial statements include the operating results of each
+business from the date of acquisition. Pro forma results of operations have not
+been presented because the effects of these acquisitions were not material to
+the Company on either an individual or an aggregate basis.
+
+    The Company calculated amounts allocated to in-process research and
+development ("IPR&D") using established valuation techniques and expensed such
+amounts in the quarter that each acquisition was consummated because
+technological feasibility of the in-process technology had not been achieved and
+no alternate future use has been established. The Company computed its
+valuations of IPR&D for the acquisitions using a discounted cash flow analysis
+on the anticipated income stream to be generated by the purchased technology.
+During the first quarter, the Company recorded a $3,300 charge to research and
+development expense representing the write-off of IPR&D associated with certain
+of these acquisitions.
+
+    The excess of the purchase price over the estimated value of the net
+tangible assets was allocated to various intangible assets, consisting primarily
+of developed technology and goodwill, as well as other intangible assets. The
+value of developed technology was based upon future discounted cash flows
+relating to the existing product's projected income stream. Intangible assets,
+including goodwill, are being amortized on a straight-line basis over their
+estimated useful lives, which is a maximum of five years.
+
+9. RESTRUCTURING, MERGER AND OTHER CHARGES
+
+    During the fourth quarter of 1999, the Company approved and implemented a
+restructuring program in connection with its acquisition of Data General. The
+restructuring plan, which is expected to be substantially completed by December
+2000, provides for the consolidation of the Company's operations and elimination
+of duplicative facilities worldwide. Accordingly, during the fourth quarter of
+1999, the Company recorded a charge of approximately $170.6 million related to
+employee termination benefits, facility closure costs, asset disposals, and
+other exit costs which the Company has recorded in operating expenses. The total
+cash impact of the charge is approximately $140.7 million, of which $52.4
+million was paid in 1999 and $55.3 million has been paid during the first nine
+months of 2000.
+
+    The restructuring plan includes a net reduction of the workforce by
+approximately 1,100 employees, approximately 59% of whom are or were based in
+North America and 23% of whom are or were based in Europe. The employee
+separations affect the majority of business functions and job classes. As of
+September 30, 2000, employee separations due to restructuring actions totaled
+approximately 1,050.
+
+                                       11
+<PAGE>
+                                EMC CORPORATION
+
+         NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+9. RESTRUCTURING, MERGER AND OTHER CHARGES (CONTINUED)
+    During fiscal year 1998, Data General recorded a charge of $82.4 million
+related to a restructuring program. The charge included employee termination
+benefits, asset write-downs, and other exit costs. The total cash impact of the
+restructuring charge is approximately $58.5 million, of which $46.0 million was
+paid prior to December 31, 1999 and $1.8 million was paid during the first nine
+months of 2000. As of September 30, 2000, the remaining accruals of $13.8
+million from the 1998 restructuring program are primarily related to excess
+vacant rental properties in Europe.
+
+    The amounts charged against the established provisions described above were
+as follows:
+
+<TABLE>
+<CAPTION>
+                                         BALANCE          CURRENT          BALANCE
+                                    DECEMBER 31, 1999   UTILIZATION   SEPTEMBER 30, 2000
+                                    -----------------   -----------   ------------------
+<S>                                 <C>                 <C>           <C>
+Employee termination benefits.....      $ 75,481          $47,067           $28,414
+Lease abandonments................        18,655            2,399            16,256
+Asset write-downs.................         4,116            3,337               779
+Other exit costs..................        11,195            8,499             2,696
+                                        --------          -------           -------
+                                        $109,447          $61,302           $48,145
+                                        ========          =======           =======
+</TABLE>
+
+10. SEGMENT INFORMATION
+
+    The Company operates in the following three segments: storage products,
+server products and services. The majority of the Company's revenues are
+generated from the sale of storage hardware and software products. The Company
+also designs, manufactures, markets and supports open systems server products
+through its Data General division. The Company also provides a wide range of
+services to both storage and server customers. The following table presents
+revenues for groups of similar storage products and similar services:
+
+<TABLE>
+<CAPTION>
+                                                FOR THE THREE MONTHS             FOR THE NINE MONTHS
+                                                        ENDED                           ENDED
+                                            -----------------------------   -----------------------------
+                                            SEPTEMBER 30,   SEPTEMBER 30,   SEPTEMBER 30,   SEPTEMBER 30,
+                                                2000            1999            2000            1999
+                                            -------------   -------------   -------------   -------------
+<S>                                         <C>             <C>             <C>             <C>
+STORAGE PRODUCTS:
+Enterprise storage hardware...............   $1,450,630      $1,013,546      $3,922,467      $2,860,180
+Enterprise storage software...............      332,344         206,598         952,589         540,652
+McDATA switching products.................       34,026          24,270         109,996         109,096
+Midrange storage products.................      162,213         114,316         397,486         323,029
+                                             ----------      ----------      ----------      ----------
+Total storage products....................   $1,979,213      $1,358,730      $5,382,538      $3,832,957
+                                             ==========      ==========      ==========      ==========
+SERVICES:
+Storage related services..................   $  161,395      $   92,768      $  412,237      $  251,885
+Server related services...................       71,037          90,622         227,801         279,629
+                                             ----------      ----------      ----------      ----------
+Total service revenue.....................   $  232,432      $  183,390      $  640,038      $  531,514
+                                             ==========      ==========      ==========      ==========
+</TABLE>
+
+    The Company's management makes financial decisions and allocates resources
+based on product segments. The Company's financial reporting focuses on the
+revenues and gross profit for the product
+
+                                       12
+<PAGE>
+                                EMC CORPORATION
+
+         NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+10. SEGMENT INFORMATION (CONTINUED)
+segments. The Company does not allocate marketing, engineering or administrative
+expenses to product segments, as management does not use this information to
+measure the performance of the operating segments. The revenues and gross
+margins attributable to these segments are included in the following table:
+
+<TABLE>
+<CAPTION>
+                                                    STORAGE      SERVER
+FOR THE THREE MONTHS ENDED                          PRODUCTS    PRODUCTS   SERVICES   CONSOLIDATED
+- --------------------------                         ----------   --------   --------   ------------
+<S>                                                <C>          <C>        <C>        <C>
+SEPTEMBER 30, 2000
+Revenues.........................................  $1,979,213   $ 71,360   $232,432    $2,283,005
+Gross profit.....................................   1,205,812     31,113     79,484     1,316,409
+
+SEPTEMBER 30, 1999
+Revenues.........................................  $1,358,730   $166,790   $183,390    $1,708,910
+Gross profit.....................................     773,790     55,648     56,724       886,162
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                                    STORAGE      SERVER
+FOR THE NINE MONTHS ENDED                           PRODUCTS    PRODUCTS   SERVICES   CONSOLIDATED
+- -------------------------                          ----------   --------   --------   ------------
+<S>                                                <C>          <C>        <C>        <C>
+SEPTEMBER 30, 2000
+Revenues.........................................  $5,382,538   $228,954   $640,038    $6,251,530
+Gross profit.....................................   3,299,703     90,653    201,087     3,591,443
+
+SEPTEMBER 30, 1999
+Revenues.........................................  $3,832,957   $475,386   $531,514    $4,839,857
+Gross profit.....................................   2,115,787    156,612    167,388     2,439,787
+</TABLE>
+
+    The Company's sales are attributed to geographic areas according to the
+customer's location. Revenues and identifiable assets by geographic area are
+included in the following table:
+
+<TABLE>
+<CAPTION>
+                                                FOR THE THREE MONTHS             FOR THE NINE MONTHS
+                                                        ENDED                           ENDED
+                                            -----------------------------   -----------------------------
+                                            SEPTEMBER 30,   SEPTEMBER 30,   SEPTEMBER 30,   SEPTEMBER 30,
+                                                2000            1999            2000            1999
+                                            -------------   -------------   -------------   -------------
+<S>                                         <C>             <C>             <C>             <C>
+SALES:
+North America.............................   $1,411,592      $1,097,914      $3,891,309      $3,084,989
+Latin America.............................       54,956          41,682         133,909         114,279
+Europe, Middle East, Africa...............      568,456         453,192       1,633,894       1,330,691
+Asia Pacific..............................      248,001         116,122         592,418         309,898
+                                             ----------      ----------      ----------      ----------
+Consolidated Total........................   $2,283,005      $1,708,910      $6,251,530      $4,839,857
+                                             ==========      ==========      ==========      ==========
+</TABLE>
+
+                                       13
+<PAGE>
+                                EMC CORPORATION
+
+         NOTES TO INTERIM CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+10. SEGMENT INFORMATION (CONTINUED)
+
+<TABLE>
+<CAPTION>
+                                                              SEPTEMBER 30,   DECEMBER 31,
+                                                                  2000            1999
+                                                              -------------   ------------
+<S>                                                           <C>             <C>
+IDENTIFIABLE ASSETS:
+North America...............................................   $ 7,306,405     $4,630,506
+Latin America...............................................        90,960         73,195
+Europe, Middle East, Africa.................................     2,980,858      2,245,460
+Asia Pacific................................................       328,022        306,266
+Intercompany eliminations...................................    (1,030,702)       (82,139)
+                                                               -----------     ----------
+Consolidated Total..........................................   $ 9,675,543     $7,173,288
+                                                               ===========     ==========
+</TABLE>
+
+11. RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+    In December 1999, the Securities and Exchange Commission ("SEC") issued
+Staff Accounting Bulletin No. 101, "Revenue Recognition in Financial
+Statements," subsequently updated by SAB 101A and SAB 101B ("SAB 101"). SAB 101
+summarizes certain of the SEC's views in applying generally accepted accounting
+principles to revenue recognition in financial statements. The Company is
+required to adopt SAB 101 no later than the fourth quarter of fiscal 2000. The
+Company does not expect that the adoption of SAB 101 will have a material impact
+on its results of operations or financial position.
+
+    In March 2000, the Financial Accounting Standards Board issued FASB
+Interpretation No. 44, "Accounting for Certain Transactions Involving Stock
+Compensation--an interpretation of APB Opinion No. 25" ("FIN 44"). FIN 44
+clarifies the application of APB Opinion No. 25 and among other issues clarifies
+the following: the definition of an employee for purposes of applying APB
+Opinion No. 25, the criteria for determining whether a plan qualifies as a
+noncompensatory plan, the accounting consequences of various modifications to
+the terms of previously fixed stock options or awards, and the accounting for an
+exchange of stock compensation awards in a business combination. FIN 44 was
+effective as of July 1, 2000, but certain conclusions in FIN 44 cover specific
+events that occurred after either December 15, 1998 or January 12, 2000. The
+Company adopted FIN 44 for the third quarter of 2000 and there was no material
+impact on the Company's results of operations or financial position for such
+quarter.
+
+    In June 2000, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 138, "Accounting for Certain Derivative
+Instruments and Certain Hedging Activities--an amendment of FAS 133" ("FAS
+138"). This statement amends the accounting and reporting standards for certain
+derivative instruments and hedging activities. For an entity that has adopted
+Statement of Financial Accounting Standards No. 133 prior to June 15, 2000, FAS
+138 is effective for all fiscal quarters beginning after June 15, 2000. The
+Company adopted FAS 138 for the third quarter of 2000 and there was no material
+impact on the Company's results of operations or financial position for such
+quarter.
+
+12. SUBSEQUENT EVENT
+
+    As of October 31, 2000, the Company acquired all of the outstanding common
+stock of CrosStor Software, Inc. in exchange for approximately $300 million in
+Common Stock. The transaction is being accounted for as a pooling-of interests.
+CrosStor develops high-performance software for networked storage systems.
+
+                                       14
+<PAGE>
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                           AND RESULTS OF OPERATIONS
+
+This Management's Discussion and Analysis of Financial Condition and Results of
+Operations should be read in conjunction with "Factors That May Affect Future
+Results" set forth on page 22 and in EMC's other filings with the U.S.
+Securities and Exchange Commission.
+
+ALL DOLLAR AMOUNTS IN THIS MANAGEMENT'S DISCUSSION AND ANALYSIS ARE IN MILLIONS.
+
+RESULTS OF OPERATIONS--THIRD QUARTER OF 2000 COMPARED TO THIRD QUARTER OF 1999
+
+    REVENUES
+
+    Total revenues for the third quarter of 2000 were $2,283.0 compared to
+$1,708.9 for the third quarter of 1999, representing an increase of $574.1, or
+34%.
+
+    Enterprise storage hardware revenues were $1,450.6 in the third quarter of
+2000, compared to $1,013.5 in the third quarter of 1999, representing an
+increase of $437.1, or 43%. The increase in enterprise systems revenues was due
+to increased sales volume resulting from continued strong demand for the
+Company's Symmetrix series of products and the successful introduction of new
+hardware products. These products address the growing demand for enterprise-wide
+storage solutions, allowing users to move, store and protect mission critical
+information in UNIX, Windows NT and mainframe environments.
+
+    Enterprise storage software revenues were $332.3 in the third quarter of
+2000 compared to $206.6 in the third quarter of 1999, representing an increase
+of $125.7, or 61%. The increase in software revenues was primarily due to
+increased licenses of enterprise storage software on Symmetrix systems both
+newly shipped and already installed, and the successful introduction of new and
+enhanced software products.
+
+    Revenues from enterprise switching products sold directly by McDATA Holdings
+Corporation, a wholly owned subsidiary of EMC and the direct parent of McDATA
+Corporation ("McDATA Holdings"), including the ESCON Director series of
+products, were $34.0 in the third quarter of 2000 compared to $24.3 in the third
+quarter of 1999, representing an increase of $9.7, or 40%. The increase was due
+to increased sales of fibre channel-based directors. ESCON revenues were
+generally unchanged compared to the third quarter of 1999. The Company
+anticipates that future revenues from ESCON directors will generally decline.
+
+    Revenues from the midrange line of storage products, including the CLARiiON
+product line, were $162.2 in the third quarter of 2000, compared to $114.3 in
+the third quarter of 1999, excluding related service revenues. This increase of
+$47.9, or 42%, reflects a significant increase in sales volume from non-original
+equipment manufacturer sales channels offset in part by a decrease in sales
+volume from indirect channels.
+
+    Total storage product revenues were $1,979.2 in the third quarter of 2000,
+compared to $1,358.7 in the third quarter of 1999, representing an increase of
+$620.5, or 46%. The increase is due primarily to increased sales of enterprise
+storage hardware and software products.
+
+    Revenues from AViiON server products were $71.4 in the third quarter of 2000
+compared to $166.8 in the third quarter of 1999, representing a decrease of
+$95.4, or 57%. The decrease in revenue was primarily the result of reduced
+volume due to the refocusing of the AViiON business on the most profitable
+product lines combined with the effect of closing certain international sales
+offices. In addition, the Company is reallocating AViiON resources within the
+consolidated Company.
+
+    Overall service revenues were $232.4 in the third quarter of 2000 compared
+to $183.4 in the third quarter of 1999, an increase of $49.0, or 27%. Storage
+service revenues were $161.4 in the third quarter
+
+                                       15
+<PAGE>
+of 2000 compared to $92.8 in the third quarter of 1999, an increase of $68.6, or
+74%. These increases were primarily related to increased maintenance revenues on
+enterprise storage hardware and software products and increased revenues from
+professional services. Server service revenues from the Company's Data General
+division were $71.0 in the third quarter of 2000 compared to $90.6 in the third
+quarter of 1999, a decrease of $19.6, or 22%. The decrease is primarily due to
+the refocusing of the AViiON business combined with the effect of closing
+certain international sales offices.
+
+    Total revenues from storage products and services were $2,140.6 in the third
+quarter of 2000, compared to $1,451.5 in the third quarter of 1999, representing
+an increase of $689.1, or 47%. Total revenues from server products and services
+were $142.4 in the third quarter of 2000, compared to $257.4 in the third
+quarter of 1999, representing a decrease of $115.0, or 45%.
+
+    Revenues on sales into the North American markets were $1,411.6 in the third
+quarter of 2000 compared to $1,097.9 in the third quarter of 1999, an increase
+of $313.7, or 29%. The revenue growth reflects strong demand for the Company's
+storage products and services, which increased by 41% compared to the third
+quarter of 1999. This growth was offset in part by a decrease in AViiON server
+revenues due to the refocusing of the business on the most profitable product
+lines.
+
+    Revenues on sales into the markets of Europe, the Middle East and Africa
+were $568.5 in the third quarter of 2000 compared to $453.2 in the third quarter
+of 1999, an increase of $115.3, or 25%. The increase is primarily due to strong
+demand for the Company's storage products and services, which increased by 39%
+compared to the third quarter of 1999. This growth was offset by decreased
+revenues from AViiON products due to the closing of certain regional sales
+offices acquired in connection with the acquisition of Data General in 1999.
+
+    Revenues on sales into the markets of the Asia Pacific region were $248.0 in
+the third quarter of 2000 compared to $116.1 in the third quarter of 1999, an
+increase of $131.9, or 114%. The increase was primarily due to the Company's
+efforts to expand its business in this region combined with continued strong
+demand for the Company's storage products and services, which increased by 130%
+compared to the third quarter of 1999. This growth was offset in part by
+decreased revenues from AViiON products due to the closing of certain regional
+sales offices acquired in connection with the acquisition of Data General in
+1999.
+
+    Revenues on sales into the markets of Latin America were $55.0 in the third
+quarter of 2000 compared to $41.7 in the third quarter of 1999, an increase of
+$13.3, or 32%. The increase was primarily due to strong demand for the Company's
+storage products and services, which increased by 62% compared to the third
+quarter of 1999. This growth was offset by decreased revenues from AViiON
+products due to the closing of certain regional sales offices acquired in
+connection with the acquisition of Data General in 1999.
+
+    GROSS MARGINS
+
+    Overall gross margins increased to 57.7% of revenues in the third quarter of
+2000, compared to 51.9% of revenues in the third quarter of 1999. Product gross
+margins increased to 60.3% in the third quarter of 2000, compared to 54.4% in
+the third quarter of 1999. This increase in product margins was primarily
+attributable to increased licensing of the Company's enterprise software
+products, which has higher gross margins than sales of the Company's hardware
+products. Software revenue as a percentage of total revenues increased to 15% in
+the third quarter of 2000 from 12% in the third quarter of 1999. Other factors
+affecting product gross margins include the impact of component cost declines
+being greater than the impact of product price declines. The Company currently
+believes that product price declines will continue.
+
+    Service gross margins increased to 34.2% in the third quarter of 2000,
+compared to 30.9% in the third quarter of 1999. This increase in service margins
+from 1999 to 2000 was primarily due to a
+
+                                       16
+<PAGE>
+decrease in less profitable service revenues for Data General products caused by
+the closure of certain international sales offices.
+
+    RESEARCH AND DEVELOPMENT
+
+    Research and development ("R&D") expenses were $204.8 and $149.4 in the
+third quarters of 2000 and 1999, respectively, an increase of $55.4, or 37%. R&D
+expenses were 9.0% and 8.7% of revenues in the third quarters of 2000 and 1999,
+respectively. The increase in R&D spending levels from 1999 to 2000 reflects the
+Company's ongoing research and development efforts in a variety of areas,
+including EMC Enterprise Storage Network technologies, network attached storage
+products, enhancements to the Symmetrix family of products, new enterprise
+storage software products and fibre channel connectivity products. The Company
+expects to continue to spend substantial amounts for R&D for the balance of 2000
+and thereafter.
+
+    SELLING, GENERAL AND ADMINISTRATIVE
+
+    Selling, general and administrative ("SG&A") expenses were $533.1 and $363.8
+in the third quarters of 2000 and 1999, respectively, an increase of $169.3, or
+47%. SG&A expenses were 23.4% and 21.3% of revenues in the third quarters of
+2000 and 1999, respectively. The increase in spending levels was primarily due
+to the Company's efforts to build an infrastructure to achieve broader coverage
+and greater account depth around the world and to expand its technical sales
+organization to support the current and expected growth in software revenues.
+
+    INVESTMENT INCOME AND INTEREST EXPENSE
+
+    Investment income increased to $54.4 in the third quarter of 2000 from $34.4
+in the third quarter of 1999. Interest income was earned primarily from
+investments in cash equivalents and short and long-term investments. Investment
+income increased in the third quarter of 2000 primarily due to higher cash and
+investment balances which were derived from operations and the net proceeds from
+McDATA's initial public offering.
+
+    Interest expense decreased to $2.2 in the third quarter of 2000 from $7.9 in
+the third quarter of 1999 primarily due to conversion of the Company's 3 1/4%
+convertible subordinated notes due 2002 (the "3 1/4% Notes") in March 2000 and
+the Company's 6% convertible subordinated notes due 2004 (the "6% Notes") in May
+2000.
+
+    PROVISION FOR INCOME TAXES
+
+    The provision for income taxes was $169.5 and $103.9 in the third quarters
+of 2000 and 1999, respectively, which resulted in effective tax rates of 27.0%
+and 26.0%, respectively. The effective tax rate is less than U.S. statutory
+rates due to the Company's various tax strategies and benefits related to
+offshore manufacturing.
+
+                                       17
+<PAGE>
+RESULTS OF OPERATIONS--FIRST NINE MONTHS OF 2000 COMPARED TO FIRST NINE MONTHS
+  OF 1999
+
+    REVENUES
+
+    Total revenues for the first nine months of 2000 were $6,251.5 compared to
+$4,839.9 for the first nine months of 1999, representing an increase of
+$1,411.6, or 29%.
+
+    Enterprise storage hardware revenues were $3,922.5 in the first nine months
+of 2000, compared to $2,860.2 in the first nine months of 1999, representing an
+increase of $1,062.3, or 37%. The increase in enterprise systems revenues was
+due to increased sales volume resulting from continued strong demand for the
+Company's Symmetrix series of products and the successful introduction of new
+hardware products. These products address the growing demand for enterprise-wide
+storage solutions, allowing users to move, store and protect mission critical
+information in UNIX, Windows NT and mainframe environments.
+
+    Enterprise storage software revenues were $952.6 in the first nine months of
+2000 compared to $540.7 in the first nine months of 1999, representing an
+increase of $411.9, or 76%. The increase in software revenues was primarily due
+to increased licenses of enterprise storage software on Symmetrix systems both
+newly shipped and already installed, and the successful introduction of new and
+enhanced software products.
+
+    Revenues from enterprise switching products sold directly by McDATA
+Holdings, including the ESCON Director series of products, were $110.0 in the
+first nine months of 2000 compared to $109.1 in the first nine months of 1999,
+representing an increase of $0.9, or 1%. The results reflect increased sales of
+fibre channel-based directors offset by a decrease in ESCON revenues. The
+Company anticipates that future revenues from ESCON directors will generally
+decline.
+
+    Revenues from the midrange line of storage products, including the CLARiiON
+product line, were $397.5 in the first nine months of 2000, compared to $323.0
+in the first nine months of 1999, excluding related service revenues. This
+increase of $74.5, or 23%, reflects a significant increase in sales volume from
+non-original equipment manufacturer sales channels offset in part by a decrease
+in sales volume from indirect channels.
+
+    Total storage product revenues were $5,382.5 in the first nine months of
+2000, compared to $3,833.0 in the first nine months of 1999, representing an
+increase of $1,549.5, or 40%. The increase is due primarily to increased sales
+of enterprise storage hardware and software.
+
+    Revenues from AViiON server products were $229.0 in the first nine months of
+2000 compared to $475.4 in the first nine months of 1999, representing a
+decrease of $246.4, or 52%. The decrease in revenue was primarily the result of
+reduced volume due to the refocusing of the AViiON business on the most
+profitable product lines combined with the effect of closing certain
+international sales offices. In addition, the Company is reallocating AViiON
+resources within the consolidated Company.
+
+    Overall service revenues were $640.0 in the first nine months of 2000
+compared to $531.5 in the first nine months of 1999, an increase of $108.5, or
+20%. Storage service revenues were $412.2 in the first nine months of 2000
+compared to $251.9 in the first nine months of 1999, an increase of $160.3, or
+64%. These increases are primarily related to increased maintenance revenues on
+enterprise storage hardware and software products and increased revenues from
+professional services. Server service revenues from the Company's Data General
+division were $227.8 in the first nine months of 2000 compared to $279.6 in the
+first nine months of 1999, a decrease of $51.8, or 19%. The decrease is
+primarily due to the refocusing of the AViiON business combined with the effect
+of closing certain international sales offices.
+
+    Total revenues from storage products and services were $5,794.8 in the first
+nine months of 2000, compared to $4,084.8 in the first nine months of 1999,
+representing an increase of $1,710.0, or 42%.
+
+                                       18
+<PAGE>
+Total revenues from server products and services were $456.8 in the first nine
+months of 2000, compared to $755.0 in the first nine months of 1999,
+representing a decrease of $298.2, or 40%.
+
+    Revenues on sales into the North American markets were $3,891.3 in the first
+nine months of 2000 compared to $3,085.0 in the first nine months of 1999, an
+increase of $806.3, or 26%. The revenue growth reflects strong demand for the
+Company's storage products and services, which increased by 37% compared to the
+first nine months of 1999. This growth was offset by a decrease in AViiON server
+revenues due to the refocusing of the business on the most profitable product
+lines.
+
+    Revenues on sales into the markets of Europe, the Middle East and Africa
+were $1,633.9 in the first nine months of 2000 compared to $1,330.7 in the first
+nine months of 1999, an increase of $303.2, or 23%. The increase is primarily
+due to strong demand for the Company's storage and switching products and
+services, which increased by 35% compared to the first nine months of 1999. This
+growth was offset by decreased revenues from AViiON products due to the closing
+of certain regional sales offices acquired in connection with the acquisition of
+Data General in 1999.
+
+    Revenues on sales into the markets of the Asia Pacific region were $592.4 in
+the first nine months of 2000 compared to $309.9 in the first nine months of
+1999, an increase of $282.5, or 91%. The increase was primarily due to the
+Company's efforts to expand its business in this region combined with continued
+strong demand for the Company's storage products and services, which increased
+by 108% compared to the first nine months of 1999. This growth was offset by
+decreased revenues from AViiON products due to the closing of certain regional
+sales offices acquired in connection with the acquisition of Data General in
+1999.
+
+    Revenues on sales into the markets of Latin America were $133.9 in the first
+nine months of 2000 compared to $114.3 in the first nine months of 1999, an
+increase of $19.6, or 17%. The increase was primarily due to increased sales of
+the Company's storage products and services, which increased by 49% compared to
+the first nine months of 1999. This growth was offset by decreased revenues from
+AViiON products due to the closing of certain regional offices acquired in
+connection with the acquisition of Data General in 1999.
+
+    GROSS MARGINS
+
+    Overall gross margins increased to 57.4% of revenues in the first nine
+months of 2000, compared to 50.4% of revenues in the first nine months of 1999.
+Product gross margins increased to 60.4% in the first nine months of 2000,
+compared to 52.7% in the first nine months of 1999. This increase in product
+margins is primarily attributable to increased licensing of the Company's
+enterprise software products, which has higher gross margins than sales of the
+Company's hardware products. Software revenue as a percentage of total revenues
+increased to 15% in the first nine months of 2000 from 11% in the first nine
+months of 1999. Other factors affecting product gross margins include the impact
+of component cost declines being greater than the impact of product price
+declines. The Company currently believes that product price declines will
+continue.
+
+    Service gross margins decreased to 31.4% in the first nine months of 2000,
+compared to 31.5% in the first nine months of 1999.
+
+    RESEARCH AND DEVELOPMENT
+
+    Research and development ("R&D") expenses were $560.9 and $418.5 in the
+first nine months of 2000 and 1999, respectively, an increase of $142.4, or 34%.
+R&D expenses were 9.0% and 8.6% of revenues in the first nine months of 2000 and
+1999, respectively. The increase in R&D spending levels from 1999 to 2000
+reflects the Company's ongoing research and development efforts in a variety of
+areas, including EMC Enterprise Storage Network technologies, network attached
+storage products,
+
+                                       19
+<PAGE>
+enhancements to the Symmetrix family of products, new enterprise storage
+software products and fibre channel connectivity products. The Company expects
+to continue to spend substantial amounts for R&D for the balance of 2000 and
+thereafter.
+
+    SELLING, GENERAL AND ADMINISTRATIVE
+
+    Selling, general and administrative ("SG&A") expenses were $1,487.4 and
+$1,010.7 in the first nine months of 2000 and 1999, respectively, an increase of
+$476.7, or 47%. SG&A expenses were 23.8% and 20.9% of revenues in the first nine
+months of 2000 and 1999, respectively. The increase in spending levels from 1999
+to 2000 is primarily due to the Company's efforts to build an infrastructure to
+achieve broader coverage and greater account depth around the world and to
+expand its technical sales organization to support the current and expected
+growth in software revenues.
+
+    INVESTMENT INCOME AND INTEREST EXPENSE
+
+    Investment income increased to $143.1 in the first nine months of 2000 from
+$92.5 in the first nine months of 1999. Interest income was earned primarily
+from investments in cash equivalents and short and long-term investments.
+Investment income increased in the first nine months of 2000 primarily due to
+higher cash and investment balances which were derived from operations and the
+net proceeds from McDATA's initial public offering.
+
+    Interest expense decreased to $12.0 in the first nine months of 2000 from
+$24.8 in the first nine months of 1999 primarily due to conversion of the
+Company's 3 1/4% Notes during March 2000 and the Company's 6% Notes during May
+2000.
+
+    PROVISION FOR INCOME TAXES
+
+    The provision for income taxes was $450.9 and $274.8 in the first nine
+months of 2000 and 1999, respectively, which resulted in effective tax rates of
+27.0% and 25.5%, respectively. The effective tax rate is less than U.S.
+statutory rates due to the Company's various tax strategies and benefits related
+to offshore manufacturing.
+
+    RESTRUCTURING, MERGER AND OTHER CHARGES
+
+    During the fourth quarter of 1999, the Company approved and implemented a
+restructuring program in connection with its acquisition of Data General. The
+restructuring plan, which is expected to be substantially completed by December
+2000, provides for the consolidation of the Company's operations and elimination
+of duplicative facilities worldwide. Accordingly, during the fourth quarter of
+1999, the Company recorded a charge of approximately $170.6 related to employee
+termination benefits, facility closure costs, asset disposals, and other exit
+costs which the Company has recorded in operating expenses. The total cash
+impact of the charge is approximately $140.7, of which $52.4 was paid in 1999
+and $55.3 has been paid during the first nine months of 2000.
+
+    The restructuring plan includes a net reduction of the workforce by
+approximately 1,100 employees, approximately 59% of whom are or were based in
+North America and 23% of whom are or were based in Europe. The employee
+separations affect the majority of business functions and job classes. As of
+September 30, 2000, employee separations due to restructuring actions totaled
+approximately 1,050.
+
+    During fiscal year 1998, Data General recorded a charge of $82.4 related to
+a restructuring program. The charge included employee termination benefits,
+asset write-downs, and other exit costs. The total cash impact of the
+restructuring charge is approximately $58.5, of which $46.0 was paid prior to
+December 31, 1999 and $1.8 was paid during the first nine months of 2000. As of
+September 30,
+
+                                       20
+<PAGE>
+2000, the remaining accruals of $13.8 from the 1998 restructuring program are
+primarily related to excess vacant rental properties in Europe.
+
+    The amounts charged against the established provisions described above were
+as follows:
+
+<TABLE>
+<CAPTION>
+                                                         BALANCE          CURRENT          BALANCE
+(IN THOUSANDS)                                      DECEMBER 31, 1999   UTILIZATION   SEPTEMBER 30, 2000
+- --------------                                      -----------------   -----------   ------------------
+<S>                                                 <C>                 <C>           <C>
+Employee termination benefits.....................      $ 75,481          $47,067           $28,414
+Lease abandonments................................        18,655            2,399            16,256
+Asset write-downs.................................         4,116            3,337               779
+Other exit costs..................................        11,195            8,499             2,696
+                                                        --------          -------           -------
+                                                        $109,447          $61,302           $48,145
+                                                        ========          =======           =======
+</TABLE>
+
+    FINANCIAL CONDITION
+
+    Cash and cash equivalents and short and long-term investments were $4,446.7
+and $3,173.7 at September 30, 2000 and December 31, 1999, respectively, an
+increase of $1,273.0. Cash provided by operating activities for the first nine
+months of 2000 was $1,603.4, generated primarily from net income. Cash used by
+investing activities was $1,021.5, principally from the acquisition of
+Softworks, Inc. and additions to property, plant and equipment. Cash provided by
+financing activities was $553.0, principally from the issuance of stock in
+McDATA's initial public offering and from stock option exercises.
+
+    In March 1997, the Company sold $517.5 of the 3 1/4% Notes. In March 2000,
+all of the outstanding 3 1/4% Notes were converted into Common Stock. In May
+1997, Data General sold $212.8 of the 6% Notes, which were assumed by the
+Company in connection with the acquisition of Data General in 1999. In May 2000,
+$212.6 of the 6% Notes were converted into Common Stock. The Company paid
+approximately one hundred fifty-five thousand dollars to redeem the remaining 6%
+Notes.
+
+    At September 30, 2000, the Company had available for use its credit line of
+$50.0 and may elect to borrow at any time. Based on its current operating and
+capital expenditure forecasts, the Company believes that the combination of
+funds currently available, funds generated from operations and its available
+line of credit will be adequate to finance its ongoing operations.
+
+    NEW ACCOUNTING PRONOUNCEMENTS
+
+    In December 1999, the Securities and Exchange Commission (SEC) issued Staff
+Accounting Bulletin No. 101, "Revenue Recognition in Financial Statements,"
+subsequently updated by SAB 101A and SAB 101B ("SAB 101"). SAB 101 summarizes
+certain of the SEC's views in applying generally accepted accounting principles
+to revenue recognition in financial statements. The Company is required to adopt
+SAB 101 no later than the fourth quarter of fiscal 2000. The Company does not
+expect that the adoption of SAB 101 will have a material impact on its results
+of operations or financial position.
+
+    In March 2000, the Financial Accounting Standard Board issued FASB
+Interpretation No. 44, "Accounting for Certain Transactions Involving Stock
+Compensation--an interpretation of APB Opinion No. 25" ("FIN 44"). FIN 44
+clarifies the application of APB Opinion No. 25 and among other issues clarifies
+the following: the definition of an employee for purposes of applying APB
+Opinion No. 25, the criteria for determining whether a plan qualifies as a
+noncompensatory plan, the accounting consequence of various modifications to the
+terms of previously fixed stock options or awards, and the accounting for an
+exchange of stock compensation awards in a business combination. FIN 44 was
+effective July 1, 2000, but certain conclusions in FIN 44 cover specific events
+that occurred after either December 15, 1998 or January 12, 2000. The Company
+adopted FIN 44 for the third quarter of 2000 and there was no material impact on
+the Company's results of operations or financial position for such quarter.
+
+                                       21
+<PAGE>
+    In June 2000, the Financial Accounting Standards Board issued Statement of
+Financial Accounting Standards No. 138, "Accounting for Certain Derivative
+Instruments and Certain Hedging Activities--an amendment of FAS 133" ("FAS
+138"). This statement amends the accounting and reporting standards for certain
+derivative instruments and hedging activities. For an entity that has adopted
+Statement of Financial Accounting Standards No. 133 prior to June 15, 2000, FAS
+138 is effective for all fiscal quarters beginning after June 15, 2000. The
+Company adopted FAS 138 for the third quarter of 2000 and there was no material
+impact on its results of operations or financial position for such quarter.
+
+    FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+    This quarterly report contains "forward-looking statements" as defined under
+the Federal Securities Laws. Actual results could differ materially from those
+projected in the forward-looking statements as a result of certain risk factors,
+including but not limited to: (i) component quality and availability; (ii)
+delays in the development of new technology and the transition to new products;
+(iii) competitive factors, including but not limited to pricing pressures, in
+the computer storage and server markets; (iv) the relative and varying rates of
+product price and component cost declines; (v) economic trends in various
+geographic markets and fluctuating currency exchange rates; (vi) the ability to
+attract and retain highly qualified employees; (vii) deterioration or
+termination of the agreements with certain of the Company's indirect channels;
+(viii) the uneven pattern of quarterly sales; (ix) risks associated with
+strategic investments and acquisitions; and (x) other one-time events and other
+important factors disclosed previously and from time to time in EMC's filings
+with the U.S. Securities and Exchange Commission.
+
+                                       22
+<PAGE>
+                                EMC CORPORATION
+
+                                    PART II.
+                               OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+    The Company is a party to certain litigation which it considers routine and
+incidental to its business. Management does not expect the results of any of
+these actions to have a material adverse effect on the Company's business,
+results of operations or financial condition.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+    (A) EXHIBITS
+
+       27 Financial Data Schedule (filed herewith).
+
+    (B) REPORTS ON FORM 8-K
+
+       The Company did not file any Current Reports on Form 8-K during the
+       quarter ended September 30, 2000.
+
+                                       23
+<PAGE>
+                                   SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+<TABLE>
+<S>                                            <C>  <C>
+                                               EMC CORPORATION
+
+Date: November 9, 2000                         By:             /s/ WILLIAM J. TEUBER, JR.
+                                                    ------------------------------------------------
+                                                                 William J. Teuber, Jr.
+                                                    SENIOR VICE PRESIDENT AND CHIEF FINANCIAL OFFICER
+                                                        (PRINCIPAL FINANCIAL AND CHIEF ACCOUNTING
+                                                                        OFFICER)
+</TABLE>
+
+                                       24
+<PAGE>
+                                 EXHIBIT INDEX
+
+    Exhibit 27 Financial Data Schedule (filed herewith)
+
+                                       25
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>a2030068zex-27.txt
+<DESCRIPTION>EXHIBIT 27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM EMC
+CORPORATION FINANCIAL STATEMENTS AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE
+TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                       2,235,909
+<SECURITIES>                                   472,174
+<RECEIVABLES>                                1,836,673
+<ALLOWANCES>                                    35,413
+<INVENTORY>                                    868,594
+<CURRENT-ASSETS>                             5,724,766
+<PP&E>                                       1,344,952
+<DEPRECIATION>                                 975,683
+<TOTAL-ASSETS>                               9,675,543
+<CURRENT-LIABILITIES>                        1,873,677
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        21,880
+<OTHER-SE>                                   7,481,196
+<TOTAL-LIABILITY-AND-EQUITY>                 9,675,543
+<SALES>                                      5,611,492
+<TOTAL-REVENUES>                             6,251,530
+<CGS>                                        2,660,087
+<TOTAL-COSTS>                                4,708,352
+<OTHER-EXPENSES>                                     0
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              12,023
+<INCOME-PRETAX>                              1,670,139
+<INCOME-TAX>                                   450,937
+<INCOME-CONTINUING>                          1,219,202
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                 1,219,202
+<EPS-BASIC>                                        .57
+<EPS-DILUTED>                                      .54
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

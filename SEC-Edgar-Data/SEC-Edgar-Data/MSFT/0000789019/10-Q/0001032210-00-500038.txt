@@ -1,0 +1,1953 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Uf2/W5Gz1XoTvlbIjz0gZ2SS1Rxxplc4HngRizYe4SFfPN+BIqiIf0Li+0zvWfOX
+ BfhFu1P/sy0Oz6qGTOqPMg==
+
+<SEC-DOCUMENT>/in/edgar/work/0001032210-00-500038/0001032210-00-500038.txt : 20001116
+<SEC-HEADER>0001032210-00-500038.hdr.sgml : 20001116
+ACCESSION NUMBER:		0001032210-00-500038
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		11
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICROSOFT CORP
+		CENTRAL INDEX KEY:			0000789019
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [7372
+]		IRS NUMBER:				911144442
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0630
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-14278
+			FILM NUMBER:		769268
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		ONE MICROSOFT WAY #BLDG 8
+				STREET 2:		NORTH OFFICE 2211
+				CITY:			REDMOND
+				STATE:			WA
+				ZIP:			98052
+				BUSINESS PHONE:		4258828080
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		ONE MICROSOFT WAY - BLDG 8
+					STREET 2:		NORTH OFFICE 2211
+					CITY:			REDMOND
+					STATE:			WA
+					ZIP:			98052-6399
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>0001.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>
+
+================================================================================
+
+                                 UNITED STATES
+                      SECURITIES AND EXCHANGE COMMISSION
+                            WASHINGTON, D.C.  20549
+
+                              ------------------
+
+                                   FORM 10-Q
+
+           [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+                    OF THE SECURITIES EXCHANGE ACT OF 1934
+
+               For the Quarterly Period Ended September 30, 2000
+
+           [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+                    OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                 For the Transition Period From _____ to ____
+
+                              ------------------
+
+                        Commission File Number 0-14278
+
+                             MICROSOFT CORPORATION
+            (Exact name of registrant as specified in its charter)
+
+                  Washington                      91-1144442
+         (State or other jurisdiction of       (I.R.S. Employer
+          incorporation or organization)      Identification No.)
+
+             One Microsoft Way, Redmond, Washington   98052-6399
+             (Address of principal executive office)  (Zip Code)
+
+      Registrant's telephone number, including area code:  (425) 882-8080
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes [X]    No [ ]
+
+The number of shares outstanding of the registrant's common stock as of October
+31, 2000 was 5,332,337,924.
+
+================================================================================
+
+<PAGE>
+
+                             MICROSOFT CORPORATION
+
+                                   FORM 10-Q
+
+                   For the Quarter Ended September 30, 2000
+
+                                     INDEX
+<TABLE>
+<CAPTION>
+Part I.   Financial Information
+
+Item 1.   Financial Statements                                              Page
+                                                                            ----
+<S>                                                                         <C>
+          a)   Income Statements
+               for the Three Months Ended September 30, 1999 and 2000...      3
+
+          b)   Balance Sheets
+               as of June 30, 2000 and September 30, 2000...............      4
+
+          c)   Cash Flows Statements
+               for the Three Months Ended September 30, 1999 and 2000...      5
+
+          d)   Stockholders' Equity Statements
+               for the Three Months Ended September 30, 1999 and 2000...      6
+
+          e)   Notes to Financial Statements............................      7
+
+     Item 2.   Management's Discussion and Analysis of Financial
+               Condition and Results of Operations......................     13
+
+     Item 3.   Quantitative and Qualitative Disclosures About
+               Market Risk..............................................     17
+
+Part II.  Other Information
+
+     Item 1.   Legal Proceedings........................................     18
+
+     Item 2.   Changes in Securities and Use of Proceeds................     18
+
+     Item 6.   Exhibits and Reports on Form 8-K.........................     18
+
+Signature...............................................................     19
+
+</TABLE>
+
+<PAGE>
+
+                        Part I.  Financial Information
+
+Item 1.   Financial Statements
+
+MICROSOFT CORPORATION
+
+Income Statements
+(In millions, except earnings per share)(Unaudited)
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                  Three Months Ended
+                                                                      Sept. 30
+                                                               1999                 2000
+- ----------------------------------------------------------------------------------------
+<S>                                                          <C>                  <C>
+Revenue                                                      $5,384               $5,800
+Operating expenses:
+  Cost of revenue                                               712                  859
+  Research and development                                      813                  956
+  Sales and marketing                                           922                1,038
+  General and administrative                                    148                  170
+- ----------------------------------------------------------------------------------------
+    Total operating expenses                                  2,595                3,023
+- ----------------------------------------------------------------------------------------
+Operating income                                              2,789                2,777
+Losses on equity investees and other                            (19)                 (52)
+Investment income                                               550                1,127
+- ----------------------------------------------------------------------------------------
+Income before income taxes                                    3,320                3,852
+Provision for income taxes                                    1,129                1,271
+- ----------------------------------------------------------------------------------------
+Income before accounting change                               2,191                2,581
+Cumulative effect of accounting change (net of
+  income taxes of $185)                                           -                 (375)
+- ----------------------------------------------------------------------------------------
+Net income                                                   $2,191               $2,206
+========================================================================================
+
+Basic earnings per share:
+  Before accounting change                                   $ 0.43               $ 0.49
+  Cumulative effect of accounting change                          -                (0.07)
+- ----------------------------------------------------------------------------------------
+                                                             $ 0.43               $ 0.42
+========================================================================================
+
+Diluted earnings per share:
+  Before accounting change                                   $ 0.40               $ 0.46
+  Cumulative effect of accounting change                          -                (0.06)
+- ----------------------------------------------------------------------------------------
+                                                             $ 0.40               $ 0.40
+========================================================================================
+
+Average shares outstanding:
+  Basic                                                       5,129                5,299
+- ----------------------------------------------------------------------------------------
+  Diluted                                                     5,527                5,557
+========================================================================================
+</TABLE>
+
+                            See accompanying notes.
+
+                                       3
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Balance Sheets
+(In millions)
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                  June 30         Sept. 30
+                                                                                    2000           2000 (1)
+- -----------------------------------------------------------------------------------------------------------
+<S>                                                                               <C>             <C>
+Assets
+Current assets:
+  Cash and equivalents                                                            $ 4,846           $ 2,641
+  Short-term investments                                                           18,952            22,070
+- -----------------------------------------------------------------------------------------------------------
+    Total cash and short-term investments                                          23,798            24,711
+  Accounts receivable                                                               3,250             3,172
+  Deferred income taxes                                                             1,708             1,734
+  Other                                                                             1,552             1,776
+- -----------------------------------------------------------------------------------------------------------
+    Total current assets                                                           30,308            31,393
+Property and equipment, net                                                         1,903             1,973
+Equity and other investments                                                       17,726            20,525
+Other assets                                                                        2,213             2,198
+- -----------------------------------------------------------------------------------------------------------
+      Total assets                                                                $52,150           $56,089
+===========================================================================================================
+
+Liabilities and stockholders' equity
+Current liabilities:
+  Accounts payable                                                                $ 1,083           $ 1,101
+  Accrued compensation                                                                557               420
+  Income taxes                                                                        585               442
+  Unearned revenue                                                                  4,816             4,766
+  Other                                                                             2,714             2,577
+- -----------------------------------------------------------------------------------------------------------
+    Total current liabilities                                                       9,755             9,306
+- -----------------------------------------------------------------------------------------------------------
+Deferred income taxes                                                               1,027             1,440
+- -----------------------------------------------------------------------------------------------------------
+Commitments and contingencies
+Stockholders' equity:
+  Common stock and paid-in capital -
+    shares authorized 12,000; outstanding 5,283 and 5,316                          23,195            26,661
+  Retained earnings, including accumulated other comprehensive
+    income of $1,527 and $1,459                                                    18,173            18,682
+- -----------------------------------------------------------------------------------------------------------
+    Total stockholders' equity                                                     41,368            45,343
+- -----------------------------------------------------------------------------------------------------------
+      Total liabilities and stockholders' equity                                  $52,150           $56,089
+===========================================================================================================
+</TABLE>
+
+(1)  Unaudited
+
+                            See accompanying notes.
+
+                                       4
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Cash Flows Statements
+(In millions)(Unaudited)
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                                   Three Months Ended
+                                                                                        Sept. 30
+                                                                               1999                 2000
+- ----------------------------------------------------------------------------------------------------------
+<S>                                                                          <C>                  <C>
+Operations
+  Net income                                                                 $ 2,191               $ 2,206
+  Cumulative effect of accounting change, net of tax                               -                   375
+  Depreciation, amortization, and other noncash items                            345                   250
+  Recognized net gains on investments                                           (200)                 (599)
+  Stock option income tax benefits                                             1,215                   453
+  Deferred income taxes                                                         (427)                  608
+  Unearned revenue                                                             1,253                 1,457
+  Recognition of unearned revenue from prior periods                          (1,363)               (1,507)
+  Accounts receivable                                                             64                   116
+  Other current assets                                                           (94)                 (211)
+  Other long-term assets                                                        (209)                  (61)
+  Other current liabilities                                                       82                  (127)
+- ----------------------------------------------------------------------------------------------------------
+    Net cash from operations                                                   2,857                 2,960
+- ----------------------------------------------------------------------------------------------------------
+Financing
+  Common stock issued                                                            461                   375
+  Common stock repurchased                                                    (1,034)               (1,752)
+  Put warrant proceeds                                                           290                    81
+  Preferred stock dividends                                                       (7)                    -
+- ----------------------------------------------------------------------------------------------------------
+    Net cash used for financing                                                 (290)               (1,296)
+- ----------------------------------------------------------------------------------------------------------
+Investing
+  Additions to property and equipment                                           (139)                 (245)
+  Purchases of investments                                                    (7,035)              (13,723)
+  Maturities of investments                                                      786                 1,570
+  Sales of investments                                                         3,616                 8,462
+- ----------------------------------------------------------------------------------------------------------
+    Net cash used for investing                                               (2,772)               (3,936)
+- ----------------------------------------------------------------------------------------------------------
+Net change in cash and equivalents                                              (205)               (2,272)
+Effect of exchange rates on cash and equivalents                                  19                    67
+Cash and equivalents, beginning of period                                      4,975                 4,846
+- ----------------------------------------------------------------------------------------------------------
+Cash and equivalents, end of period                                          $ 4,789               $ 2,641
+==========================================================================================================
+</TABLE>
+
+                            See accompanying notes.
+
+                                       5
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Stockholders' Equity Statements
+(In millions)(Unaudited)
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                          Sept. 30
+                                                                  1999                2000
+- ----------------------------------------------------------------------------------------------
+<S>                                                             <C>               <C>
+Convertible preferred stock
+  Balance                                                       $   980                $     -
+- ----------------------------------------------------------------------------------------------
+Common stock and paid-in capital
+  Balance, beginning of period                                   13,844                 23,195
+  Common stock issued                                               567                  3,055
+  Common stock repurchased                                          (38)                  (123)
+  Proceeds from sale of put warrants                                290                     81
+  Stock option income tax benefits                                1,215                    453
+- ----------------------------------------------------------------------------------------------
+    Balance, end of period                                       15,878                 26,661
+- ----------------------------------------------------------------------------------------------
+Retained earnings
+  Balance, beginning of period                                   13,614                 18,173
+- ----------------------------------------------------------------------------------------------
+  Net income                                                      2,191                  2,206
+  Other comprehensive income:
+    Cumulative effect of accounting change                            -                    (75)
+    Net gain on derivative instruments                                -                    432
+    Net unrealized investment losses                               (344)                  (484)
+    Translation adjustments and other                                24                     59
+- ----------------------------------------------------------------------------------------------
+      Comprehensive income                                        1,871                  2,138
+  Preferred stock dividends                                          (7)                     -
+  Common stock repurchased                                         (996)                (1,629)
+- ----------------------------------------------------------------------------------------------
+    Balance, end of period                                       14,482                 18,682
+- ----------------------------------------------------------------------------------------------
+      Total stockholders' equity                                $31,340                $45,343
+==============================================================================================
+
+</TABLE>
+
+                            See accompanying notes.
+
+                                       6
+<PAGE>
+
+MICROSOFT CORPORATION
+
+Notes to Financial Statements
+(Unaudited)
+- --------------------------------------------------------------------------------
+
+Basis of Presentation
+
+In the opinion of management, the accompanying balance sheets and related
+interim statements of income, cash flows, and stockholders' equity include all
+adjustments, consisting only of normal recurring items, as well as the
+accounting change to adopt Statement of Financial Accounting Standards (SFAS)
+133, Accounting for Derivative Instruments and Hedging Activities, necessary for
+their fair presentation in conformity with U.S. generally accepted accounting
+principles. Preparing financial statements requires management to make estimates
+and assumptions that affect the reported amounts of assets, liabilities,
+revenue, and expenses. Examples include provisions for returns, concessions and
+bad debts, and the length of product life cycles and buildings' lives. Actual
+results may differ from these estimates. Interim results are not necessarily
+indicative of results for a full year. The information included in this Form 10-
+Q should be read in conjunction with Management's Discussion and Analysis and
+financial statements and notes thereto included in the Microsoft Corporation
+2000 Form 10-K. Certain reclassifications have been made for consistent
+presentation.
+
+Accounting Change
+
+Effective July 1, 2000, Microsoft adopted SFAS 133, which establishes accounting
+and reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts and for hedging activities. All
+derivatives, whether designated in hedging relationships or not, are required to
+be recorded on the balance sheet at fair value. If the derivative is designated
+as a fair value hedge, the changes in the fair value of the derivative and of
+the hedged item attributable to the hedged risk are recognized in earnings. If
+the derivative is designated as a cash flow hedge, the effective portions of
+changes in the fair value of the derivative are recorded in other comprehensive
+income (OCI) and are recognized in the income statement when the hedged item
+affects earnings. Ineffective portions of changes in the fair value of cash flow
+hedges are recognized in earnings.
+
+The adoption of SFAS 133 resulted in a pre-tax reduction to income of $560
+million ($375 million after-tax) and a pre-tax reduction to OCI of $112 million
+($75 million after-tax). The reduction to income is mostly attributable to a
+loss of approximately $300 million reclassified from OCI for the time value of
+options and a loss of approximately $250 million reclassified from OCI for
+derivatives not designated as hedging instruments. The reduction to OCI is
+mostly attributable to losses of approximately $670 million on cash flow hedges
+offset by reclassifications out of OCI of the approximately $300 million
+loss for the time value of options and the approximately $250 million loss for
+derivative instruments not designated as hedging instruments. The net derivative
+losses included in OCI as of July 1, 2000, will be reclassified into earnings
+during the twelve months ended June 30, 2001.
+
+The Company uses derivative instruments to manage exposures to foreign currency,
+securities price, and interest rate risks. The Company's objectives for holding
+derivatives are to minimize the risks using the most effective methods to
+eliminate or reduce the impacts of these exposures.
+
+Foreign Currency Risk
+
+Certain forecasted transactions and assets are exposed to foreign currency risk.
+The Company monitors its foreign currency exposures daily to maximize the
+overall effectiveness of its foreign currency hedge positions. Principal
+currencies hedged include the Euro, Japanese yen, British pound, and Canadian
+dollar. Options used to hedge a portion of forecasted international revenue for
+up to two years in the future are designated as cash flow hedging instruments.
+Options and forwards not designated as hedging instruments under SFAS 133 are
+also used to hedge the impact of the variability in exchange rates on accounts
+receivable and collections denominated in certain foreign currencies.
+
+Securities Price Risk
+
+Strategic equity investments are subject to market price risk. From time to
+time, the Company uses and designates options to hedge fair values and cash
+flows, respectively, on certain equity securities. The security, or forecasted
+sale thereof, selected for hedging is determined by market conditions, up-front
+costs, and other relevant factors. Once established, the hedges are not
+dynamically managed or traded, and are generally not removed until maturity.
+
+Interest Rate Risk
+
+Fixed-income securities are subject to interest rate risk. The fixed-income
+portfolio is diversified and consists primarily of investment grade securities
+to minimize credit risk. The Company routinely uses options, not designated as
+hedging instruments, to hedge its exposure to interest rate risk in the event of
+a catastrophic increase in interest rates.
+
+                                       7
+<PAGE>
+
+Other Derivatives
+
+In addition, the Company may invest in warrants to purchase securities of other
+companies as a strategic investment. Warrants that can be net share settled are
+deemed derivative financial instruments and are not designated as hedging
+instruments.
+
+For options designated either as fair value or cash flow hedges, changes in the
+time value are excluded from the assessment of hedge effectiveness. Hedge
+ineffectiveness, determined in accordance with SFAS 133, had no impact on
+earnings for the three months ended September 30, 2000. No fair value hedges or
+cash flow hedges were derecognized or discontinued for the three months ended
+September 30, 2000.
+
+For the three months ended September 30, 2000, investment income included a net
+gain of $20 million, comprised of a $207 million gain for changes in the time
+value of options for fair value hedges, $6 million loss for changes in the time
+value of options for cash flow hedges, and $181 million loss for changes in the
+fair value of derivative instruments not designated as hedging instruments.
+
+Derivative gains and losses included in OCI are reclassified into earnings at
+the time forecasted revenue or the sale of an equity investment is recognized.
+During the three months ended September 30, 2000, $29 million of derivative
+gains were reclassified to revenue and $390 million of derivative losses were
+reclassified to investment income. The derivative losses reclassified to
+investment income were offset by gains on the item being hedged. The Company
+estimates that $25 million of net derivative losses included in other
+comprehensive income will be reclassified into earnings within the next twelve
+months.
+
+Earnings Per Share
+
+Basic earnings per share is computed on the basis of the weighted average number
+of common shares outstanding. Diluted earnings per share is computed on the
+basis of the weighted average number of common shares outstanding plus the
+effect of outstanding preferred shares using the "if-converted" method,
+outstanding put warrants using the "reverse treasury stock" method, and
+outstanding stock options using the "treasury stock" method.
+
+The components of basic and diluted earnings per share were as follows:
+
+Earnings Per Share
+(In millions, except earnings per share)
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                                                                         Three Months Ended
+                                                                              Sept. 30
+                                                                      1999               2000
+- -----------------------------------------------------------------------------------------------
+<S>                                                            <C>            <C>     <C>
+Income before accounting change (A)                                  $2,191              $2,581
+Preferred stock dividends                                                (7)                  -
+- -----------------------------------------------------------------------------------------------
+Income available for common shareholders (B)                          2,184               2,581
+Cumulative effect of accounting change                                    -                (375)
+- -----------------------------------------------------------------------------------------------
+Net income available for common shareholders                         $2,184              $2,206
+===============================================================================================
+Average outstanding shares of common stock (C)                        5,129               5,299
+Dilutive effect of:
+  Put warrants                                                            -                  10
+  Preferred stock                                                        14                   -
+  Employee stock options                                                384                 248
+- -----------------------------------------------------------------------------------------------
+Common stock and common stock equivalents (D)                         5,527               5,557
+===============================================================================================
+Earnings per share before accounting change:
+  Basic (B/C)                                                        $ 0.43              $ 0.49
+===============================================================================================
+  Diluted (A/D)                                                      $ 0.40              $ 0.46
+===============================================================================================
+
+</TABLE>
+
+                                       8
+<PAGE>
+
+Unearned Revenue
+
+A portion of Microsoft's revenue is earned ratably over the product life cycle
+or, in the case of subscriptions, over the period of the license agreement.
+
+End users receive certain elements of the Company's products over a period of
+time. These elements include browser technologies and technical support.
+Consequently, Microsoft's earned revenue reflects the recognition of the fair
+value of these elements over the product's life cycle. The percentage of revenue
+recognized ratably ranges from approximately 15% to 25% of Windows desktop
+operating systems and approximately 10% to 20% of desktop applications,
+depending on the terms and conditions of the license and prices of the elements.
+Product life cycles are currently estimated at three years for Windows operating
+systems and 18 months for desktop applications. The Company also sells
+subscriptions to certain products via maintenance and certain organization
+license agreements. At June 30, 2000 and September 30, 2000, Desktop
+Applications unearned revenue was $1.84 billion and $1.68 billion, unearned
+revenue associated with Desktop Platforms totaled $2.34 billion and $2.36
+billion, and Enterprise Software and Services unearned revenue was $433 million
+and $400 million. Unearned revenue associated with Consumer Software, Services,
+and Devices and Other totaled $200 million and $328 million at June 30, 2000 and
+September 30, 2000.
+
+Stockholders' Equity
+
+In August 2000, the Company announced a share repurchase program that provides
+shares for issuance to employees under the Company's stock option and stock
+purchase programs. During the first quarter of fiscal 2000 and 2001, the Company
+repurchased 12.1 million and 25.5 million shares of Microsoft common stock.
+
+To enhance its share repurchase program, Microsoft sells put warrants to
+independent third parties. These put warrants entitle the holders to sell shares
+of Microsoft common stock to the Company on certain dates at specified prices.
+On September 30, 2000, warrants to put 157 million shares were outstanding with
+strike prices ranging from $70 to $78 per share. The put warrants expire between
+December 2000 and March 2003. The outstanding put warrants permit a net-share
+settlement at the Company's option and do not result in a put warrant liability
+on the balance sheet.
+
+During 1996, Microsoft issued 12.5 million shares of 2.75% convertible
+exchangeable principal-protected preferred stock. The Company's convertible
+preferred stock matured on December 15, 1999. Each preferred share was converted
+into 1.1273 common shares.
+
+Operational Transactions
+
+In July 2000, the Company acquired a 22.98% shareholding in Telewest
+Communications plc for approximately $2.6 billion in stock. Telewest is a
+leading broadband cable communications operator in the United Kingdom.
+Microsoft's investment in Telewest has been recorded as a cost method investment
+as the contractual arrangements preclude Microsoft from exerting significant
+influence over Telewest.
+
+Investment Income
+
+The components of investment income are as follows:
+
+<TABLE>
+<CAPTION>
+                                               Three Months Ended
+                                                    Sept. 30
+(In millions)                                1999              2000
+- --------------------------------------------------------------------
+<S>                                         <C>               <C>
+Dividends                                    $ 85             $   97
+Interest                                      265                431
+Recognized net gains on investments           200                599
+- --------------------------------------------------------------------
+  Investment income                          $550             $1,127
+====================================================================
+</TABLE>
+
+Contingencies
+
+On October 7, 1997, Sun Microsystems, Inc. ("Sun") brought suit against
+Microsoft in the U.S. District Court for the Northern District of California.
+Sun's complaint alleges several claims against Microsoft, all related to the
+parties' relationship under a March 11, 1996 Technology License and Distribution
+Agreement (Agreement) concerning certain Java programming language technology.
+
+                                       9
+<PAGE>
+
+On March 24, 1998, the Court entered an order enjoining Microsoft from using the
+Java Compatibility logo on Internet Explorer 4.0 and the Microsoft Software
+Developers Kit (SDK) for Java 2.0. Microsoft has taken steps to fully comply
+with the order.
+
+On November 17, 1998, the Court entered an order granting Sun's request for a
+preliminary injunction, holding that Sun had established a likelihood of success
+on its copyright infringement claims, because Microsoft's use of Sun's
+technology in its products was beyond the scope of the parties' license
+agreement. The Court ordered Microsoft to make certain changes in its products
+that include Sun's Java technology and to make certain changes in its Java
+software development tools. The Court also enjoined Microsoft from entering into
+any licensing agreements that were conditioned on exclusive use of Microsoft's
+Java Virtual Machine. Microsoft appealed that ruling to the 9th Circuit Court of
+Appeals on December 16, 1998.
+
+On August 23, 1999 the 9th Circuit Court of Appeals vacated the November 1998
+preliminary injunction and remanded the case to the District Court for further
+proceedings. Sun immediately filed two motions to reinstate and expand the scope
+of the earlier injunction on the basis of copyright infringement and unfair
+competition. On January 25, 2000, the Court issued rulings on the two motions,
+denying Sun's motion to reinstate the preliminary injunction on the basis of
+copyright infringement and granting, in part, Sun's motion to reinstate the
+preliminary injunction based on unfair competition. Microsoft is in compliance
+with the terms of the partially reinstated preliminary injunction and will not
+need to undertake any further action to comply with the terms of the injunction.
+No trial date has been set.
+
+The parties have filed multiple summary judgment motions on the interpretation
+of the Agreement and on Sun's copyright and trademark infringement claims. On
+February 25, 2000, the Court entered an order denying both parties' motions for
+summary judgment as to whether the Agreement authorizes Microsoft to distribute
+independently developed Java Technology. On April 5, 2000, the Trial Court
+entered an order denying Sun's motion for summary judgment regarding the
+interpretation of Section 2.7(a), which sets forth certain requirements that Sun
+must meet when they deliver Java Technology to Microsoft. On May 9, 2000, the
+Court entered an order granting Microsoft's motion to dismiss Sun's copyright
+infringement claim. On May 25, and October 12, 2000, the Court also issued
+tentative orders on many of the remaining summary judgment motions. These
+motions will be set for oral argument at a hearing in December, 2000.
+
+On May 18, 1998, the Antitrust Division of the U.S. Department of Justice (DOJ)
+and a group of state Attorneys General filed two antitrust cases against
+Microsoft in the U.S. District Court for the District of Columbia. The DOJ
+complaint alleges violations of Sections 1 and 2 of the Sherman Act. The DOJ
+complaint seeks declaratory relief as to the violations it asserts and
+preliminary and permanent injunctive relief regarding: the inclusion of Internet
+browsing software (or other software products) as part of Windows; the terms of
+agreements regarding non-Microsoft Internet browsing software (or other software
+products); taking or threatening "action adverse" in consequence of a person's
+failure to license or distribute Microsoft Internet browsing software (or other
+software product) or distributing competing products or cooperating with the
+government; and restrictions on the screens, boot-up sequence, or functions of
+Microsoft's operating system products. The state Attorneys General allege
+largely the same claims and various pendent state claims. The states seek
+declaratory relief and preliminary and permanent injunctive relief similar to
+that sought by the DOJ, together with statutory penalties under the state law
+claims. The foregoing description is qualified in its entirety by reference to
+the full text of the complaints and other papers on file in those actions, case
+numbers 98-1232 and 98-1233.
+
+On May 22, 1998, Judge Jackson consolidated the two actions. The judge granted
+Microsoft's motion for summary judgment as to the states' monopoly leverage
+claim and permitted the remaining claims to proceed to trial. Trial began on
+October 19, 1998 and ended with closing arguments on September 21, 1999. On
+November 5, 1999, Judge Jackson issued his Findings of Fact. On April 3, 2000
+the Court entered its Conclusions of Law, determining that Microsoft "tied"
+Internet Explorer and Windows 95/98 in violation of Section 1 of the Sherman
+Act, that Microsoft violated Section 2 of the Sherman Act by taking actions to
+maintain its monopoly in the desktop-PC operating system market, and that
+Microsoft attempted to monopolize the Internet browser market in violation of
+Section 2 of the Sherman Act. The Court also held that Microsoft did not violate
+Section 1 of the Sherman Act by entering into a number of contracts challenged
+by the government. The Court established a schedule for consideration of the
+remedy to be imposed in a final judgment. On April 28, 2000, the plaintiffs
+submitted a joint proposed remedy that included a proposed break-up of Microsoft
+into two companies, an operating systems company, and a company that would own
+all of Microsoft's other products and businesses. Microsoft submitted its
+proposed remedy and its proposal for further remedy proceedings on May 10, 2000.
+On June 7, 2000, Judge Jackson entered the government's proposed order nearly
+verbatim as his final judgment in the case. That judgment orders a divestiture
+
+                                       10
+<PAGE>
+
+that will create two separate companies, an "Operating Systems Business" and an
+"Applications Business," to be implemented one year following a final decision
+on appeal. It also provides for a broad range of "conduct" remedies that would
+have gone into effect in 90 days, absent a stay. On June 13, 2000, Microsoft
+appealed to the United States Court of Appeals. The Court of Appeals immediately
+entered an order notifying the parties that the Court would hear all matters
+related to this appeal en banc. The government then asked Judge Jackson to enter
+an order certifying the case for direct appeal to the Supreme Court. On June 20,
+2000, Judge Jackson certified the case for direct appeal to the Supreme Court
+and simultaneously granted Microsoft's request to stay the entire remedy pending
+final appeal. On September 26, 2000 the Supreme Court remanded Microsoft's
+appeal to the Court of Appeals. Microsoft's opening brief to the Court of
+Appeals is due on November 27, 2000. The government's brief is due on January
+12, 2001, and Microsoft's reply is due on January 29, 2001. The Court has set
+oral arguments on the appeals for February 26 and 27, 2001.
+
+In other ongoing investigations, the DOJ and several state Attorneys General
+have requested information from Microsoft concerning various issues. In
+addition, the European Commission has instituted proceedings in which it alleges
+that Microsoft has failed to disclose information that Sun claims it needs to
+interoperate fully with Windows 2000 clients and has engaged in discriminatory
+licensing of such technology. The remedies sought, though not fully defined,
+include mandatory disclosure of Microsoft intellectual property concerning
+Windows operating systems and imposition of fines. Microsoft denies the European
+Commission's allegations and intends to contest the proceedings vigorously.
+
+A large number of antitrust class action lawsuits have been initiated against
+Microsoft. These cases allege that Microsoft has competed unfairly and
+unlawfully monopolized alleged markets for operating systems and certain
+software applications and seek to recover alleged overcharges that the
+complaints contend Microsoft charged for these products. Microsoft believes the
+claims are without merit and is vigorously defending the cases.
+
+The Securities and Exchange Commission is conducting a non-public investigation
+into the Company's accounting reserve practices. Microsoft is also subject to
+various legal proceedings and claims that arise in the ordinary course of
+business.
+
+Management currently believes that resolving these matters will not have a
+material adverse impact on the Company's financial position or its results of
+operations.
+
+                                       11
+<PAGE>
+
+Segment Information
+
+(In millions)
+- --------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+                           Desktop and       Consumer
+                           Enterprise        Software,        Consumer
+Three Months                Software         Services,        Commerce                             Reconciling
+Ended Sept. 30            and Services      and Devices      Investments             Other           Amounts      Consolidated
+- -------------------------------------------------------------------------------------------------------------------------------
+<S>                       <C>               <C>              <C>                     <C>           <C>            <C>
+1999
+Revenue                           $4,922           $ 332           $ 18               $154               $ (42)          $5,384
+Operating income (loss)            3,477            (173)           (12)                 2                (505)           2,789
+- -------------------------------------------------------------------------------------------------------------------------------
+2000
+Revenue                           $5,119           $ 463           $ 97               $156               $ (35)          $5,800
+Operating income (loss)            3,385            (261)           (39)                20                (328)           2,777
+- -------------------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+Desktop and Enterprise Software and Services Revenue:
+
+<TABLE>
+<CAPTION>
+                                                      Three Months Ended
+                                                           Sept. 30
+(In millions)                                      1999               2000
+- -------------------------------------------------------------------------------
+<S>                                              <C>                <C>
+Desktop Applications                              $2,233             $2,075
+Desktop Platforms                                  1,779              1,992
+- -------------------------------------------------------------------------------
+  Desktop Software                                 4,012              4,067
+  Enterprise Software and Services                   910              1,052
+- -------------------------------------------------------------------------------
+    Total Desktop and Enterprise Software
+      and Services                                $4,922             $5,119
+===============================================================================
+
+</TABLE>
+
+In September 2000, Microsoft disclosed new segments to reflect the re-
+organization around Microsoft .NET, the Company's vision for the next-generation
+of Internet-based products and services. Prior year disclosures have been
+restated for consistent presentation. Microsoft has four segments: Desktop and
+Enterprise Software and Services; Consumer Software, Services, and Devices;
+Consumer Commerce Investments; and Other. Desktop and Enterprise Software and
+Services operating segment includes Desktop Applications, Desktop Platforms, and
+Enterprise Software and Services. Desktop Applications include Microsoft Office,
+Project, Visio, and client access licenses for Windows NT Server/2000, Exchange,
+and BackOffice. Desktop Platforms include Windows 2000 Professional, Windows NT
+Workstation, Windows Millennium Edition (Windows Me), Windows 98, and other
+desktop operating systems. Enterprise Software and Services includes Windows NT
+Server and Windows 2000 Server operating systems, SQL Server and client access
+licenses, Exchange Server, developer tools, consulting services, product support
+services, and training and certification. Consumer Software, Services, and
+Devices operating segment includes MSN Internet access, MSN network services,
+WebTV Internet access and services, gaming, learning and productivity software,
+mobile and wireless devices, and embedded systems. Consumer Commerce Investments
+operating segment includes Expedia, Inc., the HomeAdvisor online real estate
+service, and the CarPoint online automotive service. Other primarily includes
+Hardware and Press. Assets of the segments are not relevant for management of
+the businesses nor for disclosure.
+
+Segment information is presented in accordance with SFAS 131, Disclosures about
+Segments of an Enterprise and Related Information. This standard is based on a
+management approach, which requires segmentation based upon the Company's
+internal organization and disclosure of revenue and operating income based upon
+internal accounting methods. The Company's financial reporting systems present
+various data for management to run the business, including profit and loss
+statements (P&Ls) prepared on a basis not consistent with U.S. generally
+accepted accounting principles. Reconciling items for revenue include certain
+elements of unearned revenue and the treatment of certain channel inventory
+amounts and estimates. In addition to the reconciling items for revenue,
+reconciling items for operating income (loss) include general and administrative
+expenses ($148 million in 1999 and $170 million in 2000), employee stock option
+expense recognized in accordance with APB 25 ($69 million in 1999 and $90
+million in 2000), certain research expenses ($36 million in 1999 and $39 million
+in 2000), and other corporate level adjustments. The internal P&Ls use
+accelerated methods of depreciation and amortization. Additionally, losses on
+equity investees are classified in operating income for internal reporting
+presentations.
+
+                                       12
+<PAGE>
+
+Item 2.   Management's Discussion and Analysis of Financial Condition and
+          Results of Operations
+
+Results of Operations
+
+Microsoft develops, manufactures, licenses, and supports a wide range of
+software products for a multitude of computing devices. Microsoft software
+includes scalable operating systems for servers, personal computers (PCs), and
+intelligent devices; server applications for client/server environments;
+knowledge worker productivity applications; and software development tools. The
+Company's online efforts include the MSN network of Internet products and
+services and alliances with companies involved with broadband access and various
+forms of digital interactivity. Microsoft also licenses consumer software
+programs; sells hardware devices; provides consulting services; trains and
+certifies system integrators and developers; and researches and develops
+advanced technologies for future software products.
+
+Management's Discussion and Analysis contains statements that are forward-
+looking. These statements are based on current expectations that are subject to
+risks and uncertainties. Actual results will vary because of factors such as PC
+shipment growth; technological shifts; customer demand; competitive products and
+pricing; product mix; product ship schedules; life cycles; terms and conditions;
+litigation; and other issues discussed in the Company's 2000 Form 10-K.
+
+Revenue
+
+Revenue of $5.80 billion in the September quarter of fiscal 2001 increased 8%
+over the first quarter of fiscal 2000. The revenue growth was driven by
+licensing of Microsoft Windows NT Workstation, Windows 2000 Professional,
+Windows Me, and SQL Server. Revenue from Consumer Software, Services, and
+Devices also grew strongly. Reported revenue in the September quarter of fiscal
+2000 was positively impacted by $150 million related to the fulfillment of the
+Microsoft Office 2000 Technology Guarantee.
+
+Product Revenue
+
+Microsoft has four segments: Desktop and Enterprise Software and Services;
+Consumer Software, Services, and Devices; Consumer Commerce Investments; and
+Other. The Management Discussion and Analysis presentation of revenue differs
+from that reported under the Company's Segment Information since reconciling
+amounts are allocated to the segments.
+
+Desktop and Enterprise Software and Services includes Desktop Applications,
+Desktop Platforms, and Enterprise Software and Services. Desktop Applications
+includes revenue from Microsoft Office, Project, Visio, and client access
+licenses for Windows NT Server/2000, Exchange, and BackOffice. Revenue from
+Desktop Applications was $2.14 billion in the September quarter of fiscal 2001,
+compared to $2.21 billion in the prior year. Reported revenue from Microsoft
+Office integrated suites in the September quarter of fiscal 2000 included $150
+million of revenue related to the fulfillment of the Microsoft Office 2000
+Technology Guarantee. Client access license revenue declined from the first
+quarter of the prior year due to anticipation of the availability of new product
+versions.
+
+Desktop Platforms includes revenue from Windows 2000 Professional, Windows NT
+Workstation, Windows Me, Windows 98, and other desktop operating systems.
+Desktop Platforms revenue was $1.88 billion in the first quarter of fiscal 2001,
+representing 13% growth from the first quarter of the prior year. Increased
+migration to Windows 2000 Professional and the availability of Windows Me drove
+revenue growth in Desktop Platforms. Although business PC shipments continue to
+improve, they remain relatively soft compared to growth rates in the prior year
+first quarter. In addition, Windows desktop operating systems average earned
+revenue per licensed operating system decreased compared to the first quarter of
+the prior fiscal year.
+
+Enterprise Software and Services includes Windows NT Server and Windows 2000
+Server operating systems, SQL Server and client access licenses, Exchange
+Server, developer tools, consulting services, product support services, and
+training and certification. Revenue in the September quarter increased 9% to
+$1.04 billion. The Windows NT Server and Windows 2000 Server family of products
+continues to make progress with new mission critical deployments. SQL Server
+revenue growth, aided by the availability of SQL Server 2000 in mid-quarter, was
+robust compared to the September quarter of fiscal 2000. Other server
+application products revenue experienced declining growth from prior year's
+first quarter due to unearned revenue associated with the Exchange 2000 Server
+Technology Guarantee, and in the face of a new product release. Revenue from
+consulting and product support services was strong.
+
+                                       13
+<PAGE>
+
+Consumer Software, Services, and Devices includes MSN Internet access, MSN
+network services, WebTV Internet access and services, gaming, learning and
+productivity software, mobile and wireless devices, and embedded systems.
+Revenue reached $479 million in the first quarter of fiscal 2001, up 31% from
+the first quarter of the prior year. MSN access and advertising revenue was up
+over 50% on continued strong growth in both subscribers and web users. WebTV and
+gaming revenue grew strongly, while revenue from learning and productivity
+software was relatively flat. Revenue from mobile and wireless devices and
+embedded systems also grew strongly, but from a relatively small base.
+
+Consumer Commerce Investments include Expedia, Inc., the HomeAdvisor online real
+estate service, and the CarPoint online automotive service. First quarter
+revenue totaled $97 million, compared to $18 million in the prior year's first
+quarter. Acquisitions of Travelscape.com and VacationSpot.com by Expedia, Inc.
+and increased overall reach of all properties led to the strong revenue growth
+compared to the prior year.
+
+Other primarily includes Hardware and Press. Other revenue was $165 million in
+the September quarter of fiscal 2001, declining slightly from $171 million in
+the prior year's September quarter.
+
+Distribution Channels
+
+Microsoft distributes its products primarily through OEM licenses,
+organizational licenses, online services and products, and retail packaged
+products. OEM channel revenue represents license fees from original equipment
+manufacturers who pre-install Microsoft products, primarily on PCs. Microsoft
+has three major geographic sales and marketing organizations: the South Pacific
+and Americas Region; the Europe, Middle East, and Africa Region; and the Asia
+Region. Sales of organizational licenses and retail packaged products via these
+channels are primarily to and through distributors and resellers.
+
+OEM first quarter revenue was $1.82 billion, compared to $1.74 billion in the
+comparable quarter of fiscal 2000. The relatively low growth in revenue was due
+to continued sluggishness in business PC shipments and lower average earned
+revenue per license due to increased sales to multinational customers. Migration
+to Windows NT Workstation and Windows 2000 Professional in the OEM channel
+continues to increase.
+
+South Pacific and Americas Region revenue in the September quarter was $2.19
+billion, up 17% compared to $1.87 billion in the prior year. Windows Me, Windows
+NT Workstation, Windows 2000 Professional, SQL Server, enterprise consulting and
+support services, and MSN online revenue were the primary drivers of the revenue
+growth. The revenue growth for the quarter resulted primarily from increased
+U.S. revenue.
+
+Europe, Middle East, and Africa Region revenue was $1.09 billion, down 8% from
+revenue of $1.18 billion in the first quarter of the prior year. The declining
+growth was largely a result of weakening local currencies, which negatively
+impacted translated revenue compared to the prior year. Revenue in the region
+would have been flat compared to the first quarter of fiscal 2000 if foreign
+exchange rates were constant with those of the prior year. The recognition of
+revenue related to the fulfillment of the Microsoft Office 2000 Technology
+Guarantee in the first quarter of fiscal 2000 also negatively impacted revenue
+growth.
+
+Asia Region revenue increased 19% to $708 million from the September quarter of
+the prior year. The region's growth rate reflected strong revenue from localized
+versions of Microsoft Office 2000, especially the Office Personal suite, Windows
+NT Workstation and Windows 2000 Professional operating systems, and SQL Server.
+Revenue grew strongly in nearly all countries in the Asia region. Strengthening
+local currencies positively impacted translated revenue compared to the prior
+year. First quarter 2001 revenue in the region would have grown 13% if foreign
+exchange rates were constant with those of the prior year.
+
+Translated international revenue is affected by foreign exchange rates. The net
+impact of foreign exchange rates on revenue was negative in the September
+quarter compared to a year ago, due to weaker European currencies versus the
+U.S. dollar, offset partially by a stronger Japanese yen versus the U.S. dollar.
+Had the rates from the prior year comparable quarter been in effect in the first
+quarter of fiscal 2001, translated international revenue billed in local
+currencies would have been $60 million higher. Certain manufacturing, selling,
+distribution, and support costs are disbursed in local currencies, and a portion
+of international revenue is hedged, thus offsetting a portion of the translation
+exposure.
+
+Operating Expenses
+
+Cost of revenue as a percent of revenue was 14.8% in the first quarter, up from
+13.2% in the first quarter of the prior year. Higher online costs, consulting
+and product support services costs, and additional retail packaged product costs
+associated with the launch of Windows Me drove the increase over the prior
+year's comparable
+
+                                       14
+<PAGE>
+
+quarter. Additionally, the September quarter of fiscal 2000 was positively
+impacted by the recognition of previously unearned revenue related to the Office
+2000 Technology Guarantee.
+
+Research and development expenses in the first quarter increased 18% from the
+first quarter of the prior year to $956 million. The growth was driven by higher
+headcount-related costs, investments in new product initiatives, and development
+costs for recently released products.
+
+Sales and marketing expenses were $1.04 billion in the September quarter, or
+17.9% of revenue, compared to $922 million in the first quarter of the prior
+year, or 17.1% of revenue. Sales and marketing expenses as a percent of revenue
+increased due to higher relative marketing costs associated with new product
+releases and online marketing.
+
+General and administrative costs were $170 million in the first quarter compared
+to $148 million in the comparable quarter of the prior year. The increase
+primarily reflects higher legal fees.
+
+Nonoperating Items, Investment Income, and Income Taxes
+
+Losses on equity investees and other incorporates Microsoft's share of income or
+loss from the MSNBC entities, Avanade, Wireless Knowledge, and other investments
+accounted for using the equity method. Losses on equity investees and other
+increased to $52 million in the first quarter of fiscal year 2001 compared to
+$19 million in the comparable quarter of the prior year, reflecting, in part,
+the onset of costs associated with Avanade.
+
+First quarter investment income increased to $1.13 billion from $550 million in
+the first quarter of the prior year. Net realized gains on investments increased
+$399 million reflecting a gain from Microsoft's investment in Titus
+Communications (which was merged with Jupiter Telecommunications) and the
+closing of the sale of Transpoint to CheckFree Holdings Corp. Net realized gains
+in the September quarter of fiscal 2000 included a gain related to the sale of
+Sidewalk. In addition, interest income increased $166 million due to the larger
+investment portfolio.
+
+Effective July 1, 2000, Microsoft adopted SFAS 133 which establishes accounting
+and reporting standards for derivative instruments, including certain derivative
+instruments embedded in other contracts and for hedging activities. All
+derivatives, whether designated in hedging relationships or not, are required to
+be recorded on the balance sheet at fair value. If the derivative is designated
+as a fair value hedge, the changes in the fair value of the derivative and the
+hedged item are recognized in earnings. If the derivative is designated as a
+cash flow hedge, changes in the fair value of the derivative are recorded in
+other comprehensive income and are recognized in the income statement when the
+hedged item affects earnings.
+
+The adoption of SFAS 133 resulted in a pre-tax reduction to income of $560
+million ($375 million after-tax) and a pre-tax reduction to OCI of $112 million
+($75 million after-tax). The reduction to income is mostly attributable to a
+loss of approximately $300 million reclassified from OCI for the time value of
+options and a loss of approximately $250 million reclassified from OCI for
+derivative instruments not designated as hedging instruments. The reduction to
+OCI is mostly attributable to losses of approximately $670 million on cash flow
+hedges offset by the reclassifications of out of OCI of the approximately $300
+million loss for the time value of options and the approximately $250 million
+loss for derivative instruments not designated as hedging instruments.
+
+The effective tax rate for fiscal 2001 is estimated to be 33%. The effective tax
+rate for fiscal 2000 was 34%.
+
+Financial Condition
+
+Cash and short-term investments totaled $24.71 billion as of September 30, 2000.
+Cash flow from operations was $2.96 billion in the September quarter of fiscal
+2001, an increase of $103 million from the first quarter of the prior year. The
+stock option income tax benefit decrease of $762 million, reflecting decreased
+stock option exercises by employees given the decreased stock price, was more
+than offset by changes in deferred taxes. Cash used for financing was $1.30
+billion in the September quarter of fiscal 2001, an increase of $1.01 billion
+from the first quarter of the prior year, which mostly reflected an increase in
+common stock repurchases in the September quarter of fiscal 2001. During the
+September quarter of fiscal 2001, the Company repurchased 25.5 million shares of
+common stock under its share repurchase program, compared to 12.1 million shares
+repurchased in the first quarter of the prior year. Cash used for investing was
+$3.94 billion in the September quarter of fiscal 2001, an increase of $1.16
+billion from the first quarter of the prior year, reflecting a net increase in
+short-term investments of $1.06 billion in the first quarter of fiscal 2001
+versus the prior year comparable quarter.
+
+In July 2000, the Company acquired a 22.98% shareholding in Telewest
+Communications plc for approximately $2.6 billion in stock. Telewest is a
+leading broadband cable communications operator in the United Kingdom.
+
+Microsoft has no material long-term debt and has $160 million of standby
+multicurrency lines of credit to support foreign currency hedging and cash
+management. Stockholders' equity at September 30, 2000 was $45.34 billion.
+
+                                       15
+<PAGE>
+
+Microsoft will continue to invest in sales, marketing, and product support
+infrastructure. Additionally, research and development activities will include
+investments in existing and advanced areas of technology, including using cash
+to acquire technology. Additions to property and equipment will continue,
+including new facilities and computer systems for R&D, sales and marketing,
+support, and administrative staff. Commitments for constructing new buildings
+were $290 million on September 30, 2000.
+
+In August 2000, the Company announced a share repurchase program that provides
+shares for issuance to employees under the Company's stock option and stock
+purchase programs. Since fiscal 1990, Microsoft has repurchased 790 million
+common shares while 2.02 billion shares were issued under the Company's employee
+stock option and purchase plans. The market value of all outstanding stock
+options was $52 billion as of September 30, 2000. Microsoft enhances its
+repurchase program by selling put warrants. During December 1996, Microsoft
+issued 12.5 million shares of 2.75% convertible exchangeable preferred stock.
+The Company's convertible preferred stock matured on December 15, 1999. Each
+preferred share was converted into 1.1273 common shares.
+
+Management believes existing cash and short-term investments together with funds
+generated from operations will be sufficient to meet operating requirements. The
+Company's cash and short-term investments are available for strategic
+investments, mergers and acquisitions, other potential large-scale cash needs
+that may arise, and to fund an increased share repurchase program over
+historical levels to reduce the dilutive impact of the Company's employee stock
+option and purchase programs. Microsoft has not paid cash dividends on its
+common stock.
+
+Recently Issued Accounting Standards
+
+The Securities and Exchange Commission (SEC) issued Staff Accounting Bulletin
+(SAB) 101, Revenue Recognition in Financial Statements, in December 1999. The
+SAB summarizes certain of the SEC staff's views in applying U.S. generally
+accepted accounting principles to revenue recognition in financial statements.
+In June 2000, the SEC issued SAB 101B, which delays the implementation date of
+SAB 101 until no later than the fourth fiscal quarter of fiscal years beginning
+after December 15, 1999. In October 2000, the SEC issued frequently asked
+questions and answers about how the guidance in accounting standards and SAB 101
+would apply to particular transactions. The Company does not believe that
+adoption of this SAB will have a material impact on its financial statements.
+
+                                       16
+<PAGE>
+
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk
+
+The Company is exposed to foreign currency, interest rate, and securities price
+risks. A portion of these risks is hedged, but fluctuations could impact the
+Company's results of operations and financial position. The Company hedges the
+exposure of accounts receivable and a portion of anticipated revenue to foreign
+currency fluctuations, primarily with option contracts. The Company monitors its
+foreign currency exposures daily to maximize the overall effectiveness of its
+foreign currency hedge positions. Principal currencies hedged include the Euro,
+Japanese yen, British pound, and Canadian dollar. Fixed income securities are
+subject to interest rate risk. The portfolio is diversified and consists
+primarily of investment grade securities to minimize credit risk. The Company
+routinely uses options to hedge its exposure to interest rate risk in the event
+of a catastrophic increase in interest rates. Many securities held in the
+Company's equity and other investments portfolio are subject to price risk. The
+Company uses options to hedge its price risk on certain highly volatile equity
+securities.
+
+The Company uses a value-at-risk (VAR) model to estimate and quantify its market
+risks. The VAR model is not intended to represent actual losses in fair value,
+but is used as a risk estimation and management tool. Assumptions applied to the
+VAR model at June 30, 2000 and September 30, 2000 include the following: normal
+market conditions; Monte Carlo modeling with 10,000 simulated market price
+paths; a 97.5% confidence interval; and a 20-day estimated loss in fair value
+for each market risk category. Accordingly, 97.5% of the time the estimated 20-
+day loss in fair value would be nominal for foreign currency denominated
+investments and accounts receivable at June 30, 2000 and September 30, 2000, and
+would not exceed $211 million and $224 million at June 30, 2000 and September
+30, 2000 for interest-sensitive investments or $1.02 billion or $928 million at
+June 30, 2000 and September 30, 2000 for equity securities.
+
+                                       17
+<PAGE>
+
+                          Part II.  Other Information
+
+Item 1.   Legal Proceedings
+
+See notes to financial statements.
+
+Item 2.   Changes in Securities and Use of Proceeds
+
+On September 12, 2000, the Company issued an aggregate of 753,660 of its common
+shares pursuant to the acquisition by the Company of MongoMusic, Inc., a
+Delaware corporation ("MongoMusic"). All of the Company common shares issued in
+this transaction were issued in a non-public offering pursuant to an exemption
+from the registration requirements of the Securities Act of 1933, as amended
+(the "1933 Act"), under Section 4(2) of the 1933 Act. This sale was made without
+general solicitation or advertising. The Company has filed a Registration
+Statement on Form S-3 covering the resale of such securities. All net proceeds
+from the sale of such securities will go to the selling shareholders who offer
+and sell their shares. The Company has not received and will not receive any
+proceeds from the sale of these common shares other than the assets and
+liabilities of MongoMusic.
+
+Reference is also made to the information on sales of put warrants described in
+the accompanying notes to financial statements. All such transactions are exempt
+from registration under Section 4(2) of the Securities Act of 1933. Each
+transaction was privately negotiated and each offeree and purchaser was an
+accredited investor/qualified institutional buyer. No public offering or public
+solicitation was used by Microsoft in the placement of these securities.
+
+Item 6.   Exhibits and Reports on Form 8-K
+
+(A)  Exhibits
+
+     27.1  Financial Data Schedule for Three Months Ended September 30, 2000
+
+     27.2  Restated Financial Data Schedule for Year Ended June 30, 2000*
+
+     27.3  Restated Financial Data Schedule for Nine Months Ended March 31,
+           2000*
+
+     27.4  Restated Financial Data Schedule for Six Months Ended December 31,
+           1999*
+
+     27.5  Restated Financial Data Schedule for Three Months Ended September 30,
+           1999*
+
+     27.6  Restated Financial Data Schedule for Year Ended June 30, 1999*
+
+     27.7  Restated Financial Data Schedule for Nine Months Ended March 31,
+           1999*
+
+     27.8  Restated Financial Data Schedule for Six Months Ended December 31,
+           1998*
+
+     27.9  Restated Financial Data Schedule for Three Months Ended September 30,
+           1998*
+
+     27.10 Restated Financial Data Schedule for Year Ended June 30, 1998*
+
+     * Restated to reflect certain reclassifications that have been made for
+       consistent presentation.
+
+(B)  Reports on Form 8-K
+
+The Company filed no reports on Form 8-K during the quarter ended September 30,
+2000.
+
+Items 3, 4, and 5 are not applicable and have been omitted.
+
+                                       18
+<PAGE>
+
+                                   Signature
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                       Microsoft Corporation
+
+Date: November 14, 2000                By: /s/ John G. Connors
+                                           -------------------------------------
+                                           John G. Connors
+                                           Senior Vice President, Finance and
+                                           Administration; Chief Financial
+                                           Officer
+
+                                           (Principal Financial and Accounting
+                                           Officer and Duly Authorized Officer)
+
+                                       19
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>2
+<FILENAME>0002.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+ACCOMPANYING FINANCIAL STATEMENTS AND IS QUALIFIED IN ITS ENTIRETY BY REFERENCE
+TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          JUN-30-2001
+<PERIOD-START>                             JUL-01-2000
+<PERIOD-END>                               SEP-30-2000
+<CASH>                                           2,641
+<SECURITIES>                                    22,070
+<RECEIVABLES>                                    3,172
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                31,393
+<PP&E>                                           4,529
+<DEPRECIATION>                                   2,556
+<TOTAL-ASSETS>                                  56,089
+<CURRENT-LIABILITIES>                            9,306
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        26,661
+<OTHER-SE>                                      18,682
+<TOTAL-LIABILITY-AND-EQUITY>                    56,089
+<SALES>                                          5,800
+<TOTAL-REVENUES>                                 5,800
+<CGS>                                              859
+<TOTAL-COSTS>                                      859
+<OTHER-EXPENSES>                                 2,164
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  3,852
+<INCOME-TAX>                                     1,271
+<INCOME-CONTINUING>                              2,581
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                        (375)
+<NET-INCOME>                                     2,206
+<EPS-BASIC>                                       0.42
+<EPS-DILUTED>                                     0.40
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.2
+<SEQUENCE>3
+<FILENAME>0003.txt
+<DESCRIPTION>RESTATED FDS FOR YEAR ENDED 06/30/2000
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-2000
+<PERIOD-START>                             JUL-01-1999
+<PERIOD-END>                               JUN-30-2000
+<CASH>                                           4,846
+<SECURITIES>                                    18,952
+<RECEIVABLES>                                    3,250
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                30,308
+<PP&E>                                           4,314
+<DEPRECIATION>                                   2,411
+<TOTAL-ASSETS>                                  52,150
+<CURRENT-LIABILITIES>                            9,755
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        23,195
+<OTHER-SE>                                      18,173
+<TOTAL-LIABILITY-AND-EQUITY>                    52,150
+<SALES>                                         22,956
+<TOTAL-REVENUES>                                22,956
+<CGS>                                            3,002
+<TOTAL-COSTS>                                    3,002
+<OTHER-EXPENSES>                                 8,948
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                 14,275
+<INCOME-TAX>                                     4,854
+<INCOME-CONTINUING>                              9,421
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     9,421
+<EPS-BASIC>                                       1.81
+<EPS-DILUTED>                                     1.70
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.3
+<SEQUENCE>4
+<FILENAME>0004.txt
+<DESCRIPTION>RESTATED FDS FOR NINE MONTHS ENDED 03/31/2000
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          JUN-30-2000
+<PERIOD-START>                             JUL-01-1999
+<PERIOD-END>                               MAR-31-2000
+<CASH>                                           5,192
+<SECURITIES>                                    16,013
+<RECEIVABLES>                                    2,902
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                26,769
+<PP&E>                                           4,128
+<DEPRECIATION>                                   2,293
+<TOTAL-ASSETS>                                  52,447
+<CURRENT-LIABILITIES>                            9,363
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        20,975
+<OTHER-SE>                                      18,817
+<TOTAL-LIABILITY-AND-EQUITY>                    52,447
+<SALES>                                         17,152
+<TOTAL-REVENUES>                                17,152
+<CGS>                                            2,220
+<TOTAL-COSTS>                                    2,220
+<OTHER-EXPENSES>                                 6,477
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                 10,624
+<INCOME-TAX>                                     3,612
+<INCOME-CONTINUING>                              7,012
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     7,012
+<EPS-BASIC>                                       1.35
+<EPS-DILUTED>                                     1.27
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.4
+<SEQUENCE>5
+<FILENAME>0005.txt
+<DESCRIPTION>RESTATED FDS FOR SIX MONTHS ENDED 12/31/1999
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          JUN-30-2000
+<PERIOD-START>                             JUL-01-1999
+<PERIOD-END>                               DEC-31-1999
+<CASH>                                           5,032
+<SECURITIES>                                    12,811
+<RECEIVABLES>                                    3,284
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                23,778
+<PP&E>                                           3,897
+<DEPRECIATION>                                   2,158
+<TOTAL-ASSETS>                                  46,851
+<CURRENT-LIABILITIES>                            9,850
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                        18,878
+<OTHER-SE>                                      15,711
+<TOTAL-LIABILITY-AND-EQUITY>                    46,851
+<SALES>                                         11,496
+<TOTAL-REVENUES>                                11,496
+<CGS>                                            1,468
+<TOTAL-COSTS>                                    1,468
+<OTHER-EXPENSES>                                 4,308
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  7,011
+<INCOME-TAX>                                     2,384
+<INCOME-CONTINUING>                              4,627
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     4,627
+<EPS-BASIC>                                       0.90
+<EPS-DILUTED>                                     0.84
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.5
+<SEQUENCE>6
+<FILENAME>0006.txt
+<DESCRIPTION>RESTATED FDS FOR THREE MONTHS ENDED 09/30/1999
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          JUN-30-2000
+<PERIOD-START>                             JUL-01-1999
+<PERIOD-END>                               SEP-30-1999
+<CASH>                                           4,789
+<SECURITIES>                                    14,113
+<RECEIVABLES>                                    2,207
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                23,528
+<PP&E>                                           3,715
+<DEPRECIATION>                                   2,058
+<TOTAL-ASSETS>                                  41,237
+<CURRENT-LIABILITIES>                            8,843
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        980
+<COMMON>                                        15,878
+<OTHER-SE>                                      14,482
+<TOTAL-LIABILITY-AND-EQUITY>                    41,237
+<SALES>                                          5,384
+<TOTAL-REVENUES>                                 5,384
+<CGS>                                              712
+<TOTAL-COSTS>                                      712
+<OTHER-EXPENSES>                                 1,883
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  3,320
+<INCOME-TAX>                                     1,129
+<INCOME-CONTINUING>                              2,191
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     2,191
+<EPS-BASIC>                                       0.43
+<EPS-DILUTED>                                     0.40
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.6
+<SEQUENCE>7
+<FILENAME>0007.txt
+<DESCRIPTION>RESTATED FDS FOR YEAR ENDED 06/30/1999
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1999
+<PERIOD-START>                             JUL-01-1998
+<PERIOD-END>                               JUN-30-1999
+<CASH>                                           4,975
+<SECURITIES>                                    12,261
+<RECEIVABLES>                                    2,245
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                21,702
+<PP&E>                                           3,516
+<DEPRECIATION>                                   1,905
+<TOTAL-ASSETS>                                  38,625
+<CURRENT-LIABILITIES>                            8,802
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        980
+<COMMON>                                        13,844
+<OTHER-SE>                                      13,614
+<TOTAL-LIABILITY-AND-EQUITY>                    38,625
+<SALES>                                         19,747
+<TOTAL-REVENUES>                                19,747
+<CGS>                                            2,814
+<TOTAL-COSTS>                                    2,814
+<OTHER-EXPENSES>                                 6,923
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                 11,891
+<INCOME-TAX>                                     4,106
+<INCOME-CONTINUING>                              7,785
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     7,785
+<EPS-BASIC>                                       1.54
+<EPS-DILUTED>                                     1.42
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.7
+<SEQUENCE>8
+<FILENAME>0008.txt
+<DESCRIPTION>RESTATED FDS FOR NINE MONTHS ENDED 03/31/1999
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          JUN-30-1999
+<PERIOD-START>                             JUL-01-1998
+<PERIOD-END>                               MAR-31-1999
+<CASH>                                           6,203
+<SECURITIES>                                    15,558
+<RECEIVABLES>                                    1,689
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                24,058
+<PP&E>                                           3,333
+<DEPRECIATION>                                   1,888
+<TOTAL-ASSETS>                                  33,561
+<CURRENT-LIABILITIES>                            7,839
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        980
+<COMMON>                                        12,418
+<OTHER-SE>                                      12,324
+<TOTAL-LIABILITY-AND-EQUITY>                    33,561
+<SALES>                                         13,983
+<TOTAL-REVENUES>                                13,983
+<CGS>                                            2,145
+<TOTAL-COSTS>                                    2,145
+<OTHER-EXPENSES>                                 4,762
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  8,503
+<INCOME-TAX>                                     2,920
+<INCOME-CONTINUING>                              5,583
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     5,583
+<EPS-BASIC>                                       1.12
+<EPS-DILUTED>                                     1.02
+
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.8
+<SEQUENCE>9
+<FILENAME>0009.txt
+<DESCRIPTION>RESTATED FDS FOR SIX MONTHS ENDED 12/31/1998
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          JUN-30-1999
+<PERIOD-START>                             JUL-01-1998
+<PERIOD-END>                               DEC-31-1998
+<CASH>                                           6,113
+<SECURITIES>                                    13,124
+<RECEIVABLES>                                    2,029
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                21,809
+<PP&E>                                           3,307
+<DEPRECIATION>                                   1,812
+<TOTAL-ASSETS>                                  30,049
+<CURRENT-LIABILITIES>                            7,471
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        980
+<COMMON>                                        10,443
+<OTHER-SE>                                      11,155
+<TOTAL-LIABILITY-AND-EQUITY>                    30,049
+<SALES>                                          9,388
+<TOTAL-REVENUES>                                 9,388
+<CGS>                                            1,437
+<TOTAL-COSTS>                                    1,437
+<OTHER-EXPENSES>                                 3,104
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  5,554
+<INCOME-TAX>                                     1,888
+<INCOME-CONTINUING>                              3,666
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     3,666
+<EPS-BASIC>                                       0.74
+<EPS-DILUTED>                                     0.67
+
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.9
+<SEQUENCE>10
+<FILENAME>0010.txt
+<DESCRIPTION>RESTATED FDS FOR THREE MONTHS ENDED 09/30/1998
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   3-MOS
+<FISCAL-YEAR-END>                          JUN-30-1999
+<PERIOD-START>                             JUL-01-1998
+<PERIOD-END>                               SEP-30-1998
+<CASH>                                           5,191
+<SECURITIES>                                    12,051
+<RECEIVABLES>                                    1,153
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                18,964
+<PP&E>                                           3,152
+<DEPRECIATION>                                   1,686
+<TOTAL-ASSETS>                                  25,569
+<CURRENT-LIABILITIES>                            6,445
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        980
+<COMMON>                                         9,161
+<OTHER-SE>                                       8,983
+<TOTAL-LIABILITY-AND-EQUITY>                    25,569
+<SALES>                                          4,193
+<TOTAL-REVENUES>                                 4,193
+<CGS>                                              649
+<TOTAL-COSTS>                                      649
+<OTHER-EXPENSES>                                 1,437
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  2,503
+<INCOME-TAX>                                       820
+<INCOME-CONTINUING>                              1,683
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,683
+<EPS-BASIC>                                       0.34
+<EPS-DILUTED>                                     0.31
+
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.10
+<SEQUENCE>11
+<FILENAME>0011.txt
+<DESCRIPTION>RESTATED FDS FOR YEAR ENDED 06/30/1998
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+FINANCIAL STATEMENTS OF MICROSOFT CORPORATION AND HAS BEEN RESTATED FOR
+CONSISTENT PRESENTATION WITH THE FINANCIAL DATA SCHEDULE FOR THREE MONTHS ENDED
+SEPTEMBER 30, 2000.
+</LEGEND>
+<RESTATED>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   YEAR
+<FISCAL-YEAR-END>                          JUN-30-1998
+<PERIOD-START>                             JUL-01-1997
+<PERIOD-END>                               JUN-30-1998
+<CASH>                                           3,839
+<SECURITIES>                                    10,088
+<RECEIVABLES>                                    1,460
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                15,889
+<PP&E>                                           3,052
+<DEPRECIATION>                                   1,547
+<TOTAL-ASSETS>                                  22,357
+<CURRENT-LIABILITIES>                            5,703
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                        980
+<COMMON>                                         8,025
+<OTHER-SE>                                       7,622
+<TOTAL-LIABILITY-AND-EQUITY>                    22,357
+<SALES>                                         15,262
+<TOTAL-REVENUES>                                15,262
+<CGS>                                            2,460
+<TOTAL-COSTS>                                    2,460
+<OTHER-EXPENSES>                                 6,217
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  7,117
+<INCOME-TAX>                                     2,627
+<INCOME-CONTINUING>                              4,490
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     4,490
+<EPS-BASIC>                                       0.92
+<EPS-DILUTED>                                     0.84
+
+
+
+
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

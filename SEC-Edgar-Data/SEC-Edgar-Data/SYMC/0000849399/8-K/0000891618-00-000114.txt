@@ -1,0 +1,2431 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CjLv1uvWPPkk8PvXMdMzsXBsvImqok59gaudE6xjeKaIKPIiLvdMv4Q3b9/5rGGm
+ aHpRku+HwyjC4+fvPipXKw==
+
+<SEC-DOCUMENT>0000891618-00-000114.txt : 20000202
+<SEC-HEADER>0000891618-00-000114.hdr.sgml : 20000202
+ACCESSION NUMBER:		0000891618-00-000114
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19991231
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYMANTEC CORP
+		CENTRAL INDEX KEY:			0000849399
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770181864
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0402
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-17781
+		FILM NUMBER:		507640
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10201 TORRE AVE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4082539600
+
+	MAIL ADDRESS:	
+		STREET 1:		10201 TORRE AVENUE
+		STREET 2:		10201 TORRE AVENUE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>8-K
+<TEXT>
+
+<PAGE>   1
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D. C. 20549
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+
+     PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+       DATE OF REPORT (DATE OF EARLIEST EVENT REPORTED): DECEMBER 31, 1999
+
+                         COMMISSION FILE NUMBER 0-17781
+
+                              SYMANTEC CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+         DELAWARE                                           77-0181864
+(State or other jurisdiction of                          (I.R.S. employer
+ incorporation or organization)                         identification no.)
+
+       20330 STEVENS CREEK BLVD.
+         CUPERTINO, CALIFORNIA                              95014-2132
+(Address of principal executive offices)                    (zip code)
+
+   Registrant's telephone number, including area code:    (408) 253-9600
+
+
+<PAGE>   2
+
+Item 2. Acquisition or Disposition of Assets.
+
+On December 31, 1999, pursuant to an Asset Purchase Agreement ("Agreement")
+dated December 10, 1999, by and among Symantec Corporation, a Delaware
+corporation, Symantec Limited, an Irish corporation (collectively, "Symantec"),
+BEA Systems, Inc., a Delaware corporation ("BEA"), and WB Information
+Corporation, a Delaware Corporation ("WB"), (together with BEA, "Buyer"),
+Symantec completed the transfer of the principal assets and liabilities of the
+Visual Cafe product line to Buyer. The assets primarily consist of fixed assets
+and intangible assets associated with the Visual Cafe product line. As
+consideration for the assets and liabilities transferred to Buyer, Symantec
+received $75 million in a lump-sum cash payment on December 31, 1999.
+
+For up to six months following the closing, Symantec and WB will work together
+in accordance with a transition agreement to ensure a smooth transition of the
+operations to WB. Under the transition agreement, Buyer will pay Symantec a fee
+for invoicing, collecting receivables, shipping and other operational and
+support activities, until such time Buyer has the ability to take over these
+activities, but no later than June 30, 2000.
+
+Item 7. Financial Statements and Exhibits.
+
+(b) Pro forma financial information.
+
+The Company has determined that pro forma financial information is not required
+to be filed as a part of this Report on Form 8-K.
+
+(c) Exhibits.
+
+The following exhibit is filed herewith:
+
+99.01  Asset Purchase Agreement dated December 10, 1999, among the Registrant,
+       Symantec Limited, BEA Systems Inc. and WB Information Corporation.
+
+
+
+<PAGE>   3
+
+
+
+
+
+SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+Date:  January 13, 2000               SYMANTEC CORPORATION
+
+                                      By       /s/ John W. Thompson
+                                         --------------------------
+                                               John W. Thompson
+                                               Chairman, President and
+                                               Chief Executive Officer
+
+
+                                      By       /s/ Gregory Myers
+                                         --------------------------
+                                               Gregory Myers
+                                               Chief Financial Officer and
+                                               Chief Accounting Officer
+
+
+
+<PAGE>   4
+
+<TABLE>
+<CAPTION>
+Exhibit Index
+<S>     <C>
+99.01   Asset Purchase Agreement dated December 10, 1999, among the Registrant, Symantec
+        Limited, BEA Systems Inc. and WB Information Corporation.
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.01
+<SEQUENCE>2
+<DESCRIPTION>EX-99.01
+<TEXT>
+
+<PAGE>   1
+
+                                                                   EXHIBIT 99.01
+                            ASSET PURCHASE AGREEMENT
+
+        THIS ASSET PURCHASE AGREEMENT (this "AGREEMENT") is entered into as of
+December 10, 1999 among Symantec Corporation, a Delaware corporation, Symantec
+Limited, an Irish corporation (collectively, "SYMANTEC"), and BEA Systems, Inc.,
+a Delaware corporation ("BEA") and WB Information Corporation ("ACQUISITION
+SUB," and together with BEA, "BUYER"). Although this Agreement is entered into
+as of December 10, 1999, it is the intent of the parties that the assets to be
+transferred and the liabilities to be assumed will have an effective date as of
+the Closing anticipated to be December 31, 1999 (the "EFFECTIVE DATE"), such
+that Buyer will have the benefits and obligations with respect to such
+transferred assets and assumed liabilities from and after the Effective Date.
+
+                                    RECITALS
+
+        A. Symantec is in the business of developing, marketing and distributing
+certain software products known as the "Visual Cafe" product line as further
+described in Exhibit A hereto (the "BUSINESS").
+
+        B. The parties intend that, subject to the terms and conditions
+hereinafter set forth, Buyer will purchase from Symantec all its right, title
+and interest in and to the Business, including the software programs existing
+and under development, derivative works and related technical material and
+assets used in the Business, as set forth below.
+
+        C. In exchange for the purchase of the assets comprising the Business,
+Buyer will pay Symantec the Purchase Price (defined below).
+
+                                    AGREEMENT
+
+        NOW, THEREFORE, THE PARTIES HERETO HEREBY AGREE AS FOLLOWS:
+
+        1. PURCHASE AND SALE OF ASSETS
+
+                1.1 SALE AND ASSIGNMENT OF ASSETS. Subject to and on the terms
+and conditions set forth in this Agreement, Buyer will purchase from Symantec
+and Symantec will sell, assign, convey, transfer and deliver to Buyer the
+following assets (collectively the "ASSETS"):
+
+                        (a) All the right, title and interest of Symantec in and
+to all software programs of Symantec pertaining directly and primarily to the
+Business, including those described in Exhibit A-1 (the "PROGRAMS"), and in and
+to all tools owned by Symantec to the extent that they pertain directly and
+primarily to the Business, including those described in Exhibit A-2 (the
+"TOOLS"), including, but not limited to, all source codes, computer software
+programs, algorithms, specifications, encoding techniques, descriptions,
+layouts, diagrams, reports, test and other data and programs, and all related
+documentation and information, for the current versions of the Programs and the
+Tools, including all source code, object code, marketing rights, patents, patent
+rights,
+
+
+
+                                       1
+<PAGE>   2
+
+
+patent applications, copyrights, copyright registrations, copyright
+applications, trademarks, trademark registrations, trademark applications, trade
+secrets, rights of priority, technology, know-how, inventions, moral rights,
+vendors lists, confidential and proprietary information related thereto,
+including the right to secure renewals, reissuances and extensions of the
+foregoing, and all Derivative Works prepared by or on behalf of Symantec from
+any of the Programs or Tools. As used in this Agreement, "DERIVATIVE WORK"
+includes any translation, adaptation, modification, extension, upgrade,
+improvement, compilation, abridgment or other form in which any of the Programs
+or Tools may be recast, transformed or adapted where such derivative work would
+infringe any of the copyrights, including audio-visual copyrights, in any of the
+Programs or Tools. Notwithstanding the foregoing, Symantec shall retain all
+rights to, and the term "Assets" shall not include, the software programs
+specifically described in Exhibit A-3, except to the extent such software
+programs (the "LICENSED PROGRAMS") are licensed to Buyer pursuant to the License
+Agreement between the parties entered into concurrently herewith (the
+"License"). Symantec will also transfer to Buyer, to the extent available, on an
+AS-IS basis, without warranty, all of the right, title and interest of Symantec
+in and to all prior versions of the Programs, Tools and Derivative Works, each
+of which is described in Exhibit A-4 (the "SUPERSEDED PROGRAMS")
+
+                        (b) All right, title and interest of Symantec in and to
+all software code under development or in use by Symantec on the date of this
+Agreement to the extent such software code pertains directly and primarily to
+the Business, including the software code described in Exhibit B (the
+"DEVELOPMENTS"). The Programs, the Tools and the Developments are collectively
+referred to herein as the "SOFTWARE PROGRAMS".
+
+                        (c) All Intellectual Property Rights (as defined in
+Section 3.10 below) of Symantec, other than as specified in Section 1.1(c) of
+the Symantec Exception Letter.
+
+                        (d) All right, title and interest of Symantec in and to
+the following:
+
+                                (i) All licenses, obligations, contracts and
+other agreements or commitments of Symantec pertaining directly and primarily to
+the Business (all such licenses, contracts and other agreements are listed by
+Symantec in Exhibit C hereto), excluding any licenses, obligations, contracts or
+other agreements or commitments listed in Section 1.1 of the Symantec Exception
+Letter (as defined below) or otherwise excluded by agreement of the parties in
+writing prior to the Closing (as defined in Section 7 below). To the extent that
+any license, obligation, contract or other agreement or commitment pertaining
+directly and primarily to the Business that has not been disclosed to Buyer is
+discovered after the Closing, Buyer will have the right to elect whether or not
+to have such license, contract or other agreement or commitment assigned to
+Buyer. The licenses, obligations, contracts and other agreements and commitments
+to be assigned to Buyer hereunder are referred to herein as the "CONTRACTS."
+
+
+
+
+
+                                     - 2 -
+<PAGE>   3
+
+
+
+
+
+
+
+                                (ii) The tangible assets used by Symantec in
+connection with the Business to be transferred to Buyer, which are listed by
+Symantec in reasonable detail in Exhibit D hereto (the "TANGIBLE ASSETS"). For
+purposes of allocating the purchase price for the Assets, such tangible assets
+will be valued at the net book value therefor as of the Closing.
+
+                                (iii) All end-user licenses and associated
+rights to "off-the-shelf" commercial software products used in connection with
+computer and data processing equipment included in the tangible assets described
+in (ii) above as set forth in Exhibit D, excluding any licenses, obligations,
+contracts or other agreements or commitments listed in Section 1.1 of the
+Symantec Exception Letter or otherwise excluded by agreement of the parties in
+writing prior to the Closing.
+
+                                (iv) All domain names, URLs, web site contents,
+and phone numbers owned by Symantec pertaining directly and primarily to the
+Business. Each such domain name, URL, web site content, and phone number is set
+forth in Section 1.1(d) of the Symantec Exception Letter.
+
+                        (e) Accurate and complete copies of Symantec's books and
+records, or any part thereof, pertaining directly and primarily to the Business,
+including but not limited to:
+
+                                (i) marketing and sales information, pricing,
+marketing plans, business plans, financial and business projections;
+
+                                (ii) correspondence, production records,
+employment records;
+
+                                (iii) contracts with vendors, distributors,
+resellers, customers and other parties; and
+
+                                (iv) any confidential information which has been
+reduced to writing, and other files and records (the "BUSINESS RECORDS").
+Notwithstanding the foregoing, the parties agree that Symantec may retain the
+originals of all Business Records, provided that in the event that such
+originals are needed for Buyer's operation of the Business after the Closing,
+the Symantec will cooperate in providing Buyer access thereto.
+
+                        (f) The right to enforce confidentiality,
+non-disclosure, employee invention and other proprietary rights agreements
+between Symantec and third parties, employees, consultants and contractors with
+respect to the Software Programs and the Intellectual Property Rights.
+
+                        (g) All prepaid items (including, but not limited, to
+those described in Section 1.1(g) of the Symantec Exception Letter), deposits
+and other similar assets of Symantec resulting from the Business and associated
+with obligations to be
+
+
+
+                                     - 3 -
+<PAGE>   4
+
+
+
+
+
+
+
+assumed by Buyer existing on the Closing Date (the prepaid items, deposits and
+other similar items to be conveyed to Buyer pursuant hereto are hereinafter
+collectively referred to as the "PREPAID ITEMS").
+
+                        (h) Except as specifically provided in Section 1.2 of
+the Symantec Exception Letter, all other intangible assets pertaining directly
+and primarily to the Business.
+
+                1.2 EXCLUDED ASSETS. Those assets of Symantec related to the
+Business and listed in Section 1.2 of the Symantec Exception Letter will be
+retained by Symantec, will not be included in the term "Assets" and will not be
+sold and transferred to Buyer (the "EXCLUDED ASSETS").
+
+                1.3 CONVEYANCE OF ASSETS. From and after the Closing, Symantec
+will not retain any further right in or to the Assets. Symantec hereby
+represents to Buyer that it owns, and it will convey to Buyer at the Closing,
+the Assets free and clear of any and all restrictions, except as set forth above
+in Section 1.1 of the Symantec Exception Letter, and free and clear of any and
+all liabilities, obligations, liens or encumbrances. The Assets will be
+delivered to Buyer at their current locations; intangible assets will be deemed
+delivered at Symantec's principal place of business.
+
+                1.4 ASSUMPTION OF LIABILITIES. Buyer will assume, effective on
+the Closing, only those liabilities and obligations of Symantec which pertain
+directly and primarily the conduct of the Business and which are (a) entered
+into or incurred by Buyer from and after the Effective Date, (b) under those
+Contracts transferred to Buyer pursuant to Section 1.1(d)(i) which are validly
+assigned to Buyer, (c) that are listed in Section 1.4 of the Symantec Exception
+Letter, (d) that constitute taxes and charges to be paid by Buyer pursuant to
+Section 7.2, (e) that arise under any Employee Plan (as defined in Section
+3.13(c) and that has been disclosed to Buyer in writing), (f) that constitute
+warranty claims or service claims arising from and after the Effective Date
+which are based on warranties or service commitments disclosed by Symantec to
+Buyer pursuant to the Symantec Exception Letter, or (g) which are Retention
+Bonuses (as defined in Section 2.1 below). Buyer will not assume any liabilities
+or obligations of Symantec of any nature whatsoever, except as expressly
+provided in the first sentence of this Section 1.4, whether now existing or
+hereafter arising, including those (i) arising under ERISA (as defined in
+Section 3.13(c) below), or (ii) except as set forth above in this Section 1.4,
+arising under any claim existing, accrued or accruing, contingent or otherwise,
+before the Closing.
+
+        2. PAYMENT FOR PURCHASE AND SALE OF ASSETS
+
+                2.1 AGGREGATE PURCHASE PRICE. The aggregate purchase price to be
+paid to Symantec by Buyer for the Assets shall be (i) Seventy-Five Million
+Dollars ($75,000,000.00) less (ii) fifty percent (50%) of the amount of
+retention bonuses listed in Section 2.1 of the Symantec Exception Letter or
+Three Hundred Fifty Thousand Dollars
+
+
+
+                                     - 4 -
+<PAGE>   5
+
+
+
+
+
+
+
+($350,000) whichever is less (the "RETENTION BONUSES"), payable in cash or by
+wire transfer ("PURCHASE PRICE").
+
+                2.2 PAYMENT AT CLOSING. The Purchase Price shall be paid to
+Symantec by Buyer at the Closing.
+
+        3. REPRESENTATIONS AND WARRANTIES OF SYMANTEC
+
+                Symantec hereby represents and warrants, except as set forth in
+the exception letter, delivered by Symantec to Buyer (the "SYMANTEC EXCEPTION
+LETTER") herewith (including, without limitation, the section and subsections of
+the Symantec Exception Letter referred to below in this Article 3) as set forth
+below. The designation of an item in the Symantec Exception Letter as an
+exception to any section or subsection of this Agreement shall not cause such
+item to be an exception to any other applicable section or subsection unless it
+is evident from the language of the exception itself (as distinguished from the
+content of any documents listed in the Symantec Exception Letter) that such
+exception would be applicable to another section or subsection of this
+Agreement.
+
+                3.1 ORGANIZATION AND GOOD STANDING. Symantec is a corporation
+duly organized, validly existing and in good standing under the laws of
+Delaware. Symantec Limited is a corporation duly organized and validly existing
+and in good standing under the laws of the Republic of Ireland. Symantec is
+qualified as a foreign corporation in each jurisdiction where the Business is
+conducted, except where failure to obtain such qualification would not have a
+material adverse affect on the Business.
+
+                3.2 POWER, AUTHORITY AND VALIDITY.
+
+                        (a) Symantec has the corporate right, power and
+authority to enter into and perform its obligations under this Agreement. The
+execution, delivery and performance of this Agreement by Symantec have been duly
+and validly approved by the Board of Directors of Symantec. No vote of the
+holders of Symantec's capital stock is required for Symantec to enter into and
+perform its obligations under this Agreement.
+
+                        (b) Except as set forth in Section 3.2(b) of the
+Symantec Exception Letter, no filing, authorization or approval, governmental or
+otherwise, is necessary to enable Symantec to enter into, and to perform its
+obligations under, this Agreement, except for consents required under the
+Contracts or other agreements, instruments or commitments disclosed in Section
+3.3 of the Symantec Exception Letter as exceptions to the representation made in
+the last sentence of Section 3.3, and except for filings (the "HSR FILINGS") as
+may be required under the Hart-Scott-Rodino Antitrust Improvements Act of 1976
+and the rules and regulations thereunder (the "HSR ACT").
+
+                        (c) This Agreement constitutes the valid and binding
+obligation of Symantec enforceable against it in accordance with its terms,
+except as to the effect, if any, of (a) applicable bankruptcy, insolvency and
+other similar laws
+
+
+
+                                     - 5 -
+<PAGE>   6
+
+
+
+
+
+
+
+affecting the rights of creditors generally and (b) the effect of general
+principles of equity, including rules of law governing specific performance,
+injunctive relief and other equitable remedies.
+
+                3.3 NO VIOLATION. Except as set forth on Section 3.3 of the
+Symantec Exception Letter, neither the execution and delivery of this Agreement,
+nor the consummation of the transactions provided for herein, will conflict
+with, or (with or without notice or lapse of time, or both) result in a
+termination, breach, impairment or violation of, (a) any provision of the
+charter documents of Symantec as currently in effect, (b) in any material
+respect, any Contract or any other agreement, instrument or commitment
+pertaining directly and primarily to the Business to which Symantec is a party
+or by which it is bound or (c) any federal, state, local or foreign judgment,
+writ, decree, order, statute, rule or regulation applicable to Symantec. The
+consummation of this Agreement and Buyer's acquisition of the Assets and
+exercise of the rights hereunder in and of themselves will not (x) result in the
+creation of any lien upon the Assets, (y) require the consent of any third party
+or (z) have a material adverse effect upon any such Assets or the exercise of
+any such rights. Except as set forth in Section 3.3 of the Symantec Exception
+Letter, Symantec is not a party to, or otherwise subject to any provision
+contained in, any instrument or agreement which restricts or otherwise limits
+either Symantec's right to transfer the Assets or will restrict Buyer's use
+thereof after transfer to Buyer.
+
+                3.4 LITIGATION. Except as set forth in Section 3.4 of the
+Symantec Exception Letter, there is no action, proceeding or investigation
+pending or threatened in writing against Symantec before any court or
+administrative agency that, if determined adversely to Symantec, would have a
+material adverse effect on (a) the present or future value of the Assets, (b)
+the transfer of any of the Assets to Buyer under this Agreement or (c) the
+ownership or use, in any respect, of any of the Assets by Symantec or Buyer.
+There is no valid basis for any person, firm, corporation or entity to assert a
+claim against Symantec, or against Buyer as successor in interest to Symantec,
+based upon ownership or rights to ownership of any of the Assets.
+
+                3.5 SYMANTEC FINANCIAL INFORMATION. True and complete copies of
+certain financial data statements for the Business, as listed in Section 3.5 of
+the Symantec Exception Letter, have been delivered by Symantec to Buyer
+(collectively, the "SYMANTEC FINANCIAL STATEMENTS"). The Symantec Financial
+Statements: (1) are in accordance with the books and records of Symantec, and
+(2) present fairly in all material respects the financial data and cash flows
+disclosed therein for the periods indicated in such statements. Symantec makes
+no representations whatsoever regarding any projections, pro forma information
+or forward-looking information that may have been shared with Buyer. Except as
+set forth in Schedule 3.5, Symantec has no debt, liability or obligation of any
+nature, whether accrued, absolute, contingent or otherwise, and whether due or
+to become due, secured by the Assets.
+
+
+
+
+
+                                     - 6 -
+<PAGE>   7
+
+
+
+
+
+
+
+                3.6 TAXES. Symantec has filed all federal, state, local and
+foreign tax and information returns related to the Business or any of the Assets
+that are required to be filed, and Symantec has paid all taxes required to be
+paid in respect of all periods for which such returns have been filed. With
+respect to the Business, Symantec is not delinquent in the payment of any tax or
+in the filing of any tax returns, and no deficiencies for any tax have been
+threatened, claimed, proposed or assessed which have not been settled or paid.
+For the purposes of this Section 3.6, the terms "tax" and "taxes" include all
+federal, state, local and foreign income, gains, franchise, excise, property,
+sales, use, employment, license, payroll, occupation, recording, value added or
+transfer taxes, governmental charges, fees, levies or assessments (whether
+payable directly or by withholding), and, with respect to such taxes, any
+estimated tax, interest and penalties or additions to tax and interest on such
+penalties and additions to tax.
+
+                3.7 NO PRODUCT OR SERVICE WARRANTY CLAIMS. Except for service
+and warranty claims pursuant to contract and warranties disclosed in Section 3.7
+of the Symantec Exception Letter, neither Symantec nor any of the Software
+Programs or any other Asset is the subject of any pending or threatened claim
+for breach of warranty or product liability and there is no valid basis for any
+such claim or action. Except as set forth in Section 3.7 of the Symantec
+Exception Letter, there are no contracts for maintenance, bug fix, development
+or warranty obligations related to the Assets, other than warranties provided in
+connection with Symantec's standard shrink-wrap end user license agreement and
+support agreements, which support agreements are listed in Section 3.7 of the
+Symantec Exception Letter.
+
+                3.8 ABSENCE OF CERTAIN CHANGES. Since October 31, 1999, except
+as set forth in Section 3.8 of the Symantec Exception Letter, there has not been
+with respect to Symantec:
+
+                        (a) any change in the financial condition, properties,
+assets, liabilities, business or operations which change by itself or in
+conjunction with all other such changes, whether or not arising in the ordinary
+course of business, has had or could reasonably be expected to have a material
+adverse effect on the Business or the ownership or use of any of the Assets;
+
+                        (b) any mortgage, encumbrance or lien placed on any of
+the Assets;
+
+                        (c) any material obligation or liability incurred by
+Symantec with respect to the Business or any of the Assets;
+
+                        (d) any purchase or sale or other disposition, or any
+agreement or other arrangement for the purchase, sale or other disposition, of
+any of the Assets or related to the operation of the Business, other than sales
+of licenses of the Software Programs in the ordinary course of business,
+consistent with past practice, for an amount, with respect to each such sale, of
+less than $50,000;
+
+
+
+
+
+                                     - 7 -
+<PAGE>   8
+
+
+
+
+
+
+
+                        (e) any damage, destruction or loss, whether or not
+covered by insurance, materially and adversely affecting the Assets or the
+Business;
+
+                        (f) with respect to the Business, any change in the
+compensation payable or to become payable to the Business Employees, as defined
+in Section 3.12(e) below; or any bonus payment or arrangement made to or with
+any of such Business Employees;
+
+                        (g) any payment or discharge of a material lien or
+liability thereof related to the Business or any of the Assets, which lien or
+liability was not incurred in the ordinary course of business, consistent with
+past practices; or
+
+                        (h) any obligation or liability incurred, or loan or
+advance made, by Symantec to any of the Business Employees, except normal
+compensation and expense allowances in accordance with past practice.
+
+                3.9 CONTRACTS; TANGIBLE ASSETS.
+
+                        (a) Exhibit C includes a true and complete list and
+summary of all licenses, instruments, obligations, contracts and other
+agreements or commitments of Symantec pertaining directly and primarily to the
+Business or any of the Assets, including all licenses, instruments, obligations,
+contracts and other agreements or commitments whereby Symantec has acquired
+ownership or license rights to software code or Intellectual Property Rights
+used or to be used in any Software Programs or the development thereof or has
+granted to third parties any license rights to any Software Programs, any Assets
+or any Intellectual Property Rights. Symantec has provided to Buyer true and
+complete copies of such licenses, instruments, obligations, contracts and other
+agreements or commitments. All licenses, instruments, obligations, contracts and
+other agreements or commitments listed in Exhibit C (i) are valid, binding,
+enforceable and in full force and effect except as to the effect, if any, of (A)
+applicable bankruptcy, insolvency and other similar laws affecting the rights of
+creditors generally and (B) the effect of general principles of equity,
+including rules of law governing specific performance, injunctive relief and
+other equitable remedies and (ii) will continue to be so on identical terms to
+Buyer's benefit immediately following the Closing and all consents or
+permissions needed to assign any such license, sublicense, contract, agreement
+or permission has been obtained or will be obtained prior to the Closing, except
+as indicated in Section 3.9(a) of the Symantec Exception Letter. Except as
+indicated on Section 3.9(a) of the Symantec Exception Letter, Symantec is not
+(or, but for the passage of time, would not be) in breach of or default under
+any material term of any agreement, obligation, contracts or commitment listed
+on Exhibit C. No penalty or additional payment is required in connection with
+the sale, assignment or other transfer of any of the Contracts, the Assets or
+other items to Buyer pursuant to this Agreement.
+
+                        (b) Exhibit D contains an accurate and complete list of
+the computer clients used primarily by employees of the Business and computer
+servers used primarily in the operation of the Business. Symantec owns all of
+the Tangible Assets,
+
+
+
+                                     - 8 -
+<PAGE>   9
+
+
+
+
+
+
+
+free and clear of all liens, mortgages, charges or encumbrances (other than for
+taxes not yet due and payable).
+
+                3.10 INTELLECTUAL PROPERTY. As used herein the term
+"INTELLECTUAL PROPERTY RIGHTS" means, collectively, all of the following
+worldwide intangible legal rights pertaining directly and primarily to the
+Business, including those existing or acquired by ownership, license (but only
+to the extent such license is the effective equivalent of ownership) or other
+legal operation, whether or not filed, perfected, registered or recorded,
+existing as of the Closing Date (as defined in Section 7 below) in or to: (i)
+all patents, patent applications, patent disclosures and related patent rights,
+including any and all continuations, divisions, reissues, reexaminations, or
+extensions thereof which have been filed, issued or acquired by Symantec as of
+the Closing Date, and all inventions conceived of or reduced to practice as of
+the Closing Date (the "PATENT RIGHTS"); (ii) all copyrights, whether or not
+registered, owned by Symantec as of the Closing Date, including all
+registrations and applications therefor and all moral rights relating thereto
+(the "COPYRIGHT RIGHTS"); (iii) all trademarks, trade names and service marks,
+whether or not registered, including all registrations and applications therefor
+(the "TRADEMARK RIGHTS"); (iv) all trade secrets and know-how; (v) all
+technology and other intellectual and proprietary rights; (vi) all rights
+relating to the protection of the foregoing; and (vii) all rights to sue or make
+any claims for any past, present or future infringement, misappropriation or
+unauthorized use of the any of the foregoing rights and the right to all income,
+royalties, damages and other payments that are now or may hereafter become due
+or payable with respect to any of the foregoing rights, including damages for
+past, present or future infringement, misappropriate or unauthorized use
+thereof.
+
+                        (a) Section 3.10 of the Symantec Exception Letter
+contains a complete and accurate list of Symantec's Patent Rights, registered
+Copyright Rights and Trademark Rights pertaining directly and primarily to the
+Business. Symantec has provided Buyer with copies of all such registrations and
+applications and any licenses granted or received with respect thereto. Symantec
+is the sole and exclusive owner of or has the exclusive right to use pursuant to
+license, sublicense, agreement or other valid permission, the all Intellectual
+Property Rights necessary for the operation of the Business as presently
+conducted (the present conduct of the Business includes, without limitation, all
+Software Programs currently under development, whether or not they are currently
+being marketed by Symantec). Symantec owns and has good title to all of the
+Software Programs and all of the Intellectual Property Rights, free and clear of
+all liens, charges, claims or encumbrances (other than for taxes not yet due and
+payable).
+
+                        (b) The Assets, together with the rights granted to
+Buyer under the License, include all assets, and intellectual property and
+proprietary rights necessary to enable Buyer to continue to develop the
+Developments and to manufacture (except that no manufacturing assets are
+included, other than intellectual property and proprietary rights), market,
+distribute, use, license and sell the Software Programs and to otherwise conduct
+the Business in the manner in which the Business is conducted by Symantec as
+
+
+
+                                     - 9 -
+<PAGE>   10
+
+
+
+
+
+
+
+of this date and as it is presently proposed to be conducted by Symantec, and
+such Assets will be owned or available for use by Buyer immediately following
+the Closing in the same manner and on the same terms and conditions enjoyed by
+Symantec prior to the Closing.
+
+                        (c) Symantec has taken all reasonable measures to
+protect the Intellectual Property Rights. Symantec has no knowledge of any
+infringement of any of the Intellectual Property Rights by any third party or
+any instance in which any such measures to protect any of the Intellectual
+Property Rights have not been taken or have failed in any material respect.
+There has not been any material loss, cancellation, termination or expiration of
+any such Intellectual Property Rights. All fees to maintain Symantec's
+registered rights in the Intellectual Property Rights that are due on or before
+the Closing Date, including registration, maintenance and prosecution fees, and
+all professional fees incurred in connection therewith, have been paid.
+
+                        (d) Symantec has delivered to Buyer the standard form of
+agreement entered into by its present and past employees, consultants and
+independent contractors with respect to the Intellectual Property Rights and
+protection of confidential information related to the Business. All present and
+past employees, consultants and independent contractors have entered into
+agreements in substantially such form. Symantec is not using in the conduct of
+the Business any confidential information or trade secrets of any former
+employer of any of its past or present employees, consultants or independent
+contractors.
+
+                        (e) The Business, as conducted on the date hereof, does
+not, and the Business to be conducted by Symantec prior to the Closing will not,
+and the manufacture, marketing, licensing, sale or other use of Software
+Programs and all other Assets, as they exist on the Closing Date, do not and
+will not, cause Symantec or Buyer to infringe, violate or misappropriate any
+patents, trademarks, service marks, trade names, copyrights, trade secrets,
+proprietary rights or other intellectual property of any other person or entity.
+Symantec has not received any written or oral claim or notice of infringement or
+potential infringement of the intellectual property or proprietary rights of any
+other person or entity.
+
+                        (f) To Symantec's best knowledge, no third party has
+interfered with, infringed upon, misappropriated, or otherwise come into
+conflict with any of the Intellectual Property Rights. None of the Intellectual
+Property Rights is registered in the name of anyone other than Symantec and no
+one other than Symantec has any interest therein or right thereto, including the
+right to royalty or other payments.
+
+                        (g) Except as set forth in Section 3.4 of the Symantec
+Exception Letter, no Contracts or other agreements of Symantec restrict
+Symantec's or Buyer's ability to operate the Business in any jurisdiction or
+with respect to any market or industry.
+
+
+
+
+
+                                     - 10 -
+<PAGE>   11
+
+
+
+
+
+
+
+                        (h) Except as indicated in Section 3.10 of the Symantec
+Exception Letter, Symantec is not obligated to pay any royalties or other
+payments or compensation to any third parties, employees, consultants,
+contractors, officers, directors, stockholders or others with respect to the
+Assets or the Intellectual Property Rights.
+
+                        (i) Symantec has made a full, complete and accurate
+disclosure to Buyer regarding the state of development of the Developments and
+the Software Programs, including access to the database of all known bugs and
+deficiencies and their current status of resolution.
+
+                        (j) For the longer of 13 months from the date of this
+Agreement or the useful life of the Software Programs, all of the Software
+Programs will perform (including but not limited to the processing of data) in
+the same manner during and after the year 2000 as they do before the year 2000,
+without the need to modify or alter any of them in any respect, provided that
+the foregoing in no event will extend to any affect that non-year 2000 compliant
+third party hardware, software or data will have on such performance.
+
+                        (k) No governmental or third party funding, grants or
+resources were utilized in connection with designing, developing, or
+manufacturing the Software Programs or the Developments or otherwise in
+conducting the Business and no governmental entity has any rights in or to any
+of the Assets or the Intellectual Property Rights.
+
+                3.11 SUPPLIERS AND CUSTOMERS. To Symantec's actual knowledge,
+except as set forth on Section 3.4 of the Symantec Exception Letter, (a) with
+respect to the Assets and the Business, Symantec has good commercial working
+relationships with its suppliers and since January 1, 1999 no supplier
+accounting for two percent (2%) or more of Symantec's purchases of supplies has
+canceled or otherwise terminated its relationship with Symantec, decreased or
+limited materially its materials supplied to Symantec from any corresponding
+period or, to Symantec's best knowledge, threatened to take any such action, and
+(b) with respect to the Assets and the Business, no customer of Symantec has
+threatened to cancel its agreement with Symantec or to bring an action or claim
+against Symantec.
+
+                3.12 COMPLIANCE WITH LAWS. Except as set forth on Section 3.4 of
+the Symantec Exception Letter, with respect to the operation of the Business,
+Symantec has complied, and will be at the Closing Date, in compliance, in all
+respects material to the Business or any of the Assets, with all applicable
+laws, ordinances, regulations and rules, and all orders, writs, injunctions,
+awards, judgments and decrees, applicable to the Business or any of the Assets,
+including: (a) all applicable federal, state and local laws, ordinances and
+regulations, and all orders, writs, injunctions, awards, judgments and decrees,
+and (b) the U.S. Export Administration Act and regulations promulgated
+thereunder or other laws, regulations, rules, orders, writs, injunctions,
+judgments or decrees applicable to the export or re-export of any of the Assets.
+Symantec has received
+
+
+
+                                     - 11 -
+<PAGE>   12
+
+
+
+
+
+
+
+all permits and approvals from, and has made all filing with, third parties,
+including government agencies and authorities, that are necessary to the conduct
+of the Business as presently conducted and as presently proposed by Symantec to
+be conducted.
+
+                3.13 EMPLOYEES.
+
+                        (a) Except as set forth in Section 3.13(a) of the
+Symantec Exception Letter, Symantec has no employment contract or material
+consulting agreement with any person engaged in any respect in the Business that
+is currently in effect and is not terminable at will upon thirty (30) days or
+less notice (other than agreements with the sole purpose of providing for the
+confidentiality of proprietary information or assignment of inventions).
+
+                        (b) With respect to the Business, Symantec has never
+been and is not now (a) subject to a union organizing effort, (b) subject to any
+collective bargaining agreement with respect to any of its employees employed in
+the Business, (c) subject to any other contract, written or oral, with any trade
+or labor union, employees' association or similar organization or (d) a party to
+any material current labor dispute. Symantec has good labor relations with
+respect to the Business. Symantec has no knowledge that any Business Employee
+intends to leave Symantec's employ (other than to become a Buyer employee
+pursuant to offers made by Buyer to selected employees of Symantec engaged in
+the Business).
+
+                        (c) Section 3.13(c) of the Symantec Exception Letter
+contains a list of all pension, retirement, disability, medical, dental or other
+health plans, life insurance or other death benefit plans, profit sharing,
+deferred compensation agreements, stock, option, bonus or other incentive plans,
+vacation, sick, holiday or other paid leave plans, severance plans or other
+similar employee benefit plans maintained by Symantec with respect to Business
+Employees (as defined below) (the "EMPLOYEE PLANS"). To the extent requested by
+Buyer, Symantec has delivered true and complete copies of all the Employee Plans
+to Buyer or Buyer's counsel. No liability with respect to the Employee Plans
+will pass to Buyer under the laws of the United States or other applicable laws
+by virtue of Buyer consummating the transactions contemplated by this Agreement.
+
+                        (d) No Business Employee is, to the best knowledge of
+Symantec, in material violation of (a) any term of any employment contract,
+patent disclosure agreement or noncompetition agreement or (b) any other
+contract or agreement, or any restrictive covenant, relating to the rights of
+any such employee to be employed by Symantec or to use trade secrets of
+proprietary information of others.
+
+                        (e) Section 3.13(e) of the Symantec Exception Letter
+contains a list of all employees, consultants and contractors of Symantec who
+are, or were at any time during the 6 month period prior to the date of this
+Agreement, engaged directly and primarily of the Business or who have materially
+contributed to the development of the Software Programs (the "BUSINESS
+EMPLOYEES"). Symantec has separately delivered to Buyer information relating to
+the current compensation (salary and any bonus or other
+
+
+
+                                     - 12 -
+<PAGE>   13
+
+
+
+
+
+
+
+special compensation arrangements), title and responsibilities of the Business
+Employees as of the date of this Agreement. Symantec has made no representation
+to any director, officer, employee, consultant or independent contractor
+regarding future employment by Buyer.
+
+                3.14 DOCUMENTS. Symantec has made available to Buyer for
+examination all documents and information listed or identified in the exhibits
+or schedules to this Agreement or the Symantec Exception Letter, or otherwise
+called for by this Agreement.
+
+                3.15 BOOKS AND RECORDS. The books, records and accounts of
+Symantec which relate to the Business and Assets (a) are in all material
+respects true and complete, (b) have been maintained in accordance with good
+business practices, (c) are stated in reasonable detail (in the context of
+Symantec's business) and accurately and fairly reflect the financial data and
+cash flows of or related to the Business or the Assets, as the case may be, and
+(d) in all material respects accurately and fairly reflect the basis for the
+Symantec Financial Statements.
+
+                3.16 NO BROKERS. Symantec is not obligated for the payment of
+fees or expenses of any investment banker, Broker or finder in connection with
+the negotiation, execution, delivery or performance of this Agreement or in
+connection with any transaction provided for herein or therein.
+
+                3.17 INSURANCE. Schedule 3.17 contains a summary of Symantec's
+insurance policies and coverages in effect applicable to the Assets and the
+Business.
+
+                3.18 GOVERNMENT CONTRACTS. Symantec has no knowledge of any
+acts, omissions or noncompliance with regard to any applicable public
+contracting statute, regulation or contract requirement (whether express or
+incorporated by reference) relating to any of the Contracts, the Business or any
+of the Assets with any Government Contract Party (as defined below) in either
+case that have led to or could lead to, either before or after the Closing Date,
+(a) any claim or dispute involving Symantec, the Business or any of the Assets
+(and/or Buyer as successor in interest to the Assets) and any Government
+Contract Party or (b) any suspension, debarment or contract termination, or
+proceeding related thereto. Symantec has no knowledge of any act or omission
+related to the marketing, licensing or selling to any Government Contract Party
+of any of Symantec technical data or computer software, the Business or any of
+the Assets and that has led to or could lead to, either before or after the
+Closing Date, any material cloud on any of Symantec's rights in and to any of
+the Assets. For purposes of this Section 3.18, the term "GOVERNMENT CONTRACT
+PARTY" means any independent or executive agency, division, subdivision, audit
+group or procuring office of the United States, or any other federal government,
+including any prime contractor of the federal government and any higher level
+subcontractor of a prime contractor of the federal government, and including any
+employees or agents thereof, in each case acting in such capacity.
+
+
+
+
+
+                                     - 13 -
+<PAGE>   14
+
+
+
+
+
+
+
+                3.19 ENVIRONMENTAL MATTERS.
+
+                        (a) Symantec is conducting, and at all times has
+conducted, the Business and its operations at the facilities or sites at which
+the Business is now or has previously been conducted by Symantec or any of its
+predecessors-in-interest (collectively, the "FACILITIES"), in accordance with
+and in material compliance with all Environmental Laws (as hereinafter defined).
+"ENVIRONMENTAL LAWS" means all United States, and other federal, state, and
+local laws and regulations relating to pollution, the protection of human health
+or the environment (including ambient air, surface water, ground water, land
+surface or subsurface strata), including laws and regulations relating to
+emissions, discharges, releases or threatened releases of Hazardous Materials,
+or otherwise relating to the manufacture, processing, distribution, use,
+treatment, disposal, transport or handling of Hazardous Materials (as defined
+below) or relating to occupational health and safety.
+
+                        (b) For the purposes of this Section 3.19, the term
+"HAZARDOUS MATERIALS" means any hazardous or toxic substance, material or waste
+which is or becomes prior to the Closing Date regulated under, or defined as a
+"hazardous substance," "pollutant," "contaminant," "toxic chemical," hazardous
+material," "toxic substance" or "hazardous chemical" under the Environmental
+Laws or any other laws applicable to the Business or the Assets.
+
+                        (c) During the period that Symantec has owned or leased
+the Facilities, there have been no disposals, releases or threatened releases of
+Hazardous Materials from or any presence thereof on such premises which would
+have a material adverse effect upon the Business, the Assets or the Symantec
+Financial Statements. Symantec has no knowledge of any presence, disposals,
+releases or threatened releases of Hazardous Materials on or from any of the
+Facilities (including any that may have occurred prior to Symantec having taken
+possession of any of such premises).
+
+                        (d) There are no outstanding orders, injunctions or
+decrees against Symantec, nor are there any pending or threatened investigations
+of any kind against Symantec, concerning any Environmental Laws and there has
+been no litigation, proceeding or administrative action brought or threatened in
+writing against Symantec, or any settlement reached by Symantec with, any party
+or parties alleging the presence, disposal, release or threatened release of any
+Hazardous Materials on, from or under any of the Facilities which could have a
+material adverse effect on the Business or the Assets.
+
+                3.20 DISCLOSURE. This Agreement, its exhibits and schedules, and
+any of the certificates or documents to be delivered by Symantec to Buyer under
+this Agreement, taken together, (a) contain, and as of the Closing will contain,
+no untrue statement of a material fact or (b) omit, and as of the Closing will
+omit, to state no material fact necessary in order to make the statements
+contained herein and therein, in light of the circumstances under which such
+statements were made, not misleading.
+
+
+
+
+
+                                     - 14 -
+<PAGE>   15
+
+
+
+
+
+
+
+                3.21 SOLVENCY. Symantec is solvent and neither intends or
+expects to file or seek relief under bankruptcy, insolvency, creditors' relief
+or similar laws.
+
+        4. REPRESENTATIONS AND WARRANTIES OF BUYER
+
+               Buyer hereby represents and warrants that, except as set forth on
+the exception letter delivered by Buyer to Symantec (the "BUYER EXCEPTION
+LETTER") herewith and referred to below in this Article 4:
+
+                4.1 ORGANIZATION AND GOOD STANDING. Each of BEA and Acquisition
+Sub is a corporation duly organized and validly existing and in good standing
+under the laws of the State of Delaware, and has the corporate power and
+authority to own, operate and lease its properties and to carry on its business
+as now conducted. No vote of the holders of capital stock of BEA or Acquisition
+Sub is required to enter into and perform its obligations under this Agreement.
+
+                4.2 POWER, AUTHORIZATION AND VALIDITY.
+
+                        (a) Each of BEA and Acquisition Sub has the corporate
+right, power and authority to enter into and perform its obligations under this
+Agreement. The execution, delivery and performance of this Agreement have been
+duly and validly approved by the Board of Directors of each of BEA and
+Acquisition Sub, and such approval, constitutes the only corporate action
+required to authorize the execution, delivery and performance by each of BEA and
+Acquisition Sub of this Agreement.
+
+                        (b) No filing, authorization or approval, governmental
+or otherwise, is necessary to enable Buyer to enter into, and to perform its
+obligations under, this Agreement, except for such filings as may be required to
+comply with the laws of Delaware and except for the HSR Filings.
+
+                        (c) This Agreement constitutes the valid and binding
+obligation of each of BEA and Acquisition Sub, enforceable against BEA and
+Acquisition Sub in accordance with its terms, except as to the effect, of any,
+of (a) applicable bankruptcy, insolvency and other similar laws, affecting the
+rights of creditors generally and (b) the effect of general principles of
+equity, including rules of law governing specific performance, injunctive relief
+and other equitable remedies.
+
+                4.3 NO VIOLATION. Neither execution and delivery of this
+Agreement nor the consummation of any of the transactions provided for herein,
+will conflict with, or (with or without notice or lapse of time, or both) result
+in a termination, breach, impairment or violation of, (a) any provision of the
+charter documents of either BEA or Acquisition Sub, as currently in effect or
+(b) any federal, state, local or foreign judgment, writ, decree, order, statute,
+rule or regulation applicable to either BEA or Acquisition Sub. Neither BEA nor
+Acquisition Sub are a party to, or otherwise subject to any provision contained
+in, any instrument or agreement which prohibits either from entering into this
+Agreement or consummating the transactions contemplated hereby.
+
+
+
+
+
+                                     - 15 -
+<PAGE>   16
+
+
+
+
+
+
+
+        5. SYMANTEC PRECLOSING COVENANTS
+
+               The following covenants and conditions will apply during the
+period from the date of this Agreement until the Closing:
+
+                5.1 ADVICE OF CHANGES. Symantec will promptly advise Buyer in
+writing (a) of any event occurring subsequent to the date of this Agreement
+which would render any representation or warranty of Symantec contained in this
+Agreement, if made on or as of the date of such event or the Closing Date, to be
+untrue or inaccurate in any material respect, and (b) of any material adverse
+change in the Assets or the Business.
+
+                5.2 OPERATION OF BUSINESS. Commencing upon execution of this
+Agreement, Symantec shall operate the Business in the ordinary course,
+consistent with past practices. If Symantec becomes aware of a material
+deterioration in the relationship with any material customer or supplier of the
+Business, it will promptly bring such information to the attention of Buyer in
+writing and, if requested by Buyer, will exert reasonable efforts to restore the
+relationship. Symantec will provide Buyer with current access to all books,
+records and information, or parts thereof, pertaining directly and primarily to
+the Assets and/or the operation of the Business.
+
+                5.3 CONDUCT OF BUSINESS. Except as provided otherwise herein or
+as approved or as recommended by Buyer, Symantec, with respect to the Assets and
+the Business, will not, without the prior written consent of Buyer:
+
+                        (a) borrow any money secured by any interest in any of
+the Assets;
+
+                        (b) enter into any transaction regarding the Business or
+any of the Assets not in the ordinary course of business or enter into any
+transaction or capital expenditure (or make any commitment to such) regarding
+the Business or any of the Assets that involves an expense in excess of $50,000
+whether or not in the ordinary course of business;
+
+                        (c) encumber or permit to be encumbered any of the
+Assets;
+
+                        (d) sell, license, transfer, assign, convey, encumber,
+or otherwise dispose of any of the Assets or any rights thereto, other than (i)
+the sale of licenses of Software Programs in the ordinary course of business,
+consistent with past practice, for an amount, with respect to each such sale, of
+less than $50,000, and (ii) sales and licenses under Symantec's "value program";
+
+                        (e) take any action to encourage a customer to purchase
+software programs under Symantec's "value program", other than keeping such
+program in place without taking action to accelerate purchases under such
+program;
+
+
+
+
+
+                                     - 16 -
+<PAGE>   17
+
+
+
+
+
+
+
+                        (f) enter into any material lease or contract for the
+purchase or sale of any property, real or personal, tangible or intangible, used
+in connection with the Business or any of the Assets;
+
+                        (g) except as previously disclosed to Buyer in writing
+in Section 3.8(f) of the Symantec Exception Letter, pay any bonus, royalty,
+increased salary or special remuneration (except pursuant to existing
+arrangements heretofore disclosed in writing to Buyer) to any Business Employee
+or enter into any new employment or consulting agreement with any Business
+Employee, or enter into any new agreement or plan of the type described in
+Section 3.13(c) with respect to any Business Employee;
+
+                        (h) amend or terminate any Contract or other agreement
+or license pertaining directly and primarily to the Business to which it is a
+party (except pursuant to arrangements previously disclosed in writing to Buyer)
+except for any change to any Contract, agreement or license which has no adverse
+effect on the Business or any of the Assets;
+
+                        (i) lend any amount to any Business Employee other than
+advances for travel and expenses which are incurred in the ordinary course of
+business consistent with past practice, not material in amount, which travel and
+expenses shall be documented by receipts for the claimed amounts;
+
+                        (j) waive or release any material right or claim with
+respect to the Business or any of the Assets;
+
+                        (k) amend its charter documents, to the extent such
+action will adversely affect the Business or the Assets;
+
+                        (l) license any Intellectual Property Rights or any
+rights thereto, except in the ordinary course of business, consistent with past
+practice;
+
+                        (m) enter into any other agreements or commitments
+affecting any of the Assets, other than agreements or commitments relating to
+manufacturing, sales or other similar matters entered into in the ordinary
+course of business, consistent with past practice;
+
+                        (n) hire any new Business Employee or terminate the
+employment of any existing Business Employee without notice of the same to Buyer
+or encourage any Business Employee to accept employment with any third party
+(other than Buyer with respect to those employees who are offered employment by
+Buyer);
+
+                        (o) effect a material change in any insurance coverage
+with respect to the Business or any of the Assets; or
+
+                        (p) agree or otherwise commit or create any obligation
+to do any of the things described in the preceding clauses 5.3(a) through
+5.3(q).
+
+
+
+
+
+                                     - 17 -
+<PAGE>   18
+
+
+
+
+
+
+
+                5.4 EMPLOYEE OFFERS. Symantec hereby consents to Buyer extending
+offers of employment to all or any lesser number of Business Employees, such
+offers (i) to include (a) comparable salary, seniority, and job title terms as
+the Business Employees currently have with Symantec and (b) comparable benefits
+to those offered to similarly situated employees of BEA, and (ii) to be
+contingent upon the Closing. To facilitate such process, Symantec will cooperate
+with Buyer in identifying those Business Employees that Buyer may wish to hire
+and will provide Buyer with reasonable access to and the opportunity to meet and
+interview any Business Employee for the purpose of negotiating offers of
+employment contingent upon the Closing. Symantec will use its reasonable efforts
+to retain Business Employees as employees through the Closing Date and assist
+Buyer in securing the employment, commencing on the Closing Date, of those
+Business Employees to whom Buyer (or an affiliate designated by Buyer) makes
+offers of employment. Symantec hereby waives, with respect to the employment by
+Buyer of such Business Employees who accept offers of employment from Buyer, any
+claims or rights Symantec may have against Buyer with respect to such offer of
+employment. Symantec understands and acknowledges that any such Business
+Employees hired by Buyer shall be treated as "new hires" and Buyer's sole
+obligation to Symantec or such Business Employees shall be as set forth in the
+Transition Agreement (as defined below).
+
+                5.5 REGULATORY APPROVALS. Symantec will execute and file, or
+assist in the execution and filing, of any application or other document that
+may be necessary in order to obtain the authorization, approval or consent of
+any governmental body, federal, state, local or foreign which may be reasonably
+required under the laws of the United States or otherwise, or which Buyer may
+reasonably request, in connection with the consummation of the transactions
+provided for in this Agreement. Symantec will use reasonable efforts to obtain
+or assist Buyer in obtaining all such authorizations, approvals and consents,
+and Buyer agrees to pay the reasonable costs for the same. Without limiting the
+generality of the foregoing, Symantec and Buyer shall, promptly after the date
+of this Agreement, prepare and file the notifications required under the HSR Act
+in connection with the transactions contemplated by this Agreement. Symantec and
+Buyer shall respond as promptly as practicable to (i) any inquiries or requests
+received from the Federal Trade Commission or the Department of Justice for
+additional information or documentation and (ii) any inquiries or requests
+received from any state attorney general or other governmental body in
+connection with antitrust or related matters. Each of Symantec and Buyer shall
+(1) give the other party prompt notice of the commencement of any proceeding by
+or before any governmental body with respect to the transactions contemplated by
+this Agreement, (2) keep the other party informed as to the status of any such
+proceeding, and (3) promptly inform the other party of any communications to or
+from the Federal Trade Commission, the Department of Justice or any other
+governmental body regarding the transactions contemplated by this Agreement.
+Symantec and Buyer will consult and cooperate with one another, and will
+consider in good faith the views of one another, in connection with any
+analysis, appearance, presentation, memorandum, brief, argument, opinion or
+proposal made or submitted in connection with any proceeding under or relating
+to the HSR Act or any other federal or state antitrust or fair trade law. In
+addition, except as may be prohibited by any
+
+
+
+                                     - 18 -
+<PAGE>   19
+
+
+
+
+
+
+
+governmental body, in connection with any proceeding under or relating to the
+HSR Act or any other federal or state antitrust or fair trade law or any other
+similar proceeding, each of Symantec and Buyer will permit authorized
+Representatives of the other party to be present at each meeting or conference
+relating to any such proceeding and to have access to and be consulted in
+connection with any document, opinion or proposal made or submitted to any
+governmental body in connection with any such proceeding.
+
+                5.6 NECESSARY CONSENTS. Symantec will, at its own expense (other
+than as provided in Section 5.5), use all commercially reasonable efforts to
+obtain such written consents and take such other actions as may be necessary or
+appropriate to facilitate or allow the consummation of the transactions provided
+for herein and to facilitate and allow Buyer to purchase the Assets at the
+Closing and to have full use of the Assets after the Closing.
+
+                5.7 LITIGATION. Symantec will notify Buyer in writing promptly
+after learning of any action, suit, proceeding or investigation by or before any
+court, board or governmental agency, initiated by or against Symantec or
+threatened against Symantec which could have a material adverse effect on the
+Business, the Assets or the ability of Symantec to consummate the transactions
+contemplated by this Agreement.
+
+                5.8 ACCESS TO INFORMATION. Symantec will provide Buyer and its
+agents with reasonable access to the files, books, records and offices of
+Symantec associated with the Business and the Assets, including, without
+limitation, any and all information relating to the Assets, taxes, commitments,
+contracts, leases and licenses relating to the Business or the Assets and the
+representations made by Symantec in this Agreement. Symantec will provide Buyer
+with full access to all documents, materials and information embodying or
+relating to the Software Programs and other Assets, including the source codes,
+object codes, descriptions, layouts, diagrams, reports, test and other data and
+programs, and all related documentation and information that is owned, used or
+held by Symantec relating to the Business or the Assets and the representations
+made by Symantec in this Agreement. Symantec will cause its accountants to
+cooperate with Buyer and its agents in making available all financial
+information reasonably requested relating to the Business or the Assets.
+
+                5.9 SATISFACTION OF CONDITIONS PRECEDENT. Symantec will use
+reasonable efforts to satisfy or cause to be satisfied all the conditions
+precedent which are set forth in Article 9. Symantec will use its reasonable
+efforts to cause the transactions provided for in this Agreement to be
+consummated, and, without limiting the generality of the foregoing, to obtain
+all consents and authorizations of third parties and to make all filings with,
+and give all notices to, third parties that may be necessary or reasonably
+required on its part in order to effect the transactions provided for herein.
+
+                5.10 ENCUMBRANCES. Symantec will use all commercially reasonable
+efforts to secure and preserve good title in Symantec's name in and to all of
+the Assets,
+
+
+
+                                     - 19 -
+<PAGE>   20
+
+
+
+
+
+
+
+free of material encumbrances, and to terminate or cause to be released all
+encumbrances on the Assets prior to Closing.
+
+                5.11 FUTURE AGREEMENTS. If Symantec enters into any material
+agreement between the date of this Agreement and the Closing pertaining directly
+and primarily to the Business or the Assets, at the request of Buyer, Symantec
+agrees to include any such agreement within the Contracts.
+
+                5.12 NO SOLICITATION.
+
+                        (a) Symantec shall not directly or indirectly, and shall
+not authorize or permit any Representative directly or indirectly, to, (i)
+solicit, initiate, encourage or induce the making, submission or announcement of
+any Acquisition Proposal or take any action that could reasonably be expected to
+lead to an Acquisition Proposal, (ii) furnish any information regarding the
+Business or any of the Assets to any Person in connection with or in response to
+an Acquisition Proposal, (iii) engage in discussions or negotiations with any
+Person with respect to any Acquisition Proposal, (iv) approve, endorse or
+recommend any Acquisition Proposal or (v) enter into any letter of intent or
+similar document or any contract contemplating or otherwise relating to any
+Acquisition proposal; unless Symantec's Board of Directors concludes in good
+faith, after consultation with outside legal counsel, that such action is
+required in order for Symantec's Board of Directors to comply with its fiduciary
+obligations to Symantec's stockholders under applicable law. Without limiting
+the generality of the foregoing, the Company acknowledges and agrees that any
+violation of any of the restrictions set forth in the preceding sentence by any
+Representative whether or not such Representative is purporting to act on behalf
+of Symantec, shall be deemed to constitute a breach of this Section 5.13.
+
+                        (b) Symantec shall promptly advise Buyer orally and in
+writing of any Acquisition Proposal (including the identity of the Person making
+or submitting such Acquisition Proposal and the terms thereof) that is made or
+submitted by any Person prior to Closing. Symantec shall keep Buyer fully
+informed with respect to the status of any such Acquisition Proposal and any
+modification or proposed modification thereto.
+
+                        (c) Symantec shall immediately cease and cause to be
+terminated any existing discussions with any Person that relate to any
+Acquisition Proposal.
+
+                        (d) For purposes of this Agreement, the term
+"ACQUISITION PROPOSAL" shall mean any offer, proposal or inquiry (other than an
+offer or proposal by Buyer) contemplating or otherwise relating to the
+acquisition of the Business or any of the Assets and the term "REPRESENTATIVES"
+shall mean officers, directors, employees, agents, attorneys, accountants and
+representatives of the entity in question.
+
+
+
+
+
+                                     - 20 -
+<PAGE>   21
+
+
+
+
+
+
+
+        6. BUYER PRECLOSING COVENANTS
+
+                Buyer covenants to and agrees with Symantec to comply with the
+following covenants during the period from the date of this Agreement until the
+Closing:
+
+                6.1 ADVICE OF CHANGES. Buyer will promptly advise Symantec in
+writing of any event occurring subsequent to the date of this Agreement that
+would render any representation or warranty of Buyer contained in this
+Agreement, if made on or as of the date of such event or the Closing Date,
+untrue or inaccurate in any material respect.
+
+                6.2 SATISFACTION OF CONDITIONS PRECEDENT. Buyer will use
+reasonable efforts to satisfy or cause to be satisfied all the conditions
+precedent which are set forth in Article 8, and Buyer will use reasonable
+efforts to cause the transactions provided for in this Agreement to be
+consummated, and, without limiting the generality of the foregoing, to obtain
+all consents and authorizations of third parties and to make all filings with,
+and give all notices to, third parties that may be necessary or reasonably
+required on its part in order to effect the transactions provided for herein.
+
+                6.3 REGULATORY APPROVALS. Buyer will execute and file, or assist
+in the execution and filing, of any application or other document that may be
+necessary in order to obtain the authorization, approval or consent of any
+governmental body, federal, state, local or foreign which may be reasonably
+required under the laws of the United States or otherwise, or which Symantec may
+reasonably request, in connection with the consummation of the transactions
+provided for in this Agreement. Buyer will use reasonable efforts to obtain or
+assist Symantec in obtaining all such authorizations, approvals and consents,
+and Buyer agrees to pay the reasonable costs for the same. Without limiting the
+generality of the foregoing, Buyer and Symantec shall, promptly after the date
+of this Agreement, prepare and file the notifications required under the HSR Act
+in connection with the transactions contemplated by this Agreement. Buyer and
+Symantec shall respond as promptly as practicable to (i) any inquiries or
+requests received from the Federal Trade Commission or the Department of Justice
+for additional information or documentation and (ii) any inquiries or requests
+received from any state attorney general or other governmental body in
+connection with antitrust or related matters. Each of Buyer and Symantec shall
+(1) give the other party prompt notice of the commencement of any proceeding by
+or before any governmental body with respect to the transactions contemplated by
+this Agreement, (2) keep the other party informed as to the status of any such
+proceeding, and (3) promptly inform the other party of any communications to or
+from the Federal Trade Commission, the Department of Justice or any other
+governmental body regarding the transactions contemplated by this Agreement.
+Buyer and Symantec will consult and cooperate with one another, and will
+consider in good faith the views of one another, in connection with any
+analysis, appearance, presentation, memorandum, brief, argument, opinion or
+proposal made or submitted in connection with any proceeding under or relating
+to the HSR Act or any other federal or state antitrust or fair trade law. In
+addition, except as may be prohibited by any governmental body, in connection
+with any proceeding under or relating to the HSR Act
+
+
+
+                                     - 21 -
+<PAGE>   22
+
+
+
+
+
+
+
+or any other federal or state antitrust or fair trade law or any other similar
+proceeding, each of Buyer and Symantec will permit authorized Representatives of
+the other party to be present at each meeting or conference relating to any such
+proceeding and to have access to and be consulted in connection with any
+document, opinion or proposal made or submitted to any governmental body in
+connection with any such proceeding.
+
+                6.4 NO ADDITIONAL PAYMENTS. Except as otherwise specifically
+provided in this Agreement or the Transition Plan (defined below), Buyer will
+have no obligation to pay any expenses of Symantec or to fund the operations of
+Symantec with respect to the Business, the Assets or otherwise.
+
+                6.5 NECESSARY CONSENTS. Buyer will use all commercially
+reasonable efforts to obtain such written consents and take such other actions
+as may be necessary or appropriate, in addition to those referred to in Section
+6.3, to facilitate or allow the consummation of the transactions provided for
+herein at the Closing.
+
+                6.6 LITIGATION. Buyer will notify Symantec in writing promptly
+after learning of any action, suit, proceeding or investigation by or before any
+court, board or governmental agency, initiated by or against Buyer or threatened
+against Buyer that would have a material adverse effect on Buyer's ability to
+consummate the transactions provided for herein.
+
+        7. CLOSING MATTERS
+
+                7.1 THE CLOSING. Subject to termination of this Agreement as
+provided in Article 10 below, the consummation of the transactions provided for
+herein (the "CLOSING") will take place at the offices of Morrison & Foerster
+LLP, 755 Page Mill Road, Palo Alto, California 94304 at 10:00 a.m. as soon as
+practicable (and in no event later than three (3) business days) following the
+date on which all conditions to closing have been satisfied or waived by the
+appropriate parties, or at such other place, time and date as the parties may
+mutually select (the "CLOSING DATE"). At the Closing, (x) Symantec will deliver
+to Buyer (i) instruments of transfer, in form and substance reasonably
+satisfactory to Buyer and its counsel, evidencing the sale, assignment,
+conveyance and transfer to Buyer of the Assets and (ii) the certificates and
+other documents required pursuant to Section 9 below, and (y) Buyer will (i)
+deliver to Symantec the certificates and other documents required pursuant to
+Section 8 below, and (ii) pay to Symantec the Purchase Price by wire transfer of
+immediately available funds to an account designated by Symantec.
+
+                7.2 DELIVERY OF DOCUMENTATION; TAXES. Symantec will deliver and
+transfer to Buyer on or before the Closing all copies of the Software Programs,
+work in progress and documentation with respect to the Software Programs and the
+other Assets, in accordance with Buyer's instructions on manner and location of
+delivery, and will represent at the Closing that all such copies, work in
+progress, documentation and other materials have been so delivered. Buyer will
+pay all sales, transfer, ad valorem, use and stamp taxes, if any, that may be
+payable in connection with the sale, assignment,
+
+
+
+                                     - 22 -
+<PAGE>   23
+
+
+
+
+
+
+
+conveyance, transfer and delivery of the Assets to Buyer hereunder (the
+"TRANSFER TAXES").
+
+                7.3 FURTHER ASSURANCES. If, at any time after the Closing, Buyer
+reasonably considers or is advised that any further deeds, assignments or
+assurances are reasonably necessary or desirable to vest, perfect or confirm in
+Buyer title to any of the Assets, Symantec will promptly execute and deliver all
+such proper deeds, assignments and assurances and do all other things necessary
+or desirable to vest, perfect or confirm title to such Assets in Buyer and
+otherwise to carry out the purposes of this Agreement.
+
+        8. CONDITIONS TO OBLIGATIONS OF SYMANTEC
+
+                The obligations of Symantec hereunder are subject to the
+fulfillment or satisfaction, on and as of the Closing, of each of the following
+conditions (any one or more of which may be waived by Symantec, but only in a
+writing signed by Symantec):
+
+                8.1 ACCURACY OF REPRESENTATIONS AND WARRANTIES. The
+representations and warranties of Buyer set forth in this Agreement shall be
+true and accurate in every material respect on and as of the date of this
+Agreement and (as supplemented or amended by any supplements or amendments
+delivered by Buyer to Symantec in writing, and accepted by Symantec, prior to
+the Closing Date) as of the Closing Date with the same force and effect as if
+they had been made at the Closing. Symantec shall have received a certificate to
+such effect executed by BEA's Chief Executive Officer on behalf of BEA.
+
+                8.2 COVENANTS. Buyer shall have performed and complied in all
+material respects with all of its covenants contained in Article 6 on or before
+the Closing. Symantec shall have received a certificate to such effect executed
+by BEA's Chief Executive Officer on behalf of BEA.
+
+                8.3 COMPLIANCE WITH LAW. There shall be no order, decree, or
+ruling by any court or governmental agency or threat thereof, or any other fact
+or circumstance, which would prohibit or render illegal the transactions
+contemplated by this Agreement.
+
+                8.4 GOVERNMENT CONSENTS. There shall have been obtained at or
+prior to the Closing Date such permits or authorizations by any regulatory
+authority having jurisdiction over the parties and the actions herein proposed
+to be taken, including, without limitation, approval or early termination of the
+review of the HSR Filings (the "HSR APPROVAL"), and there shall have been taken
+such other action, as may be required to consummate the transactions provided
+for herein in compliance with applicable laws.
+
+                8.5 NO LITIGATION. No litigation or proceeding shall be pending
+which has the probable effect of enjoining or preventing the consummation of any
+of the transactions provided for in this Agreement .
+
+
+
+
+
+                                     - 23 -
+<PAGE>   24
+
+
+
+
+
+
+
+                8.6 TRANSITION PLAN. The parties shall have signed a Transition
+Plan in the form attached as Exhibit E (the "TRANSITION PLAN").
+
+                8.7 OPINION OF COUNSEL. Symantec shall have received from
+Morrison & Foerster, LLP, an opinion substantially in the form attached hereto
+as Exhibit F.
+
+        9. CONDITIONS TO OBLIGATIONS OF BUYER
+
+                The obligations of Buyer hereunder are subject to the
+fulfillment or satisfaction, on and as of the Closing, of each of the following
+conditions (any one or more of which may be waived by Buyer, but only in a
+writing signed by Buyer):
+
+                9.1 ACCURACY OF REPRESENTATIONS AND WARRANTIES. The
+representations and warranties of Symantec set forth in this Agreement shall be
+true and complete in every material respect, on and as of the date of this
+Agreement and (as supplemented or amended by any supplements or amendments
+delivered by Symantec to Buyer in writing, and accepted by Buyer, prior to the
+Closing Date) as of the Closing with the same force and effect as if they had
+been made at the Closing, except for such representations and warranties that
+are otherwise qualified by materiality and the representations and warranties
+contained in Sections 3.7, 3.9, 3.10, 3.11, 3.14 and 3.20 hereof, each of which
+shall be true and correct in all respects on and as of the date of this
+Agreement and (as supplemented or amended by any supplements or amendments
+delivered by Symantec to Buyer in writing, and accepted by Buyer, prior to the
+Closing Date) as of the Closing with the same force and effect as if they had
+been made at the Closing. Buyer shall have received a certificate to such effect
+executed by the Chief Executive Officer of Symantec on behalf of Symantec.
+
+                9.2 COVENANTS. Symantec shall have performed and complied in all
+material respects with all of its covenants contained in Article 5 and in
+Section 7.2 on or before the Closing, and Buyer shall have received a
+certificate to such effect signed by the Chief Executive Officer of Symantec on
+behalf of Symantec.
+
+                9.3 COMPLIANCE WITH LAW. There shall be no order, decree, or
+ruling by any court or governmental agency or threat thereof, or any other fact
+or circumstance, which would prohibit or render illegal the transactions
+provided for in this Agreement.
+
+                9.4 GOVERNMENT CONSENTS. There shall have been obtained at or
+prior to the Closing Date such permits or authorizations by any regulatory
+authority having jurisdiction over the parties and the actions herein proposed
+to be taken including, without limitation, the HSR Approval, and there shall
+have been taken such other action, as may be required to consummate the
+transactions provided for herein in compliance with applicable laws.
+
+                9.5 NO LITIGATION. No litigation or proceeding shall be pending
+which has the probable effect of (a) enjoining or preventing the consummation of
+any of the
+
+
+
+                                     - 24 -
+<PAGE>   25
+
+
+
+
+
+
+
+transactions provided for in this Agreement or (b) having a material adverse
+effect on the Assets or Buyer's ownership and use thereof.
+
+                9.6 NO MATERIAL ADVERSE CHANGE. No material adverse change shall
+have occurred after October 31, 1999 in the Business or the Assets.
+
+                9.7 ANCILLARY AGREEMENTS. An Offer Letter in the form of Exhibit
+G hereto, with such changes as may be approved by Buyer, shall have been
+executed and delivered to Buyer by the people listed on Section 9.7 of the Buyer
+Exception Letter.
+
+                9.8 STATUS OF SOFTWARE PROGRAMS. Buyer, or its agent, shall have
+received the Software Programs.
+
+                9.9 RELEASE OF OBLIGATIONS. Symantec shall have executed and
+delivered agreements in the form attached hereto as Exhibit H, releasing those
+Business Employees who have accepted employment (either as of the Closing or
+thereafter) with Buyer or any of its affiliates from any obligations of such
+employees to Symantec under employment agreements, confidentiality agreements,
+invention agreements or other similar agreements to the extent that such
+obligations would restrict or inhibit the employees' performance of their duties
+as employees of Buyer or its subsidiaries.
+
+                9.10 OPINION OF COUNSEL TO SYMANTEC. Buyer shall have received
+from Fenwick & West, an opinion substantially in the form attached hereto as
+Exhibit I.
+
+                9.11 DOCUMENTS. Buyer shall have received all written consents,
+assignments, waivers, authorizations or other certificates reasonably deemed
+necessary by Buyer's legal counsel to provide for the assignment to Buyer of all
+Contracts (other than the Contracts listed in Section 9.11 of the Symantec
+Exception Letter) and the continuation in full force and effect of the
+Contracts, for the sale, assignment, and transfer to Buyer of the other Assets,
+including, without limitation, the domain name "www.visualcafe.com", for Buyer's
+unrestricted and encumbered use thereof (except for those encumbrances listed in
+Section 1.2 of the Symantec Exception Letter), and for Buyer to consummate the
+transactions contemplated hereby; provided that none of the Contracts will be
+adversely affected by the transactions provided for herein.
+
+                9.12 TRANSITION PLAN. The parties shall have signed the
+Transition Plan.
+
+                9.13 LICENSE AGREEMENT. The parties shall have executed the
+License.
+
+        10. TERMINATION OF AGREEMENT
+
+                10.1 PRIOR TO THE CLOSING.
+
+                        (a) This Agreement may be terminated at any time prior
+to the Closing by the mutual written consent of each of the parties hereto.
+
+
+
+
+
+                                     - 25 -
+<PAGE>   26
+
+
+
+
+
+
+
+                        (b) Unless otherwise specifically provided herein or
+agreed in writing by the parties hereto, this Agreement will be automatically
+terminated if all conditions to the Closing have not been or cannot reasonably
+be satisfied or waived, on or before December 31, 1999; provided, however, that
+the parties may agree in writing to extend this date.
+
+                10.2 AT THE CLOSING. At the Closing, this Agreement may be
+terminated and abandoned:
+
+                        (a) By Buyer if any of the conditions precedent to
+Buyer's obligations set forth in Section 9 above have not been fulfilled or
+waived at and as of the Closing or if Symantec is in material breach of this
+Agreement; or
+
+                        (b) By Symantec if any of the conditions precedent to
+their obligations set forth in Section 8 above have not been fulfilled or waived
+at and as of the Closing or if Buyer is in material breach of this Agreement.
+
+        Except as otherwise provided herein, any termination of this Agreement
+under this Section 10.2 will be effective upon the delivery of notice of the
+terminating party to the other party hereto.
+
+                10.3 CONFIDENTIALITY AGREEMENT. The parties respective
+obligations under that certain Confidentiality Agreement dated __________, 1999
+(the "CONFIDENTIALITY AGREEMENT") will remain in full force and effect, in
+accordance with the terms of such Confidentiality Agreement, after the
+termination of this Agreement for any reason.
+
+                10.4 CERTAIN CONTINUING OBLIGATIONS. Following any termination
+of this Agreement pursuant to this Article 10, the parties hereto will continue
+to perform their respective obligations under Sections 10.3 and 12.17, but the
+parties will not be required to continue to perform their other covenants under
+this Agreement and the representations and warranties made by each party will
+terminate and be of no further force or effect.
+
+        11. SURVIVAL OF REPRESENTATIONS, INDEMNIFICATION AND REMEDIES,
+CONTINUING COVENANTS
+
+                11.1 SURVIVAL OF REPRESENTATIONS. The parties' respective
+representations, warranties and covenants contained in this Agreement will
+remain operative and in full force and effect for twelve months after the
+Closing in accordance with their respective terms.
+
+                11.2 INDEMNIFICATION.
+
+                        (a) After the Closing, and subject to Section 11.2(e),
+Symantec will indemnify, defend and hold harmless Buyer and each of its
+directors, and
+
+
+
+                                     - 26 -
+<PAGE>   27
+
+
+
+
+
+
+
+shareholders, and officers, and their administrators, successors and assigns
+against any Loss to which any such person or entity may become subject insofar
+as such Loss (or actions in respect thereof) arise out of or are based upon: (a)
+any breach by Symantec of its obligations, representations or warranties under
+this Agreement or any material misrepresentation by Symantec under this
+Agreement, (b) any liabilities of Symantec not expressly assumed by Buyer
+hereunder, (c) except as expressly assumed by Buyer herein, the operation of the
+Business at any time on or prior to the Effective Date (including any taxes
+related to Symantec's operations), the operation of the Business other than in
+the ordinary course between the Effective Date and the Closing Date, and any
+claims or actions brought by Symantec employees, former employees, agents or
+representatives based on claims arising prior to the Closing Date, other than
+those expressly assumed by Buyer, (d) Software Programs or other products or
+services sold, licensed or otherwise provided by Symantec to third parties on or
+prior to the Closing, other than warranty and service claims based on warranties
+disclosed to Buyer hereunder, (e) any claim of infringement, misappropriation or
+violation of any patent, copyright, trademark, service mark, or other
+intellectual or industrial property or proprietary right of any third party by
+the Intellectual Property Rights or the Software Programs as such claim relates
+to the period prior to the Closing or exists in breach of Symantec's
+representations and warranties in Section 3.10 hereof, or (f) failure of
+Symantec to comply with any Environmental Law. Symantec will reimburse any such
+person or entity for any legal or any other expenses reasonably incurred by such
+person or entity in connection with investigating or defending any such loss,
+claim, damage, liability or action, to the extent that the indemnity provided
+for above applies. No recovery will be available under this Section 11.2(a) for
+lost profits or consequential damages. As to any claim for indemnification
+provided for in this Section 11.2 other than with respect to an Indemnified
+Distributor Claim, such claim shall not apply unless and until the Loss for
+which one or more indemnified party seeks indemnification under this Section,
+exclusive of legal fees, exceeds $300,000 (the "BASKET"), in which event
+Symantec shall be liable to indemnify such indemnified party or parties for all
+of the Loss. Symantec liability under Section 11.2(a) and otherwise under this
+Agreement shall be limited to Seven Million Five Hundred Thousand Dollars
+($7,500,000.00) in the aggregate.
+
+                        (b) After the Closing, and subject to Section 11.2(e),
+Buyer will indemnify, defend and hold harmless Symantec and each of its
+directors, and shareholders, and officers, and their administrators, successors
+and assigns against any Loss to which any such person or entity may become
+subject insofar as such Loss (or actions in respect thereof) arise out of or are
+based upon: (a) any breach by Buyer of its obligations, representations or
+warranties under this Agreement or any material misrepresentation by Buyer under
+this Agreement, (b) any liabilities assumed by Buyer hereunder, or (c) the
+operation of the Business at any time after the Effective Date (including any
+taxes related to Buyer's operations). Buyer will reimburse any such person or
+entity for any legal or any other expenses reasonably incurred by such person or
+entity in connection with investigating or defending any such loss, claim,
+damage, liability or action, to the extent that the indemnity provided for above
+applies. No recovery will be available under this Section 11.2(b) for lost
+profits or consequential damages. As to any
+
+
+
+                                     - 27 -
+<PAGE>   28
+
+
+
+
+
+
+
+claim for indemnification provided for in this Section 11.2(b), such claim shall
+not apply unless and until the Loss for which one or more indemnified party
+seeks indemnification under this Section, exclusive of legal fees, exceeds
+$300,000 (the "BASKET"), in which event Buyer shall be liable to indemnify such
+indemnified party or parties for all of the Loss. Buyer liability under Section
+11.2(b) and otherwise under this Agreement shall be limited to Seven Million
+Five Hundred Thousand Dollars ($7,500,000.00) in the aggregate.
+
+                        (c) As used in this Article 11, "LOSS" means and
+includes any and all liabilities, losses, damages, claims, expenses, costs,
+fines, fees, penalties, obligations, injuries or amounts paid in settlement,
+including those resulting from any and all claims, actions, suits, demands,
+assessments, investigations, judgments, orders, awards, arbitrations,
+settlements or other proceedings, together with reasonable costs and expenses,
+including the reasonable attorneys' and experts' fees, court costs, arbitration
+costs, filing fees and other legal costs and expenses relating thereto.
+
+                        (d) Each person entitled to indemnification under this
+Section 11.2 (the "INDEMNIFIED PARTY") will give notice in writing to the party
+required to provide such indemnification (the "INDEMNIFYING PARTY") promptly
+after such Indemnified Party has knowledge of any claim as to which indemnity
+may be sought, and will permit the Indemnifying Party to assume the defense of
+any such claim or any litigation resulting therefrom; provided, that counsel for
+the Indemnifying Party, which will conduct the defense of such claim or
+litigation, shall be approved by the Indemnified Party (which approval must not
+be unreasonably withheld); and, provided, further, that the failure of any
+Indemnified Party to give notice as provided herein will not relieve the
+Indemnifying Party of its obligations under this Section 11.2 except to the
+extent the Indemnifying Party is actually prejudiced thereby. The Indemnified
+Party may participate in such defense at such party's cost and expense. The
+Indemnifying Party will not, in the defense of any such claim or litigation,
+except with the consent of each Indemnified Party (which consent will not be
+unreasonably withheld or delayed), consent to entry of any judgment or enter
+into any settlement which does not include as an unconditional term thereof the
+giving by the claimant or plaintiff to such Indemnified Party of a release from
+all liability in respect to such claim or litigation, and no Indemnified Party
+will consent to entry of any judgment or settle such claim or litigation (or
+enter into any agreement related to the same with the claimants) without the
+prior written consent of the Indemnifying Party.
+
+                        (e) No claim for indemnification under this Section 11.2
+may be brought after the first (1st) anniversary of the Closing Date.
+
+                11.3 NO LIMITATION ON INJUNCTIVE RELIEF. The foregoing
+provisions of this Article 11 shall be the exclusive monetary remedies available
+to an Indemnified Party , but nothing herein shall be deemed to restrict a
+party's ability to seek and obtain injunctive relief in an appropriate case.
+
+
+
+
+
+                                     - 28 -
+<PAGE>   29
+
+
+
+
+
+
+
+                11.4 NONSOLICITATION OF EMPLOYEES. Beginning with the execution
+of this Agreement and continuing until two years after the Closing Date,
+Symantec will not directly or indirectly recruit, attempt to hire, solicit or
+assist others in recruiting, attempting to hire or soliciting any Business
+Employee hired by Buyer.
+
+                11.5 NONCOMPETITION PROVISION.
+
+                        (a) In consideration of Buyer entering into this
+Agreement, Symantec hereby agrees with Buyer (and for the purposes of this
+clause, Buyer includes any associated, subsidiary, related or affiliate company)
+that for a two year period following the Closing (the "NONCOMPETE PERIOD"),
+Symantec will not, directly or indirectly, (except with the prior written
+consent of Buyer) or in any other capacity whatsoever of or for any person,
+firm, partnership, company or corporation other than Buyer:
+
+                                (i) Own, manage, operate, sell, control or
+participate in the ownership, management, operation, sales or control of or be
+connected in any manner with any business engaged, in the design, research,
+development, marketing, sale, or licensing of computer software that is
+substantially similar to or competitive with the Business, other than in
+connection with a non-controlling interest in a public company or a private
+company primarily engaged in another business; or
+
+                                (ii) Directly or indirectly develop computer
+software that is substantially similar to or competitive with any of the
+Programs.
+
+                        (b) GEOGRAPHICAL AREAS. The geographical areas in which
+the restrictions provided for in this Section 11.5 apply include all cities,
+counties and states of Europe, Japan, China, Taiwan, Korea, Australia, the
+United States, and all other countries in which Buyer (or any of its
+subsidiaries) has engaged in licensing or sales or otherwise conducted business
+or selling or licensing efforts at any time up to and including the date of the
+Closing. Symantec acknowledges that the scope and period of restrictions and the
+geographical area to which the restrictions imposed in this Section 11.5 applies
+are fair and reasonable and are reasonably required for the protection of Buyer
+and that this Agreement accurately describes the business to which the
+restrictions are intended to apply..
+
+                        (c) AMENDMENT TO RETAIN ENFORCEABILITY. It is the intent
+of the parties that the provisions of this Section 11.5 will be enforced to the
+fullest extent permissible under applicable law. If any particular provision or
+portion of this Section is adjudicated to be invalid or unenforceable, this
+Agreement will be deemed amended to revise that provision or portion to the
+minimum extent necessary to render it enforceable. Such amendment will apply
+only with respect to the operation of this paragraph in the particular
+jurisdiction in which such adjudication was made.
+
+                        (d) INJUNCTIVE RELIEF. Seller acknowledges that any
+breach of the covenants of this Section 11.5 will result in immediate and
+irreparable injury to Buyer
+
+
+
+                                     - 29 -
+<PAGE>   30
+
+
+
+
+
+
+
+and, accordingly, consents to the application of injunctive relief and such
+other equitable remedies for the benefit of Buyer as may be appropriate in the
+event such a breach occurs or is threatened. The foregoing remedies will be in
+addition to all other legal remedies to which Buyer may be entitled hereunder,
+other than monetary damages which are specifically limited to indemnification
+pursuant to Section 11.2 above.
+
+                11.6 COOPERATION ON TAX AUDITS. The parties shall also cooperate
+in making information available as needed in the event of a tax audit, whether
+in the United States or any other country; provided, however, that the party
+being audited shall reimburse the other party for any of its out of pocket costs
+incurred in connection with providing such information. The obligation pursuant
+to this paragraph to cooperate in making information available as needed in the
+event of a tax audit shall survive the expiration of this Agreement.
+
+        12. UNASSIGNED CONTRACTS. The parties hereto agree to cooperate with
+respect to obtaining consents to the assignment of the Contracts. To the extent
+that Symantec has made a good faith effort to obtain a consent to assign a
+Contract to Buyer and has been unable to do so, Symantec agrees to subcontract
+to Buyer with respect to such Contract or otherwise cooperate with Buyer in
+order to provide Buyer the benefits of such Contract.
+
+        13. MISCELLANEOUS.
+
+                13.1 GOVERNING LAW. The internal laws of the State of
+California, (irrespective of its conflicts of law principles) will govern the
+validity of this Agreement, the construction of its terms, and the
+interpretation and enforcement of the rights and duties of the parties hereto.
+
+                13.2 CONSULTATIONS. The parties each acknowledge that they have
+consulted with their respective accounting and tax advisors in connection with
+the accounting and tax treatment for this transaction, that each such party will
+bear all risk in connection with its accounting and tax treatment of the
+transactions contemplated hereby and that no party is relying on any other party
+in connection with the same.
+
+                13.3 ASSIGNMENT; BINDING UPON SUCCESSORS AND ASSIGNS. Neither
+party hereto may assign any of its rights or obligations hereunder, by operation
+of law or otherwise, without the prior written consent of the other party
+hereto. This Agreement will be binding upon and inure to the benefit of the
+parties hereto and their respective successors and permitted assigns.
+
+                13.4 SEVERABILITY. If any provision of this Agreement, or the
+application thereof, is for any reason held to any extent to be invalid or
+unenforceable, the remainder of this Agreement and application of such provision
+to other persons or circumstances will be interpreted so as reasonably to effect
+the intent of the parties hereto. The parties further agree to replace such void
+or unenforceable provision of this Agreement with a valid and enforceable
+provision that will achieve, to the extent possible, the economic, business and
+other purposes of the void or unenforceable provision.
+
+
+
+
+
+                                     - 30 -
+<PAGE>   31
+
+
+
+
+
+
+
+                13.5 COUNTERPARTS. This Agreement may be executed in
+counterparts, each of which will be an original as regards any party whose
+signature appears thereon and all of which together will constitute one and the
+same instrument. This Agreement will become binding when one or more
+counterparts hereof, individually or taken together, bear the signatures of all
+the parties reflected hereon as signatories.
+
+                13.6 AMENDMENT. Any term or provision of this Agreement may be
+amended, and the observance of any term of this Agreement may be waived (either
+generally or in a particular instance and either retroactively or
+prospectively), only by a writing signed by the party to be bound thereby.
+
+                13.7 NO WAIVER. The failure of any party to enforce any of the
+provisions hereof will not be construed to be a waiver of the right of such
+party thereafter to enforce such provisions. The waiver by any party of any
+breach hereof or any default in the performance hereof or of the right to
+enforce any of the provisions hereof on any occasion will not be deemed to
+constitute a waiver of any other default or any succeeding breach or default or
+of the right of such party to enforce such provision on any other occasion.
+
+                13.8 EXPENSES. Each party will bear its respective expenses and
+fees of its own accountants, attorneys, investment bankers and other
+professionals incurred with respect to this Agreement and the transactions
+contemplated hereby.
+
+                13.9 ATTORNEYS' FEES. Should any legal action or proceeding be
+brought to enforce or interpret any part of this Agreement, the prevailing party
+will be entitled to recover, as an element of the costs of suit and not as
+damages, reasonable attorneys' fees, costs and expenses in connection with such
+legal action or proceeding (including all appeals) in addition to all other
+relief to which such party may be entitled.
+
+                13.10 NOTICES. Any notice or other communication required or
+permitted to be given under this Agreement will be in writing, will be delivered
+personally or by mail or express delivery, postage prepaid, and will be deemed
+given upon actual delivery or, if mailed by first class mail, on the third
+business day following deposit in the mails, addressed as follows:
+
+                                (i) If to Buyer:
+
+                                         Buyer Corporation
+                                         2315 North First Street
+                                         San Jose, CA 95131
+                                         Attention:  General Counsel
+
+
+                                     - 31 -
+<PAGE>   32
+
+
+                                         with a copy to:
+
+                                         Morrison & Foerster LLP
+                                         755 Page Mill Road
+                                         Palo Alto, California  94304
+                                         Attention:  William D. Sherman
+
+                                (ii) if to Symantec:
+
+                                         Symantec Corporation
+                                         20330 Stevens Creek Blvd.
+                                         Cupertino, CA 95024
+                                         Attention:  General Counsel
+
+                                         with a copy to:
+
+                                         -----------------------
+                                         -----------------------
+                                         -----------------------
+                                         Attention:_____________
+
+or to such other address as the party in question may have furnished to the
+other party by written notice given in accordance with this Section 12.11.
+
+                13.11 CONSTRUCTION OF AGREEMENT. This Agreement has been
+negotiated by the respective parties hereto and their attorneys, and the
+language hereof will not be construed for or against either party. A reference
+to an article, section or exhibit will mean an article or section in, or an
+exhibit to, this Agreement, unless otherwise explicitly set forth. The titles
+and headings in this Agreement are for reference purposes only and will not in
+any manner limit the construction of this Agreement. For the purposes of such
+construction, this Agreement will be considered as a whole. The terms
+"including" and "include" as used in this Agreement will be deemed to include
+the phrase "without limitation."
+
+                13.12 NO JOINT VENTURE. Nothing contained in this Agreement will
+be deemed or construed as creating a joint venture or partnership between the
+parties hereto. No party is by virtue of this Agreement authorized as an agent,
+employee or legal representative of any other party. No party will have the
+power to control the activities and operations of any other, and the parties'
+status is, and at all times, will continue to be, that of independent
+contractors with respect to each other. No party will have any power or
+authority to bind or commit any other. No party will hold itself out as having
+any authority or relationship in contravention of this Section.
+
+                13.13 FURTHER ASSURANCES. Each party agrees to cooperate fully
+with the other party and to execute such further instruments, documents and
+agreements and to give such further written assurances as may be reasonably
+requested by the other party to
+
+
+
+                                     - 32 -
+<PAGE>   33
+
+
+
+
+
+
+
+evidence and reflect the transactions provided for herein and to carry into
+effect the intent of this Agreement.
+
+                13.14 ABSENCE OF THIRD PARTY BENEFICIARY RIGHTS. No provisions
+of this Agreement are intended, nor will be interpreted, to provide or create
+any third party beneficiary rights or any other rights of any kind in any
+client, customer, affiliate, partner or employee of any party hereto or any
+other person or entity, unless specifically provided otherwise herein, and,
+except as so provided, all provisions hereof will be personal solely between the
+parties to this Agreement.
+
+                13.15 PUBLIC ANNOUNCEMENT. At a mutually agreed time following
+the execution of this Agreement and prior to the earliest possible date for HSR
+Approval, if practicable, the parties will issue a press release approved by the
+parties announcing their entering into this Agreement. Until such time, none of
+the parties will disclose the existence or substance of this Agreement or the
+transactions provided for in this Agreement; provided, however, each party may
+issue such press releases, and make such other disclosures, as it determines to
+be required or appropriate under applicable securities laws or NASD rules, after
+reasonable consultation where possible with the other parties.
+
+                13.16 CONFIDENTIALITY. Except as expressly authorized by Buyer
+in writing, Symantec will not directly or indirectly divulge to any person or
+entity or use any Buyer Confidential Information. Except as expressly authorized
+by Symantec in writing, Buyer will not directly or indirectly divulge to any
+person or entity or use any Symantec Confidential Information. As used herein,
+"BUYER CONFIDENTIAL INFORMATION" consists of (a) any information designated by
+Buyer as confidential whether developed by Buyer or disclosed to Buyer by a
+third party, (b) any information relating to Buyer's product plans, product
+designs, product costs, product prices, product names, finances, marketing
+plans, business opportunities, personnel, research, development or know-how or
+(c) on or after the Closing Date, any proprietary or confidential information
+included in or associated with the Assets or the Business. As used herein,
+"SYMANTEC CONFIDENTIAL INFORMATION" consists of (x) any information designated
+by Symantec as confidential whether developed by Symantec or disclosed to
+Symantec by a third party (on or after the Closing Date such information will
+not include any information included in the Assets), (y) any information
+relating to the product plans, product designs, product costs, product prices,
+product names, finances, marketing plans, business opportunities, personnel,
+research, development or know-how of Symantec, and all rights in software and
+developments (except that nothing herein will restrict Buyer's use and
+disclosure of information included in the Assets after the Closing). "BUYER
+CONFIDENTIAL INFORMATION" and "SYMANTEC CONFIDENTIAL INFORMATION" also include
+the terms and conditions and existence of this Agreement, except as disclosed in
+accordance with Section 12.15 above. The foregoing restrictions will apply to
+information about a party whether or not it was obtained from such party's
+employees, acquired or developed by the other party during such other party's
+performance under this Agreement, or otherwise learned, including all
+information obtained through due diligence, and by a party's accountants,
+attorneys and
+
+
+
+                                     - 33 -
+<PAGE>   34
+
+
+
+
+
+
+
+other agents under or as the result of this Agreement. The foregoing
+restrictions will not apply to information that (i) has become publicly known
+through no wrongful act of the receiving party, (ii) has been rightfully
+received from a third party authorized by the party which is the owner, creator
+or compiler to make such disclosure without restriction, (iii) has been approved
+for release by written authorization of the party which is the owner, creator or
+compiler, or (iv) is being or has theretofore been disclosed pursuant to a valid
+court order after a reasonable attempt has been made to notify the party which
+is the owner, creator or compiler.
+
+                13.17 ENTIRE AGREEMENT. This Agreement, the exhibits hereto and
+the Confidentiality Agreement constitute the entire understanding and agreement
+of the parties hereto with respect to the subject matter hereof and thereof and
+supersede all prior and contemporaneous agreements, understandings, negotiations
+and discussions, express or implied, written or oral, of the parties with
+respect to the subject matter hereof. The express terms hereof control and
+supersede any course of performance or usage of trade inconsistent with any of
+the terms hereof.
+
+                13.18 BEST KNOWLEDGE. For purposes of this Agreement, the term
+"best knowledge" of Symantec shall mean the actual knowledge of Symantec's
+officers, directors and managers, as well as any facts that such individuals
+would have had if they made reasonable inquiry as to any matters where they have
+knowledge of facts that would make a reasonable man conduct a further inquiry.
+
+                  [Remainder of Page Intentionally Left Blank]
+
+
+
+
+
+                                     - 34 -
+<PAGE>   35
+
+
+
+
+
+
+
+        IN WITNESS WHEREOF, the parties hereto have executed this Agreement as
+of the date first above written.
+
+SYMANTEC CORPORATION
+
+By: /s/ Gregory Myers
+   -----------------------------
+
+    Name: Gregory Myers
+         -----------------------
+
+    Its:
+        ------------------------
+
+SYMANTEC LIMITED
+
+By: /s/ Art Courville
+   -----------------------------
+
+    Name: Art Courville
+         -----------------------
+
+    Its:
+        ------------------------
+
+BEA SYSTEMS, INC.
+
+By: /s/ Robert Donohue
+   -----------------------------
+
+    Name: Robert Donohue
+         -----------------------
+
+    Its: VP, Legal and Secretary
+        ------------------------
+
+WB INFORMATION CORPORATION
+
+By: /s/ Robert Donohue
+   -----------------------------
+
+    Name: Robert Donohue
+         -----------------------
+
+    Its: VP
+        ------------------------
+
+
+
+
+                                     - 35 -
+<PAGE>   36
+
+        [SYMANTEC CORPORATION AGREES TO FURNISH SUPPLEMENTALLY A COPY OF ANY
+        OMITTED SCHEDULE TO THE COMMISSION UPON REQUEST.]
+
+
+
+                             EXHIBITS AND SCHEDULES
+
+
+
+EXHIBIT A, THE BUSINESS
+
+The Business consists of the Symantec Visual Cafe product line and the
+associated product team. This is a product line of Integrated Development
+Environments (IDE) for the Java programming language. It includes the basic
+programming needs of an IDE, including a source code editor, a class browser, a
+project manager, a build system, a compiler, a debugger, a form designer, and a
+component library. The Visual Cafe product line is available in different
+versions or editions that include additional capabilities on top of the base
+IDE. These include capabilities for helping developers create, develop, and
+easily deploy Java database applications, server side logic, and distributed
+applications.
+
+The Visual Cafe product team is composed of software developers, software
+quality assurance engineers, technical writers, a build engineer, a program
+manager, a product manager, a developer relations manager, an events
+coordinator, and a team of sales representatives. All customer support
+responsibilities are provided by personnel located at the Symantec Eugene site
+(i.e. outside the Visual Cafe product team).
+
+The Business does not include projects of Symantec's Internet Tools business
+unit outside of the Visual Cafe product line or previously discontinued projects
+(e.g., Visual Page, the project which had the code name "007", etc.)
+
+
+
+EXHIBIT A-1, THE PROGRAMS
+
+Visual Cafe Enterprise Suite v. 3.1 for Windows 95/98/NT
+
+Visual Cafe Expert Edition v. 4.0 for Windows 95/98/NT
+
+Visual Cafe Standard Edition v. 4.0 for Windows 95/98/NT
+
+Visual Cafe Open API SDK for Windows 95/98/NT
+
+The Programs do not include any third party technology or components
+incorporated in such products.
+
+
+
+                                     - 36 -
+<PAGE>   37
+
+
+
+
+
+
+
+EXHIBIT A-2, THE TOOLS
+
+[INTENTIONALLY LEFT BLANK]
+
+EXHIBIT A-3, RETAINED PROGRAMS AND COMPONENTS
+
+Just-in-Time Compiler (JIT)
+
+Symantec C++
+
+Visual Page
+
+LiveReg (on-line registration module)
+
+LiveUpdate (only in Visual Cafe Enterprise Suite v. 3.1 for Windows 95/98/NT; it
+has been removed from Visual Cafe v. 4 versions)
+
+EXHIBIT A-4, SUPERCEDED PROGRAMS
+
+All versions of Symantec Cafe
+
+All versions of Visual Cafe prior to the Programs
+
+All Macintosh versions of Visual Cafe
+
+EXHIBIT B, DEVELOPMENTS
+
+The ongoing development efforts are the efforts to develop of Visual Cafe
+Enterprise Suite v. 4.0, as well as other efforts to improve and create future
+versions of the Programs
+
+
+
+[ALL REMAINING EXHIBITS INTENTIONALLY LEFT BLANK]
+
+EXHIBIT C, LICENSES, CONTRACTS AND OTHER OBLIGATIONS
+
+EXHIBIT D, TANGIBLE ASSETS
+
+
+
+
+
+                                     - 37 -
+<PAGE>   38
+
+
+
+
+
+
+
+EXHIBIT E, TRANSITION PLAN
+
+EXHIBIT F, OPINION OF MORRISON & FOERSTER, LLP
+
+EXHIBIT G, OFFER LETTER
+
+EXHIBIT H OPINION OF FENWICK & WEST
+
+
+
+
+                                     - 38 -
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

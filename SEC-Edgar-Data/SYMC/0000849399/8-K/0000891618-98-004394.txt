@@ -1,0 +1,2438 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G4w29TX0G+R/cADoqPOivbQvC+nhq6bbGxhWm0Hnyd11c3oNYAIdMFdlYE4NAviU
+ yjTEXdRQZwFYJOSU4/DI2w==
+
+<SEC-DOCUMENT>0000891618-98-004394.txt : 19981006
+<SEC-HEADER>0000891618-98-004394.hdr.sgml : 19981006
+ACCESSION NUMBER:		0000891618-98-004394
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19981002
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		19981005
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYMANTEC CORP
+		CENTRAL INDEX KEY:			0000849399
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				770181864
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		
+		SEC FILE NUMBER:	000-17781
+		FILM NUMBER:		98720491
+
+	BUSINESS ADDRESS:	
+		STREET 1:		10201 TORRE AVE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+		BUSINESS PHONE:		4082539600
+
+	MAIL ADDRESS:	
+		STREET 2:		10201 TORRE AVENUE
+		CITY:			CUPERTINO
+		STATE:			CA
+		ZIP:			95014
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<DESCRIPTION>FORM 8-K DATED OCTOBER 2, 1998
+<TEXT>
+
+<PAGE>   1
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+
+                                    FORM 8-K
+
+
+
+                                 CURRENT REPORT
+
+
+
+                     Pursuant to Section 13 or 15(d) of the
+                         Securities Exchange Act of 1934
+
+
+
+Date of Report (date of earliest event reported)         October 2, 1998
+                                                --------------------------------
+
+
+                              SYMANTEC CORPORATION
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter)
+
+
+           Delaware                      0-17781                 77-0181864
+- ----------------------------           ------------          -------------------
+(State or other jurisdiction           (Commission            (I.R.S. Employer
+       of incorporation)               File Number)          Identification No.)
+
+
+           10201 Torre Avenue
+          Cupertino, California                                    95014
+- ----------------------------------------                         ----------
+(Address of principal executive offices)                         (Zip Code)
+
+
+Registrant's telephone number, including area code       (408) 253-9600
+                                                  ------------------------------
+
+<PAGE>   2
+
+Item 5:   Other Events
+
+          Purchase of Anti-Virus Business of Intel Corporation.
+
+          Symantec Corporation ("Symantec") acquired rights to Intel
+Corporation's anti-virus business. Symantec has also licensed Intel systems
+management technology which it will combine with its own antivirus technology to
+create best-of-breed anti-virus solutions for corporate organizations.
+
+          Norton AntiVirus engine technology will be integrated into a new
+anti-virus product that Intel has had under development for most of this year.
+The product will be fully integrated with Intel LANDesk Management Suite and
+will be launched as a Norton AntiVirus product later this year to provide an
+obvious and smooth upgrade path for current LANDesk Virus Protect customers.
+
+          Under the agreement, Symantec will support Intel's registered
+anti-virus customers once Symantec distributes a new Symantec version of Intel's
+antivirus product. Intel will also market the Norton AntiVirus product line
+through its extensive reseller channel worldwide.
+
+
+                                       2
+
+<PAGE>   3
+
+Item 7:   Financial Statements and Exhibits.
+
+          (c) Exhibits
+
+<TABLE>
+<S>                   <C>
+              10.1    Software License Agreement between Symantec and Intel
+                      Corporation, dated September 27, 1998.*
+
+              99.1    Press release of Symantec dated September 28, 1998.
+</TABLE>
+
+
+- ------------
+*Confidential treatment has been requested for certain portions of this exhibit.
+
+
+                                       3
+
+<PAGE>   4
+
+                                    SIGNATURE
+
+
+
+          Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+Dated: October 2, 1998
+
+                                         SYMANTEC CORPORATION
+
+
+
+                                         By: /s/ Derek P. Witte
+                                            ----------------------------------
+                                            Derek P. Witte
+                                            Vice President and General Counsel
+
+
+                                       4
+
+<PAGE>   5
+
+<TABLE>
+<CAPTION>
+Exhibit
+- -------
+<S>            <C>
+ 10.1          Software License Agreement between Symantec and Intel
+               Corporation, dated September 27, 1998.*
+
+ 99.1          Press release of Symantec dated September 28, 1998.
+</TABLE>
+
+
+
+- ------------
+*Confidential treatment has been requested for certain portions of this exhibit.
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<DESCRIPTION>SOFTWARE LICENSE AGREEMENT DATED 9/27/98
+<TEXT>
+
+<PAGE>   1
+
+                                                                    EXHIBIT 10.1
+                                                                   
+
+                           SOFTWARE LICENSE AGREEMENT
+
+This agreement ("Agreement") is made between Symantec Corporation, a Delaware
+corporation having offices at 10201 Torre Avenue, Cupertino CA 95014
+("Symantec"), and Intel Corporation, a Delaware corporation having offices at
+5200 N.E. Elam Young Parkway, Hillsboro, OR 97124 ("Intel"). Symantec and Intel
+are each individually referred to herein as a "Party" and collectively as the
+"Parties." This Agreement shall become effective on the date as of which both
+parties have executed the agreement (the "Execution Date").
+
+
+
+                                    AGREEMENT
+
+1.0  DEFINITIONS
+
+     1.1  "LDVP SOFTWARE" means that certain Intel LANDesk(R) Virus Protect
+     software specified in Exhibit A (which does not include the Common
+     Technology Software and Third Party Software), which includes the Antivirus
+     Specific Software, in both Source Code and Object Code form, all associated
+     Design Documentation and End User Documentation plus all generally
+     available language translations of the foregoing.
+
+     1.2  "COMMON TECHNOLOGY SOFTWARE" means that certain Intel Common
+     Technology Software specified in Exhibit A, in Object Code form, and any
+     subsequent Releases and Maintenance Updates, API definitions, plus all
+     generally available language translations of the foregoing.
+
+     1.3  "AVC SOFTWARE" means the Norton Anti-Virus Client software specified
+     in Exhibit A, in Object Code form, which contains functionality equivalent
+     to that which is offered as Symantec's standard anti-virus client product,
+     any subsequent Releases and Maintenance Updates, End User Documentation,
+     and API definitions, plus all generally available language translations of
+     the foregoing.
+
+     1.4  "LICENSED SYMANTEC PRODUCTS" means any product sold or licensed by
+     Symantec, which contains the Common Technology Software.
+
+     1.5  "LICENSED INTEL PRODUCTS" means any product sold or licensed by Intel,
+     which contains the AVC Software.
+
+     1.6  "RELEASE" means a major release or point release of any software
+     licensed by either Party under this Agreement, which is designated by the
+     licensor Party in its sole discretion as a new release. A "Major Release"
+     means a significantly enhanced or revised release of such software, as
+     customarily signified in the software industry by a change in the digit
+     which appears immediately to the left of the decimal point in the version
+     number. A "Point Release" means a new release of such software that may
+     contain new features and functionality and is customarily signified by the
+     software industry by a change in the digit that appears to the right of the
+     decimal point in the version number. "Release" specifically excludes
+     "Maintenance Updates."
+
+
+    Confidential treatment has been requested for portions of this document.
+
+                                      -1-
+
+<PAGE>   2
+
+     1.7  "MAINTENANCE UPDATE" means changes to fix a bug or correct an error to
+     an existing release of any software licensed by either Party to the other
+     Party under this Agreement, made by or for the licensor Party in its sole
+     discretion, and which is designated by the licensor Party as a maintenance
+     update.
+
+     1.8  "DESIGN DOCUMENTATION" shall mean any documentation existing as of the
+     Execution Date of the Agreement or thereafter relating to (i) how software
+     was developed, (ii) how the software works, is organized or is partitioned
+     internally, (iii) how a licensee other than an end user can if granted the
+     right modify or add to the software functionality, (iv) any non-public
+     APIs, and/or (v) any written confidential and trade secret information of a
+     technical nature provided by one Party to the other under this Agreement.
+
+     1.9  "END-USER DOCUMENTATION" shall mean any end user installation and user
+     guides, manuals, and other technical information in printed and
+     machine-readable form that are normally provided by the licensor Party to
+     end users of software. End User Documentation specifically excludes Design
+     Documentation and any Source Code documentation.
+
+     1.10 "OBJECT CODE" means software, including all computer programming code
+     in binary form that is directly executable by a computer after suitable
+     processing but without the intervening steps of compilation or assembly,
+     and all help, message, and overlay files.
+
+     1.11 "SOURCE CODE" means the software code from which Object Code is
+     compiled. Source code includes the commented software Source Code and
+     design documentation for the relevant software, as well as all other
+     materials, in both machine readable and hard-copy form, that are used to
+     develop or test the software. Source Code includes, for example, relevant
+     electronically readable source documentation, design documents, data
+     models, test scripts, help materials, and tutorial programs.
+
+     1.12 "SUBSIDIARY" means any corporation, company or other entity with
+     regard to which (a) greater than fifty percent (50%) of whose outstanding
+     shares or securities entitled to vote for the election of directors or
+     similar managing authority is directly or indirectly owned or controlled by
+     a Party hereto; or (b) which does not have outstanding shares or securities
+     but greater than fifty percent (50%) of whose ownership interest
+     representing the right to make such decisions for such entity is, now or
+     hereafter, owned or controlled, directly or indirectly, by a party hereto;
+     provided however, that in each case such corporation, company or other
+     entity shall be deemed a Subsidiary only so long as such ownership or
+     control exists and exceeds fifty percent (50%). For purposes of this
+     Agreement, the terms Intel and Symantec shall include all of each
+     respective Party's Subsidiaries.
+
+     1.13 "SMA" means a Service Maintenance Agreement between Intel and
+     licensees of LDVP 5.X in one of the forms attached as Exhibit D.
+
+     1.14 "VPA" means a Volume Purchase Agreement between Intel and licensees of
+     LDVP 5.X in one of the forms attached as Exhibit D.
+
+     1.15 "NET REVENUE" means actual gross receipts from sales, marketing and
+     distribution of the products, less taxes (including, but not limited to,
+     any sales, use, excise or other taxes), bad debts, interest, currency
+     exchange fees and other finance charges, shipping 
+
+
+                                      -2-
+
+<PAGE>   3
+
+     costs (including, but not limited to, insurance, transportation costs and
+     duties) and allowances for returns, defects, replacements or stock
+     balances. If any product is distributed with other products in a package
+     for a single price, the Net Revenue attributable to such product will be
+     determined by prorating the receipts from the sale or license of the
+     package according to the suggested retail prices, or if no suggested retail
+     price is announced, the values established by the Party selling the product
+     , for the separate works contained in the package, whether or not such
+     products are distributed separately, provided that such values are
+     reasonably related to the values, marketing potentials or cost of the
+     separate products. Net Revenue will not include any receipts from copies of
+     the products which are distributed by the Party to previous purchasers of
+     the products as back-up, replacement or update copies for which that Party
+     does not receive payment in excess of $15.00, and no amount will be
+     credited or paid to the other Party with respect to any receipts from
+     copies of the products supplied for promotional purposes to the press,
+     trade, sales representatives or potential customers for the products.
+     Amounts received by a Party as deposits or advances will not be deemed to
+     have been received until shipments of the product to the party making the
+     deposits or advances have been made against such deposits or advances.
+     Partial payments of an invoice will be prorated over all products included
+     in the invoice. Amounts received by the Party in foreign currencies will be
+     deemed converted into United States Dollars at the average exchange rates
+     used by the Party in its financial statements for the month of receipt.
+
+     1.16 "THIRD PARTY SOFTWARE" means the third party software code included in
+     LDVP Software Version 5.0 and LDVP Software Version 6.0 specified in
+     Exhibit A.
+
+     1.17 "AV SUBSCRIPTION" means a subscription granting rights to receive
+     updated virus pattern files over a specified period of time for end users
+     of the AVC Software.
+
+     1.18 "INTELLECTUAL PROPERTY" means (i) copyrights and trade secrets in the
+     software as delivered; and (ii) to the minimum extent that is necessary to
+     exercise the copyright license, claims of patents that read on inventions
+     incorporated into the software as delivered
+
+     1.19 "ANTIVIRUS SPECIFIC SOFTWARE" means that portion of the LDVP Software
+     that is specific to detection and removal of viruses.
+
+
+2.0  INTEL DELIVERABLES
+
+     2.1  INITIAL DELIVERY OF SOFTWARE: Intel shall deliver to Symantec the LDVP
+     Software version 5.0, alpha version 6.0, Common Technology Software and
+     associated End-User Documentation and any available mail extensions or
+     foreign language translations that are available as of the Execution Date
+     within thirty (30) days after the Execution Date. Intel shall also deliver
+     available training materials and sales/marketing collateral specifically
+     related to the LANDesk Virus Protect product to Symantec at this time..
+     Additionally, Intel shall deliver to Symantec the English only LDVP
+     Software version 6.0 (without mail extensions or foreign language
+     translations) 10 days after Intel determines, in its reasonable discretion,
+     that development and testing of such product are complete based on Intel's
+     normal criteria (including as set forth in Exhibit F) for releasing LANDesk
+     software products and based on Intel's definition of the product (i.e. no
+     custom development work for Symantec is contemplated). Concurrent with the
+     LDVP 6.0 alpha 
+
+
+                                      -3-
+
+<PAGE>   4
+
+     delivery, Intel shall either deliver all Intel proprietary tools (including
+     localization tools) necessary to build LDVP 6.0 under the license
+     provisions set forth in Section 4.5 or will help Symantec identify
+     alternative tools and/or processes to accomplish such build, however Intel
+     will be under no obligation to obtain or provide Symantec with third party
+     software tools.
+
+     2.2  SUBSEQUENT DELIVERY OF RELEASES: Any Releases and Maintenance Updates
+     to the Common Technology Software developed by or for Intel during the term
+     of this Agreement shall be provided to Symantec at such time as the Release
+     or Maintenance Update is made generally available to third parties. Intel
+     further agrees to provide to Symantec beta versions of any Releases or
+     Maintenance Updates (if any) at or before the time that Intel provides beta
+     versions to any third party. Symantec further acknowledges that,
+     notwithstanding any other provision of this Agreement, Intel will not be
+     required to deliver to Symantec any Releases of Common Technology Software
+     relating to unique features developed by or for Intel solely for a single
+     customer.
+
+     2.3  AGREEMENT DELIVERY AND ASSIGNMENT: On the Execution Date, Intel shall
+     deliver to Symantec true and correct copies of all current VPAs and site
+     agreement for the LANDesk(R) Virus Protect product to Symantec.
+     Furthermore, Intel represents that the VPA's are substantially similar to
+     the sample VPA agreement in Exhibit D.
+
+     2.4  CUSTOMER DATABASES: On the Execution Date, Intel shall deliver to
+     Symantec customer databases related to the LDVP Software in a MS excel
+     format containing information available to Intel for each database as
+     further defined in Exhibit E. Furthermore, Intel represents that the SMAs
+     referred to therein are substantially similar to the sample SMA agreements
+     in Exhibit D with the exception of customers who choose the enterprise
+     level support upgrade which includes 7x24 hour support. Symantec represents
+     that to the extent the LDVP customers remain separately identified, such
+     lists or databases shall not be provided to any third party without Intel's
+     prior written consent.
+
+
+3.0  SYMANTEC DELIVERABLES
+
+     3.1  INITIAL DELIVERY: Symantec shall deliver to Intel the AVC Software,
+     associated End-User Documentation, technical API's for the underlying AV
+     scan engine included in the AVC Software, and any associated Design
+     Documentation related to such APIs within thirty (30) days after the
+     execution of this Agreement by both Parties.
+
+     3.2  SUBSEQUENT DELIVERY OF RELEASES: Any Releases and Maintenance Updates
+     to the AVC Software (after the delivery of the initial release) developed
+     by or for Symantec during the term of this Agreement shall be provided to
+     Intel at such time as the Release or Maintenance Update is made generally
+     available to third parties (including technical API's for the underlying AV
+     scan engine). Symantec further agrees to provide to Intel beta versions of
+     any Releases or Maintenance Updates (if any) at or before the time that
+     Symantec provides beta versions generally to third parties. Intel further
+     acknowledges that, notwithstanding any other provision of this Agreement,
+     Symantec will not be required to deliver to Intel any Releases of the AVC
+     Software relating to unique features developed by or for Symantec solely
+     for a single customer. Symantec shall also make Releases and Maintenance
+     Updates, including but not limited to virus pattern file updates, available
+     to 
+
+
+                                      -4-
+
+<PAGE>   5
+
+     Intel in a format that can be delivered by Intel to its customers via
+     electronic means, e.g. FTP or other web-based delivery mechanism.
+
+     3.3  SYMANTEC UPDATE OBLIGATION: Symantec will provide, for no additional
+     cost, Maintenance Updates and Releases of LDVP Software to any end user
+     customer who has an unexpired SMA for LANDesk Virus Protect software on the
+     Execution Date of the Agreement, for such time as the SMA is unexpired.
+
+
+4.0  INTEL LICENSES TO SYMANTEC
+
+     4.1  LDVP SOFTWARE LICENSE: Subject to the terms and conditions of this
+     Agreement, Intel grants Symantec a non-exclusive, worldwide, irrevocable,
+     transferable, fully paid up (in accordance with the payment terms in
+     Section 11.1), perpetual license (with the right to sublicense) under
+     Intel's Intellectual Property in the LDVP Software to reproduce, have
+     reproduced, prepare and have prepared derivative works of, publicly
+     display, use, and distribute the LDVP Software and derivative works
+     thereof, in both Object Code and Source Code form to third parties;
+     provided that:
+
+          4.1.1 For twenty four (24) months after the Execution Date, Intel
+          agrees not to license LDVP Software (excluding the Antivirus Specific
+          Software, which is restricted as set forth in Section 4.1.3 below) or
+          derivatives thereof to [*] (including their respective successors in 
+          interest, or assignees) for use in their anti-virus products.
+
+          4.1.2 From twenty four (24) months to thirty six months (36) after the
+          Execution Date, Intel agrees that if it licenses any derivatives of
+          LDVP Software (excluding the Antivirus Specific Software, which is
+          restricted as set forth in Section 4.1.3 below) to [*] (including 
+          their respective successors in interest, or assignees) it shall make 
+          available the same derivatives on a royalty free basis (subject to any
+          underlying royalties owed by Intel) to Symantec.
+
+          4.1.3 With respect to the Antivirus Specific Software, Intel agrees
+          that for the term of this Agreement, it will not use the Antivirus
+          Specific Software in the stand-alone anti-virus business and that it
+          will not (a) license or sell it to [*] (including their respective 
+          successors in interest or assignees), or (b) license or sell the 
+          buildable Object or Source Code to any other person or entity for
+          antivirus purposes, or (c) allow its licensees or assignees to do such
+          restricted acts. Notwithstanding the foregoing and subject to Intel's
+          payment of any applicable royalties set forth in the Agreement, Intel
+          shall not be prohibited from licensing or selling the Antivirus
+          Specific Software in conjunction with any Intel services and/or
+          products authorized herein (e.g, Intel(R) Answer Express sm, Intel(R)
+          LANDesk(R) Client Manager, etc.) or hereinafter as agreed upon by the
+          Parties. Additionally, Intel shall be permitted to license the
+          buildable Object or Source Code in conjunction with any outsourcing of
+          Intel support obligations. After the term of this Agreement has
+          expired, Intel will not be subject to the restrictions on the
+          Antivirus Specific Software set forth in this Section 4.1.3.
+
+* Certain information on this page has been omitted and filed separately with 
+  the Commission. Confidential treatment has been requested with respect to the 
+  omitted portions.
+
+
+                                      -5-
+
+<PAGE>   6
+    
+     4.2  COMMON TECHNOLOGY SOFTWARE LICENSE: Subject to the terms and
+     conditions of this Agreement, Intel grants Symantec a non-exclusive,
+     worldwide, non-transferable (except for assignment pursuant to Section
+     18,8), license under Intel's Intellectual Property in the Common Technology
+     Software (without the right to sublicense except as set forth below in
+     Section 4.3) to reproduce, have reproduced, publicly display, distribute
+     and use the Common Technology Software solely in Object Code form to third
+     parties; provided that:
+
+          4.2.1 In the event that Intel sells, assigns, or otherwise transfers
+          its rights in the Common Technology Software to a third party, which
+          is unable or unwilling to satisfy the support obligations related
+          thereto as set forth in this Agreement, Intel shall deliver to
+          Symantec the Common Technology Software in Source Code form and
+          provide Symantec with a limited license to use such Source Code solely
+          for support pursuant to the terms of this Agreement.
+
+     4.3  COMMON TECHNOLOGY SOFTWARE DISTRIBUTION: Symantec may distribute the
+     Common Technology Software in Object Code form solely through license
+     agreements binding on all parties in the distribution chain and/or on the
+     end user, which shall contain terms no less restrictive than those normally
+     used when Symantec distributes its own software products. In addition,
+     Symantec shall only distribute Common Technology Software when integrated
+     with Symantec products (which shall include for purposes of this
+     restriction the LDVP Software) and not in stand-alone form.
+
+     4.4  LIMITED SOURCE CODE LICENSES::
+
+          4.4.1 Subject to the terms and conditions of this Agreement, Intel
+          grants to Symantec a non-exclusive, non transferable, royalty free,
+          internal use only license under Intel's trade secret rights to use the
+          Source Code of the Common Base Agent ("CBA") software as set forth in
+          Exhibit A (i.e. - Common Base Agent Ping Discovery Service and Common
+          Base Agent Network Transport System) for the sole and exclusive
+          purpose of facilitating identification of software bugs and anomalies
+          and providing suggested fixes and workarounds to both Symantec's
+          Licensed Symantec Products customers and Intel, provided that:
+
+               4.4.1.1 Symantec shall strictly comply with the Source Code
+               Confidentiality provisions as set forth in Section 18.2.1;
+
+               4.4.1.2 No copyright, patent or other intellectual property 
+               rights are granted to Symantec pursuant to this Section 4.4.1.
+               Intel shall provide one (1) copy of the CBA Source Code to
+               Symantec not later than Symantec's first commercial shipment of a
+               Licensed Symantec Product and shall provide Symantec with
+               periodic Source Code updates for the CBA software within a
+               reasonable period following Intel's commercial shipment of a new
+               Release; and
+
+               4.4.1.3 Intel shall not provide to Symantec, nor shall Intel be
+               required to obtain for Symantec, the Source Code to any third
+               party software which may be included in the CBA software.
+               Notwithstanding 
+
+
+                                      -6-
+
+<PAGE>   7
+
+               the foregoing, Intel shall notify Symantec of any third party 
+               software contained in the CBA software.
+
+          4.4.2 Upon reasonable request by Symantec, which shall not be
+          unreasonably denied by Intel, and subject to the terms and conditions
+          of this Agreement, Intel shall, on a case by case basis, grant to
+          Symantec a non-exclusive, non transferable, royalty free license under
+          Intel's Intellectual Property rights to create derivatives of the
+          Source Code of the Common Technology Software solely by porting the
+          Source Code to function with Operating Systems ("OS's") which are not
+          supported by Intel. In conjunction with the foregoing, Intel also
+          grants to Symantec, a non-exclusive, non-transferable, royalty free
+          license under Intel's Intellectual Property rights to copy and
+          distribute the Common Technology Software derivatives in Object Code
+          form only to customers of Licensed Symantec Products. The conditional
+          rights and licenses set forth in this Section 4.4.2 are also subject
+          to the following:
+
+               4.4.2.1 Symantec shall strictly comply with the Source Code
+               Confidentiality provisions as set forth in Section 18.2.1;
+
+               4.4.2.2 Intel shall own all rights to the derivative Common
+               Technology Software Source Code and Object Code created by
+               Symantec as authorized hereunder and Symantec shall cooperate in
+               making all necessary assignments of copyrights and any other
+               Intellectual Property rights necessary to perfect Intel's full
+               ownership interest therein;
+
+               4.4.2.3 Symantec shall distribute the derivative Common
+               Technology Software Object Code solely with Symantec's anti-virus
+               products and shall not distribute the derivative Common
+               Technology Software Object Code in standalone form;
+
+               4.4.2.4 Symantec shall not sublicense or otherwise transfer the
+               derivative Common Technology Software Source Code to any third
+               party without Intel's express prior written permission, which
+               Intel may withhold at its sole discretion;
+
+               4.4.2.5 Symantec shall be solely responsible for the maintenance
+               and support of any derivative Common Technology Software Source
+               Code and Object Code created by Symantec as authorized hereunder
+               and shall provide Intel with copies thereof in both Source Code
+               and Object Code form upon their completion. Additionally,
+               Symantec shall periodically provide Intel with updates to such
+               derivative Common Technology Software Source and Object Code upon
+               their availability; and
+
+               4.4.2.6 Intel shall not be required to provide to Symantec, nor
+               shall Intel be required to obtain for Symantec, the Source Code
+               to any third party software which may be included in the Common
+               Technology Software. Notwithstanding the foregoing, Intel shall
+               notify 
+
+
+                                      -7-
+
+<PAGE>   8
+
+               Symantec of any third party software contained in the Common
+               Technology Software.
+
+          4.4.3 Upon any termination or expiration of this Agreement, Intel
+          shall be under no further obligation to provide Symantec with: (I) the
+          Common Technology Software Source Code as set forth in Section 4.4.2
+          above if not previously provided pursuant to the terms thereof, or
+          (ii) updates or support of any kind for the Object Code or Source Code
+          provided to Symantec prior to such termination or expiration under
+          this Section 4.0.
+
+     4.5  LIMITED OBJECT CODE LICENSE TO LDVP 6.0 TOOLS
+
+          4.5.1 Subject to the terms and conditions of this Agreement, Intel
+          grants to Symantec a time limited, non-exclusive, non transferable,
+          royalty free, internal use only Object Code license under Intel's
+          Intellectual Property rights to copy and use those Intel proprietary
+          LDVP 6.0 tools delivered pursuant to Section 2.1 for the sole and
+          exclusive purpose of building English and localized versions of the
+          LDVP 6.0 product provided that:
+
+               4.5.1.1 Symantec employs reasonable commercial efforts to move
+               LDVP 6.0 into its own build and localization environment as soon
+               as feasible; 
+
+               4.5.1.2 Intel shall be under no obligation to provide support for
+               the tools provided other than high level instruction and/or
+               documentation regarding use of the tool(s); 
+
+               4.5.1.3 This license shall expire and Symantec shall return or
+               destroy and render unrecoverable, at Intel's option, all copies
+               of the LDVP 6.0 tools provided hereunder by Intel upon the
+               earlier of (I) Symantec's completion of its integration of LDVP
+               6.0 into its own build and localization environment, or (ii)
+               January 1, 2000); 
+
+               4.5.1.4 For purposes of this license only, any Intel proprietary
+               "Make" or similar type tool files necessary for the LDVP 6.0
+               build shall be considered part of the Object Code and may be
+               modified as necessary by Symantec; and 
+
+               4.5.1.5 Symantec shall only make a reasonably sufficient number
+               of copies of the LDVP 6.0 tools provided by Intel hereunder to
+               accomplish the LDVP 6.0 build and facilitate migration to
+               Symantec's own software build and localization environment.
+
+
+5.0  SYMANTEC LICENSES TO INTEL
+
+     5.1  AVC SOFTWARE LICENSE: Subject to the terms and conditions of this
+     Agreement, Symantec grants Intel a non-exclusive, worldwide, non
+     transferable (except for assignment pursuant to Section 18.8), license
+     under Symantec's Intellectual Property in the AVC Software (without the
+     right to sublicense except as set forth below in Section 5.2) to reproduce,
+     have reproduced, publicly display, distribute and use the AVC Software
+     solely in Object Code form to third parties, provided that:
+
+          5.1.1 This license shall not be effective during any period in which
+          Intel commercially ships an anti-virus software solution from a vendor
+          other than 
+
+
+                                      -8-
+
+<PAGE>   9
+
+          Symantec as part of its LANDesk(R) branded systems management software
+          products;
+
+          5.1.2 End users will be restricted from gaining new virus pattern file
+          updates after 90 days from registration unless they obtain an AV
+          Subscription from either Symantec or Intel; and
+
+          5.1.3 For virus pattern updates, this license shall only apply when
+          exercised in conjunction with Intel's Answer Express sm service
+          offering/products (or their logical successors) and is subject to
+          Intel's payment of the associated royalty amounts as set forth in
+          Section 11.2.1. Additionally, unless otherwise authorized by Symantec
+          in writing, Intel shall only sell AV Subscriptions in conjunction with
+          Intel's Answer Expresssm service offering/products (or their logical
+          successors).
+
+
+     5.2  AVC SOFTWARE DISTRIBUTION: Subject to the terms and conditions of this
+     Agreement, Intel may distribute the AVC Software in Object Code form solely
+     through license agreements binding on all parties in the distribution chain
+     and/or on the end user, which shall contain terms no less restrictive than
+     those normally used when Intel distributes its own software products. In
+     addition, Intel shall only distribute AVC Software when integrated with
+     Intel products or services which provide significant additional
+     functionality and not in stand-alone form.
+
+
+     5.3  AVC SOFTWARE TRANSLATION LICENSE: Subject to the terms and conditions
+     of this Agreement, Symantec grants Intel a non-exclusive, worldwide,
+     non-transferable (except for assignment pursuant to Section 18.8), license
+     under Symantec's Intellectual Property in the AVC Software to create or
+     have created derivative works of the AVC Software and distribute such
+     derivative works solely in Object Code form to third parties; provided
+     that: (i) such derivative works shall consist only of foreign language
+     translations of the AVC Software, which Intel needs in order to distribute
+     Licensed Intel Products, and only where such translations are not available
+     from Symantec; and (ii) Symantec will own all right, title and interest in
+     any derivatives created by Intel under this section; (iii) and provided
+     that Intel shall distribute such translation derivatives only when
+     integrated with the Intel products or services, which provide significant
+     additional functionality and not in stand-alone form (the "Translation
+     Derivatives").
+
+
+     5.4  AVC INTERNAL USE LICENSE: Subject to the terms and conditions of a
+     Symantec End User License, Symantec grants to Intel and its subsidiaries a
+     fully paid-up worldwide enterprise license to the AVC Software including
+     updates, when available, and Symantec's standard level (and not gold or
+     platinum level) of support that Symantec provides to its other customers.
+     The terms and conditions of the Symantec End User License Agreement shall
+     apply only if Intel chooses, in its sole discretion, to deploy the AVC
+     Software.
+
+
+6.0  LICENSE RESTRICTIONS
+
+
+                                      -9-
+
+<PAGE>   10
+
+     6.1  RESERVATION OF RIGHTS: All rights not expressly granted herein are
+     reserved to the owner, and no other licenses are granted herein by
+     implication, estoppel or otherwise. Furthermore, notwithstanding anything
+     herein to the contrary, Intel grants no licenses or other rights under any
+     of its intellectual property rights for technical information to any
+     microprocessor (including, without limitation, co-processors and embedded
+     controllers), associated core logic device (including, without limitation,
+     chip sets), flash memory, or semiconductor manufacturing technology.
+     Symantec grants no licenses or other rights for any Symantec product or
+     technology other than as expressly set forth herein.
+
+     6.2  NO REVERSE ENGINEERING: Neither Party shall reverse engineer,
+     decompile or disassemble any software, which is provided to it by the other
+     Party in Object Code form only, without the express permission of the other
+     Party.
+
+     6.3  INTEL NOTICES: Symantec agrees to reproduce Intel's and Intel's
+     vendors copyright notices on each copy of any product it manufactures or
+     reproduces that contains in whole or in part, the Common Technology
+     Software or the LDVP Software. Symantec agrees not to remove or obscure any
+     copyright notices of Intel or its vendors or other proprietary notices on
+     such software.
+
+     6.4  SYMANTEC NOTICES: Intel agrees to reproduce Symantec's and Symantec's
+     vendors copyright notices on each copy of any product it manufactures or
+     reproduces that contains in whole or in part, the AVC Software. Intel
+     agrees not to remove or obscure any copyright notices of Symantec or its
+     vendors or other proprietary notices on such software.
+
+     6.5  SHIPMENT OF NEW RELEASES AND MAINTENANCE UPDATES: Each Party will make
+     reasonable efforts to incorporate new Releases and Maintenance Updates
+     supplied by the other Party under the same terms and conditions as the
+     previous Release into its products, which incorporate software licensed by
+     the other Party as soon as is commercially reasonable. Moreover, the Party
+     delivering such new Release or Maintenance Update will not be obligated to
+     provide any support for the previous Release of the licensed software
+     twelve (12) months after delivery of the new Release or Maintenance Update.
+
+
+7.0  OWNERSHIP
+
+     7.1  LDVP SOFTWARE AND COMMON TECHNOLOGY SOFTWARE: Symantec acknowledges
+     that, as between Symantec and Intel, Intel retains all rights, title and
+     interest to the LDVP Software as delivered to Symantec and the Common
+     Technology Software, including any derivatives of the Common Technology
+     Software created by Intel or Symatec.
+
+     7.2  LDVP DERIVATIVES CREATED BY SYMANTEC: Intel acknowledges that, as
+     between Intel and Symantec, Symantec shall own all right, title and
+     interest to all derivatives of the LDVP Software created by Symantec under
+     the terms of this Agreement after the Execution Date.
+
+
+                                      -10-
+
+<PAGE>   11
+
+     7.3  AVC SOFTWARE: Intel acknowledges that, as between Intel and Symantec,
+     Symantec retains all rights, title and interest to the AVC Software.
+
+     7.4  AVC SOFTWARE TRANSLATION DERIVATIVES: Intel acknowledges that, as
+     between Intel and Symantec, Symantec shall own all right, title and
+     interest to all translation derivatives of the AVC Software created
+     pursuant to Section 5.3 above as well as all support obligations for such
+     Translation Derivatives.
+
+
+8.0  LANDESK BRAND ATTRIBUTION
+
+     8.1  Symantec is granted no right, license, title or interest in or to any
+     Intel trademarks, including the Intel LANDesk trademark ("LANDesk Mark").
+     Symantec acknowledges and agrees that the LANDesk Mark may not be used as
+     or as part of the title or brand name for Licensed Symantec Products (e.g.,
+     "Norton LANDesk Antivirus"). However, Symantec may make a textual reference
+     to the Licensed Symantec Products as being "designed for" or "for" use with
+     "Intel LANDesk products" so long as such references (a) are truthful, fair,
+     and not misleading and (b) are subject to the prior approval of Intel.
+
+     8.2  Symantec agrees that it will make such textual references to the
+     LANDesk Mark in conjunction with marketing collateral and product packaging
+     for Licensed Symantec Products, to the extent the requirements of this
+     Section are (i) consistent with Symantec co-marketing and branding
+     guidelines and policies; (ii) not in conflict with any Symantec agreements
+     with third parties. Symantec represents and warrants that it will not make
+     the authorized textual reference to the LANDesk Mark on or in connection
+     with any items other than the Licensed Symantec Products.
+
+     8.3  Symantec acknowledges Intel's exclusive rights in and to the LANDesk
+     Mark, and all goodwill associated therewith, and further acknowledges that
+     all use by Symantec of the LANDesk Mark inures to the sole benefit of
+     Intel. If, at any time, Symantec acquires any rights in, or registrations
+     or applications for the LANDesk Mark by operation of law or otherwise,
+     Symantec will immediately and at no expense to Intel assign such rights,
+     registration(s) or application(s) to Intel, along with any associated
+     goodwill. At no time during or after the term of this Agreement shall
+     Symantec challenge or assist others to challenge the LANDesk Mark or the
+     registration thereof or attempt or assist another in the attempt to
+     register any trademarks, marks or similar rights for marks the same as or
+     confusingly similar to the LANDesk Mark.
+
+     8.4  Upon reasonable notice, Symantec agrees to allow Intel to inspect
+     materials, such as advertising, packaging, manuals, instruction materials,
+     splash screens, brochures, catalogs, point-of-purchase displays, etc.,
+     which refer to the LANDesk Mark, to ensure that such references of the
+     LANDesk Mark on Licensed Symantec Products and such materials complies with
+     the terms of this Agreement.
+
+
+9.0  SYMANTEC AND NORTON BRAND ATTRIBUTION
+
+
+                                      -11-
+
+<PAGE>   12
+
+     9.1  Intel is granted no right, license, title or interest in or to any
+     Symantec trademarks, including the Symantec and Norton AntiVirus trademarks
+     ("Symantec Marks"). Intel acknowledges and agrees that the Symantec Marks
+     may not be used as or as part of the title or brand name for Licensed Intel
+     Products (e.g., "Norton LANDesk" or "Symantec LANDesk"). However, Intel may
+     make a textual reference to the Licensed Intel Products as "including" or
+     "with" Symantec or Norton AntiVirus so long as such references (a) are
+     truthful, fair, and not misleading and (b) are subject to the prior
+     approval of Intel. Notwithstanding the foregoing, this Agreement will not
+     prevent Intel from making fair use of the generic term "anti virus".
+
+     9.2  Intel agrees that it will make textual references to the Symantec
+     Marks in conjunction with marketing collateral and product packaging for
+     LANDesk branded Licensed Intel Products, to the extent the requirements of
+     this Section are (i) consistent with Intel co-marketing and branding
+     guidelines and policies; (ii) not in conflict with any Intel agreements
+     with third parties. Intel represents and warrants that it will not make
+     textual references to the Symantec Marks on or in connection with any items
+     other than the Licensed Intel Products.
+
+     9.3  Intel acknowledges Symantec's exclusive rights in and to the Symantec
+     Marks, and all goodwill associated therewith, and further acknowledges that
+     all use by Intel of the Symantec Marks inures to the sole benefit of
+     Symantec. If, at any time, Intel acquires any rights in, or registrations
+     or applications for the Symantec Marks by operation of law or otherwise,
+     Intel will immediately and at no expense to Symantec assign such rights,
+     registration(s) or application(s) to Symantec, along with any associated
+     goodwill. At no time during or after the term of this Agreement shall Intel
+     challenge or assist others to challenge the Symantec Marks or the
+     registration thereof or attempt or assist another in the attempt to
+     register any trademarks, marks or similar rights for marks the same as or
+     confusingly similar to the Symantec Marks.
+
+     9.4  Upon reasonable notice, Intel agrees to allow Symantec to inspect
+     materials, such as advertising, packaging, manuals, instruction materials,
+     splash screens, brochures, catalogs, point-of-purchase displays, etc.,
+     which refer to the Symantec Marks, to ensure that such references of the
+     Symantec Marks on Licensed Intel Products and such materials complies with
+     the terms of this Agreement.
+
+
+10.0 SUPPORT
+
+     10.1 LDVP SOFTWARE SUPPORT: Intel will provide engineering support to
+     Symantec until 90 days after the completed LDVP Software version 6.0 has
+     been delivered as per section 2.1 to Symantec. In any event, support from
+     Intel will not extend beyond July 8, 1999.
+
+     10.2 COMMON TECHNOLOGY SOFTWARE SUPPORT: Both Parties will provide ongoing
+     support to each other for integration of Common Technology Software into
+     Licensed Symantec Products. This support will consist of providing API
+     definitions and updates, as well as engineer to engineer support as
+     required from time to time and as agreed to by the Parties. Both Parties
+     will make reasonable efforts to allow the other to meet their delivery
+     schedules. In addition, both Parties will make reasonable efforts to keep
+     their respective API's consistent over time. Upon request from Symantec,
+     Intel will make up to 120 hours 
+
+
+                                      -12-
+
+<PAGE>   13
+
+     of engineering assistance available on-site at Symantec's facilities for
+     consultation/integration support of the Common Technology Software
+     throughout the 1999 calendar year to be made reasonably available within
+     ten (10) days after requested.
+
+     10.3 AVC SOFTWARE SUPPORT: Both Parties will provide ongoing support to
+     each other for integration of the AVC Software into Licensed Intel
+     Products. This will consist of providing API definitions and updates, as
+     well as engineer to engineer support as required from time to time as
+     agreed to by the Parties. Both Parties will make reasonable efforts to
+     allow the other to meet their delivery schedules. In addition, both Parties
+     will make reasonable efforts to keep their respective API's consistent over
+     time. Upon request from Intel, Symantec will make up to 120 hours of
+     engineering assistance available on-site at Intel's facilities for
+     consultation/integration support of the AVC Software (including the
+     underlying AV scan engine) throughout the 1999 calendar year to be made
+     reasonably available within ten (10) days after requested.
+
+     10.4 END-USER SUPPORT:
+
+          10.4.1 Intel acknowledges that any end user support for version 5.X of
+          LANDesk Virus Protect and previous versions of the product will be
+          performed by Intel, including, without limitation, all such support
+          required pursuant to the SMAs or VPAs assigned or otherwise
+          transferred to Symantec hereunder and the support contracts for these
+          versions of the LDVP Software entered into by Symantec after the
+          Execution Date, provided however that Intel shall not be obligated to
+          provide support materially different than the support it currently
+          provides to its LANDesk Virus Protect customers. Moreover, in no event
+          shall this support obligation extend beyond June 30, 1999. After June
+          30, 1999, any remaining support obligations to end users of LANDesk
+          Virus Protect Software will be provided solely by Symantec.
+
+          10.4.2 Intel will provide first line support to end users with
+          questions regarding AVC Software, which has been shipped with Licensed
+          Intel Products. If Intel is unable to resolve the problem, it will be
+          escalated to Symantec who will work to resolve the problem through
+          Intel or directly with the end-user at Intel's discretion.
+
+     10.5 ONGOING SUPPORT: As between Intel and Symantec, engineer to engineer
+     support will be provided pursuant to Exhibit C.
+
+     10.6 SUPPORT PLAN: Symantec and Intel will establish a mutually agreed upon
+     support plan including contacts, escalation procedures between the
+     companies, training schedules, and customer hand-off guidelines and both
+     Parties will make reasonable efforts to execute on such plan.
+
+     10.7 VIRUS DISCOVERY AND RESPONSE PROCEDURES: Symantec shall provide virus
+     detection and resolution to Intel and Intel's customers which is the same
+     or better as the support it provides to its own customers generally.
+     Symantec acknowledges that Intel may, from time to time in its sole
+     discretion, request priority support for certain of its customers, and that
+     Symantec will provide such priority customers with the same level of
+     support it provides to its most favored enterprise level customers.
+
+
+                                      -13-
+
+<PAGE>   14
+
+     10.8 NO CUSTOM DEVELOPMENT: Both Parties acknowledge that any special
+     development requirements beyond creation of standard API definitions may
+     require reasonable NRE, as subsequently agreed to by the Parties.
+
+     10.9 SUPPORT FOR COMPLETION OF LDVP VERSION 6.0 FROM SYMANTEC: Symantec
+     will fund (as set forth in provision 11.1.2 and 11.2.2) two dedicated
+     quality assurance heads on site at Intel in Utah beginning at the Execution
+     Date to support Intel efforts to complete LDVP version 6.0 per the delivery
+     requirements in Section 2.1. Symantec will also utilize this time to
+     facilitate the transition of and training related to the LDVP business.
+     Symantec will also provide one program manager to assist in coordinating
+     the above activities.
+
+11.0 ROYALTIES & PAYMENTS
+
+     11.1 ROYALTIES AND PAYMENTS TO INTEL
+
+          11.1.2 CONSIDERATION FOR TRANSFER OF LDVP BUSINESS: In consideration
+          for the transition of Intel's LANDesk Virus Protect business and
+          associated good will to Symantec under this Agreement, Symantec shall,
+          within 10 days after the Execution Date, pay to Intel thirteen million
+          dollars ($13M) plus the cost of funding two (2) dedicated quality
+          assurance engineers (as discussed in Section 10.9) not to exceed one
+          hundred thousand dollars ($100,000) and less both (i) 80% of all LDVP
+          5.X Net Revenue from 7/8/98 to the Execution Date and (ii) 90% of all
+          LDVP 5.X related SMA Net Revenue from 7/8/98 to the Execution Date..
+
+          11.1.3 FRONT END ROYALTIES FOR LDVP SOFTWARE AND COMMON TECHNOLOGY
+          SOFTWARE: Symantec shall pay Intel a royalty of [*] dollars ($[*]) in
+          partial consideration of the license of the LDVP Software and the
+          Common Technology Software within 10 days after the Execution Date and
+          an additional one million dollar ($1M) royalty within 30 days of Intel
+          delivering the completed LDVP Software version 6.0 to Symantec per
+          section 2.1 or upon first commercial shipment of any Symantec product
+          which incorporates either the derivative LDVP Software or Common
+          Technology Software, whichever occurs first.
+
+          11.1.4 BACK END ROYALTIES FOR LDVP SOFTWARE AND COMMON TECHNOLOGY
+          SOFTWARE: Symantec shall pay Intel an additional royalty of [*]
+          dollars ($[*]) in partial consideration of the license of the LDVP
+          Software and the Common Technology Software, paid in quarterly
+          installments of $181,818.18/quarter beginning within 30 days after the
+          end of the quarter in which Intel delivers the completed LDVP Software
+          version 6.0 to Symantec per Section 2.1 hereof, and continuing for 11
+          consecutive calendar quarters payable within 30 days after the end of
+          each quarter.
+
+          11.1.5 ROYALTY CREDIT: Symantec hereby grants to Intel a two million
+          dollar ($2M) royalty credit, which may be applied without limitation,
+          at any time to this or any future small business-related contract
+          between the two Parties. Intel acknowledges that this credit may not
+          be applied to Section 11.2.2 nor to the Net Revenue in 11.1.2 received
+          by Intel for sale of LDVP 5.X from July 8, 1998 to the Execution Date,
+          nor to Section 11.1.7.
+
+
+* Certain information on this page has been omitted and filed separately with 
+  the Commission. Confidential treatment has been requested with respect to the 
+  omitted portions.
+
+
+                                      -14-
+
+<PAGE>   15
+
+          11.1.6 SUPPORT PAYMENT: Symantec shall pay to Intel five hundred
+          thousand dollars ($500,000) within thirty (30) days after the
+          Execution Date, to cover Intel's ongoing support of LDVP Software
+          Version 5.X and earlier end users.0
+
+          11.1.7 REVENUE SHARING PAYMENTS TO INTEL: Symantec shall pay to Intel
+          [*] percent ([*]%) of Symantec's Net Revenue for the Revenue Share
+          Products (as defined below) up to fifteen million dollars ($15M)
+          received by Intel per revenue sharing period and ten percent (10%) of
+          Symantec's Net Revenue for the Revenue Share Products for the
+          remainder of that revenue sharing period. The initial revenue sharing
+          period shall run from the Execution Date through the first Symantec
+          fiscal quarter end that is at least one year after the Execution Date.
+          Each revenue sharing period thereafter shall run for one year
+          commencing on the first day of the Symantec fiscal quarter following
+          the end of the prior period. Termination of this Agreement will
+          automatically terminate the revenue sharing period. "Revenue Share
+          Products" shall mean Symantec's anti-virus products designed and
+          marketed specifically for the LANDesk platform ("designed for
+          LANDesk(R) products, including AV Subscriptions for LANDesk(R)
+          products"), upgrade insurance for such products, and any LDVP Software
+          (version 5.X), or LDVP Software (version 5.x) related SMA's thereon,
+          sold by Intel. The Net Revenue of Symantec for the Revenue Share
+          Products shall initially be measured by Net Revenue derived from
+          separate skus for NAV for LANDesk and associated upgrade insurance. If
+          Symantec at any point during the term of this Agreement ceases to
+          maintain such separate skus, Net Revenue for the applicable Revenue
+          Share Product shall be determined by other reasonable methods agreed
+          by the parties, including, without limitation, technology tracking or
+          registration. Symantec acknowledges that it will provide "designed for
+          LANDesk(R) products" versions of all Symantec anti-virus products
+          (including foreign language versions thereof) in all countries and all
+          direct and indirect channels where Symantec distributes its anti-virus
+          products. In the event that Intel sells both its LANDesk Management
+          Suite business and its LANDesk Client Manager business to [*] (or any
+          of their respective successors in interest or assigns), then Symantec
+          shall owe no further royalty to Intel under this provision effective
+          on the date of closing of such a sale. In the event Intel sells its
+          LANDesk Management Suite business, Symantec shall owe no further
+          royalty to Intel under this provision with respect to LANDesk
+          Management Suite-related product sales.
+
+          11.1.8 FUNDING FOR MARKETING ACTIVITIES: Symantec will accumulate
+          marketing dollars at a rate of 4% for all sales by either party of
+          Revenue Share Products, sale of LDVP 5.X and related SMA's from July
+          8, 1998 to the Execution Date and sale of AV Subscriptions by Intel as
+          referenced in 11.1.7 above. Intel may request reimbursement to be paid
+          quarterly for any marketing activities against accumulated dollars
+          based on a mutually agreed upon written marketing plan.
+
+          11.1.9 FUTURE COMMON TECHNOLOGY SOFTWARE ROYALTIES: In the event
+          Symantec chooses to extend the Common Technology Software license in
+          Section 4.2 and 4.3 beyond the term of this Agreement, Symantec will
+          pay to Intel a minimum royalty of $150,000 per year due at the
+          beginning of the period, and payable at a rate of 1% of Net Revenue of
+          such Licensed Symantec Products up to Net Revenue of $30,000,000 and
+          0.5% of the Net Revenue exceeding $30,000,000. Minimum payments and
+          revenue percentages shall be reset yearly.
+
+     11.2 ROYALTIES AND PAYMENTS TO SYMANTEC
+
+
+* Certain information on this page has been omitted and filed separately with 
+  the Commission. Confidential treatment has been requested with respect to the 
+  omitted portions.
+
+
+                                      -15-
+
+<PAGE>   16
+
+          11.2.1 AVC PATTERN FILE UPDATES: Intel shall pay to Symantec a royalty
+          of [*]% for all AV Subscriptions sold by Intel in conjunction with
+          Intel's Answer Express sm service offering/products (or their logical
+          successors). This may be broken into smaller units (i.e. $/month) or
+          included as part of a larger bundle of products and services. If any
+          product is distributed with other products or services in a package
+          for a single price, the Net Revenue attributable to such product will
+          be determined by prorating the receipts from the sale or license of
+          the package according to the suggested retail prices, or if no
+          suggested retail price is announced, the values established by Intel,
+          for the separate works contained in the package, whether or not such
+          products are distributed separately, provided that such values are
+          reasonably related to the values, marketing potentials or cost of the
+          separate products. In any event, if the MSRP exceeds $30, then $30
+          shall be used. If the MSRP is less than $10, $10 shall be used
+          (however, if the Symantec MSRP has not increased beyond $10 after 270
+          days from the Execution Date, then the actual MSRP shall be used).
+
+          11.2.2 LANDESK VIRUS PROTECT REVENUE: Intel will transfer to Symantec
+          100% of Net Revenue it receives after the Execution Date that is
+          attributable to sales of LDVP version 5.X, including any SMA
+          agreements thereon on a quarterly basis net of any difference in the
+          estimated cost of QA engineers (as referenced in provision 10.9 and
+          11.1.2) and actual expenditures. Symantec acknowledges that the Net
+          Revenue could be negative which would constitute a payment to Intel.
+          Upon request, Intel will provide Symantec with updates on outstanding
+          inventory valuations for LANDesk Virus Protect 5.X.
+
+          11.2.3 OTHER SYMANTEC PRODUCTS: Symantec acknowledges that in any
+          future agreements, Intel shall pay Symantec no more than the lowest
+          price available to Symantec's distributors for the highest volume.
+
+     11.3 TRANSITION TERMS FOR SCAN ENGINE/PATTERN FILES/SUPPORT: As of July 8,
+     1998, Intel shall owe Symantec no royalties for either the Symantec or IBM
+     anti-virus scan engine licensed to Intel pursuant to the IBM OEM
+     Distribution Agreement dated December 30, 1997, which was assigned to
+     Symantec on May 18, 1998, provided that the scan engines, virus pattern
+     file updates and support provided to Intel under that agreement may only be
+     used in Intel's LANDesk Virus Protect product and other Intel products and
+     services incorporating the LANDesk Virus Protect product until such time as
+     Intel is able to reasonably transition customers to the products containing
+     the AVC Software. Intel agrees to terminate the IBM OEM Distribution
+     Agreement dated December 30, 1997 as soon as it is able to successfully
+     transition its products and customers which are currently shipping with the
+     IBM AV scan engine as long as Symantec acknowledges it will provide the
+     support obligations stated therein as requested by Intel.
+
+     11.4 ROLL-OVER OF PREPAID ROYALTIES: Intel shall owe Symantec no royalties
+     for the AVC pattern files updates or AVC Software used in Intel products
+     other than LANDesk branded software products until such a time as $750K of
+     the advanced royalty payment of $1.75M made by Intel is fully applied
+     (including any application of such advance payment to royalties earned
+     prior to July 8, 1998) pursuant to the IBM OEM Distribution Agreement dated
+     December 30, 1997, which was assigned to Symantec on May 18, 1998. In no
+     event shall the advanced royalty payment be applied after December 31,
+     1999.
+
+
+* Certain information on this page has been omitted and filed separately with 
+  the Commission. Confidential treatment has been requested with respect to the 
+  omitted portions.
+
+
+                                      -16-
+
+<PAGE>   17
+
+12.0 MARKETING
+
+     12.1 MARKETING PLAN: The Parties will jointly define and execute a written
+     marketing plan to transition LANDesk(R) Virus Protect business to Symantec
+     and build and grow the revenue stream for Symantec sales of anti-virus
+     products and associated technologies into the LANDesk customer base,
+     including (i) PR; (ii) programs; (iii) joint customer visits; (iv)
+     advertising; and (v) analyst tours.
+
+     12.2 PR: Subject to approval by both Parties' PR departments, Intel and
+     Symantec will jointly develop a press announcement regarding the anti-virus
+     relationship established by this Agreement. Additionally, Intel will
+     support an announcement of Symantec's "digital immune system" once it is
+     available to Intel and its customers.
+
+     12.3 LDVP MARKETING INFORMATION: Intel will transfer to Symantec available
+     worldwide marketing information relevant to LANDesk Virus Protect products,
+     as permitted by law, specifically including customer and channel
+     information.
+
+     12.4 Intel will provide marketing activities as defined in the Exhibit B.
+
+
+13.0 REPORTS & PAYMENTS
+
+     13.1 REPORTS: Within thirty (30) days following the end of each calendar
+     quarter, each Party shall submit a report to the other, in a form
+     reasonably acceptable to the other and signed by an authorized
+     representative of the Party, which will set forth the basis for calculating
+     all royalties and/or payments due to either Party during that quarter.
+
+     13.2 PAYMENT: Within such thirty (30) days, each Party shall, irrespective
+     of its own business and accounting methods, pay in United States Dollars to
+     the other Party any royalties and/or payments payable for such quarter as
+     shown in the statement. Royalties/payments due to Intel pursuant hereto
+     will be paid by check tendered or wire transfer at the following address:
+
+          Remittance Address                 Wire Transfer Account
+          Intel Corporation                         CITIBANK
+          Post Contract Management           New York, New York
+          5200 N.E. Elam Young Parkway       ABA #021000089
+          Hillsboro, OR  97124               General Account 38385954
+          Attn:  Sheryl White
+
+     Royalties/payments due to Symantec pursuant hereto will be paid by check
+     tendered or wire transfer at the following address:
+
+          Remittance Address                 Wire Transfer Account
+
+          Symantec Corporation               Bank of America, 1850 Gateway Blvd
+          c/o Bank of America, Dept. 5190    Concord, CA  94520
+          1455 Market St., 21st Floor        ABA #(within US):121-000-358
+
+
+                                      -17-
+
+<PAGE>   18
+
+          San Francisco, CA   94103          Acct. #12338-10287 (for U.S.)
+                                             SWIFT ADDRESS (outside of US): BOFA
+                                             US 6S
+
+
+     13.3 LATE PAYMENT: Each Party agrees that any payments required under the
+     terms of this Agreement which are not paid when due will accrue interest at
+     the prime lending rate established by Citibank, New York, commencing thirty
+     (30) days after the due date as established by this Agreement. The right to
+     collect interest on such late payments shall be in addition to any other
+     rights that either Party may have.
+
+     13.4 AUDIT RIGHTS: Each Party agrees to make and to maintain until the
+     expiration of three (3) years after the last payment under this Agreement
+     is due, sufficient books, records and accounts regarding such Party's
+     manufacturing and sales activities in order to calculate and confirm its
+     royalty obligations hereunder. Each Party shall have the right not more
+     than once every twelve (12) months to, directly or through an agent
+     reasonably acceptable to the other Party, examine such books, records and
+     accounts, upon reasonable notice and during the other Party's normal
+     business hours, to verify that Party's reports on the amount of payments
+     made under this Agreement. If any such examination discloses a shortfall or
+     overpayment in the fees due hereunder, the appropriate Party shall
+     reimburse the other Party for the full amount of such shortfall or
+     overpayment. Should the audit discover any errors or omissions by one Party
+     which have a value of more than five percent (5%) of the amounts due with
+     respect to the period being audited, that Party shall reimburse the other
+     Party for the costs of such audit.
+
+
+14.0 TERM & TERMINATION
+
+     14.1 TERM: The term of this Agreement shall commence on the Execution Date,
+     and shall continue for a period of three (3) years, which term shall be
+     automatically renewed for additional one (1) year periods, unless
+     terminated by either Party in writing at least ninety (90) days before any
+     renewal date, or unless otherwise terminated under the terms of this
+     Agreement.
+
+     14.2 TERMINATION FOR CAUSE: This Agreement may be terminated by either
+     Party upon notice, if the other Party: (i) breaches any material term or
+     condition of this Agreement and fails to remedy the breach within sixty
+     (60) days after being given notice thereof: (ii) becomes the subject of any
+     voluntary or involuntary proceeding under the U.S. Bankruptcy code or state
+     insolvency proceeding and such proceeding is not terminated within sixty
+     (60) days of its commencement; or (iii) ceases to be actively engaged in
+     business.
+
+     14.3 EFFECT OF EXPIRATION/TERMINATION: In the event of termination or
+     expiration of this Agreement, all licenses and rights granted hereunder
+     (with the exception of the licenses granted in Sections 4.1, 4.2, 4.3, and
+     4.4 which shall survive provided that the licensing Party continues to pay
+     any applicable royalties) shall terminate. However, each Party may continue
+     to exercise the rights and licenses granted hereunder as necessary to
+     provide maintenance and technical support to existing sublicensees.
+     Moreover, each Party may continue to distribute any inventory of Licensed
+     Intel Products or Licensed Symantec Products existing at the date of
+     termination or expiration. The termination or expiration of this Agreement
+     will not terminate any use license granted to any end-user by either Party.
+
+
+                                      -18-
+
+<PAGE>   19
+
+15.0 INDEMNIFICATION AND LIMITATIONS
+
+     15.1 INDEMNIFICATION: Each Party will defend or settle any suit or
+     proceeding brought against the other Party arising out of any actual or
+     alleged:
+
+     a.   claim that any software supplied by it to the other Party hereunder or
+          part thereof, alone and not in combination with any other product,
+          constitutes an infringement of any U.S. patent, copyright or
+          misappropriation of any third party trade secret, and pay all damages
+          finally awarded against the other Party;
+
+     b.   breach by such Party of any agreement assigned hereunder during the
+          time such Party was a party to the agreement; or
+
+     c.   breach by such Party of any representation or warranty made by such
+          Party under Section 16.0;
+
+     provided that: (i) the indemnifying Party is notified promptly in writing
+     of such claim; (ii) the indemnifying Party controls the defense or
+     settlement of the claim; and (iii) the other Party cooperates reasonably
+     and gives all necessary authority, information and assistance (at the
+     indemnifying Party's expense). The indemnifying Party will pay all damages
+     and costs finally awarded against the other Party, but the indemnifying
+     Party will not be responsible for any costs, expenses or compromise
+     incurred or made by the other Party without the indemnifying Party's prior
+     written consent.
+
+     15.2 LIMITED REMEDIES: If the use of any software supplied under this
+     agreement is permanently enjoined, or either Party determines in its
+     reasonable discretion that it may be enjoined, that Party may, at its sole
+     discretion and at its own expense: (i) procure for the other Party the
+     right to continue using said software; (ii) replace the same with
+     non-infringing software; (iii) modify it so that it becomes non-infringing;
+     or (iv) if such Party is unable to reasonably do any of the above and if
+     the other Party is enjoined from distributing the software, refund any
+     royalties paid for the infringing software which has not yet been
+     distributed.
+
+     15.3 LIMITATIONS: Notwithstanding the foregoing, the Party supplying
+     software under this agreement will not be liable for any costs or damages,
+     and the Party receiving software under this Agreement will indemnify,
+     defend and hold the supplying Party harmless from any expenses, damages,
+     costs or losses resulting from any suit or proceeding based upon a claim
+     arising from (i) the combination of software supplied under this Agreement
+     with any other product, where such claim would not have arisen from the use
+     of such software standing alone, except where there is no substantial
+     non-infringing use of such software other than as part of that combination,
+     (ii) any modification of software supplied under this Agreement, after
+     delivery of the software to the receiving Party, where such infringement
+     would not have occurred but for such modifications, (iii) compliance with
+     the receiving Party's designs, specifications or instructions; (iv) breach
+     of any warranty made by the receiving Party to any third party.
+
+     15.4 DISCLAIMER: THE FOREGOING STATES THE ENTIRE LIABILITY AND OBLIGATIONS
+     OF BOTH PARTIES AND THE EXCLUSIVE REMEDY OF EACH WITH RESPECT TO ANY
+     ALLEGED OR ACTUAL INFRINGEMENT OF PATENTS, COPYRIGHTS, TRADE SECRETS OR
+
+
+                                      -19-
+
+<PAGE>   20
+
+     OTHER INTELLECTUAL PROPERTY RIGHTS BY THE SOFTWARE LICENSED UNDER THIS
+     AGREEMENT.
+
+
+16.0 REPRESENTATION & WARRANTIES
+
+     16.1 INTEL LIMITED REPRESENTATIONS & WARRANTIES: Intel represents and
+     warrants that:
+
+     a.   it has full corporate authority to enter into and fulfill its
+          obligations under this Agreement;
+
+     b.   it has not previously and will not grant any rights to any third party
+          that are inconsistent with the rights granted to Symantec under this
+          Agreement;
+
+     c.   neither Intel's execution nor performance of this Agreement will
+          result in a breach of any agreement or obligation by which Intel is
+          bound; and
+
+     d.   Intel has provided to Symantec true and complete copies of all current
+          VPAs and other agreements to be provided to Symantec hereunder
+
+     e.   Intel has provided to Symantec true and complete list of third party
+          content in LDVP Software as set forth in Exhibit A .
+
+     f.   During the Agreement term, unless otherwise authorized in the
+          Agreement or by subsequent written agreement of the Parties, Intel (i)
+          will not use the Antivirus Specific Software in the stand alone
+          antivirus business, (ii) will not use the Antivirus Specific Software
+          to facilitate any thrid party to get involved with the antivirus
+          business, and (iii) will not use the Antivirus Specific Software to
+          facilitate any third party improving their antivirus business.
+
+
+     16.2 SYMANTEC LIMITED REPRESENTATIONS & WARRANTIES: Symantec represents and
+     warrants that:
+
+     a.   it has full corporate authority to enter into and fulfill its
+          obligations under this Agreement;
+
+     b.   it has not previously and will not grant any rights to any third party
+          that are inconsistent with the rights granted to Intel under this
+          Agreement; and
+
+     c.   neither Symantec's execution nor performance of this Agreement will
+          result in a breach of any agreement or obligation by which Symantec is
+          bound;
+
+
+     16.3 DISCLAIMER: THIS SECTION 16 CONTAINS THE ONLY WARRANTIES MADE BY INTEL
+     AND SYMANTEC. ANY AND ALL OTHER WARRANTIES ARE EXPRESSLY EXCLUDED AND
+     DECLINED. EXCEPT AS EXPLICITLY SET FORTH IN SECTION 16, EACH PARTY
+     DISCLAIMS ANY IMPLIED WARRANTIES, PROMISES AND CONDITIONS, INCLUDING
+     IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND/OR
+     FITNESS FOR A PARTICULAR PURPOSE.
+
+
+                                      -20-
+
+<PAGE>   21
+
+17.0 LIMITATION OF LIABILITY: IN NO EVENT WILL EITHER PARTY HAVE ANY LIABILITY
+TO THE OTHER PARTY, END USERS OR ANY OTHER THIRD PARTY, FOR ANY LOST PROFITS OR
+COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY SPECIAL,
+CONSEQUENTIAL, INDIRECT OR INCIDENTAL DAMAGES ARISING OUT OF THIS AGREEMENT OR
+THE DESIGNS, PRODUCTS, INFORMATION OR OTHER TECHNOLOGY PROVIDED PURSUANT TO THIS
+AGREEMENT, UNDER ANY CAUSE OF ACTION OR THEORY OF LIABILITY, AND WHETHER OR NOT
+SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, PROVIDED HOWEVER
+THAT THIS LIMITATION SHALL NOT APPLY TO ANY MATERIAL BREACH BY EITHER PARTY OF
+THE LICENSES GRANTED UNDER SECTIONS 4 AND 5 OF THIS AGREEMENT. MOREOVER, IN NO
+EVENT WILL EITHER PARTY'S TOTAL LIABILITY FOR: (i) ANY INDEMNIFICATION CLAIMS
+FOR PATENT INFRINGEMENT ARISING UNDER SECTION 15.1.a OF THIS AGREEMENT EXCEED
+TEN (10) MILLION DOLLARS; OR (ii) ANY OTHER CLAIMS RELATED TO THIS AGREEMENT,
+WITH THE EXCEPTION OF INDEMNIFICATION CLAIMS FOR COPYRIGHT INFRINGEMENT OR TRADE
+SECRET MISAPPROPRIATION ARISING UNDER SECTION 15.1.a OF THIS AGREEMENT OR BREACH
+OF THE SOURCE CODE CONFIDENTIALITY PROVISION AS SET FORTH IN SECTION 18.2.1,
+EXCEED FIVE (5) MILLION DOLLARS. THE PROVISIONS OF THIS SECTION WILL APPLY
+NOTWITHSTANDING THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDIES
+HEREUNDER.
+
+
+18.0 ADDITIONAL TERMS
+
+     18.1 DISCLOSURES OF CONFIDENTIAL INFORMATION: The terms, and conditions of
+     this Agreement are confidential and neither Party may make any disclosures
+     regarding this Agreement without the express prior written consent of the
+     other, with the following exceptions:
+
+     a.   subject to (b) below, as otherwise may be required by law or legal
+          process, including, without limitation, any requirements of the
+          securities laws or regulations that either Party disclose the
+          existence and terms of this Agreement, and to legal and financial
+          advisors in their capacity of advising a Party in such matters; or
+
+     b.   during the course of litigation so long as the disclosure of such
+          terms and conditions are restricted in the same manner as is the
+          confidential information of other litigating parties and so long as
+          (i) the restrictions are embodied in a court-entered Protective Order
+          and (ii) the disclosing Party informs the other Party in writing in
+          advance of the disclosure; or
+
+     c.   in confidence to its legal counsel, accountants, banks and financing
+          sources and their advisors.
+
+     18.2 CONFIDENTIALITY AGREEMENT: Disclosures of confidential and proprietary
+     information by either Party to the other Party hereunder shall be governed
+     by the Intel Corporate Non-disclosure Agreement ("CNDA") number 07284,
+     executed by the Parties which Agreement is hereby incorporated and made
+     part of this Agreement.
+
+
+                                      -21-
+
+<PAGE>   22
+
+          18.2.1 SOURCE CODE CONFIDENTIALITY: Notwithstanding the
+          confidentiality provisions set forth in Sections 18.1 and 18.2 above
+          and with regard to any software provided or otherwise disclosed in
+          Source Code form by a Party of this Agreement (the "Disclosing Party")
+          to the other Party (the "Receiving Party"), the Receiving Party
+          acknowledges that such Source Code is represented to be the trade
+          secret and confidential information of the Disclosing Party or its
+          licensors and agrees to exercise the same degree of care in preventing
+          the disclosure of such Source Code as the Receiving Party uses to
+          protect its own Source Code and/or similar types of proprietary trade
+          secrets. At a minimum, the Receiving Party agrees to limit the
+          disclosure of the Source Code to its own employees which have a need
+          to access the Source Code to perform their job and to not disclose the
+          Source Code to any third party individual, corporation, independent
+          contractor, consultant or other entity without the prior written
+          consent of the Disclosing Party. This obligation shall not applly to
+          any Source Code which is:
+
+          a.   published or otherwise available to the public other than by
+               breach of this Agreement by the Receiving Party; or
+
+          b.   rightfully received by the Receiving Party from a third party
+               without obligations of confidentiality; or
+
+          c.   independently developed by the Receiving Party by employees
+               having no access to the Source Code; or
+
+          d.   known to the Receiving Party prior to its first receipt of the
+               same from the Disclosing Party; or
+
+          e.   hereinafter intentionally disclosed by the Disclosing Party to a
+               third party without restriction on disclosure.
+
+     18.3 CONFLICTS: In the event of a conflict between this Agreement and any
+     other document related to the subject matter of this Agreement, or the body
+     of this Agreement and any of the Exhibits to this Agreement, the terms of
+     this Agreement, or the body of this Agreement as the case may be, shall
+     govern.
+
+     18.4 FORCE MAJEURE: Neither Party will be liable for any failure to perform
+     due to unforeseen circumstances or causes beyond its reasonable control,
+     including, but not limited to, acts of God, war, riot, embargoes, acts of
+     civil or military authorities, delay in delivery by vendors, fire, flood,
+     accident, strikes, inability to secure transportation, facilities, fuel,
+     energy, labor, or materials. In the event of force majeure, time for
+     delivery or other performance will be extended for a period equal to the
+     duration of the delay caused thereby.
+
+     18.5 EXPORT: Neither Party shall export, either directly or indirectly, any
+     software or products incorporating such software, in whole or in part,
+     without first obtaining any required license or other approval from the U.
+     S. Department of Commerce or any other agency or department of the United
+     States Government or applicable foreign governments. In the event the
+     Licensed Intel Products, Licensed Symantec Products are exported from the
+     United States or re-exported from a foreign destination by the other Party,
+     its 
+
+
+                                      -22-
+
+<PAGE>   23
+
+     distributors or end users, such Party shall ensure that the distribution
+     and export/re-export is in compliance with all laws, regulations, orders,
+     or other restrictions of the U.S. Export Administration Regulations and any
+     applicable foreign laws or regulations. Each Party agrees that neither it
+     nor any of its Subsidiaries will export/re-export any technical data,
+     process, or service, directly or indirectly, to any country for which the
+     United States government or any agency thereof requires an export license,
+     other governmental approval, or letter of assurance, without first
+     obtaining such license, approval or letter.
+
+     18.6 NOTICES: Any notice required or permitted to be given under this
+     Agreement shall be effective if it is in writing and sent by certified or
+     registered mail, return receipt requested, to the appropriate Party hereto
+     at the address set forth below and appropriate postage affixed. Either
+     Party may change its address for receipt of notice by notice to the other
+     Party in accordance with this Section.
+
+     Notices shall be deemed given on the date of mailing and the date of notice
+     shall be the date of mailing.
+
+     If to Symantec:
+
+                   Symantec Corporation
+                   10201 Torre Avenue
+                   Cupertino, CA  95014
+                   Attn:  General Counsel
+
+     If to Intel:
+
+                   Intel Corporation
+                   2200 Mission College Blvd.
+                   Santa Clara, CA 95052
+                   Attn:  General Counsel
+
+     With a copy to:
+
+                   Intel Corporation
+                   2111 NE 25th Ave
+                   Hillsboro, OR  97124
+                   Mailstop JF3-147
+                   Attn:  General Counsel
+
+     18.7 SURVIVAL: 4.1, 4.2, 4.3 (subject to the terms of 11.1.9) and 4.4, 6,
+     7, 8, 13, 14, 15, 16, 17, 18.
+
+     18.8 ASSIGNMENT: This Agreement may not be assigned or otherwise
+     transferred, nor, except as expressly provided herein, may any right or
+     obligation hereunder be assigned or transferred, to a third party by either
+     Party without the prior written consent of the other Party hereto.
+     Notwithstanding the foregoing or anything contained herein to the contrary,
+     either Party may transfer or assign its licenses, rights and obligations
+     under this Agreement, or any part thereof to (i) a directly or indirectly
+     controlled Subsidiary or to a parent company who has sufficient resources
+     and rights to fulfill the terms of this Agreement, or (ii) a successor to
+     all or substantially all of the business or assets relating to 
+
+
+                                      -23-
+
+<PAGE>   24
+
+     this Agreement who has sufficient resources and rights to fulfill the terms
+     of this Agreement whether by sale, merger, operation of law or otherwise.
+     Provided, however, that Symantec may elect to block a transfer or
+     assignment to [*], or their respective successors in interest and assigns.
+     Except as provided above, the terms and conditions of this Agreement shall
+     bind and inure to each Party's successors and assigns.
+
+     18.9 SPIN-OFF OF BUSINESS OPERATION OR DIVISION: In the event that Intel
+     spins-off or otherwise divests all or part of a business operation or
+     division which sells or distributes Licensed Intel Products (e.g., the
+     Internet Services Operation or Systems Management Division) into a new
+     independent business entity, Symantec agrees to license the AVC Software to
+     the successor entity under substantially the same terms and conditions as
+     which they are licensed to Intel herein, provided that such successor
+     entity has sufficient resources to fulfill the applicable terms of this
+     Agreement, and provided that any such successor entity is not an antivirus
+     competitor.
+
+     18.10 RELATIONSHIP BETWEEN THE PARTIES: In all matters relating to this
+     Agreement, Symantec and Intel shall act as independent contractors. Neither
+     Party will represent that it has any authority to assume or create any
+     obligation, expressed or implied, on behalf of the other Party, or to
+     represent the other Party as agent, employee, or in any other capacity.
+     Neither Party shall have any obligation, expressed or implied, except as
+     expressly set forth herein.
+
+     18.11 INTERPRETATION: This Agreement, including any exhibits, addenda,
+     schedules, and amendments, has been negotiated at arm's length and between
+     persons sophisticated and knowledgeable in the matters dealt with in this
+     Agreement. Each Party has been represented by experienced and knowledgeable
+     legal counsel. Accordingly, any rule of law (including California Civil
+     Code Section 1654) or legal decision that would require interpretation of
+     any ambiguities in this Agreement against the Party that has drafted it is
+     not applicable and is waived.
+
+     18.12 ENTIRE AGREEMENT: This Agreement sets forth the entire Agreement
+     between the Parties and supersedes prior and contemporaneous proposals,
+     agreements, and representations between them, whether written or oral,
+     relating to the subject matter contained herein. This Agreement may be
+     changed only if agreed to in writing and signed by an authorized signatory
+     of each Party.
+
+     18.13 SEVERABILITY: All rights and remedies, whether conferred hereunder or
+     by any other instrument or law, will be cumulative and may be exercised
+     singularly or concurrently. The failure of any Party to enforce any of the
+     provisions hereof shall not be construed to be a waiver of the right of
+     such Party thereafter to enforce such provisions. The terms and conditions
+     stated herein are declared to be severable. If any provision or provisions
+     of this Agreement shall be held to be invalid, illegal, or unenforceable,
+     the validity, legality, and enforceability of the remaining provisions
+     shall not in any way be affected or impaired thereby.
+
+     18.14 COUNTERPARTS: This Agreement may be executed in several counterparts,
+     each of which shall be deemed an original, but all of which together shall
+     constitute one and the same instrument.
+
+
+* Certain information on this page has been omitted and filed separately with 
+  the Commission. Confidential treatment has been requested with respect to the 
+  omitted portions.
+
+
+                                      -24-
+
+<PAGE>   25
+
+     18.15 INJUNCTIVE RELIEF: The Parties agree that preliminary injunctive or
+     other equitable relief will be a necessary and proper remedy in the event
+     of a breach of this Agreement in violation of either Party's intellectual
+     property rights. The Parties further agree that in the event such equitable
+     relief is granted in the United States, they will not object to courts in
+     other jurisdictions granting provisional remedies enforcing such U.S.
+     judgments.
+
+     18.16 DISPUTE RESOLUTION: The parties agree to negotiate in good faith to
+     resolve any dispute between them regarding this Agreement. If the
+     negotiations do not resolve the dispute to the reasonable satisfaction of
+     both parties, then each Party will nominate one senior officer of the rank
+     of Vice President or higher as its representative. These representatives
+     will, within thirty (30) days of a written request by either Party to call
+     such a meeting, meet in person and alone (except for one assistant for each
+     Party) and will attempt in good faith to resolve the dispute. If the
+     disputes cannot be resolved by such senior managers in such meeting, the
+     parties agree that they will, if requested in writing by either Party, meet
+     within thirty (30) days after such written notification for one day with an
+     impartial mediator and consider dispute resolution alternatives other than
+     litigation. If an alternative method of dispute resolution is not agreed
+     upon within thirty (30) days after the one day mediation, either Party may
+     begin litigation proceedings. This procedure will be a required
+     prerequisite before taking any additional action hereunder. Notwithstanding
+     the foregoing, either Party may seek immediate injunctive or other interim
+     relief from court of competent jurisdiction.
+
+     18.17 GOVERNING LAW: Any claims arising under or relating to this Agreement
+     shall be governed by the internal substantive laws of the State of Delaware
+     or federal courts located in Delaware, without regard to principles of
+     conflict of laws. Each Party hereby agrees to jurisdiction and venue in the
+     courts of the State of Delaware for all disputes and litigation arising
+     under or relating to this Agreement. This provision is meant to comply with
+     6 Del. C. Section 2708(a).
+
+
+                                      -25-
+
+<PAGE>   26
+
+AGREED:
+
+INTEL CORPORATION                              SYMANTEC CORPORATION
+
+
+By:                                            By: 
+   ----------------------------------             ------------------------------
+
+Edward D. Ekstrom 
+- -------------------------------------          ---------------------------------
+Printed Name                                   Printed Name
+
+Title: Vice President, New Business Group      Title: 
+- --------------------------------------------
+General Manager, Systems Management Division
+- --------------------------------------------
+
+Date: September 27th, 1998                     Date: September 27th, 1998
+    -------------------------------------           ----------------------------
+
+
+                                      -26-
+
+<PAGE>   27
+
+                                    EXHIBIT A
+
+                             Description of Software
+
+
+LDVP SOFTWARE: 
+
+LANDesk Virus Protect ("LDVP") Software as incorporated into the alpha version
+of LDVP version 6.0, the production version of LDVP version 5.0, and the future
+production version of LDVP version 6.0 as defined by Intel (less mail extensions
+and foreign language translations) and includes all code with the exception of
+any 3rd party content and the Common Technology Software defined below provides
+integrated, centrally-managed virus protection for both desktops and servers.
+NetWare 3.12-5.0 and NTS 3.51 & 4.0 are supported, as well as NTW 3.51 & 4.0,
+Windows 95, Windows 3.1x, and DOS desktops. A system administrator can define
+one to many anti-virus domains with any number of servers (any listed NOS) and
+connected clients (any listed OS) in each. Configuration can be done at the
+domain, server & clients, server only, and client only levels. The administrator
+can "lock" any desktop configurations desired. The locked configuration cannot
+be modified at the desktop, while the unlocked configurations may be modified by
+the user. Real-time and manual scanning is provided. Manual scans include
+start-up scans, any number of scheduled scans, scan now, screen-saver scan, and
+virus sweep. If the administrator suspects a virus outbreak, they can initiate
+an immediate virus sweep of all machines in a domain via one click.
+
+Server protection includes an Integrity Shield which alerts if specified files
+are requested for access/modify/rename/delete. A set of automatic actions can be
+configured to trigger when a macro or non-macro virus is found. The auto-actions
+include clean/delete/move/rename/leave alone. LDVP software allows the same
+actions after-the-fact (user can set both primary and secondary action to "leave
+alone", then review the infected files and specify the action). LDVP Software
+provides the following reports: Virus History, Scan History, and Event Log.
+These are kept as text logs so require no database. Desktop logs are
+automatically rolled up their server. The administrator console can view the
+integrated logs.
+
+The architecture separates the Network Policy Management from the actual scan
+technology. The LDVP Software makes all configuration decisions, then sends one
+file with one action request to the scan engine via an API. All anti-virus
+domain and configuration information is kept in the local registry of each
+machine. The primary server for each domain additionally maintains the domain
+information in the registry. The LDVP 6.0 product scans email attachments for
+viruses. cc:Mail is scanned on the desktop. MS Exchange and Lotus Notes provide
+both server and desktop scanning. The console is also componentized to allow
+snap-in/out of email server & client scanning.
+
+The LDVP Software includes, without limitation, all software code comprising
+LDVP Software Versions 5.0 and 6.0 except for the Common Technology Software and
+the Third Party Software.
+
+
+COMMON TECHNOLOGY SOFTWARE:
+
+Common Base Agent Ping Discovery Service defines protocols used to discover and
+communicate with remote applications on the network. Ping Discovery Service is
+used by 
+
+
+                                      -27-
+
+<PAGE>   28
+
+LANDesk Virus Protect (LDVP) to discover all connected servers that have LDVP
+installed. Ping Discovery Service, or simply discovery, is a client/server
+process, where the client and server nodes can be of any type, not just file
+servers and application servers. LDVP uses it to discover servers with LDVP
+installed.
+
+Common Base Agent Network Transport System is a protocol-independent transport
+system. NTS allows an application to send datagrams using an underlying protocol
+of choice such as IP, IPX, NetBIOS, etc. NTS is implemented as a static library
+that provides a common set of APIs for Netware, Windows NT, and Windows 95. NTS
+relieves the application from the details of the NetWare IPX interface and the
+Windows Winsock interface, without adding significant overhead. LDVP uses this
+library of functions to provide platform and protocol independence. It allows
+LDVP to use Netware and NT on both IPX and IP with one source code base that
+does not care about protocols.
+
+Alert Management System (AMS) enhances alerting. When AMS is installed, multiple
+types of alerts can be configured for multiple locations. Machines with LDVP
+installed create text log files to record virus incidents. Client log files are
+rolled up to the parent server. Alerts on servers may be directed to AMS for
+alerting. AMS can be installed on the primary server for every Anti Virus
+domain. AMS provides its own install and configuration console. It allows for
+origination, handling, and delivery of multiple types of alerts to multiple
+recipients. An alert can be a simple text string or a complex data packet with
+multiple state variables and thresholds. An alert is different from an alert
+type. When the network is not functioning, alert delivery may go through extra
+steps such as re-logging and transmitting via an out-of-band media.
+
+
+[*]
+
+AVC SOFTWARE means the Norton Anti-Virus Client software which contains
+functionality equivalent to that which is offered as part of Symantec's standard
+anti-virus client 
+
+
+* Certain information on this page has been omitted and filed separately with 
+  the Commission. Confidential treatment has been requested with respect to the 
+  omitted portions.
+
+
+                                      -28-
+
+<PAGE>   29
+
+product, including all available translations, any subsequent Releases, APIs
+(including any associated documentation related to the APIs) to allow the AVC
+software to be used at a component level (e.g. scan engine only or different
+graphical user interface), virus pattern file updates, scan engine for DOS,
+OS/2, Windows 3.X, Windows NT, Windows 9X, Netware, any updates thereof, access
+to the digital immune system, technology to update and manage end user virus
+pattern files (specifically including "Live Update" technology), and Maintenance
+Updates plus all generally available language translations of the foregoing.
+
+
+                                    EXHIBIT B
+
+
+                           MARKETING STATEMENT OF WORK
+
+
+Intel will provide assistance, as mutually determined appropriate, to
+successfully migrate Intel's LDVP Software customers to Symantec. This
+assistance will include efforts substantially consistent with the following:
+
+DIRECT SALES SUPPORT:
+
+o    Support for joint Intel and Symantec sales visits (for up to 20 key
+     customers within North America as mutually identified by both Symantec and
+     Intel) within 180 days of Execution Date. 
+
+o    1 week visit in Japan for as many sales visits during that week. 
+
+o    1 week visit in Europe for as many sales visits during that week. 
+
+o    Support for joint Intel and Symantec phone contacts (for to up to 100 key
+     customers as mutually identified by Symantec and Intel) within 270 days of
+     Execution Date. 
+
+o    Symantec shall be solely responsible for setting up the visits and phone
+     contacts for Direct Sales Support activities following coordination with
+     Intel to achieve mutually acceptable time(s) for conducting such.
+
+PRESS RELEASES:
+
+o    Coordinated Press Release and Analyst messages
+
+INDIRECT CUSTOMER CONTACTS:
+
+o    Web site links and coordinated messages
+
+o    Support for Intel e-mail messages to registered accounts
+
+o    Support for joint mail piece to selected customers
+
+o    "Dear Customer" letter to known customers introducing Symantec and the 
+     relationship.
+
+o    Reasonable commerical efforts to include information in the newsletter to
+     LANDesk VARs.
+
+CHANNEL PARTNER DEMAND CREATION:
+
+o    Active marketing of relationship and product benefits to PC OEM's who are
+     purchasing or considering the purchase of LANDesk branded products
+     containing AVC Software (i.e. LDCM)
+
+
+                                      -29-
+<PAGE>   30
+
+o    Active marketing of relationship and product benefits to ISV's who are
+     purchasing or considering the purchase of LANDesk branded products
+     containing AVC Software (i.e. LDMS)
+
+o    Include promotional material for NAV for LANDesk with LANDesk's "solution
+     kit" or equivalent mailings
+
+o    Direct Mail Announcement to VARs which includes the NAV evaluation CD.
+
+
+
+                                    EXHIBIT C
+
+                                 Support Process
+
+
+     If either Party becomes aware of any Level 1 or Level 2 errors (as defined
+in the table below) in the software licensed to the other Party under this
+Agreement or if either Party informs its customers generally of any errors in
+such software, then the licensor party will promptly notify the licensee Party
+in writing and will promptly provide the licensee party at the same time that it
+provides customers generally with any related corrections in object code form
+(and source code form where applicable) with an explanation of what defects it
+corrects. If either Party reports in writing to the other Party any reproducible
+error in the software licensed to the other Party under this Agreement, then the
+licensor Party will use commercially reasonable efforts to respond to such
+report in accordance with the following table:
+
+<TABLE>
+<CAPTION>
+- --------  ----------------------------------------------------------------------
+SEVERITY  DESCRIPTION
+- --------  ----------------------------------------------------------------------
+<S>       <C>
+Level 1   The defect causes the system to halt or causes persistent
+               data to be corrupted. The system cannot continue.
+
+          RESPONSE: The responding Party will make reasonable efforts to respond
+               to reporting Party within one business day with an acknowledgment
+               of the error and will make diligent efforts to respond with a fix
+               or workaround within 5 working days. If no solution has been
+               found within this time, the responding Party will develop an
+               action plan and present it to the reporting Party within 10
+               working days of the initial notification of the error, or, if no
+               commercially reasonable solution is possible, the responding
+               Party shall report such to the reporting Party, together with its
+               rationale for making such a determination
+- --------  ----------------------------------------------------------------------
+Level 2   The defect prevents major portions of the program from functioning 
+               correctly or causes a major component of the system not to 
+               function with other components of the system. These defects cause
+               the program not to be able to continue but do not cause the 
+               system to crash.
+
+          RESPONSE: The responding Party will make diligent effort to provide a
+               response within 10 working days and a solution within 20 working
+               days. If no solution has been found within this time, the
+               responding Party will develop an action plan and present it to
+               the Licensee within 20 working days of the initial notification
+               of the error or, if no commercially reasonable solution is
+               possible, the responding Party shall report such to the reporting
+               Party, together with its rationale for making such a
+               determination
+- --------  ----------------------------------------------------------------------
+</TABLE>
+
+
+                                      -30-
+
+<PAGE>   31
+
+<TABLE>
+<CAPTION>
+- --------  ----------------------------------------------------------------------
+SEVERITY  DESCRIPTION
+- --------  ----------------------------------------------------------------------
+<S>       <C>
+Level 3   The defect prevents small portions of the program from functioning
+               correctly. The program could produce incorrect results, but the
+               errors would not corrupt persistent data.
+          
+          RESPONSE: Responding party will use diligent efforts to provide a
+               solution either as a correction or in a subsequent release of the
+               product or, if no commercially reasonable solution is possible,
+               the responding Party shall report such to the reporting Party,
+               together with its rationale for making such a determination.
+- --------  ----------------------------------------------------------------------
+Level 4   The defect is cosmetic or involves usability issues, which means that
+               the screen or other output may not be drawn correctly, but the
+               program is still running and producing correct results. For
+               usability issues, the user can accomplish the defined
+               functionality, but it is awkward to do so. This could also
+               include some internal functionality which has been omitted in the
+               interface. The program can continue normally.
+
+          RESPONSE: The responding Party will use diligent efforts to provide a
+               solution either as a correction or in a subsequent release of the
+               product or, if no commercially reasonable solution is possible,
+               the responding Party shall report such to the reporting Party,
+               together with its rationale for making such a determination or,
+               if no commercially reasonable solution is possible, the
+               responding Party shall report such to the reporting Party,
+               together with its rationale for making such a determination.
+- --------  ----------------------------------------------------------------------
+</TABLE>
+
+
+                                      -31-
+
+<PAGE>   32
+
+                                    EXHIBIT D
+
+                          Sample SMA and VPA Agreements
+
+                                   Sample SMA
+
+Europe: @ HTTP://WWW.INTEL.COM/EUROPE/SERVICES/ORDFORM.HTM
+
+North America: @ HTTP://SUPPORT.INTEL.COM/SERVICES/AMERICAS/TERMS.HTM
+
+
+                                   Sample VPA:
+
+Intel Software Volume Purchase Agreement Request
+Internal Use License - Document version 2.0
+Instructions:
+1. Print this document.
+2. Complete Licensee (Company) and address information. 
+3. You will receive an acknowledgment letter with a copy of the license
+referencing the Agreement Number assigned by Intel. The Intel contact name for
+licensee to send any notices or requests to, will also be identified in the
+acknowledgment letter.
+4. Complete contact name and address for Intel to ship all software notices to. 
+5. An authorized signature is required by Licensee named on the license. 
+6. List all software and the number of licensed copies in the sections provided.
+7. Mail or FAX License to: 
+Intel Corporation 
+Attn: VPA Administrator 
+5200 NE Elam Young Parkway 
+Hillsboro, OR 97124 
+Fax No: 503-264-6304 
+A copy of the LANDesk(R) Management Suite and LANDesk(R) Virus Protect product
+Software License Agreements will be attached to the completed Agreement for your
+convenience.
+
+Internal Use License
+LICENSEE:
+         ----------------------------------------------------------
+AGREEMENT NUMBER:
+                 --------------------------------------------------
+ADDRESS: 
+        -----------------------------------------------------------
+CONTACT NAME and PHONE NUMBER: 
+                              -------------------------------------
+EFFECTIVE DATE: 
+               ----------------------------------------------------
+
+The furnished programs ("Software") identified on this License are furnished
+subject to the terms and conditions of the applicable Intel Software License
+Agreement packaged or otherwise provided with the Software [End User License].
+Supplemental License Grant Effective on the date specified above, Intel grants
+the Licensee the right to reproduce the Software for use on the number of
+computers or workstations 
+
+
+                                      -32-
+
+<PAGE>   33
+
+specified on this license agreement ("Licensed Copies"). Licensee agrees that
+the maximum number of copies shall not exceed the number of Licensed Copies.
+Licensee will maintain a log of the copies made and to whom they were 
+distributed. 
+Distribution to or use by any third party is expressly prohibited. 
+Additional Licenses 
+If Licensee desires to increase the number of Licensed Copies, Licensee must
+sign another license prior to making any additional copies of the Software.
+Notice 
+All notices and requests required under this Agreement shall be in writing,
+shall reference this Agreement and shall be deemed given upon delivery if
+personally delivered or upon receipt if sent by registered or certified mail,
+return receipt requested, to the addresses listed below, which addresses may be
+modified upon subsequent written notice.
+Notices to Intel shall be sent to: 
+Intel Corporation 
+PO Box 14070 
+Portland, OR 97214 
+Attention: Contracts Manager 
+Notices to Licensees shall be sent to:
+
+- --------------------------------------
+
+- --------------------------------------
+
+- --------------------------------------
+Attn:
+     ---------------------------------
+General 
+This Agreement and the Intel Software License Agreement [End User License]under
+which the Software was originally licensed contains the entire agreement between
+the parties with respect to the Software including any warranties and
+liabilities of Intel.
+Agreed and accepted:
+Licensee By:
+            --------------------------
+Printed Name:
+             -------------------------
+Title: 
+      --------------------------------
+Date: 
+     ---------------------------------
+Software 
+The following Software shall be covered under this Agreement: 
+SOFTWARE NUMBER OF LICENSED COPIES
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+- ------------------------------- ----------------------------
+(End of "Intel Software Volume Purchase Agreement Request".)
+
+
+                                      -33-
+
+<PAGE>   34
+
+                                    EXHIBIT E
+
+                               Customer Databases
+
+Intel shall provide the following:
+
+1) Support and Maintenance Agreement (SMA) database with customer information
+containing:
+
+     North America: approximately 400 contacts including information on:
+     contact, company name, address, phone, product, quantity, and expiration
+     date. Data is approximately 95% complete.
+
+     Europe: approximately 70 European contacts including information on:
+     contact, company name, address, phone, product, quantity, and expiration
+     date. Data is approximately 95% complete.
+
+     APAC: approximately 25 contacts including information on: contact, company
+     name, address, phone, product, quantity, and expiration date. Data is
+     approximately 85% complete.
+
+2) Request for lower pricing to meet competition with customer information
+containing:
+
+     North America: approximately 400 contacts including information on:
+     reseller, reseller contact, company name, city, phone, product, quantity,
+     and authorized price. Data is approximately 90% complete.
+
+3) Request for support database:
+
+     North America: approximately 2000 contacts including information on:
+     contact, company name, phone, fax and product. Data is approximately 80%
+     complete.
+
+4) Copies of current volume purchase agreements
+
+     North America: approximately 19 agreements including information on:
+     reseller, contact, company name, city, phone, product. Data is
+     approximately 95% complete.
+
+5) Registration database with customer information containing:
+
+     World wide: Approximately 18,500 contacts including information on: company
+     name, city, phone, contact, product, and registration date. Data is
+     approximately 85% complete.
+
+6) Request for literature database with customer information containing:
+
+     Approximately 10,000 contacts including information on: company name, city,
+     phone, contact, product, and inquiry date. Data is approximately 80%
+     complete.
+
+
+                                      -34-
+
+<PAGE>   35
+
+                                    EXHIBIT F
+
+                      LDVP Software Product Release Metrics
+
+
+Intel will, at a minimum, apply the following metrics to the production release 
+of the final version of LDVP Software version 6.0 to Symantec.
+
+       "Priority 1" Defects will be fixed and verified. Priority 1, or
+       showstopper, defects prevent further execution of the program and have no
+       recovery method.
+
+       "Priority 2" defects will be fixed and verified. Priority 2 defects give
+       grossly wrong results or degrade performance substantially.
+
+       Defect Density must be <= 10. Defect Density is calculated to be the # of
+       defects/10,000 lines of source code. Comments are not counted as source
+       code.
+
+
+                                      -35-
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<DESCRIPTION>PRESS RELEASE OF SYMANTEC DATED 9/28/98
+<TEXT>
+
+<PAGE>   1
+
+                                                                    EXHIBIT 99.1
+
+FOR IMMEDIATE RELEASE
+
+<TABLE>
+<S>                                            <C>
+CONTACT:
+William Giles                                  Richard Saunders
+Intel Corporation                              Symantec Corporation
+(503) 264-7550                                 (408) 446-7550
+william.e.giles@intel.com                      rsaunders@symantec.com
+
+Barbara Grimes                                 Genevieve Haldeman
+Intel Corporation                              Symantec Corporation
+(503) 264-5563                                 (310) 449-4309
+barbara.t.grimes@intel.com                     glhaldeman@symantec.com
+
+                                               Shelley Wilson
+                                               Director of Investor Relations
+                                               Symantec Corporation
+                                               (408) 446-8891
+                                               swilson@symantec.com
+</TABLE>
+
+
+                    SYMANTEC BUYS INTEL'S ANTI-VIRUS BUSINESS
+
+Symantec licenses Intel Systems Management technology to integrate into Norton
+AntiVirus Product Line; Intel to integrate Norton AntiVirus into Intel LANDesk
+Management Suite -
+
+CUPERTINO, Calif. - Sept. 28, 1998 - Symantec Corporation (Nasdaq: SYMC)
+announced today that it has bought Intel Corporation's anti-virus business.
+Symantec has also licensed Intel systems management technology which it will
+combine with its own antivirus technology to crate best-of-breed anti-virus
+solutions for corporate organizations.
+
+Norton AntiVirus engine technology will be integrated into a new anti-virus
+product that Intel has had under development for most of this year. The product
+will be fully integrated with Intel LANDesk Management Suite and will be
+launched as a Norton AntiVirus product later this year to provide an obvious and
+smooth upgrade path for current LANDesk Virus Protect customers.
+
+As part of the agreement, Symantec will support Intel's 18,000 registered
+anti-virus customers and Intel will recommend Norton AntiVirus to its corporate
+customers worldwide as the anti-virus solution of choice. Intel will also market
+the Norton AntiVirus product line through its extensive reseller channel
+worldwide.
+
+"For nearly seven years LANDesk Virus Protect has been the leader in providing
+the robust systems management capabilities that businesses need in their
+anti-virus solution," said Ed Ekstrom, vice president, Intel New Business Group
+and general manager, Systems Management Division. "By licensing these
+technologies to Symantec, we can focus entirely on our core 
+
+<PAGE>   2
+
+competency - systems management leadership - while continuing to provide our
+customers with a world-class anti-virus solution. This alliance means Symantec
+will be the only anti-virus vendor to incorporate LANDesk management
+technologies into their utilities product line and to offer true integration
+with LANDesk products."
+
+"Our relationship with Intel is a key component of our overall strategy to meet
+the needs of corporate customers and follows on the heels of other significant
+alliances including IBM, Entrust Technologies and PLATINUM technology," said
+Gordon Eubanks, Symantec's president and CEO. "Integrating Intel LANDesk
+management technologies provides Norton AntiVirus customers with the best
+management solutions available and gives them the confidence they have the most
+manageable and flexible solution to fit within their existing network management
+architecture."
+
+Symantec will use the Intel systems management technology it has licensed to
+help build the Digital Immune System that Symantec is developing with IBM. The
+Digital Immune System combines Symantec's award-winning products with neural
+network technology from IBM to provide corporate customers with an automated,
+trouble free environment to keep systems up and running. The Intel technology
+will enable network administrators to implement and manage the Digital Immune
+System across the enterprise.
+
+Availability and Support
+
+The relationship with Intel is ongoing. Starting immediately, Norton AntiVirus
+engine technology will be integrated into a new anti-virus product that Intel
+has had under development for most of this year. The product will fully
+integrate with Intel LANDesk Management Suite and will be launched as a Norton
+AntiVirus product later this year to provide an obvious and smooth upgrade path
+for current LANDesk Virus Protect customers.
+
+The client portion of this product will be bundled with future versions of
+LANDesk Management Suite. Symantec will have a license to LANDesk Virus Protect
+software including all the common elements that make this product integral to
+LANDesk Management Suite. Versions will be fully compatible with the existing
+version of Norton AntiVirus and LANDesk Management Suite and will include
+complete management functionality such as distribution, configuration, lockdown,
+remote operations from one console, and event management and logging.
+
+Customers migrating to this new version of Norton AntiVirus will receive support
+directly from Symantec. During this transition period, Intel will continue to
+honor all existing support and maintenance agreements for the current versions
+of LANDesk Virus Protect and will continue to provide anti-virus pattern files.
+Until the new version is available, Intel and Symantec will continue to sell
+LANDesk Virus Protect 5.0.
+
+For additional information regarding support for current products, customers can
+contact Intel at www.intel.com. For information regarding the transition
+program, customers can contact Symantec at 1-800-745-6054.
+
+About LANDesk Management Suite
+
+
+                                       2
+
+<PAGE>   3
+
+Intel LANDesk Management Suite, the flagship product in the LANDesk family,
+provides integrated remote problem resolution, hardware and software inventory,
+server monitoring, software distribution, virus protection and other leading
+desktop system management functions. It also takes advantage of the Intel-led
+and industry-supported Wired for Management Initiative.
+
+About Norton AntiVirus
+
+Symantec's multi-tier virus protection strategy is the basis for products that
+protect the enterprise at the desktop, groupware, server, Internet and gateway
+levels. The Norton AntiVirus product line uses innovative Bloodhound heuristic
+technology to detect and remove both known and unknown viruses. Norton AntiVirus
+also includes LiveUpdate, which automatically updates users with the latest
+engine updates and virus definitions over the Internet.
+
+About Intel
+
+Intel, the world's largest chip maker, is also a leading manufacturer of
+computer, networking and communications products. Additional information about
+Intel is available at http://www.intel.com/pressroom.
+
+About Symantec
+
+Symantec is the world leader in utility software for business and personal
+computing. Symantec products and solutions help make users productive and keep
+their computers safe and reliable anywhere and anytime. Symantec offers a broad
+range of solutions and is acclaimed as a leader in both customer satisfaction
+and product brand recognition. Symantec is traded on Nasdaq under the symbol
+SYMC. More information on the company and its products can be obtained at
+www.symantec.com.
+
+                                      # # #
+
+Symantec Forward Looking Statement
+
+This press release contains forward-looking statements. There are certain
+important factors that could cause Symantec's future development efforts to
+differ materially from those anticipated by some of the statements made above.
+Among these are the anticipation of the growth of certain market segments, the
+positioning of Symantec's products in those segments, the competitive
+environment in the software industry, dependence on other products, changes to
+operating systems and product strategy by vendors of operating systems, and the
+importance of new Symantec products. Additional information concerning those and
+other factors is contained in the "Risk Factors" section of the company's annual
+report on Form 10-K for the fiscal year ended April 3, 1998 and the quarterly
+report on Form 10-Q for the fiscal quarter ended July 3, 1998.
+
+NOTE TO EDITORS: Members of the press are invited to take part in a conference
+call to discuss this announcement. The call starts at 10:30 PST and the dial in
+number is 1-800-754-1053. If you would like additional information on Symantec
+Corporation and its products, please 
+
+
+                                       3
+
+<PAGE>   4
+
+view the Symantec Press Center at http://www.symantec.com/PressCenter/ on
+Symantec's Web site.
+
+Intel and LANDesk Management Suite are registered trademarks of Intel
+Corporation.
+
+Digital Immune System is a trademark of Symantec Corporation.
+
+
+                                       4
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

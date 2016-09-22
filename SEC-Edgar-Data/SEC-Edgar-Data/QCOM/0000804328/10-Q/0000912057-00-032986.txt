@@ -1,0 +1,2048 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RvyO8crKFRRFxKy4zLUM31Y6+A9gvLvQHRASvsX6YiAXLl8Ea4GA+YuAOqTbY7Ae
+ f2en/nqVDKpgitgO/Z1RqA==
+
+<SEC-DOCUMENT>/in/edgar/work/20000725/0000912057-00-032986/0000912057-00-032986.txt : 20000921
+<SEC-HEADER>0000912057-00-032986.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000912057-00-032986
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000625
+FILED AS OF DATE:		20000725
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QUALCOMM INC/DE
+		CENTRAL INDEX KEY:			0000804328
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3663
+]		IRS NUMBER:				953685934
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-19528
+			FILM NUMBER:		678003
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		5775 MOREHOUSE DR
+				CITY:			SAN DIEGO
+				STATE:			CA
+				ZIP:			92121
+				BUSINESS PHONE:		8585871121
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		5775 MOREHOUSE DR
+					CITY:			SAN DIEGO
+					STATE:			CA
+					ZIP:			92121
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>a10-q.txt
+<DESCRIPTION>10-Q
+<TEXT>
+
+<PAGE>
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                            ------------------------
+
+                                   FORM 10-Q
+
+(MARK ONE)
+
+<TABLE>
+<C>        <S>
+   /X/     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 25, 2000
+
+                                       OR
+
+<TABLE>
+<C>        <S>
+   / /     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+           SECURITIES EXCHANGE ACT OF 1934
+</TABLE>
+
+        FOR THE TRANSITION PERIOD FROM______________ TO ______________.
+
+                         COMMISSION FILE NUMBER 0-19528
+
+                            ------------------------
+
+                             QUALCOMM INCORPORATED
+
+             (Exact name of registrant as specified in its charter)
+
+<TABLE>
+<S>                                                <C>
+                 DELAWARE                                       95-3685934
+      (State or other jurisdiction of              (I.R.S. Employer Identification No.)
+      incorporation or organization)
+
+ 5775 MOREHOUSE DR., SAN DIEGO, CALIFORNIA                      92121-1714
+ (Address of principal executive offices)                       (Zip Code)
+</TABLE>
+
+                                 (858) 587-1121
+              (Registrant's telephone number, including area code)
+
+                            ------------------------
+
+    Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past ninety days. Yes /X/  No / /
+
+    The number of shares outstanding of each of the issuer's classes of common
+stock, as of the close of business on July 20, 2000:
+
+<TABLE>
+<CAPTION>
+CLASS                                                         NUMBER OF SHARES
+- -----                                                         ----------------
+<S>                                                           <C>
+Common Stock $0.0001 per share par value....................     745,059,404
+</TABLE>
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+<PAGE>
+                                     INDEX
+
+<TABLE>
+<CAPTION>
+                                                                                   PAGE
+                                                                                 --------
+<S>       <C>      <C>                                                           <C>
+PART I.   FINANCIAL INFORMATION
+          Item 1.  Condensed Consolidated Financial Statements (Unaudited)
+                     Condensed Consolidated Balance Sheets.....................       3
+                     Condensed Consolidated Statements of Income...............       4
+                     Condensed Consolidated Statements of Cash Flows...........       5
+                     Notes to Condensed Consolidated Financial Statements......    6-20
+          Item 2.  Management's Discussion and Analysis of Results of
+                     Operations and Financial Condition........................   21-29
+          Item 3.  Quantitative and Qualitative Disclosures About Market
+                     Risk......................................................      29
+
+PART II.  OTHER INFORMATION....................................................      30
+          Item 1.  Legal Proceedings...........................................      30
+          Item 2.  Changes in Securities and Use of Proceeds...................      30
+          Item 3.  Defaults Upon Senior Securities.............................      30
+          Item 4.  Submission of Matters to a Vote of Security Holders.........      30
+          Item 5.  Other Information...........................................      30
+          Item 6.  Exhibits and Reports on Form 8-K............................      30
+</TABLE>
+
+                                       2
+<PAGE>
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                             QUALCOMM INCORPORATED
+
+                     CONDENSED CONSOLIDATED BALANCE SHEETS
+
+                     (IN THOUSANDS, EXCEPT PER SHARE DATE)
+
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                               JUNE 25,    SEPTEMBER 26,
+                                                                 2000          1999
+                                                              ----------   -------------
+<S>                                                           <C>          <C>
+                                         ASSETS
+Current assets:
+  Cash and cash equivalents.................................  $  712,709    $  660,016
+  Marketable securities.....................................     849,882       954,415
+  Accounts receivable, net..................................     672,649       883,640
+  Finance receivables.......................................      54,167        26,377
+  Inventories, net..........................................      73,949       257,941
+  Other current assets......................................     253,087       195,849
+                                                              ----------    ----------
+    Total current assets....................................   2,616,443     2,978,238
+Property, plant and equipment, net..........................     437,631       555,991
+Marketable securities.......................................     705,771        70,495
+Finance receivables, net....................................     784,066       548,482
+Goodwill, net...............................................     883,197         1,833
+Deferred income taxes.......................................     515,855       123,788
+Other assets................................................     428,632       256,123
+                                                              ----------    ----------
+Total assets................................................  $6,371,595    $4,534,950
+                                                              ==========    ==========
+
+                          LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable and accrued liabilities..................  $  432,697    $  708,307
+  Unearned revenue..........................................      83,919        56,070
+  Bank lines of credit......................................          --       112,000
+                                                              ----------    ----------
+    Total current liabilities...............................     516,616       876,377
+  Other liabilities.........................................      35,082        75,667
+                                                              ----------    ----------
+    Total liabilities.......................................     551,698       952,044
+                                                              ----------    ----------
+Commitments and contingencies (Notes 3, 6 and 10)
+
+Minority interest in consolidated subsidiaries..............      46,354        51,596
+                                                              ----------    ----------
+Company-obligated mandatorily redeemable Trust Convertible
+  Preferred Securities of a subsidiary trust holding solely
+  debt securities of the Company............................          --       659,555
+
+Stockholders' equity:
+  Preferred stock, $0.0001 par value........................          --            --
+  Common stock, $0.0001 par value...........................          74            65
+  Paid-in capital...........................................   5,080,375     2,587,899
+  Retained earnings.........................................     732,415       200,879
+  Accumulated other comprehensive (loss) income.............     (39,321)       82,912
+                                                              ----------    ----------
+    Total stockholders' equity..............................   5,773,543     2,871,755
+                                                              ----------    ----------
+    Total liabilities and stockholders' equity..............  $6,371,595    $4,534,950
+                                                              ==========    ==========
+</TABLE>
+
+           See Notes to Condensed Consolidated Financial Statements.
+
+                                       3
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+                  CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                   THREE MONTHS ENDED        NINE MONTHS ENDED
+                                                 ----------------------   -----------------------
+                                                 JUNE 25,     JUNE 27,     JUNE 25,     JUNE 27,
+                                                   2000         1999         2000         1999
+                                                 ---------   ----------   ----------   ----------
+<S>                                              <C>         <C>          <C>          <C>
+Revenues.......................................  $ 713,521   $1,004,066   $2,561,335   $2,877,684
+                                                 ---------   ----------   ----------   ----------
+Operating expenses:
+  Cost of revenues.............................    274,952      597,667    1,274,096    1,863,832
+  Research and development.....................     80,933       93,719      254,490      296,653
+  Selling, general and administrative..........     76,696      104,808      275,870      329,762
+  Amortization of goodwill and other
+    acquisition-related intangible assets......     63,506          148       84,114          752
+  Purchased in-process technology..............         --           --       60,030           --
+  Other........................................         --      109,345       63,589      205,169
+                                                 ---------   ----------   ----------   ----------
+Total operating expenses.......................    496,087      905,687    2,012,189    2,696,168
+                                                 ---------   ----------   ----------   ----------
+Operating income...............................    217,434       98,379      549,146      181,516
+Interest expense...............................       (608)      (2,704)      (4,494)     (11,478)
+Investment income, net.........................     64,448        4,708      434,444        8,595
+Distributions on Trust Convertible
+  Preferred Securities of subsidiary trust.....         --       (9,694)     (13,039)     (29,397)
+Other..........................................         --           --       (3,265)     (52,531)
+                                                 ---------   ----------   ----------   ----------
+Income before income taxes.....................    281,274       90,689      962,792       96,705
+Income tax expense.............................   (126,573)     (31,741)    (431,256)     (31,847)
+                                                 ---------   ----------   ----------   ----------
+Net income.....................................  $ 154,701   $   58,948   $  531,536   $   64,858
+                                                 =========   ==========   ==========   ==========
+Net earnings per common share:
+  Basic........................................  $    0.21   $     0.10   $     0.75   $     0.11
+                                                 =========   ==========   ==========   ==========
+  Diluted......................................  $    0.19   $     0.09   $     0.67   $     0.11
+                                                 =========   ==========   ==========   ==========
+Shares used in per share calculations:
+  Basic........................................    741,735      601,159      707,713      581,798
+                                                 =========   ==========   ==========   ==========
+  Diluted......................................    805,507      751,532      799,241      617,023
+                                                 =========   ==========   ==========   ==========
+</TABLE>
+
+           See Notes to Condensed Consolidated Financial Statements.
+
+                                       4
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+                CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (IN THOUSANDS)
+
+                                  (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                 NINE MONTHS ENDED
+                                                              -----------------------
+                                                               JUNE 25,     JUNE 27,
+                                                                 2000         1999
+                                                              -----------   ---------
+<S>                                                           <C>           <C>
+OPERATING ACTIVITIES:
+  Net income................................................  $   531,536   $  64,858
+  Depreciation and amortization.............................      164,072     126,784
+  Purchased in-process technology...........................       60,030          --
+  Restructuring, impairments and other non-cash charges and
+    credits.................................................       74,646     244,052
+  Realized gains on sale of available-for-sale securities...     (269,962)     (5,663)
+  Minority interest in income of consolidated
+    subsidiaries............................................        4,273       9,995
+  Equity in losses of investees.............................        8,965       9,445
+  Deferred income tax provision (benefit)...................      413,705     (45,178)
+  Increase (decrease) in cash resulting from changes in:
+    Accounts receivable, net................................      167,538    (140,680)
+    Finance receivables, net................................     (284,697)   (212,116)
+    Inventories, net........................................      (57,434)     95,963
+    Other current assets....................................      (20,800)    (17,826)
+    Accounts payable and accrued liabilities................     (241,892)     44,041
+    Unearned revenue........................................       25,512      (5,868)
+                                                              -----------   ---------
+Net cash provided by operating activities...................      575,492     167,807
+                                                              -----------   ---------
+INVESTING ACTIVITIES:
+  Capital expenditures......................................     (143,717)   (136,884)
+  Purchases of available-for-sale securities................     (859,379)         --
+  Proceeds from sale of available-for-sale securities.......      538,888       7,163
+  Purchases of held-to-maturity securities..................   (1,014,933)    (26,025)
+  Maturities of held-to-maturity securities.................      927,051     141,429
+  Issuance of notes receivable..............................     (202,248)   (131,826)
+  Collection of notes receivable............................      229,567      42,474
+  Proceeds from sale of businesses..........................      246,990      98,097
+  Business acquisitions and investments in other entities...     (247,956)    (19,152)
+  Other items, net..........................................        5,179       3,000
+                                                              -----------   ---------
+Net cash used by investing activities.......................     (520,558)    (21,724)
+                                                              -----------   ---------
+FINANCING ACTIVITIES:
+  Net reduction in borrowings under bank lines of credit....     (112,000)    (53,000)
+  Net proceeds from issuance of common stock................      108,514     182,103
+  Other items, net..........................................       (2,958)     (1,745)
+                                                              -----------   ---------
+Net cash (used) provided by financing activities............       (6,444)    127,358
+                                                              -----------   ---------
+Effect of exchange rate changes on cash.....................        4,203     (13,187)
+                                                              -----------   ---------
+NET INCREASE IN CASH AND CASH EQUIVALENTS...................       52,693     260,254
+CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD............      660,016     175,846
+                                                              -----------   ---------
+CASH AND CASH EQUIVALENTS AT END OF PERIOD..................  $   712,709   $ 436,100
+                                                              ===========   =========
+</TABLE>
+
+           See Notes to Condensed Consolidated Financial Statements.
+
+                                       5
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+                                  (UNAUDITED)
+
+NOTE 1--BASIS OF PRESENTATION
+
+    The accompanying interim condensed consolidated financial statements have
+been prepared by QUALCOMM Incorporated (the "Company" or "QUALCOMM"), without
+audit, in accordance with the instructions to Form 10-Q and, therefore, do not
+necessarily include all information and footnotes necessary for a fair
+presentation of its financial position, results of operations and cash flows in
+accordance with generally accepted accounting principles. The condensed
+consolidated balance sheet at September 26, 1999 was derived from the audited
+consolidated balance sheet at that date which is not presented herein. The
+Company operates and reports using a period ending on the last Sunday of each
+month.
+
+    In the opinion of management, the unaudited financial information for the
+interim periods presented reflects all adjustments, which are only normal and
+recurring, necessary for a fair presentation. These condensed consolidated
+financial statements should be read in conjunction with the consolidated
+financial statements included in the Company's Annual Report on Form 10-K for
+the fiscal year ended September 26, 1999. Operating results for interim periods
+are not necessarily indicative of operating results for an entire fiscal year.
+
+    The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts in the Company's financial
+statements and the accompanying notes. Actual results could differ from those
+estimates. Certain prior year amounts have been reclassified to conform to the
+current year presentation.
+
+    The Company effected a two-for-one stock split in May 1999 and a
+four-for-one stock split in December 1999. Stockholders' equity has been
+restated to give retroactive recognition to the stock splits for all periods
+presented by reclassifying the par value of the additional shares arising from
+the splits from paid-in capital to common stock. All references in the financial
+statements and notes to number of shares and per share amounts have been
+restated to reflect these stock splits.
+
+    Basic earnings per common share are calculated by dividing net income by the
+weighted average number of common shares outstanding during the reporting
+period. Diluted earnings per common share ("diluted EPS") reflect the potential
+dilutive effect, calculated using the treasury stock method, of additional
+common shares that are issuable upon exercise of outstanding stock options and
+the potential dilutive effect for the period prior to conversion of shares
+issuable upon conversion of Trust Convertible Preferred Securities, determined
+on an if-converted basis, as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                               THREE MONTHS           NINE MONTHS
+                                                   ENDED                 ENDED
+                                            -------------------   -------------------
+                                            JUNE 25,   JUNE 27,   JUNE 25,   JUNE 27,
+                                              2000       1999       2000       1999
+                                            --------   --------   --------   --------
+<S>                                         <C>        <C>        <C>        <C>
+Options...................................   63,772     77,704     67,375     35,225
+Trust Convertible Preferred Securities....       --     72,669     24,153         --
+                                             ------    -------     ------     ------
+                                             63,772    150,373     91,528     35,225
+                                             ======    =======     ======     ======
+</TABLE>
+
+    Options outstanding during the three months ended June 25, 2000 and
+June 27, 1999 to purchase approximately 2,051,000 shares and 141,000 shares of
+common stock, respectively, and options outstanding during the nine months ended
+June 25, 2000 and June 27, 1999 to purchase approximately
+
+                                       6
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 1--BASIS OF PRESENTATION (CONTINUED)
+1,314,000 and 17,957,000 shares of common stock, respectively, were not included
+in the computation of diluted EPS because the options' exercise prices were
+greater than the average market price of the common stock during the period and,
+therefore, the effect would be anti-dilutive. Net income in the computation of
+diluted EPS for the three months ended June 27, 1999 and the nine months ended
+June 25, 2000 is increased by $6 million and $7 million, respectively,
+representing the assumed savings of distributions, net of taxes, on the Trust
+Convertible Preferred Securities. The additional common shares assuming the
+conversion of the Trust Convertible Preferred Securities have not been included
+for the nine month period ended June 27, 1999 because the effect would have been
+anti-dilutive.
+
+    During the first nine months of fiscal 2000 approximately 13,191,000 Trust
+Convertible Preferred Securities were converted into approximately 72,622,000
+shares of common stock. All Trust Convertible Preferred Securities have been
+converted into common stock.
+
+    The Company displays the accumulated balance of other comprehensive income
+or loss separately in the equity section of the consolidated balance sheets.
+Total comprehensive income consists of the following (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                      THREE MONTHS ENDED     NINE MONTHS ENDED
+                                                      -------------------   --------------------
+                                                      JUNE 25,   JUNE 27,   JUNE 25,    JUNE 27,
+                                                        2000       1999       2000        1999
+                                                      --------   --------   ---------   --------
+<S>                                                   <C>        <C>        <C>         <C>
+Net income..........................................  $154,701   $ 58,948   $ 531,536   $ 64,858
+                                                      --------   --------   ---------   --------
+Other comprehensive (loss) income:
+  Foreign currency translation......................    (1,824)     8,273       4,312    (21,428)
+  Change in unrealized gain on securities, net of
+    income taxes....................................   (21,067)    67,752      35,180     67,752
+  Reclassification adjustment for gains included in
+    net income, net of income taxes.................        65    (27,236)   (161,725)   (27,236)
+                                                      --------   --------   ---------   --------
+Total other comprehensive (loss) income.............   (22,826)    48,789    (122,233)    19,088
+                                                      --------   --------   ---------   --------
+Total comprehensive income..........................  $131,875   $107,737   $ 409,303   $ 83,946
+                                                      ========   ========   =========   ========
+</TABLE>
+
+    In June 1998, the Financial Accounting Standards Board ("FASB") issued
+Statement of Financial Accounting Standards No. 133 ("FAS 133"), "Accounting for
+Derivative Instruments and Hedging Activities." In May 1999, the FASB delayed
+the effective date of FAS 133 by one year. The Company will be required to adopt
+FAS 133 for fiscal year 2001. This statement establishes a new model for
+accounting for derivatives and hedging activities. Under FAS 133, all
+derivatives must be recognized as assets and liabilities and measured at fair
+value. The Company has not completed its determination of the impact of the
+adoption of this new accounting standard on its consolidated financial position
+or results of operations.
+
+    In December 1999, the Securities and Exchange Commission ("SEC") issued
+Staff Accounting Bulletin No. 101 ("SAB 101"), "Revenue Recognition in Financial
+Statements." In June 2000, the SEC staff amended SAB 101 to provide registrants
+with additional time to implement SAB 101. The Company will be required to adopt
+SAB 101 by the fourth quarter of fiscal 2001. The Company has not
+
+                                       7
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 1--BASIS OF PRESENTATION (CONTINUED)
+completed its determination of the impact of the adoption of SAB 101 on its
+consolidated financial position or results of operation.
+
+    In March 2000, the FASB issued FASB Interpretation No. 44 ("FIN 44"),
+"Accounting for Certain Transactions Involving Stock Compensation." The Company
+will be required to adopt FIN 44 effective July 1, 2000 with respect to certain
+provisions applicable to new awards, exchanges of awards in a business
+combination, modifications to outstanding awards, and changes in grantee status
+that occur on or after that date. FIN 44 addresses practice issues related to
+the application of Accounting Practice Bulletin Opinion No. 25, "Accounting for
+Stock Issued to Employees." The Company does not expect the application of FIN
+44 to have a material impact on its consolidated financial position or results
+of operations.
+
+NOTE 2--ACQUISITIONS
+
+SNAPTRACK, INC.
+
+    In March 2000, the Company completed the acquisition of all of the
+outstanding capital stock of SnapTrack, Inc. ("SnapTrack"), a developer of
+wireless position location technology, in a transaction accounted for as a
+purchase. The purchase price was approximately $1 billion, representing the
+value of QUALCOMM shares issued to effect the purchase, the value of vested and
+unvested options and warrants exchanged at the closing date and estimated
+transaction costs of $2 million. The preliminary allocation of purchase price,
+based on the estimated fair values of the acquired assets and assumed
+liabilities and an independent appraisal of intangible assets, reflects acquired
+goodwill of $948 million, purchased in-process technology of $60 million and
+other intangible assets of $34 million. Tangible assets acquired and liabilities
+assumed were not material to the Company's financial statements. The Company
+expects to finalize the purchase price allocation within one year and does not
+anticipate material adjustments to the preliminary purchase price allocation.
+Amounts allocated to goodwill and other intangible assets are amortized on a
+straight-line basis over their estimated useful lives of four years. The
+acquisition has been treated as a non-cash transaction in the statement of cash
+flows.
+
+    Purchased in-process technology was expensed upon acquisition because
+technological feasibility had not been established and no future alternative
+uses existed. The value of purchased in-process technology was calculated by
+identifying research projects in areas for which technological feasibility has
+not been established, estimating the costs to develop the purchased in-process
+technology into commercially viable products, estimating the resulting net cash
+flows from such products, discounting the net cash flows to present value, and
+applying the percentage completion of the projects thereto. The discount rate
+includes a factor that takes into account the uncertainty surrounding the
+successful development of the purchased in-process technology.
+
+    The condensed consolidated financial statements include the operating
+results of SnapTrack from the date of acquisition. Unaudited pro forma operating
+results for the Company, assuming the
+
+                                       8
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 2--ACQUISITIONS (CONTINUED)
+acquisition of SnapTrack had been made at the beginning of the periods
+presented, are as follows (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                             THREE          NINE MONTHS ENDED
+                                          MONTHS ENDED   -----------------------
+                                            JUNE 27,      JUNE 25,     JUNE 27,
+                                              1999          2000         1999
+                                          ------------   ----------   ----------
+<S>                                       <C>            <C>          <C>
+Revenues................................   $1,004,066    $2,561,674   $2,877,700
+                                           ----------    ----------   ----------
+Net (loss) income.......................   $   (2,885)   $  483,681   $ (121,073)
+                                           ==========    ==========   ==========
+Basic (loss) earnings per common
+  share.................................   $       --    $     0.68   $    (0.21)
+                                           ==========    ==========   ==========
+Diluted (loss) earnings per common
+  share.................................   $       --    $     0.61   $    (0.21)
+                                           ==========    ==========   ==========
+</TABLE>
+
+    These pro forma results have been prepared for comparative purposes only and
+may not be indicative of the results of operations which actually would have
+occurred had the combination been in effect at the beginning of the respective
+periods or of future results of operations of the consolidated entities.
+
+TECHNOLOGY DEVELOPMENT GROUP OF TELLIT COMMUNICATIONS LTD.
+
+    In February 2000, the Company purchased the Technology Development Group of
+Tellit Communications Limited ("Tellit"), a U.K.-based company. QUALCOMM paid
+the initial purchase price of $12 million in cash. An additional $9 million in
+consideration is payable in cash through March 31, 2001 if certain performance
+and other milestones are reached. The preliminary allocation of purchase price,
+based on the estimated fair values of acquired assets and liabilities assumed,
+reflects acquired goodwill of $11 million and other intangible assets of
+$1 million. The Company expects to finalize the purchase price allocation within
+one year and does not anticipate material adjustments to the preliminary
+purchase price allocation. Any adjustments to the purchase price related to
+contingent consideration are expected to increase goodwill. Amounts allocated to
+goodwill and assembled workforce are amortized on a straight-line basis over
+their estimated useful lives of three years. The condensed consolidated
+financial statements include the operating results of the Technology Development
+Group of Tellit from the date of acquisition. Pro forma results of operations
+have not been presented because the effect of this acquisition is not material.
+
+                                       9
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 3--COMPOSITION OF CERTAIN BALANCE SHEET CAPTIONS
+
+    Accounts receivable, net are comprised as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                       JUNE 25,   SEPTEMBER 26,
+                                                         2000         1999
+                                                       --------   -------------
+<S>                                                    <C>        <C>
+Trade, net of allowance for doubtful accounts of
+  $12,374 and $22,276, respectively..................  $535,503     $674,211
+Long-term contracts:
+  Billed.............................................    86,716      128,208
+  Unbilled...........................................    42,886       69,409
+Other................................................     7,544       11,812
+                                                       --------     --------
+                                                       $672,649     $883,640
+                                                       ========     ========
+</TABLE>
+
+    Unbilled receivables represent costs and profits recorded in excess of
+amounts billable pursuant to contract provisions and are expected to be realized
+within one year.
+
+    Finance receivables result from arrangements in which the Company has agreed
+to provide its customers or certain Code Division Multiple Access ("CDMA")
+customers of Telefonaktiebolaget LM Ericsson ("Ericsson") (Note 8) with
+long-term interest bearing debt financing for the purchase of equipment and/or
+services. Such financing is generally collateralized by the related equipment.
+Finance receivables are comprised as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                       JUNE 25,   SEPTEMBER 26,
+                                                         2000         1999
+                                                       --------   -------------
+<S>                                                    <C>        <C>
+Finance receivables..................................  $848,852     $585,482
+Allowance for doubtful receivables...................   (10,619)     (10,623)
+                                                       --------     --------
+                                                        838,233      574,859
+Current maturities...................................    54,167       26,377
+                                                       --------     --------
+Noncurrent finance receivables, net..................  $784,066     $548,482
+                                                       ========     ========
+</TABLE>
+
+    At June 25, 2000, commitments to extend long-term financing to CDMA
+customers of Ericsson (Note 8) totaled approximately $301 million, which the
+Company expects to fund over the next five years. Such commitments are subject
+to the customers meeting certain conditions established in the financing
+arrangements and, in most cases, to Ericsson also financing a portion of such
+sales. Commitments represent the estimated amounts to be financed under these
+arrangements; actual financing may be in lesser amounts.
+
+                                       10
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 3--COMPOSITION OF CERTAIN BALANCE SHEET CAPTIONS (CONTINUED)
+
+    Inventories are comprised as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                        JUNE 25,   SEPTEMBER 26,
+                                                          2000         1999
+                                                        --------   -------------
+<S>                                                     <C>        <C>
+Raw materials.........................................  $34,120      $161,481
+Work-in-process.......................................    7,780        51,003
+Finished goods........................................   32,049        45,457
+                                                        -------      --------
+                                                        $73,949      $257,941
+                                                        =======      ========
+</TABLE>
+
+    At June 25, 2000, goodwill is presented net of $83 million in accumulated
+amortization.
+
+NOTE 4--MARKETABLE SECURITIES
+
+    In April 2000, the Company purchased 11,499,627 shares of the common stock
+of NetZero, Inc. ("NetZero"), representing a 9.9% interest, for $144 million in
+cash. NetZero is a publicly traded company that provides Internet access and
+services to consumers and on-line direct marketing services to advertisers. The
+recorded value of the NetZero investment is $66 million at June 25, 2000.
+
+    In February 2000, the Company purchased 308,000 units of Leap Wireless
+International Inc.'s ("Leap Wireless") senior discount notes with warrants for
+$150 million. The notes mature in April 2010 and bear interest at 14.5%. The
+warrants are detachable after six months and entitle each holder to purchase
+2.503 common shares per each senior discount note unit held. The exercise price
+is $96.80 per common share. Leap Wireless used $227 million of the proceeds from
+the issuance of senior discount notes and senior notes to pay down its credit
+facility with QUALCOMM. The credit facility was cancelled in the second quarter
+of fiscal 2000. The recorded value of the senior discount notes with warrants is
+$134 million at June 25, 2000.
+
+    In November 1999, the Company purchased 2,565,000 common shares of Korea
+Telecom Freetel ("KT Freetel"), representing a 1.9% interest, for $110 million
+and an $86 million zero coupon bond with warrants to purchase approximately
+1,851,000 additional shares in KT Freetel. If KT Freetel meets certain
+obligations related to the commercial deployment of high data rate, or 1xEV
+technology, the Company will be required to exercise the warrants. The exercise
+price of the warrants is expected to be paid by tendering the bond as payment in
+full. If KT Freetel does not meet such obligations, the Company will have the
+right to redemption of the bond at face value plus a premium equal to 10% per
+annum. The Company uses the cost method to account for 1,924,000 of the common
+shares and warrants to purchase 1,389,000 additional shares as those securities
+and the securities underlying the warrants are restricted through June 1, 2002.
+The remaining shares and warrants are recorded at fair value. The recorded value
+of the KT Freetel investments is $204 million at June 25, 2000, including
+$147 million related to restricted securities classified as other noncurrent
+assets.
+
+                                       11
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 5--INVESTMENT INCOME (EXPENSE), NET
+
+    Investment income (expense) is comprised as follows (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                         THREE MONTHS ENDED     NINE MONTHS ENDED
+                                                         -------------------   -------------------
+                                                         JUNE 25,   JUNE 27,   JUNE 25,   JUNE 27,
+                                                           2000       1999       2000       1999
+                                                         --------   --------   --------   --------
+<S>                                                      <C>        <C>        <C>        <C>
+Interest income........................................  $68,557    $11,610    $177,720   $25,645
+Realized gains on marketable securities................      (99)        --     269,962     5,663
+Loss on cancellation of warrants.......................       --         --          --    (3,273)
+Minority interest in income of consolidated
+  subsidiaries.........................................     (659)    (3,452)     (4,273)   (9,995)
+Equity in losses of investees..........................   (3,351)    (3,450)     (8,965)   (9,445)
+                                                         -------    -------    --------   -------
+                                                         $64,448    $ 4,708    $434,444   $ 8,595
+                                                         =======    =======    ========   =======
+</TABLE>
+
+NOTE 6--INVESTMENTS IN OTHER ENTITIES
+
+GLOBALSTAR L.P.
+
+    Through partnership interests held in certain intermediate limited
+partnerships, the Company owns a 6.0% partnership interest in Globalstar L.P.
+("Globalstar"), a limited partnership formed to develop, own and operate the
+Globalstar low-Earth-orbit ("LEO") satellite system utilizing CDMA technology
+(the "Globalstar System").
+
+    At June 25, 2000 and September 26, 1999, $509 million and $349 million in
+interest bearing financed amounts and $105 million and $171 million in accounts
+receivable, including $30 million and $59 million in unbilled receivables,
+respectively, were outstanding from Globalstar. In May 2000, the Company and
+Globalstar signed definitive agreements to finance current and future contract
+payments. The financing bears interest at 6% and is payable in quarterly
+installments beginning January 15, 2001 through August 15, 2003. The Company
+received warrants to purchase 3,450,000 ordinary partnership interests in
+Globalstar as part of the financing arrangement for $42.25 per unit, which
+approximates the market value of the common shares of Globalstar
+Telecommunications Ltd. on the transaction date assuming a just over one-to-four
+relationship. Fifty percent of the warrants are vested and the remaining
+warrants vest in 25% increments on September 1, 2000 and 2001. The vested
+warrants were recorded at an estimated fair value of $24 million, resulting in a
+corresponding discount to the finance receivables. The Company changed its
+estimate of amounts collectible under Globalstar contracts and recorded
+previously unrecognized revenue of $8 million and interest income of
+$10 million during the first nine months of fiscal 2000. At June 25, 2000,
+$31 million in future contract billings, including unbilled receivables at
+June 25, 2000, are expected to be eligible for financing under the financing
+agreement with Globalstar (Note 12).
+
+IGNITION, LLC
+
+    In March 2000, the Company purchased 42 million Series B Preferred units,
+representing an approximate 13% undiluted interest, in Ignition, LLC
+("Ignition"), a venture firm formed to fund, mentor and build wireless Internet
+start-up companies. The Company also received a warrant to purchase four million
+common units at $0.46 per unit. The Company made capital contributions of
+$17 million during the first nine months of fiscal 2000 and will be required to
+provide $25 million in
+
+                                       12
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 6--INVESTMENTS IN OTHER ENTITIES (CONTINUED)
+additional equity contributions over five years. The Company accounts for its
+investment in Ignition under the equity method.
+
+OTHER INVESTMENTS
+
+    The Company makes strategic investments in companies that have developed or
+are developing innovative wireless data applications and wireless carriers that
+promote the worldwide deployment of CDMA and high date rate, or 1xEV ("1xEV"),
+systems. Funding commitments related to these investments total $74 million at
+June 25, 2000, which the Company expects to fund over three years. Such
+commitments may be subject to the investees meeting certain conditions; actual
+equity funding may be in lesser amounts.
+
+NOTE 7--BANK LINE OF CREDIT
+
+    The Company has an unsecured credit facility under which banks are committed
+to make up to $400 million in revolving loans to the Company. The credit
+facility expires in March 2001. The facility may be extended on an annual basis
+upon maturity. The Company is currently obligated to pay commitment fees equal
+to 0.175% per annum on the unused amount of the credit facility. The credit
+facility includes certain restrictive financial and operating covenants. At
+June 25, 2000, there were no amounts or letters of credit issued or outstanding
+under the credit facility.
+
+NOTE 8--DISPOSITION OF ASSETS AND OTHER CHARGES
+
+    In February 2000, the Company sold its terrestrial-based CDMA wireless
+consumer phone business, including its phone inventory, manufacturing equipment
+and customer commitments, to Kyocera Corporation ("Kyocera"). Under the
+agreement with Kyocera, Kyocera agreed to purchase a majority of its CDMA
+integrated circuits and system software requirements from QUALCOMM for a period
+of five years. Kyocera will continue its existing royalty-bearing CDMA license
+agreement with QUALCOMM. QUALCOMM received $216 million on February 22, 2000 and
+an additional $26 million during the third quarter of fiscal 2000 based on
+finalization of the recorded values of net assets actually sold. At June 25,
+2000, approximately $10 million in net assets are held in connection with the
+pending transfer of certain foreign assets to Kyocera, and a corresponding
+liability has been recorded as a result of Kyocera's payment for these assets
+during the third quarter of fiscal 2000.
+
+    As part of the agreement with Kyocera, QUALCOMM formed a new subsidiary that
+has a substantial number of employees from QUALCOMM Consumer Products business,
+to provide services to Kyocera on a cost-plus basis to support Kyocera's phone
+business for up to three years. Selected employees of QUALCOMM Personal
+Electronics ("QPE"), a 51% owned consolidated subsidiary of the Company and
+manufacturer of phones for QUALCOMM, were transferred to Kyocera. As a condition
+of the purchase, QPE paid down and cancelled its two revolving credit
+agreements. The Company anticipates that remaining QPE manufacturing assets will
+be liquidated. QUALCOMM recorded $83 million in charges during the nine months
+ended June 25, 2000 to reflect the estimated difference between the carrying
+value of the net assets and the consideration to be received from Kyocera, less
+costs to sell, and employee termination costs.
+
+                                       13
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 8--DISPOSITION OF ASSETS AND OTHER CHARGES (CONTINUED)
+    In May 1999, the Company sold certain of its assets related to its
+terrestrial CDMA wireless infrastructure business to Ericsson and entered into
+various license and settlement agreements with Ericsson. Pursuant to the
+Company's agreement with Ericsson, the Company has and will extend financing for
+possible future sales by Ericsson of infrastructure equipment and related
+services to specific customers in certain geographic areas, including Brazil,
+Chile, Mexico, and Russia or in other areas selected by Ericsson (Note 3). The
+Company recorded charges of $108 million and $251 million during the three month
+and the nine month periods ended June 27, 1999, respectively, related to the
+sale of its terrestrial CDMA wireless infrastructure business. Ericsson has
+notified the Company that it is disputing the purchase price (Note 10).
+
+NOTE 9--INCOME TAXES
+
+    The Company currently estimates its annual effective income tax rate to be
+approximately 45% for fiscal 2000, compared to 35% for fiscal 1999. The higher
+tax rate for fiscal 2000 is primarily a result of higher pretax earnings,
+non-deductible charges for purchased in-process technology and amortization of
+goodwill.
+
+NOTE 10--COMMITMENTS AND CONTINGENCIES
+
+LITIGATION
+
+    On or about June 5, 1997, Elisra Electronic Systems Ltd. ("Elisra")
+submitted to the International Chamber of Commerce a Request for Arbitration of
+a dispute with the Company based upon a Development and Supply Agreement ("DSA")
+entered into between the parties effective November 15, 1995, alleging that the
+Company wrongfully terminated the DSA, seeking monetary damages. The Company
+thereafter submitted a Reply and Counterclaim, alleging that Elisra breached the
+DSA, seeking monetary damages. Subsequently, the parties stipulated that the
+dispute be heard before an arbitrator under the jurisdiction of the American
+Arbitration Association, and to bifurcate the resolution of liability issues
+from damage issues. To date, the arbitrator has heard testimony regarding the
+liability or non-liability of the parties, post-hearing briefs have been filed,
+and the parties have submitted oral argument. Although there can be no assurance
+that the resolution of these claims will not have a material adverse effect on
+the Company's results of operations, liquidity or financial position, the
+Company believes that the claims made by Elisra are without merit and will
+vigorously defend against the claims.
+
+    On October 27, 1998, the Electronics and Telecommunications Research
+Institute of Korea ("ETRI") submitted to the International Chamber of Commerce a
+Request for Arbitration (the "Request") of a dispute with the Company arising
+out of a Joint Development Agreement ("JDA") dated April 30, 1992, between ETRI
+and the Company. In the Request, ETRI alleged that the Company breached certain
+provisions of the JDA and sought monetary damages and an accounting. The Company
+filed an answer and counterclaims denying the allegations, seeking a declaration
+establishing the termination of the JDA and monetary damages and injunctive
+relief against ETRI. The arbitration hearing commenced on July 5, 2000 in San
+Diego. Although there can be no assurance that the resolution of these claims
+will not have a material adverse effect on the Company's results of operations,
+liquidity or financial position, the Company believes that the claims are
+without merit and will vigorously defend the action.
+
+                                       14
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 10--COMMITMENTS AND CONTINGENCIES (CONTINUED)
+    On May 6, 1999, Thomas Sprague, a former employee of the Company, filed a
+putative class action against the Company, ostensibly on behalf of himself and
+those of the Company's former employees who were offered employment with
+Ericsson in conjunction with the sale to Ericsson of certain of the Company's
+infrastructure division assets and liabilities and who elected not to
+participate in a Retention Bonus Plan being offered to such former employees.
+The complaint was filed in California Superior Court in and for the County of
+San Diego and purports to state eight causes of action arising primarily out of
+alleged breaches of the terms of the Company's 1991 Stock Option Plan, as
+amended from time to time. The putative class sought to include former employees
+of the Company whom, among other things, "have not or will not execute the Bonus
+Retention Plan and accompanying full and complete release of QUALCOMM." The
+complaint seeks an order accelerating all unvested stock options for the members
+of the class. Of the 1,053 transitioning former employees who had unvested stock
+options, 1,016 elected to participate in the Retention Bonus Plan offered by
+QUALCOMM and Ericsson, which provides several benefits including cash
+compensation based upon a portion of the value of their unvested options, and
+includes a written release of claims against the Company. On July 30, 1999,
+plaintiffs filed a First Amended Complaint incorporating the allegations set
+forth in the original complaint, adding two new causes of action and expanding
+the putative class to also include those former employees who chose to
+participate in the Bonus Retention Plan. In October 1999, the court sustained
+the Company's demurrer to the plaintiffs' cause of action for breach of
+fiduciary duty. Counsel for the putative class filed a Second Amended Complaint,
+including substantially the same allegations as the First Amended Complaint, on
+November 1, 1999. On March 10, 2000, counsel for plaintiffs and QUALCOMM filed a
+Stipulation of Settlement with the court that would allocate a settlement
+payment of $9 million, which will be funded by third parties, to all plaintiffs
+who do not elect to opt out of the settlement on or before April 17, 2000. The
+number of employees electing to opt out exceeded the limit, and the Company has
+elected to void the settlement. Although there can be no assurance that an
+unfavorable outcome of the dispute would not have a material adverse effect on
+the Company's results of operations, liquidity or financial position, the
+Company believes the claims are without merit and will vigorously defend the
+action.
+
+    On June 29, 1999, GTE Wireless, Incorporated ("GTE") filed an action in the
+U.S. District Court for the Eastern District of Virginia asserting that wireless
+telephones sold by the Company infringe a single patent allegedly owned by GTE.
+On September 15, 1999, the court granted the company's motion to transfer the
+action to the U.S. District Court for the Southern District of California.
+Although there can be no assurance that an unfavorable outcome of the dispute
+would not have a material adverse effect on the Company's results of operations,
+liquidity or financial position, the Company believes the action is without
+merit and will vigorously defend the action.
+
+    QUALCOMM and Ericsson are currently participating in an arbitration in which
+Ericsson is disputing the determination of the purchase price under the asset
+purchase agreement pursuant to which Ericsson acquired certain assets related to
+the Company's terrestrial wireless infrastructure business in May 1999. QUALCOMM
+has also received notice from Ericsson that Ericsson intends to assert claims
+for indemnification under the subject asset purchase agreement. QUALCOMM and
+Ericsson are having on-going discussions aimed at potentially resolving these
+claims. In the event the parties are unable to otherwise resolve these claims,
+the pending arbitration with respect to the purchase price determination shall
+continue to proceed forward and Ericsson's claims for indemnification will be
+subject to resolution pursuant to the dispute resolution procedures set forth in
+
+                                       15
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 10--COMMITMENTS AND CONTINGENCIES (CONTINUED)
+the asset purchase agreement. Although there can be no assurance that the
+resolution of these claims will not have a material adverse effect on the
+Company's results of operations, liquidity or financial position, the Company
+believes the claims are without merit and will vigorously defend them.
+
+    On February 2, 2000, Thomas Durante, James Curley, Curtis Parker and Joseph
+Edwards, filed a putative class action against the Company, ostensibly on behalf
+of themselves and those former employees of the Company whose employment was
+terminated in April 1999. Virtually all of the purported class of plaintiffs
+received severance packages at the time of the termination of their employment,
+in exchange for their general release of claims against the Company. The
+complaint was filed in California Superior Court in and for the County of Los
+Angeles and purports to state ten causes of action including breach of contract,
+age discrimination, violation of Labor Code Section 200, violation of Labor Code
+Section 970, unfair business practices, intentional infliction of emotional
+distress, unjust enrichment, breach of the covenant of good faith and fair
+dealing, declaratory relief and undue influence. The complaint seeks an order
+accelerating all unvested stock options for the members of the class. On
+June 27, 2000, the case was ordered transferred from Los Angeles County Superior
+Court to San Diego County Superior Court. On July 3, 2000, the Company removed
+the case to the United States District Court for the Southern District of
+California. Although there can be no assurance that an unfavorable outcome of
+the dispute would not have a material adverse effect on the Company's results of
+operations, liquidity or financial position, the Company believes the claims are
+without merit and will vigorously defend the action.
+
+    On June 13, 2000, Van May, Ruth Ann Feldman, Jeffrey Alan MacGuire and
+Maurice Clark filed a putative class action lawsuit in San Diego County Superior
+Court against the Company and against QUALCOMM Personal Electronics ("QPE"),
+ostensibly on behalf of themselves and other former employees of QPE who were
+offered benefits in QPE's Performance Unit Plan. The complaint purports to state
+seven causes of action, including breach of contract, violation of California
+Labor Code Section 970, fraud, unfair business practices, unjust enrichment,
+breach of the covenant of good faith and fair dealing and declaratory relief.
+Although there can be no assurance that an unfavorable outcome of the dispute
+would not have a material adverse effect on the Company's results of operations,
+liquidity or financial position, the Company believes the claims are without
+merit and will vigorously defend the action.
+
+    The Company is engaged in other legal actions arising in the ordinary course
+of its business and believes that the ultimate outcome of these actions will not
+have a material adverse effect on its results of operations, liquidity or
+financial position.
+
+LETTERS OF CREDIT, FINANCIAL GUARANTEES AND OTHER FINANCIAL COMMITMENTS
+
+    The Company has issued a letter of credit to support a guarantee of up to
+$22.5 million of Globalstar (Note 6) borrowings under an existing bank financing
+agreement. The guarantee will expire in December 2000. The letter of credit is
+collateralized by a commensurate amount of the Company's investments in debt
+securities. As of June 25, 2000, $250 million was outstanding under the existing
+bank financing agreement (Note 12).
+
+    On December 22, 1999 and April 25, 2000, the Company and Pegaso
+Telecomunicaciones, S.A. de C.V. ("Pegaso"), a wireless telecommunications
+operating company investee of Leap Wireless, executed
+
+                                       16
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 10--COMMITMENTS AND CONTINGENCIES (CONTINUED)
+commitment letters, in which the Company agreed to underwrite up to
+$500 million of debt financing to Pegaso and its wholly-owned subsidiary, Pegaso
+Comunicaciones y Sistemas, a CDMA wireless operating company in Mexico. The debt
+financing would consist of a $250 million senior secured facility and a
+$250 million unsecured facility. The debt facilities are expected to have final
+maturities of seven to eight years. The Company currently has guaranteed a
+$175 million facility that will be prepaid and cancelled upon funding of the
+$250 million senior secured facility.
+
+    In addition to the letter of credit on behalf of Globalstar, the Company has
+$3 million of letters of credit and $189 million of other financial guarantees
+outstanding as of June 25, 2000, none of which are collateralized.
+
+METROSVYAZ LTD.
+
+    In September 1999, the Company recorded $51 million in charges to reflect
+the impairment of assets related to Metrosvyaz Ltd. ("Metrosvyaz"), a company
+formed to develop and manage investments in wireless operating companies in
+Russia, as a result of Leap Wireless' announcement of its intention to withdraw
+its support for Metrosvyaz. In February 2000, as a result of ongoing discussions
+and QUALCOMM's continued interest in promoting CDMA in Russia, the Company
+signed a Memorandum of Understanding ("MOU") with Metrosvyaz, pursuant to which,
+the Company advanced $6 million under a previously existing loan facility. The
+amount advanced was deemed to be nonrecoverable, and the $6 million charge was
+recorded as other non-operating expense. In March 2000, the parties agreed to
+modify certain provisions of the MOU, and as a result, QUALCOMM would receive a
+30% interest in Metrosvyaz, in exchange for a contribution by QUALCOMM of all
+its outstanding Metrosvyaz indebtedness before Metrosvyaz meets additional
+funding milestones. The MOU provides specific milestones that Metrosvyaz must
+meet to obtain an additional $10 million in funding. If the additional funding
+occurs, QUALCOMM would receive an additional 5% interest in Metrosvyaz. The
+Company also has a commitment to Ericsson to provide up to approximately
+$30 million in vendor financing to Metrosvyaz related to potential future sales
+made by Ericsson to Metrosvyaz (Note 3).
+
+NOTE 11--SEGMENT INFORMATION
+
+    The Company is organized on the basis of products and services. Reportable
+segments are as follows: QUALCOMM CDMA Technologies ("QCT") is a leading
+developer and supplier worldwide of CDMA-based wireless communication integrated
+circuits and system software solutions for voice and data communications
+products and services; QUALCOMM Technology Licensing ("QTL") licenses third
+parties to design, manufacture, and sell products incorporating the Company's
+technologies; and QUALCOMM Wireless Systems ("QWS") designs, manufactures,
+markets, and deploys infrastructure and handset products for use in terrestrial
+and non-terrestrial CDMA wireless and satellite networks and provides
+satellite-based two-way data messaging, position reporting equipment and
+services to transportation companies. The Company sold its terrestrial-based
+CDMA wireless consumer phone business, the former operating segment, QUALCOMM
+Consumer Products ("QCP"), to Kyocera in February 2000 (Note 8).
+
+                                       17
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 11--SEGMENT INFORMATION (CONTINUED)
+    The table below presents revenues and earnings before taxes ("EBT") for
+reported segments (in thousands):
+
+<TABLE>
+<CAPTION>
+                                                                          RECONCILING
+                                           QCT        QTL        QWS         ITEMS        TOTAL
+                                         --------   --------   --------   -----------   ----------
+<S>                                      <C>        <C>        <C>        <C>           <C>
+FOR THE THREE MONTHS ENDED:
+JUNE 25, 2000
+Revenues...............................  $338,132   $174,245   $167,184   $   33,960    $  713,521
+EBT....................................   109,573    152,384     65,129      (45,812)      281,274
+
+JUNE 27, 1999
+Revenues...............................  $318,324   $126,019   $228,283   $  331,440    $1,004,066
+EBT....................................   129,496    112,820      7,624     (159,251)       90,689
+
+FOR THE NINE MONTHS ENDED:
+JUNE 25, 2000
+Revenues...............................  $969,713   $519,442   $570,450   $  501,730    $2,561,335
+EBT....................................   327,240    465,397    214,310      (44,155)      962,792
+
+JUNE 27, 1999
+Revenues...............................  $775,050   $306,561   $731,145   $1,064,928    $2,877,684
+EBT....................................   302,426    268,887    (31,451)    (443,157)       96,705
+</TABLE>
+
+    Reconciling items in the above table are comprised as follows (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                                    THREE MONTHS ENDED      NINE MONTHS ENDED
+                                                   --------------------   ----------------------
+                                                   JUNE 25,   JUNE 27,    JUNE 25,     JUNE 27,
+                                                     2000       1999        2000         1999
+                                                   --------   ---------   ---------   ----------
+<S>                                                <C>        <C>         <C>         <C>
+REVENUES:
+Revenues from external customers of QCP segment
+  sold...........................................  $     --   $ 354,174   $ 541,856   $1,048,933
+Elimination of intersegment revenue..............   (22,785)    (99,603)   (164,840)    (265,689)
+Other products...................................    56,745      76,869     124,714      281,684
+                                                   --------   ---------   ---------   ----------
+  Reconciling items..............................  $ 33,960   $ 331,440   $ 501,730   $1,064,928
+                                                   ========   =========   =========   ==========
+EARNINGS BEFORE INCOME TAXES
+Unallocated corporate expenses...................  $(67,194)  $(123,251)  $(250,514)  $ (281,065)
+EBT of QCP segment sold..........................        --       5,481     (80,222)     (25,294)
+Unallocated investment income (expense), net.....    32,221       5,456     357,829       12,631
+Distributions on Trust Convertible Preferred
+  Securities of subsidiary trust.................        --      (9,694)    (13,039)     (29,397)
+Intracompany profit..............................   (17,076)    (26,392)    (59,529)     (92,214)
+Other............................................     6,237     (10,851)      1,320      (27,818)
+                                                   --------   ---------   ---------   ----------
+  Reconciling items..............................  $(45,812)  $(159,251)  $ (44,155)  $ (443,157)
+                                                   ========   =========   =========   ==========
+</TABLE>
+
+                                       18
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 11--SEGMENT INFORMATION (CONTINUED)
+
+    Unallocated corporate expenses for the three months ended June 25, 2000
+include $64 million for amortization of goodwill and other acquisition-related
+intangible assets. Unallocated corporate expenses for the nine months ended
+June 25, 2000 include $83 million in charges related to the sale of the
+terrestrial-based CDMA wireless consumer products business, $60 million for
+in-process technology related to the SnapTrack acquisition, and $84 million for
+amortization of goodwill and other acquisition-related intangible assets.
+Unallocated corporate expenses for the three months and nine months ended
+June 27, 1999 include $163 million and $280 million, respectively, related to
+the sale of certain assets of the Company's terrestrial CDMA wireless
+infrastructure business and restructuring charges.
+
+    Revenues from external customers and intersegment revenues are as follows
+(in thousands):
+
+<TABLE>
+<CAPTION>
+                                                  QCT        QTL        QWS
+                                                --------   --------   --------
+<S>                                             <C>        <C>        <C>
+FOR THE THREE MONTHS ENDED:
+
+JUNE 25, 2000
+
+Revenues from external customers..............  $330,793   $159,443   $166,540
+
+Intersegment revenues.........................     7,339     14,802        644
+
+JUNE 27, 1999
+
+Revenues from external customers..............  $247,721   $ 97,104   $228,198
+
+Intersegment revenues.........................    70,603     28,915         85
+
+FOR THE NINE MONTHS ENDED:
+
+JUNE 25, 2000
+
+Revenues from external customers..............  $874,562   $453,879   $566,324
+
+Intersegment revenues.........................    95,151     65,563      4,126
+
+JUNE 27, 1999
+
+Revenues from external customers..............  $598,490   $228,064   $720,513
+
+Intersegment revenues.........................   176,560     78,497     10,632
+</TABLE>
+
+    Segment assets were presented in the Company's 1999 Annual Report on
+Form 10-K. QWS segment assets increased to $1.078 billion at June 25, 2000 from
+$868 million at September 26, 1999, principally as a result of the financing of
+Globalstar contract payments (Note 6) and financing under the agreement with
+Ericsson (Note 8).
+
+NOTE 12--SUBSEQUENT EVENTS
+
+    On June 30, 2000, Globalstar defaulted on a $250 million bank facility that
+QUALCOMM partially guaranteed in 1996 (Note 10). As a result of this default,
+QUALCOMM's guaranty was called, and QUALCOMM paid $22 million to the subject
+banks. Pursuant to an agreement entered into in April 1996, with respect to the
+original provision of this guaranty, Globalstar has the right, under certain
+conditions, to cause QUALCOMM to accept, in satisfaction of QUALCOMM's
+subrogation rights, a subordinated promissory note issued by Globalstar with a
+principal amount equal to the
+
+                                       19
+<PAGE>
+                             QUALCOMM INCORPORATED
+
+        NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
+
+                                  (UNAUDITED)
+
+NOTE 12--SUBSEQUENT EVENTS (CONTINUED)
+amount QUALCOMM paid under its guaranty (the "Globalstar Promissory Note").
+Globalstar has elected to exercise this right. The Globalstar Promissory Note
+bears interest at LIBOR plus 3%, and principal and interest are due and payable
+in full on June 30, 2003.
+
+    On July 25, 2000, QUALCOMM announced that it will spin-off a business
+consisting primarily of its integrated circuit and system software solutions
+business. In connection with this announcement, QUALCOMM has filed a Current
+Report on Form 8-K.
+
+                                       20
+<PAGE>
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+         OF OPERATIONS
+
+    This information should be read in conjunction with the condensed
+consolidated financial statements and the notes thereto included in Item 1 of
+Part I of this Quarterly Report and the audited consolidated financial
+statements and notes thereto and Management's Discussion and Analysis of
+Financial Condition and Results of Operations for the year ended September 26,
+1999 contained in the Company's 1999 Annual Report on Form 10-K.
+
+    Except for the historical information contained herein, the following
+discussion contains forward-looking statements that involve risks and
+uncertainties. QUALCOMM's future results could differ materially from those
+discussed here. Factors that could cause or contribute to such differences
+include, but are not specifically limited to: the ability to develop and
+introduce cost effective new products in a timely manner; risk that the rate of
+growth in the Code Division Multiple Access ("CDMA") subscriber base will
+decrease; risks associated with the scale-up, acceptance and operations of CDMA
+systems, including high data rate, or 1xEV ("1xEV"), technology; risks
+associated with component shortages; risks associated with strategic
+opportunities or acquisitions, divestitures and investments the Company may
+pursue; risks related to the ability to sustain or improve operational
+efficiency and profitability; risks relating to the success of the Globalstar
+business; developments in current or future litigation; the Company's ability to
+effectively manage growth and the intense competition in the wireless
+communications industry; risks associated with the timing and receipt of license
+fees and royalties; risk associated with international business activities; and
+risks related to accounts receivable and finance receivables, as well as the
+other risks detailed in this section, "Liquidity and Capital Resources," and in
+the Company's 1999 Annual Report on Form 10-K. The Company's consolidated
+financial data includes QPE and certain other consolidated subsidiaries of the
+Company.
+
+OVERVIEW
+
+    QUALCOMM is a leading developer and supplier worldwide of CDMA-based
+wireless communication integrated circuits and system software solutions for
+voice and data communications products and services. QUALCOMM's CDMA-based
+products include system software and baseband, radio frequency, intermediate
+frequency, and power amplification integrated circuit products for wireless
+handset manufacturers. For wireless infrastructure manufacturers, QUALCOMM
+offers base-band integrated circuit products and system software solutions which
+provide wireless-standards compliant processing of voice and data signals to and
+from wireless handsets.
+
+    The Company licenses and receives royalty payments on its CDMA technology
+from major domestic and international telecommunications equipment suppliers. In
+addition, the Company designs, manufactures and distributes products and
+provides services for its OmniTRACS system. The Company also has contracts with
+Globalstar to design, develop and manufacture subscriber products and ground
+communications systems utilizing CDMA technology and to provide contract
+development services. The Company also recently announced a new business model
+for the Company's Eudora e-mail software product. The Company provides the
+Eudora e-mail software to users for free and generate revenues from sponsor
+advertising within the program.
+
+    The Company is increasing its strategic investment activities to promote the
+worldwide adoption of CDMA products and the growth of CDMA-based wireless data
+and CDMA-based wireless Internet products and solutions. The Company generally
+enters into strategic transactions with start-up companies that have developed
+or are developing innovative technologies for the wireless industry, other
+companies that enter into similar transactions with start-up companies and CDMA
+carrier companies.
+
+    The Company's CDMA technology has been adopted as an industry standard for
+digital cellular, Personal Communications Services and other wireless services.
+Wireless networks based on the
+
+                                       21
+<PAGE>
+Company's current implementation of CDMA technology, referred to as cdmaOne,
+have been commercially deployed or are under development in more than 35
+countries around the world, with 27 countries already in commercial deployments.
+In May 2000, the CDMA Development Group reported that CDMA carriers now have
+over 57 million commercial subscribers worldwide as of March 2000, a growth of
+101% in one year.
+
+    QUALCOMM continues to invest in research and development projects focused on
+improving current CDMA applications and products, developing and commercializing
+next generation CDMA technology and products, compatible with multiple wireless
+technologies (multi-mode products) to enable world-wide roaming and are in the
+process of developing and commercializing third generation wireless
+communication technology to handle the increase in mobile Internet usage and
+wireless multimedia applications. The Company believes 1xEV will provide a high
+speed, cost-effective, fixed and mobile alternative for Internet access,
+competing with digital subscriber loop, cable, and satellite networks. 1xEV is
+designed to enable existing wireless operators and future CDMA third-generation
+service providers to obtain higher capacities and superior performance by
+optimizing voice and data spectrum separately, while serving both applications
+from the same base station.
+
+    In June 2000, QUALCOMM announced an agreement with Technicolor Digital
+Cinema, Inc. ("Technicolor") to form a joint venture, Technicolor Digital
+Cinema, LLC, which will work with the motion picture industry as a technology
+enabler and service provider while supporting open standards for the digital
+delivery of movies and the existing studio-to-theater business model. Both
+Technicolor and QUALCOMM will take an active role in the initial management of
+the entity's day-to-day operations. Technicolor will maintain a majority
+ownership of the entity.
+
+    QUALCOMM continues to provide services and sell products under a number of
+development and manufacturing contracts involving the Globalstar System.
+QUALCOMM's development agreement provides for the design and development of the
+ground communications stations, known as gateways, and user terminals of the
+Globalstar System. Since telephone systems using low-Earth-orbit satellites are
+a new commercial technology, demand for Globalstar's service is uncertain. If
+Globalstar fails to generate sufficient cash flow from operations through the
+marketing efforts of its service providers, it might be unable to fund its
+operating costs or service its debt. On June 30, 2000, Globalstar defaulted on a
+$250 million bank facility that QUALCOMM partially guaranteed in 1996. See
+"Notes to Condensed Consolidated Financial Statements--Note 12--Subsequent
+Events."
+
+    At June 25, 2000, the Company had approximately $608 million in net asset
+exposure related to its business with Globalstar, including receivables,
+inventory, unearned revenues, investment-related assets and the $22 million
+guarantee. The value of QUALCOMM's investment in and future business with
+Globalstar, as well as QUALCOMM's ability to collect outstanding receivables
+from Globalstar, depends on the success of Globalstar and the Globalstar System.
+See "Notes to Condensed Consolidated Financial Statements--Note 6--Investments
+in Other Entities."
+
+    In June 2000, the Federal Communications Commission ("FCC") awarded a
+$125 million "Auction Discount Voucher" ("ADV") to QUALCOMM to use in any FCC
+spectrum auction, for one or more licenses over a period of up to three years.
+Fully transferable, the ADV may be used in whole or in part by any entity in any
+auction, including those in which QUALCOMM is not a participant. The FCC award
+is in response to a July 1999 U.S. Court of Appeals decision in which the FCC
+was ordered to designate QUALCOMM a "pioneer" under the Commission's Pioneer's
+Preference program, and grant QUALCOMM spectrum forthwith. The FCC awarded the
+ADV to QUALCOMM in lieu of granting spectrum. Two preliminary auctions, one in
+the 700 MHz band and one for licenses reclaimed from former C-block license
+holders, have been scheduled by the FCC over the next several months. The
+Company is currently exploring opportunities to participate in these auctions on
+its own or through a partnership or consortium with other parties or to sell the
+ADV to a third party. The Company will not recognize the value of the ADV until
+it is utilized or sold.
+
+                                       22
+<PAGE>
+THIRD QUARTER OF FISCAL 2000 COMPARED TO THIRD QUARTER OF FISCAL 1999
+
+    Total revenues for the third quarter of fiscal 2000 were $714 million
+compared to $1.004 billion for the third quarter of fiscal 1999. The decrease in
+revenue for the third quarter of fiscal 2000 was primarily due to a decrease in
+the terrestrial CDMA wireless consumer product revenue as a result of the sale
+of the business in February 2000, a decrease in the wireless infrastructure
+product revenue related to the sale of this business in May 1999, and a decrease
+in average selling prices of integrated circuits, offset by increases in royalty
+revenues and CDMA integrated circuits shipments. Based on recent feedback from
+South Korean customers and operators, the Company may experience lower
+integrated circuits shipments and royalty revenue in the fourth quarter of
+fiscal 2000 due to an anticipated decrease in domestic South Korean phone sales
+related to the elimination of phone subsidies.
+
+    Cost of revenues for the third quarter of fiscal 2000 was $275 million
+compared to $598 million for the third quarter of fiscal 1999. The dollar
+decrease was primarily due to a decrease in the terrestrial CDMA wireless
+consumer product costs as a result of the sale of the business in
+February 2000, a decrease in the terrestrial CDMA wireless infrastructure
+product costs related to the sale of this business in May 1999, and a reduction
+in the unit cost of integrated circuits, offset by an increase in CDMA
+integrated circuits unit volume. Cost of revenues decreased as a percentage of
+revenues to 39% in the third quarter of fiscal 2000 from 60% in the third
+quarter of fiscal 1999. This is primarily due to higher revenues from high
+margin integrated circuits and software, royalties, OmniTRACS unit sales and
+messaging services, offset by lower revenues from lower gross margin terrestrial
+CDMA wireless phones and infrastructure.
+
+    For the third quarter of fiscal 2000, research and development expenses were
+$81 million or 11% of revenues, compared to $94 million or 9% of revenues for
+the third quarter of fiscal 1999. The dollar decrease was due to a decrease in
+terrestrial CDMA consumer product research and development as a result of the
+sale of this business in February 2000 and a decrease in terrestrial CDMA
+wireless infrastructure product research and development related to the sale of
+this business in May 1999, offset by increased integrated circuits product
+initiatives and software development efforts and new 1xEV products.
+
+    For the third quarter of fiscal 2000, selling, general and administrative
+expenses were $77 million or 11% of revenues, compared to $105 million or 10% of
+revenues for the third quarter of fiscal 1999. The dollar decrease from the
+third quarter of fiscal 1999 was due to a decrease in marketing costs in
+terrestrial CDMA wireless consumer products as a result of the sale of the
+business in February 2000, and a decrease in selling, general and administrative
+expenses for terrestrial CDMA wireless infrastructure products as a result of
+the sale of this business in May 1999, partially offset by continued growth in
+personnel and associated overhead expenses necessary to support growth in other
+business operations, and increased patent, litigation and employer payroll tax
+on employee non-qualified stock option exercises expenses.
+
+    Amortization of goodwill and other acquisition-related intangible assets
+increased to $64 million for the third quarter of fiscal 2000 compared to
+$0.1 million for the third quarter of fiscal 1999, primarily due to the
+acquisition of SnapTrack. See "Notes to Condensed Consolidated Financial
+Statements--Note 2--Acquisitions."
+
+    For the third quarter of fiscal 2000, there were no other operating
+expenses. During the third quarter of fiscal 1999, the Company recorded a
+$6 million charge to reflect the difference between the carrying value of the
+net assets sold to Ericsson and the net consideration received, a $22 million
+charge to reduce the carrying value of certain other assets related to its
+terrestrial CDMA wireless infrastructure business, and $74 million in
+compensation benefits provided to employees transferred to Ericsson. See "Notes
+to Condensed Consolidated Financial Statements--Note 8--Disposition of Assets
+and Other Charges."
+
+                                       23
+<PAGE>
+    Net investment income was $64 million in the third quarter of fiscal 2000
+compared to a $5 million expense, net for the third quarter of fiscal 1999. The
+increase was primarily due to interest earned on higher cash balances, interest
+earned on Globalstar and other finance receivables and changes in the estimate
+of amounts collectible under certain finance receivables as a result of a letter
+of credit provided to backstop those receivables. See "Notes to Condensed
+Consolidated Financial Statements--Note 6--Investments in Other Entities."
+
+    For the third quarter of fiscal 2000, there were no distributions on Trust
+Convertible Preferred Securities expenses, compared to $10 million for the third
+quarter of fiscal 1999, as a result of conversions of the 5 3/4% Trust
+Convertible Preferred Securities into common stock. During the second quarter of
+fiscal 2000, all remaining Trust Convertible Preferred Securities were converted
+into common stock. See "Liquidity and Capital Resources."
+
+    Income tax expense was $127 million for the third quarter of fiscal 2000
+compared to $32 million for the third quarter of fiscal 1999. The annual
+effective tax rate is currently estimated to be 45% for fiscal 2000, compared to
+35% for fiscal 1999. The higher tax rate is primarily a result of higher pretax
+earnings, non-deductible charges for purchased in-process technology and
+amortization of goodwill.
+
+FIRST NINE MONTHS OF FISCAL 2000 COMPARED TO FIRST NINE MONTHS OF FISCAL 1999
+
+    Total revenues for the first nine months of fiscal 2000 were $2.561 billion
+compared to $2.878 billion for the first nine months of fiscal 1999. The
+decrease in revenue for the first nine months of fiscal 2000 was primarily due
+to a decrease in the terrestrial CDMA consumer product revenue as a result of
+the sale of the business in February 2000, a decrease in the terrestrial CDMA
+wireless infrastructure product revenue related to the sale of this business in
+May 1999 and a decrease in average selling prices of integrated circuits, offset
+by significant increases in royalty revenues and in sales of CDMA integrated
+circuits. Revenue from one South Korean customer, Samsung Electronics Company,
+by the QCT and QTL segments comprised 11% of total revenues in the first nine
+months of fiscal 2000.
+
+    Cost of revenues for the first nine months of fiscal 2000 was
+$1.274 billion compared to $1.864 billion for the first nine months of fiscal
+1999. The dollar decrease was primarily due to a decrease in the terrestrial
+CDMA wireless consumer phone product costs as a result of the sale of the
+business in February 2000, a decrease in the terrestrial CDMA wireless
+infrastructure product costs related to the sale of this business in May 1999,
+and a reduction in the unit cost of integrated circuits, offset by an increase
+in CDMA integrated circuits unit volume. Cost of revenues decreased as a
+percentage of revenues to 50% in the first nine months of fiscal 2000 from 65%
+in the first nine months of fiscal 1999. This is primarily due to higher
+revenues from high margin integrated circuits and software, royalties, offset by
+lower revenues from lower gross margin terrestrial CDMA phones and
+infrastructure.
+
+    For the first nine months of fiscal 2000, research and development expenses
+were $254 million or 10% of revenues, compared to $297 million or 10% of
+revenues for the first nine months of fiscal 1999. The dollar decrease was due
+to a decrease in terrestrial CDMA wireless infrastructure product research and
+development as a result of the sale of this business in May 1999, offset by
+increased integrated circuits product initiatives and software development
+efforts and new 1xEV products.
+
+    For the first nine months of fiscal 2000, selling, general and
+administrative expenses were $276 million or 11% of revenues, compared to
+$330 million or 11% of revenues for the first nine months of fiscal 1999. The
+dollar decrease from the first nine months of fiscal 1999 was due to a decrease
+in marketing costs in terrestrial CDMA wireless consumer phone products as a
+result of the sale of the business in February 2000 and a decrease in selling,
+general and administrative expenses for terrestrial CDMA wireless infrastructure
+products as a result of the sale of this business in May 1999, partially offset
+by continued growth in personnel and associated overhead expenses necessary to
+
+                                       24
+<PAGE>
+support other growing business operations and increased patent, litigation,
+employer payroll tax on employee non-qualified stock option exercises and
+investor relations expenses.
+
+    Amortization of goodwill and other acquisition-related intangible assets
+increased to $84 million for the first nine months of fiscal 2000 compared to
+$1 million for the first nine months of fiscal 1999, primarily due to the
+acquisition of SnapTrack. See "Notes to Condensed Consolidated Financial
+Statements--Note 2--Acquisitions."
+
+    Purchased in-process technology of $60 million in the first nine months of
+fiscal 2000 resulted from the acquisition of SnapTrack. See "Notes to Condensed
+Consolidated Financial Statements--Note 2--Acquisitions."
+
+    For the first nine months of fiscal 2000, other operating expenses were
+$64 million, compared to $205 million in the first nine months of fiscal 1999.
+Other operating expenses during the first nine months of fiscal 2000 were
+comprised primarily of charges to reflect the estimated difference between the
+carrying value of the net assets and the consideration to be received from
+Kyocera, less costs to sell, and employee termination costs. During the first
+nine months of fiscal 1999, the Company recorded $66 million in charges to
+reflect the difference between the carrying value of the net assets to be sold
+to Ericsson and the net consideration received and various license and
+settlement agreements in connection therewith, $43 million in charges to reduce
+the carrying value of certain other assets related to its terrestrial CDMA
+wireless infrastructure business, $15 million in restructuring charges and
+$74 million in compensation benefits provided to employees transferred to
+Ericsson. See "Notes to Condensed Consolidated Financial
+Statements--Note 8--Disposition of Assets and Other Charges."
+
+    Interest expense was $4 million for the first nine months of fiscal 2000,
+compared to $11 million for the first nine months of fiscal 1999. The decrease
+was due to decreased bank borrowings by QPE and the subsequent payoff and
+cancellation of the QPE bank lines of credit in February 2000.
+
+    Net investment income was $434 million in the first nine months of fiscal
+2000 compared to $9 million for the first nine months of fiscal 1999. The
+increase was primarily due to a $270 million realized gain on the sale of
+marketable securities, interest earned on higher cash balances, interest earned
+on Globalstar and other finance receivables, changes in the estimate of amounts
+collectible under the Globalstar contracts and changes in the estimate of
+amounts collectible under certain finance receivables as a result of a letter of
+credit provided to backstop those receivables. See "Notes to Condensed
+Consolidated Financial Statements--Note 6--Investment in Other Entities."
+
+    Distributions on Trust Convertible Preferred Securities decreased to
+$13 million for the first nine months of fiscal 2000 compared to $29 million for
+the first nine months of fiscal 1999 as a result of conversions of the 5 3/4%
+Trust Convertible Preferred Securities outstanding into common stock. During the
+second quarter of fiscal 2000, all remaining Trust Convertible Preferred
+Securities were converted into common stock. See "Liquidity and Capital
+Resources."
+
+    During the first nine months of fiscal 2000, the Company recorded
+$3 million in net non-operating other charges, including $6 million in charges
+relating to amounts advanced to Metrosvyaz (see "Notes to Condensed Consolidated
+Financial Statements--Note 10--Commitments and Contingencies"), offset by a
+$3 million release of non-operating reserves due to a settlement. During the
+first nine months of fiscal 1999, the Company recorded $53 million in
+non-operating charges, including $37 million related to the Ericsson transaction
+and $15 million related to the write-off of non-operating assets.
+
+    Income tax expense was $431 million for the first nine months of 2000
+compared to $32 million for the first nine months of 1999. The Company's income
+tax provisions for the first nine months of fiscal 2000 and 1999 reflect
+adjustments for the retroactive reinstatements of the R&D tax credit.
+
+                                       25
+<PAGE>
+QUALCOMM SEGMENT RESULTS FOR THE THIRD QUARTER OF FISCAL 2000 COMPARED TO THIRD
+QUARTER OF FISCAL 1999
+
+    The following should be read in conjunction with the third quarter financial
+results of fiscal 2000 for each reporting segment. See "Notes to Condensed
+Consolidated Financial Statements--Note 11--Segment Information."
+
+CDMA TECHNOLOGIES SEGMENT ("QCT")
+
+    The QCT segment is a leading developer and supplier worldwide of CDMA-based
+wireless communication integrated circuits and system and applications software
+solutions for voice and data communications products and services. QCT's
+CDMA-based products include system software and base-band, radio frequency,
+intermediate frequency, and power amplification integrated circuit products for
+wireless handset manufacturers. For wireless infrastructure manufacturers, QCT
+offers base-band integrated circuit products and system software solutions which
+provide wireless-standards compliant processing of voice and data signals to and
+from wireless handsets. QCT provides reference designs and system design tools
+that enable manufactures to customize their product features and user interface,
+integrate CDMA-based solutions with other components incorporated into their
+product and test inter-operability with existing and planned standardized CDMA
+networks.
+
+    QCT segment revenues for the third quarter of fiscal 2000 were $338 million
+compared to $318 million for the third quarter of fiscal 1999. Earnings before
+taxes for the third quarter of fiscal 2000 were $110 million compared to
+$129 million for the third quarter of fiscal 1999. Revenue growth was primarily
+due to increased customer demand for CDMA chipsets in the United States, Korea,
+and Japan, offset by a decrease in average selling prices of integrated
+circuits. The decrease in earnings before taxes was due to increased research
+and development related to integrated circuit product initiatives, including new
+1xEV products, and software development efforts. Approximately 15 million MSM
+integrated circuits were sold during the third quarter of fiscal 2000, compared
+to 11 million in the third quarter of fiscal 1999. As previously announced,
+based on recent feedback from South Korean customers and operators, the Company
+may experience lower integrated circuit shipments in the fourth quarter of
+fiscal 2000 due to an anticipated decrease in domestic South Korean phone sales
+related to the elimination of phone subsidies. The Company expects cell site
+modem ("CSM") infrastructure chip shipments to decline in the fourth quarter of
+fiscal 2000 compared to the third quarter of fiscal 2000; CSM chip shipment
+volumes are inconsistent, and third quarter shipments were high.
+
+TECHNOLOGY LICENSING SEGMENT ("QTL")
+
+    QTL licenses third parties to design, manufacture and sell products
+incorporating the Company's technologies.
+
+    QTL segment revenues for the third quarter of fiscal 2000 were $174 million
+compared to $126 million for the third quarter of fiscal 1999. Earnings before
+taxes for the third quarter of fiscal 2000 were $152 million compared to
+$113 million for the third quarter of fiscal 1999. Growth in revenue and
+earnings before taxes was primarily due to additional license fees and royalties
+received from licensees resulting from an increase in worldwide demand for CDMA
+products. Based on the anticipated decrease in domestic South Korean phone sales
+related to the elimination of phone subsidies, the Company may experience lower
+royalty revenue in the fourth quarter of fiscal 2000.
+
+WIRELESS SYSTEMS SEGMENT ("QWS")
+
+    QWS designs, manufactures, markets and deploys infrastructure and handset
+products for use in terrestrial and non-terrestrial CDMA wireless and satellite
+networks and provides satellite-based two-way data messaging, position reporting
+equipment, and services to transportation companies.
+
+                                       26
+<PAGE>
+    QWS segment revenues for the third quarter of fiscal 2000 were $167 million
+compared to $228 million for the third quarter of fiscal 1999. Earnings before
+taxes for the third quarter of fiscal 2000 were $65 million compared to
+$8 million for the third quarter of fiscal 1999. Revenues decreased due to the
+sale of certain assets of the Company's terrestrial CDMA wireless infrastructure
+business in May 1999 to Ericsson and the completion of the production and sale
+of Globalstar gateways, offset by increased OmniTRACS domestic and international
+unit demand and messaging revenue due to an increase in the customer base and
+increased Globalstar phone sales. The Company shipped approximately 14,000
+OmniTRACS and other related communication systems during the third quarter of
+fiscal 2000, compared to approximately 12,000 in the third quarter of fiscal
+1999. The Company shipped approximately 31,000 Globalstar phones in the third
+quarter of fiscal 2000, for a cumulative total of over 71,000 Globalstar phone
+shipments since production began in September 1999.
+
+    Earnings before taxes increased due to the sale of certain assets related to
+the Company's terrestrial CDMA wireless infrastructure business in May 1999 to
+Ericsson and an increase in interest income and fees on finance receivables.
+(See "Notes to Condensed Consolidated Financial Statements--Note 6--Investments
+in Other Entities.") During the first nine months of fiscal 2000, the Company
+recognized previously unamortized loan fees in connection with the pay off and
+cancellation of certain credit facilities, including the Leap facility. See
+"Notes to Condensed Consolidated Financial Statements--Note 4--Investments."
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    The Company anticipates that its cash and cash equivalents and marketable
+securities balances of $2.268 billion at June 25, 2000, including interest
+earned thereon, will be used to fund its working and other capital requirements,
+including investments in other companies and other assets to support the growth
+of its business, financing for customers of CDMA infrastructure products in
+accordance with the agreement with Ericsson, and other commitments. In the event
+additional needs for cash arise, the Company may raise additional funds from a
+combination of sources including potential debt and equity issuance.
+
+    On July 25, 2000, QUALCOMM announced that it will spin-off a business
+consisting primarily of its integrated circuit and system software solutions
+business.
+
+    The Company has an unsecured credit facility under which banks are committed
+to make up to $400 million in revolving loans to the Company. The facility
+expires in March 2001 and may be extended on an annual basis upon maturity. The
+Company is currently obligated to pay commitment fees equal to 0.175% per annum
+on the unused amount of the facility. The facility includes certain restrictive
+financial and operating covenants. At June 25, 2000, there were no amounts or
+letters of credit issued or outstanding under the facility.
+
+    In the first nine months of fiscal 2000, $575 million in cash was provided
+by operating activities, compared to $168 million in cash provided by operating
+activities in the first nine months of fiscal 1999. Cash provided by operating
+activities in the first nine months of fiscal 2000 includes $987 million of net
+cash flow provided by operations offset by $412 million of net working capital
+requirements. The improved cash flow from operations primarily reflects the
+increase in net income resulting from improved gross margins and investment
+income. Net working capital requirements of $412 million primarily reflect
+increases in finance receivables and a decrease in accounts payable and accrued
+liabilities, offset by a decrease in accounts receivable. The increase in
+finance receivables in the first nine months of fiscal 2000 resulted from the
+financing of contract payments under the development agreement with Globalstar
+and customers of CDMA infrastructure products in accordance with the agreement
+with Ericsson, and the decrease in accounts payable and accrued liabilities and
+accounts receivable is primarily attributed to the sale of the terrestrial-based
+CDMA wireless consumer products business.
+
+                                       27
+<PAGE>
+    In the first nine months of fiscal 2000, $521 million in cash was used by
+the Company in investing activities, including $248 million for business
+acquisitions and investments in entities in which the Company holds less than a
+50% interest, the issuance of $202 million in notes receivable, $408 million in
+net purchases of marketable securities and $144 million in capital expenditures,
+offset by $247 million in proceeds from the sale of the terrestrial CDMA
+wireless consumer products business. The Company is increasing its strategic
+investment activities to promote the worldwide adoption of CDMA technology
+products and the growth of CDMA-based wireless data and CDMA-based wireless
+Internet products and solutions. The Company generally invests in start-up
+companies that have developed or are developing innovative technologies for the
+wireless industry, venture firms that invest in similar start-up companies and
+CDMA carrier companies. The Company expects to continue making significant
+investments in other entities.
+
+    In the first nine months of fiscal 2000, the Company's financing activities
+used $6 million, including $112 million in net repayments under bank lines of
+credit, offset by $109 million from the issuance of common stock under the
+Company's stock option and employee stock purchase plans. In the first nine
+months of fiscal 1999, the Company's financing activities provided net cash of
+$127 million.
+
+    Information regarding the Company's financial commitments at March 26, 2000
+is provided in the Notes to the Condensed Consolidated Financial Statements. See
+"Notes to Condensed Consolidated Financial Statements--Note 3--Composition of
+Certain Balance Sheet Captions, Note 6--Investments in Other Entities, and
+Note 10--Commitments and Contingencies."
+
+YEAR 2000
+
+    The Company has completed its Year 2000 ("Y2K") Project ("Project") as
+scheduled, including addressing leap year calendar date calculation concerns.
+The possibility of significant interruptions of normal operations has been
+reduced. As of July 24, 2000, the Company's products, computing, and
+communications infrastructure systems have operated without Y2K related problems
+and appear to be Y2K ready. The Company is not aware that any of its major
+customers or third-party suppliers have experienced significant Y2K related
+problems.
+
+    The Company believes all its critical systems are Y2K ready. However, there
+is no guarantee that the Company has discovered all possible failure points.
+Specific factors contributing to this uncertainty include failure to identify
+all systems, non-ready third parties whose systems and operations impact the
+Company, and other similar uncertainties.
+
+    Contingency plans are complete and will be implemented if required. Should a
+significant problem occur, the Company would revert to standard manual
+contingency procedures to continue operation until the problem is corrected.
+
+    To date, the Company has spent an estimated $20 million on this Project. The
+funding for this Project comes from operations and working capital. The Company
+estimates the allocable time of employees using average hourly rates for each
+class of employee. None of the Company's other mission-critical information
+projects have been delayed due to the implementation of the Y2K Project.
+
+    As a result of the Y2K Project, the Company identified and corrected several
+system issues. In addition, the Company received other benefits from the Y2K
+Project, including acceleration of the development of alternative sourcing for
+our supply base risk mitigation plans which are valid and beneficial to long
+term supply assurance, refinement of the Company's Disaster Recovery Plan,
+improvement of diagnostic procedures for core information technology services
+and asset management, and establishment of a more consistent computer desktop
+environment which should ultimately reduce support costs.
+
+                                       28
+<PAGE>
+FUTURE ACCOUNTING REQUIREMENTS
+
+    In June 1998, the FASB issued Statement of Financial Accounting Standards
+No. 133 ("FAS 133"), "Accounting for Derivative Instruments and Hedging
+Activities." In May 1999, the FASB delayed the effective date of FAS 133 by one
+year. The Company will be required to adopt FAS 133 for fiscal year 2001. This
+statement establishes a new model for accounting for derivatives and hedging
+activities. Under FAS 133, all derivatives must be recognized as assets and
+liabilities and measured at fair value. The Company has not completed its
+determination of the impact of the adoption of this new accounting standard on
+its consolidated financial position or results of operations.
+
+    In December 1999, the Securities and Exchange Commission ("SEC") issued
+Staff Accounting Bulletin No. 101 ("SAB 101"), "Revenue Recognition in Financial
+Statements." In June 2000, the SEC staff amended SAB 101 to provide registrants
+with additional time to implement SAB 101. The Company will be required to adopt
+SAB 101 by the fourth quarter of fiscal 2001. The Company has not completed its
+determination of the impact of the adoption of SAB 101 on its consolidated
+financial position or results of operation.
+
+    In March 2000, the FASB issued FASB Interpretation No. 44 ("FIN 44"),
+"Accounting for Certain Transactions Involving Stock Compensation." The Company
+will be required to adopt FIN 44 effective July 1, 2000 with respect to certain
+provisions applicable to new awards, exchanges of awards in a business
+combination, modifications to outstanding awards, and changes in grantee status
+that occur on or after that date. FIN 44 addresses practice issues related to
+the application of Accounting Practice Bulletin Opinion No. 25, "Accounting for
+Stock Issued to Employees." The Company does not expect the application of FIN
+44 to have a material impact on its consolidated financial position or results
+of operations.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+    Financial market risks related to interest rates, foreign currency exchange
+rates and equity price risks on investments held by the Company are described in
+the Company's 1999 Annual Report on Form 10-K. The recorded value of
+available-for-sale securities increased from $190 million at September 26, 1999
+to $633 million at June 25, 2000. The available-for-sale securities subject the
+Company to equity price risk. At June 25, 2000, there have been no other
+material changes to the market risks described at September 26, 1999.
+Additionally, the Company does not anticipate any near-term changes in the
+nature of its market risk exposures or in management's objectives and strategies
+with respect to managing such exposures.
+
+                                       29
+<PAGE>
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+    A review of the Company's current litigation is disclosed in the Notes to
+Condensed Consolidated Financial Statements. See "Notes to Condensed
+Consolidated Financial Statements--Note 10--Commitments and Contingencies." The
+Company is also engaged in other legal actions arising in the ordinary course of
+its business and believes that the ultimate outcome of these actions will not
+have a material adverse effect on its results of operations, liquidity or
+financial position.
+
+ITEM 2. CHANGES IN SECURITIES
+
+    Not applicable.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+    Not applicable.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+    Not applicable.
+
+ITEM 5. OTHER INFORMATION
+
+    Not applicable.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+    (a) Exhibits
+
+<TABLE>
+<S>     <C>
+10.30   Credit Agreement dated as of May 5, 2000 between Globalstar,
+        L.P. and the Registrant. (1)
+
+27.0    Financial Data Schedule.
+</TABLE>
+
+    (b) Reports on Form 8-K
+       Report on Form 8-K/A dated April 11, 2000, amending the Form 8-K dated
+       March 15, 2000, containing information relating to the acquisition of
+       SnapTrack, Inc. among QUALCOMM Incorporated, Falcon Acquisition Company,
+       wholly-owned subsidiary of QUALCOMM, and SnapTrack, Inc.
+
+- ------------------------
+
+(1) Incorporated by reference to Exhibit 10.1 to the Form 10-Q for the quarterly
+    period ended March 31, 2000 filed by Globalstar Telecommunications Limited.
+
+                                       30
+<PAGE>
+                                   SIGNATURES
+
+    Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+<TABLE>
+<S>                                            <C>
+                                               QUALCOMM INCORPORATED
+
+                                                          /S/ ANTHONY S. THORNLEY
+                                               ---------------------------------------------
+                                                            Anthony S. Thornley
+                                                 EXECUTIVE VICE PRESIDENT & CHIEF FINANCIAL
+                                                                  OFFICER
+</TABLE>
+
+Dated: July 24, 2000
+
+                                       31
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<FILENAME>ex-27.txt
+<DESCRIPTION>EXHIBIT 27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<PAGE>
+<ARTICLE> 5
+<LEGEND>
+THIS SCHEDULE CONTAINS SUMMARY FINANCIAL INFORMATION EXTRACTED FROM THE
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS CONTAINED IN THE COMPANY'S QUARTERLY
+REPORT ON FORM 10-Q FOR THE FISCAL QUARTER ENDED JUNE 25, 2000 AND IS QUALIFIED
+IN ITS ENTIRETY BY REFERENCE TO SUCH FINANCIAL STATEMENTS.
+</LEGEND>
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   9-MOS
+<FISCAL-YEAR-END>                          SEP-24-2000
+<PERIOD-START>                             SEP-27-1999
+<PERIOD-END>                               JUN-25-2000
+<CASH>                                         712,709
+<SECURITIES>                                   849,882
+<RECEIVABLES>                                  739,190
+<ALLOWANCES>                                    12,374
+<INVENTORY>                                     73,949
+<CURRENT-ASSETS>                             2,616,443
+<PP&E>                                         437,631
+<DEPRECIATION>                                       0
+<TOTAL-ASSETS>                               6,371,595
+<CURRENT-LIABILITIES>                          516,616
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                            74
+<OTHER-SE>                                   5,773,469
+<TOTAL-LIABILITY-AND-EQUITY>                 6,371,595
+<SALES>                                      2,561,335
+<TOTAL-REVENUES>                             2,561,335
+<CGS>                                        1,274,096
+<TOTAL-COSTS>                                1,274,096
+<OTHER-EXPENSES>                                63,589
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                               4,494
+<INCOME-PRETAX>                                962,792
+<INCOME-TAX>                                   431,256
+<INCOME-CONTINUING>                            531,536
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                   531,536
+<EPS-BASIC>                                       0.75<F1>
+<EPS-DILUTED>                                     0.67<F1>
+<FN>
+<F1>ON DECEMBER 30, 1999, THE COMPANY EFFECTED A FOUR-FOR-ONE STOCK DISTRIBUTION TO
+QUALCOMM STOCKHOLDERS OF RECORD ON DECEMBER 20, 1999. FINANCIAL DATA SCHEDULES
+PRIOR TO THE THREE MONTHS ENDED DECEMBER 26, 1999, HAVE NOT BEEN RESTATED FOR
+THE RECAPITALIZATION. IN ADDITION ON MAY 10, 1999, THE COMPANY EFFECTED A
+TWO-FOR-ONE STOCK DISTRIBUTION TO QUALCOMM STOCKHOLDERS OF RECORD ON APRIL 21,
+1999. FINANCIAL DATA SCHEDULES PRIOR TO THE NINE MONTHS ENDED JUNE 27, 1999,
+HAVE NOT BEEN RESTATED FOR SUCH RECAPITALIZATION.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

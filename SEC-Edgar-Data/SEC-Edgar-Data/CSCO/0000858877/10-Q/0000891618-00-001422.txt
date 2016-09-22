@@ -1,0 +1,2046 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LaBR9dJoVn0ugMZRPu7P8dtcvOKxH6zeHe6AwW4QPwhxfTee8WjEkuQ7FfnuGMfR
+ gYzEMn0mi0IQbuuOX4PD4A==
+
+<SEC-DOCUMENT>0000891618-00-001422.txt : 20000315
+<SEC-HEADER>0000891618-00-001422.hdr.sgml : 20000315
+ACCESSION NUMBER:		0000891618-00-001422
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20000129
+FILED AS OF DATE:		20000314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CISCO SYSTEMS INC
+		CENTRAL INDEX KEY:			0000858877
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				770059951
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	000-18225
+		FILM NUMBER:		568449
+
+	BUSINESS ADDRESS:	
+		STREET 1:		170 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134-1706
+		BUSINESS PHONE:		4085264000
+
+	MAIL ADDRESS:	
+		STREET 1:		225 WEST TASMAN DRIVE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134-1706
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>FORM 10-Q FOR THE PERIOD ENDING 1/29/00
+<TEXT>
+
+<PAGE>   1
+
+                                  UNITED STATES
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                              WASHINGTON, DC 20549
+
+
+                                    FORM 10-Q
+
+(Mark one)
+[X]             QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+                 For the quarterly period ended JANUARY 29, 2000
+                                       OR
+[ ]            TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                       THE SECURITIES EXCHANGE ACT OF 1934
+
+        For the transition period from                   to
+                                        ----------------     ---------------
+
+                         Commission file number 0-18225
+
+                               CISCO SYSTEMS, INC.
+             (Exact name of registrant as specified in its charter)
+
+             California                                 77-0059951
+   (State or other jurisdiction of            (I.R.S. Employer Identification
+    incorporation or organization)                        Number)
+
+                              170 West Tasman Drive
+                           San Jose, California 95134
+              (Address of principal executive office and zip code)
+
+                                 (408) 526-4000
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to filing requirements
+for the past 90 days.
+
+                                 YES [X] NO [ ]
+
+As of February 25, 2000, 3,468,815,049 shares of the Registrant's common stock
+were outstanding.
+
+
+
+                                       1
+<PAGE>   2
+
+                               CISCO SYSTEMS, INC.
+
+                FORM 10-Q FOR THE QUARTER ENDED JANUARY 29, 2000
+
+                                      INDEX
+<TABLE>
+<CAPTION>
+                                                                                              Page
+<S>            <C>                                                                            <C>
+
+               Facing sheet                                                                     1
+
+               Index                                                                            2
+
+Part I.        Financial Information
+
+Item 1.        Financial Statements
+
+               a) Consolidated statements of operations for the three and six months            3
+                   ended January 29, 2000  and January 23, 1999
+
+               b) Consolidated balance sheets at January 29, 2000 and                           4
+                   July 31, 1999
+
+               c) Consolidated statements of cash flows for the six  months ended               5
+                   January 29, 2000 and January 23, 1999
+
+               d) Notes to consolidated financial statements                                    6
+
+Item 2.        Management's Discussion and Analysis of Financial                               18
+                   Condition and Results of Operations
+
+Item 3.        Quantitative and Qualitative Disclosures About Market Risk                      38
+
+Part II.       Other Information
+
+Item 2.        Changes in Securities and Use of Proceeds                                       39
+
+Item 6.        Exhibits and Reports on Form 8-K                                                40
+
+               Signature                                                                       41
+</TABLE>
+
+
+
+                                       2
+<PAGE>   3
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1.  FINANCIAL STATEMENTS
+
+                               CISCO SYSTEMS, INC.
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                     (In millions, except per-share amounts)
+
+<TABLE>
+<CAPTION>
+                                            Three Months Ended             Six Months Ended
+                                           ---------------------         ---------------------
+                                         January 29,    January 23,    January 29,     January 23,
+                                            2000           1999           2000            1999
+                                           ------         ------         ------         ------
+                                                (Unaudited)                   (Unaudited)
+<S>                                      <C>            <C>            <C>            <C>
+Net sales                                  $4,350         $2,845         $8,264         $5,443
+Cost of sales                               1,536            988          2,923          1,885
+                                           ------         ------         ------         ------
+    Gross margin                            2,814          1,857          5,341          3,558
+
+Operating expenses:
+    Research and development                  598            372          1,135            711
+    Sales and marketing                       924            576          1,737          1,096
+    General and administrative                143             82            253            159
+    Amortization of goodwill and
+      purchased intangible assets              47             12             71             23
+    Purchased research and
+      development                              43            349            424            390
+                                           ------         ------         ------         ------
+          Total operating expenses          1,755          1,391          3,620          2,379
+                                           ------         ------         ------         ------
+
+Operating income                            1,059            466          1,721          1,179
+
+Interest and other income, net                151             79            253            146
+                                           ------         ------         ------         ------
+
+Income before provision for
+  income taxes                              1,210            545          1,974          1,325
+
+Provision for income taxes                    385            263            729            534
+                                           ------         ------         ------         ------
+
+Net income                                 $  825         $  282         $1,245         $  791
+                                           ======         ======         ======         ======
+
+Net income per share--basic                $  .24         $  .09         $  .37         $  .24
+                                           ======         ======         ======         ======
+Net income per share--diluted              $  .23         $  .08         $  .34         $  .23
+                                           ======         ======         ======         ======
+Shares used in per-share
+  calculation--basic                        3,413          3,274          3,401          3,251
+                                           ======         ======         ======         ======
+Shares used in per-share
+  calculation--diluted                      3,648          3,486          3,629          3,453
+                                           ======         ======         ======         ======
+</TABLE>
+
+
+See notes to consolidated financial statements
+
+
+
+                                       3
+<PAGE>   4
+
+                               CISCO SYSTEMS, INC.
+                           CONSOLIDATED BALANCE SHEETS
+                         (In millions, except par value)
+
+<TABLE>
+<CAPTION>
+                                                              January 29,     July 31,
+                                                                 2000           1999
+                                                               -------         -------
+                                                            (Unaudited)
+                                     ASSETS
+<S>                                                         <C>               <C>
+Current assets:
+   Cash and equivalents                                        $ 3,719         $   886
+   Short-term investments                                          249           1,189
+   Accounts receivable, net of allowance for doubtful
+     accounts of $29 at January 29, 2000 and
+     $27 at July 31, 1999                                        1,711           1,249
+   Inventories, net                                                695             656
+   Deferred tax assets                                             711             571
+   Prepaid expenses and other current assets                       637             170
+                                                               -------         -------
+          Total current assets                                   7,722           4,721
+
+Investments                                                      9,819           7,032
+Restricted investments                                           1,107           1,080
+Property and equipment, net                                      1,004             822
+Other assets, net                                                1,739           1,191
+                                                               -------         -------
+          Total assets                                         $21,391         $14,846
+                                                               =======         =======
+
+                      LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+   Accounts payable                                            $   482         $   372
+   Income taxes payable                                            595             630
+   Accrued payroll and related expenses                            814             679
+   Other accrued liabilities                                     1,887           1,353
+                                                               -------         -------
+          Total current liabilities                              3,778           3,034
+
+Deferred tax liabilities                                         1,045              --
+Minority interest                                                   45              44
+
+Shareholders' equity:
+   Preferred stock, no par value, 5 shares authorized:
+     none issued or outstanding at January 29, 2000
+     and July 31, 1999
+   Common stock and additional paid-in capital,
+     $0.001 par value, 10,000 shares authorized:
+     3,445 shares issued and outstanding at
+     January 29, 2000 and 3,374 at July 31, 1999                 7,691           5,665
+   Retained earnings                                             7,011           5,805
+   Accumulated other comprehensive income                        1,821             298
+                                                               -------         -------
+          Total shareholders' equity                            16,523          11,768
+                                                               -------         -------
+          Total liabilities and shareholders' equity           $21,391         $14,846
+                                                               =======         =======
+</TABLE>
+
+
+
+See notes to consolidated financial statements
+
+
+
+                                       4
+<PAGE>   5
+
+                               CISCO SYSTEMS, INC.
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                  (In millions)
+
+<TABLE>
+<CAPTION>
+                                                                              Six Months Ended
+                                                                           ------------------------
+                                                                          January 29,     January 23,
+                                                                            2000             1999
+                                                                           -------          -------
+                                                                                  (Unaudited)
+<S>                                                                       <C>             <C>
+  Cash flows from operating activities:
+  Net income                                                               $ 1,245          $   791
+  Adjustments to reconcile net income to net cash provided by
+  operating activities:
+     Depreciation and amortization                                             308              229
+     Deferred income taxes                                                    (106)            (107)
+     Tax benefits from employee stock plans                                    697              398
+     Adjustments to conform fiscal year end of pooled acquisitions             (18)               1
+     Purchased research and development from acquisitions                      424              298
+     Change in operating assets and liabilities:
+        Accounts receivable                                                   (461)            (175)
+        Inventories                                                            (38)            (114)
+        Prepaid expenses and other current assets                              (43)             (68)
+        Income taxes payable                                                   (35)              50
+        Accounts payable                                                        91               96
+        Accrued payroll and related expenses                                   132              119
+        Other accrued liabilities                                              519              172
+                                                                           -------          -------
+        Net cash provided by operating activities                            2,715            1,690
+                                                                           -------          -------
+
+  Cash flows from investing activities:
+     Purchases of short-term investments                                      (417)            (309)
+     Proceeds from sales and maturities of short-term
+       investments                                                           1,227              890
+     Purchases of investments                                               (5,988)          (1,895)
+     Proceeds from sales and maturities of investments                       5,800              970
+     Purchases of restricted investments                                      (158)            (496)
+     Proceeds from sales and maturities of restricted
+       investments                                                             123              251
+     Acquisition of property and equipment                                    (411)            (282)
+     Acquisition of businesses, net of cash acquired and
+       purchased research and development                                      (11)             (19)
+     Increase in lease receivables                                            (262)            (137)
+     Other                                                                    (433)            (128)
+                                                                           -------          -------
+        Net cash used in investing activities                                 (530)          (1,155)
+                                                                           -------          -------
+
+  Cash flows from financing activities:
+     Issuance of common stock                                                  642              376
+     Other                                                                       6               11
+                                                                           -------          -------
+        Net cash provided by financing activities                              648              387
+                                                                           -------          -------
+
+  Net increase in cash and equivalents                                       2,833              922
+  Cash and equivalents, beginning of period                                    886              609
+                                                                           -------          -------
+  Cash and equivalents, end of period                                      $ 3,719          $ 1,531
+                                                                           =======          =======
+</TABLE>
+
+
+
+See notes to consolidated financial statements
+
+
+
+                                       5
+<PAGE>   6
+
+                               Cisco Systems, Inc.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+1.  DESCRIPTION OF BUSINESS
+
+Cisco Systems, Inc. ("Cisco" or the "Company") is the worldwide leader in
+networking for the Internet. Cisco hardware, software, and service offerings are
+used to create Internet solutions so that individuals, companies, and countries
+have seamless access to information - regardless of differences in time and
+place. Cisco solutions provide competitive advantage to our customers through
+more efficient and timely exchange of information, which in turn leads to cost
+savings, process efficiencies, and closer relationships with their customers,
+prospects, business partners, suppliers, and employees. These solutions form the
+networking foundation for companies, universities, utilities, and government
+agencies worldwide.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+Fiscal Year
+
+The Company's fiscal year is the 52- or 53-week period ending on the last
+Saturday in July. Fiscal year 2000 is a 52-week year while fiscal 1999 was a
+53-week year.
+
+Basis of Presentation
+
+All historical financial information has been restated to reflect the
+acquisitions of StratumOne Communications, Inc.("StratumOne") and TransMedia
+Communications, Inc.("TransMedia") in the first quarter of fiscal 2000 and
+Cerent Corporation ("Cerent") and WebLine Communications Corporation ("Webline")
+in the second quarter of fiscal 2000 which were accounted for as poolings of
+interests. In addition, the historical financial information has been restated
+to reflect the acquisition of Fibex Systems which was completed in the fourth
+quarter of 1999 and accounted for as a pooling of interests.
+
+The accompanying financial data as of January 29, 2000 and for the three and six
+months ended January 29, 2000 and January 23, 1999, has been prepared by the
+Company, without audit, pursuant to the rules and regulations of the Securities
+and Exchange Commission ("SEC"). Certain information and footnote disclosures
+normally included in financial statements prepared in accordance with generally
+accepted accounting principles have been condensed or
+
+
+
+                                       6
+<PAGE>   7
+
+omitted pursuant to such rules and regulations. The July 31, 1999 balance sheet
+was derived from audited financial statements, but does not include all
+disclosures required by generally accepted accounting principles. However, the
+Company believes that the disclosures are adequate to make the information
+presented not misleading. These consolidated financial statements should be read
+in conjunction with the consolidated financial statements and the notes thereto
+included in the Company's Annual Report on Form 10-K/A for the year ended July
+31, 1999 and Current Report on Form 8-K/A filed February 3, 2000.
+
+In the opinion of management, all adjustments (which include only normal
+recurring adjustments) necessary to present fairly the financial position as of
+January 29, 2000, results of operations for the three and six months ended
+January 29, 2000 and January 23, 1999, and cash flows for the six months ended
+January 29, 2000 and January 23, 1999 have been made. The results of operations
+for the three and six months ended January 29, 2000 are not necessarily
+indicative of the operating results for the full year.
+
+Computation of Net Income Per Common Share
+
+Basic net income per common share is computed using the weighted average number
+of common shares outstanding during the period. Diluted net income per share is
+computed using the weighted average number of common and dilutive common
+equivalent shares outstanding during the period. Dilutive common equivalent
+shares consist primarily of stock options.
+
+Recent Accounting Pronouncements
+
+In June 1998, the Financial Accounting Standards Board ("FASB") issued SFAS No.
+133 ("SFAS 133"), "Accounting for Derivative Instruments and Hedging
+Activities," which establishes accounting and reporting standards for derivative
+instruments and for hedging activities. It requires that an entity recognize all
+derivatives as either assets or liabilities in the balance sheet and measure
+those instruments at fair value. Management does not believe this will have a
+material effect on the Company's operations or financial position.
+Implementation of this standard has recently been delayed by the FASB for a
+twelve-month period. The Company will now be required to adopt SFAS 133 for its
+first quarterly filing of fiscal 2001.
+
+In December 1999, the SEC issued Staff Accounting Bulletin No. 101 ("SAB 101"),
+"Revenue Recognition in Financial Statements." SAB 101 summarizes certain of the
+SEC's views in applying generally
+
+
+
+                                       7
+<PAGE>   8
+
+accepted accounting principles to revenue recognition in financial statements.
+The Company is required to adopt SAB 101 in the first quarter of fiscal 2001.
+Management does not expect the adoption of SAB 101 to have a material effect on
+the Company's operations or financial position.
+
+3. BUSINESS COMBINATIONS
+
+Purchase Combinations
+
+The Company has made a number of purchase acquisitions. The consolidated
+financial statements include the operating results of each business from the
+date of acquisition. Pro forma results of operations have not been presented
+because the effects of these acquisitions were not material on either an
+individual or an aggregate basis.
+
+The amounts allocated to purchased research and development expense were
+determined through established valuation techniques in the high-technology
+communications industry and were expensed upon acquisition because technological
+feasibility had not been established and no future alternative uses existed.
+Research and development costs to bring the products from the acquired companies
+to technological feasibility are not expected to have a material impact on the
+Company's future results of operations or cash flows. Amounts allocated to
+goodwill and purchased intangible assets are amortized on a straight-line basis
+over periods not exceeding five years.
+
+In September 1999, the Company completed its purchase of Monterey Networks, Inc.
+("Monterey"), a developer of infrastructure-class, optical cross-connect
+technology that is used to increase network capacity at the core of an optical
+network. The Company's acquired technology consists of one product currently
+under development which will result in a wavelength router that would
+intelligently route signals over long-haul optical pipes created by dense wave
+division multiplexing ("DWDM"). Also in September 1999, the Company completed
+its purchase of MaxComm Technologies, Inc. ("MaxComm"), a developer of broadband
+Internet technology that brings data and multiple voice lines to consumers. The
+Company's acquired technology consists of one product currently under
+development which will allow the end user to create an easily adaptable home
+local area network utilizing their existing in-home wiring to support up to four
+separate phone lines with different numbers.
+
+
+
+                                       8
+<PAGE>   9
+
+In November 1999, the Company completed its purchase of Calista Inc. ("Calista")
+and Tasmania Network Systems, Inc. ("Tasmania"). Calista is a developer of
+Internet technology that allows different business phone systems to work
+together over an open Internet-based infrastructure. The Company's acquired
+technology consists of one product currently under development which will link
+up telecommuters or branch office phones to the corporate PBX over the Internet
+or intranet. Tasmania is a leading developer of network caching software
+technology. The Company's acquired technology consists of one product currently
+under development which will improve the performance of cache technology.
+
+In December 1999, the Company acquired Internet Engineering Group, LLC ("IEng")
+and Worldwide Data Systems, Inc. ("Worldwide"). IEng is a developer of
+high-performance software to enable service providers to build next-generation
+high speed networks. Worldwide is a leader in consulting and engineering
+services for the convergence of data and voice networks.
+
+
+
+                                       9
+<PAGE>   10
+
+Each of the completed purchase acquisition transactions is further outlined
+below:
+
+Summary of purchase transactions (in millions):
+
+<TABLE>
+<CAPTION>
+                                                   Purchased
+                                                   Research &
+                                                  Development     Form of Consideration and Other
+       Entity Name            Consideration          Charge             Notes to Acquisition
+       -----------            -------------          ------             --------------------
+<S>                           <C>                 <C>             <C>
+Fiscal 2000
+
+
+
+Monterey                          $517                $354        Common stock and options
+                                                                  assumed; $14 in liabilities
+                                                                  assumed; goodwill and other
+                                                                  intangibles recorded of $154
+
+MaxComm                           $ 73                $ 27        Common stock and options
+                                                                  assumed; goodwill and other
+                                                                  intangibles recorded of $41
+
+Calista                           $ 57                $ 28        Common stock and options
+                                                                  assumed; $3 in liabilities
+                                                                  assumed; goodwill and other
+                                                                  intangibles recorded of $34
+
+Tasmania                          $ 26                $ 15        Common stock; goodwill and
+                                                                  other intangibles recorded of
+                                                                  $13
+</TABLE>
+
+
+Total purchased research and development expense for the six months ended
+January 29, 2000 and January 23, 1999 was $424 million and $390 million,
+respectively. The purchased research and development expense for the six months
+ended January 29, 2000 was attributable to stock consideration. The purchased
+research and development expense that was attributable to stock consideration
+for the six months ended January 23, 1999 was $298 million. The purchased
+research and development expense attributable to a cash purchase
+
+
+
+                                       10
+<PAGE>   11
+
+transaction for the six months ended January 23, 1999 was $92 million.
+
+Poolings of Interests Combinations
+
+In September 1999, the Company acquired StratumOne, a developer of highly
+integrated, high-performance semiconductor technology, and TransMedia, a
+provider of Media Gateway technology that unites the multiple networks of public
+voice communications. Under the terms of the agreements, approximately 12.3
+million shares of common stock were issued to acquire StratumOne and TransMedia,
+and options to purchase an additional 1.4 million shares were assumed. Also in
+September 1999, the Company acquired Cocom A/S, ("Cocom"), an European developer
+of high-speed Internet access solutions over cable, satellite, and wireless
+networks based on international standards. Under the terms of the agreement,
+approximately 1.0 million shares of common stock were issued to acquire Cocom.
+Based on the shares of common stock and options exchanged, the values of the
+acquisitions were approximately $435 million, $407 million, and $66 million for
+StratumOne, Transmedia, and Cocom, respectively.
+
+In November 1999, the Company completed the acquisitions of Cerent and Webline.
+Cerent is a developer of next-generation optical transport products, and Webline
+is a provider of customer interaction management software for Internet customer
+service and e-commerce. Under the terms of the agreements, approximately 98.1
+million and 3.7 million shares of common stock were issued to acquire Cerent and
+Webline, respectively. The Company also assumed outstanding options that were
+converted into options to purchase approximately 1.8 million shares and 0.6
+million shares of the Company's common stock for Cerent and Webline,
+respectively. Based on the shares of common stock and options exchanged, the
+values of the acquisitions were approximately $6.9 billion and $325 million for
+Cerent and Webline, respectively.
+
+In December 1999, the Company acquired V-Bits, Inc. ("V-Bits"), a provider of
+standards-based digital video processing systems for cable television service
+providers. Under the terms of the agreement, approximately 1.4 million shares of
+common stock and options were exchanged to acquire V-Bits. Based on the shares
+of common stock and options exchanged, the value of the acquisition was
+approximately $128 million.
+
+All historical financial information contained herein has been restated to
+reflect the acquisitions of StratumOne, TransMedia, Cerent, and Webline. The
+historical operations of Cocom and V-Bits
+
+
+
+                                       11
+<PAGE>   12
+
+were not material to the Company's consolidated operations, therefore prior
+period statements have not been restated for these acquisitions.
+
+Acquisitions Pending or Completed After January 29, 2000
+
+In November 1999, the Company announced a definitive agreement to acquire
+Aironet Wireless Communications, Inc. ("Aironet") for approximately $799 million
+payable in common stock. Aironet is a leading developer of standards-based, high
+speed wireless local area network products ("LAN"). The Aironet acquisition is
+expected to be completed in the third quarter of fiscal 2000. In December 1999,
+the Company announced a definitive agreement to acquire the optical systems
+business of Pirelli S.p.A of Milan, Italy ("Pirelli") for an aggregate amount of
+up to $2.15 billion payable in common stock, of which a portion is contingent on
+revenue targets and other performance milestones. Pirelli is a recognized
+innovator in both optical component technology and optical systems for service
+providers. The Company completed the acquisition of Pirelli in February 2000.
+Aironet and Pirelli will be accounted for as purchases.
+
+In March 2000, the Company announced a definitive agreement to acquire Atlantech
+Technologies ("Atlantech") for approximately $180 million payable in common
+stock. Atlantech is a leading provider of network element management software,
+which is designed to help configure and monitor network hardware. Atlantech will
+be accounted for as a purchase.
+
+In January and February 2000, the Company announced definitive agreements to
+acquire Altiga Networks ("Altiga"), Compatible Systems ("Compatible"), and
+Growth Networks Inc. ("Growth") for an aggregate of approximately $922 million
+payable in common stock. The acquisitions of Altiga and Compatible enhance the
+Company's New World Virtual Private Networks offerings by providing customers
+with industry-leading remote access and extranet solutions. Growth is a market
+leader in Internet switching fabrics, a new category of networking silicon.
+Altiga, Compatible and Growth will be accounted for as poolings of interests.
+
+
+
+                                       12
+<PAGE>   13
+
+4. BALANCE SHEET DETAIL
+          (In millions)
+
+<TABLE>
+<CAPTION>
+Inventories, net:                            January 29,           July 31,
+                                                2000                1999
+                                              -------             -------
+                                            (Unaudited)
+<S>                                         <C>                   <C>
+Raw materials                                 $    91             $   143
+Work in process                                   263                 198
+Finished goods                                    280                 280
+Demonstration systems                              61                  35
+                                              -------             -------
+Total                                         $   695             $   656
+                                              =======             =======
+</TABLE>
+
+
+<TABLE>
+<CAPTION>
+Other Assets, net:                           January 29,           July 31,
+                                                2000                1999
+                                              -------             -------
+                                            (Unaudited)
+<S>                                         <C>                   <C>
+Goodwill-gross                                $   374             $   157
+Purchased intangible assets-gross                 763                 395
+Less: Accumulated amortization                   (175)                (92)
+                                              -------             -------
+Intangibles, net                                  962                 460
+Investments in nonpublic companies                351                 179
+Net investment in leases                          212                 500
+Other assets                                      214                  52
+                                              -------             -------
+Total                                         $ 1,739             $ 1,191
+                                              =======             =======
+</TABLE>
+
+Amortization expense for the three months ended January 29, 2000 and January 23,
+1999 was $53 million and $12 million, respectively. Amortization expense for the
+six months ended January 29, 2000 and January 23, 1999 was $83 million and $23
+million, respectively. The following table presents the details of the
+amortization expense as reported in the consolidated statements of operations
+(in millions):
+
+
+<TABLE>
+<CAPTION>
+                                           Three Months                  Six Months
+                                              Ended                         Ended
+                                       ------------------            ------------------
+                                     January 29,   January 23,    January 29,    January 23,
+                                       2000           1999           2000           1999
+                                       ---            ---            ---            ---
+                                           (Unaudited)                   (Unaudited)
+<S>                                 <C>            <C>            <C>            <C>
+Reported as:
+ Cost of sales                         $ 6            $--            $12            $--
+ Operating expenses                     47             12             71             23
+                                       ---            ---            ---            ---
+ Total amortization expense            $53            $12            $83            $23
+                                       ===            ===            ===            ===
+</TABLE>
+
+
+
+                                       13
+<PAGE>   14
+
+5. COMPREHENSIVE INCOME
+
+The following table presents the calculation of comprehensive income as required
+by SFAS No. 130. Comprehensive income has no impact on the Company's net income,
+balance sheet, or shareholders' equity. The components of comprehensive income,
+net of tax, are as follows (in millions):
+
+<TABLE>
+<CAPTION>
+                                               Three Months                           Six Months
+                                                  Ended                                 Ended
+                                       ---------------------------            --------------------------
+                                      January 29,        January 23,        January 29,        January 23,
+                                         2000               1999               2000               1999
+                                       -------             -------            -------            -------
+                                               (Unaudited)                            (Unaudited)
+<S>                                   <C>                <C>                <C>                <C>
+Net income                             $   825             $   282            $ 1,245            $   791
+  Other comprehensive
+  income (loss):
+  Change in unrealized gain
+   on investments, net                     999                  74              1,519                 91
+  Change in accumulated
+   translation adjustments                  (2)                  -                  4                 11
+                                       -------             -------            -------            -------
+
+Total comprehensive income             $ 1,822             $   356            $ 2,768            $   893
+                                       =======             =======            =======            =======
+</TABLE>
+
+
+6. INCOME TAXES
+
+The Company paid income taxes of $174 million and $184 million for the six
+months ended January 29, 2000 and January 23, 1999, respectively. The Company's
+income taxes currently payable for federal, state, and foreign purposes have
+been reduced by the tax benefit from stock option transactions. The benefit
+totaled $697 million and $398 million for the six months ended January 29, 2000
+and January 23, 1999, respectively, and was credited directly to shareholders'
+equity.
+
+
+
+                                       14
+<PAGE>   15
+
+7.    SHAREHOLDERS' EQUITY AND STOCK SPLIT
+
+On November 10, 1999, the shareholders of the Company approved an increase to
+the authorized number of shares of common stock from 5.4 billion to 10 billion
+shares.
+
+Cisco's Board of Directors authorized the splitting of the Company's common
+stock on a two-for-one basis for shareholders of record on February 22, 2000.
+Shares resulting from the split are expected to be distributed by the transfer
+agent on March 22, 2000. All share and per-share numbers contained herein do not
+reflect this stock split.
+
+8. SEGMENT INFORMATION AND MAJOR CUSTOMERS
+
+The Company's operations involve the design, development, manufacturing,
+marketing, and technical support of networking products and services. The
+Company offers end-to-end networking solutions for its customers. Cisco products
+include routers, LAN and ATM switches, dialup access servers, and network
+management software. These products, integrated by the Cisco IOS(R) software,
+link geographically dispersed LANs, WANs, and IBM networks.
+
+The Company conducts business globally and is managed geographically. The
+Company's management relies on an internal management accounting system which
+provides sales and standard cost information by geographic theater. Sales are
+attributed to a theater based on the ordering location of the customer. The
+Company's management makes financial decisions and allocates resources based on
+the information it receives from this internal system. The Company does not
+allocate marketing, engineering, or administrative expenses to geographical
+segments as management does not use this information to measure the performance
+of the operating segments. Management does not believe that allocating these
+expenses is material in evaluating a geographical segment's performance.
+Information from this internal management system differs from the amounts
+reported under generally accepted accounting principles due to certain corporate
+level adjustments. These corporate level adjustments are primarily sales
+adjustments related to credit memos and returns. Based on the criteria set forth
+in SFAS No. 131, the Company has four reportable segments: the Americas, EMEA,
+Asia/Pacific, and Japan.
+
+
+
+                                       15
+<PAGE>   16
+
+Summarized financial information by segment for the three and six months ended
+January 29, 2000 and January 23, 1999, as taken from the internal management
+information system discussed above, is as follows (in millions):
+
+
+<TABLE>
+<CAPTION>
+                                           Three Months Ended                       Six Months Ended
+                                       ---------------------------             ---------------------------
+                                      January 29,         January 23,        January 23,         January 23,
+                                        2000                1999                2000                1999
+                                       -------             -------             -------             -------
+                                               (Unaudited)                              (Unaudited)
+<S>                                   <C>                 <C>               <C>                  <C>
+Net Sales:
+   U.S./Americas                       $ 2,872             $ 1,885             $ 5,530             $ 3,672
+   EMEA                                  1,082                 759               2,102               1,424
+   Asia/Pacific                            351                 186                 634                 350
+   Japan                                   182                 158                 339                 284
+   Sales adjustments                      (137)               (143)               (341)               (287)
+                                       -------             -------             -------             -------
+Total - Net Sales                      $ 4,350             $ 2,845             $ 8,264             $ 5,443
+                                       =======             =======             =======             =======
+
+
+Standard Margin:
+   U.S./Americas                       $ 2,113             $ 1,361             $ 4,050             $ 2,665
+   EMEA                                    801                 570               1,566               1,055
+   Asia/Pacific                            259                 134                 467                 257
+   Japan                                   144                 123                 269                 217
+   Sales adjustments                      (137)               (143)               (341)               (287)
+   Production overhead                    (106)                (61)               (189)               (117)
+   Manufacturing variances
+    and other related costs               (260)               (127)               (481)               (232)
+                                       -------             -------             -------             -------
+Total - Gross Margin                   $ 2,814             $ 1,857             $ 5,341             $ 3,558
+                                       =======             =======             =======             =======
+</TABLE>
+
+
+The standard margins by geographical segment differ from the amounts recognized
+under generally accepted accounting principles because the Company does not
+allocate certain sales adjustments, production overhead, and manufacturing
+variances and other related costs to the segments. The above table reconciles
+the net sales and standard margins by geographic segment to net sales and gross
+margins as reported in the consolidated statements of operations by including
+such adjustments.
+
+
+
+                                       16
+<PAGE>   17
+
+The following table presents external net sales for groups of similar products
+and services (in millions):
+
+<TABLE>
+<CAPTION>
+                                    Three Months Ended                       Six Months Ended
+                               ---------------------------             ---------------------------
+                              January 29,        January 23,          January 29,        January 23,
+                                2000                1999                2000                1999
+                               -------             -------             -------             -------
+                                       (Unaudited)                             (Unaudited)
+<S>                           <C>                <C>                  <C>                <C>
+  Routers                      $ 1,688             $ 1,285             $ 3,286             $ 2,442
+  Switches                       1,695               1,188               3,267               2,317
+  Access                           507                 256                 982                 463
+  Other                            597                 259               1,070                 508
+  Sales adjustments               (137)               (143)               (341)               (287)
+                               -------             -------             -------             -------
+Total - Net Sales              $ 4,350             $ 2,845             $ 8,264             $ 5,443
+                               =======             =======             =======             =======
+</TABLE>
+
+
+Substantially all of the Company's assets at January 29, 2000 and July 31, 1999
+were attributable to U.S. operations. No single customer accounted for 10% or
+more of total revenue during the three or six months ended January 29, 2000 and
+January 23, 1999.
+
+9.  NET INCOME PER COMMON SHARE
+
+The following table presents the calculation of basic and diluted earnings per
+share (in millions, except per-share amounts):
+
+<TABLE>
+<CAPTION>
+                                               Three Months Ended                  Six Months Ended
+                                            ------------------------            ------------------------
+                                          January 29,       January 23,       January 29,       January 23,
+                                             2000              1999              2000              1999
+                                            ------            ------            ------            ------
+                                                   (Unaudited)                        (Unaudited)
+<S>                                       <C>               <C>               <C>               <C>
+Numerator:
+
+  Net income                                $  825            $  282            $1,245            $  791
+                                            ======            ======            ======            ======
+Denominator:
+
+ Weighted average shares--basic              3,413             3,274             3,401             3,251
+
+ Effect of dilutive securities:
+  Employee stock options                       235               212               228               202
+                                            ------            ------            ------            ------
+ Weighted average share--diluted             3,648             3,486             3,629             3,453
+                                            ======            ======            ======            ======
+
+Net income per share--basic                 $  .24            $  .09            $  .37            $  .24
+                                            ======            ======            ======            ======
+
+Net income per share--diluted               $  .23            $  .08            $  .34            $  .23
+                                            ======            ======            ======            ======
+</TABLE>
+
+
+10. SUBSEQUENT EVENTS
+
+On January 31, 2000, the Company invested approximately $1 billion in
+mandatorily redeemable convertible preferred stock of KPMG Consulting, Inc., a
+privately held subsidiary of KPMG LLP. KPMG Consulting, Inc. is a provider of
+Internet integration services.
+
+
+                                       17
+<PAGE>   18
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+All historical financial information has been restated to reflect the
+acquisitions of StratumOne Communications, Inc. and TransMedia Communications,
+Inc. in the first quarter of fiscal 2000 and Cerent Corporation and WebLine
+Communications Corporation in the second quarter of fiscal 2000 which were
+accounted for as poolings of interests. In addition, the historical financial
+information has been restated to reflect the acquisition of Fibex Systems which
+was completed in the fourth quarter of fiscal 1999 and accounted for as a
+pooling of interests.
+
+Certain statements contained in this Quarterly Report on Form 10-Q, including,
+without limitation, statements containing the words "believes," "anticipates,"
+"estimates," "expects," and words of similar import, constitute "forward-looking
+statements." You should not place undue reliance on these forward-looking
+statements. Our actual results could differ materially from those anticipated in
+these forward-looking statements for many reasons, including the risks faced by
+us described below and elsewhere in this Quarterly Report, and in other
+documents we file with the Securities and Exchange Commission.
+
+Net sales grew to $4.35 billion in the second quarter of fiscal 2000 from $2.85
+billion in the second quarter of fiscal 1999. Net sales for the first six months
+of fiscal 2000 were $8.26 billion, compared with $5.44 billion for the first six
+months of fiscal 1999. The 52.9% increase in net sales between the two
+three-month periods and the 51.8% increase in net sales between the two
+six-month periods were primarily a result of increasing unit sales of LAN
+switching products such as the Catalyst(R) 3500 and 6000 families and the
+Catalyst 2900 series of switches for smaller enterprise networks, the Cisco
+12000 gigabit switch router ("GSR"), access servers such as the Cisco 2600 and
+3600 families, growth in the sales of add-on boards that provide increased
+functionality, and increased maintenance service contract sales. The sales
+growth rate for lower-priced access and switching
+
+
+
+                                       18
+<PAGE>   19
+
+products targeted toward small and medium-sized businesses has increased faster
+than that of our high-end core router products. Additionally, sales of some of
+our more established product lines such as the Catalyst 5000, Cisco 2500 and
+Cisco 4000 product families have decreased as a percentage of total revenue.
+Sales in the second quarter of fiscal 2000 grew 52.4% in the Americas, 42.6% in
+EMEA, 88.7% in Asia/Pacific and 15.2% in Japan compared to the second quarter of
+fiscal 1999. Sales in the first six months of fiscal 2000 grew 50.6% in the
+Americas, 47.6% in EMEA, 81.1% in Asia/Pacific and 19.4% in Japan compared to
+the first six months of fiscal 1999 (See Note 8 to the consolidated financial
+statements). Market demand and deployment of Internet technologies and business
+solutions, as well as the overall economic health within these regions, are
+primarily driving the strong growth in the Americas, EMEA, and Asia/Pacific. The
+slower growth in Japan can be attributed to continued weaker economic conditions
+and delayed government spending.
+
+Gross margins decreased to 64.7% in the second quarter of fiscal 2000 from 65.3%
+in the second quarter of fiscal 1999. Gross margins decreased to 64.6% in the
+first six months of fiscal 2000 from 65.4% in the first six months of fiscal
+1999. Standard margins for the Americas, EMEA, Asia/Pacific and Japan were
+73.6%, 74.0%, 73.8%, and 79.1%, respectively, for the second quarter of fiscal
+2000 compared to 72.2%, 75.1%, 72.0%, and 77.8%, respectively, for the second
+quarter of fiscal 1999. Standard margins for the Americas, EMEA, Asia/Pacific
+and Japan were 73.2%, 74.5%, 73.7%, and 79.4%, respectively, for the first six
+months of fiscal 2000 compared to 72.6%, 74.1%, 73.4%, and 76.4%, respectively,
+for the first six months of fiscal 1999 (see Note 8 to the consolidated
+financial statements). The standard margins by geographical segment differ from
+the amounts recognized under generally accepted accounting principles because
+the Company does not allocate certain sales adjustments, production overhead,
+and manufacturing variances and other related costs to the segments. Standard
+margins for the Americas, where 66.0% and 66.9% of our revenues were derived in
+the second quarter and the first six months of fiscal 2000, respectively,
+increased by 1.4% and 0.6%, respectively, compared to the same periods in fiscal
+1999. Standard margins for EMEA, where 24.9% and 25.4% of our revenues were
+derived in the second quarter and the first six months of fiscal 2000,
+respectively, decreased by 1.1% and increased by 0.4%, respectively, compared to
+the same periods in fiscal 1999. The changes in standard margins for the
+Americas and EMEA were due to a shift in revenue mix and the timing of when
+certain sales adjustments are applied to geographical theatres. The decrease in
+the overall gross margin was primarily due to our continued shift in revenue mix
+towards our lower-margin
+
+
+
+                                       19
+<PAGE>   20
+
+products, other production related costs, and the continued pricing pressure
+seen from competitors in certain product areas. The prices of component parts
+have fluctuated in the recent past, and we expect that this trend may continue.
+An increase in the price of component parts may have a material adverse impact
+on gross margins. We expect that gross margins will continue to decrease in the
+future, because we believe that the market for lower-margin remote access and
+switching products for small to medium-sized businesses will continue to
+increase at a faster rate than the market for our higher-margin router and
+high-performance switching products. Additionally, as we focus on new market
+opportunities, we face increasing competitive pressure from large
+telecommunications equipment suppliers and well funded start-up companies, which
+may materially adversely affect gross margins. We are attempting to mitigate
+this trend through various means, such as increasing the functionality of our
+products, continued value engineering, controlling royalty costs, and improving
+manufacturing efficiencies. There can be no assurance that any efforts made by
+us in these and other areas will successfully offset decreasing margins.
+
+Research and development expenses increased by $226 million in the second
+quarter of fiscal 2000 over the second quarter of fiscal 1999, an increase to
+13.7% from 13.1% of net sales. Research and development expenses increased by
+$424 million in the first six months of fiscal 2000 over the first six months of
+fiscal 1999, an increase to 13.7% from 13.1% of net sales. The increases reflect
+our ongoing research and development efforts in a wide variety of areas such as
+voice, video, and data integration, Digital Subscriber Line ("DSL")
+technologies, cable modem technology, wireless access, dial access, enterprise
+switching, optical transport, security, network management, and high-end routing
+technologies, among others. A significant portion of the increase was due to the
+addition of new personnel, partly through acquisitions, as well as higher
+expenditures on prototypes and depreciation on additional lab equipment. For the
+near future, research and development expenses are expected to increase at a
+rate similar to or slightly greater than the sales growth rate, as we invest in
+technology to address potential market opportunities. We also continue to
+purchase technology in order to bring a broad range of products to the market in
+a timely fashion. If we believe that we are unable to enter a particular market
+in a timely manner with internally developed products, we may license technology
+from other businesses or acquire other businesses as an alternative to internal
+research and development. All of our research and development costs are expensed
+as incurred.
+
+
+
+                                       20
+<PAGE>   21
+
+Sales and marketing expenses increased by $348 million in the second quarter of
+fiscal 2000 over the second quarter of fiscal 1999, an increase to 21.2% from
+20.2% of net sales. Sales and marketing expenses increased by $641 million in
+the first six months of fiscal 2000 over the first six months of fiscal 1999, an
+increase to 21.0% from 20.1% of net sales. The increases were principally due to
+an increase in the size of our direct sales force and related commissions,
+additional marketing and advertising investments associated with the
+introduction of new products, the expansion of distribution channels, and
+general corporate branding. The increases also reflect our efforts to invest in
+certain key areas such as expansion of our end-to-end strategy and service
+provider coverage in order to position ourselves to take advantage of future
+market opportunities.
+
+General and administrative expenses increased by $61 million in the second
+quarter of fiscal 2000 over the second quarter of fiscal 1999, an increase to
+3.3% from 2.9% of net sales. General and administrative expenses increased by
+$94 million in the first six months of fiscal 2000 over the first six months of
+fiscal 1999, an increase to 3.1% from 2.9% of net sales. General and
+administrative expenses for the three and six months ended January 29, 2000
+include acquisition related costs of approximately $25 million. Excluding the
+acquisition related costs, the increases in general and administrative expenses
+as a percentage of sales primarily relate to the addition of new personnel and
+higher depreciation expense. It is management's intent to keep general and
+administrative costs relatively constant as a percentage of net sales; however,
+this is dependent upon the level of acquisition activity and our growth, among
+other factors.
+
+Amortization of goodwill and purchased intangible assets increased by $35
+million in the second quarter of fiscal 2000 compared to the second quarter of
+fiscal 1999. Amortization of goodwill and purchased intangible assets increased
+by $48 million in the first six months of fiscal 2000 compared to the first six
+months of fiscal 1999. Amortization of goodwill and purchased intangible assets
+includes the amortization of goodwill and other purchased intangible assets
+relating to various purchase acquisitions (See Note 4 to the consolidated
+financial statements).
+
+The amounts expensed to purchased research and development in the first six
+months of fiscal 2000 arose from the completed acquisitions of Monterey,
+MaxComm, Calista, and Tasmania (See Note 3 to the consolidated financial
+statements).
+
+
+
+                                       21
+<PAGE>   22
+
+The fair value of the existing products and patents as well as the technology
+currently under development was determined by using the income approach, which
+discounts expected future cash flows to present value. The discount rates used
+in the present value calculations were typically derived from a weighted average
+cost of capital analysis and venture capital surveys, adjusted upward to reflect
+additional risks inherent in the development life cycle. These risk factors have
+increased the overall discount rate between 5% to 20% for acquisitions in the
+current period. We consider the pricing model for products related to these
+acquisitions to be standard within the high-technology communications industry.
+We do not expect to achieve a material amount of expense reductions or synergies
+as a result of integrating the acquired in-process technology. Therefore, the
+valuation assumptions do not include anticipated cost savings. We expect that
+products incorporating the acquired technology from these acquisitions will be
+completed and begin to generate cash flows over the six to nine months after
+integration. However, development of these technologies remains a significant
+risk to us due to the remaining effort to achieve technical viability, rapidly
+changing customer markets, uncertain standards for new products, and significant
+competitive threats from numerous companies. The nature of the efforts to
+develop the acquired technology into commercially viable products consists
+principally of planning, designing, and testing activities necessary to
+determine that the product can meet market expectations, including functionality
+and technical requirements. Failure to bring these products to market in a
+timely manner could result in a loss of market share, or a lost opportunity to
+capitalize on emerging markets, and could have a material adverse impact on our
+business and operating results.
+
+Regarding our purchase acquisitions completed in fiscal 1999, actual results to
+date have been consistent, in all material respects, with the assumptions at the
+time of the acquisitions as they relate to the value of purchased in-process
+research and development. The assumptions primarily consist of an expected
+completion date for the in-process projects, estimated costs to complete the
+projects, and revenue and expense projections once the products have entered the
+market. Products from these acquisitions are being introduced to the market six
+to nine months after the acquisition. Shipment volumes of products from acquired
+technologies are not material to our overall position at the present time,
+therefore, it is difficult to determine the accuracy of overall revenue
+projections early in the technology or product lifecycle. Failure to achieve the
+expected levels of revenues and net income from these products will negatively
+impact the return on investment expected at the time that the acquisition was
+completed
+
+
+
+                                       22
+<PAGE>   23
+
+and potentially result in impairment of any other assets related to the
+development activities.
+
+The following table summarizes the significant assumptions underlying the
+valuations in fiscal 2000 and fiscal 1999 and the development costs incurred by
+us in the periods after the respective acquisition date (in millions, except
+percentages):
+
+<TABLE>
+<CAPTION>
+                                                                             Approximate
+                                           Acquisition Assumptions           Development
+                                   ----------------------------------       Costs Incurred
+                                   Estimated Cost                           to Date After
+                                    to Complete         Risk Adjusted        Acquisition on
+                                    Technology at          Discount            Acquired
+                                      Time of            Rate for In-         In-Process
+          Entity Name               Acquisition           Process R&D         Technology
+          -----------               -----------           -----------         ----------
+<S>                               <C>                  <C>                  <C>
+  Fiscal 2000
+
+
+  Monterey Networks, Inc.               $ 4                   30%                $ 8
+
+  MaxComm Technologies, Inc.            $ 2                   25%                $ 2
+
+  Calista Inc.                          $ 1                  37.5%
+
+  Tasmania Network Systems,             $ 1                   45%
+  Inc.
+
+  Fiscal 1999
+
+
+  American Internet Corp.               $ 1                   25%                $ 1
+
+  Summa Four, Inc.                      $ 5                   25%                $18
+
+  Clarity Wireless, Inc.                $42                   32%                $22
+
+  Selsius Systems, Inc.                 $15                   31%                $13
+
+  PipeLinks, Inc.                       $ 5                   31%                $18
+
+  Amteva Technologies, Inc.             $ 4                   35%                $ 3
+</TABLE>
+
+
+
+                                       23
+<PAGE>   24
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash and equivalents, short-term investments, and investments were $13.8 billion
+at January 29, 2000, an increase of $4.7 billion from July 31, 1999. The
+increase is primarily a result of unrealized gains on publicly held investments,
+cash generated by operations and the exercise of employee stock options. The
+cash flows from operating activities were partially offset by cash outflows from
+tax payments of approximately $174 million, and cash outflows from investing
+activities primarily relating to capital expenditures of approximately $411
+million. On January 31, 2000, subsequent to the end of the fiscal quarter, the
+Company made a cash investment of approximately $1 billion in KPMG Consulting,
+Inc.
+
+Accounts receivable increased 37.0% from July 31, 1999 to January 29, 2000. Days
+sales outstanding in receivables increased to 36 days at January 29, 2000 from
+32 days at July 31, 1999. Inventory levels remained relatively constant between
+the two periods; however, inventory management remains an area of focus as we
+balance the need to maintain strategic inventory levels to ensure competitive
+lead times versus the risk of inventory obsolescence because of rapidly changing
+technology and customer requirements.
+
+At January 29, 2000, we had a line of credit totaling $500 million, which
+expires July 2002. There have been no borrowings under this facility.
+
+We have entered into certain lease arrangements in San Jose, California, and
+Research Triangle Park, North Carolina, where we have established our
+headquarter's operations and certain research and development and customer
+support activities. In connection with these transactions, we pledged $1.1
+billion of our investments as collateral for certain obligations of the leases.
+We anticipate that we will occupy more leased property in the future that will
+require similar pledged securities; however, we do not expect the impact of this
+activity to be material to liquidity.
+
+We believe that our current cash and equivalents, short-term investments, line
+of credit, and cash generated from operations will satisfy our expected working
+capital and capital expenditure requirements at least through the next 12
+months.
+
+                               YEAR 2000 READINESS
+
+We have not experienced any known material adverse impacts on our current
+products, internal information systems, and noninformation technology systems
+(equipment and systems) as a result of the year
+
+
+
+                                       24
+<PAGE>   25
+
+2000 issue. Based on the work done, we have not incurred material costs to
+address the year 2000 readiness of our systems (as a result of relatively new
+information systems) and products. There can be no assurance that the cost
+estimates associated with Year 2000 or leap year date issues will not have a
+material adverse effect on our results of operations and financial condition.
+
+                                  RISK FACTORS
+
+Set forth below and elsewhere in this Quarterly Report and in the other
+documents we file with the SEC are risks and uncertainties that could cause
+actual results to differ materially from the results contemplated by the forward
+looking statements contained in this Quarterly Report.
+
+YOU SHOULD EXPECT THAT OUR OPERATING RESULTS MAY FLUCTUATE IN FUTURE PERIODS
+
+The results of operations for any quarter are not necessarily indicative of
+results to be expected in future periods. Our operating results have in the past
+been, and will continue to be, subject to quarterly fluctuations as a result of
+a number of factors. These factors include:
+
+- -       The integration of people, operations, and products from acquired
+        businesses and technologies;
+- -       Increased competition in the networking industry;
+- -       The overall trend toward industry consolidation;
+- -       The introduction and market acceptance of new technologies and
+        standards, including switch routers, Gigabit Ethernet switching, Tag
+        Switching (currently also known as multiprotocol label switching
+        ["MPLS"]), optical transport and data, voice, and video capabilities;
+- -       Variations in sales channels, product costs, or mix of products sold;
+- -       The timing of orders and manufacturing lead times;
+- -       The trend towards sales of integrated network solutions;
+- -       Employer payroll taxes to be paid on an employee's gain on stock options
+        exercised. Such payroll taxes are recorded as operating expenses and
+        could be material based upon the number of optionees who exercise their
+        options and the price of our common stock; and
+- -       Changes in general economic conditions and specific economic conditions
+        in the computer and networking industries.
+
+
+
+                                       25
+<PAGE>   26
+
+Any of the above factors could have a material adverse impact on our operations
+and financial results. For example, from time to time, we have made acquisitions
+that result in purchased research and development expenses being charged in an
+individual quarter. These charges may occur in any particular quarter resulting
+in variability in our quarterly earnings. Additionally, the dollar amounts of
+large orders for our products have been increasing and therefore the operating
+results for a quarter could be materially adversely affected if a number of
+large orders are either not received or are delayed, for example, due to
+cancellations, delays, or deferrals by customers.
+
+SINCE OUR GROWTH RATE MAY SLOW, OPERATING RESULTS FOR A PARTICULAR QUARTER ARE
+DIFFICULT TO PREDICT
+
+We expect that in the future, our net sales may grow at a slower rate than
+experienced in previous periods and that on a quarter-to-quarter basis, our
+growth in net sales may be significantly lower than our historical quarterly
+growth rate. As a consequence, operating results for a particular quarter are
+extremely difficult to predict. Our ability to meet financial expectations could
+be hampered if the nonlinear sales pattern seen in past quarters reoccur in
+future periods. We generally have had one quarter of the fiscal year when
+backlog has been reduced. Although such reductions have not occurred
+consistently in recent years, they are difficult to predict and may occur in the
+future. In addition, in response to customer demand, we continue to attempt to
+reduce our product manufacturing lead times, which may result in corresponding
+reductions in order backlog. A decline in backlog levels could result in more
+variability and less predictability in our quarter-to-quarter net sales and
+operating results going forward. On the other hand, for certain products, lead
+times are longer than our goal. If we cannot reduce manufacturing lead times for
+such products, our customers may cancel orders or not place further orders if
+shorter lead times are available from other manufacturers, thus creating
+additional variability.
+
+WE EXPECT GROSS MARGINS TO DECLINE OVER TIME
+
+We expect that gross margins may be adversely affected by increases in material
+or labor costs, heightened price competition, and changes in channels of
+distribution or in the mix of products sold. For example, we believe that gross
+margins may decline over time because the markets for lower-margin access
+products targeted toward small to medium sized customers have continued to grow
+at a faster rate than the markets for our higher-margin router and
+high-
+
+
+
+                                       26
+<PAGE>   27
+
+performance switching products targeted toward enterprise and service provider
+customers. We have recently introduced several new products, with additional new
+products scheduled to be released in the future. If product or related warranty
+costs associated with these new products are greater than we have experienced
+historically, gross margins may be adversely affected. Our gross margins may
+also be impacted by geographic mix, as well as the mix of configurations within
+each product group. We continue to expand into third-party or indirect
+distribution channels, which generally results in lower gross margins. In
+addition, increasing third-party and indirect distribution channels generally
+result in greater difficulty in forecasting the mix of our product, and to a
+certain degree, the timing of orders from our customers. Downward pressures on
+our gross margin may be further impacted by other factors, such as increased
+percentage of revenues from service provider markets which may have lower
+margins and/or an increase in product costs, which would adversely affect our
+future operating results.
+
+We also expect that our operating margins may decrease as we continue to hire
+additional personnel and experience increases in overall operating expenses to
+support our business. We plan our operating expense levels based primarily on
+forecasted revenue levels. Because these expenses are relatively fixed in the
+short term, a shortfall in revenue could lead to operating results being below
+expectations.
+
+WE COMPETE IN THE HIGHLY COMPETITIVE TELECOMMUNICATIONS EQUIPMENT MARKET
+
+We compete in the telecommunications equipment market, providing solutions for
+transporting data, voice, and video traffic across intranets, extranets, and the
+Internet. The market is characterized by rapid growth, converging technologies,
+and a conversion to new solutions that offer superior advantages. These market
+factors represent both an opportunity and a competitive threat to us. We compete
+with numerous vendors in each product category. We expect that the overall
+number of competitors providing niche product solutions will increase due to the
+market's attractive growth. On the other hand, we expect the number of vendors
+supplying end-to-end telecommunications solutions will decrease due to the rapid
+pace of acquisitions in the industry. Ultimately we believe only a few large
+suppliers of end-to-end telecommunication equipment solutions will become our
+primary competitors.
+
+Our competitors include, among others, 3Com, Alcatel, Cabletron, Ericsson, IBM,
+Juniper, Lucent, Nortel, and Siemens. Some of our
+
+
+
+                                       27
+<PAGE>   28
+
+competitors compete across many of our product lines, while others do not offer
+as wide a breadth of solutions. Several of our current and potential competitors
+have greater financial, marketing, and technical resources than us.
+
+The principal competitive factors in the markets in which we presently compete
+and may compete in the future are:
+
+        -       price;
+
+        -       performance;
+
+        -       the ability to provide end-to-end solutions and support;
+
+        -       conformance to standards;
+
+        -       the ability to provide value added features such as security,
+                reliability, and investment protection; and
+
+        -       market presence.
+
+We also face competition from customers we license technology to and suppliers
+from whom we transfer technology. Networking's inherent nature requires
+interoperability. As such, we must cooperate and at the same time compete with
+these companies. Our inability to effectively manage these complicated
+relationships with customers and suppliers could have a material adverse effect
+on our business, operating results, and financial condition.
+
+WE EXPECT TO MAKE FUTURE ACQUISITIONS WHERE ADVISABLE AND ACQUISITIONS INVOLVE
+NUMEROUS RISKS
+
+The networking business is highly competitive, and as such, our growth is
+dependent upon market growth, our ability to enhance our existing products and
+our ability to introduce new products on a timely basis. One of the ways we have
+addressed and will continue to address the need to develop new products is
+through acquisitions of other companies. Acquisitions involve numerous risks,
+including the following:
+
+- -       difficulties in integration of the operations, technologies, and
+        products of the acquired companies;
+- -       the risk of diverting management's attention from normal daily
+        operations of the business;
+
+
+
+                                       28
+<PAGE>   29
+
+- -       potential difficulties in completing projects associated with purchased
+        in-process research and development;
+- -       risks of entering markets in which we have no or limited direct prior
+        experience and where competitors in such markets have stronger market
+        positions; and
+- -       the potential loss of key employees of the acquired company.
+
+Mergers and acquisitions of high-technology companies are inherently risky, and
+no assurance can be given that our previous or future acquisitions will be
+successful and will not materially adversely affect our business, operating
+results or financial condition.
+
+We must also maintain our ability to manage any such growth effectively. Failure
+to manage growth effectively and successfully integrate acquisitions we made
+could harm our business and operating results.
+
+WE ARE EXPOSED TO FLUCTUATIONS IN THE EXCHANGE RATES OF FOREIGN CURRENCY
+
+As a global concern, we face exposure to adverse movements in foreign currency
+exchange rates. These exposures may change over time as business practices
+evolve and could have a material adverse impact on our financial results.
+Historically, our primary exposures have related to nondollar-denominated sales
+in Japan, Canada, and Australia and nondollar-denominated operating expenses in
+Europe, Latin America, and Asia where we sell primarily in U.S. dollars.
+Additionally, we have recently seen our exposures to emerging market currencies,
+such as the Brazilian real, Korean won, and Russian ruble, among others,
+increase because of our expanding presence in these markets and the extreme
+currency volatility. We will continue to monitor our exposure and may hedge
+against these or any other emerging market currencies as necessary.
+
+The increasing use of the euro as a common currency for members of the European
+Union could impact our foreign exchange exposure. We are currently hedging
+against fluctuations with the euro and will continue to evaluate the impact of
+the euro on our future foreign exchange exposure as well as on our internal
+systems. At the present time, we hedge only those currency exposures associated
+with certain assets and liabilities denominated in nonfunctional currencies and
+do not hedge anticipated foreign currency cash flows. The hedging activity
+undertaken by us is intended to offset the impact of currency fluctuations on
+certain nonfunctional currency assets and liabilities.
+
+
+
+                                       29
+<PAGE>   30
+
+WE ARE EXPOSED TO THE CREDIT RISK OF SOME OF OUR CUSTOMERS AND TO CREDIT
+EXPOSURES IN WEAKENED MARKETS
+
+We are experiencing a greater proportion of our sales activity through our
+partners in two-tier distribution channels than we have historically. These
+customers are generally given privileges to return inventory, receive credits
+for changes in selling prices, and participate in cooperative marketing
+programs. We maintain appropriate accruals and allowances for such exposures.
+However, such partners tend to have access to more limited financial resources
+than other resellers and end-user customers and therefore represent potential
+sources of increased credit risk. We are experiencing increased demands for
+customer financing and leasing solutions, particularly from competitive local
+exchange carriers ("CLECs"). CLECs typically finance significant networking
+infrastructure deployments through alternative forms of financing, including
+leasing, through us. Although we have programs in place to monitor and mitigate
+the associated risk, there can be no assurance that such programs will alleviate
+all of our credit risk. We also continue to monitor increased credit exposures
+because of the weakened financial conditions in Asia, and other emerging market
+regions, and the impact that such conditions may have on the worldwide economy.
+Although we have not experienced significant losses due to customers failing to
+meet their obligations to date, such losses, if incurred, could harm our
+business and have a material adverse effect on our operating results and
+financial condition.
+
+WE ARE EXPOSED TO FLUCTUATIONS IN THE MARKET VALUES OF OUR PORTFOLIO INVESTMENTS
+AND IN INTEREST RATES
+
+We maintain investment portfolio holdings of various issuers, types, and
+maturities. These securities are generally classified as available for sale and
+consequently, are recorded on the balance sheet at fair value with unrealized
+gains or losses reported as a separate component of accumulated other
+comprehensive income, net of tax. Part of this portfolio includes minority
+equity investments in several publicly traded companies, the values of which are
+subject to market price volatility. We have also invested in numerous privately
+held companies, many of which can still be considered in the startup or
+development stages. These investments are inherently risky as the market for the
+technologies or products they have under development are typically in the early
+stages and may never materialize. We could lose our entire initial investment in
+these companies. We also have certain real estate lease commitments with
+payments tied to short-term interest rates. At any
+
+
+
+                                       30
+<PAGE>   31
+
+time, a sharp rise in interest rates could have a material adverse impact on the
+fair value of our investment portfolio while increasing the costs associated
+with our lease commitments. Conversely, declines in interest rates could have a
+material impact on interest earnings for our investment portfolio. We do not
+currently hedge these interest rate exposures.
+
+Readers are referred to pages 28-29 of our fiscal 1999 Annual Report to
+Shareholders for a more detailed discussion of quantitative and qualitative
+disclosures about market risk. The following analysis presents the hypothetical
+change in fair values of public equity investments that are sensitive to changes
+in the stock market. These equity securities are held for purposes other than
+trading. The modeling technique used measures the hypothetical change in fair
+values arising from selected hypothetical changes in each stock's price. Stock
+price fluctuations of plus or minus 15%, plus or minus 35%, and plus or minus
+50% were selected based on the probability of their occurrence.
+
+This table estimates the fair value of the publicly traded corporate equities at
+a twelve-month time horizon (in millions):
+
+<TABLE>
+<CAPTION>
+                                                          Fair value
+                            Valuation of security            as of          Valuation of security
+                          given X% decrease in each       January 29,     given X% increase in each
+                                stock's price                2000              stock's price
+                          ----------------------------    -----------     --------------------------
+                          (50%)       (35%)      (15%)                      15%      35%      50%
+                          -----       -----      -----                      ---      ---      ---
+<S>                      <C>         <C>       <C>        <C>             <C>      <C>      <C>
+Corporate Equities       $ 1,762     $ 2,290   $ 2,995     $ 3,523        $4,051   $4,756   $5,285
+</TABLE>
+
+Our equity portfolio consists of securities with characteristics that most
+closely match the S&P Index or companies traded on the NASDAQ Exchange. The
+NASDAQ Composite Index has occurrence of a 15% movement in all of the last three
+years and a 35% and 50% movement in at least one of the last three years.
+
+WE ARE EXPOSED TO UNFAVORABLE ECONOMIC CONDITIONS WORLDWIDE
+
+As a result of recent unfavorable economic conditions, sales to certain
+countries in the Pacific Rim, Eastern Europe, and Latin America have declined as
+a percentage of our total revenue. If the economic conditions in these markets,
+or other markets that recently experienced unfavorable conditions worsen, or if
+these unfavorable conditions result in a wider regional or global economic
+slowdown, this decline may have a material adverse impact on our business,
+operations, and financial condition.
+
+
+
+                                       31
+<PAGE>   32
+
+WE CANNOT PREDICT THE IMPACT OF RECENT ACTIONS AND COMMENTS BY THE SEC AND FASB
+
+Recent actions and comments from the SEC have indicated they are reviewing the
+current valuation methodology of purchased in-process research and development
+related to business combinations. The SEC is concerned that some companies are
+writing off more of the value of an acquisition than is appropriate. We believe
+we are in compliance with all of the rules and related guidance as they
+currently exist. However, there can be no assurance that the SEC will not seek
+to reduce the amount of purchased in-process research and development previously
+expensed by us. This would result in the restatement of our previously filed
+financial statements and could have a material adverse effect on our results of
+operations and financial condition for periods subsequent to the acquisitions.
+Additionally, the Financial Accounting Standards Board ("FASB") has announced
+that it plans to rescind the pooling of interests method of acquisition
+accounting. If this occurs, it could alter our acquisition strategy and
+potentially impair our ability to acquire companies. The FASB has also announced
+that it is reviewing the current accounting rules associated with stock options.
+The FASB is concerned that current practice, as outlined in Accounting
+Principles Board No. 25 ("APB25"), does not accurately reflect appropriate
+compensation expense under a variety of scenarios, including the assumption of
+option plans from acquired companies. The changes proposed could make it more
+difficult to attract and retain qualified personnel and could unfavorably impact
+operating results.
+
+OUR BUSINESS DEPENDS UPON OUR PROPRIETARY RIGHTS, AND THERE IS A RISK OF
+INFRINGEMENT
+
+Our success is dependent upon our proprietary technology. We generally rely upon
+patents, copyrights, trademarks, and trade secret laws to establish and maintain
+our proprietary rights in our technology and products. We have a program to file
+applications for and obtain patents in the United States and in selected foreign
+countries where a potential market for our products exists. We have been issued
+a number of patents; other patent applications are currently pending. There can
+be no assurance that any of these patents will not be challenged, invalidated,
+or circumvented, or that any rights granted thereunder will provide competitive
+advantages to us. In addition, there can be no assurance that patents will be
+issued from pending applications, or that claims allowed on any future patents
+will be sufficiently broad to protect our technology. In addition, the laws of
+some foreign countries may not permit the protection of our proprietary rights
+to the same
+
+
+<PAGE>   33
+
+extent as do the laws of the United States. Although we believe the protection
+afforded by our patents, patent applications, copyrights, and trademarks has
+value, the rapidly changing technology in the networking industry makes our
+future success dependent primarily on the innovative skills, technological
+expertise, and management abilities of our employees rather than on patent,
+copyright, and trademark protection.
+
+Many of our products are designed to include software or other intellectual
+property licensed from third parties. While it may be necessary in the future to
+seek or renew licenses relating to various aspects of our products, we believe
+that based upon past experience and standard industry practice, such licenses
+generally could be obtained on commercially reasonable terms. Because of the
+existence of a large number of patents in the networking field and the rapid
+rate of issuance of new patents, it is not economically practical to determine
+in advance whether a product or any of its components infringe on patent rights
+of others. From time to time, we receive notices from or are sued by third
+parties regarding patent claims. If infringement is alleged, there can be no
+assurance that the necessary licenses would be available on acceptable terms, if
+at all, or that we would prevail in any such challenge. The inability to obtain
+certain licenses or other rights or to obtain such licenses or rights on
+favorable terms, or the need to engage in litigation could have a material
+adverse effect on our business, operating results and financial condition.
+
+WE FACE RISKS FROM THE UNCERTAINTIES OF REGULATION OF THE INTERNET
+
+There are currently few laws or regulations that apply directly to access or
+commerce on the Internet. We could be materially adversely affected by
+regulation in any country where we operate, on such technology as voice over the
+Internet, encryption technology and access charges for Internet service
+providers, as well as the continuing deregulation of the telecommunications
+industry. The adoption of such measures could decrease demand for our products,
+and at the same time increase our cost of selling our products. Changes in laws
+or regulations governing the Internet and Internet commerce could have a
+material adverse effect on our business, operating results and financial
+condition.
+
+
+<PAGE>   34
+
+THE ENTRANCE INTO NEW OR DEVELOPING MARKETS EXPOSES OUR BUSINESS AND OPERATIONS
+TO RISKS
+
+As we focus on new market opportunities, such as transporting data, voice, and
+video traffic across the same network, we will increasingly compete with large
+telecommunications equipment suppliers such as Alcatel, Ericsson, Lucent,
+Nortel, and Siemens, among others, and several well-funded start-up companies.
+Several of our current and potential competitors have greater financial,
+marketing, and technical resources than we do. Additionally, as customers in
+these markets complete infrastructure deployments, they may require greater
+levels of service, support, and financing than we have experienced in the past.
+We have not entered into a material amount of labor intensive service contracts
+which require significant production or customization. However, we expect that
+demand for these types of service contracts will increase in the future. There
+can be no assurance that we can provide products, service, support, and
+financing to effectively compete for these market opportunities. Further,
+provision of greater levels of services by us may result in less favorable
+timing of revenue recognition than we have historically experienced.
+
+WE ARE DEPENDENT UPON THE ABILITY OF SUPPLIERS TO DELIVER PARTS ON TIME
+
+Our growth and ability to meet customer demands also depend in part on our
+ability to obtain timely deliveries of parts from our suppliers. We have
+experienced component shortages in the past that have adversely affected our
+operations. Although we work closely with our suppliers to avoid these types of
+shortages, there can be no assurance that we will not encounter these problems
+in the future.
+
+THE LOCATION OF OUR FACILITIES SUBJECTS US TO THE RISK OF EARTHQUAKES AND FLOODS
+
+Our corporate headquarters, including most of our research and development
+operations and our manufacturing facilities, are located in the Silicon Valley
+area of Northern California, a region known for seismic activity. Additionally,
+one of our manufacturing facilities is located near a river that has experienced
+flooding in the past. A significant natural disaster, such as an earthquake or
+
+
+<PAGE>   35
+
+a flood, could have a material adverse impact on our business, operating results
+and financial condition.
+
+WE DEPEND UPON THE DEVELOPMENT OF NEW PRODUCTS AND ARE SUBJECT TO RAPID CHANGES
+IN TECHNOLOGY AND THE MARKET
+
+Our operating results will depend to a significant extent on our ability to
+reduce the costs to produce existing products. In particular, we broadened our
+product line by introducing network access products. Sales of these products,
+which are generally lower priced and carry lower margins than our core products,
+have increased more rapidly than sales of our core products. The success of
+these and other new products is dependent on several factors, including proper
+new product definition, product cost, timely completion and introduction of new
+products, differentiation of new products from those of our competitors, and
+market acceptance of these products. The markets for our products are
+characterized by rapidly changing technology, evolving industry standards,
+frequent new product introductions, and evolving methods of building and
+operating networks. There can be no assurance that we will successfully identify
+new product opportunities, develop and bring new products to market in a timely
+manner, and achieve market acceptance of our products or that products and
+technologies developed by others will not render our products or technologies
+obsolete or noncompetitive.
+
+WE ARE SUBJECT TO RISKS ASSOCIATED WITH STRATEGIC ALLIANCES
+
+We have increased the number of our strategic alliances with large and complex
+organizations. These arrangements are generally limited to specific projects,
+the goal of which is generally to facilitate product compatibility and adoption
+of industry standards. If successful, these relationships will be mutually
+beneficial and result in industry growth. However, these alliances carry an
+element of risk because, in most cases, we must compete in some business areas
+with a company with which we have strategic alliances and, at the same time,
+cooperate with such company in other business areas. Also, if these companies
+fail to perform, or if these relationships fail to materialize as expected, we
+could suffer delays in product development or other operational difficulties.
+
+THE INDUSTRY IN WHICH WE COMPETE IS SUBJECT TO CONSOLIDATION
+
+There has been a trend toward industry consolidation for several years. We
+expect this trend toward industry consolidation to continue as companies attempt
+to strengthen or hold their market
+
+
+<PAGE>   36
+
+positions in an evolving industry. We believe that industry consolidation may
+provide stronger competitors that are better able to compete as sole-source
+vendors for customers. This could lead to more variability in operating results
+as we compete to be a single vendor solution and could have a material adverse
+effect on our business, operating results and financial condition.
+
+SALES IN THE SERVICE PROVIDER MARKET ARE SUBJECT TO VARIATION
+
+Although sales to the service provider market have grown historically, this
+market is characterized by large, and often sporadic purchases. Sales activity
+in this industry depends upon the stage of completion of expanding network
+infrastructures, the availability of funding, and the extent that service
+providers are affected by regulatory and business conditions in the country of
+operations. A decline or delay in sales orders from this industry could have a
+material adverse effect on our business, operating results and financial
+condition.
+
+WE ARE SUBJECT TO RISKS ASSOCIATED WITH THE MANUFACTURE OF PARTS AND COMPONENTS
+OF OUR PRODUCTS
+
+Although we generally use standard parts and components for our products,
+certain components are presently available only from a single source or limited
+sources. A reduction or interruption in supply or a significant increase in the
+price of one or more components would adversely affect our business, operating
+results and financial condition and could materially damage customer
+relationships.
+
+WE FACE RISKS ASSOCIATED WITH CHANGES IN TELECOMMUNICATIONS REGULATION AND
+TARIFFS
+
+Changes in domestic and international telecommunications requirements could
+affect the sales of our products. In particular, we believe it is possible that
+there may be significant changes in domestic telecommunications regulation in
+the near future that could slow the expansion of the service providers' network
+infrastructures and materially adversely affect our business, operating results
+and financial condition. Future changes in tariffs by regulatory agencies or
+application of tariff requirements to currently untariffed services could affect
+the sales of our products for certain classes of customers. Additionally, in the
+U.S., our products must comply with various Federal Communications Commission
+requirements and regulations. In countries outside of the U.S., our products
+must meet various requirements of local telecommunications authorities. Changes
+in
+
+
+<PAGE>   37
+
+tariffs, or failure by us to obtain timely approval of products could have a
+material adverse effect on our business, operating results, and financial
+condition.
+
+OUR BUSINESS IS SUBJECT TO RISKS FROM INTERNATIONAL OPERATIONS
+
+We conduct business globally. Accordingly, our future results could be
+materially adversely affected by a variety of uncontrollable and changing
+factors including, among others, foreign currency exchange rates; regulatory,
+political, or economic conditions in a specific country or region; trade
+protection measures and other regulatory requirements; government spending
+patterns; and natural disasters. In the first six months of fiscal 2000, the
+sales growth rate in Japan continued to be slower than that in other areas. Any
+or all of these factors could have a material adverse impact on our future
+international business in these or other countries.
+
+OUR BUSINESS SUBSTANTIALLY DEPENDS UPON THE CONTINUED GROWTH OF THE INTERNET AND
+INTERNET-BASED SYSTEMS
+
+We believe that there will be performance problems with Internet communications
+in the future which could receive a high degree of publicity and visibility. As
+we are a large supplier of equipment for the Internet infrastructure, customers'
+perceptions of our products and the marketplace's perception of us as a supplier
+of networking products may be materially adversely affected, regardless of
+whether or not these problems are due to the performance of our products. Such
+an event could also result in a material adverse effect on the market price of
+our common stock and could materially adversely affect our business, operating
+results and financial condition.
+
+OUR STOCK PRICE MAY BE VOLATILE
+
+Our common stock has experienced substantial price volatility, particularly as a
+result of variations between our actual or anticipated financial results, the
+published expectations of analysts, and as a result of announcements by our
+competitors and us. In addition, the stock market has experienced extreme price
+and volume fluctuations that have affected the market price of many technology
+companies, in particular, and that have often been unrelated to the operating
+performance of these companies. These factors, as well as general economic and
+political conditions, may materially adversely affect the market price of our
+common stock in the future.
+
+
+<PAGE>   38
+
+                                      OTHER
+
+PricewaterhouseCoopers LLP ("PWC"), our independent accountants, has notified us
+that PWC is engaged in discussions with the Securities and Exchange Commission
+following an internal review by PWC, pursuant to an administrative settlement
+with the SEC, of PWC's compliance with auditor independence guidelines. PWC has
+advised us that we are one of the companies affected by such discussions. We are
+not involved in the discussions between the SEC and PWC and cannot predict the
+result of those discussions.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The information called for by this item is provided under the caption "We Are
+Exposed To Fluctuations In The Market Values Of Our Portfolio Investments And In
+Interest Rates" under Item 2- Management's Discussion and Analysis of Financial
+Condition and Results of Operations.
+
+
+<PAGE>   39
+
+PART II. OTHER INFORMATION
+
+ITEM 2.  CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+(a) The Board of Directors approved a two-for-one stock split of the Company's
+common stock to holders of record on February 22, 2000 to be distributed on
+March 22, 2000. The Company's Restated Articles of Incorporation will be amended
+to reflect the stock split.
+
+(c) During the quarter, the Company issued an aggregate of approximately 6.6
+million shares of its common stock in exchange for the outstanding capital stock
+of Calista Inc, Tasmania Network Systems, Inc., V-Bits, Inc., WebLine
+Communications Corporation, and Worldwide Data Systems, Inc. The shares were
+issued pursuant to an exemption by reason of Section 4(2) of the Securities Act
+of 1933. These sales were made without general solicitation or advertising. Each
+purchaser was an accredited investor or a sophisticated investor (either alone
+or through its representative) with access to all relevant information
+necessary. The Company has filed Registration Statements on Form S-3 covering
+the resale of such securities.
+
+During the quarter, the Company issued an aggregate of approximately 98.1
+million shares of its common stock in exchange for the outstanding capital stock
+of Cerent Corporation. The shares were issued pursuant to an exemption by reason
+of Section 3(a)(10) of the Securities Act of 1933. The terms and conditions of
+such issuances were approved after a hearing upon the fairness of such terms and
+conditions by a government authority expressly authorized by the law to grant
+such approval.
+
+
+<PAGE>   40
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+              (a)   Exhibit 27 Financial Data Schedule
+
+              (b)   Reports on Form 8-K
+
+
+The Company filed four reports on Form 8-K during the quarter ended January 29,
+2000. Information regarding the items reported on is as follows:
+
+<TABLE>
+<CAPTION>
+Date                           Item Reported On
+- ----                           ----------------
+<S>                            <C>
+November 4, 1999               The Company announced the completion of
+                               the acquisitions of Cerent Corporation and
+                               WebLine Communications Corporation.
+
+November 17, 1999              The Company announced the acquisition of Aironet Wireless
+                               Communications, Inc.
+
+December 15, 1999              The Company reported that the supplementary consolidated
+                               financial information reflected the acquisitions of Fibex
+                               Systems, StratumOne Communications, Inc., TransMedia
+                               Communications, Inc., Cerent Corporation and WebLine
+                               Communications Corporation as if the acquired entities were
+                               wholly owned subsidiaries of the Company since inception.
+
+December 22, 1999              The Company announced the acquisition of the optical systems
+                               business of Pirelli S.p.A of Milan, Italy.
+</TABLE>
+
+
+<PAGE>   41
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                            Cisco Systems, Inc.
+
+
+
+
+Date:  March 13, 2000                       By   /s/ Larry R. Carter
+                                            ------------------------------------
+                                            Larry R. Carter, Senior Vice
+                                            President,
+                                            Finance and Administration, Chief
+                                            Financial Officer, and Secretary
+
+
+<PAGE>   42
+
+                                 EXHIBIT INDEX
+
+
+<TABLE>
+<CAPTION>
+EXHIBIT                            DESCRIPTION
+- -------                            -----------
+<S>                                <C>
+EX-27                              Financial Data Schedule
+</TABLE>
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27
+<SEQUENCE>2
+<DESCRIPTION>EX-27
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary financial information extracted from the
+consolidated
+balance sheet and consolidated statement of operations included in the Company's
+Form
+10-Q for the period ended January 29, 2000 and is qualified in its entirety by
+reference to such financial statements.
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          JUL-29-2000
+<PERIOD-START>                             OCT-31-1999
+<PERIOD-END>                               JAN-29-2000
+<CASH>                                           3,719
+<SECURITIES>                                    11,175
+<RECEIVABLES>                                    1,740
+<ALLOWANCES>                                        29
+<INVENTORY>                                        695
+<CURRENT-ASSETS>                                 7,722
+<PP&E>                                           2,251
+<DEPRECIATION>                                   1,247
+<TOTAL-ASSETS>                                  21,391
+<CURRENT-LIABILITIES>                            3,778
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                         7,691
+<OTHER-SE>                                       8,832
+<TOTAL-LIABILITY-AND-EQUITY>                    21,391
+<SALES>                                          8,264
+<TOTAL-REVENUES>                                 8,264
+<CGS>                                            2,923
+<TOTAL-COSTS>                                    2,923
+<OTHER-EXPENSES>                                 3,367
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                   0
+<INCOME-PRETAX>                                  1,974
+<INCOME-TAX>                                       729
+<INCOME-CONTINUING>                              1,245
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                     1,245
+<EPS-BASIC>                                     0.37<F1>
+<EPS-DILUTED>                                     0.34
+<FN>
+<F1>For purposes of this statement, primary means basic.
+</FN>
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

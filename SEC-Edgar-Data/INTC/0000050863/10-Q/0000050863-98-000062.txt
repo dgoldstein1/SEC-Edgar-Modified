@@ -1,0 +1,3270 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ R9Y/Nv/Hc0aheWay6vT8/SWDF5bpXl5pmSUthiMfbt8cmrQ1OHfn5xt2HIiCeTs9
+ dp806ejkcdTV9dTohLYEWw==
+
+<SEC-DOCUMENT>0000050863-98-000062.txt : 19980812
+<SEC-HEADER>0000050863-98-000062.hdr.sgml : 19980812
+ACCESSION NUMBER:		0000050863-98-000062
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	19980627
+FILED AS OF DATE:		19980811
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		
+		SEC FILE NUMBER:	333-45395
+		FILM NUMBER:		98682299
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<DESCRIPTION>QUARTERLY REPORT FOR 6 MONTHS ENDING JUNE 27, 1998
+<TEXT>
+
+
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+  X    Quarterly report pursuant to Section 13 or 15(d) of the Securities
+- -----  Exchange Act of 1934
+       For the quarterly period ended June 27, 1998
+
+       OR
+       Transition report pursuant to Section 13 or 15(d) of the Securities
+- -----  Exchange Act of 1934
+       For the transition period from                 to
+                                      ---------------    ---------------
+
+Commission File Number  0-6217
+                        ------
+
+                                INTEL CORPORATION
+              (Exact name of Registrant as specified in its charter)
+
+          Delaware                                           94-1672743
+          --------                                           ----------
+(State or other jurisdiction of                          (I.R.S. Employer
+incorporation or organization)                           Identification No.)
+
+
+2200 Mission College Boulevard, Santa Clara, California      95052-8119
+- -------------------------------------------------------      ----------
+       (Address of principal executive offices)              (Zip Code)
+
+                                  (408) 765-8080
+                                  --------------
+               (Registrant's telephone number, including area code)
+
+                                       N/A
+                                 ---------------
+ (Former name, former address, and former fiscal year, if changed since last
+  report.)
+
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  Yes   X     No
+                                                    -----      -----
+              Shares outstanding of the Registrant's common stock:
+
+          Class                                 Outstanding at June 27, 1998
+Common Stock, $.001 par value                            1,680 million
+
+<PAGE> 2
+
+PART I - FINANCIAL INFORMATION
+
+Item 1.  Financial Statements
+
+Intel Corporation
+Consolidated Condensed Statements of Income (unaudited)
+(in millions, except per share amounts)
+<TABLE>
+
+                                        Three Months Ended   Six Months Ended
+                                        ------------------   ----------------
+                                        Jun. 27,  Jun. 28,   Jun. 27, Jun 28,
+                                          1998      1997       1998    1997
+                                          ----      ----       ----    ----
+                                                         
+<S>                                     <C>       <C>        <C>      <C>
+Net revenues                            $ 5,927   $ 5,960    $11,928  $12,408
+Costs and expenses:                                      
+ Cost of sales                            3,027     2,343      5,776    4,650
+ Research and development                   623       575      1,218    1,156
+ Marketing, general and administrative      671       704      1,382    1,397
+ Purchased in-process research and                                             
+  development                                --        --        165       --
+                                        -------   -------    -------  -------
+Operating costs and expenses              4,321     3,622      8,541    7,203
+                                        -------   -------    -------  -------
+Operating income                          1,606     2,338      3,387    5,205
+Interest expense                             (8)       (7)       (15)     (14)
+Interest income and other, net              152       219        359      434
+                                        -------   -------    -------  -------
+Income before taxes                       1,750     2,550      3,731    5,625
+                                   
+Provision for taxes                         578       905      1,286    1,997
+                                        -------   -------    -------  -------
+Net income                              $ 1,172   $ 1,645    $ 2,445  $ 3,628
+                                        =======   =======    =======  =======
+                                                         
+Basic earnings per common share         $  0.69   $  1.01    $  1.47  $  2.22
+                                        =======   =======    =======  =======
+                                                         
+Diluted earnings per common share       $  0.66   $  0.92    $  1.38  $  2.02
+                                        =======   =======    =======  =======
+Cash dividends declared per
+ common share                           $  0.00   $  0.03    $  0.03  $ 0.055
+                                        =======   =======    =======  =======
+Weighted average common shares
+ outstanding                              1,691     1,635      1,666    1,636
+Dilutive effect of:                                      
+ Employee stock options                      78       106         83      106
+ 1998 Step-Up Warrants                       --        56         23       56
+                                        -------   -------    -------  -------
+Weighted average common shares                     
+ outstanding, assuming dilution           1,769     1,797      1,772    1,798
+                                        =======   =======    =======  =======
+</TABLE>
+
+See Notes to Consolidated Condensed Financial Statements.
+
+<PAGE> 3
+
+Item 1.  Financial Statements (continued)
+
+<TABLE>
+Intel Corporation
+Consolidated Condensed Balance Sheets           Jun. 27,   Dec. 27,
+(in millions)                                     1998       1997
+                                                  ----       ----
+                                               (unaudited)
+<S>                                            <C>         <C>
+ASSETS
+Current assets:
+ Cash and cash equivalents                     $ 1,887     $ 4,102
+ Short-term investments                          5,522       5,630
+ Trading assets                                    289         195
+ Accounts receivable, net                        3,126       3,438
+ Inventories:                                               
+  Raw materials                                    250         255
+  Work in process                                  988         928
+  Finished goods                                   465         514
+                                               -------     -------
+                                                 1,703       1,697
+                                               -------     -------
+ Deferred tax assets                               665         676
+ Other current assets                              176         129
+                                               -------     -------
+Total current assets                            13,368      15,867
+                                               -------     -------
+Property, plant and equipment                   20,303      18,127
+Less accumulated depreciation                   (8,300)     (7,461)
+                                               -------     -------
+Property, plant and equipment, net              12,003      10,666
+Long-term investments                            2,040       1,839
+Other assets                                     1,007         508
+                                               -------     -------
+TOTAL ASSETS                                   $28,418     $28,880
+                                               =======     =======              
+
+LIABILITIES AND STOCKHOLDERS' EQUITY                         
+Current liabilities:                                         
+ Short-term debt                               $   132     $   212
+ Long-term debt redeemable within one year         110         110
+ Accounts payable                                1,092       1,407
+ Accrued compensation and benefits                 883       1,268
+ Deferred income on shipments to distributors      391         516
+ Accrued advertising                               362         500
+ Other accrued liabilities                       1,108         842
+ Income taxes payable                              176       1,165
+                                               -------     -------
+Total current liabilities                        4,254       6,020
+                                               -------     -------
+Long-term debt                                     472         448
+Deferred tax liabilities                         1,248       1,076
+Put warrants                                       711       2,041
+Stockholders' equity:                                        
+ Preferred stock                                    --          --
+ Common stock and capital in excess                         
+  of par value                                   4,853       3,311
+ Retained earnings                              16,664      15,926
+ Accumulated other comprehensive income            216          58
+                                               -------     -------
+Total stockholders' equity                      21,733      19,295
+                                               -------     -------
+
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY     $28,418     $28,880
+                                               =======     =======
+</TABLE>     
+
+Certain 1997 amounts have been reclassified to conform to the 1998 presentation.
+See Notes to Consolidated Condensed Financial Statements.
+
+<PAGE> 4
+
+Item 1.  Financial Statements (continued)
+
+Intel Corporation
+Consolidated Condensed Statements of Cash Flows (unaudited)
+(in millions)
+<TABLE>
+                                                            Six Months Ended
+                                                            ----------------
+                                                        Jun. 27,      Jun. 28,
+                                                          1998          1997
+                                                          ----          ----
+<S>                                                     <C>           <C>
+Cash flows provided by (used for) operating 
+ activities:
+Net income                                              $  2,445      $  3,628
+Adjustments to reconcile net income to net cash 
+  provided by operating activities:                                 
+ Depreciation                                              1,304         1,050
+ Net loss on retirements of property, plant and 
+  equipment                                                   89            23
+ Deferred taxes                                              105            81
+ Purchased in-process research and development               165            --
+ Changes in assets and liabilities:                       
+  Accounts receivable                                        337          (227)
+  Inventories                                                 46          (150)
+  Accounts payable                                          (332)           53
+  Accrued compensation and benefits                         (385)         (191)
+  Income taxes payable                                      (993)         (444)
+  Tax benefit from employee stock plans                      181           117
+  Other assets and liabilities                              (489)          193
+                                                         -------       -------
+   Total adjustments                                          28           505
+                                                         -------       -------
+Net cash provided by operating activities                  2,473         4,133
+                                                         -------       -------
+Cash flows provided by (used for) investing                
+  activities:
+ Additions to property, plant and equipment               (2,206)       (1,758)
+ Purchase of Chips and Technologies, Inc., 
+  net of cash acquired                                      (321)           --
+ Purchase of Digital Equipment Corporation                 
+  semiconductor operations                                  (625)           --
+ Purchases of available-for-sale investments              (4,528)       (3,380)
+ Sales of available-for-sale investments                      46            93
+ Maturities and other changes in available-for-sale                       
+  investments                                              4,717         3,047
+                                                         -------       -------
+Net cash (used for) investing activities                  (2,917)       (1,998)
+                                                         -------       -------
+Cash flows provided by (used for) financing                
+  activities:
+ (Decrease) in short-term debt, net                         (80)          (208)
+ Additions to long-term debt                                 34             68
+ Retirement of long-term debt                                --           (300)
+ Proceeds from sales of shares through employee 
+  stock plans and other                                     259            178
+ Proceeds from exercise of 1998 Step-Up Warrants          1,620             26
+ Proceeds from sales of put warrants                         27            141
+ Repurchase and retirement of Common Stock               (3,531)        (2,121)
+ Payment of dividends to stockholders                      (100)           (82)
+                                                        -------        -------
+Net cash (used for) financing activities                 (1,771)        (2,298)
+                                                        -------        -------
+Net (decrease) in cash and cash equivalents             $(2,215)       $  (163)
+                                                        =======        =======
+                                                           
+Supplemental disclosures of cash flow information:
+ Cash paid during the period for:                         
+  Interest                                              $    18        $    21
+  Income taxes                                          $ 1,989        $ 2,243
+</TABLE>
+
+Certain 1997 amounts have been reclassified to conform to the 1998 presentation.
+See Notes to Consolidated Condensed Financial Statements.
+
+<PAGE> 5
+
+Item 1.  Financial Statements (continued)
+
+Intel Corporation, Notes to Consolidated Condensed Financial Statements
+
+1.   The accompanying interim consolidated condensed financial statements of
+     Intel Corporation ("Intel," the "Company" or the "Registrant") have been
+     prepared in conformity with generally accepted accounting principles,
+     consistent in all material respects with those applied in the Annual
+     Report on Form 10-K for the year ended December 27, 1997. The interim
+     financial information is unaudited, but reflects all normal adjustments
+     which are, in the opinion of management, necessary to provide a fair
+     statement of results for the interim periods presented. The interim
+     financial statements should be read in connection with the financial
+     statements in the Company's Annual Report on Form 10-K for the year ended
+     December 27, 1997.
+
+2.   As of the second quarter of 1998, the Company adopted a new dividend
+     declaration schedule which will result in the Board of Directors
+     considering two dividend declarations in the first and third quarters of
+     the year and no declarations in the second and fourth quarters of the year.
+     The new declaration schedule does not change the Company's historical
+     quarterly dividend payment schedule. In keeping with this new schedule, no
+     dividend was declared in the second quarter of 1998, and on July 22, 1998
+     the Board of Directors declared a dividend of $.03 per share payable
+     September 1, 1998 to stockholders of record on August 7, 1998.
+
+3.   Interest and other income includes (in millions):
+     <TABLE>
+                                 Three Months Ended         Six Months Ended
+                                 ------------------         ----------------
+                                 Jun. 27,   Jun. 28,       Jun. 27,   Jun. 28,
+                                  1998       1997           1998       1997
+                                  ----       ----           ----       ----
+     <S>                          <C>        <C>            <C>        <C>
+     Interest income              $   143    $   142        $   303    $   269
+     Foreign currency gains             3         12              3         25
+     Other income (expense), net        6         65             53        140
+                                  -------    -------        -------    -------
+     Total                        $   152    $   219        $   359    $   434
+                                  =======    =======        =======    =======
+     </TABLE>
+
+     Other income for the six months ended June 27, 1998 consists primarily of
+     gains on sales of equity investments.
+
+4.   The Company has adopted Statement of Financial Accounting Standards
+     ("SFAS") No. 130, "Reporting Comprehensive Income," as of the first
+     quarter of 1998. SFAS No. 130 establishes new rules for the reporting and
+     display of comprehensive income and its components, however it has no
+     impact on the Company's net income or total stockholders' equity.
+
+     The components of comprehensive income, net of tax, are as follows
+     (in millions):
+     <TABLE>
+                                         Three Months Ended      Six Months Ended
+                                         ------------------      ----------------
+                                         Jun. 27,   Jun. 28,     Jun. 27, Jun. 28,
+                                          1998       1997         1998     1997
+                                          ----       ----         ----     ----
+     <S>                                 <C>        <C>          <C>      <C>
+     Net income                          $ 1,172    $ 1,645      $ 2,445  $ 3,628
+     Change in unrealized gain (loss) on                                         
+       available-for-sale investments         61         33          158      (53)
+                                         -------    -------      -------  -------
+     Total                               $ 1,233    $ 1,678      $ 2,603  $ 3,575
+                                         =======    =======      =======  =======
+     </TABLE>
+
+     Accumulated other comprehensive income presented on the accompanying
+     consolidated condensed balance sheets consists of the accumulated net
+     unrealized gain on available-for-sale investments.
+
+<PAGE> 6
+
+Item 1.  Financial Statements (continued)
+
+Intel Corporation, Notes to Consolidated Condensed Financial Statements
+(continued)
+
+5.   Between December 27, 1997 and March 14, 1998, approximately 78 million of
+     the Company's 1998 Step-Up Warrants to purchase shares of Common Stock
+     were exercised at a price of $20.875 per share. Approximately 78 million
+     shares of Common Stock were issued, and the Company received proceeds of
+     approximately $1.6 billion. The expiration date of these warrants was
+     March 14, 1998.
+
+6.   During the first half of 1998, the Company repurchased 44.3 million shares
+     of Common Stock under the Company's authorized repurchase program at a cost
+     of $3.5 billion, including $920 million to purchase 12 million shares upon
+     the exercise of outstanding put warrants. During the first quarter of 1998,
+     the Company's Board of Directors approved an increase in the repurchase
+     program of up to 100 million additional shares, bringing the total
+     authorization to 380 million shares. As of June 27, 1998, after allowing
+     for the outstanding put warrants, approximately 113.8 million shares
+     remained available under the repurchase program. (See Item 2. Management's
+     Discussion and Analysis for subsequent activity.)
+
+7.   In a series of private placements during the 1991-1998 period, the Company
+     sold put warrants that entitle the holder of each warrant to sell to the
+     Company, by physical delivery, one share of Common Stock at a specified
+     price. Activity during the first half of 1998 is summarized as follows:
+     <TABLE>
+                                                      Put Warrants Outstanding
+                                                      ------------------------
+                         Cumulative Proceeds     Number            Potential
+     (in millions)            Received        Of Warrants         Obligation
+     -------------            --------        -----------         ----------
+     <S>                 <C>                  <C>                 <C>
+     December 27, 1997         $ 623              26.3              $2,041
+     Exercises                    --              (1.7)               (127)
+     Expirations                  --              (9.8)               (729)
+                              -------          -------              -------
+     March 28, 1998            $ 623              14.8              $1,185
+     Sales                        27               5.0                 387
+     Exercises                    --             (10.3)               (793)
+     Expirations                  --              (1.0)                (68)
+                              -------          -------              -------
+     June 27, 1998             $ 650               8.5              $  711
+                              =======          =======              =======
+     </TABLE>
+ 
+     A total of 5 million put warrants were sold to commercial and investment
+     banks during May 1998. They expire on various dates between October and
+     November 1998 and have exercise prices ranging from $70 to $80 per share,
+     with an average exercise price of $77. The 8.5 million put warrants
+     outstanding on June 27, 1998 expire on various dates between August and
+     November 1998 and have exercise prices ranging from $70 to $95 per share,
+     with an average exercise price of $84. The amount related to the Company's
+     potential buyback obligation has been reclassified from Stockholders' 
+     Equity and recorded as put warrants. There is no material dilutive effect 
+     on earnings per share for the periods presented. (See Item 2. Management's
+     Discussion and Analysis for subsequent activity.)
+
+<PAGE> 7
+
+Item 1.  Financial Statements (continued)
+
+Intel Corporation, Notes to Consolidated Condensed Financial Statements
+(continued)
+
+8.   In January 1998, the Company acquired the outstanding shares of Chips and
+     Technologies, Inc., a supplier of graphics accelerator chips for mobile
+     computing products. The purchase price was approximately $430 million ($321
+     million in net cash). During the first quarter of 1998, the Company
+     recorded a nondeductible charge of $165 million for purchased in-process
+     research and development, representing the appraised value of products
+     still in the development stage that were not considered to have reached
+     technological feasibility and had no alternative future use.
+
+     In May 1998, the Company purchased the semiconductor operations of Digital
+     Equipment Corporation, including manufacturing facilities in Massachusetts
+     as well as development operations in Israel and Texas, for approximately
+     $625 million in cash, subject to certain adjustments. Assets acquired
+     consisted primarily of property, plant and equipment. Following the
+     completion of the purchase, all lawsuits between the companies were
+     dismissed with prejudice.
+
+9.   SFAS No. 133, "Accounting for Derivative Instruments and Hedging
+     Activities," was issued by the Financial Accounting Standards Board in
+     June 1998.  The Standard will require the Company to recognize all
+     derivatives on the balance sheet at fair value. Derivatives that are
+     not hedges must be adjusted to fair value through income. If the
+     derivative is a hedge, depending on the nature of the hedge, changes in
+     the fair value of derivatives will either be offset against the change
+     in fair value of the hedged assets, liabilities, or firm commitments
+     through earnings, or recognized in other comprehensive income until the
+     hedged item is recognized in earnings. The change in a derivative's fair
+     value related to the ineffective portion of a hedge, if any, will be
+     immediately recognized in earnings. The Company expects to adopt this
+     Standard as of the beginning of its fiscal year 2000. The effect of
+     adopting the Standard is currently being evaluated, but is not expected
+     to have a material effect on the Company's financial position or results
+     of operations.
+
+10.  In November 1997, Intergraph Corporation ("Intergraph") filed suit in
+     U.S. District Court in Alabama generally alleging that Intel attempted
+     to coerce Intergraph into relinquishing certain patent rights and
+     alleging infringement on three Intergraph patents as well as violations
+     of antitrust laws and various state law claims. In April 1998, the Court
+     ordered Intel to continue to treat Intergraph as it does allegedly
+     similarly-situated customers. In June 1998, Intel answered the Amended
+     Complaint of Intergraph and filed counter claims against Intergraph for
+     infringement of seven patents covering various aspects of computer
+     system performance. Also in June, Intel filed a motion for summary
+     judgment on Intergraph's patent claims on the grounds that Intel is
+     licensed to use those patents. In July, the Company received a letter
+     stating that Intergraph believes that the patent damages will be
+     "several billion dollars by the time of trial." In addition, Intergraph
+     alleges that Intel's infringement is willful and that any damages awarded
+     should be trebled. The letter also stated that Intergraph believes that
+     antitrust, unfair competition and tort and contract damages will be
+     "hundreds of millions of dollars by the time of trial." The Company
+     disputes Intergraph's claims and intends to defend the lawsuit vigorously.
+    
+     The Company is currently party to various legal proceedings, including
+     that noted above. While management, including internal counsel, currently
+     believes that the ultimate outcome of these proceedings will not have a
+     material adverse effect on the Company's financial position or overall
+     trends in results of operations, litigation is subject to inherent
+     uncertainties. Were an unfavorable ruling to occur, there exists the
+     possibility of a material adverse impact on the net income of the period
+     in which it occurs.
+
+<PAGE> 8
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations
+
+Results of Operations - Second Quarter of 1998 Compared to Second Quarter
+                        of 1997
+
+Revenues for Q2 1998 were essentially flat compared to Q2 1997. Processor unit
+volumes increased compared to Q2 1997, offset by lower processor prices and
+decreasing revenues from sales of related board-level products, as well as
+lower revenues from sales of flash memory and embedded control products.
+Revenues from networking and graphics products increased. Unit volumes of
+processors based on the P6 micro-architecture** increased and were partially
+offset by lower volumes of Pentium(R) family processors.
+
+Cost of sales increased by 29% from Q2 1997 to Q2 1998 due to the shift in
+product mix to the Pentium(R) II processor, reflecting the cost of purchased
+components for the Single Edge Contact ("SEC") cartridge, higher unit volumes,
+and higher fixed costs. In addition, in Q2 1998 reductions in product costs on
+the highest volume processors caused inventories to be written-down to the new
+lower costs.  Gross margin decreased to 49% in Q2 1998 from 61% in Q2 1997
+primarily due to the lower processor prices, the impact of the SEC cartridge,
+the inventory write-downs and higher fixed costs.
+
+For Q2 1998, sales of microprocessors based on the P6 micro-architecture
+represented a majority of the Company's revenues and a substantial majority of
+its gross margin. For Q2 1997, these products represented a significant and
+growing portion of both revenues and gross margin. Sales of Pentium family
+microprocessors represented a significant but declining portion of the
+Company's revenues and gross margin in Q2 1998, and they constituted a majority
+of revenues and a substantial majority of gross margin in Q2 1997. No other
+product group represented a significant portion of the Company's revenues or
+gross margin during Q2 1998 or Q2 1997.
+
+Operating expenses were essentially flat between Q2 1997 and Q2 1998. Research
+and development spending on process and product development programs increased
+while Intel Inside(R) and profit dependent expenses decreased. Operating 
+expenses were 21.8% of revenues in Q2 of 1998 and 21.5% in Q2 1997.
+
+Interest and other income for Q2 1998 decreased by $67 million over the prior
+year. Net gains associated with the Company's equity investments and foreign
+currency gains were lower than in Q2 1997.
+
+The provision for taxes for Q2 1998 decreased by $327 million over the prior
+year primarily due to a decrease in pretax income in Q2 1998.  The effective
+tax rate decreased from 35.5% for Q2 1997 to 33% for Q2 1998.
+
+
+Results of Operations - First Half of 1998 Compared to First Half of 1997
+
+Revenues for the first half of 1998 decreased by 4% compared to the first half
+of 1997, primarily due to lower processor prices and decreasing revenues from
+sales of related board-level products, as well as lower revenues from sales of
+flash memory and embedded control products. Revenues from networking and
+graphics products increased. Processor unit volumes increased in comparison to
+the first half of 1997, with higher volumes of processors based on the P6
+micro-architecture partially offset by lower volumes of Pentium family
+processors.
+
+Cost of sales rose by 24% from the first half of 1997 to the first half of 1998
+due to the shift in product mix to the Pentium II processor, reflecting the
+cost of purchased components for the SEC cartridge, higher unit volumes, the
+inventory write-downs due to cost reductions, and higher fixed costs.  Gross
+margin decreased to 52% in the first half of 1998 from 63% in the first half
+1997 primarily due to the lower processor prices, the impact of the SEC
+cartridge, the inventory write-downs and higher fixed costs.
+
+
+
+- -----------------
+** The P6 micro-architecture products include the Pentium(R) II, Pentium(R) II
+Xeon(TM), Pentium(R) Pro and Intel(R) Celeron(TM) processors.
+
+<PAGE> 9
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (continued)
+
+Results of Operations - First Half of 1998 Compared to First Half of 1997
+                        (continued)
+
+For the first half of 1998, sales of microprocessors based on the P6
+micro-architecture represented a significant and growing portion of the
+Company's revenues and a majority of its gross margin. For first half of 1997,
+these products represented a significant and growing portion of both revenues
+and gross margin. Sales of Pentium family microprocessors represented a
+significant but declining portion of the Company's revenues and gross margin
+in the first half of 1998, and they constituted a majority of revenues and a
+substantial majority of gross margin in the first half of 1997. No other
+product group represented a significant portion of the Company's revenues or
+gross margin during the first half of 1998 or 1997.
+
+Operating expenses rose by a total of $212 million from the first half of
+1997 to the first half of 1998, and included a one-time charge of $165 million
+for in-process research and development related to the acquisition of Chips
+and Technologies, Inc. which was completed in the first quarter of 1998. The
+remaining increase was primarily due to higher levels of spending on product
+development programs.  Excluding the one-time charge, operating expenses were
+21.8% of revenues in the first half of 1998 versus 20.6% in the first half of
+1997.
+
+Interest and other income for the first half of 1998 decreased by $75 million
+over the prior year. Net gains associated with the Company's equity investments
+and foreign currency gains were lower than in the first half of 1997, partially
+offset by interest on a higher average investment balance.
+
+The provision for taxes for the first half of 1998 decreased by $711 million
+over the prior year primarily due to a decrease in pretax income. The effective
+tax rate decreased from 35.5% for the first half of 1997 to 33% for the first
+half of 1998, excluding the impact of the nondeductible charge related to the
+acquisition of Chips and Technologies, Inc.
+
+
+Financial Condition
+
+The Company's financial condition remains very strong. As of June 27, 1998,
+cash, trading assets and short- and long-term investments totaled $9.7 billion,
+down from $11.8 billion at December 27, 1997. The Company's other sources of
+liquidity include authorized commercial paper borrowings of up to $700 million.
+The Company also maintains the authority to issue an aggregate of approximately
+$1.4 billion in debt, equity and other securities under Securities and Exchange
+Commission shelf registration statements.
+
+Major sources of cash during the first half of 1998 included cash generated
+from operations, which totaled $2.5 billion, and approximately $1.6 billion
+received upon the exercise of the 1998 Step-Up Warrants. Major uses of cash
+during the first half of 1998 included capital spending of $2.2 billion for
+property, plant and equipment, primarily for microprocessor manufacturing
+capacity, $3.5 billion to buy back 44.3 million shares of Common Stock and $946
+million in net cash paid for the purchases of Chips and Technologies, Inc. and
+the semiconductor manufacturing operations of Digital Equipment Corporation
+("Digital").
+
+The Company's five largest customers accounted for approximately 41% of net
+revenues for the six month period ended June 27, 1998. At June 27, 1998, these
+customers accounted for approximately 40% of net accounts receivable.
+
+Key financing activities in the first half of 1998 included the repurchase of
+44.3 million shares of Common Stock for $3.5 billion as part of the Company's
+authorized stock repurchase program, including $920 million for the purchase
+of 12 million shares upon the exercise of outstanding put warrants. The Company
+also sold 5 million put warrants, receiving proceeds of $27 million, while 10.8
+million previously outstanding put warrants expired unexercised. From June 27,
+1998 through August 5, 1998, the Company repurchased 4 million shares of its
+
+<PAGE> 10
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (continued)
+
+Financial Condition (continued)
+
+Common Stock at a cost of $336 million and sold 0.5 million put warrants. As of
+August 5, 1998, Intel had the potential obligation to repurchase 9 million
+shares of Common Stock at an aggregate cost of $751 million under outstanding
+put warrants. The exercise price of these outstanding warrants ranged from $70
+to $95 per share, with an average exercise price of $83 per share. During the
+first quarter of 1998, the Company's Board of Directors approved an increase of
+up to 100 million additional shares in the Company's repurchase program. This
+increase brings the total authorization to 380 million shares.  As of August 5,
+1998, 109.3 million shares remained available for repurchase under the
+repurchase authorization, after allowing for the outstanding put warrants.
+
+Management considers cash flow from operations and available sources of
+liquidity to be adequate to meet business requirements in the foreseeable
+future, including planned capital expenditure programs, working capital
+requirements, the put warrant obligation and the dividend program.
+
+
+Outlook
+
+The outlook section contains a number of forward-looking statements, all of
+which are based on current expectations. Actual results may differ materially.
+These statements do not reflect the potential impact of any future mergers or
+acquisitions.
+
+The Company expects revenue for the third quarter of 1998 to be flat to
+slightly up from the second quarter revenue of $5.9 billion. Consistent with
+the Company's earlier expectations, revenue in the second half of 1998 is
+expected to be greater than revenue in the first half. Revenue is partly a
+function of the mix of microprocessor types and speeds, purchased components
+and other products, all of which are difficult to forecast. Because of the
+large price difference between types of microprocessors, this mix affects the
+average price Intel will realize and has a large impact on Intel's revenues.
+Revenue is also subject to the rate of growth of the computing industry and the
+impact of economic conditions in various geographic regions.
+
+Intel's strategy is to introduce ever-higher performance microprocessors
+tailored for the different segments of the worldwide computer market, using a
+tiered branding approach. To implement this strategy, the Company plans to
+cultivate new businesses and continue to work with the software industry to
+develop compelling applications that can take advantage of this higher
+performance, thus driving demand toward the newer products in each computer
+market segment. In line with this strategy, the Company is seeking to develop
+higher performance microprocessors for each market segment, including servers,
+workstations, high-end business PCs, the basic PC and other product lines.
+During the second quarter, the Company introduced higher performance versions
+of the Pentium II and Celeron(TM) brand processors and began shipping the
+Pentium(R) II Xeon(TM) brand processor in support of its launch on June 29, 
+1998.  The Company may continue to reduce microprocessor prices at such times as
+it deems appropriate in order to bring its technology to market within each
+relevant market segment.
+
+The Company expects the gross margin percentage in the third quarter of 1998
+to be up a couple of points from 49 percent in the second quarter. Intel's
+gross margin expectation for the full year 1998 is unchanged at 52 percent,
+plus or minus a few points.  The Company's goal continues to be to grow gross
+margin dollars, and the Company believes that over the long-term, the gross
+margin percentage will be 50 percent plus or minus a few points. Intel's gross
+margin percentage in any period varies depending on the level of revenues and
+on the mix of types and speeds of microprocessors sold, as well as the mix of
+microprocessors and purchased components. The Pentium II processor is packaged
+with purchased components in the SEC cartridge, and the inclusion of purchased
+components tends to increase unit costs. Accordingly, sales of the Pentium II
+processor increase absolute dollar margins but tend to lower the gross margin
+percentage. Various other factors (including unit volumes and costs, yield
+issues associated with production at factories, ramp of new technologies,
+excess or obsolete inventory, variations in inventory valuation and mix of
+shipments of other semiconductors) will also continue to affect the amount of
+cost of sales and the variability of gross margin percentages.
+
+<PAGE> 11
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (continued)
+
+Outlook (continued)
+
+The Company has expanded manufacturing capacity over the last few years and
+continues to plan capacity based on the assumed continued success of its
+strategy and the acceptance of its products in specific market segments. The
+Company currently expects capital expenditures for 1998 to be approximately
+$4.5 to $4.7 billion, flat to slightly up from $4.5 billion in 1997, but down
+from previous guidance for the year of approximately $5.0 billion. The
+acceleration of 0.18 micron manufacturing process technology in 1999 allows
+the Company to reduce spending on current generation technology. The current
+estimate includes the acquisition of the capital assets of Digital's
+semiconductor manufacturing operations. This spending plan is dependent upon
+expectations regarding manufacturing efficiencies, delivery times of various
+machines and construction schedules for new facilities. Depreciation for 1998
+is expected to be approximately $2.9 billion and depreciation in the third
+quarter of 1998 is expected to be approximately $760 million.
+
+Spending on research and development and marketing, general and administrative
+expenses in the third quarter of 1998 is expected to be approximately 3 to 5
+percent higher than the $1.3 billion in the second quarter of 1998. Expense
+projections for the third quarter of 1998 incorporate expected higher spending
+for research and development, merchandising and Intel Inside(R), and are subject
+in part to changes in revenue and profit dependent expenses. Research and
+development spending for 1998 is expected to be approximately $2.8 billion,
+including the approximately $165 million for in-process research and
+development associated with the acquisition of Chips and Technologies, Inc.
+in the first quarter.
+
+In an effort to control expenses, at the end of the first quarter of this year
+the Company announced plans to reduce headcount by approximately 3,000 people
+over a 6 month period. The timeframe to complete the reduction has been
+extended by one quarter to the end of the year.
+
+The Company expects interest and other income for the third quarter of 1998 to
+be approximately $145 million, assuming no significant changes in interest
+rates or expected cash balances, and no unanticipated items.
+
+The tax rate for the remaining quarters of 1998 is expected to be 33%.
+
+Intel has established a team to address the issues raised by the introduction
+of the Single European Currency (Euro) for initial implementation as of
+January 1, 1999 and during the transition period through to January 1, 2002.
+Intel expects that its internal systems that will be affected by the initial
+introduction of the Euro will be Euro capable by January 1, 1999, and does not
+expect the costs of system modifications to be material. The Company does not
+presently expect that introduction and use of the Euro will materially affect
+the Company's foreign exchange and hedging activities, or the Company's use
+of derivative instruments, or will result in any material increase in costs
+to the Company. While Intel will continue to evaluate the impact of the Euro
+introduction over time, based on currently available information, management
+does not believe that the introduction of the Euro currency will have a
+material adverse impact on the Company's financial condition or overall trends
+in results of operations.
+
+Like many other companies, the year 2000 computer issue creates risks for
+Intel. If internal systems do not correctly recognize and process date
+information beyond the year 1999, there could be an adverse impact on the
+Company's operations. There are two other related issues which could also lead
+to incorrect calculations or failures: i) some systems' programming assigns
+special meaning to certain dates, such as 9/9/99, and ii) the year 2000 is a
+leap year. To address these year 2000 issues with its internal systems, the
+Company has initiated a comprehensive program which is designed to deal with
+the most critical systems first. Assessment and remediation are proceeding in
+tandem, and the Company currently plans to have changes to critical systems
+completed and tested by mid-1999. These activities are intended to encompass
+all major categories of systems in use by the Company, including manufacturing,
+sales, finance and human resources.  Intel is also actively working with
+critical suppliers of products and services to determine that the suppliers'
+operations and the products and services they provide are year 2000 capable
+
+<PAGE> 12
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (continued)
+
+Outlook (continued)
+
+or to monitor their progress toward year 2000 capability. In addition, the
+Company has commenced work on various types of contingency planning to
+address potential problem areas with internal systems and with suppliers and
+other third parties. It is expected that assessment, remediation and
+contingency planning activities will be on-going throughout 1998 and 1999 with
+the goal of appropriately resolving all material internal systems and third
+party issues.
+
+The Company also has a program to assess the capability of its products to
+handle the year 2000. To assist customers in evaluating their year 2000 issues,
+the Company has developed a list which indicates the capability of Intel's
+current products, and certain products no longer being produced, to handle the
+year 2000. Products are assigned to one of five categories as defined by the
+Company: "Year 2000 Capable", "Year 2000 Capable" with update, not "Year 2000
+Capable", under evaluation, or will not test.  The list is located at the
+Company's Year 2000 support website and is periodically updated as analysis on
+additional products is completed. All Intel processors are "Year 2000 Capable."
+However, the assessment of whether a complete system will operate correctly
+depends on the BIOS capability and software design and integration, and for
+many end-users this will include BIOS and software provided by companies other
+than Intel. As described more fully at the support website, Intel offers a
+"Year 2000 Capable" Limited Warranty on certain of its current products. Except
+as specifically provided for in the Limited Warranty, the Company does not
+believe it is legally responsible for costs incurred by customers related to
+ensuring their year 2000 capability. Nevertheless, the Company is incurring
+various costs to provide customer support and customer satisfaction services
+regarding Year 2000 issues, and it is anticipated that these expenditures will
+continue through 1999 and thereafter. As used by Intel, "Year 2000 Capable"
+means that when used properly and in conformity with the product information
+provided by Intel, the Intel product will accurately store, display, process,
+provide, and/or receive data from, into, and between the twentieth and
+twenty-first centuries, including leap year calculations, provided that all
+other technology used in combination with the Intel product properly exchanges
+date data with the Intel product.
+
+The costs incurred to date related to these programs are less than $20 million.
+The Company currently expects that the total cost of these programs, including
+both incremental spending and redeployed resources, will not exceed $250
+million. The total cost estimate does not include potential costs related to
+any customer or other claims or the cost of internal software and hardware
+replaced in the normal course of business. In some instances, the installation
+schedule of new software and hardware in the normal course of business is being
+accelerated to also afford a solution to year 2000 capability issues. The total
+cost estimate is based on the current assessment of the projects and is subject
+to change as the projects progress.
+
+Based on currently available information, management does not believe that the
+year 2000 matters discussed above related to internal systems or products sold
+to customers will have a material adverse impact on the Company's financial
+condition or overall trends in results of operations; however, it is uncertain
+to what extent the Company may be affected by such matters. In addition, there
+can be no assurance that the failure to ensure year 2000 capability by a
+supplier or another third party would not have a material adverse effect on the
+Company.
+
+The Company is currently party to various legal proceedings. Although
+litigation is subject to inherent uncertainties, management, including internal
+counsel, does not believe that the ultimate outcome of these legal proceedings
+will have a material adverse effect on the Company's financial position or
+overall trends in results of operations. However, were an unfavorable ruling to
+occur in any specific period, there exists the possibility of a material
+adverse impact on the net income of that period. Management believes,
+given the Company's current liquidity and cash and investments balances, that
+even an adverse judgment would not have a material impact on cash and
+investments or liquidity.
+
+<PAGE> 13
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations (continued)
+
+Outlook (continued)
+
+The Company's future results of operations and the other forward-looking
+statements contained in this outlook, in particular the statements regarding
+revenues, pricing, new product development, gross margin, capital spending,
+depreciation, research and development expenses, marketing and general and
+administrative expenses, headcount reductions, net interest and other, tax
+rate, conversion to the Euro, year 2000 issues and legal proceedings involve
+a number of risks and uncertainties. In addition to the factors discussed
+above, among the other factors that could cause actual results to differ
+materially are the following: changes in customer order patterns, including
+changes in customer and channel inventory levels; competitive factors, such as
+rival chip architectures and manufacturing technologies, competing
+software-compatible microprocessors and acceptance of new products in specific
+market segments; pricing pressures; development and timing of introduction of
+compelling software applications; continued success in technological advances,
+including development and implementation of new processes and strategic
+products for specific market segments; execution of the manufacturing ramp;
+costs associated with excess manufacturing capacity; the ability to grow new
+businesses and successfully integrate and operate any acquired businesses;
+unanticipated costs or other adverse effects associated with processors and
+other products containing errata (deviations from published specifications);
+impact on the Company's business due to internal systems or systems of
+suppliers and other third parties adversely affected by year 2000 problems;
+claims due to year 2000 issues allegedly related to the Company's products
+or year 2000 remediation efforts; and litigation involving antitrust,
+intellectual property, consumer and other issues.
+
+Intel believes that it has the product offerings, facilities, personnel, and
+competitive and financial resources for continued business success, but future
+revenues, costs, margins and profits are all influenced by a number of factors,
+as discussed above, all of which are inherently difficult to forecast.
+
+
+
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+
+Reference is made to Part II, Item 7A, Quantitative and Qualitative Disclosures
+About Market Risk, in the Registrant's Annual Report on Form 10-K for the year
+ended December 27, 1997 and to the subheading "Financial Market Risks" under
+the heading "Management's Discussion and Analysis of Financial Condition and
+Results of Operations" on page 23 of the Registrant's 1997 Annual Report to
+Stockholders.
+
+<PAGE> 14
+
+PART II - OTHER INFORMATION
+
+Item 1.   Legal Proceedings
+
+
+                   Digital Equipment Corporation v. Intel,
+             U.S. District Court, District of Mass. (97-40080)
+             -------------------------------------------------
+Effective as of May 19, 1998, all lawsuits between the companies have been
+dismissed with prejudice.
+
+
+                      Intergraph Corporation v. Intel
+   U.S. District Court, Northern District of Alabama, Northeastern Division
+                            (CV-97-N-3023-NE)
+                            -----------------
+In June of this year, Intel answered the Amended Complaint of Intergraph and
+filed counter claims against Intergraph for infringement of seven patents
+covering various aspects of computer system performance. Also in June, Intel
+filed a motion for summary judgment on Intergraph's patent claims on the
+grounds that Intel is licensed to use those patents. In July, the Company
+received a letter stating that Intergraph believes that the patent damages
+will be "several billion dollars by the time of trial." In addition, Intergraph
+alleges that Intel's infringement is willful and that any damages awarded
+should be trebled. The letter also stated that Intergraph believes that
+antitrust, unfair competition and tort and contract damages will be "hundreds
+of millions of dollars by the time of trial." The Company disputes
+Intergraph's claims and intends to defend the lawsuit vigorously. Although
+litigation is subject to inherent uncertainties and the ultimate outcome of
+this lawsuit cannot be determined at this time, management, including internal
+counsel, does not believe that the ultimate outcome will have a material
+adverse effect on Intel's financial position or overall trends in results of
+operations.
+
+
+
+
+Item 2.   Changes in Securities
+
+
+(c)    Unregistered sales of equity securities.
+
+Reference is made to the information on sales of put warrants appearing in
+Note 7 under the heading "Intel Corporation, Notes to Consolidated Condensed
+Financial Statements" in Part I, Item 1 hereof. All such transactions are
+exempt from registration under Section 4 (2) of the Securities Act of 1933.
+Each transaction was privately negotiated and each offeree and purchaser was
+an accredited investor/qualified institutional buyer. No public offering or
+public solicitation was used by the registrant in the placement of these
+securities.
+
+<PAGE> 15
+
+Item 4.   Submission of Matters to a Vote of Security Holders
+
+At Intel Corporation's Annual Meeting of Stockholders held on May 20, 1998, the
+following proposals were adopted or rejected by the margins indicated.
+<TABLE>
+                                               Number of Shares
+
+                                          Voted for        Withheld
+                                          ---------        --------
+<S>                                       <C>              <C>
+1. To elect a Board of Directors                    
+to hold office until the next
+Annual Meeting of Stockholders or
+until their respective successors
+have been elected or appointed.
+                                                    
+     C. Barrett                           1,492,905,143    3,466,432
+     J. Browne                            1,492,774,105    3,597,470
+     W. Chen                              1,492,957,078    3,414,497
+     A. Grove                             1,492,959,473    3,412,102
+     J. Guzy                              1,492,834,624    3,536,951
+     G. Moore                             1,492,921,584    3,449,991
+     A. Rock                              1,492,797,748    3,573,827
+     J. Shaw                              1,492,802,914    3,568,661
+     L. Vadasz                            1,492,794,176    3,577,399
+     D. Yoffie                            1,492,785,113    3,586,462
+     C. Young                             1,492,836,998    3,534,577
+     </TABLE>
+     
+     <TABLE>
+                                                 Number of Shares
+
+                               Voted For        Voted      Withheld     No Vote
+                               ---------        -----      --------     -------
+                                               Against  
+                                               -------    
+<S>                            <C>             <C>         <C>          <C>
+2. To ratify the appointment   1,492,221,795    2,062,984  2,086,386        411
+of the accounting firm of     
+Ernst & Young LLP as
+independent auditors for the
+Company for the current year.
+</TABLE>
+<TABLE>
+                                                  Number of Shares
+
+                               Voted For         Voted      Withheld    No Vote
+                               ---------        Against     --------    -------
+                                                -------
+<S>                            <C>              <C>         <C>         <C>
+3. To consider a stockholder   101,703,872      859,335,577 64,887,177  470,444,950
+proposal to endorse the CERES  
+Principles.
+</TABLE>
+
+
+Item 5.   Other Information
+
+
+(1)  As announced in a press release dated May 29, 1998, the Company has
+     notified customers of a change in the production schedule for the
+     Merced(TM) processor.  According to the newly communicated schedule,
+     sample volumes of the 64-bit processor are now expected in 1999, with
+     planned production volumes moving from 1999 to mid-2000. The Merced
+     processor will be the first processor in Intel's IA-64 product family.
+     Products based on the IA-64 architecture are expected to be initially
+     targeted at the high-performance server and workstation market segments.
+
+
+(2)  On July 22, 1998 the Board of Directors approved an amendment to the
+     Company's Bylaws to revise the "advance notice" bylaw governing the
+     requirement of prior notice for stockholder proposals being submitted
+     for Annual and Special meetings. This revision reflects recent amendments
+     to Rules 14a-4 and 14a-8 under the Securities Exchange Act of 1934. The
+     amended and restated Bylaws are attached hereto as Exhibit 3.1.
+
+<PAGE> 16
+
+Item 6.   Exhibits and Reports on Form 8-K
+
+(a)  Exhibits
+
+3.1  Intel Corporation Bylaws as amended.
+
+10.1 Intel Corporation 1984 Stock Option Plan as amended and restated,
+     effective  July 16, 1997.
+
+10.2 Intel Corporation 1988 Executive Long Term Stock Option Plan as amended
+     and restated, effective July 16, 1997.
+
+12.1 Statement setting forth the computation of ratios of earnings to fixed
+     charges.
+
+27   Financial Data Schedule.
+
+
+(b)  Reports on Form 8-K.
+
+     Intel filed a report on Form 8-K, dated April 14, 1998, relating to
+     financial information for Intel Corporation for the quarter ended
+     March 28, 1998 and forward-looking statements relating to 1998, the
+     2nd Quarter of 1998 and the 2nd Half of 1998, as presented in a press
+     release of April 14, 1998.
+
+<PAGE> 17
+
+SIGNATURES
+- ----------
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                         INTEL CORPORATION
+                           (Registrant)
+
+
+
+
+
+Date:     August 10, 1998                By:  /s/  Andy D. Bryant
+                                              -----------------------
+                                              Andy D. Bryant
+                                              Vice President, Chief Financial
+                                              Officer and Principal Accounting
+                                              Officer
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<TEXT>
+
+
+Exhibit 3.1
+
+                             INTEL CORPORATION
+
+                                   BYLAWS
+
+                                  ARTICLE I
+
+                                   Offices
+                                   -------
+
+          Section 1.  Registered Office.
+          ---------   -----------------   The registered office of the
+corporation in the State of Delaware shall be in the City of Wilmington,
+County of New Castle.
+
+          Section 2.  Other Offices.
+          ---------   -------------  The corporation shall also have and
+maintain an office or principal place of business at 2200 Mission College
+Boulevard, Santa Clara, County of Santa Clara, State of California, and may
+also have offices at such other places, both within and without the State of
+Delaware, as the Board of Directors may from time to time determine or the
+business of the corporation may require.
+
+                                  ARTICLE II
+
+                            Stockholders' Meetings
+                            ----------------------
+
+          Section 1.  Place of Meetings.
+          ---------   -----------------   Meetings of the stockholders of the
+corporation shall be held at such place, either within or without the State of
+Delaware, as may be designated from time to time by the Board of Directors, or,
+if not so designated, then at the office of the corporation required to be
+maintained pursuant to Section 2 of Article I hereof.
+
+          Section 2.  Annual Meetings.
+          ---------   ---------------   The annual meetings of the
+stockholders of the corporation, commencing with the year 1990, for the purpose
+of election of directors and for such other business as may lawfully come
+before it, shall be held on such date and at such time as may be designated
+from time to time by the Board of Directors, but in no event more than fifteen
+months after the date of the preceding annual meeting.
+
+          Section 3.  Special Meetings.
+          ---------   ----------------   Special meetings of the stockholders
+of the corporation may be called, for any purpose or purposes, by the Chairman
+of the Board or the President or the Board of Directors at any time.
+
+          Section 4.  Notice of Meetings.
+          ---------   ------------------
+          (a)  Except as otherwise provided by law or the Certificate of 
+Incorporation, written notice of each meeting of stockholders, specifying the 
+place, date and hour and purpose or purposes of the meeting, shall be given not
+less than ten nor more than sixty days before the date of the meeting to each
+stockholder entitled to vote thereat, directed to his address as it appears
+upon the books of the corporation.
+
+          (b)  If at any meeting action is proposed to be taken which, if
+taken, would entitle stockholders fulfilling the requirements of section
+262(d) of the Delaware General Corporation Law to an appraisal of the fair
+value of their shares, the notice of such meeting shall contain a statement
+of that purpose and to that effect and shall be accompanied by a copy of that
+statutory section.
+
+          (c)  When a meeting is adjourned to another time or place, notice
+need not be given of the adjourned meeting if the time and place thereof are
+announced at the meeting at which the adjournment is taken unless the
+adjournment is for more than thirty days, or unless after the adjournment a
+new record date is fixed for the adjourned meeting, in which event a notice
+of the adjourned meeting shall be given to each stockholder of record
+
+<PAGE>
+
+entitled to vote at the meeting.
+
+          (d)  Notice of the time, place and purpose of any meeting of 
+stockholders may be waived in writing, either before or after such meeting, and
+to the extent permitted by law, will be waived by any stockholder by his 
+attendance thereat, in person or by proxy.  Any stockholder so waiving notice
+of such meeting shall be bound by the proceedings of any such meeting in all
+respects as if due notice thereof had been given.
+
+          (e)  Unless and until voted, every proxy shall be revocable at the
+pleasure of the person who executed it or of his legal representatives or
+assigns, except in those cases where an irrevocable proxy permitted by statute
+has been given.
+
+          Section 5.  Quorum and Voting.
+          ---------   -----------------
+          (a)  At all meetings of stockholders, except where otherwise
+provided by law, the Certificate of Incorporation, or these Bylaws, the
+presence, in person or by proxy duly authorized, of the holders of a majority
+of the outstanding shares of stock entitled to vote shall constitute a quorum
+for the transaction of business.  Shares, the voting of which at said meeting
+have been enjoined, or which for any reason cannot be lawfully voted at such
+meeting, shall not be counted to determine a quorum at said meeting.  In the
+absence of a quorum, any meeting of stockholders may be adjourned, from time
+to time, by vote of the holders of a majority of the shares represented
+thereat, but no other business shall be transacted at such meeting.  At such
+adjourned meeting at which a quorum is present or represented, any business
+may be transacted which might have been transacted at the original meeting.
+The stockholders present at a duly called or convened meeting, at which a
+quorum is present, may continue to transact business until adjournment,
+notwithstanding the withdrawal of enough stockholders to leave less than a
+quorum.
+
+          (b)  Except as otherwise provided by law, the Certificate of
+Incorporation or these Bylaws, all action taken by the holders of a majority
+of the voting power represented at any meeting at which a quorum is present
+shall be valid and binding upon the corporation.
+
+          Section 6.  Voting Rights.
+          ---------   -------------
+          (a)  Except as otherwise provided by law, only persons in whose
+names shares entitled to vote stand on the stock records of the corporation
+on the record date for determining the stockholders entitled to vote at said
+meeting shall be entitled to vote at such meeting.  Shares standing in the
+names of two or more persons shall be voted or represented in accordance with
+the determination of the majority of such persons, or, if only one of such
+persons is present in person or represented by proxy, such person shall have
+the right to vote such shares and such shares shall be deemed to be represented
+for the purpose of determining a quorum.
+
+          (b)  Every person entitled to vote or execute consents shall have
+the right to do so either in person or by an agent or agents authorized by a
+written proxy executed by such person or his duly authorized agent, which proxy
+shall be filed with the Secretary of the corporation at or before the meeting
+at which it is to be used.  Said proxy so appointed need not be a stockholder.
+No proxy shall be voted on after three years from its date unless the proxy
+provides for a longer period.
+
+          Section 7.  List of Stockholders.
+          ---------   --------------------   The officer who has charge of
+the stock ledger of the corporation shall prepare and make, at least ten days
+before every meeting of stockholders, a complete list of the stockholders
+entitled to vote at said meeting, arranged in alphabetical order, showing the
+address of and the number of shares registered in the name of each stockholder.
+Such list shall be open to the examination of any stockholder, for any purpose
+germane to the meeting, during ordinary business hours, for a period of at
+least ten days prior to the meeting, either at a place within the city where
+the meeting is to be held and which place shall be specified in the notice of
+the meeting, or, if not specified, at the place where said meeting is to be
+held, and the list shall be produced and kept at the time and place of meeting
+during the whole time thereof, and may be inspected by any stockholder who is
+present.
+
+<PAGE>
+          Section 8.  Action Without Meeting.
+          ---------   ----------------------   Unless otherwise provided in
+the Certificate of Incorporation, any action required by statute to be taken
+at any annual or special meeting of stockholders of the corporation, or any
+action which may be taken at any annual or special meeting of such
+stockholders, may be taken without a meeting, without prior notice and without
+a vote, if a consent or consents in writing, setting forth the action so taken,
+are signed by the holders of outstanding stock having not less than the
+minimum number of votes that would be necessary to authorize or take such
+action at a meeting at which all shares entitled to vote thereon were present
+and voted.  To be effective, a written consent must be delivered to the
+corporation by delivery to its registered office in Delaware, its principal
+place of business, or an officer or agent of the corporation having custody of
+the book in which proceedings of meetings of stockholders are recorded.
+Delivery made to a corporation's registered office shall be by hand or by
+certified or registered mail, return receipt requested.  Every written consent
+shall bear the date of signature of each stockholder who signs the consent and
+no written consent shall be effective to take the corporate action referred to
+therein unless, within sixty days of the earliest dated consent delivered in
+the manner required by this Section to the corporation, written consents signed
+by a sufficient number of holders to take action are delivered to the
+corporation in accordance with this Section.  Prompt notice of the taking of
+the corporate action without a meeting by less than unanimous written consent
+shall be given to those stockholders who have not consented in writing.
+
+          Section 9.  Nominations and Stockholder Business.
+          ---------   ------------------------------------
+          (a)  Nominations of persons for election to the Board of Directors
+of the Corporation and the proposal of business to be considered by the
+stockholders may be made at an annual meeting of stockholders (a) pursuant to
+the Corporation's notice of meeting, (b) by or at the direction of the Board of
+Directors, or (c) by any stockholder of the Corporation who is a stockholder of
+record at the time of giving of notice provided for in this Section 9, who is
+entitled to vote at the meeting and who complied with the notice procedures set
+forth in this Section 9.
+
+          (b)  For nominations or other business to be properly brought
+before an annual meeting by a stockholder pursuant to this Section 9, the
+stockholder must have given timely notice thereof in writing to the Secretary
+of the Corporation, and such business must be a proper subject for stockholder
+action under the Delaware General Corporation Law.   To be timely, a
+stockholder's notice shall be delivered to the secretary at the principal
+executive offices of the Corporation not less than 45 days nor more than 120
+days prior to the date on which the Corporation first mailed its proxy
+materials for the prior year's annual meeting of stockholders; provided,
+however, that in the event that the date of the annual meeting is advanced by
+more than 30 days or delayed (other than as a result of adjournment) by more
+than 30 days from the anniversary of the previous year's annual meeting,
+notice by the stockholder to be timely must be delivered not later than the
+close of business on the later of the 60th day prior to such annual meeting or
+the 10th day following the day on which public announcement of the date of such
+meeting is first made.  Such stockholder's notice shall set forth (a) as to
+each person whom the stockholder proposes to nominate for election or
+reelection as a director all information relating to such person that  is
+required to be disclosed in solicitations of proxies for election of directors,
+or is otherwise required, in each case pursuant to Regulation 14A under the
+Securities Exchange Act of 1934, as amended (the "Exchange Act") (including
+such person's written consent to being named in the proxy statement as a
+nominee and to serving as a director if elected); (b) as to any other business
+that the stockholder proposes to bring before the meeting, a brief description
+of the business desired to be brought before the meeting, the reasons for
+conducting such business at the meting and any material interest in such
+business of such stockholder and the beneficial owner, if any, on whose behalf
+the proposal is made; and (c) as to the stockholder giving the notice and the
+beneficial owners if any on whose behalf the nomination or proposal is made
+the name and address of such stockholder, as they appear on the
+Corporation's books, and of such beneficial owner, and (ii) the class and
+number of shares of the Corporation which are owned beneficially and of record
+by such stockholder and such beneficial owner.
+
+          (c)  Notwithstanding anything in this Section 9 to the contrary,
+in the event that the number of directors to be elected to the Board of
+Directors of the Corporation is increased and there is no public announcement
+
+<PAGE>
+
+specifying the size of the increased Board of Directors made by the
+Corporation at least 70 days prior to the first anniversary of the preceding
+year's annual meeting, a stockholder's notice required by this Section 9 shall
+also be considered timely, but only with respect to nominees for any new
+positions created by such increase, if it shall be delivered to the Secretary
+at the principal executive offices of the Corporation not later than the close
+of business on the 10th day following the day on which such public announcement
+is first made by the Corporation.
+
+          (d)  Only such business shall be conducted at a special meeting of
+stockholders as shall have been brought before the meeting pursuant to the
+Corporation's notice of meeting.  Nominations of persons for election to the
+Board of Directors may be made at a special meeting of stockholders at which
+directors are to be elected pursuant to the Corporation's notice of meeting
+by or at the direction of the Board of Directors or (b) by any stockholder
+of the Corporation who is a stockholder of record at the time of giving of
+notice provided for in this section, who is entitled to vote at the meeting and
+who complies with the notice procedures set forth in this section.  Nominations
+by stockholders of persons for election to the Board of Directors may be made
+at such a special meeting of Stockholders if the stockholder's notice required
+by this section shall be delivered to the secretary at the principal executive
+offices of the Corporation not earlier than the 120th day prior to such special
+meeting and not later than the close of business on the later of the 60th day
+prior to such special meeting or the 10th day following the day on which public
+announcement is first made of the date of the special meeting and of the
+nominees proposed by the Board of Directors to be elected at such meeting.
+
+          (e)  Only those persons who are nominated in accordance with the
+procedures set forth in this section shall be eligible for election as
+directors at any meeting of stockholders.  Only such business shall be
+conducted at a meeting of stockholders as shall have been brought before the
+meeting in accordance with the procedures set forth in this section.  The
+chairman of the meeting shall have the power and duty to determine whether a
+nomination or any business proposed to be brought before the meeting was made
+in accordance with the procedures set forth in this section and, if any
+proposed nomination or business is not in compliance with this section, to
+declare that such defective proposal shall be disregarded.
+
+          (f)  For purposes of this section, "public announcement" shall
+mean disclosure in a press release reported by the Dow Jones News Service,
+Associated Press or comparable national news service or in a document publicly
+filed by the Corporation with the Securities and Exchange Commission pursuant
+to Section 9 13, 14 or 15(d) of the Exchange Act.
+
+          (h)  Notwithstanding the foregoing provisions of this Section 9,
+a stockholder shall also comply with all applicable requirements of the
+Exchange Act and the rules and regulations thereunder with respect to the
+matters set forth in this Section 9.  Nothing in this Section 9 shall be
+deemed to affect any rights of stockholders to request inclusion of proposals
+in the Corporation's proxy statement pursuant to Rule 14a-8 under the Exchange
+Act.
+
+                              ARTICLE III
+
+                               Directors
+                               ---------
+
+          Section 1.  Number and Term of Office.
+          ---------   -------------------------   The number of directors
+which shall constitute the whole of the Board of Directors shall be twelve
+(12).  With the exception of the first Board of Directors, which shall be
+elected by the incorporator, and except as provided in Section 3 of this
+Article III, the directors shall be elected by a plurality vote of the shares
+represented in person or by proxy, at the stockholders annual meeting in each
+year and entitled to vote on the election of directors.  Elected directors
+shall hold office until the next annual meeting and until their successors
+shall be duly elected and qualified.  Directors need not be stockholders.  If,
+for any cause, the Board of Directors shall not have been elected at an annual
+meeting, they may be elected as soon thereafter as convenient at a special
+meeting of the stockholders called for that purpose in the manner provided in
+these Bylaws.
+
+<PAGE>
+
+          Section 2.  Powers.
+          ---------   ------   The powers of the corporation shall be
+exercised, its business conducted and its property controlled by or under
+the direction of the Board of Directors.
+
+          Section 3.  Vacancies.
+          ---------   ---------   Vacancies and newly created directorships
+resulting from any increase in the authorized number of directors may be filled
+by a majority of the directors then in office, although less than a quorum, or
+by a sole remaining director, and each director so elected shall hold office
+for the unexpired portion of the term of the director whose place shall be
+vacant, and until his successor shall have been duly elected and qualified.  A
+vacancy in the Board of Directors shall be deemed to exist under this Section
+in the case of the death, removal or resignation of any director, or if the
+stockholders fail at any meeting of stockholders at which directors are to be
+elected (including any meeting referred to in Section 4 below) to elect the
+number of directors then constituting the whole Board.
+
+          Section 4.  Resignations and Removals.
+          ---------   -------------------------
+          (a)  Any director may resign at any time by delivering his written
+resignation to the Secretary, such resignation to specify whether it will be
+effective at a particular time, upon receipt by the Secretary or at the
+pleasure of the Board of Directors.  If no such specification is made, it
+shall be deemed effective at the pleasure of the Board of Directors.  When one
+or more directors shall resign from the Board, effective at a future date, a
+majority of the directors then in office, including those who have so resigned,
+shall have power to fill such vacancy or vacancies, the vote thereon to take
+effect when such resignation or resignations shall become effective, and each
+director so chosen shall hold office for the unexpired portion of the term of
+the director whose place shall be vacated and until his successor shall have
+been duly elected and qualified.
+
+          (b)  Except as provided in Section 141 of the Delaware General
+Corporation Law, at a special meeting of stockholders called for the purpose
+in the manner hereinabove provided, the Board of Directors, or any individual
+director, may be removed from office, with or without cause, and a new director
+or directors elected by a vote of stockholders holding a majority of the
+outstanding shares entitled to vote at an election of directors.
+
+          Section 5.  Meetings.
+          ---------   --------
+          (a)  The annual meeting of the Board of Directors shall be held
+immediately after the annual stockholders' meeting and at the place where such
+meeting is held or at the place announced by the Chairman at such meeting.  No
+notice of an annual meeting of the Board of Directors shall be necessary and
+such meeting shall be held for the purpose of electing officers and transacting
+such other business as may lawfully come before it.
+
+          (b)  Except as hereinafter otherwise provided, regular meetings of
+the Board of Directors shall be held in the office of the corporation required
+to be maintained pursuant to Section 2 of Article I hereof.  Regular meetings
+of the Board of Directors may also be held at any place within or without the
+State of Delaware which has been designated by resolutions of the Board of
+Directors or the written consent of all directors.  Notice of regular meetings
+of the directors is hereby dispensed with and no notice whatever of any such
+meetings need be given.
+
+          (c)  Special meetings of the Board of Directors may be held at any
+time and place within or without the State of Delaware whenever called by the
+Chairman of the Board, the President or by any two of the directors.
+
+          (d)  Written notice of the time and place of all special meetings
+of the Board of Directors shall be delivered personally to each director or
+sent by telegram at least 24 hours before the start of the meeting, or sent by
+first class mail at least 72 hours before the start of the meeting.  Notice of
+any meeting may be waived in writing at any time before or after the meeting
+and will be waived by any director by attendance thereat.
+
+          Section 6.  Quorum and Voting.
+          ---------   -----------------
+          (a)  A quorum of the Board of Directors shall consist of a majority
+
+<PAGE>
+
+of the exact number of directors fixed from time to time in accordance with
+Section 1 of Article III of these Bylaws, but not less than one;  provided,
+however, at any meeting whether a quorum be present or otherwise, a majority of
+the directors present may adjourn from time to time until the time fixed for
+the next regular meeting of the Board of Directors, without notice other than
+by announcement at the meeting.
+
+          (b)  At each meeting of the Board at which a quorum is present,
+all questions and business shall be determined by a vote of a majority of the
+directors present, unless a different vote be required by law, the Certificate
+of Incorporation, or these Bylaws.
+
+          (c)  Notwithstanding any of the foregoing, any action stated in
+any Rights Agreement between this Corporation and the rights agent appointed
+thereunder from time to time, as such Rights Agreement may be entered into or
+adopted by this Corporation and amended from time to time (the "Rights
+Agreement") to be taken by the Board of Directors after a Person has become an
+Acquiring Person shall require the presence in office of Continuing Directors
+and the concurrence of a majority of the Continuing Directors.  Capitalized
+terms in this paragraph shall have the meanings indicated in the Rights
+Agreement.
+
+          (d)  Any member of the Board of Directors, or of any committee
+thereof, may participate in a meeting by means of conference telephone or
+similar communication equipment by means of which all persons participating
+in the meeting can hear each other, and participation in a meeting by such
+means shall constitute presence in person at such meeting.
+
+          (e)  The transactions of any meeting of the Board of Directors, or
+any committee thereof, however called or noticed, or wherever held, shall be
+as valid as though had at a meeting duly held after regular call and notice, if
+a quorum be present and if, either before or after the meeting, each of the
+directors not present shall sign a written waiver of notice, or a consent to
+holding such meeting, or an approval of the minutes thereof.  All such waivers,
+consents or approvals shall be filed with the corporate records or made a part
+of the minutes of the meeting.
+
+          Section 7.  Action Without Meeting.
+          ---------   ----------------------   Unless otherwise restricted
+by the Certificate of Incorporation or these Bylaws, any action required or
+permitted to be taken at any meeting of the Board of Directors or of any
+committee thereof may be taken without a meeting, if all members of the Board
+or of such committee, as the case may be, consent thereto in writing, and such
+writing or writings are filed with the minutes of proceedings of the Board or
+committee.
+
+          Section 8.  Fees and Compensation.
+          ---------   ---------------------   Directors shall not receive
+any stated salary for their services as directors but by resolution of the
+Board, a fixed fee, with or without expense of attendance, may be allowed for
+attendance at each meeting and at each meeting of any committee of the Board
+of Directors.  Nothing herein contained shall be construed to preclude any
+director from serving the corporation in any other capacity as an officer,
+agent, employee, or otherwise, and receiving compensation therefor.
+
+          Section 9.  Committees.
+          ---------   ----------
+          (a)  Executive Committee:
+               -------------------   The Board of Directors may, by
+resolution passed by a majority of the whole Board, appoint an Executive
+Committee of not less than one member, each of whom shall be a director.
+The Executive Committee, to the extent permitted by law, shall have and may
+exercise when the Board of Directors is not in session all powers of the
+Board in the management of the business and affairs of the corporation,
+including, without limitation, the power and authority to declare a dividend
+or to authorize the issuance of stock, except such committee shall not have
+the power or authority to amend the Certificate of Incorporation, to adopt an
+agreement of merger or consolidation, to recommend to the stockholders the
+sale, lease or exchange of all or substantially all of the corporation's
+property and assets, to recommend to the stockholders of the Corporation a
+dissolution of the Corporation or a revocation of a dissolution, or to amend
+these Bylaws.
+
+<PAGE>
+          (b)  Other Committees:
+               ----------------   The Board of Directors may, by resolution
+passed by a majority of the whole Board, from time to time, appoint such
+other committees as may be permitted by law.  Such other committees appointed
+by the Board of Directors shall have such powers and perform such duties as
+may be prescribed by the resolution or resolutions creating such committee,
+but in no event shall any such committee have the powers denied to the
+Executive Committee in these Bylaws.
+
+          (c)  Term:
+               ----   The members of all committees of the Board of Directors
+shall serve a term coexistent with that of the Board of Directors which shall
+have appointed such committee.  The Board, subject to the provisions of
+subsections (a) or (b) of this Section 9, may at any time increase or decrease
+the number of members of a committee or terminate the existence of a committee;
+provided, that no committee shall consist of less than one member.  The
+membership of a committee member shall terminate on the date of his death or
+voluntary resignation, but the Board may at any time for any reason remove any
+individual committee member and the Board may fill any committee vacancy
+created by death, resignation, removal or increase in the number of members of
+the committee.  The Board of Directors may designate one or more directors as
+alternate members of any committee, who may replace any absent or disqualified
+member at any meeting of the committee, and, in addition, in the absence or
+disqualification of any member of a committee, the member or members thereof
+present at any meeting and not disqualified from voting, whether or not he or
+they constitute a quorum, may unanimously appoint another member of the Board
+of Directors to act at the meeting in the place of any such absent or
+disqualified member.
+
+           (d)  Meetings:
+                --------   Unless the Board of Directors shall otherwise
+provide, regular meetings of the Executive Committee or any other committee
+appointed pursuant to this Section 9 shall be held at such times and places as
+are determined by the Board of Directors, or by any such committee, and when
+notice thereof has been given to each member of such committee, no further
+notice of such regular meetings need be given thereafter; special meetings of
+any such committee may be held at the principal office of the corporation
+required to be maintained pursuant to Section 2 of Article I hereof; or at any
+place which has been designated from time to time by resolution of such
+committee or by written consent of all members thereof, and may be called by
+any director who is a member of such committee, upon written notice to the
+members of such committee of the time and place of such special meeting given
+in the manner provided for the giving of written notice to members of the Board
+of Directors of the time and place of special meetings of the Board of
+Directors.  Notice of any special meeting of any committee may be waived in
+writing at any time after the meeting and will be waived by any director by
+attendance thereat.  A majority of the authorized number of members of any
+such committee shall constitute a quorum for the transaction of business, and
+the act of a majority of those present at any meeting at which a quorum is
+present shall be the act of such committee.
+
+          Section 10.  Emeritus Director.
+          ----------   -----------------   The Board of Directors may, from
+time to time, elect one or more Emeritus Directors, each of whom shall serve,
+at the pleasure of the Board, until the first meeting of the Board next
+following the Annual Meeting of Stockholders and for a maximum period of 3
+years, subject to an annual review, or until earlier resignation or removal by
+the Board (except that founders of the company may remain as Emeritus
+Directors, subject to the annual review, or until earlier resignation or
+removal by the Board).  Emeritus Directors shall serve as advisors and
+consultants to the Board of Directors and may be appointed by the Board to
+serve as advisors and consultants to committees of the Board.  Emeritus
+Directors may be invited to attend meetings of the Board or any committee of
+the Board for which they have been appointed to serve as advisors and
+consultants and, if present, may participate in the discussions occurring
+during such meetings.  Emeritus Directors shall not be permitted to vote on
+matters brought before the Board or any committee thereof and shall not be
+counted for the purpose of determining whether a quorum of the Board or the
+committee is present.  Emeritus Directors shall receive no fee for their
+services as Emeritus Directors.  Emeritus Directors will not be entitled to
+receive reimbursement for expenses of meeting attendance, except as approved
+by the Chairman of the Board.  Emeritus Directors may be removed at any time
+by the Board of Directors.
+<PAGE>
+                              ARTICLE IV
+
+                               Officers
+                               --------
+          Section 1.  Officers Designated.
+          ---------   -------------------   The officers of the
+corporation shall be a Chairman of the Board of Directors who shall be a
+member of the Board of Directors, a President, one or more Vice Presidents,
+a Secretary, and a Treasurer.  The order of the seniority of the Vice
+Presidents shall be in the order of their nomination, unless otherwise
+determined by the Board of Directors.  The Board of Directors or the Chairman
+of the Board or the President may also appoint one or more assistant
+secretaries, assistant treasurers, and such other officers and agents with
+such powers and duties as it or he shall deem necessary.  The Board of
+Directors may assign such additional titles to one or more of the officers as
+they shall deem appropriate.  Any one person may hold any number of offices of
+the corporation at any one time unless specifically prohibited therefrom by
+law.  The salaries and other compensation of the officers of the corporation
+shall be fixed by or in the manner designated by the Board of Directors.
+
+          Section 2.  Tenure and Duties of Officers.
+          ---------   -----------------------------
+          (a)  General:
+               -------   All officers shall hold office at the pleasure of the
+Board of Directors and until their successors shall have been duly elected and
+qualified, unless sooner removed.  Any officer elected or appointed by the
+Board of Directors may be removed at any time by the Board of Directors.  If
+the office of any officer becomes vacant for any reason, the vacancy may be
+filled by the Board of Directors.  Nothing in these Bylaws shall be construed
+as creating any kind of contractual right to employment with the corporation.
+
+          (b)  Duties of the Chairman of the Board of Directors:
+               ------------------------------------------------   The Chairman
+of the Board of Directors (if there be such an officer appointed) shall preside
+at all meetings of the stockholders and the Board of Directors.  The Chairman
+of the Board of Directors shall perform such other duties and have such other
+powers as the Board of Directors shall designate from time to time.
+
+          (c)  Duties of President:
+               -------------------   The President shall preside at all
+meetings of the stockholders and at all meetings of the Board of Directors,
+unless the Chairman of the Board of Directors has been appointed and is
+present.  The President shall perform such other duties and have such other
+powers as the Board of Directors shall designate from time to time.
+
+          (d)  Duties of Vice Presidents:
+               -------------------------   The Vice Presidents, in the
+order of their seniority, may assume and perform the duties of the
+President in the absence or disability of the President or whenever the
+office of the President is vacant.  The Vice President shall perform such
+other duties and have such other powers as the Board of Directors or the
+President shall designate from time to time.
+
+          (e)  Duties of Secretary:
+               -------------------   The Secretary shall attend all
+meetings of the stockholders and of the Board of Directors and any committee
+thereof, and shall record all acts and proceedings thereof in the minute book
+of the corporation and shall keep the seal of the corporation in safe custody.
+The Secretary shall give notice, in conformity with these Bylaws, of all
+meetings of the stockholders, and of all meetings of the Board of Directors and
+any Committee thereof requiring notice.  The Secretary shall perform such other
+duties and have such other powers as the Board of Directors shall designate
+from time to time.  The President may direct any Assistant Secretary to assume
+and perform the duties of the Secretary in the absence or disability of the
+Secretary, and each Assistant Secretary shall perform such other duties and
+have such other powers as the Board of Directors or the President shall
+designate from time to time.
+
+          (f)  Duties of Chief Financial Officer and Treasurer:
+               -----------------------------------------------   The Chief
+Financial Officer and Treasurer shall control, audit and arrange the financial
+affairs of the corporation.  He or she shall receive and deposit all monies
+
+<PAGE>
+
+belonging to the corporation and shall pay out the same only in such manner
+as the Board of Directors may from time to time determine, and he or she shall
+perform such other further duties as the Board of Directors may require.  It
+shall be the duty of the assistant treasurers to assist the Treasurer in the
+performance of the Treasurer's duties and generally to perform such other
+duties as may be delegated to them by the Board of Directors.
+
+                                 ARTICLE V
+
+                   Execution of Corporate Instruments, and
+                Voting of Securities Owned by the Corporation
+                ---------------------------------------------
+
+          Section 1.  Execution of Corporate Instruments.
+          ---------   ----------------------------------
+          (a)  The Board of Directors may, in its discretion, determine the
+method and designate the signatory officer or officers, or other person or
+persons, to execute any corporate instrument or document, or to sign the
+corporate name without limitation, except where otherwise provided by law, and
+such execution or signature shall be binding upon the corporation.
+
+          (b)  Unless otherwise specifically determined by the Board of
+Directors or otherwise required by law, formal contracts of the corporation,
+promissory notes, deeds of trust, mortgages and other evidences of
+indebtedness of the corporation, and other corporate instruments or documents
+requiring the corporate seal, and certificates of shares of stock owned by the
+corporation, shall be executed, signed or endorsed by the Chairman of the
+Board (if there be such an officer appointed), the President, any Vice
+President or the Secretary.  All other instruments and documents requiring
+the corporate signature, but not requiring the corporate seal, may be executed
+as aforesaid or in such other manner as may be directed by the Board of
+Directors.
+
+           (c)  All checks and drafts drawn on banks or other depositaries on
+funds to the credit of the corporation, or in special accounts of the
+corporation, shall be signed by such person or persons as the Board of
+Directors shall authorize so to do.
+
+          Section 2.  Voting of Securities Owned by Corporation.
+          ---------   -----------------------------------------   All stock
+and other securities of other corporations owned or held by the corporation
+for itself, or for other parties in any capacity, shall be voted, and all
+proxies with respect thereto shall be executed, by the person authorized so to
+do by resolution of the Board of Directors or, in the absence of such
+authorization, by the Chairman of the Board (if there be such an officer
+appointed), or by the President, or by any Vice President.
+
+                               ARTICLE VI
+
+                             Shares of Stock
+                             ---------------
+          Section 1.  Form and Execution of Certificates.
+          ---------   ----------------------------------   Certificates for
+the shares of stock of the corporation shall be in such form as is consistent
+with the Certificate of Incorporation and applicable law.  Every holder of
+stock in the corporation shall be entitled to have a certificate signed by, or
+in the name of the corporation by, the Chairman of the Board (if there be such
+an officer appointed), or by the President or any Vice President and by the
+Treasurer or Assistant Treasurer or the Secretary or Assistant Secretary,
+certifying the number of shares owned by him in the corporation.  Any or all
+of the signatures on the certificate may be a facsimile.  In case any officer,
+transfer agent, or registrar who has signed or whose facsimile signature has
+been placed upon a certificate shall have ceased to be such officer, transfer
+agent, or registrar before such certificate is issued, it may be issued with
+the same effect as if he were such officer, transfer agent, or registrar at
+the date of issue.  If the corporation shall be authorized to issue more than
+one class of stock or more than one series of any class, the powers,
+designations, preferences and relative, participating, optional or other
+special rights of each class of stock or series thereof and the qualifications,
+limitations or restrictions of such preferences and/or rights shall be set
+forth in full or summarized on the face or back of the certificate which the
+corporation shall issue to represent such class or series of stock, provided
+
+<PAGE>
+
+that, except as otherwise provided in section 202 of the Delaware General
+Corporation Law, in lieu of the foregoing requirements, there may be set forth
+on the face or back of the certificate which the corporation shall issue to
+represent such class or series of stock, a statement that the corporation will
+furnish without charge to each stockholder who so requests the powers,
+designations, preferences and relative, participating, optional or other
+special rights of each class of stock or series thereof and the qualifications,
+limitations or restrictions of such preferences and/or rights.
+
+          Section 2.  Lost Certificates.
+          ---------   -----------------   The Board of Directors may direct
+a new certificate or certificates to be issued in place of any certificate or
+certificates theretofore issued by the corporation alleged to have been lost
+or destroyed, upon the making of an affidavit of that fact by the person
+claiming the certificate of stock to be lost or destroyed.  When authorizing
+such issue of a new certificate or certificates, the Board of Directors may,
+in its discretion and as a condition precedent to the issuance thereof, require
+the owner of such lost or destroyed certificate or certificates, or his legal
+representative, to indemnify the corporation in such manner as it shall require
+and/or to give the corporation a surety bond in such form and amount as it may
+direct as indemnity against any claim that may be made against the corporation
+with respect to the certificate alleged to have been lost or destroyed.
+
+          Section 3.  Transfers.
+          ---------   ---------   Transfers of record of shares of stock of
+the corporation shall be made only upon its books by the holders thereof, in
+person or by attorney duly authorized, and upon the surrender of a certificate
+or certificates for a like number of shares, properly endorsed.
+
+          Section 4.  Fixing Record Dates.
+          ---------   -------------------
+          (a)  In order that the corporation may determine the stockholders
+entitled to notice of or to vote at any meeting of stockholders or any
+adjournment thereof, the Board of Directors may fix a record date, which record
+date shall not precede the date upon which the resolution fixing the record
+date is adopted by the Board of Directors, and which record date shall not be
+more than sixty nor less than ten days before the date of such meeting.  If no
+record date is fixed by the Board of Directors, the record date for
+determining stockholders entitled to notice of or to vote at a meeting of
+stockholders shall be at the close of business on the day next preceding the
+day on which notice is given, or, if notice is waived, at the close of business
+on the day next preceding the date on which the meeting is held.  A
+determination of stockholders of record entitled notice of or to vote at a
+meeting of stockholders shall apply to any adjournment of the meeting;
+provided, however, that the Board of Directors may fix a new record date for
+the adjourned meeting.
+
+           (b)  In order that the corporation may determine the stockholders
+entitled to consent (if such written consent is permitted under these Bylaws
+and the Certificate of Incorporation) corporate action in writing without a
+meeting, the Board of Directors may fix a record date, which record date shall
+not precede the date upon which the resolution fixing the record date is
+adopted by the Board of Directors, and which date shall not be more than ten
+days after the date upon which the resolution fixing the record date is adopted
+by the Board of Directors.  If no record date has been fixed by the Board of
+Directors, the record date for determining stockholders entitled to consent
+to corporate action in writing without a meeting, when no prior action by the
+Board of Directors is required by the Delaware General Corporation Law, shall
+be the first date on which a signed written consent setting forth the action
+taken or proposed to be taken is delivered to the corporation by delivery to
+its registered office in Delaware, its principal place of business, or an
+officer or agent of the corporation having custody of the book in which
+proceedings of meetings of stockholders are recorded.  Delivery made to a
+corporation's registered office shall be by hand or by certified or registered
+mail, return receipt requested.  If no record date has been fixed by the Board
+of Directors and prior action by the Board of Directors is required by law,
+the record date for determining stockholders entitled to consent to corporate
+action in writing without a meeting shall be at the close of business on the
+day on which the Board of Directors adopts the resolution taking such prior
+action.
+
+          (c)  In order that the corporation may determine the stockholders
+
+<PAGE>
+
+entitled to receive payment of any dividend or other distribution or allotment
+of any rights or the stockholders entitled to exercise any rights in respect
+of any change, conversion or exchange of stock, or for the purpose of any other
+lawful action, the Board of Directors may fix a record date, which record date
+shall not precede the date upon which the resolution fixing the record date is
+adopted, and which record date shall be not more than sixty days prior to such
+action.  If no record date is fixed, the record date for determining
+stockholders for any such purpose shall be at the close of business on the day
+on which the Board of Directors adopts the resolution relating thereto.
+
+          Section 5.  Registered Stockholders.
+          ---------   -----------------------   The corporation shall be
+entitled to recognize the exclusive right of a person registered on its books
+as the owner of shares to receive dividends, and to vote as such owner, and
+shall not be bound to recognize any equitable or other claim to or interest in
+such share or shares on the part of any other person, whether or not it shall
+have express or other notice thereof, except as otherwise provided by the laws
+of Delaware.
+
+                                ARTICLE VII
+
+                     Other Securities of the Corporation
+                     -----------------------------------
+          All bonds, debentures and other corporate securities of the
+corporation, other than stock certificates, may be signed by the Chairman of
+the Board (if there be such an officer appointed), or the President or any
+Vice President or such other person as may be authorized by the Board of
+Directors and the corporate seal impressed thereon or a facsimile of such seal
+imprinted thereon and attested by the signature of the Secretary or an
+Assistant Secretary, or the Treasurer or an Assistant Treasurer; provided,
+however, that where any such bond, debenture or other corporate security shall
+be authenticated by the manual signature of a trustee under an indenture
+pursuant to which such bond, debenture or other corporate security shall be
+issued, the signature of the persons signing and attesting the corporate seal
+on such bond, debenture or other corporate security may be the imprinted
+facsimile of the signatures of such persons.  Interest coupons appertaining to
+any such bond, debenture or other corporate security, authenticated by a
+trustee as aforesaid, shall be signed by the Treasurer or Assistant Treasurer
+of the corporation, or such other person as may be authorized by the Board of
+Directors, or bear imprinted thereon the facsimile signature of such person.
+In case any officer who shall have signed or attested any bond, debenture or
+other corporate security, or whose facsimile signature shall appear thereon or
+before the bond, debenture or other corporate security so signed or attested
+shall have been delivered, such bond, debenture or other corporate security
+nevertheless may be adopted by the corporation and issued and delivered as
+though the person who signed the same or whose facsimile signature shall have
+been used thereon had not ceased to be such officer of the corporation.
+
+                                ARTICLE VIII
+
+                               Corporate Seal
+                               --------------
+   The corporation shall have a common seal, upon which shall be inscribed:
+
+                             "Intel Corporation
+                         Incorporated March 1, 1989
+                                  Delaware"
+
+          In the event the corporation changes its name, the corporate seal
+shall be changed to reflect such new name.
+
+<PAGE>
+
+                                 ARTICLE IX
+
+                             Indemnification of
+                 Officers, Directors, Employees and Agents
+                 -----------------------------------------
+          Section 1.  Right to Indemnification.
+          ---------   ------------------------   Each person who was or is
+a party or is threatened to be made a party to or is involved (as a party,
+witness, or otherwise), in any threatened, pending, or completed action, suit,
+or proceeding, whether civil, criminal, administrative, or investigative
+(hereinafter a "Proceeding"), by reason of the fact that he, or a person of
+whom he is the legal representative, is or was a director, officer, employee,
+or agent of the corporation or is or was serving at the request of the
+corporation as a director, officer, employee, or agent of another corporation
+or of a partnership, joint venture, trust, or other enterprise, including
+service with respect to employee benefit plans, whether the basis of the
+Proceeding is alleged action in an official capacity as a director, officer,
+employee, or agent or in any other capacity while serving as a director,
+officer, employee, or agent (hereafter an "Agent"), shall be indemnified and
+held harmless by the corporation to the fullest extent authorized by the
+Delaware General Corporation Law, as the same exists or may hereafter be
+amended or interpreted (but, in the case of any such amendment or
+interpretation, only to the extent that such amendment or interpretation
+permits the corporation to provide broader indemnification rights than were
+permitted prior thereto) against all expenses, liability, and loss (including
+attorneys' fees, judgments, fines, ERISA excise taxes or penalties, and amounts
+paid or to be paid in settlement, and any interest, assessments, or other
+charges imposed thereon, and any federal, state, local, or foreign taxes
+imposed on any Agent as a result of the actual or deemed receipt of any
+payments under this Article) reasonably incurred or suffered by such person
+in connection with investigating, defending, being a witness in, or
+participating in (including on appeal), or preparing for any of the foregoing
+in, any Proceeding (hereinafter "Expenses"); provided, however, that except as
+to actions to enforce indemnification rights pursuant to Section 3 of this
+Article, the corporation shall indemnify any Agent seeking indemnification in
+connection with a Proceeding (or part thereof) initiated by such person only
+if the Proceeding (or part thereof) was authorized by the Board of Directors
+of the corporation.  The right to indemnification conferred in this Article
+shall be a contract right.
+
+          Section 2.  Authority to Advance Expenses.
+          ---------   -----------------------------   Expenses incurred by
+an officer or director (acting in his capacity as such) in defending a
+Proceeding shall be paid by the corporation in advance of the final disposition
+of such Proceeding, provided, however, that if required by the Delaware General
+Corporation Law, as amended, such Expenses shall be advanced only upon delivery
+to the corporation of an undertaking by or on behalf of such director or
+officer to repay such amount if it shall ultimately be determined that he is
+not entitled to be indemnified by the corporation as authorized in this Article
+or otherwise.  Expenses incurred by other Agents of the corporation (or by the
+directors or officers not acting in their capacity as such, including service
+with respect to employee benefit plans) may be advanced upon such terms and
+conditions as the Board of Directors deems appropriate.  Any obligation to
+reimburse the corporation for Expense advances shall be unsecured and no
+interest shall be charged thereon.
+
+          Section 3.  Right of Claimant to Bring Suit.
+          ---------   -------------------------------   If a claim under
+Section 1 or 2 of this Article is not paid in full by the corporation within
+thirty (30) days after a written claim has been received by the corporation,
+the claimant may at any time thereafter bring suit against the corporation to
+recover the unpaid amount of the claim and, if successful in whole or in part,
+the claimant shall be entitled to be paid also the expense (including
+attorneys' fees) of prosecuting such claim.  It shall be a defense to any such
+action (other than an action brought to enforce a claim for expenses incurred
+in defending a Proceeding in advance of its final disposition where the
+required undertaking has been tendered to the corporation) that the claimant
+has not met the standards of conduct that make it permissible under the
+Delaware General Corporation Law for the corporation to indemnify the claimant
+for the amount claimed.  The burden of proving such a defense shall be on the
+corporation.  Neither the failure of the corporation (including its Board of
+Directors, independent legal counsel, or its stockholders) to have made a
+
+<PAGE>
+
+determination prior to the commencement of such action that indemnification of
+the claimant is proper under the circumstances because he has met the
+applicable standard of conduct set forth in the Delaware General Corporation
+Law, nor an actual determination by the corporation (including its Board of
+Directors, independent legal counsel, or its stockholders) that the claimant
+had not met such applicable standard of conduct, shall be a defense to the
+action or create a presumption that claimant has not met the applicable
+standard of conduct.
+
+          Section 4.  Provisions Nonexclusive.  
+          ---------   -----------------------   The rights conferred on any
+person by this Article shall not be exclusive of any other rights that such
+person may have or hereafter acquire under any statute, provision of the
+Certificate of Incorporation, agreement, vote of stockholders or disinterested
+directors, or otherwise, both as to action in an official capacity and as to
+action in another capacity while holding such office.  To the extent that any
+provision of the Certificate, agreement, or vote of the stockholders or
+disinterested directors is inconsistent with these Bylaws, the provision,
+agreement, or vote shall take precedence.
+
+          Section 5.  Authority to Insure.
+          ---------   -------------------   The corporation may purchase and
+maintain insurance to protect itself and any Agent against any Expense, whether
+or not the corporation would have the power to indemnify the Agent against such
+Expense under applicable law or the provisions of this Article.
+
+          Section 6.  Survival of Rights.
+          ---------   ------------------   The rights provided by this
+Article shall continue as to a person who has ceased to be an Agent and shall
+inure to the benefit of the heirs, executors, and administrators of such a
+person.
+
+          Section 7.  Settlement of Claims.
+          ---------   --------------------   The corporation shall not be
+liable to indemnify any Agent under this Article (a) for any amounts paid in
+settlement of any action or claim effected without the corporation's written
+consent, which consent shall not be unreasonably withheld; or (b) for any
+judicial award if the corporation was not given a reasonable and timely
+opportunity, at its expense, to participate in the defense of such action.
+
+          Section 8.  Effect of Amendment.
+          ---------   -------------------   Any amendment, repeal, or
+modification of this Article shall not adversely affect any right or
+protection of any Agent existing at the time of such amendment, repeal, or
+modification.
+
+          Section 9.  Subrogation.
+          ---------   -----------   In the event of payment under this
+Article, the corporation shall be subrogated to the extent of such payment
+to all of the rights of recovery of the Agent, who shall execute all papers
+required and shall do everything that may be necessary to secure such rights,
+including the execution of such documents necessary to enable the corporation
+effectively to bring suit to enforce such rights.
+
+          Section 10.  No Duplication of Payments.
+          ----------   --------------------------   The corporation shall
+not be liable under this Article to make any payment in connection with any
+claim made against the Agent to the extent the Agent has otherwise actually
+received payment (under any insurance policy, agreement, vote, or otherwise)
+of the amounts otherwise indemnifiable hereunder.
+
+                                 ARTICLE X
+
+                                  Notices
+                                  -------
+          Whenever, under any provisions of these Bylaws, notice is required
+to be given to any stockholder, the same shall be given in writing, timely and
+duly deposited in the United States Mail, postage prepaid, and addressed to his
+last know post office address as shown by the stock record of the corporation
+or its transfer agent.  Any notice required to be given to any director may be
+given by the method hereinabove stated, or by telegram, except that such notice
+other than one which is delivered personally, shall be sent to such address as
+such director shall have filed in writing with the Secretary of the
+
+<PAGE>
+
+corporation, or, in the absence of such filing, to the last known post office
+address of such director.  If no address of a stockholder or director be known,
+such notice may be sent to the office of the corporation required to be
+maintained pursuant to Section 2 of Article I hereof.  An affidavit of mailing,
+executed by a duly authorized and competent employee of the corporation or its
+transfer agent appointed with respect to the class of stock affected,
+specifying the name and address or the names and addresses of the stockholder
+or stockholders, director or directors, to whom any such notice or notices was
+or were given, and the time and method of giving the same, shall be conclusive
+evidence of the statements therein contained.  All notices given by mail, as
+above provided, shall be deemed to have been given as at the time of mailing
+and all notices given by telegram shall be deemed to have been given as at the
+sending time recorded by the telegraph company transmitting the same.  It
+shall not be necessary that the same method of giving be employed in respect
+of all directors, but one permissible method may be employed in respect of any
+one or more, and any other permissible method or methods may be employed in
+respect of any other or others.  The period or limitation of time within which
+any stockholder may exercise any option or right, or enjoy any privilege or
+benefit, or be required to act, or within which any director may exercise any
+power or right, or enjoy any privilege, pursuant to any notice sent him in the
+manner above provided, shall not be affected or extended in any manner by the
+failure of such a stockholder or such director to receive such notice.
+Whenever any notice is required to be given under the provisions of the
+statutes or of the Certificate of Incorporation, or of these Bylaws, a waiver
+thereof in writing signed by the person or persons entitled to said notice,
+whether before or after the time stated therein, shall be deemed equivalent
+thereto.  Whenever notice is required to be given, under any provision of law
+or of the Certificate of Incorporation or Bylaws of the corporation, to any
+person with whom communication is unlawful, the giving of such notice to such
+person shall not be required and there shall be no duty to apply to any
+governmental authority or agency for a license or permit to give such notice to
+such person.  Any action or meeting which shall be taken or held without notice
+to any such person with whom communication is unlawful shall have the same
+force and effect as if such notice had been duly given.  In the event that the
+action taken by the corporation is such as to require the filing of a
+certificate under any provision of the Delaware General Corporation Law, the
+certificate shall state, if such is the fact and if notice is required, that
+notice was given to all persons entitled to receive notice except such
+persons with whom communication is unlawful.
+
+                                  ARTICLE XI
+
+                                  Amendments
+                                  ----------
+          Unless otherwise provided in the Certificate of Incorporation,
+these Bylaws may be repealed, altered or amended or new Bylaws adopted by
+written consent of stockholders in the manner authorized by Section 8 of
+Article II, or at any meeting of the stockholders, either annual or special,
+by the affirmative vote of a majority of the stock entitled to vote at such
+meeting.  The Board of Directors shall also have the authority to repeal,
+alter or amend these Bylaws or adopt new Bylaws (including, without
+limitation, the amendment of any Bylaws setting forth the number of directors
+who shall constitute the whole Board of Directors) by unanimous written consent
+or at any annual, regular, or special meeting by the affirmative vote of a
+majority of the whole number of directors, subject to the power of the
+stockholders to change or repeal such Bylaws and provided that the Board of
+Directors shall not make or alter any Bylaws fixing the qualifications,
+classifications, term of office or compensation of directors.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<TEXT>
+
+
+Exhibit 10.1
+
+                              INTEL CORPORATION
+                            1984 STOCK OPTION PLAN
+               (Amended and Restated Effective July 16, 1997)
+
+1.   PURPOSE
+
+     The purpose of this amended and restated Intel Corporation 1984 Stock
+     Option Plan (the "Plan") is to advance the interests of Intel
+     Corporation, a Delaware corporation and its subsidiaries (hereinafter
+     collectively "Intel" or the "Corporation"), by stimulating the efforts of
+     key employees on behalf of Intel, heightening the desire of key
+     employees to continue in employment with Intel, assisting Intel in
+     competing effectively with other enterprises for the services of new
+     employees necessary for the continued improvement of operations, and to
+     attract and retain the best available personnel for service as
+     directors of the Corporation.  This Plan, among other matters, permits
+     the grant of incentive stock options as defined in Section 422 of the
+     Internal Revenue Code of 1986, as amended (the "Code"), as well as options
+     which are not incentive stock options pursuant to Code Section 422, and
+     includes the individual grant limitations required by Section 162(m) of
+     the Code for the option income of certain individuals to be tax deductible
+     by the Corporation.
+
+2.   DEFINITIONS
+
+     (a)  "Board of Directors" means the Board of Directors of the Corporation.
+ 
+     (b)  "Committee" shall mean the Compensation Committee appointed by the
+          Board of Directors from among its members to administer this Plan
+          pursuant to Section 9.
+
+     (c)  "Disablement" means a physical condition arising from an illness
+          or injury which renders an individual incapable of performing
+          work.  The determination of the Corporation as to an individual's
+          Disablement shall be made in accordance with the standards and
+          procedures of the Corporation's then-current Long-Term Disability
+          Plan and shall be conclusive on all of the parties.
+
+     (d)  "Plan" means the Intel Corporation 1984 Stock Option Plan, as
+          amended and restated herein.
+
+     (e)  "Retirement" shall have the meaning specified by the Committee
+          in the terms of an option grant or, in the absence of any such
+          term, shall mean retirement from active employment with Intel at
+          or after age 60.  The determination of the Committee as to
+          an individual's Retirement shall be conclusive on all parties.
+
+     (f)  "Subsidiary" means any corporation in an unbroken chain of
+          corporations beginning with Intel Corporation where each of the
+          corporations in the unbroken chain other than the last corporation
+          owns stock possessing fifty percent (50%) or more of the total
+          combined voting power of all classes of stock in one of the other 
+          corporations in such chain.
+
+     (g)  "Immediate Family" means the spouse, children and grandchildren of the
+          Participant (as defined in Section 3 hereof).
+
+3.   PARTICIPANTS
+
+     "Participants" in the Plan shall be those key Intel employees to whom
+     options may be granted from time to time by the Committee.  Participants
+     shall also include non-employee directors of the Corporation to whom
+     options are granted in accordance with Section 6.  No option shall be 
+     granted to any person if immediately after the grant of such option such 
+     person would own stock, including stock subject to outstanding options held
+
+<PAGE>    
+
+     by him or her, amounting to more than five percent (5%) of the total 
+     combined voting power or value of all classes of stock of the Corporation
+     or any Subsidiary.
+
+4.   EFFECTIVE DATE AND TERMINATION OF PLAN
+
+     This Plan was last approved by the stockholders on May 4, 1994, and
+     became effective on May 4, 1994.  The Plan was amended and restated by
+     the Board of Directors in certain non-material respects on March 26,
+     The Plan was amended and restated by the Board of Directors on
+     July 16, 1997, to provide for limited transferability of options.
+
+     The Plan shall remain available for the grant of options until all
+     shares of stock available for option grants under this Plan shall
+     have been acquired through exercise of such options or on May 3,
+     2004, whichever is earlier or at such earlier time as the Board
+     of Directors may determine.  Termination of the Plan will not
+     affect the rights and obligations arising under options theretofore
+     granted and then in effect.
+
+5.   SHARES SUBJECT TO THE PLAN AND TO OPTIONS
+
+     The stock subject to options authorized to be granted under the Plan
+     shall consist of 340,000,000 shares (as adjusted automatically by
+     the Plan's terms effective July 13, 1997, to reflect a stock split
+     effected in the form of a stock distribution) of the Corporation's common
+     stock, $.001 par value ("Common Stock"), or the number and kind of shares
+     of stock or other securities which shall be substituted or adjusted for
+     such shares as provided in Section 7.  Such shares may be authorized and
+     unissued shares of the Corporation's common stock.  All or any shares of
+     stock subject to an option which for any reason terminates unexercised
+     may again be made subject to an option under the Plan.
+
+6.   GRANT, TERMS AND CONDITIONS OF OPTIONS
+
+     Options may be granted at any time and from time to time prior to the
+     termination of the Plan to those key employees of Intel who, in the
+     Committee's judgment, are largely responsible through their judgment,
+     interest, ability and special efforts for the successful conduct of
+     Intel's operations.  However, no Participant shall be granted options
+     in any year to purchase a number of shares of the Corporation's Common
+     Stock in excess of one percent (1%) of the number of shares of the
+     Corporation's common stock outstanding on January 1, 1994.
+
+     Options may be granted to non-employee directors as follows.  The number
+     of shares subject to each option grant to non-employee directors, or the
+     formula pursuant to which such number shall be determined, the date
+     of grant and the vesting, expiration and other terms applicable to such
+     options shall be specified from time to time by the Board of
+     Directors.  Subject to adjustment pursuant to Section 7, the maximum
+     number of shares of Common Stock subject to options granted under this
+     Plan to any person on account of his or her service as a non-employee
+     director from the date of his or her election or appointment as a director
+     until the date of the next regular annual stockholders' meeting shall
+     not exceed 5,000.  All options granted to non-employee directors will
+     be non-qualified stock options.
+
+     No Participant or optionholder shall have any rights as a stockholder
+     with respect to any shares of stock subject to option hereunder until
+     said shares have been issued.  Option grants may be evidenced by a
+     written stock option agreement and/or such other written arrangements as
+     may be approved from time to time by the Committee.  Each option grant
+     will expressly identify the option as an incentive stock option or as
+     a non-qualified stock option.  Furthermore, the grant of an incentive
+     option pursuant to this Plan shall in no way be construed as an
+     alternative to the right of an optionee to purchase stock pursuant
+     to any present or future grant of a non-qualified option under any of
+     Intel's current or future stock option plans.  Options granted pursuant
+     to the Plan need not be identical but each option is subject to the
+     terms of the Plan and must contain and be subject to the following terms
+
+<PAGE>
+  
+     and conditions:
+
+     (a)  Price:
+          -----   The purchase price under each option granted to
+          employees shall be established by the Committee.  In no event will
+          the option price be less than 100% of the fair market value of the
+          stock on the date of grant, except as otherwise provided in
+          accordance with subsection (g) below.  The option price must be
+          paid in full at the time of the exercise.  The price may be
+          paid in cash, cash equivalents or secured notes acceptable to
+          the Committee, by arrangement with a broker which is acceptable
+          to the Committee where payment of the option price is made
+          pursuant to an irrevocable direction to the broker to deliver all
+          or part of the proceeds from the sale of the option shares to
+          the Corporation, by the surrender of shares of common stock owned
+          by the optionee exercising the option and having a fair market
+          value on the date of exercise equal to the option price or in any
+          combination of the foregoing.
+
+     (b)  Duration and Exercise or Termination of Option:
+          ----------------------------------------------   Each option
+          granted to an employee shall be exercisable in such manner and at
+          such times as the Committee shall determine.  Each option granted
+          must expire within a period of not more than ten (10) years from
+          the grant date.  An employee's stock option may provide for
+          accelerated exercisability in the event of the employee's death,
+          Disablement or Retirement or other events in accordance with
+          policies established by the Committee and may provide for
+          expiration prior to the end of its terms in the event of the
+          termination of the employee's service.
+
+          Unless the Board of Directors specifies otherwise, each option
+          granted to a non-employee director will become fully exercisable
+          beginning one year from the date on which the option was granted.
+          If the Board of Directors has provided for periodic option
+          grants to all non-employee directors, then when a non-employee
+          director is elected by the Board of Directors to begin serving as
+          director on a date not coincident with a grant date for such
+          options, that director will be granted an initial non-employee
+          director option as of the date of the first meeting of the
+          Board of Directors at which he or she serves as director for
+          a number of shares calculated on a pro-rata basis, based on
+          the number of months remaining until the next regular grant
+          of options to non-employee directors.
+
+     (c)  Suspension or Termination of Option:
+          -----------------------------------   If at any time (including
+          after a notice of exercise has been delivered) the Chief
+          Executive Officer, President, Chief Operating Officer, Vice
+          President for Human Resources, General Counsel or any of their
+          designees (any such person, an "Authorized Officer") reasonably
+          believes that a Participant or other optionholder, other
+          than a non-employee director, has committed an act of misconduct
+          as described in this Section, the Authorized Officer may suspend
+          the Participant's or optionholder's rights to exercise any
+          option pending a determination of whether an act of misconduct
+          has been committed.  If the Board of Directors or an Authorized
+          Officer determines a Participant or other optionholder, other
+          than a non-employee director, has committed an act of
+          embezzlement, fraud, dishonesty, nonpayment of any obligation owed
+          to Intel, breach of fiduciary duty or deliberate disregard of Intel
+          rules resulting in loss, damage or injury to Intel, or if a
+          Participant or other optionholder makes an unauthorized
+          disclosure of any Intel trade secret or confidential information,
+          engages in any conduct constituting unfair competition, induces
+          any Intel customer to breach a contract with Intel or induces any
+          principal for whom Intel acts as agent to terminate such
+          agency relationship, neither the Participant or optionholder nor
+          his or her estate shall be entitled to exercise any option
+          whatsoever.  In making such determination, the Board of Directors
+          or an Authorized Officer shall act fairly and shall give
+<PAGE>
+          the Participant an opportunity to appear and present evidence on
+          his or her behalf at a hearing before a committee of the Board
+          of Directors.  For any Participant who is an "executive officer"
+          for purposes of Section 16 of the Securities Exchange Act of
+          1934 (the "Exchange Act"), the determination of the Board of
+          Directors or of the Authorized Officer shall be subject to
+          the approval of the Committee.
+
+     (d)  Termination of Non-Employee Director's Service:
+          ----------------------------------------------   Subject to Section
+          6(b) and unless the Board of Directors specifies otherwise, upon
+          the termination of the Participant's service as a non-employee
+          director, his or her rights to exercise an option then held
+          shall be only as follows:
+
+          (1)  Death.
+               -----   Upon the death of a non-employee director while
+               in service as a non-employee director of Intel, the
+               non-employee director's rights will be exercisable by his
+               or her estate or beneficiary at any time during the twelve
+               months next succeeding the date of death.  The
+               number of shares exercisable by the estate or beneficiary
+               will be the total number of unexercised shares under
+               the non-employee director's option on the date of his or
+               her death.  If a non-employee director should die within
+               thirty (30) days of his or her termination of service
+               as a non-employee director with Intel, an option will be
+               exercisable by his or her estate or beneficiary at any time
+               during the twelve (12) months succeeding the date of
+               termination, but only to the extent of the number of shares
+               as to which such option was exercisable as of the date of
+               such termination.  A non-employee director's estate shall
+               mean his or her legal representative or other person who
+               so acquires the right to exercise the option.
+
+          (2)  Disablement.
+               -----------   Upon the Disablement of a non-employee
+               director, any option which he or she holds, whether or not 
+               exercisable on the date of Disablement, may be exercised after
+               the date of the Disablement within twelve (12) months.
+
+          (3)  Retirement.
+               ----------   Upon Retirement of a non-employee director,
+               the non-employee director's rights to non-qualified stock options
+               which he or she holds, whether or not otherwise exercisable on
+               the date of Retirement, may be exercised at any time during the
+               twelve (12) months after Retirement.
+
+          (4)  Other Reasons.
+               -------------   Upon termination of a non-employee director's
+               service as a non-employee director for any reason other than
+               those stated above, the non-employee director may, within ninety
+               days following such termination exercise the option to the
+               extent such option was exercisable on the date of termination.
+
+     (e)  Transferability of Option:
+          -------------------------   Unless otherwise provided by the Committee
+          and subject to the establishment of procedures by the Committee, each
+          option shall be transferable only:
+
+          (1)  by will or the laws of descent and distribution, or
+
+          (2)  in case of an option which is not an incentive stock option, by
+               gift to the Immediate Family, partnerships whose only
+               partners are the Participant or members of the Immediate Family,
+               limited liability companies whose only shareholders are the
+               Participant or members of the Immediate Family, and trusts
+               established solely for the benefit of the Participant or
+               members of the Immediate Family.
+<PAGE>
+          The transferees described in this subsection (e) of Section 6 shall be
+          referred to as "Permitted Transferees".
+
+          Options are transferable only to the extent the options are
+          exercisable at the time of transfer.  Any purported assignment,
+          transfer or encumbrance that does not qualify under subsections (1)
+          and (2) above shall be void and unenforceable against the 
+          Corporation.
+
+          The terms of stock options granted pursuant to this Plan shall
+          apply to the beneficiaries, executors and administrators of the
+          Participant and to Permitted Transferees (including the beneficiaries,
+          executors and administrators of Permitted Transferees), including the
+          right to agree to any amendment of the applicable option agreement,
+          except that options transferred to Permitted Transferees shall not be
+          transferable except by will or the laws of descent and distribution.
+
+     (f)  Modification or Assumption of Options:
+          -------------------------------------   The Committee may modify,
+          extend or assume outstanding options (whether granted by Intel or
+          by another issuer) in return for the grant of new options for
+          the same or a different number of shares and at the same or a
+          different exercise price.
+
+     (g)  Conditions and Restrictions Upon Securities Subject to Options:
+          --------------------------------------------------------------
+          Subject to the express provisions of the Plan, the Committee may
+          provide that the shares of Common Stock issued upon exercise of
+          an option shall be subject to such further conditions or agreements
+          as the Committee in its discretion may specify prior to the exercise
+          of such option, including without limitation, conditions on
+          vesting or transferability, forfeiture or repurchase provisions
+          and method of payment for the shares issued upon exercise (including
+          the actual or constructive surrender of Common Stock already
+          owned by the Participant or optionholder).  The Committee may
+          establish rules for the deferred delivery of Common Stock upon
+          exercise of an option with the deferral evidenced by use of "Stock
+          Units" equal in number to the number of shares of Common Stock
+          whose delivery is so deferred.  A "Stock Unit" is a bookkeeping
+          entry representing an amount equivalent to the fair market value
+          of one share of Common Stock.  Unless the Committee specifies
+          otherwise, Stock Units represent an unfunded and unsecured
+          obligation of the Corporation.  Settlement of Stock Units upon
+          expiration of the deferral period shall be made in Common Stock
+          or otherwise as determined by the Committee.  The amount of Common
+          Stock, or other settlement medium, to be so distributed may be
+          increased by an interest factor or by dividend equivalents.  Until
+          a Stock Unit is so settled, the number of shares of Common Stock
+          represented by a Stock Unit shall be subject to adjustment
+          pursuant to Section 7.  Any Stock Units that are settled after
+          the holder's death shall be distributed to the holder's designated
+          beneficiary(ies) or, if none was designated, the holder's estate.
+
+     (h)  Other Terms and Conditions:
+          --------------------------   Options may also contain such other
+          provisions, which shall not be inconsistent with any of the
+          foregoing terms, as the Committee shall deem appropriate.  No
+          option, however, nor anything contained in the Plan shall
+          confer upon any Participant any right to continue in Intel's employ
+          or service nor limit in any way Intel's right to terminate his or
+          her employment or service at any time.
+
+7.   ADJUSTMENT OF AND CHANGES IN THE STOCK
+
+     (a)  In the event that the shares of Common Stock of the Corporation
+          shall be changed into or exchanged for a different number or kind
+          of shares of stock or other securities of the Corporation or of
+          another corporation (whether by reason of merger, consolidation,
+          recapitalization, reclassification, split-up, combination of
+          shares, or otherwise), or if the number of shares of Common Stock
+          of the Corporation shall be increased through a stock split or the
+<PAGE>
+          payment of a stock dividend, then there shall be substituted for
+          or added to each share of common stock of the Corporation
+          theretofore appropriated or thereafter subject or which may
+          become subject to an option under the Plan, the number and kind of
+          shares of stock or other securities into which each outstanding
+          share of common stock of the Corporation shall so be changed, or
+          for which each such share shall be exchanged, or to which each
+          such share shall be entitled, as the case may be.  Outstanding
+          options shall also be amended as to price and other terms if
+          necessary to reflect the foregoing events.  In the event there
+          shall be any other change in the number or kind of the outstanding
+          shares of Common Stock of the Corporation, or any stock or other
+          securities into which such Common Stock shall have been changed,
+          or for which it shall have been exchanged, then if the Committee
+          shall, in its sole discretion, determine that such change
+          equitably requires an adjustment in any option theretofore granted
+          or which may be granted under the Plan, such adjustment shall be
+          made in accordance with such determination.
+
+     (b)  No right to purchase fractional shares shall result from any
+          adjustment in options pursuant to this Section 7.  In case of any
+          such adjustment, the shares subject to the option shall be
+          rounded down to the nearest whole share.  Notice of any adjustment
+          shall be given by the Corporation to each Participant or
+          optionholder which shall have been so adjusted and such
+          adjustment (whether or not notice is given) shall be effective and
+          binding for all purposes of the Plan.
+
+     (c)  Any other provision hereof to the contrary notwithstanding (except
+          Section 6(b)) in the event Intel is a party to a merger or other
+          reorganization, outstanding options shall be subject to the
+          agreement of merger or reorganization.  Such agreement may
+          provide, without limitation, for the assumption of outstanding
+          options by the surviving corporation or its parent, for their
+          continuation by Intel (if Intel is a surviving corporation), for
+          accelerated vesting and accelerated expiration, or for settlement
+          in cash.
+
+8.   LISTING OR QUALIFICATION OF STOCK
+
+     In the event that the Board of Directors determines in its discretion
+     that the listing or qualification of the Plan shares on any
+     securities exchange or quotation or trading system or under any
+     applicable law or governmental regulation is necessary as a condition to
+     the issuance of such shares under the option, the option may not be
+     exercised in whole or in part unless such listing, qualification, consent
+     or approval has been unconditionally obtained.
+
+9.   ADMINISTRATION AND AMENDMENT OF THE PLAN
+
+     The Plan shall be administered by the Committee.  The Committee shall
+     consist of two or more directors of Intel, who shall be appointed
+     by the Board of Directors.  The Board shall fill vacancies and may
+     from time to time remove or add members.  All members of the Committee
+     will be "non-employee directors" as defined in Rule 16b-3 under the
+     Exchange Act and "outside directors" as defined under Section 162(m) of
+     the Code, but in each case only when required to exempt any grant intended
+     to qualify for an exemption under such provisions.  Notwithstanding the
+     foregoing, unless otherwise restricted by the Board of Directors,
+     the Committee may appoint one or more separate committees (any
+     such committee, a "Subcommittee") composed of one or more directors of
+     Intel (who may but need not be members of the Committee) and may
+     delegate to any such Subcommittee(s) the authority to grant options
+     under the Plan to Participants, to determine all terms of such
+     options, and/or to administer the Plan or any aspect of it.  Any
+     action by any such Subcommittee within the scope of such delegation shall
+     be deemed for all purposes to have been taken by the Committee.
+
+     Subject to the express provisions of this Plan, the Committee shall be
+     authorized and empowered to do all things necessary or desirable in
+
+<PAGE>
+
+     connection with the administration of this Plan, including, without
+     limitation:  (a) to prescribe, amend and rescind rules and regulations
+     relating to this Plan and to define terms not otherwise defined
+     herein; (b) to determine which persons are Participants (as defined in
+     Section 3 hereof), to which of such Participants, if any, an
+     option shall be granted hereunder and the timing of any such
+     option grants; (c) to determine the number of shares of Common Stock
+     subject to an option and the exercise or purchase price of such
+     shares; (d) to establish and verify the extent of satisfaction of
+     any conditions to exercisability applicable to an option; (e) to
+     waive conditions to and/or accelerate exercisability of an option,
+     either automatically upon the occurrence of specified events (including
+     in connection with a change of control of the Corporation) or otherwise
+     in its discretion; (f) to prescribe and amend the terms of option
+     grants made under this Plan (which need not be identical); (g) to
+     determine whether, and the extent to which, adjustments are required
+     pursuant to Section 7 hereof; and (h) to interpret and construe this
+     Plan, any rules and regulations under the Plan and the terms and
+     conditions of any option granted hereunder, and to make exceptions to any
+     such provisions in good faith and for the benefit of the Corporation.
+
+     All decisions, determinations and interpretations by the Committee
+     regarding the Plan, any rules and regulations under the Plan and the
+     terms and conditions of any option granted hereunder, shall be final
+     and binding on all Participants and optionholders.  The Committee
+     shall consider such factors as it deems relevant, in its sole and
+     absolute discretion, to making such decisions, determinations
+     and interpretations including, without limitation, the recommendations
+     or advice of any officer or other employee of the Corporation
+     and such attorneys, consultants and accountants as it may select.
+
+     The Board of Directors may amend or terminate the Plan as desired,
+     without further action by the Corporation's stockholders except to
+     the extent required by applicable law.
+
+     Notwithstanding the above, the provisions of Section 6 relating to
+     non-employee directors may not be amended more than once every six
+     months, except to comply with changes to the Code or the rules
+     thereunder.
+
+10.  TIME OF GRANTING OPTIONS
+
+     The effective date of each option granted hereunder shall be the
+     date on which the grant was made.  Within a reasonable time thereafter,
+     Intel will deliver the option to the Participant.
+
+11.  WITHHOLDING
+
+     To the extent required by applicable federal, state, local or foreign
+     law, a Participant or optionholder shall make arrangements satisfactory
+     to the Corporation for the satisfaction of any withholding tax
+     obligations that arise by reason of an option exercise or any sale
+     of shares.  The Corporation shall not be required to issue shares or
+     to recognize the disposition of such shares until such obligations
+     are satisfied.  The Committee may permit these obligations to be
+     satisfied by having the Corporation withhold a portion of the
+     shares of stock that otherwise would be issued to him or her upon
+     exercise of the option, or to the extent permitted, by tendering
+     shares previously acquired.
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<TEXT>
+
+
+Exhibit 10.2
+
+
+                              INTEL CORPORATION
+                          1988 EXECUTIVE LONG TERM
+                              STOCK OPTION PLAN
+             (Amended and Restated Effective as of July 16, 1997)
+
+1.   PURPOSE
+
+     The purpose of this amended and restated Intel Corporation 1988
+     Executive Long Term Stock Option Plan (the "Plan") is to advance
+     the interests of Intel Corporation, a Delaware corporation
+     and its subsidiaries (hereinafter collectively "Intel" or the
+     "Corporation"), by stimulating the efforts of certain key employees
+     employed by Intel and heightening the desire of such key
+     employees to continue in employment with Intel.  The stock options
+     granted pursuant to this Plan are non-qualified stock options and shall
+     not be incentive stock options, as defined in Section 422 of the
+     Internal Revenue Code of 1986, as amended (the "Code").  This amended
+     and restated Plan includes the individual grant limitations required by
+     Section 162(m) of the Code for the option income of certain
+     individuals to be tax deductible by the Corporation.
+
+2.   DEFINITIONS
+
+     (a)  "Board of Directors" means the Board of Directors of the
+          Corporation.
+
+     (b)  "Committee" means the Compensation Committee appointed by
+          the Board of Directors in accordance with Section 11.
+
+     (c)  "Disablement" means a physical condition arising from an illness or
+          injury which renders an individual incapable of performing work.
+          The determination of the Corporation as to an individual's
+          Disablement shall be made in accordance with the standards and
+          procedures of the Corporation's then-current Long-Term Disability
+          Plan and shall be conclusive on all of the parties.
+
+     (d)  "Plan" means the Intel Corporation 1988 Executive Long Term Stock
+          Option Plan, as amended and restated herein.
+
+     (e)  "Retirement" shall have the meaning specified by the Committee
+          in the terms of an option grant or, in the absence of any such
+          term, shall mean retirement from active employment with Intel (i)
+          at or after age 55 and with the approval of the Committee or (ii)
+          at or after age 65.  The determination of the Committee as to
+          an individual's Retirement shall be conclusive on all parties.
+
+     (f)  "Subsidiary" means any corporation in an unbroken chain of
+          corporations beginning with Intel Corporation where each of the
+          corporations in the unbroken chain other than the last
+          corporation owns stock possessing 50 percent or more of the
+          total combined voting power of all classes of stock in one of the
+          other corporations in such chain.
+
+     (g)  "Immediate Family" means the spouse, children and grandchildren
+          of the Participant (as defined in Section 3 hereof).
+
+3.   PARTICIPANTS
+
+     "Participants" in the Plan shall be those key employees who have been
+     employed by Intel for at least two years and to whom options may be
+     granted from time to time by the Committee.
+
+     No option shall be granted to any employee if immediately after the
+
+<PAGE>
+
+     grant of such option such employee would own stock, including stock
+     subject to outstanding options held by him or her, amounting to more
+     than five percent (5%) of the total combined voting power or value of
+     all classes of stock of the Corporation or any Subsidiary.  Options may
+     not be granted to non-employee directors or members of the Committee.
+
+4.   EFFECTIVE DATE AND TERMINATION OF PLAN
+
+     This Plan was last approved by the Corporation's stockholders on
+     May 4, 1994.  The Plan was amended and restated by the Board of
+     Directors in certain non-material respects on March 26, 1997.  The
+     Plan was amended and restated by the Board of Directors on July 16,
+     1997, to provide for limited transferability of options.
+
+     The Plan shall remain available for the grant of options until all
+     shares of stock available for grant under this Plan shall have
+     been acquired through exercise of options or until September 19,
+     1998 whichever is earlier.  The Plan may be terminated at such
+     earlier time as the Board of Directors may determine.  Termination
+     of the Plan will not affect the rights and obligations arising
+     under options theretofore granted and then in effect.
+
+5.   SHARES SUBJECT TO THE PLAN AND TO OPTIONS
+
+     The stock subject to options authorized to be granted under the
+     Plan shall consist of 80,000,000 shares (as adjusted automatically
+     by the Plan's terms effective July 13, 1997, to reflect a stock split
+     effected in the form of a stock distribution) of the Corporation's
+     common stock, par value $.001 ("Common Stock"), or the number and
+     kind of shares of stock or other securities which shall be
+     substituted or adjusted for such shares as provided in Section 8.
+     Such shares may be authorized and unissued shares of the Corporation's
+     Common Stock.  All or any shares of stock subject to an option
+     which for any reason terminates unexercised may again be made subject
+     to an option under the Plan.
+
+6.   GRANT, TERMS AND CONDITIONS OF OPTIONS
+
+     Options may be granted at any time and from time to time prior to the
+     termination of the Plan, to certain key employees of Intel selected
+     by the Committee.  However, no Participant shall be granted options
+     in any year, to purchase shares of common stock in excess of one
+     percent (1%) of the number of shares of the Corporation's Common
+     Stock outstanding on January 1, 1994.  In addition, no Participant or
+     optionholder shall have any rights as a stockholder with respect to
+     any shares of stock subject to option hereunder until said shares have
+     been issued.  Each option may be evidenced by a written stock option
+     agreement and/or such other written arrangements as may be approved
+     from time to time by the Committee.  Options granted pursuant to
+     the Plan need not be identical but each option much contain and
+     be subject to the following terms and conditions:
+
+     (a)  Price:
+          -----   The purchase price under each option shall be
+          established by the Committee.  In no event will the option
+          price be less than the fair market value of the stock on
+          the date of grant.  The option price must be paid in full at
+          the time of exercise.  The price may be paid in cash or, as
+          acceptable to the Committee, by loan (as described in
+          Section 7), by arrangement with a broker where payment of the
+          option price is made pursuant to an irrevocable direction to
+          the broker to deliver all or part of the proceeds from the sale
+          of the option shares to the Corporation, by the surrender of
+          shares of Common Stock of the Corporation owned by the
+          Participant exercising the option and having a fair market
+          value on the date of exercise equal to the option price or in any
+          combination of the foregoing.
+
+     (b)  Duration and Exercise or Termination of Option:
+          ----------------------------------------------   Each option shall
+          be exercisable in such manner and at such times as the Committee
+          shall determine.  However, each option granted must expire
+          within a period of not more than ten (10) years from the grant date.
+
+<PAGE>
+
+     (c)  Suspension or Termination of Option:
+          -----------------------------------   If at any time (including
+          after a notice of exercise has been delivered) the Chief
+          Executive Officer, President, Chief Operating Officer, Vice
+          President for Human Resources, General Counsel or any of their
+          designees (any such person, an "Authorized Officer") reasonably
+          believes that a Participant or optionholder has committed an act
+          of misconduct as described in this Section, the Authorized
+          Officer may suspend the Participant's or optionholder's
+          rights to exercise any option pending a determination of
+          whether an act of misconduct has been committed.
+
+          If the Board of Directors or an Authorized Officer determines
+          a Participant or optionholder has committed an act of
+          embezzlement, fraud, dishonesty, nonpayment of any obligation
+          owed to Intel, breach of fiduciary duty or deliberate
+          disregard of Intel rules resulting in loss, damage or injury
+          to Intel, or if a Participant or optionholder makes an
+          unauthorized disclosure of any Intel trade secret or
+          confidential information, engages in any conduct constituting
+          unfair competition, induces any Intel customer to breach a
+          contract with Intel or induces any principal for whom Intel
+          acts as agent to terminate such agency relationship, neither
+          the Participant nor optionholder nor his or her estate shall be
+          entitled to exercise any option whatsoever.  In making such
+          determination, the Board of Directors or an Authorized Officer
+          shall act fairly and shall give the Participant an opportunity
+          to appear and present evidence on his or her behalf at a hearing
+          before a committee of the Board of Directors.  For any
+          Participant who is an "executive officer" for purposes of
+          Section 16 of the Securities Exchange Act of 1934 (the
+          "Exchange Act"), the determination of the Board of Directors or
+          of the Authorized Officer shall be subject to the approval of the
+          Committee.
+
+     (d)  Termination of Employment:
+          -------------------------   Subject to Section 6(b), unless the
+          Committee specifies otherwise, upon the termination of the
+          Participant's employment, his or her rights to exercise an option
+          then held shall be only as follows:
+
+          (1)  Death.  
+               -----   Upon the death of a Participant while in employ of
+               Intel, the Participant's rights will be exercisable by his
+               or her estate or beneficiary at any time during the twelve
+               months next succeeding the date of death.
+
+               If the Participant's option has been held by the Participant
+               for a minimum of four (4) years at the time of death,
+               then the number of shares exercisable by the estate or
+               beneficiary of the deceased Participant will be the total
+               number of unexercised shares, whether or not exercisable,
+               under such option on the date of the Participant's death.
+
+               If the Participant's option has been held for a period of
+               less than four (4) years at the time of death, then the
+               number of shares exercisable by the estate or beneficiary
+               of the deceased Participant will be the total number of
+               shares which were exercisable under such option on the
+               date of the Participant's death.
+
+               If a Participant should die within thirty (30) days of his
+               or her termination of employment with Intel, an option will
+               be exercisable by his or her estate or beneficiary at any
+               time during the twelve (12) months succeeding the date of
+               termination, but only to the extent of the number of shares
+               as to which such option was exercisable as of the date of
+               such termination.  A Participant's estate shall mean his or
+               her legal representative or other person who so acquires the
+               right to exercise the option.
+
+          (2)  Disablement.
+               -----------   Upon the Disablement of any Participant, the
+               Participant's rights to options may be exercised for at any
+
+<PAGE>
+
+               time during the twelve (12) months after termination.  If
+               the Participant's option has been held for a minimum of four
+               years, then the number of shares exercisable by the
+               Participant will be the total number of unexercised shares,
+               whether or not exercisable, under such option on the date of
+               the Participant's termination.  If the Participant's option
+               has been held for a period of less than four (4) years,
+               then the number of shares exercisable by the Participant
+               will be the total number of shares which were exercisable
+               under such option on the date of the Participant's termination.
+
+          (3)  Retirement.
+               ----------   Upon Retirement of a Participant, the
+               Participant's rights to options may be exercised at any time
+               during the twelve (12) months after Retirement.  The
+               number of shares exercisable will be the total number of
+               shares which were exercisable under the Participant's option
+               on the date of his or her Retirement.
+
+          (4)  Other Reasons.
+               -------------   Upon termination of a Participant's employment
+               for any reason other than those stated above, a Participant
+               may, within thirty (30) days following such termination
+               exercise the option to the extent such option was exercisable
+               on the date of termination.
+
+          For purposes of this Section 6(d), unless the Committee specifies
+          otherwise, a Participant's employment shall not be deemed
+          terminated (i) if, within sixty (60) days such Participant is
+          rehired by Intel, (ii) if Participant is transferred from the
+          Corporation to any Subsidiary or from any one Subsidiary to
+          another or from a Subsidiary to the Corporation, or (iii) at the
+          discretion of the Committee, during any period of a Participant's
+          leave of absence, provided that the Committee may delay the
+          Participant's rights to exercise options as a result of such leave
+          of absence.  In addition, a Participant's employment with any
+          partnership, joint venture or corporation not meeting the
+          requirements of a Subsidiary in which the Corporation or a
+          Subsidiary is a party and which is designated by the Committee
+          as subject to this provision, shall be considered employment for
+          purposes of this Section 6(d).
+
+     (e)  Transferability of Option:  Unless otherwise provided by the
+          Committee and subject to the establishment of procedures by
+          the Committee, each option shall be transferable only:
+
+          (1)  by will or the laws of descent and distribution, or
+
+          (2)  by gift to the Immediate Family, partnerships whose only
+               partners are the Participant or members of the Immediate
+               Family, limited liability companies whose only shareholders
+               are the Participant or members of the Immediate Family, and
+               trusts established solely for the benefit of the Participant
+               or members of the Immediate Family.
+
+               The transferees described in this subsection (e) of Section
+               6 shall be referred to as "Permitted Transferees".
+
+               Options are transferable only to the extent the options are
+               exercisable at the time of transfer.  Any purported
+               assignment, transfer or encumbrance that does not qualify
+               under subsections (1) and (2) above shall be void and
+               unenforceable against the Corporation.
+
+               The terms of stock options granted pursuant to this Plan
+               shall apply to the beneficiaries, executors and
+               administrators of the Participant and to Permitted
+               Transferees (including the beneficiaries, executors and
+               administrators of Permitted Transferees), including the right
+               to agree to any amendment of the applicable option agreement,
+               except that options transferred to Permitted Transferees
+               shall not be transferable except by will or the laws of
+               descent and distribution.
+
+<PAGE>
+
+          (f)  Cancellation:
+               ------------   The Committee may, at any time prior to
+               exercise and subject to consent of the Participant, cancel
+               any options previously granted and may or may not substitute
+               in their place options at a different price and different
+               type under different terms or in different amounts.
+
+          (g)  Conditions and Restrictions Upon Securities Subject to
+               ------------------------------------------------------
+               Options:
+               -------   Subject to the express provisions of the Plan,
+               the Committee may provide that the shares of Common Stock
+               issued upon exercise of an option shall be subject to such
+               further conditions or agreements as the Committee in its
+               discretion may specify prior to the exercise of such option,
+               including without limitation, conditions on vesting or
+               transferability, forfeiture or repurchase provisions and
+               method of payment for the shares issued upon exercise
+               (including the actual or constructive surrender of Common
+               Stock already owned by the Participant or optionholder).
+               The Committee may establish rules for the deferred delivery
+               of Common Stock upon exercise of an option with the deferral
+               evidenced by use of "Stock Units" equal in number to the
+               number of shares of Common Stock whose delivery is so
+               deferred.  A "Stock Unit" is a bookkeeping entry
+               representing an amount equivalent to the fair market value
+               of one share of Common Stock.  Unless the Committee specifies
+               otherwise, Stock Units represent an unfunded and unsecured
+               obligation of the Corporation.  Settlement of Stock Units
+               upon expiration of the deferral period shall be made in
+               Common Stock or otherwise as determined by the Committee.
+               The amount of Common Stock, or other settlement medium, to be
+               so distributed may be increased by an interest factor
+               or by dividend equivalents.  Until a Stock Unit is so settled,
+               the number of shares of Common Stock represented by a Stock
+               Unit shall be subject to adjustment pursuant to Section 8.
+               Any Stock Units that are settled after the holder's death
+               shall be distributed to the holder's designated
+               beneficiary(ies) or, if none was designated, the holder's
+               estate.
+
+          (h)  Other Terms and Conditions:
+               --------------------------   Options may also contain such
+               other provisions, which shall not be inconsistent with any of
+               the foregoing terms, as the Committee shall deem
+               appropriate.  No option, however, nor anything contained in
+               the Plan shall confer upon any Participant any right to
+               continue in Intel's employ or service nor limit in any way
+               Intel's right to terminate his or her employment at any time.
+
+     7.   LOANS
+
+          The Corporation may make loans, at the request of the Participant
+          and in the sole discretion of the Board or its Committee, for
+          the purpose of enabling the Participant to exercise options granted
+          under the Plan and to pay the tax liability resulting from an option
+          exercise under the Plan.  The Board or its Committee shall have
+          full authority to determine the terms and conditions of such loans.
+          Such loans may be secured by the shares received upon exercise of
+          such option.
+
+     8.   ADJUSTMENT OF AND CHANGES IN THE STOCK
+
+          In the event that the number of shares of Common Stock of the
+          Corporation shall be increased or decreased through
+          reclassification, combination of shares, a stock split or the
+          payment of a stock dividend, or otherwise, then each share of
+          common stock of the Corporation which has been authorized for
+          issuance under the Plan, whether such share is then currently
+          subject to or may become subject to an option under the
+          Plan, shall be proportionately adjusted to reflect such increase
+          or decrease.  Outstanding options shall also be amended as to price
+          and other terms if necessary to reflect the foregoing events.
+          In the event there shall be any other change in the number or
+
+<PAGE>
+
+          kind of the outstanding shares of Common Stock of the Corporation,
+          or any stock or other securities into which such Common Stock
+          shall have been changed, or for which it shall have been exchanged,
+          whether by reason of merger, consolidation or otherwise, then if
+          the Committee shall, in its sole discretion, determine that such
+          change equitably requires an adjustment to shares currently subject
+          to options or which may become subject to options under the Plan,
+          or to prices or terms of outstanding options, such adjustment shall
+          be made in accordance with such determination.  In addition, in the
+          event of such change described in this paragraph, the Board of
+          Directors may accelerate the time or times at which any option may
+          be exercised and may provide for cancellation of such accelerated
+          options which are not exercised within a time prescribed by the
+          Board of Directors in its sole discretion.
+
+          No right to purchase fractional shares shall result from any
+          adjustment in options pursuant to this Section.  In case of any
+          such adjustment, the shares subject to the option shall be
+          rounded down to the nearest whole share.  Notice of any adjustment
+          shall be given by the Corporation to each Participant or
+          optionholder which shall have been so adjusted and such adjustment
+          (whether or not notice is given) shall be effective and binding for
+          all purposes of the Plan.
+
+     9.   LISTING OR QUALIFICATION OF STOCK
+
+          In the event that the Board of Directors determines in its
+          discretion that the listing or qualification of the Plan shares on
+          any securities exchange or quotation or trading system or under any
+          applicable law or governmental regulation is necessary as a
+          condition to the issuance of such shares under the option, the
+          option may not be exercised in whole or in part unless such listing,
+          qualification, consent or approval has been unconditionally obtained.
+
+     10.  WITHHOLDING
+
+          To the extent required by applicable federal, state, local or
+          foreign law, a Participant or optionholder shall make arrangements
+          satisfactory to the Corporation for the satisfaction of any
+          withholding tax obligations that arise by reason of an option
+          exercise.  The Corporation shall not be required to issue shares or
+          to recognize the disposition of such shares until such obligations
+          are satisfied.  The Committee may permit these obligations to be
+          satisfied by having the Corporation withhold a portion of the shares
+          of stock that otherwise would be issued to him or her upon exercise
+          of the option, or to the extent permitted, by tendering shares
+          previously acquired.
+
+     11.  ADMINISTRATION AND AMENDMENT OF THE PLAN
+
+          The Plan shall be administered by the Committee which shall consist
+          of at least two persons appointed by the Board of Directors.  The
+          Board of Directors shall fill vacancies and may from time to time
+          remove or add members.  All members of the Committee will
+          be "non-employee directors" as defined in Rule 16b-3 under the
+          Exchange Act and "outside directors" as defined under Section
+          162(m) of the Code, but in each case only when required to exempt
+          any grant intended to qualify for an exemption under
+          such provisions.  Notwithstanding the foregoing, unless otherwise
+          restricted by the Board of Directors, the Committee may appoint one
+          or more separate committees (any such committee, a "Subcommittee")
+          composed of one or more directors of Intel (who may but need not be
+          members of the Committee) and may delegate to any such
+          Subcommittee(s) the authority to grant options under the Plan to
+          Participants, to determine all terms of such options, and/or to
+          administer the Plan or any aspect of it.  Any action by any such
+          Subcommittee within the scope of such delegation shall be deemed for
+          all purposes to have been taken by the Committee.  The Committee
+          shall act pursuant to a majority vote or majority written consent.
+
+<PAGE>
+
+          Subject to the express provisions of this Plan, the Committee
+          shall be authorized and empowered to do all things necessary
+          or desirable in connection with the administration of this Plan,
+          including, without limitation:  (a) to prescribe, amend and
+          rescind rules and regulations relating to this Plan and to
+          define terms not otherwise defined herein; (b) to determine
+          which persons are Participants (as defined in Section 3 hereof),
+          to which of such Participants, if any, an option shall be granted
+          hereunder and the timing of any such option grants; (c) to
+          determine the number of shares of Common Stock subject to an option
+          and the exercise or purchase price of such shares; (d) to establish
+          and verify the extent of satisfaction of any conditions to
+          exercisability applicable to an option; (e) to waive conditions to
+          and/or accelerate exercisability of an option, either
+          automatically upon the occurrence of specified events (including in
+          connection with a change of control of the Corporation) or
+          otherwise in its discretion; (f) to prescribe and amend the terms
+          of option grants made under this Plan (which need not be
+          identical); (g) to determine whether, and the extent to which,
+          adjustments are required pursuant to Section 8 hereof; and (h) to
+          interpret and construe this Plan, any rules and regulations under
+          the Plan and the terms and conditions of any option granted
+          hereunder, and to make exceptions to any such provisions in good
+          faith and for the benefit of the Corporation.
+
+          All decisions, determinations and interpretations by the Committee
+          regarding the Plan, any rules and regulations under the Plan
+          and the terms and conditions of any option granted hereunder,
+          shall be final and binding on all Participants and optionholders.
+          The Committee shall consider such factors as it deems relevant,
+          in its sole and absolute discretion, to making such decisions,
+          determinations and interpretations including, without
+          limitation, the recommendations or advice of any officer or other
+          employee of the Corporation and such attorneys, consultants and
+          accountants as it may select.  The interpretation and construction
+          of any provision of the Plan by the Board of Directors shall
+          be final and conclusive.  The Board of Directors may periodically
+          adopt rules and regulations for carrying out the Plan, and amend
+          the Plan as desired, without further action by the Corporation's
+          stockholders except to the extent required by applicable law.
+
+     12.  TIME OF GRANTING OPTIONS
+
+          The effective date of such option shall be the date on which the
+          grant was made.  Within a reasonable time thereafter, Intel will
+          deliver the option to the Participant.
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-12.1
+<SEQUENCE>5
+<TEXT>
+
+
+Exhibit 12.1
+                                INTEL CORPORATION
+                     STATEMENT SETTING FORTH THE COMPUTATION
+                      OF RATIOS OF EARNINGS TO FIXED CHARGES
+
+                                  (in millions)
+<TABLE>
+                                              Six Months Ended
+                                           June 27,      June 28,
+                                             1998           1997
+                                           ----------------------
+<S>                                        <C>           <C>
+Income before taxes                        $  3,731      $  5,625
+
+Add fixed charges net of
+  capitalized interest                           23            23
+                                           --------      --------
+Income before taxes and fixed
+  charges (net of capitalized
+  interest)                                $  3,754      $  5,648
+                                           ========      ========
+
+Fixed charges:
+
+Interest                                   $     15      $     14
+
+Capitalized interest                              4             5
+
+Estimated interest component
+  of rental expense                               8             9
+                                           --------      --------
+
+Total                                      $     27    $       28
+                                           ========      ========
+
+Ratio of earnings before taxes and
+  fixed charges, to fixed charges               139           202
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>6
+<TEXT>
+
+<TABLE> <S> <C>
+
+       
+
+<ARTICLE> 5
+<LEGEND>
+This schedule contains summary information extracted from Intel Corporation's
+CONSOLIDATED CONDENSED STATEMENTS OF INCOME AND CONSOLIDATED CONDENSED BALANCE
+SHEETS and is qualified in its entirety by reference to such financial
+statements.
+</LEGEND>
+<MULTIPLIER> 1,000,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-26-1998
+<PERIOD-END>                               JUN-27-1998
+<CASH>                                            1887
+<SECURITIES>                                      5811
+<RECEIVABLES>                                     3126<F3>
+<ALLOWANCES>                                         0
+<INVENTORY>                                       1703
+<CURRENT-ASSETS>                                 13368
+<PP&E>                                           20303
+<DEPRECIATION>                                    8300
+<TOTAL-ASSETS>                                   28418
+<CURRENT-LIABILITIES>                             4254
+<BONDS>                                            472
+<PREFERRED-MANDATORY>                              711<F1>
+<PREFERRED>                                          0
+<COMMON>                                          4853
+<OTHER-SE>                                       16880
+<TOTAL-LIABILITY-AND-EQUITY>                     28418
+<SALES>                                          11928
+<TOTAL-REVENUES>                                 11928
+<CGS>                                             5776
+<TOTAL-COSTS>                                     5776
+<OTHER-EXPENSES>                                  1383<F2>
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                                  15
+<INCOME-PRETAX>                                   3731
+<INCOME-TAX>                                      1286
+<INCOME-CONTINUING>                               2445
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                      2445
+<EPS-PRIMARY>                                     1.47<F4>
+<EPS-DILUTED>                                     1.38
+
+<FN>
+<F1>Item consists of put warrants.
+<F2>Item consists of research and development, including $165 million
+    for purchased in-process research and development.
+<F3>Item shown net of allowance, consistent with the balance sheet
+    presentation.
+<F4>Item consists of basic earnings per share
+</FN>
+
+        
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

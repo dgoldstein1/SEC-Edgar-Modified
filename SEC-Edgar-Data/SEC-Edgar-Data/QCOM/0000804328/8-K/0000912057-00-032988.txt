@@ -1,0 +1,986 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Vir5/I3wWm9CuGr6GuXVtF1Q/rj2ND64sxWEwA0OqGhWygy0yQcVVlJ//S50cZtx
+ OxIM+zXHh8XT9kkQDHo+Qg==
+
+<SEC-DOCUMENT>/in/edgar/work/20000725/0000912057-00-032988/0000912057-00-032988.txt : 20000921
+<SEC-HEADER>0000912057-00-032988.hdr.sgml : 20000921
+ACCESSION NUMBER:		0000912057-00-032988
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000724
+ITEM INFORMATION:		
+ITEM INFORMATION:		
+FILED AS OF DATE:		20000725
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			QUALCOMM INC/DE
+		CENTRAL INDEX KEY:			0000804328
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3663
+]		IRS NUMBER:				953685934
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		8-K
+			SEC ACT:		
+			SEC FILE NUMBER:	000-19528
+			FILM NUMBER:		678005
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		5775 MOREHOUSE DR
+				CITY:			SAN DIEGO
+				STATE:			CA
+				ZIP:			92121
+				BUSINESS PHONE:		8585871121
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		5775 MOREHOUSE DR
+					CITY:			SAN DIEGO
+					STATE:			CA
+					ZIP:			92121
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a8-k.txt
+<DESCRIPTION>8-K
+<TEXT>
+
+<PAGE>
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 8-K
+
+                                 CURRENT REPORT
+                     PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+         Date of Report (Date of earliest event reported): July 24, 2000
+
+
+
+                              QUALCOMM INCORPORATED
+             (Exact name of registrant as specified in its charter)
+
+
+                                    DELAWARE
+                 (State or other jurisdiction of incorporation)
+
+
+
+      0-19528                                             95-3685934
+(Commission File No.)                          (IRS Employer Identification No.)
+
+
+
+                              5775 MOREHOUSE DRIVE
+                           SAN DIEGO, CALIFORNIA 92121
+              (Address of principal executive offices and zip code)
+
+
+
+       Registrant's telephone number, including area code: (858) 587-1121
+
+
+<PAGE>
+
+ITEM 5.  OTHER EVENTS.
+
+         THIS REPORT CONTAINS FORWARD-LOOKING STATEMENTS THAT ARE SUBJECT TO
+RISKS AND UNCERTAINTIES RELATING TO THE PROPOSED SEPARATION AND SPIN-OFF OF
+QUALCOMM'S INTEGRATED CIRCUIT AND SYSTEM SOFTWARE SOLUTIONS BUSINESS,
+INCLUDING THE IMPACT OF THE PROPOSED SEPARATION AND SPIN-OFF ON QUALCOMM'S
+AND THE NEW COMPANY'S RESULTS OF OPERATIONS, THE FINANCIAL ACCOUNTING
+CONSEQUENCES OF THE PROPOSED TRANSACTION, THE IMPACT OF THE PROPOSED SPIN-OFF
+ON QUALCOMM'S STOCK PRICE AND ITS RELATIONSHIPS WITH CUSTOMERS AND EMPLOYEES,
+THE TAX CONSEQUENCES OF THE TRANSACTION TO QUALCOMM AND ITS STOCKHOLDERS, AND
+CHANGES IN BUSINESS CLIMATE OR MARKET CONDITIONS OR OTHER FACTORS WHICH COULD
+MAKE THE PROPOSED SEPARATION OR SPIN-OFF UNADVISABLE. THIS REPORT ALSO
+CONTAINS FORWARD-LOOKING STATEMENTS SUBJECT TO THE RISK THAT THE RATE OF
+GROWTH OF THE CDMA SUBSCRIBER POPULATION WILL DECLINE, RISKS ASSOCIATED WITH
+STRATEGIC INVESTMENTS AND BUSINESS RELATIONSHIPS, DEVELOPMENTS IN CURRENT OR
+FUTURE LITIGATION AND THE TIMING AND RECEIPT OF LICENSE FEES AND ROYALTIES,
+AS WELL AS OTHER RISKS INCLUDING THOSE DETAILED FROM TIME TO TIME IN
+QUALCOMM'S SEC REPORTS, INCLUDING ITS REPORT ON FORM 10-K FOR THE YEAR ENDED
+SEPTEMBER 26, 1999 AND ITS MOST RECENTLY FILED FORM 10-Q.
+
+         QUALCOMM Incorporated ("QUALCOMM" or the "Company") is planning to
+spin-off its integrated circuit and system software solutions business. The
+separation will create two separate companies and is designed to speed the
+worldwide growth and development of CDMA wireless voice and data markets. These
+companies will focus on critical drivers of growth for the wireless industry.
+The new company will focus on developing and delivering innovative wireless
+communications integrated circuits and system software solutions for the world's
+leading handset and infrastructure manufacturers. QUALCOMM will focus on
+developing and supporting the growth of CDMA technology and driving the
+convergence of wireless data applications and Internet access, with the goal of
+increasing royalties. In addition, QUALCOMM will further develop its other
+existing businesses, including QUALCOMM Wireless Systems (OmniTRACS and
+Globalstar) and QUALCOMM Digital Media (Government Systems, Digital Cinema and
+Eudora).
+
+         Following the separation, the new company will be the leading
+developer worldwide of CDMA integrated circuits and system software solutions
+for wireless voice and data products. According to Dataquest's most recent
+analysis, the new company will be the largest fabless semiconductor company
+in the world. The new company is temporarily called QUALCOMM Spinco, Inc.
+("Spinco"), and will change its name in due course.
+
+         As contemplated, QUALCOMM's integrated circuit and system software
+solutions business would be transferred to Spinco and shares of Spinco would
+be distributed to QUALCOMM stockholders in the form of a tax-free dividend.
+QUALCOMM expects the spin-off to be completed by August 2001. The proposed
+separation of the integrated circuit and system software solutions business
+and the spin-off are each subject to final approval by the Company's Board of
+Directors, a favorable ruling from the IRS regarding the tax-free nature of
+the transaction and favorable market conditions.
+
+INDUSTRY DEPLOYMENT OF CDMA FOR SECOND AND THIRD GENERATION WIRELESS SYSTEMS.
+
+         Since first proposing CDMA technology to the wireless industry in
+1989, QUALCOMM has been widely recognized as the pioneer of CDMA technology
+for wireless applications. Many in the industry now agree that CDMA
+technology is the wireless air interface of choice for the future growth of
+wireless communications and plan to adopt CDMA for third generation networks.
+
+                                      2
+<PAGE>
+
+         In just over five years, over 65 million subscribers covering 35
+countries have adopted CDMA technology. Second generation cdmaOne networks
+have been widely deployed around the world, including South Korea, the United
+States, Japan and throughout Latin America. Third generation cdma2000 1X
+networks are planned to enter commercial service in South Korea in 2000 and
+in Japan, the United States and elsewhere in 2001. In addition, cdma2000 1xEV
+(HDR) trials are planned in South Korea and Japan in 2000. NTT DoCoMo has
+announced that an initial version of WCDMA will be deployed in some areas of
+Japan in 2001.
+
+QUALCOMM'S PIONEERING ROLE IN THE DEVELOPMENT AND DEPLOYMENT OF CDMA.
+
+         Since shortly after its formation in 1985, QUALCOMM has allocated
+substantial resources to developing, patenting and commercializing the use of
+CDMA technology in wireless communications applications. QUALCOMM's intellectual
+property portfolio has been widely recognized as being necessary for cdmaOne,
+cdma2000, 1xEV, 1Xplus, 1Xtreme and WCDMA.
+
+         QUALCOMM has entered into royalty-bearing license agreements for
+CDMA wireless applications with more than 80 major telecommunications
+manufacturers, including Ericsson, Fujitsu, Hitachi, Hyundai, Intel, LGIC,
+Lucent, Motorola, NEC, Nokia, Nortel, Philips, Samsung, Siemens and Sony. In
+addition to license fees, QUALCOMM receives on-going royalties from its
+licensees as they sell CDMA products provided that at least one claim of one
+of QUALCOMM's licensed patents is being utilized. Moreover, approximately 15
+of QUALCOMM's license agreements cover WCDMA applications and require
+manufacturers to pay on-going royalties to QUALCOMM in connection with their
+sales of WCDMA products, with royalty rates equivalent to the royalties that
+are payable by them for cdmaOne and cdma2000 applications. The manufacturers
+that have licensed some or all of QUALCOMM's essential patents for WCDMA
+applications include: Ericsson, Hitachi, LGIC, Lucent, Matsushita, Motorola,
+Nortel, Philips, Samsung, Sony, Sanyo and Toshiba. QUALCOMM expects increased
+total licensing and royalty revenues as third generation CDMA standards are
+deployed.
+
+QUALCOMM'S INTELLECTUAL PROPERTY ARRANGEMENTS WITH SPINCO
+
+         To give Spinco the ability to negotiate cross-licenses, gain
+reasonable access to third party intellectual property and defend itself as
+may be necessary, QUALCOMM will assign to Spinco a portion of its patents and
+patent applications that are essential and/or useful to implement existing
+and proposed CDMA standards. Following the spin-off, QUALCOMM's intellectual
+property portfolio will consist of more than 1,000 U.S. patents and patent
+applications, substantially all of which are essential to or useful in CDMA
+wireless applications and some of which have applicability in other wireless
+applications (such as position location technology). Because of the terms of
+QUALCOMM's license agreements and due to the overall breadth and coverage of
+its intellectual property portfolio, QUALCOMM believes that assignment of
+patents and patent applications to Spinco will not compromise QUALCOMM's
+existing or future licensing business, including the royalties payable to the
+Company. In addition to filing for patent protection in the United States,
+QUALCOMM has and will continue to actively file for patent protection around
+the world and has received CDMA patents with broad coverage throughout most
+of world, including China, Japan, Korea, Europe, Brazil, North America and
+elsewhere.
+
+         QUALCOMM's research and development team has a strong and proven track
+record of innovation in wireless technologies. QUALCOMM intends to use its
+substantial engineering
+
+                                      3
+
+<PAGE>
+
+resources and expertise to develop new technologies, applications and
+services and make them available to licensees to help grow the wireless
+market and generate new or expanded licensing opportunities. In addition to
+continuing to develop its own intellectual property portfolio, QUALCOMM will
+have the right each year to select and receive ownership of a portion of
+Spinco's patent applications. As a result of this relationship with Spinco
+and QUALCOMM's own research and development efforts, QUALCOMM expects to be
+able to extend the term of its royalty-bearing licenses and create new
+licensing opportunities.
+
+BENEFITS TO QUALCOMM OF THE SPIN-OFF.
+
+     QUALCOMM expects to realize benefits from its complete separation from
+Spinco, including the following:
+
+- -                 REDUCED NEED FOR CROSS-LICENSES. Since QUALCOMM will no
+                  longer be supplying CDMA integrated circuits, it will have
+                  little or no need for third party cross-licenses. Accordingly,
+                  QUALCOMM expects that it will be able to continue to license
+                  its substantial intellectual property portfolio and continue
+                  to collect royalty and license fee revenue in the future.
+
+- -                 ELIMINATION OF POTENTIAL CONFLICTS WITH THE COMPANY'S
+                  CUSTOMERS. Many of QUALCOMM's licensees currently also
+                  purchase integrated circuit and system software solutions from
+                  QUALCOMM, which from time to time has caused a conflict
+                  between its licensing and integrated circuit and system
+                  software solutions business. QUALCOMM expects that the
+                  separation of Spinco from QUALCOMM may reduce these
+                  conflicting interests.
+
+- -                 GREATER STRATEGIC FOCUS. QUALCOMM's licensing business
+                  benefits equally from the advancement and commercial
+                  implementation of any of the proposed third generation
+                  CDMA-based standards. QUALCOMM expects that following the
+                  spin-off, it will have a sharper focus on enhancing the
+                  competitive position of its business and a greater ability
+                  to collaborate with manufacturers and carriers to develop,
+                  implement and deploy the latest implementations of CDMA
+                  technology for a variety of potential applications.
+
+- -                 BETTER INCENTIVES FOR EMPLOYEES. QUALCOMM expects that the
+                  motivation of its employees and the focus of its senior
+                  management team will be strengthened by incentive compensation
+                  programs tied to the market performance of its common stock.
+                  The separation will enable QUALCOMM to offer its employees
+                  compensation directly linked to the performance of QUALCOMM's
+                  common stock, which QUALCOMM believes will enhance its ability
+                  to attract and retain qualified personnel.
+
+
+QUALCOMM'S MANAGEMENT AND BUSINESS FOLLOWING THE SPIN-OFF.
+
+         QUALCOMM expects that its executive team after the spin-off will be
+Dr. Irwin Jacobs, Chairman and CEO; Dr. Paul Jacobs, President; Tony
+Thornley, Chief Operating Officer and Chief Financial Officer; and Steve
+Altman, Executive Vice President.  Dr. Irwin Jacobs will also be Chairman of
+the Board of Directors of the spin-off company.  Although Dr. Irwin Jacobs
+will provide
+
+                                      4
+
+<PAGE>
+
+strategic and corporate governance to both companies, he will devote the
+majority of his time to QUALCOMM as Chairman and CEO.
+
+         Following the spin-off, QUALCOMM intends to (a) actively drive the
+rapid deployment of CDMA-based systems and technologies and the growing
+demand for high speed, high capacity, wireless data and Internet access
+enabled by CDMA technology to grow its royalty stream, (b) continue to
+broadly grant royalty-bearing licenses under its technology and patents for
+CDMA and other wireless applications, (c) build upon its industry leading
+position in data applications and services for the transportation industry,
+(d) expand its long-term position as a profitable operator of mobile data
+services and (e) create new businesses, such as the Digital Cinema system
+currently under development.
+
+DRIVING THE DEMAND OF CDMA TECHNOLOGY FOR WIRELESS VOICE AND DATA.
+
+         Following the spin-off, QUALCOMM will retain significant engineering
+resources, including engineers with substantial expertise in CDMA technology.
+Using these resources, QUALCOMM expects to develop new CDMA-based technology,
+participate in the formation of new wireless communications standards and
+assist in deployments of working networks around the world. QUALCOMM believes
+that by making its engineering resources available to manufacturers and
+carriers, it can accelerate the deployment of all forms of CDMA and increase
+its licensing and royalty revenues.
+
+         With the continued convergence of wireless communications and
+Internet access, QUALCOMM expects to see wireless usage and handset sales
+continue their rapid growth as a multitude of new value-added services and
+new devices with enhanced functionality and features are supplied to the
+market. In addition to offering superior voice quality, QUALCOMM believes
+that CDMA carriers will offer superior data services at a significantly lower
+cost than other non-CDMA carriers because of, among other things, the
+increased capacity, higher data rate and inherent security advantages offered
+by CDMA as compared to other technologies. The more quickly that carriers
+adopt and deploy CDMA, whether it is cdmaOne, cdma2000 or WCDMA, and increase
+their market share over non-CDMA carriers, the more favorable the impact to
+QUALCOMM's royalty revenue and other activities.
+
+         Capitalizing upon its industry insight into wireless technologies
+and trends, its experienced management team and its established industry
+relationships, QUALCOMM intends to use the cash flow generated from its
+royalty business to create, acquire or make strategic investments in new
+businesses that are focused on increasing wireless usage and providing new
+services, products or technology that will accelerate the demand for CDMA's
+high quality voice and high speed, high capacity wireless data. QUALCOMM
+intends not only that these new businesses be independently successful, but
+also that they generate increased royalty revenue and licensing opportunities
+through the general expansion of the CDMA market.
+
+         Examples of existing or possible future investments in businesses
+that are focused on the wireless market and which are intended to accelerate
+the growth of the CDMA, include:
+
+         STRATEGIC INVESTMENTS IN CARRIERS TO FURTHER DRIVE THE USAGE AND
+ADOPTION OF CDMA. To help support CDMA carriers, as well as promote the use of
+its technology, QUALCOMM has made and may continue to make equity investments in
+CDMA carriers that it believes have economic and time to market advantages. For
+example, QUALCOMM has equity positions in Korea
+
+                                      5
+
+<PAGE>
+
+Telecom Freetel (nationwide Korean PCS carrier), Leap Wireless International,
+Inc. and Vesper (a Brazilian carrier).
+
+         STRATEGIC INVESTMENTS IN MANUFACTURERS TO DRIVE NEW APPLICATIONS OR
+MARKETS FOR CDMA. QUALCOMM has made and may continue to make equity
+investments in licensed device manufacturers to support the design and
+introduction of new products that offer unique capabilities or open new
+markets for CDMA technology. For example, QUALCOMM has equity positions in
+Handspring (PDA products) and an option to acquire equity in a digital
+wireless camera products company. Additionally, QUALCOMM may also make
+strategic investments in selected manufacturers or start-up companies that
+QUALCOMM believes possess unique capabilities or technology.
+
+         JOINT VENTURES WITH STRATEGIC PARTNERS. QUALCOMM has entered into
+joint ventures with strategic partners that are designed to increase wireless
+usage and dependence on wireless devices. For example, Wireless Knowledge, a
+joint venture with Microsoft, was formed to provide secure, reliable wireless
+access to business-critical information by connecting corporate resources to
+any wireless device. QUALCOMM expects to continue to form such strategic
+alliances in the future.
+
+         INVESTMENTS IN VENTURE FUNDS OR INCUBATORS. QUALCOMM has made and
+may continue to make investments in venture funds, incubators or other
+entities that have the requisite expertise, resources and networking
+capabilities to identify and create (or assist others in creating) products,
+software or technologies focused on the wireless market. For example,
+QUALCOMM has equity positions in Ignition and IdeaEdge.
+
+         CDMA EQUIPMENT FINANCING. To facilitate the marketing and sale of
+CDMA equipment by licensed manufacturers, QUALCOMM has provided, and may
+continue to provide, equipment financing either directly to CDMA carriers or
+to licensed manufacturers on commercially reasonable terms. By providing such
+financing, QUALCOMM expects not only to receive a reasonable return on its
+investment, but also to ensure the deployment of CDMA networks, which in turn
+results in increased royalty revenue as the networks are deployed and built
+out. QUALCOMM has provided equipment financing to Ericsson on a shared basis
+with respect to their sale of CDMA infrastructure in Brazil, Mexico and
+elsewhere.
+
+FURTHER DEVELOP EXISTING BUSINESSES.
+
+         Following the spin-off, QUALCOMM will continue to develop other
+business opportunities that exist within the Company.
+
+         QWBS. QWBS operates a global wireless data business focused on the
+logistics industry, and has over 350,000 OmniTRACS units in operation. This
+business maintains a 24-hour, 7-day a week service center with a redundant
+back-up center. QWBS, which has been profitable since the early 1990s, provides
+a complete mobile interactive information management system that includes
+two-way mobile communications, satellite tracking and fleet management software.
+The emerging Omni Express business extends this expertise into terrestrial data
+markets, building a network of interconnections to wireless data networks that
+have been deployed both domestically and internationally.
+
+                                      6
+
+<PAGE>
+
+         EUDORA. QUALCOMM's multi-platform Eudora e-mail software products
+have millions of users worldwide. QUALCOMM supports its Eudora products with
+an experienced application, server, and user interface development team.
+Approximately 800,000 users have migrated to a recently introduced
+advertising-supported version of Eudora in the first six months following its
+release. QUALCOMM also has developed proprietary XML-based content-serving
+technology that caches content into the Eudora client software. The Company
+also has introduced the Eudora Internet Suite, containing both a browser and
+e-mail client for the Palm OS.
+
+         GOVERNMENT SYSTEMS. QUALCOMM's Government Systems business provides
+wireless development and analysis expertise to U.S. Government agencies. This
+business maintains a team of software experts that support client-server
+developments with potential commercial applications.
+
+         DIGITAL CINEMA. The Company's Digital Cinema business is developing
+a system for the electronic delivery of motion pictures to theatres around
+the world. The information assurance architecture, including compression and
+security technologies, developed by the Digital Cinema group can translate to
+other types of digital content. The relationships QUALCOMM has developed
+provide direct access to content creators and distributors. In June 2000, the
+Company entered into a joint venture with Technicolor that will use
+QUALCOMM's Digital Cinema technology.
+
+         WIRELESS SYSTEMS. The Company's Wireless Systems division designs,
+manufacturers, markets and deploys infrastructure and handset products for
+use in CDMA wireless satellite networks.
+
+         See Item 7 of this Report for certain unaudited pro forma condensed
+consolidated financial information of QUALCOMM which takes into account the
+proposed spin-off.
+
+
+ITEM 7.  FINANCIAL STATEMENTS AND EXHIBITS.
+
+         (a)      FINANCIAL STATEMENTS OF BUSINESSES ACQUIRED.
+
+         Not applicable.
+
+         (b)      PRO FORMA FINANCIAL INFORMATION.
+
+                  (1) UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL
+                      INFORMATION OF QUALCOMM INCORPORATED.
+
+                      The following unaudited pro forma condensed consolidated
+                      financial information is being filed herewith:
+
+<TABLE>
+<CAPTION>
+
+                                                                                                     Page:
+                        <S>                                                                          <C>
+                        Unaudited Pro Forma Condensed Consolidated Balance
+                        Sheet at June 25, 2000                                                         9
+
+                        Unaudited Pro Forma Condensed Consolidated Statement
+                        of Income for the Nine Months Ended June 25, 2000                             10
+
+                        Unaudited Pro Forma Condensed Consolidated Statement
+                        of Income for the Fiscal Year Ended September 30, 1999                        11
+
+                        Notes to Unaudited Pro Forma Condensed Consolidated
+                        Financial Information                                                         12
+
+</TABLE>
+
+                                       7
+<PAGE>
+
+         (c)      EXHIBITS.
+
+        UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL INFORMATION
+
+         The following unaudited pro forma condensed consolidated financial
+information has been prepared to give retroactive effect to the distribution
+of our wholly owned subsidiary, QUALCOMM Spinco, Inc. (Spinco) to our
+stockholders. The financial information is based on our unaudited historical
+condensed consolidated financial statements as of June 25, 2000 and for the
+nine month period then ended and on our audited historical consolidated
+financial statements for the fiscal year ended September 30, 1999. The pro
+forma condensed consolidated statements of income for the nine months ended
+June 25, 2000 and the fiscal year ended September 30, 1999 give effect to the
+distribution and the transactions described below as if they occurred as of
+October 1, 1998. The related adjustments are described in the accompanying
+notes.
+
+         The unaudited pro forma condensed consolidated financial information
+is based upon available information and certain assumptions set forth in the
+notes to the unaudited pro forma condensed consolidated financial
+information, which have been made solely for purposes of developing such pro
+forma financial information. The distribution of Spinco common stock to our
+stockholders may not occur. The unaudited pro forma condensed consolidated
+financial information does not purport to represent what our results of
+operations or financial condition would actually have been had the
+distribution of our investment in Spinco to our stockholders and the
+transactions described below occurred as of October 1, 1998 or to project our
+results of operations or financial condition for any future period or date.
+
+         In May 1999, we sold certain assets related to our terrestrial-based
+CDMA wireless infrastructure business. In connection with the sale, we
+recorded $251 million in charges during fiscal 1999. We received
+consideration of $98 million in cash on the closing date. Total consideration
+will be adjusted based on a final determination of net assets, which has not
+yet occurred.
+
+         In February 2000, we sold certain assets related to our
+terrestrial-based CDMA wireless consumer products business, including our
+phone inventory, manufacturing equipment and customer commitments. In
+connection with the sale, we recorded $83 million in charges during fiscal
+2000. We received total consideration of $242 million in cash.
+
+         In March 2000, we acquired all of the outstanding capital stock of
+SnapTrack, Inc. (SnapTrack), a developer of wireless position location
+technology, in a transaction accounted for as a purchase. The purchase price
+was approximately $1 billion, representing the value of the 5.8 million
+QUALCOMM shares issued to effect the purchase, the value of vested and
+unvested options and warrants exchanged at the closing date and estimated
+transaction costs of $2 million. The preliminary allocation of purchase
+price, based on the estimated fair values of the acquired assets and assumed
+liabilities, reflected acquired goodwill of $948 million, purchased
+in-process technology of $60 million and other intangible assets of $34
+million. Tangible assets acquired and liabilities assumed were not material
+to our financial statements. We expect to finalize the purchase price
+allocation within one year and do not anticipate material adjustments to the
+preliminary purchase price allocation. We will allocate to Spinco $629
+million in goodwill, $60 million in purchased in-process technology and $19
+million in other intangible assets related to SnapTrack's workforce, customer
+base and completed technology. We will retain $319 million in goodwill and
+$15 million in other intangible assets related to specific SnapTrack patents
+that will not be transferred to Spinco. Goodwill and other intangible assets
+resulting from the SnapTrack acquisition are amortized on a straight-line
+basis over their estimated useful lives of four years. Purchased in-process
+technology was expensed upon acquisition.
+
+                                       8
+<PAGE>
+
+                              QUALCOMM INCORPORATED
+
+            UNAUDITED PRO FORMA CONDENSED CONSOLIDATED BALANCE SHEET
+                                 JUNE 25, 2000
+                      (in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+
+                                                           QUALCOMM             DISTRIBUTION
+                                                          AS REPORTED             OF SPINCO         PRO FORMA
+                                                         -----------------   -------------------  -------------
+
+<S>                                                      <C>                 <C>                  <C>
+                                     ASSETS
+Current assets:
+  Cash and cash equivalents                              $    712,709        $     (12,550)(a)    $    700,159
+  Marketable securities                                       849,882                    -             849,882
+  Accounts receivable, net                                    672,649             (218,295)(a)         454,354
+  Finance receivables                                          54,167                    -              54,167
+  Inventories, net                                             73,949              (35,888)(a)          38,061
+  Other current assets                                        253,087              (23,050)(a)         230,037
+                                                         -----------------   -------------------  -------------
+       Total current assets                                 2,616,443             (289,783)          2,326,660
+Property, plant and equipment, net                            437,631              (38,003)(a)         399,628
+Marketable securities                                         705,771                    -             705,771
+Finance receivables, net                                      784,066                    -             784,066
+Goodwill, net                                                 883,197             (587,014)(a)         296,183
+Deferred income taxes                                         515,855                    -             515,855
+Other assets                                                  428,632              (21,764)(a)         406,868
+                                                         -----------------   -------------------  -------------
+       Total assets                                      $  6,371,595        $    (936,564)       $  5,435,031
+                                                         =================   ===================  =============
+
+
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+
+
+Current liabilities:
+  Accounts payable and accrued liabilities               $    432,697        $     (67,622)(a)    $    365,075
+  Unearned revenue                                             83,919              (19,751)(a)          64,168
+                                                         -----------------   -------------------  -------------
+      Total current liabilities                               516,616              (87,373)            429,243
+Other liabilities                                              35,082              (10,811)(a)          24,271
+                                                         -----------------   -------------------  -------------
+      Total liabilities                                       551,698              (98,184)            453,514
+                                                         -----------------   -------------------  -------------
+
+Minority interest in consolidated subsidiaries                 46,354                    -              46,354
+                                                         -----------------   -------------------  -------------
+Stockholders' equity:
+  Preferred stock, $0.0001 par value                                -                    -                   -
+  Common stock, $0.0001 par value                                  74                    -                  74
+  Paid-in capital                                           5,080,375             (105,965)(a)       4,974,410
+  Retained earnings                                           732,415             (732,415)(a)               -
+  Accumulated other comprehensive loss                        (39,321)                   -             (39,321)
+                                                         -----------------   -------------------  -------------
+       Total stockholders' equity                           5,773,543             (838,380)          4,935,163
+                                                         -----------------   -------------------  -------------
+       Total liabilities and stockholders' equity        $  6,371,595        $    (936,564)       $  5,435,031
+                                                         =================   ===================  =============
+
+</TABLE>
+
+      SEE ACCOMPANYING NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED
+                             FINANCIAL INFORMATION.
+
+
+                                       9
+
+<PAGE>
+
+                              QUALCOMM INCORPORATED
+
+         UNAUDITED PRO FORMA CONDENSED CONSOLIDATED STATEMENT OF INCOME
+                         NINE MONTHS ENDED JUNE 25, 2000
+                      (in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+
+                                                                  PRO FORMA ADJUSTMENTS
+                                           --------------------------------------------------------------------
+                                             SALE OF          ACQUISITION
+                                             CONSUMER              OF
+                              QUALCOMM       PRODUCTS          SNAPTRACK                       DISTRIBUTION OF
+                             AS REPORTED     BUSINESS             INC.             SUBTOTAL         SPINCO            PRO FORMA
+                            -----------    -----------        -----------        -----------   -------------         -----------
+<S>                         <C>            <C>          <C>   <C>          <C>   <C>            <C>             <C>   <C>
+Revenues                    $2,561,335     $ (435,364)  (b)   $      339 (c)     $2,126,310    $  (965,053) (f)      $1,161,257
+                            -----------    -----------        -----------        -----------   -------------         -----------
+Operating expenses:
+   Cost of revenues          1,274,096       (431,783)  (b)           23 (c)        842,336       (410,753) (f)         431,583
+   Research and
+     development               254,490        (30,108)  (b)        5,387 (c)        229,769       (150,727) (f)          79,042
+   Selling, general and
+     administrative            275,870        (62,854)  (b)        5,890 (c)        218,906        (53,903) (f)         165,003
+   Amortization of
+     goodwill and other
+     acquisition-related
+     intangible assets          84,114              -            102,336 (c)        186,450       (122,553) (f)          63,897
+   Purchased in-process
+     technology                 60,030              -            (60,030)(c)              -              -                    -
+   Other                        63,589        (63,589)  (b)            -                  -              -                    -
+                            -----------    -----------        -----------        -----------   -------------         -----------
+Total operating expenses     2,012,189       (588,334)            53,606          1,477,461       (737,936)             739,525
+                            -----------    -----------        -----------        -----------   -------------         -----------
+
+Operating income               549,146        152,970            (53,267)           648,849       (227,117)             421,732
+
+Interest expense                (4,494)         2,722   (b)          (42)(c)         (1,814)            42  (f)          (1,772)
+Investment income, net         434,444          2,952   (b)           94 (c)        437,490            (94) (f)         437,396
+Distributions on Trust
+  Convertible Preferred
+  Securities of
+  subsidiary trust             (13,039)             -                  -            (13,039)             -              (13,039)
+Other                           (3,265)             -                  -             (3,265)             -               (3,265)
+                            -----------    -----------        -----------        -----------   -------------         -----------
+Income before income taxes     962,792        158,644            (53,215)         1,068,221       (227,169)             841,052
+Income tax expense            (431,256)       (73,167)             4,364           (500,059)       139,889             (360,170)(k)
+                            -----------    ----------         ----------         ----------    -------------         -----------
+Net income                  $  531,536         85,477            (48,851)           568,162        (87,280)           $ 480,882
+                            ===========    ==========         ==========         ==========    =============         ===========
+Net earnings per common
+  share:
+  Basic                     $     0.75                                                                               $     0.68
+                            ===========                                                                              ===========
+  Diluted                   $     0.67                                                                               $     0.61
+                            ===========                                                                              ===========
+Shares used in per share
+  calculations:
+  Basic                        707,713                                                                                  711,009
+                            ===========                                                                              ===========
+  Diluted                      799,241                                                                                  803,587
+                            ===========                                                                              ===========
+
+</TABLE>
+
+      SEE ACCOMPANYING NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED
+                             FINANCIAL INFORMATION.
+
+
+                                      10
+<PAGE>
+
+
+                              QUALCOMM INCORPORATED
+
+         UNAUDITED PRO FORMA CONDENSED CONSOLIDATED STATEMENT OF INCOME
+                          YEAR ENDED SEPTEMBER 30, 1999
+                      (in thousands, except per share data)
+
+<TABLE>
+<CAPTION>
+                                            QUALCOMM AS    CHANGES IN                  DISTRIBUTION OF
+                                              REPORTED   THE BUSINESS(g)  SUBTOTAL         SPINCO             PRO FORMA
+                                            -----------  -------------  ------------  -----------------   -----------------
+<S>                                         <C>                         <C>           <C>                 <C>
+Revenues                                    $ 3,937,299   $(1,462,047)  $  2,475,252  $  (1,148,337)(f)   $  1,326,915
+                                            -----------   ------------  ------------  -----------------   -----------------
+Operating expenses:
+  Cost of revenues                            2,485,072    (1,308,722)     1,176,350       (479,534)(f)        696,816
+  Research and development                      381,139      (159,332)       221,807       (134,849)(f)         86,958
+  Selling, general and administrative           425,118      (191,954)       233,164        (56,698)(f)        176,466
+  Amortization of goodwill and other
+    acquisition-related intangible assets           823       245,605        246,428       (162,142)(f)         84,286
+  Other                                         240,007      (197,884)        42,123              -             42,123
+                                            -----------   ------------  ------------  -----------------   -----------------
+Total operating expenses                      3,532,159    (1,612,287)     1,919,872       (833,223)         1,086,649
+                                            -----------   ------------  ------------  -----------------   -----------------
+
+Operating income                                405,140       150,240        555,380       (315,114)           240,266
+
+Interest expense                                (14,698)        2,840        (11,858)           255 (f)        (11,603)
+Investment income, net                           24,576        12,195         36,771           (404)(f)         36,367
+Distributions on Trust Convertible Preferred
+  Securities of subsidiary trust                (39,297)            -        (39,297)             -            (39,297)
+Other                                           (69,035)       52,531        (16,504)             -            (16,504)
+                                            -----------   ------------  ------------  -----------------   -----------------
+Income before income taxes                      306,686       217,806        524,492       (315,263)           209,229
+Income tax expense                             (105,807)     (193,756)      (299,563)       190,962           (108,601)(l)
+                                            -----------   ------------  ------------  -----------------   -----------------
+Net income                                  $   200,879        24,050   $    224,929       (124,301)      $    100,628
+                                            ===========   ============  ============  =================   =================
+
+Net earnings per common share:
+  Basic                                     $      0.34                                                   $       0.17
+                                            ===========                                                   =================
+  Diluted                                   $      0.31                                                   $       0.15
+                                            ===========                                                   =================
+Shares used in per share calculations:
+  Basic                                         594,714                                                        600,506
+                                            ===========                                                   =================
+  Diluted                                       649,889                                                        657,079
+                                            ===========                                                   =================
+</TABLE>
+
+
+      SEE ACCOMPANYING NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED
+                             FINANCIAL INFORMATION.
+
+
+                                      11
+<PAGE>
+
+                              QUALCOMM INCORPORATED
+          NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL
+                                   INFORMATION
+                                 (in thousands)
+
+
+(a)    Reflects the distribution to our stockholders of Spinco common stock
+       in the form of a dividend.
+
+(b)    Reflects the results of operations of the terrestrial-based CDMA
+       wireless consumer products business sold during fiscal 2000 and charges
+       of $83 million related to the sale as if the sale occurred as of
+       October 1, 1998. Of the $83 million, $19 million related to the
+       write-off of inventory, which was recorded in cost of revenues. The
+       remaining $64 million was recorded in other operating expense and was
+       comprised of the following:
+
+            Write off of fixed assets           $ 40
+            Employee compensation                 12
+            Other                                 12
+                                                ----
+                                                $ 64
+                                                ====
+
+(c)    The acquisition of SnapTrack Inc. is comprised of the following
+       separate pro forma adjustments for the nine months ended June 25, 2000:
+
+<TABLE>
+<CAPTION>
+                                                     Nine Months Ended June 25, 2000
+                                             ---------------------------------------------
+                                             SnapTrack Inc.      Pro Forma
+                                               Historical   (d) Adjustments  (e)   Total
+                                             --------------     ------------     ---------
+<S>                                          <C>                <C>              <C>
+Revenues                                        $    339          $       -      $     339
+
+Operating expenses:
+ Cost of revenues                                     23                  -             23
+ Research and development                          5,387                  -          5,387
+ Selling, general and administrative               5,890                  -          5,890
+ Amortization of goodwill and other
+  acquisition-related intangible assets                -            102,336        102,336
+ Purchased in-process technology                       -            (60,030)       (60,030)
+ Other                                                 -                  -              -
+                                                --------          ---------      ---------
+Total operating expenses                          11,300             42,306         53,606
+                                                --------          ---------      ---------
+
+Operating income                                 (10,961)           (42,306)       (53,267)
+
+Interest expense                                     (42)                 -            (42)
+Investment income, net                                94                  -             94
+Distributions on Trust Convertible
+  Preferred Securities of subsidiary trust             -                  -              -
+Other                                                  -                  -              -
+                                                --------          ---------      ---------
+Income before income taxes                       (10,909)           (42,306)       (53,215)
+Income tax expense                                     -              4,364          4,364
+                                                --------          ---------      ---------
+Net income                                      $(10,909)         $ (37,942)     $ (48,851)
+                                                ========          =========      =========
+</TABLE>
+
+(d)    Reflects the results of operations of SnapTrack Inc. as if we acquired
+       SnapTrack as of October 1, 1998.
+
+(e)    Reflects amortization of goodwill and other acquisition-related
+       intangible assets as if we acquired SnapTrack as of October 1, 1998 and
+       the elimination of the non-recurring $60 million charge for purchased
+       in-process technology.
+
+(f)    Reflects the pro forma results of operations of Spinco as if our
+       distribution of Spinco common stock to our stockholders occurred as of
+       October 1, 1998.
+
+
+                                      12
+<PAGE>
+
+
+(g)    The following table identifies the changes in QUALCOMM's business
+       during fiscal year 1999.
+
+<TABLE>
+<CAPTION>
+                                                                         CHANGES IN THE BUSINESS
+                                              -------------------------------------------------------------------------
+                                                                   SALE OF      ACQUISITION
+                                                   SALE OF        CONSUMER          OF          OTHER
+                                               INFRASTRUCTURE     PRODUCTS      SNAPTRACK    NONRECURRING
+                                                  BUSINESS        BUSINESS          INC.        ITEMS         TOTAL
+                                              ---------------  --------------  ------------  ------------  ------------
+<S>                                           <C>              <C>             <C>           <C>           <C>
+Revenues                                      $ (96,626)(h)    $(1,365,486)(b) $      65(i)                $ (1,462,047)
+                                              ---------------  --------------  ------------  ------------  ------------
+Operating expenses:
+  Cost of revenues                             (121,499)(h)     (1,187,293)(b)        70(i)          -       (1,308,722)
+  Research and development                      (80,693)(h)        (85,642)(b)     7,003(i)          -         (159,332)
+  Selling, general and administrative           (57,863)(h)       (140,655)(b)     6,564(i)          -         (191,954)
+  Amortization of goodwill and other
+    acquisition- related intangible assets            -                  -       245,605(i)          -          245,605
+  Other                                        (183,325)(h)              -             -       (14,559)(j)     (197,884)
+                                              ---------------  --------------  ------------  ------------  ------------
+Total operating expenses                       (443,380)        (1,413,590)      259,242       (14,559)      (1,612,287)
+                                              ---------------  --------------  ------------  ------------  ------------
+
+Operating income                                346,754             48,104      (259,177)       14,559          150,240
+
+Interest expense                                      -              3,095 (b)      (255)(i)         -            2,840
+Investment income, net                                -             11,791 (b)       404 (i)         -           12,195
+Distributions on Trust Convertible Preferred
+  Securities of subsidiary trust                      -                  -             -             -                -
+Other                                            52,531 (h)              -             -             -           52,531
+                                              ---------------  --------------  ------------  ------------  ------------
+Income before income taxes                      399,285             62,990      (259,028)       14,559          217,806
+Income tax expense                             (168,105)           (25,196)        5,369        (5,824)        (193,756)
+                                              ---------------  --------------  ------------  ------------  ------------
+Net income                                    $ 231,180        $    37,794     $(253,659)    $   8,735     $     24,050
+                                              ===============  ==============  ============  ============  ============
+</TABLE>
+
+(h)    Reflects the results of operations of our terrestrial-based CDMA wireless
+       infrastructure business sold during fiscal 1999 and a charge of $251
+       million related to the sale as if the sale occurred as of October 1,
+       1998. The $251 million charge is comprised of the following:
+
+         Cost of revenues:
+           Contract exit costs                $  16
+                                              -----
+         Operating expenses:
+           Employee compensation                 74
+           Difference between carrying
+             value of net assets sold and
+             consideration received              66
+           Write down of infrastructure assets
+             not sold to net realizable value    43
+                                              -----
+                                                183
+                                              -----
+         Non-operating expenses:
+           Payments under financial
+             guarantees                          37
+           Write off of other
+             non-operating assets                15
+                                              -----
+                                                 52
+                                              -----
+                                              $ 251
+                                              =====
+
+                                      13
+
+<PAGE>
+
+(i)    The acquisition of SnapTrack Inc. is comprised of the following
+       separate pro forma adjustments for fiscal 1999:
+
+
+<TABLE>
+<CAPTION>
+                                                     Year Ended September 30, 1999
+                                             ---------------------------------------------
+                                             SnapTrack Inc.      Pro Forma
+                                               Historical   (d) Adjustments  (e)   Total
+                                             --------------     ------------     ---------
+<S>                                          <C>                <C>              <C>
+Revenues                                        $     65          $       -      $      65
+
+Operating expenses:
+ Cost of revenues                                     70                  -             70
+ Research and development                          7,003                  -          7,003
+ Selling, general and administrative               6,564                  -          6,564
+ Amortization of goodwill and other
+  acquisition-related intangible assets                -            245,605        245,605
+ Purchased in-process technology                       -                  -              -
+ Other                                                 -                  -              -
+                                                --------          ---------      ---------
+Total operating expenses                          13,637            245,605        259,242
+                                                --------          ---------      ---------
+
+Operating income                                 (13,572)          (245,605)      (259,177)
+
+Interest expense                                    (255)                 -           (255)
+Investment income, net                               404                  -            404
+Distributions on Trust Convertible
+  Preferred Securities of subsidiary trust             -                  -              -
+Other                                                  -                  -              -
+                                                --------          ---------      ---------
+Income before income taxes                       (13,423)          (245,605)      (259,028)
+Income tax expense                                     -              5,369          5,369
+                                                --------          ---------      ---------
+Net income                                      $(13,423)         $(240,236)     $(253,659)
+                                                ========          =========      =========
+</TABLE>
+
+(j)    Reflects a $15 million restructuring charge recorded in fiscal 1999.
+
+(k)    The pro forma income tax rate excluding the impact of non-deductible
+       goodwill for the period is estimated to be 40%.
+
+(l)    The pro forma income tax rate excluding the impact of non-deductible
+       goodwill for the period is estimated to be 37%.
+
+                                       14
+
+<PAGE>
+
+
+                                   SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+                                          QUALCOMM INCORPORATED
+
+
+Dated:  July 24, 2000                     By: /s/ Anthony S. Thornley
+                                             -----------------------------------
+                                                   Anthony S. Thornley
+                                                   Executive Vice President and
+                                                   Chief Financial Officer
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

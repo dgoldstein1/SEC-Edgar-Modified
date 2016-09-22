@@ -1,0 +1,1361 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VhqvLTA633UwQiUAHLBaT1kh7ko1bLHh5N1bEz0hCW7UO2GTaWWuI5X2Gdm+ffOt
+ 0c2VTNS18JHpkOeuvLSW6A==
+
+<SEC-DOCUMENT>/in/edgar/work/20000810/0001095811-00-002534/0001095811-00-002534.txt : 20000921
+<SEC-HEADER>0001095811-00-002534.hdr.sgml : 20000921
+ACCESSION NUMBER:		0001095811-00-002534
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20000630
+FILED AS OF DATE:		20000810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			JUNIPER NETWORKS INC
+		CENTRAL INDEX KEY:			0001043604
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [3576
+]		IRS NUMBER:				770422528
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		10-Q
+			SEC ACT:		
+			SEC FILE NUMBER:	000-26339
+			FILM NUMBER:		691054
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		385 RAVENDALE DR
+				CITY:			MOUNTAIN VIEW
+				STATE:			CA
+				ZIP:			94043
+				BUSINESS PHONE:		6505268000
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		385 RAVENDALE DR
+					CITY:			MOUNTAIN VIEW
+					STATE:			CA
+					ZIP:			94043
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>e10-q.txt
+<DESCRIPTION>FORM 10-Q QUARTERLY ENDED JUNE 20, 2000.
+<TEXT>
+
+<PAGE>   1
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+
+                                    FORM 10-Q
+
+[X]  Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange
+     Act of 1934
+
+                  FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2000
+
+                                       or
+
+[ ]  Transition report pursuant to Section 13 or 15(d) of the Securities
+     Exchange Act of 1934
+
+                  For the transition period from _____ to _____
+
+
+
+
+                         COMMISSION FILE NUMBER 0-26339
+                             JUNIPER NETWORKS, INC.
+             (Exact name of Registrant as specified in its charter)
+
+
+<TABLE>
+<S>                                                       <C>
+               DELAWARE                                         77-0422528
+   (State or other jurisdiction of                           (I.R.S. Employer
+   incorporation or organization)                         Identification Number)
+
+ 1194 N. MATHILDA AVENUE, SUNNYVALE, CA                            94089
+(Address of principal executive offices)                        (Zip Code)
+</TABLE>
+
+                          (408) 745-2000
+        (Registrant's telephone number including area code)
+
+
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                                Yes [X]   No [ ]
+
+There were 315,356,976 shares of the Company's Common Stock, par value $.00001,
+outstanding on July 31, 2000.
+
+================================================================================
+
+<PAGE>   2
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                            PAGE NO.
+                                                                            --------
+<S>      <C>                                                                   <C>
+PART I                              FINANCIAL INFORMATION
+
+Item 1.  Financial Statements:
+
+         Condensed Consolidated Balance Sheets as of June 30, 2000 and
+         December 31, 1999...................................................   3
+
+         Condensed Consolidated Statements of Operations for the Three
+         and Six Months Ended June 30, 2000 and June 30, 1999................   4
+
+         Condensed Consolidated Statements of Cash Flows for the Six
+         Months Ended June 30, 2000 and June 30, 1999........................   5
+
+         Notes to Condensed Consolidated Financial Statements................   6
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations...............................................  10
+
+         Factors That May Affect Future Results..............................  14
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk..........  16
+
+
+PART II                             OTHER INFORMATION
+
+Item 1.  Legal Proceedings...................................................  18
+
+Item 2.  Changes in Securities...............................................  18
+
+Item 4.  Submission of Matters to a Vote of Security Holders.................  18
+
+Item 6.  Exhibits and Reports on Form 8-K....................................  18
+
+
+SIGNATURES...................................................................  20
+</TABLE>
+
+
+                                       2
+
+<PAGE>   3
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+                             JUNIPER NETWORKS, INC.
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                 (IN THOUSANDS)
+
+<TABLE>
+<CAPTION>
+                                                   June 30,        December 31,
+                                                     2000              1999
+                                                 -----------       -----------
+<S>                                              <C>               <C>
+ASSETS                                           (Unaudited)            (1)
+Current assets:
+  Cash and cash equivalents                      $   797,125       $   158,043
+  Short-term investments                             384,764           187,915
+  Accounts receivable, net                            60,733            23,950
+  Prepaid expenses and other current assets           15,792             7,925
+                                                 -----------       -----------
+          Total current assets                     1,258,414           377,833
+
+Property and equipment, net                           28,397            12,416
+Long-term investments                                412,374            97,201
+Other long-term assets                               131,167            25,928
+                                                 -----------       -----------
+Total assets                                     $ 1,830,352       $   513,378
+                                                 ===========       ===========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable                               $    37,914       $    15,368
+  Other accrued liabilities                           67,044            21,025
+  Deferred revenue                                    30,872            19,270
+                                                 -----------       -----------
+          Total current liabilities                  135,830            55,663
+Convertible subordinated notes and other
+   long-term liabilities                           1,165,725                --
+
+Common stock and additional paid-in capital          530,157           513,698
+Deferred stock compensation                           (2,010)           (3,001)
+Accumulated other comprehensive
+   income (loss)                                      25,129              (815)
+Accumulated deficit                                  (24,479)          (52,167)
+                                                 -----------       -----------
+Total stockholders' equity                           528,797           457,715
+                                                 -----------       -----------
+Total liabilities and stockholders' equity       $ 1,830,352       $   513,378
+                                                 ===========       ===========
+</TABLE>
+
+(1)  The balance sheet at December 31, 1999 has been derived from the audited
+     consolidated financial statements at that date, but does not include all
+     the information and footnotes required by generally accepted accounting
+     principles for complete financial statements.
+
+
+                             See accompanying notes.
+
+
+                                       3
+
+<PAGE>   4
+
+                             JUNIPER NETWORKS, INC.
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                   (unaudited)
+
+<TABLE>
+<CAPTION>
+                                               Three months ended              Six months ended
+                                                   June 30,                        June 30,
+                                           -------------------------       -------------------------
+                                             2000            1999            2000            1999
+                                           ---------       ---------       ---------       ---------
+<S>                                         <C>            <C>             <C>             <C>
+Net revenues                                $113,028       $  17,556        $176,914       $  27,600
+Cost of revenues                              40,752           8,046          65,853          14,393
+                                           ---------       ---------       ---------       ---------
+Gross profit                                  72,276           9,510         111,061          13,207
+
+Operating expenses:
+  Research and development                    18,000           7,991          33,990          14,172
+  Sales and marketing                         17,247           3,849          28,752           6,452
+  General and administrative                   4,171             977           7,185           1,753
+  Amortization of goodwill, purchased
+    intangibles and deferred stock
+    compensation(1)                            2,315             891           4,706           1,795
+  Charitable contribution                     10,000              --          10,000              --
+                                           ---------       ---------       ---------       ---------
+          Total operating expenses            51,733          13,708          84,633          24,172
+                                           ---------       ---------       ---------       ---------
+
+Operating income/(loss)                       20,543          (4,198)         26,428         (10,965)
+Interest income                               24,634             619          35,164             942
+Interest expense                             (14,758)           (171)        (18,652)           (382)
+                                           ---------       ---------       ---------       ---------
+Income/(loss) before income taxes             30,419          (3,750)         42,940         (10,405)
+Provision for income taxes                    10,802             102          15,252             122
+                                           ---------       ---------       ---------       ---------
+Net income/(loss)                          $  19,617       $  (3,852)      $  27,688       $ (10,527)
+                                           =========       =========       =========       =========
+
+Net Income (loss) per share:
+   Basic                                   $    0.06       $   (0.04)      $    0.09       $   (0.11)
+                                           =========       =========       =========       =========
+   Diluted                                 $    0.06       $   (0.04)      $    0.08       $   (0.11)
+                                           =========       =========       =========       =========
+
+Shares used in computing
+net income (loss) per share:
+   Basic                                     301,879         107,292         298,712          98,616
+                                           =========       =========       =========       =========
+   Diluted                                   346,411         107,292         346,102          98,616
+                                           =========       =========       =========       =========
+</TABLE>
+- ---------------
+(1)  Deferred stock compensation relates to the following expense category by
+     period:
+
+<TABLE>
+<S>                                          <C>              <C>             <C>            <C>
+Cost of revenues                             $   76           $  131          $  165         $  264
+Research and development                        187              491             404            989
+Sales and marketing                             139              212             301            427
+General and administrative                       56               57             121            115
+                                             ------           ------          ------         ------
+    Total                                    $  458           $  891          $  991         $1,795
+                                             ======           ======          ======         ======
+</TABLE>
+
+
+                             See accompanying notes.
+
+
+                                       4
+
+<PAGE>   5
+
+                             JUNIPER NETWORKS, INC.
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+                                   (unaudited)
+
+<TABLE>
+<CAPTION>
+                                                                Six months ended June 30,
+                                                              -----------------------------
+                                                                 2000              1999
+                                                              -----------       -----------
+<S>                                                           <C>               <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net income/(loss)                                             $    27,688       $   (10,527)
+  Adjustments to reconcile net income/(loss) to net cash
+    provided by (used in) operating activities:
+      Depreciation                                                  4,882             2,350
+      Amortization of goodwill, purchased intangibles,
+        deferred stock compensation and other non-cash
+        transactions                                                5,975             1,795
+      Charitable contribution charge                               10,000                --
+      Changes in operating assets and liabilities:
+        Accounts receivable                                       (36,783)           (9,256)
+        Other assets                                               (9,783)             (604)
+        Accounts payable and other accrued liabilities             68,565             6,082
+        Deferred revenue                                           11,602             7,176
+                                                              -----------       -----------
+Net cash provided by (used in) operating activities                82,146            (2,984)
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of property and equipment                                (20,863)           (3,746)
+Purchases of available-for-sale investments                      (824,517)          (22,873)
+Maturities of available-for-sale investments                      312,782                --
+Purchase of equity investments                                    (36,450)               --
+                                                              -----------       -----------
+Net cash used in investing activities                            (569,048)          (26,619)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Proceeds from issuance of convertible subordinated
+  notes                                                         1,123,325                --
+Payments on lease obligations                                          --           (3,707)
+Proceeds from issuance of preferred stock                              --            33,948
+Proceeds from issuance of common stock                              2,659            71,693
+                                                              -----------       -----------
+Net cash provided by financing activities                       1,125,984           101,934
+                                                              -----------       -----------
+Net increase in cash and cash equivalents                         639,082            72,331
+Cash and cash equivalents at beginning of period                  158,043            20,098
+                                                              -----------       -----------
+Cash and cash equivalents at end of period                    $   797,125       $    92,429
+                                                              ===========       ===========
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+Cash paid for interest                                        $        --       $       331
+                                                              ===========       ===========
+
+SUPPLEMENTAL SCHEDULE OF NONCASH INVESTING AND
+  FINANCING ACTIVITIES
+Common stock issued in connection with the
+   acquisition of goodwill and purchased
+   intangibles                                                $     3,800       $        --
+                                                              ===========       ===========
+Deferred stock compensation                                   $        --       $     1,114
+                                                              ===========       ===========
+</TABLE>
+
+
+                             See accompanying notes.
+
+
+                                       5
+
+<PAGE>   6
+
+                             JUNIPER NETWORKS, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+NOTE 1. BASIS OF PRESENTATION
+
+     The condensed consolidated financial statements have been prepared by
+Juniper Networks, Inc., pursuant to the rules and regulations of the Securities
+and Exchange Commission ("SEC") and include the accounts of Juniper Networks,
+Inc. and its wholly-owned subsidiaries ("Juniper Networks" or collectively the
+"Company"). Certain information and footnote disclosures, normally included in
+financial statements prepared in accordance with generally accepted accounting
+principles, have been condensed or omitted pursuant to such rules and
+regulations. While in the opinion of the Company, the unaudited financial
+statements reflect all adjustments (consisting only of normal recurring
+adjustments) necessary for a fair presentation of the financial position at June
+30, 2000 and the operating results and cash flows for the three and six months
+ended June 30, 2000 and 1999, these financial statements and notes should be
+read in conjunction with the Company's audited consolidated financial statements
+and notes for the year ended December 31, 1999 included in the Company's Annual
+Report on Form 10-K filed March 29, 2000 with the SEC. The condensed balance
+sheet at December 31, 1999 has been derived from audited financial statements as
+of that date.
+
+     The results of operations for the three and six months ended June 30, 2000
+are not necessarily indicative of results that may be expected for any other
+interim period or for the full fiscal year ending December 31, 2000.
+
+NOTE 2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+CASH, CASH EQUIVALENTS, SHORT-TERM INVESTMENTS AND LONG-TERM INVESTMENTS
+
+     Cash and cash equivalents consist of cash on deposit with banks, money
+market instruments, commercial paper and debt securities with original
+maturities of 90 days or less. Short- and long-term investments consist of
+government, corporate, and asset-backed debt securities with original maturities
+between three months and three years.
+
+     Management determines the appropriate classification of debt and equity
+securities at the time of purchase and evaluates such designation as of each
+balance sheet date. To date, all debt securities have been classified as
+available-for-sale and are carried at fair value with material unrealized gains
+and losses, if any, included in stockholders' equity. Unrealized losses were
+$528,000 and $815,000 as of June 30, 2000 and December 31, 1999, respectively.
+Realized gains and losses, if any, and declines in value of securities judged to
+be other than temporary, if any, are included in interest income. Interest and
+dividends on all securities are included in interest income.
+
+EQUITY INVESTMENTS
+
+     Equity investments in which the Company has less than 20% interest and does
+not have the ability to exercise significant influence are carried at the lesser
+of cost or estimated realizable value. Unrealized gains and losses, net of tax,
+if any, are included in stockholders' equity. Equity investments, which are
+recorded in other long-term assets, were approximately $85.8 million and $8.0
+million as of June 30, 2000 and December 31, 1999, respectively. As of June 30,
+2000, the unrealized gain relating to Juniper Networks' equity investments and
+
+
+                                       6
+
+<PAGE>   7
+
+included in other long-term assets was $41.4 million, (none as of December 31,
+1999). The unrealized gain was attributable entirely to one of the Company's
+investments which recently went public. The investment is in a high technology
+company whose stock price is subject to substantial volatility. According, it is
+possible that the market price of the investment could decline substantially and
+quickly, which could result in a material reduction in the carrying value of
+these assets.
+
+REVENUE RECOGNITION
+
+     Juniper Networks generally recognizes product revenue at the time of
+shipment, assuming that collectibility is probable, unless Juniper Networks has
+future obligations for network interoperability or has to obtain customer
+acceptance, in which case revenue is deferred until these obligations are met.
+Revenue from service obligations is deferred and recognized on a straight-line
+basis over the contractual period, generally one year. Amounts billed in excess
+of revenue recognized are included as deferred revenue and accounts receivable
+in the accompanying condensed consolidated balance sheets.
+
+CUSTOMER CONCENTRATION
+
+     In the quarter ended June 30, 2000, three customers accounted for more than
+10% of net revenues, for a total of 46.7%, compared with two customers
+accounting for more than 10%, totaling 72.4% of net revenues, in the same period
+a year ago.
+
+WARRANTY RESERVES
+
+     Juniper Networks' products generally carry a one-year warranty that
+includes factory repair services as needed for replacement of parts. Estimated
+expenses for warranty obligations are accrued as revenue is recognized.
+
+STOCK SPLITS
+
+     Juniper Networks effected a two-for-one stock split in the form of a 100%
+common stock dividend paid on June 15, 2000. All share and per share amounts
+have been adjusted to reflect the splits.
+
+NET INCOME (LOSS) PER SHARE
+
+     Basic net income (loss) per share and diluted net income (loss) per share
+are presented in conformity with the Financial Accounting Standards Board's
+Statement of Financial Accounting Standards No. 128, "Earnings Per Share" (FAS
+128), for all periods presented. In accordance with FAS 128, basic net income
+(loss) per share has been computed using the weighted-average number of shares
+of common stock outstanding during the period, less the weighted-average number
+of shares of common that are subject to repurchase. Diluted net income (loss)
+per share additionally includes common stock equivalent shares outstanding
+during the period, if dilutive.
+
+
+                                       7
+
+<PAGE>   8
+
+     The following table presents the calculation of basic and diluted net
+income (loss) per share (in thousands, except per share data):
+
+<TABLE>
+<CAPTION>
+                                                                    Three months ended        Six months ended
+                                                                         June 30,                 June 30,
+                                                                   -------------------      --------------------
+                                                                     2000       1999          2000        1999
+                                                                   --------   --------      --------    --------
+                                                                       (unaudited)              (unaudited)
+<S>                                                                <C>        <C>           <C>         <C>
+Numerator:
+   Net income (loss)............................................   $ 19,617   $ (3,852)     $ 27,688    $(10,527)
+                                                                   ========   ========      ========    ========
+
+Denominator:
+      Weighted-average shares of common stock outstanding.......    314,392    139,812       313,559     132,666
+      Weighted-average shares subject to repurchase.............    (12,513)   (32,520)      (14,847)    (34,050)
+                                                                   --------   --------      --------    --------
+   Denominator for basic net income (loss) per share............    301,879    107,292       298,712      98,616
+      Common stock equivalents..................................     44,532         --        47,390          --
+                                                                   --------   --------      --------    --------
+   Denominator for diluted net income (loss) per share..........    346,411    107,292       346,102      98,616
+                                                                   ========   ========      ========    ========
+
+Net income (loss) per share:
+   Basic........................................................   $   0.06   $  (0.04)     $   0.09    $  (0.11)
+                                                                   ========   ========      ========    ========
+   Diluted......................................................   $   0.06   $  (0.04)     $   0.08    $  (0.11)
+                                                                   ========   ========      ========    ========
+</TABLE>
+
+
+NOTE. 3. COMPREHENSIVE INCOME (LOSS)
+
+     The components of comprehensive income (loss) are as follows, (in
+thousands):
+
+<TABLE>
+<CAPTION>
+                                                                    Three months ended        Six months ended
+                                                                         June 30,                 June 30,
+                                                                   -------------------      --------------------
+                                                                     2000       1999          2000        1999
+                                                                   --------   --------      --------    --------
+                                                                       (unaudited)              (unaudited)
+<S>                                                                <C>        <C>           <C>         <C>
+Net income (loss)...............................................   $ 19,617   $ (3,852)     $ 27,688    $(10,527)
+   Unrealized gains on securities...............................        395         --           286          --
+   Unrealized gains on equity investments.......................     41,382         --        41,382          --
+                                                                   --------   --------      --------    --------
+                                                                     61,394     (3,852)       69,356     (10,527)
+
+   Income tax effect related to gains on items of other
+   comprehensive income (loss)..................................    (15,725)        --       (15,725)         --
+                                                                   --------   --------      --------    --------
+Total comprehensive income (loss)...............................   $ 45,669   $ (3,852)     $ 53,631    $(10,257)
+                                                                   ========   ========      ========    ========
+</TABLE>
+
+
+NOTE 4. CHARITABLE CONTRIBUTION
+
+     In the second quarter of fiscal 2000, employees of the Company, including
+senior management, made an initial contribution of approximately $13 million to
+a donor-advised charitable fund with the Community Foundation of Silicon Valley
+established to benefit causes such as education, community and social services,
+and emergency relief programs. The Company contributed approximately $10 million
+to the fund in the form of 135,140 shares of common stock. Juniper Networks has
+accounted for this Company contribution as a one-time charge in the period the
+contribution was made, in accordance with the Financial Accounting Standards
+Board Statement of Financial Accounting Standards No. 136, "Transfers of Assets
+to a Not-for-Profit Organization or Charitable Trust That Raises or Holds
+Contributions for Others."
+
+
+                                       8
+
+<PAGE>   9
+
+NOTE 5. RECENT ACCOUNTING PRONOUNCEMENTS
+
+     In June 1998, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards No. 133, "Accounting for Derivative
+Instruments and Hedging Activities" (FAS 133). FAS 133 establishes methods of
+accounting for derivative financial instruments and hedging activities related
+to those instruments as well as other hedging activities, and is effective for
+fiscal years beginning after June 15, 2000, as amended by Statement of Financial
+Accounting Standards No. 137. Juniper Networks does not currently hold any
+derivatives and does not expect this pronouncement to materially impact the
+results of its operations.
+
+     In December 1999, the SEC issued Staff Accounting Bulletin No. 101,
+"Revenue Recognition in Financial Statements" (SAB 101). SAB 101 summarizes
+certain areas of the Staff's views in applying generally accepted accounting
+principles to revenue recognition in financial statements. In June 2000, the SEC
+issued SAB No. 101B which defers the implementation date of SAB 101 until no
+later than the fourth fiscal quarter of fiscal years beginning after December
+15, 1999, with earlier adoption encouraged. The Company is required to adopt SAB
+101 in the fourth quarter of fiscal 2000. Juniper Networks believes that its
+current revenue recognition policy complies with SAB 101.
+
+     In March 2000, the FASB issued Financial Accounting Standards Board
+Interpretation No. 44, "Accounting for Certain Transactions involving Stock
+Compensation - an interpretation of APB Opinion No. 25" (Interpretation No. 44).
+Interpretation No. 44 is effective July 1, 2000. The interpretation clarifies
+the application of APB Opinion No. 25 for certain issues, specifically, (a) the
+definition of an employee, (b) the criteria for determining whether a plan
+qualifies as a noncompensatory plan, (c) the accounting consequence of various
+modifications to the terms of a previously fixed stock option or award, and (d)
+the accounting for an exchange or stock compensation awards in a business
+combination. We do not anticipate that the adoption of Interpretation No. 44
+will have a material impact on our financial position or the results of our
+operations.
+
+
+                                       9
+
+<PAGE>   10
+
+     This report for Juniper Networks contains forward-looking statements made
+within the meaning of the Securities Laws. These statements are not guarantees
+of future performance and are subject to certain risks and uncertainties that
+could cause actual results to differ materially from those expressed or
+forecasted. Readers should not rely on forward-looking statements, which reflect
+only the opinion of Juniper Networks as of the date hereof.
+
+     The following information should be read in conjunction with the Company's
+Annual Report on Form 10-K filed on March 29, 2000 with the Securities and
+Exchange Commission and "Factors That May Affect Future Results" herein.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS
+
+OVERVIEW
+
+     The Company is a leading provider of IP infrastructure solutions that
+enable Internet service providers and other telecommunications service
+providers, (collectively described as "Service Providers"), to meet the demands
+of the rapidly evolving optically enabled IP networks. The Company's Internet
+backbone routers are specifically designed and purpose-built for Service
+Provider networks and offer customers increased reliability, performance,
+scalability, interoperability and flexibility, and reduced complexity and cost
+compared to current alternatives.
+
+     In September 1998 the Company began shipping the M40(TM) Internet backbone
+router, its first product, with volume shipments beginning in October 1998. The
+Company began shipping the M20(TM) Internet backbone router in December 1999,
+and the M160(TM) Internet backbone router in March 2000. The Company currently
+sells its products to Service Providers in North America primarilly through a
+direct sales force and to international customers primarily through value added
+resellers.
+
+     Since the Company's inception, it has incurred significant losses, and as
+of June 30, 2000, had an accumulated deficit of $24.5 million. The Company
+achieved its first quarter of profitability in the quarter ended December 31,
+1999. In order to maintain profitability, the Company will need to generate
+higher revenues to offset the necessary increases in research and development,
+sales and marketing and general and administrative expenses as the business and
+operations continue to grow.
+
+
+RESULTS OF OPERATIONS
+
+NET REVENUES
+
+     Net revenues grew to $113.0 million in the quarter ended June 30, 2000 from
+$17.6 million in the second quarter of fiscal 1999. Net revenues for the
+six-month period ended June 30, 2000 were $176.9 million, compared with $27.6
+million for the same six-month period of fiscal 1999. The increases in net
+revenues for both the two three-month periods and the two six-month periods were
+primarily due to expanded product offerings, increased market acceptance of the
+Company's products, and overall growth in the Internet infrastructure
+marketplace. In the quarter ended June 30, 2000, three customers accounted for
+more than 10% of net revenues, for a total of 46.7%, compared with two customers
+accounting for more than 10%, totaling 72.4% of net revenues, in the same period
+a year ago.
+
+
+                                       10
+
+<PAGE>   11
+
+COST OF REVENUES
+
+     Cost of revenues for the three months ended June 30, 2000 were $40.8
+million as compared with $8.0 million for the three months ended June 30, 1999.
+Cost of revenues for the six-month period ended June 30, 2000 were $65.9
+million, compared with $14.4 million for the same six-month period of fiscal
+1999. The increase in cost of revenues is primarily related to the increase in
+net revenues, as well as headcount increases in both the Company's customer
+service and support, and operations organizations. The Company expects cost of
+revenues to continue to increase as net revenues increase. Gross margins are
+highly variable and dependent on many factors, some of which are outside the
+Company's control, such as the demand for the Company's products and mix of
+products sold.
+
+RESEARCH AND DEVELOPMENT EXPENSES
+
+     Research and development expenses were $18.0 million for the three-month
+period ended June 30, 2000, an increase of $10.0 million or 125% over the
+comparable period of 1999, and were $34.0 million in the six months ended June
+30, 2000, an increase of $19.8 million or 139% over the comparable period of
+1999. The increases in both fiscal 2000 periods as compared to the comparable
+fiscal 1999 periods were due primarily to significant increases in headcount to
+support the Company's multiple product development efforts. Additionally,
+product development expenses, such as prototype expenses and non-recurring
+engineering costs, increased in both periods ending June 30, 2000 as compared to
+the comparable 1999 periods. The Company expects that prototype expenses will
+increase over the next several quarters. Research and development is essential
+to the Company's future success and the Company expects that research and
+development expense will continue to increase in absolute dollars in future
+periods.
+
+SALES AND MARKETING EXPENSES
+
+     Sales and marketing expenses were $17.2 million for the three-month period
+ended June 30, 2000, an increase of $13.4 million over the comparable period of
+1999, and were $28.8 million in the six months ended June 30, 2000, an increase
+of $22.3 million over the comparable period of 1999. The increases in both
+fiscal 2000 periods as compared to the comparable fiscal 1999 periods were due
+primarily to a significant increase in headcount, and a significant increase in
+commission expenses resulting from the increase in net revenues. The Company
+expects to continue increasing sales and marketing headcount and, if net
+revenues increase, there will be a resulting increase in commission expenses;
+therefore, sales and marketing expenses are expected to continue to increase in
+absolute dollars in future periods.
+
+GENERAL AND ADMINISTRATIVE EXPENSES
+
+     General and administrative expenses totaled $4.2 million for the
+three-month period ended June 30, 2000, an increase of $3.2 million over the
+comparable period of 1999, and were $7.2 million in the six months ended June
+30, 2000, an increase of $5.4 million over the comparable period of 1999. The
+increase was due primarily to increases in headcount to support increasing
+levels of business activity, and costs associated with being a publicly traded
+company. The Company expects general and administrative expense to continue to
+increase in absolute dollars in future periods as a result of expansion of
+business activity.
+
+
+                                       11
+
+<PAGE>   12
+
+AMORTIZATION OF GOODWILL, PURCHASED INTANGIBLES AND DEFERRED STOCK COMPENSATION
+
+     In connection with the grant of certain stock options to employees during
+1998 and the three months ended March 31, 1999, the Company recorded deferred
+compensation of $6.4 million in 1998 and $1.1 million in 1999 representing the
+difference between the deemed value of the common stock for accounting purposes
+and the exercise price of these options at the date of grant. Deferred
+compensation is presented as a reduction of stockholders' equity and is
+amortized over the vesting period of the applicable options using the graded
+vesting method. This compensation expense relates to stock options granted to
+individuals in all operating expense categories. In November 1999 and January
+2000, the Company acquired certain intellectual property and intangible assets
+resulting in the recording of $18.4 million and $3.9 million of goodwill and
+other intangibles, respectively. The goodwill and other intangibles are being
+amortized over a three-year period. The Company expensed $2.3 million of
+goodwill, purchased intangibles and deferred compensation during the quarter
+ended June 30, 2000, and $891,000 of deferred compensation during the quarter
+ended June 30, 1999.
+
+CHARITABLE CONTRIBUTION
+
+     The Company recorded a one-time charge of $10.0 million in the quarter
+ended June 30, 2000 in connection with a stock issuance to a charitable
+foundation. The Company currently does not expect to make similar contributions
+in the foreseeable future.
+
+INTEREST INCOME
+
+     Interest income includes income on available-for-sale investments. Interest
+income was $24.6 million in the three months ended June 30, 2000 and $35.2
+million in the six months ended June 30, 2000. This compares with interest
+income of $619,000 in the three months ended June 30, 1999 and $942,000 in the
+six months ended June 30, 1999. The significant increase in interest income in
+both fiscal 2000 periods as compared to the fiscal 1999 periods is a direct
+result of increased cash and investment balances, resulting from the Company's
+equity and debt offerings during 1999 and 2000.
+
+INTEREST EXPENSE
+
+     Interest expense for the quarter ended and six-month period ended June 30,
+2000 was $14.8 million and $18.7 million, respectively. Interest expense in
+these periods consists entirely of accrued interest and amortization of debt
+issuance costs, both attributable to the convertible subordinated notes which
+were issued in March 2000. Interest expense for the quarter ended and six-month
+period ended June 30, 1999 was $171,000 and $382,000, respectively, and related
+to the Company's capital lease obligations.
+
+PROVISION FOR INCOME TAXES
+
+     The Company has recorded tax provisions of $10.8 million and $15.3 million
+for the three and six months ended June 30, 2000 or an effective rate of 35.5%
+for both periods. On income before amortization of goodwill, purchased
+intangibles, deferred stock compensation and charitable contribution the
+effective tax rate is 33% and 32% for these periods. The 1999 tax provision of
+$20,000 and $102,000 for the three and six months ended June 30, 1999 reflect
+the inability to benefit operating losses in those periods.
+
+
+                                       12
+
+<PAGE>   13
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     Prior to the Company's initial public offering, operations were financed
+primarily through the private placement of convertible preferred stock and
+capital leases. In June 1999, the Company completed the initial public offering
+of its common stock and realized net proceeds from that offering of
+approximately $65.2 million. In October 1999, the Company completed a secondary
+public offering of its common stock and realized net proceeds from that offering
+of approximately $324.3 million. In March 2000, the Company completed an
+offering of 4.75% convertible subordinated notes and realized net proceeds of
+approximately $1.12 billion.
+
+     At June 30, 2000, the Company had cash and cash equivalents of $797.1
+million, short-term investments of $384.8 million and long-term investments of
+$412.4 million. The Company regularly invests excess funds in money market
+funds, commercial paper and government and non-government debt securities.
+
+     Net cash provided by operating activities for the six months ended June 30,
+2000 was $82.1 million and net cash used in operating activities for the six
+months ended June 30, 1999 was $3.0 million. Cash provided by operating
+activities for the six months ended June 30, 2000 was primarily the result of
+increases in accounts payable and other accrued liabilities, net income, and
+adjustments for certain non-cash charges, partially offset by increases in
+accounts receivable and other assets. Cash used in operating activities for the
+six months ended June 30, 1999, was primarily the result of the net loss and an
+increase in accounts receivable, partially offset by increases in deferred
+revenues, accounts payable and other accrued liabilities and adjustments for
+certain non-cash charges.
+
+     Net cash used in investing activities for the six months ended June 30,
+2000 and 1999 were $569.0 million and $26.6 million, respectively. Cash used in
+investing activities in the six months ended June 30, 2000 was due to the
+purchase of available-for-sale investments, as well as the purchase of equity
+investments and fixed assets. Cash used in investing activities in the six
+months ended June 30, 1999 was due to the purchase of available-for-sale
+investments and fixed assets.
+
+     Net cash provided by financing activities for the six months ended June 30,
+2000 and 1999 were approximately $1.1 billion and $101.9 million, respectively.
+Cash provided by financing activities in the six months ended June 30, 2000 was
+due primarily to the proceeds from the offering of 4.75% convertible
+subordinated notes of approximately $1.12 billion. Cash provided by financing
+activities in the six months ended June 30, 1999 was due to proceeds from the
+issuance of common and preferred stock, partially offset by payments on lease
+obligations.
+
+     The Company expects to devote substantial capital resources to continue its
+research and development efforts, to hire and expand the sales, support,
+marketing and product development organizations, to expand marketing programs,
+to establish additional facilities worldwide and for other general corporate
+activities, including strategic equity investments and possible acquisitions.
+Although the Company believes that current cash balances will be sufficient to
+fund operations for at least the next 12 months, there can be no assurance that
+if the Company were to need additional funding that such additional funding
+would be available either in the capital markets or on acceptable terms.
+
+
+                                       13
+
+<PAGE>   14
+
+FACTORS THAT MAY AFFECT FUTURE RESULTS
+
+THE COMPANY'S FAILURE TO MANAGE EXPANSION EFFECTIVELY COULD SERIOUSLY HARM ITS
+BUSINESS, FINANCIAL CONDITION AND PROSPECTS. The Company's ability to
+successfully implement its business plan, develop and offer its products and
+manage expansion in a rapidly evolving market requires a comprehensive and
+effective planning and management process. The Company continues to increase the
+scope of its operations domestically and internationally and has grown headcount
+substantially. In addition, the Company plans to continue to hire a significant
+number of employees in the foreseeable future. The growth in business, headcount
+and relationships with customers and other third parties has placed and will
+continue to place a significant strain on the Company's management systems and
+resources. The Company will need to continue to improve its operational,
+managerial and financial controls, reporting systems and procedures, and will
+need to continue to expand, train and manage its work force worldwide.
+
+THE COMPANY'S SUCCESS DEPENDS ON ITS ABILITY TO DEVELOP PRODUCTS AND PRODUCT
+ENHANCEMENTS THAT WILL ACHIEVE MARKET ACCEPTANCE. The Company cannot ensure that
+it will be able to develop new products or product enhancements in a timely
+manner or at all. Any failure to develop new products or product enhancements
+could substantially decrease market acceptance and sales of the Company's
+present and future products which would significantly harm the business and
+financial results. Even if the Company is able to develop and commercially
+introduce new products and enhancements, there can be no assurance that new
+products or enhancements will achieve widespread market acceptance. Any failure
+of the Company's future products to achieve market acceptance could adversely
+affect the business and financial results.
+
+THE COMPANY FACES INTENSE COMPETITION THAT COULD REDUCE ITS MARKET SHARE.
+Competition in the Internet infrastructure market is intense. This market has
+historically been dominated by Cisco with other companies such as Nortel
+Networks and Lucent Technologies providing products to a smaller segment of the
+market. In addition, a number of private companies have announced plans for new
+products to address the same problems which the Company's products address. If
+the Company is unable to compete successfully against its existing and future
+competitors, it could be required to reduce prices, resulting in reduced gross
+margins and could experience loss of market share, each of which could
+materially and adversely affect its business, operating results and financial
+condition.
+
+THE COMPANY DEPENDS ON KEY PERSONNEL TO MANAGE ITS BUSINESS EFFECTIVELY IN A
+RAPIDLY CHANGING MARKET AND IF IT IS UNABLE TO HIRE ADDITIONAL PERSONNEL, ITS
+ABILITY TO SELL PRODUCTS COULD BE HARMED. The Company's future success depends
+upon the continued services of its executive officers and other key engineering,
+sales, marketing and support personnel. None of the officers or key employees is
+bound by an employment agreement for any specific term.
+
+The Company also intends to hire a significant number of engineering, sales,
+marketing and support personnel in the future, and it believes its success
+depends, in large part, upon its ability to attract and retain these key
+employees. Competition for these persons is intense, especially in the San
+Francisco Bay area. The loss of the services of any of its key employees, the
+inability to attract or retain qualified personnel in the future or delays in
+hiring required personnel, particularly engineers and sales personnel, could
+delay the development and introduction of and negatively impact the Company's
+ability to sell its products.
+
+THE COMPANY IS DEPENDENT ON SOLE SOURCE AND LIMITED SOURCE SUPPLIERS FOR SEVERAL
+KEY COMPONENTS. With the current demand for electronic products, component
+shortages are
+
+
+                                       14
+
+<PAGE>   15
+
+possible and the predictability of the availability of such components is
+limited. The Company currently purchases several key components, including ASICs
+and power supplies, from single or limited sources. The Company may not be able
+to develop an alternate or second source in a timely manner, which could hurt
+its ability to deliver product to customers. If the Company is unable to buy
+these components on a timely basis, it will not be able to deliver product to
+its customers, which would seriously impact present and future sales which
+would, in turn, adversely affect its business.
+
+THE COMPANY CURRENTLY DEPENDS PRIMARILY ON ONE CONTRACT MANUFACTURER, AND IF THE
+COMPANY UNEXPECTEDLY HAS TO QUALIFY A NEW CONTRACT MANUFACTURER IT MAY LOSE
+REVENUE AND DAMAGE ITS CUSTOMER RELATIONSHIPS. Solectron, a third party
+manufacturer for numerous companies, manufactures the Company's products on a
+purchase order basis and is the Company's primary manufacturer. The Company
+currently does not have a long-term supply contract with Solectron. If the
+Company should fail to effectively manage its relationship with Solectron or if
+Solectron experiences delays, disruptions or quality control problems in its
+manufacturing operations, the Company's ability to ship products to its
+customers could be delayed which could adversely affect the Company's business
+and financial results. The Company is in the process of qualifying a new third
+party contract manufacturer; however, the qualification process and commencing
+volume production is time consuming.
+
+THE COMPANY'S FAILURE TO CONTINUE TO INCREASE ITS REVENUES MAY PREVENT THE
+COMPANY FROM MAINTAINING PROFITABILITY. The Company has large fixed expenses and
+expects to continue to incur significant and increasing sales and marketing,
+engineering and product development and administrative expenses and there can be
+no assurances that net revenues will continue to grow or that the Company will
+maintain profitability.
+
+LIMITED OPERATING HISTORY MAKES FORECASTING DIFFICULT. As a result of the
+Company's limited operating history, it is difficult to accurately forecast
+revenues and there is limited meaningful historical financial data upon which to
+base planned operating expenses. In addition, the Company's operating expenses
+are largely based on anticipated revenue trends and a high percentage of its
+expenses are, and will continue to be, fixed in the short-term. If the Company
+does not achieve its expected revenues, its operating results will be below its
+expectations and those of investors and market analysts, which could cause the
+price of the common stock to decline.
+
+In addition, timing of deployment of the Company's products can vary widely and
+depends on various factors. Customers with large networks usually expand their
+networks in large increments on a periodic basis. The Company expects to receive
+significant orders on an irregular basis. Because of the Company's limited
+operating history, it cannot predict these sales and development cycles. These
+long cycles, as well as the Company's expectation that customers will tend to
+sporadically place large orders with short lead times, may cause its revenues
+and operating results to vary significantly and unexpectedly from quarter to
+quarter.
+
+THE COMPANY'S CUSTOMER BASE HAS INCREASED SUBSTANTIALLY, HOWEVER THERE IS STILL
+A LIMITED NUMBER OF CUSTOMERS WHICH COMPRISE A SIGNIFICANT PORTION OF THE
+COMPANY'S REVENUES AND ANY DECREASE IN REVENUE FROM THESE CUSTOMERS COULD HAVE
+AN ADVERSE EFFECT. The Company expects that a large portion of its net revenues
+will continue to depend on sales to a limited number of customers. Any downturn
+in the business of these customers or potential new customers could
+significantly decrease sales to such customers which could adversely affect the
+Company's net revenues and results of operations.
+
+THE UNPREDICTABILITY OF THE COMPANY'S QUARTERLY RESULTS MAY ADVERSELY AFFECT THE
+TRADING PRICE OF ITS COMMON STOCK. The Company's revenues and operating results
+will vary
+
+
+                                       15
+
+<PAGE>   16
+
+significantly from quarter to quarter due to a number of factors, including many
+which are outside of the Company's control and any of which may cause its stock
+price to fluctuate.
+
+The factors that may impact the unpredictability of the Company's quarterly
+results include the long sales and implementation cycle and the continuing
+increase in operating expenses in anticipation of increased revenues. As a
+result, the Company believes that quarter-to-quarter comparisons of operating
+results are not a good indication of future performance. It is likely that in
+some future quarters, operating results may be below the expectations of public
+market analysts and investors. In this event, the price of the Company's common
+stock may fall.
+
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+     The primary objective of the Company's investment activities is to preserve
+principal while at the same time maximizing the income the Company receives from
+its investments without significantly increasing risk. Some of the securities
+that the Company has invested in may be subject to market risk. This means that
+a change in prevailing interest rates may cause the principal amount of the
+investment to fluctuate. For example, if the Company holds a security that was
+issued with a fixed interest rate at the then-prevailing rate and the prevailing
+interest rate later rises, the principal amount of the investment will probably
+decline. To minimize this risk, the Company maintains its portfolio of cash
+equivalents, short-term and long-term investments in a variety of securities,
+including commercial paper, money market funds and government and non-government
+debt securities. In general, money market funds are not subject to market risk
+because the interest paid on such funds fluctuates with the prevailing interest
+rate.
+
+     The following table presents the amounts of cash equivalents and
+investments that are subject to market risk and the weighted-average interest
+rates, by year of expected maturity for the Company's investment portfolios as
+of June 30, 2000 and December 31, 1999. This table does not include money market
+funds because those funds are not subject to market risk.
+
+<TABLE>
+<CAPTION>
+(In thousands)
+                                              MATURING         MATURING          MATURING
+                                           WITHIN 1 YEAR    WITHIN 2 YEARS    WITHIN 3 YEARS
+                                           -------------    --------------    --------------
+<S>                                          <C>              <C>               <C>
+As of June 30, 2000:
+Cash equivalents.........................    $ 466,481        $      --         $      --
+   Weighted-average interest rate........         6.46%              --                --
+Investments..............................    $ 380,164        $ 355,513         $  56,860
+   Weighted-average interest rate........         6.54%            6.75%             6.92%
+                                             ---------        ---------         ---------
+Total....................................    $ 846,645        $ 355,513         $  56,860
+                                             =========        =========         =========
+   Weighted-average interest rate........         6.49%            6.75%             6.92%
+
+
+                                              MATURING         MATURING          MATURING
+                                           WITHIN 1 YEAR    WITHIN 2 YEARS    WITHIN 3 YEARS
+                                           -------------    --------------    --------------
+As of December 31, 1999:
+Cash equivalents.........................    $  89,151        $      --         $      --
+   Weighted-average interest rate........         5.68%              --                --
+Investments..............................    $ 187,915        $  93,963         $   3,238
+   Weighted-average interest rate........         5.96%            6.23%             7.01%
+                                             ---------        ---------         ---------
+Total....................................    $ 277,066        $  93,963         $   3,238
+                                             =========        =========         =========
+   Weighted-average interest rate........         5.87%            6.23%             7.01%
+</TABLE>
+
+
+                                       16
+
+<PAGE>   17
+
+EXCHANGE RATE SENSITIVITY
+
+     The Company operates primarily in the United States, and all sales to date
+have been made in US dollars. Accordingly, the Company has had no material
+exposure to foreign currency rate fluctuations.
+
+
+                                       17
+
+<PAGE>   18
+
+PART II OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+     None
+
+ITEM 2. CHANGES IN SECURITIES
+
+     At the Annual Meeting of Stockholders of the Company held May 4, 2000, the
+stockholders of the Company approved an amendment to the Certificate of
+Incorporation of the Company increasing the authorized number of shares of
+Common Stock from 200,000,000 shares to 1,000,000,000 shares. The amendment was
+filed with the Delaware Secretary of State on May 8, 2000. The amendment to the
+Certificate of Incorporation allows the Board of Directors to issue or reserve
+for issuance up to 1,000,000,000 shares of Common Stock without further action
+or authorization by the stockholders, except as required by applicable law or
+the rules of any stock exchange or national securities association trading
+system on which the Common Stock is then listed or quoted.
+
+     On May 11, 2000, the Company issued an aggregate of 135,140 unregistered
+shares of common stock to the Community Foundation Silicon Valley as a one-time
+charitable contribution. The issuance was exempt from registration pursuant to
+Section 4(2) of the Securities Act of 1933.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     The Annual Meeting of Stockholders of Juniper Networks, Inc. was held on
+May 4, 2000 at The Historic Del Monte Building, 100 South Murphy Street, Third
+Floor, Sunnyvale, California 94086. Of the 156,504,433 shares outstanding as of
+April 30, 2000, the record date, 130,732,765 shares (83.5%) were present or
+represented by proxy at the meeting.
+
+     1.   The table below presents the results of the election to the Company's
+board of directors.
+
+<TABLE>
+<CAPTION>
+                               Votes For         Withheld
+                              -----------        ---------
+<S>                           <C>                <C>
+     Scott Kriens             129,685,772        1,046,993
+     William Stensrud         129,683,739        1,049,026
+</TABLE>
+
+     2.   The stockholders approved the Amendment to the Certificate of
+Incorporation of the Company. This proposal received 124,014,335 votes for,
+6,578,926 votes against and 139,504 shares abstaining.
+
+     3.   The stockholders ratified the appointment of Ernst & Young LLP as the
+Company's independent auditors for the fiscal year ended December 31, 2000. This
+proposal received 130,620,575 votes for, 11,454 votes against and 100,736 shares
+abstaining.
+
+ITEM 6. EXHIBITS AND REPORTS ON FORM 8-K
+
+     (a)  List of Exhibits
+
+<TABLE>
+<CAPTION>
+         Number                    Exhibit Description
+         ------                    -------------------
+<S>                 <C>
+           3.1      Amended and Restated Certificate of Incorporation
+
+          27.1      Financial Data Schedule (Filed Electronically)
+</TABLE>
+
+
+                                       18
+
+<PAGE>   19
+
+     (b) Reports on Form 8-K
+
+     The Company filed a Current Report on Form 8-K dated May 5, 2000 to report,
+under Item 5 thereof, that the Company's stockholders approved the increase in
+authorized shares enabling the Company to effect the two-for-one stock split in
+the form of a stock dividend, payable on June 15, 2000 to stockholders of record
+as of May 15, 2000.
+
+
+                                       19
+
+<PAGE>   20
+
+SIGNATURE
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+
+
+
+                                        JUNIPER NETWORKS, INC.
+
+
+                                        /s/ MARCEL GANI
+                                        ----------------------------------------
+                                        Marcel Gani
+                                        Chief Financial Officer
+                                        (Duly Authorized Officer and Principal
+                                        Financial and Accounting Officer)
+
+
+Dated: August 10, 2000
+
+
+                                       20
+
+<PAGE>   21
+
+                                LIST OF EXHIBITS
+
+<TABLE>
+<CAPTION>
+Number                    Exhibit Description
+- ------                    -------------------
+<S>        <C>
+  3.1      Amended and Restated Certificate of Incorporation
+
+ 27.1      Financial Data Schedule (Filed Electronically)
+</TABLE>
+
+
+                                       21
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>ex3-1.txt
+<DESCRIPTION>EXHIBIT 3.1
+<TEXT>
+
+<PAGE>   1
+
+                                                                     EXHIBIT 3.1
+
+                            CERTIFICATE OF AMENDMENT
+
+                                     TO THE
+
+                AMENDED AND RESTATED CERTIFICATE OF INCORPORATION
+
+                                       OF
+
+                             JUNIPER NETWORKS, INC.
+
+
+     The undersigned, Scott Kriens and Lisa C. Berry, hereby certify that:
+
+     1.   They are the duly elected and acting President and Secretary,
+respectively, of Juniper Networks, Inc., a Delaware corporation, which was
+originally incorporated in the State of Delaware on September 10, 1997.
+
+     2.   Article Fourth of the Amended and Restated Certificate of
+Incorporation is hereby amended and restated in its entirety to read as follows:
+
+     "FOURTH: This Corporation is authorized to issue two classes of shares to
+be designated, respectively, Common Stock and Preferred Stock. The total number
+of shares of Common Stock that this corporation is authorized to issue is
+1,000,000,000, with a par value of $0.00001, and the total number of shares of
+Preferred stock which this corporation is authorized to issue is 10,000,000,
+with a par value of $0.00001.
+
+     The Preferred Stock may be issued from time to time in one or more series
+pursuant to a resolution or resolutions providing for such issue duly adopted by
+the Board of Directors (authority to do so being hereby expressly vested in the
+Board). The Board of Directors is further authorized to determine or alter the
+rights, preferences, privileges and restrictions granted to or imposed upon any
+wholly unissued series of Preferred Stock and, to fix the number of shares of
+any such series of Preferred Stock and the designation of any such series of
+Preferred Stock. The Board of Directors is authorized, within the limits and
+restrictions stated in any resolution or resolutions of the Board of Directors
+originally fixing the number of shares constituting any series, to increase or
+decrease (but not below the number of shares then outstanding) the number of
+shares of any such series subsequent to the issue of shares of that series, to
+determine the designation of any series, and to fix the number of shares of any
+series."
+
+     3.   The Board of Directors has duly approved the foregoing Amendment.
+
+     4.   The foregoing amendment has been duly approved by the required vote of
+stockholders in accordance with Section 242 of the Delaware General Corporation
+Law. The total number of outstanding shares of Common Stock of this corporation
+as of the record date was 156,523,155 shares. No shares of Preferred Stock were
+outstanding. The number of shares voting in favor of the Amendment equaled or
+exceeded the vote required. The percentage vote required was a majority of the
+outstanding shares of Common Stock.
+
+     The undersigned further certify under penalty of perjury that they have
+read the foregoing Amendment and know the contents thereof, and that the
+statements therein are true.
+
+<PAGE>   2
+
+     IN WITNESS WHEREOF, the undersigned have executed this Certificate at
+Mountain View, California on May 4, 2000.
+
+
+                                        /s/ SCOTT KRIENS
+                                        ----------------------------------------
+                                        Scott Kriens, President
+
+
+                                        /s/ LISA C. BERRY
+                                        ----------------------------------------
+                                        Lisa C. Berry, Secretary
+
+
+
+                                       2
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-27.1
+<SEQUENCE>3
+<FILENAME>ex27-1.txt
+<DESCRIPTION>FINANCIAL DATA SCHEDULE
+<TEXT>
+
+<TABLE> <S> <C>
+
+<ARTICLE> 5
+<MULTIPLIER> 1,000
+
+<S>                             <C>
+<PERIOD-TYPE>                   6-MOS
+<FISCAL-YEAR-END>                          DEC-31-2000
+<PERIOD-START>                             JAN-01-2000
+<PERIOD-END>                               JUN-30-2000
+<CASH>                                         797,125
+<SECURITIES>                                   797,138
+<RECEIVABLES>                                   60,733
+<ALLOWANCES>                                         0
+<INVENTORY>                                          0
+<CURRENT-ASSETS>                                15,792
+<PP&E>                                          41,452
+<DEPRECIATION>                                  13,055
+<TOTAL-ASSETS>                               1,830,352
+<CURRENT-LIABILITIES>                          135,830
+<BONDS>                                              0
+<PREFERRED-MANDATORY>                                0
+<PREFERRED>                                          0
+<COMMON>                                             3
+<OTHER-SE>                                     528,794
+<TOTAL-LIABILITY-AND-EQUITY>                 1,830,352
+<SALES>                                        176,914
+<TOTAL-REVENUES>                               176,914
+<CGS>                                           65,853
+<TOTAL-COSTS>                                   65,853
+<OTHER-EXPENSES>                                84,633
+<LOSS-PROVISION>                                     0
+<INTEREST-EXPENSE>                              18,652
+<INCOME-PRETAX>                                 42,940
+<INCOME-TAX>                                    15,252
+<INCOME-CONTINUING>                             27,688
+<DISCONTINUED>                                       0
+<EXTRAORDINARY>                                      0
+<CHANGES>                                            0
+<NET-INCOME>                                    27,688
+<EPS-BASIC>                                       0.09
+<EPS-DILUTED>                                     0.08
+
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
