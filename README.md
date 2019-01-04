@@ -76,6 +76,7 @@ I have maintained a list of companies with their cik code and the file can be do
 [1]: https://github.com/rahulrrixe/SEC-Edgar/blob/master/SECEdgar/data.txt
 [2]: https://github.com/rahulrrixe/SEC-Edgar/blob/master/SECEdgar/companylist.txt
 
+## Authors
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rahulrrixe/sec-edgar/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+* **David Goldstein** - [DavidCharlesGoldstein.com](http://www.davidcharlesgoldstein.com/?github-sec-edgar-modified) - [Decipher Technology Studios](http://deciphernow.com/)
 
